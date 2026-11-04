@@ -1,0 +1,5336 @@
+[
+  {
+    "case_id": "MED-001",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 21,
+      "weight_kg": 51,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-002",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 22,
+      "weight_kg": 52,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-003",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 23,
+      "weight_kg": 53,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 18 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-004",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 24,
+      "weight_kg": 54,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-005",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 25,
+      "weight_kg": 55,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-006",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 26,
+      "weight_kg": 56,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-007",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 27,
+      "weight_kg": 57,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-008",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 28,
+      "weight_kg": 58,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-009",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 29,
+      "weight_kg": 59,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 24 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-010",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 30,
+      "weight_kg": 60,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-011",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 31,
+      "weight_kg": 61,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-012",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 32,
+      "weight_kg": 62,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-013",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 33,
+      "weight_kg": 63,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-014",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 34,
+      "weight_kg": 64,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-015",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 35,
+      "weight_kg": 65,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 30 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-016",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 36,
+      "weight_kg": 66,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-017",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 37,
+      "weight_kg": 67,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-018",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 38,
+      "weight_kg": 68,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-019",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 39,
+      "weight_kg": 69,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-020",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 40,
+      "weight_kg": 70,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-021",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 41,
+      "weight_kg": 71,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 16 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-022",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 42,
+      "weight_kg": 72,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-023",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 43,
+      "weight_kg": 73,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-024",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 44,
+      "weight_kg": 74,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-025",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 45,
+      "weight_kg": 75,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-026",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 46,
+      "weight_kg": 76,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-027",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 47,
+      "weight_kg": 77,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 22 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-028",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 48,
+      "weight_kg": 78,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-029",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 49,
+      "weight_kg": 79,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-030",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 50,
+      "weight_kg": 80,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-031",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 51,
+      "weight_kg": 81,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-032",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 52,
+      "weight_kg": 82,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-033",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 53,
+      "weight_kg": 83,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 28 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-034",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 54,
+      "weight_kg": 84,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-035",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 55,
+      "weight_kg": 85,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-036",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 56,
+      "weight_kg": 86,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-037",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 57,
+      "weight_kg": 87,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-038",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 58,
+      "weight_kg": 88,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-039",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 59,
+      "weight_kg": 89,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 34 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-040",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 60,
+      "weight_kg": 90,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-041",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 61,
+      "weight_kg": 91,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-042",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 62,
+      "weight_kg": 92,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-043",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 63,
+      "weight_kg": 93,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-044",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 64,
+      "weight_kg": 94,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-045",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 65,
+      "weight_kg": 95,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 20 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-046",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 66,
+      "weight_kg": 96,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-047",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 67,
+      "weight_kg": 97,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-048",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 68,
+      "weight_kg": 98,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-049",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 69,
+      "weight_kg": 99,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-050",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 70,
+      "weight_kg": 100,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-051",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 71,
+      "weight_kg": 101,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 26 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-052",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 72,
+      "weight_kg": 102,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-053",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 73,
+      "weight_kg": 103,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-054",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 74,
+      "weight_kg": 104,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-055",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 75,
+      "weight_kg": 105,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-056",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 76,
+      "weight_kg": 106,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-057",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 77,
+      "weight_kg": 107,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 32 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-058",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 78,
+      "weight_kg": 108,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-059",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 79,
+      "weight_kg": 109,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-060",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 20,
+      "weight_kg": 110,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-061",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 21,
+      "weight_kg": 111,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-062",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 22,
+      "weight_kg": 112,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-063",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 23,
+      "weight_kg": 113,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 18 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-064",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 24,
+      "weight_kg": 114,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-065",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 25,
+      "weight_kg": 115,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-066",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 26,
+      "weight_kg": 116,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-067",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 27,
+      "weight_kg": 117,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-068",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 28,
+      "weight_kg": 118,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-069",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 29,
+      "weight_kg": 119,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 24 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-070",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 30,
+      "weight_kg": 50,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-071",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 31,
+      "weight_kg": 51,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-072",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 32,
+      "weight_kg": 52,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-073",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 33,
+      "weight_kg": 53,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-074",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 34,
+      "weight_kg": 54,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-075",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 35,
+      "weight_kg": 55,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 30 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-076",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 36,
+      "weight_kg": 56,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-077",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 37,
+      "weight_kg": 57,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-078",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 38,
+      "weight_kg": 58,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-079",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 39,
+      "weight_kg": 59,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-080",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 40,
+      "weight_kg": 60,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-081",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 41,
+      "weight_kg": 61,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 16 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-082",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 42,
+      "weight_kg": 62,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-083",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 43,
+      "weight_kg": 63,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-084",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 44,
+      "weight_kg": 64,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-085",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 45,
+      "weight_kg": 65,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-086",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 46,
+      "weight_kg": 66,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-087",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 47,
+      "weight_kg": 67,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 22 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-088",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 48,
+      "weight_kg": 68,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-089",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 49,
+      "weight_kg": 69,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-090",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 50,
+      "weight_kg": 70,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-091",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 51,
+      "weight_kg": 71,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-092",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 52,
+      "weight_kg": 72,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-093",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 53,
+      "weight_kg": 73,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 28 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-094",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 54,
+      "weight_kg": 74,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-095",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 55,
+      "weight_kg": 75,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-096",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 56,
+      "weight_kg": 76,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-097",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 57,
+      "weight_kg": 77,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-098",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 58,
+      "weight_kg": 78,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-099",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 59,
+      "weight_kg": 79,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 34 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-100",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 60,
+      "weight_kg": 80,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-101",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 61,
+      "weight_kg": 81,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-102",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 62,
+      "weight_kg": 82,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-103",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 63,
+      "weight_kg": 83,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-104",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 64,
+      "weight_kg": 84,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-105",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 65,
+      "weight_kg": 85,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 20 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-106",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 66,
+      "weight_kg": 86,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-107",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 67,
+      "weight_kg": 87,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-108",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 68,
+      "weight_kg": 88,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-109",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 69,
+      "weight_kg": 89,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-110",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 70,
+      "weight_kg": 90,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-111",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 71,
+      "weight_kg": 91,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 26 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-112",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 72,
+      "weight_kg": 92,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-113",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 73,
+      "weight_kg": 93,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-114",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 74,
+      "weight_kg": 94,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-115",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 75,
+      "weight_kg": 95,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-116",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 76,
+      "weight_kg": 96,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-117",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 77,
+      "weight_kg": 97,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 32 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-118",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 78,
+      "weight_kg": 98,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-119",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 79,
+      "weight_kg": 99,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-120",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 20,
+      "weight_kg": 100,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-121",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 21,
+      "weight_kg": 101,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-122",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 22,
+      "weight_kg": 102,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-123",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 23,
+      "weight_kg": 103,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 18 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-124",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 24,
+      "weight_kg": 104,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-125",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 25,
+      "weight_kg": 105,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-126",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 26,
+      "weight_kg": 106,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-127",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 27,
+      "weight_kg": 107,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-128",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 28,
+      "weight_kg": 108,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-129",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 29,
+      "weight_kg": 109,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 24 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-130",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 30,
+      "weight_kg": 110,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-131",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 31,
+      "weight_kg": 111,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-132",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 32,
+      "weight_kg": 112,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-133",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 33,
+      "weight_kg": 113,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-134",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 34,
+      "weight_kg": 114,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-135",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 35,
+      "weight_kg": 115,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 30 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-136",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 36,
+      "weight_kg": 116,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-137",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 37,
+      "weight_kg": 117,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-138",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 38,
+      "weight_kg": 118,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-139",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 39,
+      "weight_kg": 119,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-140",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 40,
+      "weight_kg": 50,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-141",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 41,
+      "weight_kg": 51,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 16 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-142",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 42,
+      "weight_kg": 52,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-143",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 43,
+      "weight_kg": 53,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-144",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 44,
+      "weight_kg": 54,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-145",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 45,
+      "weight_kg": 55,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-146",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 46,
+      "weight_kg": 56,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-147",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 47,
+      "weight_kg": 57,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 22 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-148",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 48,
+      "weight_kg": 58,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-149",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 49,
+      "weight_kg": 59,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-150",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 50,
+      "weight_kg": 60,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-151",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 51,
+      "weight_kg": 61,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-152",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 52,
+      "weight_kg": 62,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-153",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 53,
+      "weight_kg": 63,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 28 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-154",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 54,
+      "weight_kg": 64,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-155",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 55,
+      "weight_kg": 65,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-156",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 56,
+      "weight_kg": 66,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-157",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 57,
+      "weight_kg": 67,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-158",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 58,
+      "weight_kg": 68,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-159",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 59,
+      "weight_kg": 69,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 34 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-160",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 60,
+      "weight_kg": 70,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-161",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 61,
+      "weight_kg": 71,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-162",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 62,
+      "weight_kg": 72,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-163",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 63,
+      "weight_kg": 73,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-164",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 64,
+      "weight_kg": 74,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-165",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 65,
+      "weight_kg": 75,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 20 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-166",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 66,
+      "weight_kg": 76,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-167",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 67,
+      "weight_kg": 77,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-168",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 68,
+      "weight_kg": 78,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-169",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 69,
+      "weight_kg": 79,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-170",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 70,
+      "weight_kg": 80,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-171",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 71,
+      "weight_kg": 81,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 26 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-172",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 72,
+      "weight_kg": 82,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-173",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 73,
+      "weight_kg": 83,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-174",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 74,
+      "weight_kg": 84,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-175",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 75,
+      "weight_kg": 85,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-176",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 76,
+      "weight_kg": 86,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-177",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 77,
+      "weight_kg": 87,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 32 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-178",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 78,
+      "weight_kg": 88,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-179",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 79,
+      "weight_kg": 89,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-180",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 20,
+      "weight_kg": 90,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-181",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 21,
+      "weight_kg": 91,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-182",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 22,
+      "weight_kg": 92,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-183",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 23,
+      "weight_kg": 93,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 18 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-184",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 24,
+      "weight_kg": 94,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-185",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 25,
+      "weight_kg": 95,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-186",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 26,
+      "weight_kg": 96,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-187",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 27,
+      "weight_kg": 97,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-188",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 28,
+      "weight_kg": 98,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-189",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 29,
+      "weight_kg": 99,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 24 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-190",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 30,
+      "weight_kg": 100,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-191",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 31,
+      "weight_kg": 101,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-192",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 32,
+      "weight_kg": 102,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-193",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 33,
+      "weight_kg": 103,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-194",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 34,
+      "weight_kg": 104,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-195",
+    "category": "renal_function_check",
+    "patient": {
+      "age": 35,
+      "weight_kg": 105,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": "eGFR 30 mL/min/1.73m2"
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Spironolactone",
+        "strength": "25 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Spironolactone is contraindicated in severe renal impairment due to high risk of hyperkalemia.",
+    "source": "DailyMed - Spironolactone",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-196",
+    "category": "interaction_warning",
+    "patient": {
+      "age": 36,
+      "weight_kg": 106,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Ibuprofen",
+        "strength": "400 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lisinopril",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "WARNING_IDENTIFIED",
+    "expected_finding": "NSAIDs may decrease the antihypertensive effect of ACE inhibitors and decrease renal function.",
+    "source": "DailyMed - Lisinopril",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-197",
+    "category": "conflicting_ambiguous_data",
+    "patient": {
+      "age": 37,
+      "weight_kg": 107,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Atorvastatin",
+        "strength": "40 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Lipitor",
+        "strength": "20 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "AMBIGUITY_DETECTED",
+    "expected_finding": "Ambiguity/Duplication: Active orders exist for both brand and generic variations.",
+    "source": "System Validation",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-198",
+    "category": "pregnancy_contraindication",
+    "patient": {
+      "age": 38,
+      "weight_kg": 108,
+      "conditions": [
+        "Pregnancy - 1rd Trimester"
+      ],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Methotrexate",
+        "strength": "2.5 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Methotrexate is strictly contraindicated in pregnant women due to extreme embryofetal toxicity and teratogenic risk.",
+    "source": "DailyMed - Methotrexate",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-199",
+    "category": "allergy_contraindication",
+    "patient": {
+      "age": 39,
+      "weight_kg": 109,
+      "conditions": [],
+      "allergies": [
+        "Sulfonamides - severe cutaneous reaction"
+      ],
+      "renal_function": null
+    },
+    "current_medications": [],
+    "prescriptions": [
+      {
+        "name": "Celecoxib",
+        "strength": "200 mg",
+        "route": "oral"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Celecoxib contains a sulfonamide moiety and is contraindicated in patients with sulfonamide allergy.",
+    "source": "DailyMed - Celecoxib",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  },
+  {
+    "case_id": "MED-200",
+    "category": "drug_interaction_contraindication",
+    "patient": {
+      "age": 40,
+      "weight_kg": 110,
+      "conditions": [],
+      "allergies": [],
+      "renal_function": null
+    },
+    "current_medications": [
+      {
+        "name": "Sildenafil",
+        "strength": "50 mg",
+        "route": "oral"
+      }
+    ],
+    "prescriptions": [
+      {
+        "name": "Nitroglycerin",
+        "strength": "0.4 mg",
+        "route": "sublingual"
+      }
+    ],
+    "expected_classification": "CONTRAINDICATION_IDENTIFIED",
+    "expected_finding": "Co-administration causes severe synergistic vasodilation and life-threatening hypotension.",
+    "source": "DailyMed - Nitroglycerin",
+    "source_url": "https://dailymed.nlm.nih.gov/dailymed/"
+  }
+]
