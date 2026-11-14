@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+secrets.local.env
+.env
+*.crt
+*.pem
+
+data/embed_cache.json
+data/session_state.json
+data/market/*.csv
+outputs/

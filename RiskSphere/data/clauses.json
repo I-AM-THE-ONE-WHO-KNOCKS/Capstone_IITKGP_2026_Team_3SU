@@ -1,0 +1,38 @@
+[
+  {
+    "id": "meridian-threshold",
+    "counterparty_id": "meridian",
+    "title": "Meridian threshold",
+    "text": "Meridian Capital sample CSA, paragraph 4. The Threshold for Meridian Capital is USD 1,000,000. Exposure below the Threshold does not require a delivery."
+  },
+  {
+    "id": "meridian-mta",
+    "counterparty_id": "meridian",
+    "title": "Meridian minimum transfer",
+    "text": "Meridian Capital sample CSA, paragraph 5. The Minimum Transfer Amount is USD 250,000. A delivery smaller than the Minimum Transfer Amount is not required."
+  },
+  {
+    "id": "apex-threshold",
+    "counterparty_id": "apex",
+    "title": "Apex threshold",
+    "text": "Apex Financial sample CSA, paragraph 4. The Threshold for Apex Financial is USD 500,000. The Minimum Transfer Amount is USD 100,000."
+  },
+  {
+    "id": "apex-eligible",
+    "counterparty_id": "apex",
+    "title": "Apex eligible collateral",
+    "text": "Apex Financial sample CSA, eligible collateral. USD cash and corporate bonds may be posted. Corporate bonds take the haircut from our stage 1 schedule before they count as coverage."
+  },
+  {
+    "id": "harbor-threshold",
+    "counterparty_id": "harbor",
+    "title": "Harbor Lane threshold",
+    "text": "Harbor Lane sample CSA, paragraph 4. The Threshold is USD 0. The Minimum Transfer Amount is USD 50,000. Any positive net exposure above the Minimum Transfer Amount is called."
+  },
+  {
+    "id": "haircut-note",
+    "counterparty_id": "",
+    "title": "Stage 1 haircut note",
+    "text": "Stage 1 haircut schedule used by the calculator, not the full BCBS table. Cash haircut is 0 percent. Government bond haircut is 1 percent. Corporate bond haircut is 8 percent. Equity haircut is 15 percent."
+  }
+]

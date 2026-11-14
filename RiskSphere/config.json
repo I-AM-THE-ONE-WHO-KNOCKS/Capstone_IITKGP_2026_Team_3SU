@@ -1,0 +1,50 @@
+{
+  "language": "English only. Use ASCII letters. Do not use Chinese, Japanese, or Korean characters.",
+  "log_level": "debug",
+  "embed_model": "bge-small-en-v1.5",
+  "embed_batch_size": 16,
+  "temperature": 0,
+  "plan_max_tokens": 400,
+  "compose_max_tokens": 400,
+  "critic_retries": 1,
+  "request_timeout_seconds": 90,
+  "retry_waits_seconds": [
+    2,
+    4,
+    8
+  ],
+  "no_think": true,
+  "max_steps": 4,
+  "asset_classes": [
+    "cash",
+    "government",
+    "corporate",
+    "equity_main_index",
+    "equity_other",
+    "gold"
+  ],
+  "maturity_buckets": [
+    "<=1y",
+    "1-5y",
+    ">5y"
+  ],
+  "rating_buckets": [
+    "AAA-AA-",
+    "A+-BBB-"
+  ],
+  "plan_prompt": "You are the planner for RiskSphere, a counterparty risk desk. Stages 1 and 2.\nReply with one JSON object and no other text.\nWrite reason and refusal_reason in English only. Do not use Chinese characters.\nDo not compute any number.\n{\"intent\":\"exposure\",\"refuse\":false,\"refusal_reason\":\"\",\"reason\":\"why these steps fit this question\",\"steps\":[{\"tool\":\"current_exposure\",\"args\":{\"counterparty\":\"meridian\"}}]}\nrefuse is true only when the user wants something sent, approved, booked, or a limit changed.\nsteps has at most 4 objects. tool is one of: current_exposure, calculate_margin_call, get_market_data, regulatory_haircut, check_pfe_limit.\ncurrent_exposure(counterparty): today's mark against the stored limit. This is not potential future exposure.\ncheck_pfe_limit(counterparty): simulated potential future exposure against the stored limit. Use this when the question says PFE, future exposure, or potential future. Do not also call current_exposure unless the question also asks about today.\ncalculate_margin_call(counterparty): threshold, minimum transfer amount, haircut, delivery or return.\nget_market_data(ticker): Yahoo spot and one-year volatility. ticker examples: SPY, SHY, LQD, EURUSD=X.\nregulatory_haircut(asset_class, maturity_bucket, rating_bucket): the d499 haircut table. asset_class is one of {asset_classes}. maturity_bucket is one of {maturity_buckets}. rating_bucket is one of {rating_buckets}.\nNames: {names}. counterparty is the id. If the user says it or its, use {last_counterparty}.\nThere is no document search in this stage. A question about the wording of a CSA still uses calculate_margin_call, which reads the stored terms.\nQuestion: {question}",
+  "compose_prompt": "Write three or four short sentences for a risk analyst.\nWrite in English only. Do not use Chinese characters.\nUse only figures, statuses, and tickers that appear in the tool result. Do not recompute.\nIf status is BREACH, do not say the name is within its limit.\nIf the tool result has action NO_ACTION, say there is no margin call. If it has no action field, do not mention a margin call.\nIf delivery_amount_usd or return_amount_usd is above zero, say a person still has to review this before any collateral moves. If those fields are absent, do not say that.\nDo not mention files or fields that are absent. If the tool is check_pfe_limit, call the peak a simulated potential future exposure and quote peak_pfe_collateralized_usd and status. Say it is not today's exposure. If the tool is current_exposure, do not call that figure potential future exposure.\nQuestion: {question}\nTool result:\n{tool_result}",
+  "refusals": {
+    "action": "RiskSphere does not issue, approve, release, or book anything. It can calculate the figure. A person moves the collateral somewhere else.",
+    "legal": "RiskSphere does not give legal advice. It can read the stored terms and, in a later stage, cite a filing.",
+    "pii": "RiskSphere does not look up personal data. It answers at counterparty level.",
+    "injection": "RiskSphere does not drop its checks or reveal the key. Ask about exposure, margin, a haircut, or a price.",
+    "scope": "That is outside RiskSphere. Ask about exposure, a margin call, a haircut, or a Yahoo price for Meridian, Apex, or Harbor Lane."
+  },
+  "pfe_validate_paths": 8000,
+  "pfe_paths": 2000,
+  "pfe_max_steps": 126,
+  "pfe_quantile": 0.95,
+  "pfe_seed": 7,
+  "mpor_days": 10
+}

@@ -1,0 +1,6 @@
+trade_id,counterparty_id,symbol,quantity,entry_price,currency,maturity
+T1,meridian,SPY,40000,700,USD,2027-06-18
+T2,meridian,EURUSD=X,-5000000,1.18,USD,2026-12-15
+T3,apex,LQD,80000,90,USD,2028-03-01
+T4,apex,SHY,100000,78,USD,2027-01-20
+T5,harbor,SPY,8000,600,USD,2027-09-30

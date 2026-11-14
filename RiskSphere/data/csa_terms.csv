@@ -1,0 +1,4 @@
+counterparty_id,threshold,mta,rounding,independent_amount,base_currency
+meridian,1000000,250000,10000,0,USD
+apex,500000,100000,10000,0,USD
+harbor,0,50000,10000,0,USD
