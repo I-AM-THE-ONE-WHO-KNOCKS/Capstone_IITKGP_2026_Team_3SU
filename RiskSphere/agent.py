@@ -30,21 +30,44 @@ _CJK = re.compile(r"[\u3400-\u9fff\u3000-\u303f\uff00-\uffef]+")
 
 INJECTION_RE = re.compile(
     r"(ignore (all |any |your |the |previous |prior |above )+.{0,25}(instructions|rules|polic\w+|limits?)"
-    r"|disregard (the |all )?(system|previous|prior)|you are now|new instructions\s*:|system\s*:\s*|"
+    r"|disregard (the |all |your |any )?(system|previous|prior|instructions|rules|guardrails?|checks?)"
+    r"|forget (everything|all|your|the|previous|prior|what)\b.{0,30}(told|instructions|rules|said|above|before)?"
+    r"|(bypass|circumvent|get around|skip|disable|turn off|switch off) (all |any |the |your )*(guardrails?|safeguards?|checks?|filters?|rules|safety|restrictions)"
+    r"|(throw away|drop|discard|set aside) (all |any |the |your |my )*(earlier |previous |prior )*(instructions|rules|guardrails?)"
+    r"|pretend .{0,30}(checks?|rules|guardrails?|filters?) (are|were|do not|don't|is)"
+    r"|(act|behave|respond) as (an? )?(unrestricted|unfiltered|jailbroken)|without (any )?(restrictions|guardrails?|rules)"
+    r"|you are now|new instructions\s*:|system\s*:\s*|"
     r"override .{0,30}(limit|rule|policy)|(print|show|reveal|repeat) .{0,25}(system prompt|api key|secret))",
     re.I,
 )
+_ACTION_VERBS = (
+    r"issue|send|execute|approve|authori[sz]e|release|book|settle|waive|override|increase|change|raise|lift|"
+    r"pay|transfer|wire|initiate|submit|sign off on"
+)
 ACTION_RE = re.compile(
-    r"\b(issue|send|execute|approve|release|book|settle|waive|override|increase|change|raise|pay|transfer)\b.{0,40}"
-    r"\b(margin call|the call|limit|trade|collateral|breach)\b",
+    r"\b(" + _ACTION_VERBS + r")\b.{0,40}"
+    r"\b(margin( call| transfer)?|the call|limit|trade|collateral|breach|delivery( amount)?|return( amount)?|"
+    r"payment|transfer|funds)\b"
+    r"|\b(send|issue|release|wire|execute|approve|authori[sz]e)\s+(it|them|this|that)\b",
     re.I,
 )
-LEGAL_RE = re.compile(r"(legal advice|legally|\bsue\b|terminate the isda)", re.I)
-PII_REQ_RE = re.compile(r"\b(ssn|social security|passport|home address|personal phone)\b", re.I)
+LEGAL_RE = re.compile(
+    r"(legal (advice|opinion|counsel)|legally|\bsue\b|lawsuit|litigat\w+|\blawyer\b|\battorney\b|\bcourt\b|"
+    r"enforceab\w+|terminate the (isda|csa|agreement|contract)|terminat\w+ .{0,25}(isda|csa|agreement))",
+    re.I,
+)
+PII_REQ_RE = re.compile(r"\b(ssn|social security|passport|home address|personal phone|personal mobile)\b", re.I)
 DOMAIN_RE = re.compile(
     r"(pfe|exposure|margin|collateral|csa|isda|haircut|limit|counterpart|threshold|mta|"
-    r"minimum transfer|mtm|credit support|volatil|\bvol\b|price|spot|breach|yahoo|"
+    r"minimum transfer|mtm|credit support|volatil|\bvol\b|price|spot|breach|yahoo|quote|trading|ticker|"
+    r"\bbonds?\b|equit(y|ies)|\bgold\b|discount|"
     r"eligible|independent amount|\bits\b|\bit\b)",
+    re.I,
+)
+# A desk word does not make a question about something else in scope.
+OFFTOPIC_RE = re.compile(
+    r"\b(joke|poem|song|lyrics|recipe|weather|cricket|football|movie|horoscope|"
+    r"write (me )?an? (python|java|story|essay|script|poem))\b",
     re.I,
 )
 
@@ -116,17 +139,20 @@ def llm_enabled():
 
 
 def load_state():
-    """Return the remembered counterparty for this process.
+    """Return the remembered counterparty and any pending tool for this process.
 
-    The only field used today is last_counterparty. A missing or broken
-    file returns an empty name, so the first question still runs.
+    A missing or broken file returns default empty values.
     """
+    default = {"last_counterparty": "", "pending_tool": None}
     if not STATE_PATH.exists():
-        return {"last_counterparty": ""}
+        return default
     try:
-        return json.loads(STATE_PATH.read_text())
+        data = json.loads(STATE_PATH.read_text())
+        if isinstance(data, dict):
+            default.update(data)
+        return default
     except json.JSONDecodeError:
-        return {"last_counterparty": ""}
+        return default
 
 
 def save_state(state):
@@ -287,16 +313,16 @@ def _finish_guards(checks):
     return {"stop": stop, "checks": checks}
 
 
-def prefilter(question):
+def prefilter(question, state=None):
     """Run the guardrails in order. The first failure stops the rest.
 
     Order: kill switch (PFE_KILL_SWITCH=1), prompt injection, personal data,
     an instruction to send or book, legal advice, then scope. Scope passes
-    when the text names a counterparty or contains a desk word such as
-    exposure, margin, haircut, or price.
+    when the text names a counterparty, contains a desk word, answers a
+    pending clarification, or semantically matches a tool exemplar.
 
     question is the raw analyst text. Returns the dict from _finish_guards.
-    Does not call the model and does not read Yahoo.
+    Does not call the chat model and does not read Yahoo.
     """
     checks = []
     if os.environ.get("PFE_KILL_SWITCH") == "1":
@@ -365,7 +391,14 @@ def prefilter(question):
     ))
 
     named = books.find_party(books.names_only(), question)
-    if DOMAIN_RE.search(question) or named:
+    if OFFTOPIC_RE.search(question) and not named:
+        checks.append(_guard(
+            "scope",
+            "The question asks for something that is not about the book (a joke, a poem, the weather, code). A desk word in it does not change that.",
+            False,
+        ))
+        return _finish_guards(checks)
+    if DOMAIN_RE.search(question) or named or _TICKER_RE.search(question):
         found = f"Named counterparty: {named}." if named else "A desk word such as exposure, margin, haircut, limit, or price is in the question."
         checks.append(_guard(
             "scope",
@@ -373,53 +406,108 @@ def prefilter(question):
             True,
         ))
         return _finish_guards(checks)
+    if state and state.get("pending_tool"):
+        checks.append(_guard(
+            "scope",
+            "Answering a pending clarification for a RiskSphere tool.",
+            True,
+        ))
+        return _finish_guards(checks)
+    import search
+    sem_hits = search.match_intents(question, threshold=float(load_config().get("scope_threshold", 0.62)))
+    if sem_hits:
+        top = sem_hits[0]
+        checks.append(_guard(
+            "scope",
+            f"Semantic match to RiskSphere intent '{top['intent']}' (score {top['score']}, mode {top['mode']}).",
+            True,
+        ))
+        return _finish_guards(checks)
     checks.append(_guard(
         "scope",
-        "Looked for a desk word or one of Meridian, Apex, or Harbor Lane. None of those are in the question, so it is out of scope.",
+        "Looked for a desk word, a counterparty, or a semantic tool match. None matched, so it is out of scope.",
         False,
     ))
     return _finish_guards(checks)
 
 
+_TOOL_TO_INTENT = {
+    "current_exposure": "current_exposure",
+    "check_pfe_limit": "future_exposure",
+    "calculate_margin_call": "margin_call",
+    "get_market_data": "market_data",
+    "regulatory_haircut": "regulatory_haircut",
+}
+_INTENT_TO_TOOL = {v: k for k, v in _TOOL_TO_INTENT.items()}
+_REQUIRED_ARG = {
+    "current_exposure": "counterparty",
+    "check_pfe_limit": "counterparty",
+    "calculate_margin_call": "counterparty",
+    "get_market_data": "ticker",
+    "regulatory_haircut": "asset_class",
+}
+_TICKER_RE = re.compile(r"\b(SPY|SHY|LQD|EURUSD=X|QQQ|GLD|TLT)\b", re.I)
+
+
+def _stated_buckets(question):
+    """Maturity and rating buckets the question states in words. Only stated ones are returned."""
+    lowered = question.lower()
+    out = {}
+    if re.search(r"over 5|more than 5|>\s*5|beyond 5|after 5|long.dated|over five|more than five", lowered):
+        out["maturity_bucket"] = ">5y"
+    if re.search(r"under (a |one |1)|less than (a |one |1)|<=\s*1|within (a |one |1)|up to (a |one |1)|short.dated|(a|one) year or less", lowered):
+        out["maturity_bucket"] = "<=1y"
+    if re.search(r"1 to 5|one to five|1-5|between 1 and 5", lowered):
+        out["maturity_bucket"] = "1-5y"
+    if re.search(r"a\+|bbb|\ba to b|\ba-rated", lowered):
+        out["rating_bucket"] = "A+-BBB-"
+    elif re.search(r"aaa|\baa\b", lowered):
+        out["rating_bucket"] = "AAA-AA-"
+    return out
+
+
+def _extract_haircut_args(question):
+    """Extract haircut asset_class, maturity_bucket, and rating_bucket from text."""
+    lowered = question.lower()
+    asset = ""
+    if re.search(r"equit(y|ies)|shares|stocks?", lowered):
+        other = re.search(r"\bother\b|non-?index|not in (a |the )?(main )?index|outside (the |a )?(main )?index", lowered)
+        asset = "equity_other" if other else "equity_main_index"
+    else:
+        for name in ("gold", "corporate", "government", "cash"):
+            if name in lowered:
+                asset = name
+                break
+    args = {"asset_class": asset, "maturity_bucket": "1-5y", "rating_bucket": "AAA-AA-"}
+    args.update(_stated_buckets(question))
+    return args
+
+
 def _normalize_step(step, cfg):
     """Turn one planned step into a tool name plus clean arguments.
 
-    Exposure, margin, and future-exposure steps keep only a known
-    counterparty id. Market data keeps an upper-case ticker. A haircut
-    step must use an asset class from settings; a bad maturity or rating
-    falls back to 1-5y and AAA-AA-.
-
-    Raises ValueError for an unknown tool, a missing name, or a bad shape.
-    Future exposure is a counterparty tool, not a haircut lookup.
+    Missing required arguments (counterparty, ticker, or asset_class) are
+    kept as "" so _fill_last or check_missing_args can resolve or clarify them.
+    Raises ValueError for an unknown tool, invalid asset_class, or bad shape.
     """
     if not isinstance(step, dict):
         raise ValueError("a step must be an object")
     tool = str(step.get("tool", "")).strip()
-    allowed = {
-        "current_exposure",
-        "calculate_margin_call",
-        "get_market_data",
-        "regulatory_haircut",
-        "check_pfe_limit",
-    }
-    if tool not in allowed:
+    if tool not in _TOOL_TO_INTENT:
         raise ValueError(f"unknown tool {tool}")
     args = step.get("args") or {}
     if not isinstance(args, dict):
         raise ValueError("args must be an object")
     if tool in ("current_exposure", "calculate_margin_call", "check_pfe_limit"):
-        cid = books.find_party(books.names_only(), str(args.get("counterparty", "")))
-        if not cid:
-            raise ValueError(f"{tool} needs a counterparty")
+        raw_cid = str(args.get("counterparty", "")).strip()
+        cid = books.find_party(books.names_only(), raw_cid) if raw_cid else ""
         args = {"counterparty": cid}
     elif tool == "get_market_data":
         ticker = str(args.get("ticker", "")).strip().upper()
-        if not ticker:
-            raise ValueError("get_market_data needs a ticker")
         args = {"ticker": ticker}
     else:
         asset = str(args.get("asset_class", "")).strip()
-        if asset not in cfg["asset_classes"]:
+        if asset and asset not in cfg["asset_classes"]:
             raise ValueError(f"asset_class must be one of {cfg['asset_classes']}")
         maturity = str(args.get("maturity_bucket") or "1-5y")
         rating = str(args.get("rating_bucket") or "AAA-AA-")
@@ -431,13 +519,23 @@ def _normalize_step(step, cfg):
     return {"tool": tool, "args": args}
 
 
+def _normalize_intents(raw_intent):
+    """Normalize plan intent into a list of clean lowercase strings."""
+    if isinstance(raw_intent, list):
+        items = [english_only(str(x)).lower() for x in raw_intent if str(x).strip()]
+    elif raw_intent:
+        items = [english_only(str(raw_intent)).lower()]
+    else:
+        items = []
+    return [x for x in items if x] or ["unspecified"]
+
+
 def validate_plan(plan, cfg):
     """Accept a planner object or raise ValueError.
 
     Requires a steps list of at most max_steps (default 4). Strips non-English
     characters from the reason fields. A refuse flag clears the steps.
-    An empty step list on a non-refusal is an error. Each step is passed
-    through _normalize_step. Returns the same dict, mutated.
+    When intent names canonical intents, verifies they match the tools in steps.
     """
     if not isinstance(plan, dict) or not isinstance(plan.get("steps"), list):
         raise ValueError("plan must be an object with a steps list")
@@ -446,47 +544,138 @@ def validate_plan(plan, cfg):
     plan["refuse"] = bool(plan.get("refuse"))
     plan["refusal_reason"] = english_only(str(plan.get("refusal_reason") or ""))
     plan["reason"] = english_only(str(plan.get("reason") or ""))
-    plan["intent"] = english_only(str(plan.get("intent") or "")) or "unspecified"
+    intents = _normalize_intents(plan.get("intent"))
+    plan["intent"] = intents
     if plan["refuse"]:
         plan["steps"] = []
         return plan
     if not plan["steps"]:
         raise ValueError("plan has no steps")
     plan["steps"] = [_normalize_step(step, cfg) for step in plan["steps"]]
+    canonical = [name for name in intents if name in _INTENT_TO_TOOL]
+    if canonical and len(canonical) == len(intents):
+        expected_tools = {_INTENT_TO_TOOL[name] for name in canonical}
+        actual_tools = {step["tool"] for step in plan["steps"]}
+        if expected_tools != actual_tools:
+            raise ValueError(f"intent {intents} does not match tools {sorted(actual_tools)}")
     return plan
 
 
-def _fill_last(question, plan, state):
-    """Fill a blank counterparty from the question, then from the session.
+def check_missing_args(plan, cfg):
+    """If any planned step is missing its required arg, return a clarification plan."""
+    if plan.get("refuse"):
+        return plan
+    clarifications = cfg.get("clarifications") or {}
+    for step in plan.get("steps") or []:
+        tool = step["tool"]
+        req = _REQUIRED_ARG.get(tool)
+        if req and not step["args"].get(req):
+            msg = clarifications.get(req) or f"Please specify {req} for {tool}."
+            return {
+                "intent": [_TOOL_TO_INTENT[tool]],
+                "refuse": False,
+                "refusal_reason": "",
+                "reason": f"need {req} before running {tool}",
+                "steps": [],
+                "needs_clarification": True,
+                "missing_arg": req,
+                "pending_tool": {"tool": tool, "missing_arg": req, "args": step["args"]},
+                "clarification_message": msg,
+                "router": plan.get("router", "rules"),
+            }
+    return plan
 
-    Used after the model returns a plan. A step that already names someone
-    is left alone. A name in the question wins over the remembered name.
-    Returns the plan.
-    """
+
+def resolve_pending(question, state):
+    """If session state has a pending_tool, try to fill its missing arg from question."""
+    pending = state.get("pending_tool")
+    if not isinstance(pending, dict) or not pending.get("tool"):
+        return None
+    cfg = load_config()
+    tool = pending["tool"]
+    req = pending.get("missing_arg") or _REQUIRED_ARG.get(tool)
+    args = dict(pending.get("args") or {})
+    if req == "counterparty":
+        cid = books.find_party(books.names_only(), question)
+        if not cid:
+            return None
+        args["counterparty"] = cid
+    elif req == "ticker":
+        m = _TICKER_RE.search(question)
+        if not m:
+            return None
+        args["ticker"] = m.group(1).upper()
+    elif req == "asset_class":
+        extracted = _extract_haircut_args(question)
+        if not extracted["asset_class"]:
+            return None
+        args.update(extracted)
+    else:
+        return None
+    plan = {
+        "intent": [_TOOL_TO_INTENT[tool]],
+        "refuse": False,
+        "refusal_reason": "",
+        "reason": f"resolved missing {req} from follow-up",
+        "steps": [{"tool": tool, "args": args}],
+        "router": "clarification_followup",
+    }
+    return validate_plan(plan, cfg)
+
+
+def _fill_last(question, plan, state):
+    """Fill a blank counterparty from the question, then from the session."""
     last = state.get("last_counterparty") or ""
     named = books.find_party(books.names_only(), question)
+    follow = bool(re.search(r"\b(it|its|their|them)\b", question.lower()))
     for step in plan.get("steps") or []:
         if "counterparty" not in step["args"]:
             continue
         if step["args"]["counterparty"]:
             continue
-        step["args"]["counterparty"] = named or last
+        step["args"]["counterparty"] = named or (last if follow else "")
+    return plan
+
+
+def _mentioned(cid, question):
+    """True when counterparty id cid is named in the question (id, full name, or first word)."""
+    lowered = question.lower()
+    for row in books.names_only():
+        if row["counterparty_id"] == cid:
+            first = row["name"].split()[0].lower()
+            return cid in lowered or row["name"].lower() in lowered or first in lowered
+    return False
+
+
+def ground_args(question, plan, state):
+    """Blank any counterparty or ticker the model supplied that the question does not support.
+
+    A counterparty is kept only when the question names it, or when the question says
+    it/its/their/them and the session remembers that name. A ticker is kept only when
+    the symbol appears in the question. Blank values become a clarification request
+    through check_missing_args. The model's "do not guess" instruction is not enough on
+    its own, so Python enforces it.
+    """
+    last = state.get("last_counterparty") or ""
+    follow = bool(re.search(r"\b(it|its|their|them)\b", question.lower()))
+    for step in plan.get("steps") or []:
+        args = step["args"]
+        cid = args.get("counterparty")
+        if cid and not (_mentioned(cid, question) or (follow and cid == last)):
+            args["counterparty"] = ""
+        ticker = args.get("ticker")
+        if ticker and ticker.lower() not in question.lower():
+            args["ticker"] = ""
+        if step["tool"] == "regulatory_haircut":
+            args.update(_stated_buckets(question))  # buckets stated in words win over the model's guess
     return plan
 
 
 def heuristic_plan(question, state):
-    """Choose tools from keywords when the model is off or the gateway failed.
+    """Choose tools from keywords or semantic exemplars when the model is off.
 
-    A haircut question with no counterparty name becomes a table lookup.
-    "Over 5 years" maps to the >5y bucket. A named ticker plus price, spot,
-    vol, or yahoo adds a market-data step. "PFE" or "future exposure" adds
-    the future-exposure check and does not also add today's exposure.
-    "Limit" on its own still means today's exposure. The remembered name is
-    used only when the question says it, its, their, or them.
-
-    question is the analyst text. state holds last_counterparty.
-    Returns a plan dict with router "rules". If nothing matches, refuse is
-    true and no tool runs. Does not call the model.
+    If a tool matches but its required argument (counterparty, ticker, or
+    asset_class) is missing, returns a clarification request instead of guessing.
     """
     cfg = load_config()
     lowered = question.lower()
@@ -494,61 +683,68 @@ def heuristic_plan(question, state):
     follow = bool(re.search(r"\b(it|its|their|them)\b", lowered))
     cid = named or (state.get("last_counterparty") if follow else "") or ""
     steps = []
-    if "haircut" in lowered and not named:
-        asset = "cash"
-        for name in ("gold", "equity", "corporate", "government"):
-            if name in lowered:
-                asset = "equity_main_index" if name == "equity" else name
-                break
-        maturity = ">5y" if re.search(r"over 5|more than 5|>\s*5", lowered) else "1-5y"
-        if re.search(r"under 1|less than 1|<=\s*1", lowered):
-            maturity = "<=1y"
-        rating = "A+-BBB-" if re.search(r"a\+|bbb", lowered) else "AAA-AA-"
-        steps.append({
-            "tool": "regulatory_haircut",
-            "args": {"asset_class": asset, "maturity_bucket": maturity, "rating_bucket": rating},
-        })
-    ticker = re.search(r"\b(SPY|SHY|LQD|EURUSD=X|QQQ|GLD|TLT)\b", question, re.I)
-    if ticker and re.search(r"price|spot|vol|yahoo", lowered):
-        steps.append({"tool": "get_market_data", "args": {"ticker": ticker.group(1).upper()}})
-    wants_margin = bool(re.search(r"margin|call|threshold|mta|delivery|collateral requirement", lowered))
-    wants_pfe = bool(re.search(r"\bpfe\b|future exposure|potential future", lowered))
-    wants_exposure = bool(re.search(r"exposure|limit|breach|headroom|mark", lowered)) and not wants_pfe
-    if cid and wants_pfe:
+    if re.search(r"haircut|discount|knocked off|percentage (is )?(taken )?off", lowered) and not named:
+        steps.append({"tool": "regulatory_haircut", "args": _extract_haircut_args(question)})
+    ticker = _TICKER_RE.search(question)
+    if (ticker and re.search(r"price|spot|vol|yahoo|quote|trading|close|rate|choppy|moved?", lowered)) or (
+        re.search(r"\b(price|spot|volatility|yahoo|quote)\b", lowered) and not named
+    ):
+        steps.append({"tool": "get_market_data", "args": {"ticker": ticker.group(1).upper() if ticker else ""}})
+    wants_margin = bool(re.search(
+        r"margin|\bcall\b(?! with)|threshold|mta|minimum transfer|delivery|deliver|collateral requirement|credit support|"
+        r"(more|additional|extra) collateral|ask .{0,25}collateral|"
+        r"\bcsa\b|\bowe\b|\bowed\b|top-?up|collateral (back|due|required|to post)|return of collateral|"
+        r"(post|posted|post)\b.{0,20}collateral|\bhaircut\b", lowered)) if (named or cid) else bool(
+        re.search(r"margin|\bcall\b(?! with)|threshold|mta|minimum transfer|delivery|credit support|collateral requirement", lowered))
+    wants_pfe = bool(re.search(
+        r"\bpfe\b|future exposure|potential future|forward.looking|simulat\w+|peak (exposure|pfe)|"
+        r"could .{0,20}(peak|get to)|over the (life|next|coming)|percentile", lowered))
+    asks_today = bool(re.search(r"\btoday|current(ly)?|right now|mark.to.market|where are we", lowered))
+    wants_exposure = bool(re.search(r"exposure|limit|breach|headroom|mark", lowered)) and (not wants_pfe or asks_today)
+    if wants_pfe:
         steps.append({"tool": "check_pfe_limit", "args": {"counterparty": cid}})
-    if cid and wants_margin:
+    if wants_margin:
         steps.append({"tool": "calculate_margin_call", "args": {"counterparty": cid}})
-    if cid and wants_exposure and not any(step["tool"] == "current_exposure" for step in steps):
+    if wants_exposure and not any(step["tool"] == "current_exposure" for step in steps):
         steps.append({"tool": "current_exposure", "args": {"counterparty": cid}})
     if cid and not steps:
         steps.append({"tool": "current_exposure", "args": {"counterparty": cid}})
-    if not steps and cid:
-        steps.append({"tool": "calculate_margin_call", "args": {"counterparty": cid}})
+
+    reason = "keyword plan, model was not called"
+    if not steps:
+        import search
+        sem_hits = search.match_intents(question)
+        if sem_hits:
+            top = sem_hits[0]
+            tool = top["tool"]
+            if tool == "regulatory_haircut":
+                args = _extract_haircut_args(question)
+            elif tool == "get_market_data":
+                args = {"ticker": ticker.group(1).upper() if ticker else ""}
+            else:
+                args = {"counterparty": cid}
+            steps.append({"tool": tool, "args": args})
+            reason = f"semantic match to '{top['intent']}' (score {top['score']}, mode {top['mode']})"
+
+    intents = [_TOOL_TO_INTENT[s["tool"]] for s in steps] if steps else ["refusal"]
     plan = {
-        "intent": "heuristic",
+        "intent": intents,
         "refuse": False,
         "refusal_reason": "",
-        "reason": "keyword plan, model was not called",
+        "reason": reason,
         "steps": steps,
         "router": "rules",
     }
     if not steps:
         plan["refuse"] = True
         plan["refusal_reason"] = "no tool matched"
-    return validate_plan(plan, cfg) if steps else plan
+        return plan
+    validated = validate_plan(plan, cfg)
+    return check_missing_args(validated, cfg)
 
 
 def plan_with_model(question, state):
-    """Ask Qwen for one JSON plan and validate it.
-
-    The prompt lists the book names, the last counterparty, and the allowed
-    haircut buckets. The call is serialized with the wording call so the
-    gateway never sees two active requests. router is set to "qwen3-8b".
-    The filled prompt is kept on the plan for the debug log and is stripped
-    before the trace line is written.
-
-    Raises if the reply has no JSON object or the plan fails validate_plan.
-    """
+    """Ask Qwen for one JSON plan, validate it, and check required arguments."""
     cfg = load_config()
     names = ", ".join(
         f"{row['name']} = {row['counterparty_id']}" for row in books.names_only()
@@ -562,13 +758,15 @@ def plan_with_model(question, state):
         maturity_buckets=", ".join(cfg["maturity_buckets"]),
         rating_buckets=", ".join(cfg["rating_buckets"]),
     )
+    log.debug("planner prompt " + prompt)
     with _LOCK:
         raw = chat(prompt, max_tokens=cfg["plan_max_tokens"])
     plan = validate_plan(_json_object(raw), cfg)
     plan = _fill_last(question, plan, state)
+    plan = ground_args(question, plan, state)
     plan["router"] = "qwen3-8b"
     plan["prompt"] = prompt
-    return plan
+    return check_missing_args(plan, cfg)
 
 
 def compose(question, tool_result, issues=None):

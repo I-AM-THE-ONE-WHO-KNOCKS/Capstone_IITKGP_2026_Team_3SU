@@ -11,6 +11,7 @@ the stored terms, and the planner does not call search() yet.
 import json
 import math
 import os
+import re
 import ssl
 import time
 import urllib.error
@@ -22,6 +23,7 @@ import log
 from books import clause_rows
 
 CACHE = Path(__file__).resolve().parent / "data" / "embed_cache.json"
+INTENTS_PATH = Path(__file__).resolve().parent / "data" / "intents.json"
 BATCH = 16
 
 
@@ -210,3 +212,106 @@ def search(question, counterparty_id="", top=2):
             "score": round(score, 4),
         })
     return {"mode": mode, "model": _model() if mode != "keyword" else "", "hits": hits}
+
+
+def load_intents():
+    """Read the canonical intent/tool catalog from data/intents.json."""
+    if not INTENTS_PATH.exists():
+        return []
+    try:
+        return json.loads(INTENTS_PATH.read_text())
+    except (OSError, json.JSONDecodeError):
+        return []
+
+
+def match_intents(question, threshold=None, top=None):
+    """Match a question semantically against tool exemplars in data/intents.json.
+
+    Uses hosted embeddings (bge-small-en-v1.5) when EMBED_API_KEY and
+    EMBED_BASE_URL are set, caching exemplar vectors in embed_cache.json.
+    Falls back to word overlap when the embedding service is not configured
+    or fails. Returns a list of dicts sorted by score descending:
+    [{"intent", "tool", "required_args", "score", "mode"}, ...].
+    """
+    agent.load_secrets()
+    cfg = agent.load_config()
+    intents = load_intents()
+    if not intents:
+        return []
+    if threshold is None:
+        threshold = float(cfg.get("semantic_threshold", 0.55))
+    if top is None:
+        top = int(cfg.get("semantic_top_k", 3))
+
+    items = []
+    for row in intents:
+        for idx, example in enumerate(row.get("examples") or []):
+            items.append({
+                "key_id": f"intent::{row['intent']}::{idx}",
+                "intent": row["intent"],
+                "tool": row["tool"],
+                "required_args": row.get("required_args") or [],
+                "text": example,
+            })
+    if not items:
+        return []
+
+    mode = "keyword"
+    vectors = None
+    query_vec = None
+    embed_ready = bool(os.environ.get("EMBED_API_KEY", "").strip() and os.environ.get("EMBED_BASE_URL", "").strip())
+    if embed_ready:
+        try:
+            cache = _load_cache()
+            model = _model()
+            missing = []
+            missing_at = []
+            vectors = [None] * len(items)
+            for i, item in enumerate(items):
+                key = f"{model}::{item['key_id']}::{item['text']}"
+                if key in cache:
+                    vectors[i] = cache[key]
+                else:
+                    missing.append(item["text"])
+                    missing_at.append(i)
+            if missing:
+                fresh = _embed_many(missing)
+                for i, vec in zip(missing_at, fresh):
+                    item = items[i]
+                    cache[f"{model}::{item['key_id']}::{item['text']}"] = vec
+                    vectors[i] = vec
+                _save_cache(cache)
+            query_vec = _embed_many([question])[0]
+            mode = model
+        except (urllib.error.URLError, TimeoutError, RuntimeError, KeyError, OSError, ValueError) as exc:
+            log.error(f"intent match fell back to word overlap: {exc}")
+            vectors = None
+
+    best_by_tool = {}
+    oos_best = 0.0
+    stopwords = {"what", "the", "are", "for", "and", "with", "from", "that", "this", "have", "does", "today", "how", "much", "give", "show", "need"}
+    q_words = {w for w in re.findall(r"[a-z0-9]+", question.lower()) if len(w) > 2 and w not in stopwords}
+    eff_threshold = threshold if mode != "keyword" else 0.45
+    for i, item in enumerate(items):
+        if vectors is not None and query_vec is not None:
+            score = _cosine(query_vec, vectors[i])
+        else:
+            t_words = {w for w in re.findall(r"[a-z0-9]+", item["text"].lower()) if len(w) > 2 and w not in stopwords}
+            score = (len(q_words & t_words) / len(q_words)) if q_words else 0.0
+        tool = item["tool"]
+        if not tool:
+            oos_best = max(oos_best, score)
+            continue
+        prev = best_by_tool.get(tool)
+        if prev is None or score > prev["score"]:
+            best_by_tool[tool] = {
+                "intent": item["intent"],
+                "tool": tool,
+                "required_args": item["required_args"],
+                "score": round(score, 4),
+                "mode": mode,
+            }
+
+    ranked = [row for row in best_by_tool.values() if row["score"] >= eff_threshold and row["score"] > oos_best]
+    ranked.sort(key=lambda row: row["score"], reverse=True)
+    return ranked[:top]

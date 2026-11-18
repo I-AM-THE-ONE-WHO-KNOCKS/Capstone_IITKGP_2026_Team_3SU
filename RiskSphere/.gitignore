@@ -11,3 +11,7 @@ data/embed_cache.json
 data/session_state.json
 data/market/*.csv
 outputs/
+
+.venv/
+.pytest_cache/
+tests/results/*.json

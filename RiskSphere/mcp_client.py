@@ -66,9 +66,10 @@ def start():
 
     A second call does nothing while the process is still alive.
     """
-    global _proc
+    global _proc, _stopped
     if _proc is not None and _proc.poll() is None:
         return
+    _stopped = False
     env = os.environ.copy()
     env["MCP_STDIO"] = "1"
     env["PYTHONUNBUFFERED"] = "1"
@@ -136,6 +137,9 @@ def stop():
         proc.wait(timeout=2)
     except subprocess.TimeoutExpired:
         proc.kill()
+        proc.wait()
+    if proc.stdout is not None:
+        proc.stdout.close()
 
 
 atexit.register(stop)

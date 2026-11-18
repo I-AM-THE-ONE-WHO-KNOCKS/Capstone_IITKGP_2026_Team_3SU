@@ -1,0 +1,32 @@
+{
+ "CONV-09": {
+  "first_failed_turn": 2,
+  "kind": "turn_outcome",
+  "detail": "expected clarify, got refuse (planner)"
+ },
+ "CONV-10": {
+  "first_failed_turn": 2,
+  "kind": "turn_outcome",
+  "detail": "expected clarify, got refuse (planner)"
+ },
+ "CONV-11": {
+  "first_failed_turn": 2,
+  "kind": "turn_outcome",
+  "detail": "expected clarify, got answer (['current_exposure'])"
+ },
+ "CONV-21": {
+  "first_failed_turn": 2,
+  "kind": "turn_tools",
+  "detail": "expected ['check_pfe_limit'], got ['calculate_margin_call']"
+ },
+ "CONV-33": {
+  "first_failed_turn": 2,
+  "kind": "turn_outcome",
+  "detail": "expected clarify, got answer (['check_pfe_limit'])"
+ },
+ "CONV-34": {
+  "first_failed_turn": 2,
+  "kind": "turn_tools",
+  "detail": "expected ['current_exposure'], got ['calculate_margin_call']"
+ }
+}

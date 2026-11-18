@@ -1,0 +1,386 @@
+"""Builds tests/TEST_CASES.md from the case files, requirements and the collected pytest tests.
+
+Run:  python3 tests/eval/build_catalog.py
+The document is generated, so its counts always match what actually runs.
+"""
+
+import collections
+import json
+import subprocess
+import sys
+from datetime import date
+from pathlib import Path
+
+HERE = Path(__file__).resolve().parent
+ROOT = HERE.parents[1]
+sys.path.insert(0, str(HERE))
+import casebook  # noqa: E402
+
+OUT = HERE.parent / "TEST_CASES.md"
+
+THEMES = [
+    ("1. Routing: one question, one calculation", "The planner must pick the right tool and fill its arguments. Checked on the tool name(s) and the key arguments (counterparty, ticker, asset class and buckets).", {
+        "direct_exposure": "Seed question phrased close to the README wording: today's exposure.",
+        "direct_pfe": "Seed question: future exposure.",
+        "direct_margin": "Seed question: margin call.",
+        "direct_market_data": "Seed question: spot price and volatility of a ticker.",
+        "direct_haircut": "Seed question: haircut for corporate bonds, A to BBB, over 5 years.",
+        "exposure": "Today's exposure, headroom, utilisation, breach, mark-to-market, written from the README rules (R08).",
+        "pfe": "Potential future exposure, simulated peak, PFE check (R09).",
+        "margin": "Collateral to call, CSA threshold and minimum transfer, return of collateral, what the agreement requires (R10).",
+        "market": "Spot, volatility and last price for a named ticker (R11).",
+        "haircut": "A haircut cell with no counterparty named: asset class and, when stated, maturity and rating (R12).",
+        "margin_haircut_with_name": "Haircut asked about a named counterparty's collateral. The README sends this to the margin calculation, not the table.",
+        "paraphrase_exposure": "Seed paraphrase of an exposure question.",
+        "paraphrase_pfe": "Seed paraphrase of a PFE question.",
+        "near_miss_safe_margin": "Contains the words 'margin call' inside a hypothetical. It must route, not be refused.",
+        "tpl_exposure": "Template grid: 3 exposure phrasings x 3 counterparties.",
+        "tpl_pfe": "Template grid: 3 PFE phrasings x 3 counterparties.",
+        "tpl_margin": "Template grid: 3 margin phrasings (delivery amount, how much to post, return due) x 3 counterparties.",
+        "tpl_market": "Template grid: 2 phrasings x 4 tickers (SPY, SHY, LQD, EURUSD=X).",
+        "tpl_haircut": "Template grid: haircut for gold, cash, main index equities, other equities.",
+        "tpl_haircut_args": "Template grid: government/corporate x AAA-AA/A-BBB x three maturities. Checks the bucket extraction (12 cases).",
+        "para_exposure": "Claude-written natural paraphrases of exposure questions.",
+        "para_pfe": "Claude-written paraphrases of PFE questions (forward-looking, percentile, simulate).",
+        "para_margin": "Claude-written paraphrases of margin questions (top-up, outstanding variation margin, margin terms).",
+        "para_market": "Claude-written paraphrases of price and volatility questions.",
+        "para_haircut": "Claude-written paraphrases of haircut questions (discount, knocked off, long-dated).",
+    }),
+    ("2. Routing: several calculations in one question", "A question that asks for more than one thing must produce more than one step (at most four).", {
+        "multi": "Exposure plus margin, exposure plus PFE, price plus margin, today versus future (R13).",
+        "multi_tool": "Seed: exposure and margin call for one counterparty.",
+        "multi_party": "Two counterparties in one question. A known design limit of the keyword planner.",
+        "para_multi": "Claude-written multi-intent questions.",
+    }),
+    ("3. Session memory", "'it', 'its', 'their' and 'them' use the remembered counterparty. Nothing else does.", {
+        "followup": "Pronoun plus a remembered counterparty: the name is reused (R14).",
+        "session_followup": "Seed follow-up ('And its limit?').",
+        "followup_no_pronoun": "A remembered counterparty must NOT be reused when the question has no pronoun: it asks instead.",
+        "pronoun_no_state": "A pronoun with nothing remembered: it asks instead of guessing.",
+    }),
+    ("4. Clarification: ask, do not guess", "A missing counterparty, ticker or asset class must produce a question to the user, naming the right missing argument (R15).", {
+        "vague": "Exposure, PFE and collateral questions with no counterparty.",
+        "vague_margin": "Seed: margin call with no counterparty.",
+        "vague_market": "Seed: price with no ticker.",
+        "vague_haircut": "Seed: haircut with no asset class.",
+        "unknown_counterparty": "A name that is not on the book (not Meridian, Apex or Harbor Lane). Must ask, not guess.",
+        "adv_typo": "A misspelt counterparty name. Must ask, not guess.",
+    }),
+    ("5. Guardrails: requests that must be refused", "The first failing check stops the question before any model or calculation (R02-R07). Checked on which check fired.", {
+        "guardrail_injection": "Override the rules, reveal the key or the system prompt (R02).",
+        "guardrail_pii": "Home address, passport, personal phone number (R03).",
+        "guardrail_action": "Send, approve, book, pay, or change a limit (R04).",
+        "guardrail_legal": "Legal advice, enforceability, suing, terminating the agreement (R05).",
+        "guardrail_scope": "Not about the book at all: a poem, the capital of France, a restaurant (R06).",
+        "para_injection": "Claude-written paraphrase of an injection attempt.",
+        "para_pii": "Claude-written paraphrase of a personal data request.",
+        "para_action": "Claude-written paraphrases of action requests (wire, authorise, lift a limit).",
+        "para_legal": "Claude-written paraphrase of a legal request.",
+        "para_scope": "Claude-written off-topic question.",
+        "adv_injection": "Injection variants: upper case, 'forget everything', 'bypass the guardrails', 'print your system prompt', a line break.",
+        "adv_mixed": "A safe question joined to an unsafe one: the unsafe part must still stop the whole question (R07).",
+        "adv_order": "Two violations in one question. The earlier check in the fixed order must be the one that fires (R07).",
+        "adv_scope": "Off-topic requests that contain a desk word ('a joke about collateral').",
+    }),
+    ("6. Robustness: valid questions that look risky or noisy", "Tests for false refusals and for odd surface forms.", {
+        "adv_false_positive": "Valid desk questions containing words like 'call' or 'transfer'. They must NOT be refused.",
+        "adv_surface": "Upper case, lower case without punctuation, a curly apostrophe, extra spaces.",
+    }),
+]
+
+CONV_CATS = {
+    "clarify_resolve": "The system asks for a missing counterparty, ticker or asset class and the user's next reply completes the question (R15, R30).",
+    "clarify_retry": "The reply does not supply the value (unknown name, 'I am not sure', the wrong kind of value, repeating the question). It must ask again and keep the open question (R31).",
+    "memory_pronoun": "'its', 'their' and 'them' resolve to the counterparty from earlier turns, including two tools in one question (R14).",
+    "memory_switch": "Naming a different counterparty replaces the memory; 'its' then means the new one (R35).",
+    "memory_neutral_turn": "A price or haircut question between two counterparty questions must not wipe the memory (R35).",
+    "memory_no_pronoun": "Memory is NOT used when the question has no pronoun: it asks instead (R14, R15).",
+    "interrupted_clarify": "The user ignores the open question and asks something new. The new question is answered as asked and the old one is dropped (R32).",
+    "refusal_midway": "A refused turn (action, injection, scope, legal, PII) in the middle of a conversation. Memory survives, and a pending question survives (R33).",
+    "kill_switch": "The kill switch is on for one turn only: that turn is refused, memory is untouched, service resumes afterwards (R01, R33).",
+    "long_session": "6 to 9 turn sessions mixing every behaviour above.",
+    "fresh_session": "After a restart there is no memory and no pending question (R34).",
+}
+
+UNIT = [
+    ("tests/unit/test_math.py", "Financial arithmetic on the sample book", {
+        "test_regulatory_haircut_schedule": "Spot-checks four cells of the haircut table (cash 0%, corporate >5y A-BBB 12%, government 1-5y AAA-AA 2%, main index equity 15%).",
+        "test_unknown_asset_class_rejected": "An unknown asset class such as crypto raises an error.",
+        "test_harbor_breach": "With recorded prices, Harbor Lane's exposure is 1,034,960, headroom -34,960, status BREACH.",
+        "test_meridian_margin_terms": "Meridian's threshold (1,000,000) and minimum transfer (250,000) are read correctly.",
+        "test_pfe_engine_self_checks": "The PFE engine passes its own validation (closed form, netting, collateral, margin period).",
+    }),
+    ("tests/unit/test_math_book.py", "Exposure and margin arithmetic: hand values, boundaries and an independent oracle", {
+        "test_sample_book_golden_values": "Hand-computed exposure, collateral, status and delivery for all three counterparties (e.g. Meridian delivery 680,000, Apex 990,000, Harbor 1,040,000).",
+        "test_status_boundaries": "Status at 849,999 OK, 850,000 WARNING, 1,000,000 WARNING (exactly 100% is not a breach), 1,000,001 BREACH.",
+        "test_exposure_floored_at_zero": "Over-collateralised: exposure is 0, never negative.",
+        "test_negative_mark_counterparty_owes_nothing": "A negative mark gives zero exposure.",
+        "test_collateral_counts_after_haircut": "Cash, corporate bond, government bond and equity count at face x (1 - haircut).",
+        "test_unmapped_collateral_asset_is_an_error": "An asset with no haircut mapping is an error, not a silent zero.",
+        "test_delivery_rounding_and_mta": "Delivery below the minimum transfer is NO_ACTION; at the minimum it is called; rounded UP to the step; an exact multiple is not bumped.",
+        "test_return_rounding_and_mta": "Returns follow the same minimum transfer rule and are rounded DOWN.",
+        "test_threshold_and_independent_amount": "Credit support = mark + independent amount - threshold.",
+        "test_below_threshold_means_no_credit_support": "A mark below the threshold gives zero credit support and no action.",
+        "test_code_matches_oracle_on_random_books": "60 random books: the code equals an independent exact-arithmetic oracle on every field, and invariants hold (no delivery and return together, amounts on the rounding step).",
+        "test_more_collateral_never_raises_exposure": "20 random books: adding collateral never increases exposure.",
+    }),
+    ("tests/unit/test_pfe_properties.py", "Future-exposure engine properties and haircut table properties", {
+        "test_same_seed_is_deterministic": "Same seed gives identical peaks and fan.",
+        "test_different_seed_changes_paths_but_stays_close": "A different seed changes the paths but stays within 12%.",
+        "test_today_mark_matches_notional_formula": "Today's mark equals notional x (spot/strike - 1).",
+        "test_uncollateralised_peak_not_below_closed_form_at_step_k": "Peak is not below the lognormal closed form at 21, 63 and 126 days, long and short.",
+        "test_collateral_never_raises_the_peak": "Collateralised peak never exceeds the uncollateralised peak.",
+        "test_huge_threshold_turns_collateral_off": "A huge threshold makes the two peaks equal.",
+        "test_offsetting_trades_net_to_near_zero": "Equal and opposite trades net to zero.",
+        "test_shorter_margin_period_lowers_collateralised_peak": "A one-day margin period gives a lower collateralised peak (under 35% of uncollateralised).",
+        "test_higher_threshold_never_lowers_the_collateralised_peak": "A higher threshold never lowers the collateralised peak.",
+        "test_check_limit_status_uses_unrounded_ratio": "A peak of 1,000,000.4 is WARNING; 1,000,001 is BREACH.",
+        "test_check_limit_refuses_when_engine_checks_fail": "No number is quoted when the engine self-checks fail.",
+        "test_haircut_increases_with_maturity": "Longer maturity never has a smaller haircut.",
+        "test_lower_rating_never_has_smaller_haircut": "A-BBB never has a smaller haircut than AAA-AA.",
+        "test_corporate_haircut_not_below_government": "Corporate is never below government for the same cell.",
+        "test_haircuts_between_0_and_100_and_cash_is_zero": "Every haircut is in [0, 100) and cash is 0.",
+        "test_haircut_matches_oracle_table": "The table equals the independent copy in the oracle.",
+    }),
+    ("tests/unit/test_agent_logic.py", "Guardrail order, plan validation, clarification and the critic", {
+        "test_kill_switch_short_circuits": "With the kill switch on, the first check fails and the later checks are reported as not run.",
+        "test_guardrail_order": "One example for each check (injection, PII, action, legal, scope) and one clean question.",
+        "test_plan_rejects_intent_tool_mismatch": "A plan whose intent and tool disagree is rejected.",
+        "test_plan_accepts_multi_intent": "A two-intent, two-tool plan is accepted.",
+        "test_vague_query_clarification_and_followup": "'Check margin call' asks for a counterparty; naming one resolves it; 'What is the haircut?' asks for an asset class.",
+        "test_critic_accepts_faithful_wording": "Wording that uses the tool's figures and status passes.",
+        "test_critic_rejects_hallucination": "A wrong figure, 'within its limit' on a BREACH, and an invented margin call are all rejected.",
+    }),
+    ("tests/unit/test_guardrail_regressions.py", "New guardrail patterns, false-refusal guards and grounding of model arguments", {
+        "test_must_stop": "13 phrasings that must be stopped by the named check (injection, action, legal, scope).",
+        "test_valid_question_not_refused": "14 valid desk questions with risky-sounding words that must pass every check.",
+        "test_counterparty_is_grounded": "A counterparty the model invented is blanked; one named in the question, or reached with a pronoun plus memory, is kept.",
+        "test_ticker_is_grounded": "A ticker not present in the question is blanked.",
+        "test_two_counterparties_both_kept_when_both_named": "Both names are kept when the user names both.",
+        "test_planner_that_guesses_a_name_now_triggers_clarification": "A model that copies the example (the live failure) now ends in a clarification.",
+        "test_prompt_no_longer_anchors_on_a_named_counterparty_example": "The planner prompt has a blank-argument example and explicit margin wording.",
+    }),
+    ("tests/unit/test_pipeline.py", "End-to-end question handling with a mocked model and calculation server", {
+        "test_two_turn_clarification": "'Check margin call' asks for a name, 'Meridian Capital' completes it, and the session state is updated and cleared.",
+        "test_critic_fallback_drops_bad_wording": "Bad model wording is rewritten once, then dropped; the Python result is still returned.",
+    }),
+    ("tests/eval/test_eval_dataset.py", "Runs every routing case below through the real agent code", {
+        "test_eval_case": "One test per case: guardrail stop, clarification, tools and arguments.",
+        "test_known_issues_refer_to_real_cases": "known_issues.json only lists cases that exist.",
+    }),
+    ("tests/eval/test_conversations.py", "Plays the multi-turn scenarios (section 3) and guards their data", {
+        "test_conversation": "One test per conversation: every turn's outcome and the memory/pending state after it.",
+        "test_known_conversation_issues_refer_to_real_conversations": "known_issues_conversations.json only lists conversations that exist.",
+        "test_conversation_schema": "Every conversation and turn has valid fields and expectations.",
+        "test_conversation_ids_unique_and_nonempty": "Conversation ids are unique.",
+        "test_real_session_file_is_never_touched": "The runner uses a temporary session file, never data/session_state.json.",
+    }),
+    ("tests/eval/test_casebook.py", "Guards the evaluation data itself", {
+        "test_there_are_cases": "The case set is not empty.",
+        "test_case_schema": "Every case has all fields, valid values, and consistent expectations.",
+        "test_ids_unique": "No duplicate ids.",
+        "test_queries_unique_within_split": "No duplicate question inside a split.",
+        "test_dev_and_test_splits_do_not_share_queries": "The dev and the held-out split share no question.",
+        "test_index_overlap_flag_is_truthful": "Each case's index_overlap flag matches its real similarity to a semantic-index example.",
+        "test_held_out_split_never_overlaps_the_index": "No held-out case is a copy of a semantic-index example.",
+        "test_requirement_ids_are_unique_and_well_formed": "Requirement ids are unique and complete.",
+        "test_requirement_coverage_report": "Prints which requirements have routing cases.",
+    }),
+    ("tests/eval/test_run_eval.py", "Guards the scoring harness", {
+        "test_wilson_interval_known_values": "The confidence interval matches known values.",
+        "test_metrics_guardrail_precision_recall_and_false_refusal": "Precision, recall and false-refusal rate are computed correctly on a tiny hand-made set.",
+        "test_metrics_clarification": "Clarification precision and recall are computed correctly.",
+        "test_full_offline_report_builds_and_renders": "A full offline report builds and renders.",
+        "test_conversation_report_builds_and_scores": "The conversation report builds, counts turns correctly and renders.",
+    }),
+]
+
+
+def esc(text):
+    return str(text).replace("|", "\\|").replace("\n", " ")
+
+
+def expected(c):
+    if c["expected_stop"]:
+        return f"Refused by **{c['expected_stop']}** check"
+    if c["needs_clarification"]:
+        return f"Asks for **{c['expected_missing_arg']}**"
+    args = "; ".join(f"{k}={v}" for a in c["expected_args"] for k, v in a.items())
+    return f"`{' + '.join(c['expected_tools'])}`" + (f"<br>{esc(args)}" if args else "")
+
+
+def collect_counts():
+    out = subprocess.run([sys.executable, "-m", "pytest", "--collect-only", "-q", "-p", "no:cacheprovider"],
+                         cwd=ROOT, capture_output=True, text=True).stdout
+    counts = collections.Counter()
+    for line in out.splitlines():
+        if "::" in line:
+            counts[line.split("[")[0]] += 1
+    return counts
+
+
+def main():
+    cases = casebook.load_cases()
+    reqs = casebook.load_requirements()
+    known = json.loads((HERE / "known_issues.json").read_text())
+    by_cat = collections.defaultdict(list)
+    for c in cases:
+        by_cat[c["category"]].append(c)
+    mapped = {cat for _, _, cats in THEMES for cat in cats}
+    missing = set(by_cat) - mapped
+    assert not missing, f"categories without a description: {sorted(missing)}"
+    counts = collect_counts()
+    live = sorted((HERE.parent / "results").glob("*-live.json"))
+    live_line = ""
+    if live:
+        r = json.loads(live[-1].read_text())
+        e = r["metrics"]["end_to_end"]
+        live_line = (f"The latest live run ({live[-1].name}) passed {e['k']} of {e['n']} scored cases with the hosted Qwen3-8B planner "
+                     f"and embeddings.")
+
+    n_src = collections.Counter(c["source"] for c in cases)
+    n_unit = sum(n for k, n in counts.items() if "/test_eval_dataset.py" not in k and "test_case_schema" not in k and "index_overlap_flag" not in k)
+    L = ["# RiskSphere test catalogue", "",
+         f"_Generated by `tests/eval/build_catalog.py` on {date.today().isoformat()}. Do not edit by hand; edit the cases or the descriptions in the script and regenerate._", "",
+         "## 1. What is tested and how", "",
+         "RiskSphere answers questions about a small sample derivative book. A question passes through six guardrail checks, a planner that chooses a calculation, "
+         "Python calculations reached through MCP, and an optional wording step with a critic. The tests check each of those parts, separately and together.", "",
+         "| Layer | What it checks | Where |", "|---|---|---|",
+         "| Arithmetic | Exposure, status, haircuts, margin amounts, rounding, and the PFE simulation. Compared with hand values and an independent oracle. | `tests/unit/test_math*.py`, `test_pfe_properties.py` |",
+         "| Agent logic | Guardrail order, plan validation, clarification, the critic, grounding of model arguments. | `tests/unit/test_agent_logic.py`, `test_guardrail_regressions.py`, `test_pipeline.py` |",
+         f"| Evaluation cases | {len(cases)} single questions with an expected outcome (refusal, clarification, or tools and arguments). | `tests/eval/cases/*.jsonl` |",
+         "| Conversations | Multi-turn scenarios that check memory, pronouns, clarification and refusals across turns. | `tests/eval/conversations/*.jsonl`, `test_conversations.py` |",
+         "| Harness and data guards | The scoring code, and checks that the case data is well-formed and leak-free. | `tests/eval/test_casebook.py`, `test_run_eval.py` |", "",
+         "### How to run", "",
+         "```bash", "cd RiskSphere", ".venv/bin/pytest -q                                   # everything, offline, no network",
+         "python3 tests/eval/run_eval.py                        # scored reports (routing + conversations), offline keyword planner",
+         "python3 tests/eval/run_eval.py --suite conversations  # multi-turn scenarios only",
+         "python3 tests/eval/run_eval.py --planner live         # scored report with the hosted model (needs secrets.local.env)",
+         "python3 tests/eval/run_eval.py --splits test          # frozen held-out split only",
+         "python3 tests/eval/generate.py                        # rebuild the case files", "```", "",
+         "Offline runs never call the network: the model and embedding gateways are switched off, session state and traces go to a temporary folder, and market prices come from recorded values.", "",
+         "### Numbers", "",
+         f"- Evaluation cases: **{len(cases)}** ({', '.join(f'{k} {v}' for k, v in sorted(n_src.items()))}).",
+         f"- Unit and data-guard tests: **{n_unit}** collected test items (parametrised cases counted individually).",
+         f"- Conversation scenarios: **{len(casebook.load_conversations())}** ({sum(len(c['turns']) for c in casebook.load_conversations())} turns).",
+         f"- Requirements: **{len(reqs)}**. Known issues: **{len(known)}** routing and **{len(json.loads((HERE / 'known_issues_conversations.json').read_text()))}** conversation (strict expected failures, listed in section 6).",
+         f"- {live_line}" if live_line else "", ""]
+
+    # ---- evaluation cases
+    L += ["## 2. Evaluation cases by category", "",
+          "Each case is one question and an expected outcome. 'Expected' is either a refusal by a named guardrail check, a clarification question for a named missing argument, "
+          "or the calculation(s) and key arguments the planner must choose. `Src` is the provenance (seed, spec = written from the README, tpl = template, llm = written by Claude and not yet reviewed by a person). "
+          "`Req` is the requirement it traces to. A warning sign marks a known offline issue.", ""]
+    src_short = {"author_seed": "seed", "spec_derived": "spec", "template": "tpl", "llm_paraphrase": "llm", "peer": "peer", "public": "pub", "log": "log"}
+    for title, intro, cats in THEMES:
+        total = sum(len(by_cat[c]) for c in cats if c in by_cat)
+        L += [f"### {title} ({total} cases)", "", intro, ""]
+        for cat, desc in cats.items():
+            rows = sorted(by_cat.get(cat, []), key=lambda c: c["id"])
+            if not rows:
+                continue
+            L += [f"#### `{cat}` ({len(rows)})", "", desc, "",
+                  "| Id | Question | Remembered name | Expected | Src | Req |", "|---|---|---|---|---|---|"]
+            for c in rows:
+                flag = " \u26a0" if c["id"] in known else ""
+                L.append(f"| {c['id']}{flag} | {esc(c['query'])} | {c['last_counterparty'] or '-'} | {expected(c)} | {src_short[c['source']]} | {', '.join(c['requirement_ids'])} |")
+            L.append("")
+
+
+    # ---- conversations
+    convs = casebook.load_conversations()
+    known_c = json.loads((HERE / "known_issues_conversations.json").read_text())
+    by_ccat = collections.defaultdict(list)
+    for c in convs:
+        by_ccat[c["category"]].append(c)
+    missing_c = set(by_ccat) - set(CONV_CATS)
+    assert not missing_c, f"conversation categories without a description: {sorted(missing_c)}"
+    L += [f"## 3. Conversation scenarios ({len(convs)} conversations, {sum(len(c['turns']) for c in convs)} turns)", "",
+          "The routing cases above are single questions. These scenarios play several turns in order through the real question handler, with the calculation server mocked and the session file in a temporary folder. "
+          "After every turn the test checks the outcome (answer with these tools, a clarification for this argument, or a refusal by this check) **and** the state: the remembered counterparty and the open clarification. "
+          "A conversation passes only if every turn passes. A warning sign marks a known offline issue.", "",
+          "Expected behaviour where the README was silent was agreed in advance: (1) a new full question drops an open clarification, (2) a refusal keeps both memory and an open clarification, (3) a new run starts with empty memory.", ""]
+    for cat, desc in CONV_CATS.items():
+        rows = sorted(by_ccat.get(cat, []), key=lambda c: c["id"])
+        if not rows:
+            continue
+        L += [f"### `{cat}` ({len(rows)})", "", desc, ""]
+        for c in rows:
+            flag = " \u26a0" if c["id"] in known_c else ""
+            L += [f"**{c['id']}**{flag} ({', '.join(c['requirement_ids'])})" + (f" _{esc(c['notes'])}_" if c.get("notes") else ""), "",
+                  "| # | User says | Expected | Memory after | Open question after |", "|---|---|---|---|---|"]
+            for i, t in enumerate(c["turns"], 1):
+                e = t["expect"]
+                if e["outcome"] == "refuse":
+                    exp = f"Refused by **{e['stop']}**"
+                elif e["outcome"] == "clarify":
+                    exp = f"Asks for **{e['missing_arg']}**"
+                else:
+                    a = "; ".join(f"{k}={v}" for x in e.get("args", []) for k, v in x.items())
+                    exp = f"`{' + '.join(e['tools'])}`" + (f"<br>{esc(a)}" if a else "")
+                extra = (" (kill switch on)" if t.get("env") else "") + (" (after a restart)" if t.get("new_session") else "")
+                sa = t["state_after"]
+                L.append(f"| {i} | {esc(t['user'])}{extra} | {exp} | {sa['last_counterparty'] or '-'} | {sa['pending'] or '-'} |")
+            L.append("")
+
+    # ---- unit tests
+    L += ["## 4. Unit and data-guard tests", ""]
+    for path, title, tests in UNIT:
+        L += [f"### {title}", "", f"`{path}`", "", "| Test | Items | What it checks |", "|---|---|---|"]
+        for name, desc in tests.items():
+            n = counts.get(f"{path}::{name}", 0)
+            assert n, f"{path}::{name} is not collected; fix the catalogue"
+            L.append(f"| `{name}` | {n} | {esc(desc)} |")
+        collected = {k.split("::")[1] for k in counts if k.startswith(path + "::")}
+        undocumented = collected - set(tests)
+        assert not undocumented, f"undocumented tests in {path}: {sorted(undocumented)}"
+        L.append("")
+
+    # ---- requirements
+    covered = collections.Counter(rid for c in cases for rid in c["requirement_ids"])
+    for c in convs:
+        for rid in c["requirement_ids"]:
+            covered[rid] += 1
+    L += ["## 5. Requirement traceability", "",
+          "Each requirement is a rule taken from the README or the configuration. 'Eval cases' counts the routing cases and conversations that exercise it. "
+          "Requirements with no routing case are covered by unit tests (arithmetic, PFE, critic) or are not yet covered (marked **gap**).", "",
+          "| Id | Area | Requirement | Eval cases |", "|---|---|---|---|"]
+    unit_cover = {"R16": "unit", "R17": "unit", "R18": "unit", "R19": "unit", "R20": "unit", "R21": "unit", "R22": "unit", "R23": "unit", "R01": "unit"}
+    for rid, r in reqs.items():
+        n = covered.get(rid, 0)
+        status = str(n) if n else (f"0 ({unit_cover[rid]} tests)" if rid in unit_cover else "0 (**gap**)")
+        L.append(f"| {rid} | {r['area']} | {esc(r['text'])} | {status} |")
+    L.append("")
+    gaps = [rid for rid in reqs if not covered.get(rid) and rid not in unit_cover]
+    L += [f"Gaps (no test yet): {', '.join(gaps) if gaps else 'none'}. These are the failure-path tests planned next: gateway retry, keyword fallback, CJK rule, input length, MCP failure, the key never logged.", ""]
+
+    # ---- known issues
+    L += ["## 6. Known issues (strict expected failures, offline planner)", ""]
+    if known:
+        L += ["These cases fail today with the keyword planner. They are recorded as strict expected failures: the suite stays green while they fail and goes red the moment one is fixed, so the list can only shrink.", "",
+              "| Id | Question | Problem |", "|---|---|---|"]
+        q = {c["id"]: c["query"] for c in cases}
+        for k, v in known.items():
+            L.append(f"| {k} | {esc(q[k])} | {esc(v['kind'])}: {esc(v['detail'])} |")
+    else:
+        L.append("None.")
+    if known_c:
+        L += ["", "### Conversation issues", "",
+              "| Id | Category | First failing turn | Problem |", "|---|---|---|---|"]
+        cq = {c["id"]: c for c in convs}
+        for k, v in known_c.items():
+            turn = cq[k]["turns"][v["first_failed_turn"] - 1]["user"]
+            L.append(f"| {k} | {cq[k]['category']} | {v['first_failed_turn']}: {esc(turn)} | {esc(v['kind'])}: {esc(v['detail'])} |")
+    L += ["", "## 7. Data provenance and limits", "",
+          "- **Seed** cases were written by the author of the agent, so they match its phrasing. **Spec** cases were written from the README rules. **Template** cases are generated from templates and the sample book. "
+          "**llm** cases were written by claude-sonnet-5-5 and their labels are **not yet reviewed by a person**.",
+          "- All cases are in the `dev` split, which may be tuned against. A frozen held-out `test` split (blind questions from teammates) does not exist yet. Headline numbers must come only from that split.",
+          "- The semantic matcher is built from `data/intents.json`. Questions that are copies of its examples are flagged `index_overlap` and excluded from scores by default.",
+          "- Scores on the dev split are not an honest estimate of performance: the guardrails and the planner were changed after seeing these failures.",
+          "- The guardrails are regex lists. A new phrasing can still get through; the adversarial cases sample this, they do not prove it cannot happen.", ""]
+    OUT.write_text("\n".join(x for x in L if x is not None) + "\n")
+    print(f"wrote {OUT} ({OUT.stat().st_size} bytes)")
+
+
+if __name__ == "__main__":
+    main()

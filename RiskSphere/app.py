@@ -172,7 +172,9 @@ def _remember(question, results, state):
             cid = output["counterparty_id"]
     if cid:
         state["last_counterparty"] = cid
-        agent.save_state(state)
+    if state.get("pending_tool"):
+        state["pending_tool"] = None
+    agent.save_state(state)
 
 
 def books_find(question):
@@ -209,7 +211,7 @@ def answer(question):
     flags = []
     wording = ""
 
-    report = agent.prefilter(question)
+    report = agent.prefilter(question, state)
     why = report["stop"]
     for check in report["checks"]:
         if not check["ran"]:
@@ -228,7 +230,11 @@ def answer(question):
         _finish(question, plan, results, flags, steps, started)
         return _payload(question, steps, plan, results, wording, flags)
     model_error = ""
-    if agent.llm_enabled():
+    pending_plan = agent.resolve_pending(question, state)
+    if pending_plan:
+        plan = pending_plan
+        flags.append("clarification_followup")
+    elif agent.llm_enabled():
         try:
             plan = agent.plan_with_model(question, state)
         except Exception as exc:
@@ -240,7 +246,11 @@ def answer(question):
         model_error = "The model was not called (no key, or PFE_LLM_OFF=1)."
         flags.append("rules_only")
 
-    who = "Qwen/Qwen3-8B" if plan.get("router") == "qwen3-8b" else "the keyword planner"
+    who = (
+        "Qwen/Qwen3-8B" if plan.get("router") == "qwen3-8b"
+        else "the clarification follow-up" if plan.get("router") == "clarification_followup"
+        else "the keyword/semantic planner"
+    )
     step_txt = ", ".join(
         f"{step['tool']}({', '.join(f'{k}={v}' for k, v in step['args'].items())})"
         for step in plan.get("steps") or []
@@ -252,6 +262,15 @@ def answer(question):
     )
     if model_error and plan.get("router") != "qwen3-8b":
         _say(steps, "Model note: " + model_error)
+
+    if plan.get("needs_clarification"):
+        state["pending_tool"] = plan.get("pending_tool")
+        agent.save_state(state)
+        wording = plan.get("clarification_message", "")
+        _say(steps, f"Clarification requested for missing {plan.get('missing_arg')}.")
+        flags.append("clarification:" + str(plan.get("missing_arg") or "arg"))
+        _finish(question, plan, results, flags, steps, started)
+        return _payload(question, steps, plan, results, wording, flags)
 
     if plan.get("refuse") or not plan.get("steps"):
         _say(steps, plan.get("refusal_reason") or "No tool was run.")
@@ -362,8 +381,9 @@ def main():
     log.configure()
     print("RiskSphere ready. Type a question. Press Enter on an empty line to stop.")
     while True:
+        prompt_label = "Reply (or new question): " if agent.load_state().get("pending_tool") else "Question: "
         try:
-            question = input("Question: ").strip()
+            question = input(prompt_label).strip()
         except EOFError:
             print()
             mcp_client.stop()

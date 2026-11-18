@@ -1,0 +1,212 @@
+[
+ {
+  "id": "R01",
+  "area": "guardrail",
+  "text": "Kill switch stops every question at the first check; no plan, no tool.",
+  "source": "README: How a question runs"
+ },
+ {
+  "id": "R02",
+  "area": "guardrail",
+  "text": "Attempts to override the rules or reveal the key are stopped (injection).",
+  "source": "README: How a question runs"
+ },
+ {
+  "id": "R03",
+  "area": "guardrail",
+  "text": "Requests for personal data (SSN, passport, address, phone) are stopped (pii).",
+  "source": "README: How a question runs"
+ },
+ {
+  "id": "R04",
+  "area": "guardrail",
+  "text": "Instructions to send, approve, release, book, pay or change a limit are stopped (action).",
+  "source": "README: When I call a calculation"
+ },
+ {
+  "id": "R05",
+  "area": "guardrail",
+  "text": "Requests for legal advice are stopped (legal).",
+  "source": "README: How a question runs"
+ },
+ {
+  "id": "R06",
+  "area": "guardrail",
+  "text": "Questions not about this book are stopped (scope); questions naming a book counterparty are in scope.",
+  "source": "README: How a question runs"
+ },
+ {
+  "id": "R07",
+  "area": "guardrail",
+  "text": "Checks run in fixed order (kill, injection, pii, action, legal, scope); the first failure stops the rest, which are reported as not run.",
+  "source": "README: How a question runs"
+ },
+ {
+  "id": "R08",
+  "area": "routing",
+  "text": "Today's exposure / limit / breach / headroom questions route to current_exposure; 'limit' alone means today's exposure.",
+  "source": "README: When I call a calculation"
+ },
+ {
+  "id": "R09",
+  "area": "routing",
+  "text": "Future / potential future exposure / PFE questions route to check_pfe_limit and do not also run current_exposure.",
+  "source": "README: When I call a calculation"
+ },
+ {
+  "id": "R10",
+  "area": "routing",
+  "text": "Margin, threshold, minimum transfer, delivery/return questions route to calculate_margin_call; CSA wording questions also use it.",
+  "source": "README: When I call a calculation"
+ },
+ {
+  "id": "R11",
+  "area": "routing",
+  "text": "Spot or volatility of a named ticker routes to get_market_data with that ticker.",
+  "source": "README: When I call a calculation"
+ },
+ {
+  "id": "R12",
+  "area": "routing",
+  "text": "A haircut cell with no book name routes to regulatory_haircut with asset class, maturity and rating buckets.",
+  "source": "README: When I call a calculation"
+ },
+ {
+  "id": "R13",
+  "area": "routing",
+  "text": "A question asking several things yields several steps (at most 4), each with its own tool.",
+  "source": "README: How a question runs"
+ },
+ {
+  "id": "R14",
+  "area": "session",
+  "text": "A follow-up uses the remembered counterparty only when it says it/its/their/them.",
+  "source": "README: When I call a calculation"
+ },
+ {
+  "id": "R15",
+  "area": "session",
+  "text": "A missing required argument triggers a clarification question instead of a guess; the next turn resolves it.",
+  "source": "config.json clarifications; agent.resolve_pending"
+ },
+ {
+  "id": "R16",
+  "area": "math",
+  "text": "Status uses the unrounded utilisation: > 100% BREACH, >= 85% WARNING, otherwise OK.",
+  "source": "README: How I get a number, step 4"
+ },
+ {
+  "id": "R17",
+  "area": "math",
+  "text": "Today's exposure = max(gross mark - collateral after haircut, 0); mark = quantity x (price - entry).",
+  "source": "README: How I get a number, steps 1-4"
+ },
+ {
+  "id": "R18",
+  "area": "math",
+  "text": "Collateral counts at face x (1 - haircut); cash 0%, Apex corporate >5y A+-BBB- 12%.",
+  "source": "README: How I get a number, step 3"
+ },
+ {
+  "id": "R19",
+  "area": "math",
+  "text": "Credit support = max(0, gross mark + independent amount - threshold); delivery/return only if >= MTA, delivery rounded up, return rounded down to the rounding step; otherwise NO_ACTION.",
+  "source": "README: How I get a number, steps 6-7"
+ },
+ {
+  "id": "R20",
+  "area": "math",
+  "text": "Any delivery or return is flagged for a person to review; nothing moves.",
+  "source": "README: How I get a number, step 8"
+ },
+ {
+  "id": "R21",
+  "area": "pfe",
+  "text": "PFE engine passes its self-checks (closed form, collateral does not raise PFE, huge threshold disables collateral, netting, 1-day MPOR lowers collateralised peak).",
+  "source": "README: Stage 2"
+ },
+ {
+  "id": "R22",
+  "area": "pfe",
+  "text": "PFE is deterministic for a fixed seed and path count.",
+  "source": "config.json pfe_seed"
+ },
+ {
+  "id": "R23",
+  "area": "llm",
+  "text": "The critic rejects wording whose figures, status or margin sentence are not in the tool result; one rewrite is allowed, then wording is dropped.",
+  "source": "README: How a question runs, step 4"
+ },
+ {
+  "id": "R24",
+  "area": "llm",
+  "text": "If the gateway fails or the model is off, keyword planning runs and no wording call is made.",
+  "source": "README: How a question runs, step 2"
+ },
+ {
+  "id": "R25",
+  "area": "llm",
+  "text": "Output is English/ASCII only; CJK characters are not allowed.",
+  "source": "config.json language"
+ },
+ {
+  "id": "R26",
+  "area": "llm",
+  "text": "Busy/unavailable gateway responses are retried after 2, 4, then 8 seconds.",
+  "source": "README: How a question runs"
+ },
+ {
+  "id": "R27",
+  "area": "robustness",
+  "text": "A question over 1,000 characters is rejected; empty input stops the console.",
+  "source": "README: How a question runs"
+ },
+ {
+  "id": "R28",
+  "area": "robustness",
+  "text": "A tool failure over MCP is surfaced as a failed step, not a crash.",
+  "source": "mcp_client.call_tool"
+ },
+ {
+  "id": "R29",
+  "area": "robustness",
+  "text": "The API key is never logged.",
+  "source": "README: How a question runs"
+ },
+ {
+  "id": "R30",
+  "area": "conversation",
+  "text": "A clarification is resolved by the user's next reply: the planned tool runs with the supplied value, memory is updated, and the pending question is cleared.",
+  "source": "agent.resolve_pending; app._remember"
+ },
+ {
+  "id": "R31",
+  "area": "conversation",
+  "text": "A reply that does not supply the missing value (unknown name, wrong kind of value, 'not sure') asks again instead of guessing or giving up.",
+  "source": "README: ask, do not guess (agreed default)"
+ },
+ {
+  "id": "R32",
+  "area": "conversation",
+  "text": "If the user ignores a pending clarification and asks a new full question, the new question is answered as asked and the old pending question is dropped.",
+  "source": "Agreed default 1"
+ },
+ {
+  "id": "R33",
+  "area": "conversation",
+  "text": "A refused turn (guardrail or kill switch) does not erase the remembered counterparty and does not cancel a pending clarification.",
+  "source": "Agreed default 2"
+ },
+ {
+  "id": "R34",
+  "area": "conversation",
+  "text": "A new run starts with no remembered counterparty and no pending clarification.",
+  "source": "README: 'The same process remembers the last name'; agreed default 3"
+ },
+ {
+  "id": "R35",
+  "area": "conversation",
+  "text": "Memory follows the conversation: naming a different counterparty replaces it; price and haircut questions leave it unchanged; pronouns resolve to the latest one.",
+  "source": "README: When I call a calculation; app._remember"
+ }
+]

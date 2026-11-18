@@ -1,0 +1,74 @@
+[
+  {
+    "intent": "current_exposure",
+    "tool": "current_exposure",
+    "required_args": ["counterparty"],
+    "examples": [
+      "Is Harbor Lane through its limit?",
+      "What is Meridian's current exposure?",
+      "Are we over-exposed to Apex today?",
+      "How much limit headroom is left?",
+      "Show today's mark-to-market and breach status"
+    ]
+  },
+  {
+    "intent": "future_exposure",
+    "tool": "check_pfe_limit",
+    "required_args": ["counterparty"],
+    "examples": [
+      "What is Harbor Lane's future exposure?",
+      "Run potential future exposure PFE check",
+      "Could our exposure breach its limit over the next 6 months?",
+      "Simulated peak exposure for Meridian",
+      "Check Monte Carlo PFE against the limit"
+    ]
+  },
+  {
+    "intent": "margin_call",
+    "tool": "calculate_margin_call",
+    "required_args": ["counterparty"],
+    "examples": [
+      "What margin call do we have on Meridian?",
+      "Do we need to call or return collateral?",
+      "What is the CSA threshold and minimum transfer amount?",
+      "Check credit support delivery or return",
+      "How much variation margin is due?"
+    ]
+  },
+  {
+    "intent": "market_data",
+    "tool": "get_market_data",
+    "required_args": ["ticker"],
+    "examples": [
+      "What is SPY trading at?",
+      "Give me the spot price and one-year volatility",
+      "Fetch Yahoo daily closes for EURUSD=X",
+      "What is the latest market quote for LQD?",
+      "How volatile is SHY?"
+    ]
+  },
+  {
+    "intent": "regulatory_haircut",
+    "tool": "regulatory_haircut",
+    "required_args": ["asset_class"],
+    "examples": [
+      "What haircut applies to corporate bonds rated A to BBB over 5 years?",
+      "Look up the d499 regulatory haircut schedule",
+      "What is the collateral haircut for government bonds?",
+      "Haircut percentage for gold or equity",
+      "Standardised haircut table lookup"
+    ]
+  },
+  {
+    "intent": "out_of_scope",
+    "tool": "",
+    "required_args": [],
+    "examples": [
+      "What is the weather today?",
+      "What is the weather in Mumbai today?",
+      "Tell me a joke",
+      "Who won the cricket match?",
+      "Write a python script to sort a list"
+    ]
+  }
+]

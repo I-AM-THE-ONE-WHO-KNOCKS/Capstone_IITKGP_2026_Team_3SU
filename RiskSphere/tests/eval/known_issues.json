@@ -1,0 +1,12 @@
+{
+ "GOLD-25": {
+  "kind": "wrong_tools",
+  "class": "limit: keyword fallback planner",
+  "detail": "got ['current_exposure']"
+ },
+ "PARA-22": {
+  "kind": "wrong_tools",
+  "class": "limit: keyword fallback planner",
+  "detail": "got ['check_pfe_limit']"
+ }
+}

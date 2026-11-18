@@ -81,3 +81,6 @@ def debug(message):
 def error(message):
     """Failure line. Printed at every level, including error."""
     _write("error", message)
+
+
+configure()
