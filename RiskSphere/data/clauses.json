@@ -2,37 +2,121 @@
   {
     "id": "meridian-threshold",
     "counterparty_id": "meridian",
+    "pile": "agreement",
+    "source": "Sample CSA written for this project",
     "title": "Meridian threshold",
     "text": "Meridian Capital sample CSA, paragraph 4. The Threshold for Meridian Capital is USD 1,000,000. Exposure below the Threshold does not require a delivery."
   },
   {
     "id": "meridian-mta",
     "counterparty_id": "meridian",
+    "pile": "agreement",
+    "source": "Sample CSA written for this project",
     "title": "Meridian minimum transfer",
     "text": "Meridian Capital sample CSA, paragraph 5. The Minimum Transfer Amount is USD 250,000. A delivery smaller than the Minimum Transfer Amount is not required."
   },
   {
+    "id": "meridian-rounding",
+    "counterparty_id": "meridian",
+    "pile": "agreement",
+    "source": "Sample CSA written for this project",
+    "title": "Meridian rounding",
+    "text": "Meridian Capital sample CSA, paragraph 6. A delivery amount is rounded up and a return amount is rounded down to the nearest USD 10,000."
+  },
+  {
+    "id": "meridian-eligible",
+    "counterparty_id": "meridian",
+    "pile": "agreement",
+    "source": "Sample CSA written for this project",
+    "title": "Meridian eligible collateral",
+    "text": "Meridian Capital sample CSA, eligible collateral. Only USD cash may be posted."
+  },
+  {
     "id": "apex-threshold",
     "counterparty_id": "apex",
+    "pile": "agreement",
+    "source": "Sample CSA written for this project",
     "title": "Apex threshold",
     "text": "Apex Financial sample CSA, paragraph 4. The Threshold for Apex Financial is USD 500,000. The Minimum Transfer Amount is USD 100,000."
   },
   {
     "id": "apex-eligible",
     "counterparty_id": "apex",
+    "pile": "agreement",
+    "source": "Sample CSA written for this project",
     "title": "Apex eligible collateral",
     "text": "Apex Financial sample CSA, eligible collateral. USD cash and corporate bonds may be posted. Corporate bonds take the haircut from our stage 1 schedule before they count as coverage."
   },
   {
+    "id": "apex-rounding",
+    "counterparty_id": "apex",
+    "pile": "agreement",
+    "source": "Sample CSA written for this project",
+    "title": "Apex rounding",
+    "text": "Apex Financial sample CSA, paragraph 6. A delivery amount is rounded up and a return amount is rounded down to the nearest USD 10,000."
+  },
+  {
     "id": "harbor-threshold",
     "counterparty_id": "harbor",
+    "pile": "agreement",
+    "source": "Sample CSA written for this project",
     "title": "Harbor Lane threshold",
     "text": "Harbor Lane sample CSA, paragraph 4. The Threshold is USD 0. The Minimum Transfer Amount is USD 50,000. Any positive net exposure above the Minimum Transfer Amount is called."
   },
   {
+    "id": "harbor-rounding",
+    "counterparty_id": "harbor",
+    "pile": "agreement",
+    "source": "Sample CSA written for this project",
+    "title": "Harbor rounding",
+    "text": "Harbor Lane sample CSA, paragraph 6. A delivery amount is rounded up and a return amount is rounded down to the nearest USD 10,000."
+  },
+  {
+    "id": "harbor-eligible",
+    "counterparty_id": "harbor",
+    "pile": "agreement",
+    "source": "Sample CSA written for this project",
+    "title": "Harbor eligible collateral",
+    "text": "Harbor Lane sample CSA, eligible collateral. Only USD cash may be posted."
+  },
+  {
     "id": "haircut-note",
     "counterparty_id": "",
-    "title": "Stage 1 haircut note",
-    "text": "Stage 1 haircut schedule used by the calculator, not the full BCBS table. Cash haircut is 0 percent. Government bond haircut is 1 percent. Corporate bond haircut is 8 percent. Equity haircut is 15 percent."
+    "pile": "haircut_schedule",
+    "source": "BCBS-IOSCO d499 Appendix B, the table the calculator uses (typed in by hand, not yet checked against the PDF)",
+    "title": "Calculator haircut schedule",
+    "text": "Haircut schedule used by the calculator, from BCBS-IOSCO d499 Appendix B. Cash haircut is 0 percent. Government bonds rated AA- or better are 0.5 percent under one year, 2 percent for one to five years, and 4 percent over five years. Corporate bonds rated AA- or better are 1 percent under one year, 4 percent for one to five years, and 8 percent over five years. Corporate bonds rated A+ to BBB- are 2 percent under one year, 6 percent for one to five years, and 12 percent over five years. Main index equity is 15 percent. Other equity is 25 percent. Gold is 15 percent."
+  },
+  {
+    "id": "cfr45-government",
+    "counterparty_id": "",
+    "pile": "haircut_schedule",
+    "source": "12 CFR Appendix B to Part 45, Table B (US rule, no rating buckets). See data/docs/haircut_schedule_12cfr45.md",
+    "title": "12 CFR Table B government debt",
+    "text": "12 CFR Appendix B to Part 45, Table B. Eligible government and related debt has a discount of 0.5 percent under one year, 2.0 percent from one to five years, and 4.0 percent over five years."
+  },
+  {
+    "id": "cfr45-gse",
+    "counterparty_id": "",
+    "pile": "haircut_schedule",
+    "source": "12 CFR Appendix B to Part 45, Table B (US rule, no rating buckets). See data/docs/haircut_schedule_12cfr45.md",
+    "title": "12 CFR Table B GSE debt",
+    "text": "12 CFR Appendix B to Part 45, Table B. Eligible GSE debt not identified in section 45.6(a)(2)(iv) or (b)(5) has a discount of 1.0 percent under one year, 4.0 percent from one to five years, and 8.0 percent over five years."
+  },
+  {
+    "id": "cfr45-other-debt",
+    "counterparty_id": "",
+    "pile": "haircut_schedule",
+    "source": "12 CFR Appendix B to Part 45, Table B (US rule, no rating buckets). See data/docs/haircut_schedule_12cfr45.md",
+    "title": "12 CFR Table B other debt",
+    "text": "12 CFR Appendix B to Part 45, Table B. Other eligible publicly traded debt has a discount of 1.0 percent under one year, 4.0 percent from one to five years, and 8.0 percent over five years."
+  },
+  {
+    "id": "cfr45-equity-gold",
+    "counterparty_id": "",
+    "pile": "haircut_schedule",
+    "source": "12 CFR Appendix B to Part 45, Table B (US rule, no rating buckets). See data/docs/haircut_schedule_12cfr45.md",
+    "title": "12 CFR Table B equities and gold",
+    "text": "12 CFR Appendix B to Part 45, Table B. Equities in the S&P 500 or a related index have a discount of 15.0 percent. Equities in the S&P 1500 Composite or a related index but not the S&P 500 have a discount of 25.0 percent. Gold has a discount of 15.0 percent."
   }
 ]

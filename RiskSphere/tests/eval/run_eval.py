@@ -250,6 +250,9 @@ def main():
     global PACE_SECONDS
     planners = ["offline", "live"] if a.planner == "both" else [a.planner]
     splits = a.splits.split(",")
+    if not casebook.load_cases(splits) and not casebook.load_conversations(splits):
+        sys.exit(f"No cases in split(s) {a.splits!r}. Only the 'dev' split exists today; "
+                 "the frozen 'test' split (blind questions) has not been written yet.")
     for planner in planners:
         if planner == "offline":
             os.environ.update(PFE_LLM_OFF="1", LLM_API_KEY="", LLM_BASE_URL="", EMBED_API_KEY="", EMBED_BASE_URL="")

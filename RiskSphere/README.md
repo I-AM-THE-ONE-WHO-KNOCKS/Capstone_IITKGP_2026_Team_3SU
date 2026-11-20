@@ -17,7 +17,7 @@ The model plans the steps and, sometimes, writes the sentences afterwards. Pytho
 - Collateral coverage: eligible value after the haircut, then a shortfall or a surplus against what the agreement requires. An asset that is not eligible does not count.
 - A credit number from a probability of default and a loss given default that I store on the book. Expected loss is those two times an exposure. The exposure is either today's figure or the simulated future figure, and the label says which. I will not call it regulatory exposure at default.
 
-**Stage 4 is the documents. I have not built the filings.** I do have a ranker for a handful of sample sentences. It uses a hosted embedding model when that service answers, and shared words when it does not. A quoted sentence stays only when the quote is in the passage. Agreement text and the haircut schedule stay in separate piles. A term I read out of a filing does not replace the book until a named person approves it. The sentences I have now are samples I wrote.
+**Stage 4 is the documents. The search runs. I have not built the filings or the approval step.** A question that asks what a document says goes to a search tool, `search_clauses`, and not to a calculation. It ranks a small set of sentences with a hosted embedding model when that service answers, and with shared words when it does not. A sentence must also share a topic word with the question, so a question nothing answers returns no passage. The answer is the passage word for word, with its source. A quoted sentence stays only when the quote is in the passage. Agreement text and the haircut schedule stay in separate piles, and the search never mixes them. A term I read out of a document does not replace the book until a named person approves it, and I have not built that approval step yet: the search only reads, and a request to change a term is stopped by the action check. The agreement sentences are samples I wrote. The haircut pile holds the table the calculator uses and the US rule, 12 CFR Appendix B to Part 45, which I downloaded and saved in `data/docs/`.
 
 **Stage 5 is the report. I have not built it.** I want an alert for a breach, a shortfall, or a stale price, then one report that names the run, the inputs, the formulas, the seed, the path count, and the warnings. A margin notice, a stress book, and a dispute row would each be marked as a draft. I also want a frozen list of questions, and one run with the model switched off. There is still no collateral transfer. "Send the notice" still stops at the action check.
 
@@ -37,7 +37,7 @@ A positive mark means I am in the money. The counterparty owes me.
 
 1. For each trade, the mark is quantity times (Yahoo price minus entry price).
 2. The gross mark is the sum of those.
-3. Collateral that counts is the face amount times (1 minus the haircut). The haircut is the standardised schedule, in percent. Cash is 0. I map Apex's corporate bonds to corporate, rating A+ to BBB−, maturity over 5 years, which is 12%. Harbor and Meridian post cash. I still have to read that table against the published schedule.
+3. Collateral that counts is the face amount times (1 minus the haircut). The haircut is the standardised schedule, in percent. Cash is 0. I map Apex's corporate bonds to corporate, rating A+ to BBB−, maturity over 5 years, which is 12%. Harbor and Meridian post cash. The table is BCBS-IOSCO d499 Appendix B, typed in by hand. I still have to read it against the published PDF. The US rule, 12 CFR Appendix B to Part 45, has no rating buckets, so it agrees with the AA- rows, equities and gold, and gives 8% where this table gives 12%. I keep that rule as a separate document in `data/docs/`.
 4. Today's exposure is the larger of (gross mark minus collateral value) and zero. I compare that with the limit I typed. Utilization over 100% is BREACH. Utilization from 85% is WARNING. Otherwise the status is OK. I decide the status on the unrounded ratio, then I show the percent to one decimal.
 5. Future exposure is a separate calculation. I simulate the net mark forward and compare the peak collateralised 95% point with the same limit. The collateral in that test is variation margin inside the paths, lagged by the margin period of risk. It is the posted cash only in the sense that the agreement terms (threshold, minimum transfer, independent amount) come from the same contract. The cash balance itself is not an input to the paths.
 6. Credit support is the larger of zero and (gross mark plus independent amount minus threshold). Independent amount is 0 for all three names.
@@ -67,11 +67,12 @@ The gateway allows one active request, 60 a minute, 8,192 tokens in plus out, an
 | Margin, threshold, minimum transfer, delivery | margin call | Agreement terms, then the credit-support formula | No |
 | Spot or volatility of a named ticker | market data | Yahoo history, last close, one-year vol | No |
 | A haircut cell, with no book name | regulatory haircut | A lookup in the standardised table | No |
+| What a CSA, a clause, or the haircut schedule says | document search | Rank the passages of one pile, keep those that share a topic word, return them word for word | No |
 | Future exposure, or potential future exposure | future-exposure check | Engine checks, then the paths, then the peak against the limit | No |
 | Send, approve, release, book, pay, or change a limit | nothing | The action check stops the question | No call at all |
 | Legal advice, a personal identifier, or an instruction to ignore the rules | nothing | The matching check stops the question | No call at all |
 
-I can rank the sample sentences with the embedding service. A question does not call that ranker yet, and it is not one of the MCP tools. A question about the wording of an agreement still goes to the margin calculation, which reads the terms I stored.
+A question about what a document says goes to the document search, which is the sixth MCP tool. "What does the Meridian CSA say about the minimum transfer amount?" returns the sentence from the sample agreement. "What is Meridian's threshold?" still goes to the margin calculation, because it asks for a figure. An agreement belongs to one name, so "What does the CSA say about rounding?" asks which counterparty. The haircut schedule needs no name. A question that asks for wording and also for legal advice is still stopped by the legal check.
 
 A follow-up uses the remembered name only when the question says it, its, their, or them. "Limit" on its own still means today's exposure. "Future exposure" does not also run today's exposure.
 
@@ -234,7 +235,7 @@ This question never reaches the model or a calculation.
 
 ## What this slice leaves out
 
-I am not searching filings, and I am not writing a file for a person to sign. The future exposure is a simulation against the limit I typed. Expected loss, the initial-margin proxy, and the consolidated report are later. A question uses two model calls at most, the plan and then the wording, plus one rewrite when the critic objects. I kept the rewrite count at one so a demo question stays short on a key that allows one request at a time.
+I am not searching real filings, only sample sentences and two haircut tables, and I am not writing a file for a person to sign. The future exposure is a simulation against the limit I typed. Expected loss, the initial-margin proxy, and the consolidated report are later. A question uses two model calls at most, the plan and then the wording, plus one rewrite when the critic objects. I kept the rewrite count at one so a demo question stays short on a key that allows one request at a time.
 
 ## How the pieces fit
 
@@ -249,7 +250,7 @@ Six specialists plus an orchestrator. In RiskSphere the orchestrator is the only
 | Margin | Python. Variation margin from the agreement. Later an initial-margin proxy with its own label. | Variation margin in stage 1. The proxy in stage 3 |
 | Collateral | Python. The haircut table now. Later eligible value, shortfall, and surplus. | Haircut in stage 1. Coverage in stage 3 |
 | Counterparty and reporting | Python for the limit test and, later, expected loss. Qwen may narrate only after the numbers exist. | Limit in stage 1. Expected loss in stage 3. Report in stage 5 |
-| Documents | The hosted embedding model, plus word overlap. A quote check before a sentence is kept. | Ranker now. Filings in stage 4 |
+| Documents | The hosted embedding model, plus word overlap and a topic-word floor. A quote check before a sentence is kept. | Search over samples in stage 4. Real filings and the approval step are not built |
 
 ```mermaid
 flowchart TD
@@ -314,7 +315,7 @@ classDiagram
     +expected_loss(name) stage3
   }
   class Documents {
-    +search_clauses(query)
+    +search_clauses(query, pile, counterparty)
   }
   Orchestrator --> MarketRisk
   Orchestrator --> FutureExposure
@@ -388,24 +389,32 @@ sequenceDiagram
   end
 ```
 
-### Stage 4, once I build it
+### Stage 4, as a document question moves
+
+The approval step is not built. A request to change a term is stopped by the action check before any plan.
 
 ```mermaid
 sequenceDiagram
   actor Analyst
-  participant Planner as Qwen3-8B
-  participant Search as embedding model plus word overlap
+  participant Guard as Six checks
+  participant Planner as Qwen3-8B or keywords
+  participant Search as search_clauses, embedding model plus word overlap
   participant Store as agreement pile or haircut-schedule pile
   participant Gate as Quote check
 
-  Analyst->>Planner: what does the text say
-  Planner->>Search: the question
-  Search->>Store: the two piles stay separate
-  Store-->>Gate: passage
-  alt the sentence quotes the passage
-    Gate-->>Analyst: the line is kept
-  else a term would change the stored book
-    Gate-->>Analyst: held until a named person approves it
+  Analyst->>Guard: what does the text say
+  alt change a term, legal advice, or off topic
+    Guard-->>Analyst: stopped by the matching check
+  else
+    Guard->>Planner: the question
+    Planner->>Search: the user's words, the pile, the counterparty
+    Search->>Store: one pile only, the two never mix
+    Store-->>Gate: passages that share a topic word
+    alt a passage answers
+      Gate-->>Analyst: the passage word for word, with its source
+    else nothing shares a topic word
+      Gate-->>Analyst: no passage found, nothing quoted
+    end
   end
 ```
 
@@ -430,3 +439,7 @@ sequenceDiagram
     Exec-->>Person: answer plus the draft. Approval is still open.
   end
 ```
+
+## Testing
+
+The test suite runs offline with no keys: `python3 -m venv .venv && .venv/bin/pip install -r requirements-dev.txt && .venv/bin/pytest -q`. See [tests/TESTING.md](tests/TESTING.md) for how to run the scored reports and the live-model evaluation, how to read the results, and the known limits. [tests/TEST_CASES.md](tests/TEST_CASES.md) lists every case.

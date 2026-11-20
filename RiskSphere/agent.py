@@ -48,7 +48,11 @@ ACTION_RE = re.compile(
     r"\b(" + _ACTION_VERBS + r")\b.{0,40}"
     r"\b(margin( call| transfer)?|the call|limit|trade|collateral|breach|delivery( amount)?|return( amount)?|"
     r"payment|transfer|funds)\b"
-    r"|\b(send|issue|release|wire|execute|approve|authori[sz]e)\s+(it|them|this|that)\b",
+    r"|\b(send|issue|release|wire|execute|approve|authori[sz]e)\s+(it|them|this|that)\b"
+    # Editing a stored term. A term changes only after a named person approves it, never from a question.
+    r"|\b(change|update|edit|rewrite|amend|modify|replace|overwrite|revise|raise|lower|reduce|increase|decrease|set)\b.{0,40}"
+    r"\b(thresholds?|mta|minimum transfer( amount)?|rounding|independent amount|clauses?|paragraphs?|csa|agreement|terms?)\b"
+    r".{0,40}\b(to|so)\b",
     re.I,
 )
 LEGAL_RE = re.compile(
@@ -61,7 +65,8 @@ DOMAIN_RE = re.compile(
     r"(pfe|exposure|margin|collateral|csa|isda|haircut|limit|counterpart|threshold|mta|"
     r"minimum transfer|mtm|credit support|volatil|\bvol\b|price|spot|breach|yahoo|quote|trading|ticker|"
     r"\bbonds?\b|equit(y|ies)|\bgold\b|discount|"
-    r"eligible|independent amount|\bits\b|\bit\b)",
+    r"eligible|independent amount|\bits\b|\bit\b|"
+    r"clauses?|paragraph|agreement|annex|\bcfr\b|basel|bcbs|d499|schedule|table b|(publicly traded|government|eligible|gse) debt)",
     re.I,
 )
 # A desk word does not make a question about something else in scope.
@@ -415,6 +420,9 @@ def prefilter(question, state=None):
         return _finish_guards(checks)
     import search
     sem_hits = search.match_intents(question, threshold=float(load_config().get("scope_threshold", 0.62)))
+    # "What does X say about Y?" fits any subject, so a likeness to the document examples proves nothing.
+    # A real document question has a document word, which the keyword check above already accepts.
+    sem_hits = [h for h in sem_hits if h["tool"] != "search_clauses"]
     if sem_hits:
         top = sem_hits[0]
         checks.append(_guard(
@@ -432,6 +440,7 @@ def prefilter(question, state=None):
 
 
 _TOOL_TO_INTENT = {
+    "search_clauses": "document_search",
     "current_exposure": "current_exposure",
     "check_pfe_limit": "future_exposure",
     "calculate_margin_call": "margin_call",
@@ -447,6 +456,66 @@ _REQUIRED_ARG = {
     "regulatory_haircut": "asset_class",
 }
 _TICKER_RE = re.compile(r"\b(SPY|SHY|LQD|EURUSD=X|QQQ|GLD|TLT)\b", re.I)
+
+# A question about what a document says, as opposed to a question about a number.
+# "What is Meridian's threshold?" is a calculation. "What does the Meridian CSA say
+# about the threshold?" asks for the wording, so it goes to the document search.
+_DOC_WORDS_RE = re.compile(r"\b(clauses?|paragraphs?|wording|verbatim)\b", re.I)
+_DOC_ASK_RE = re.compile(
+    r"\b(says?|said|states?|stipulat\w+|provid(es?)|written|quote the|cite|according to|per the|spell(s)? out)\b", re.I
+)
+_DOC_NOUN_RE = re.compile(
+    r"\b(csa|credit support (annex|agreement)|agreement|schedule|annex|document|regulation|cfr|d499|bcbs|basel|"
+    r"table|rule)\b",
+    re.I,
+)
+_SCHEDULE_NAMED_RE = re.compile(r"\b(cfr|d499|bcbs|basel|table b)\b|haircut schedule|discount schedule", re.I)
+_AGREEMENT_NAMED_RE = re.compile(r"\b(csa|agreement|credit support)\b", re.I)
+_SCHEDULE_TOPIC_RE = re.compile(
+    r"haircut|discount|schedule|s&p|equit|\bgold\b|government (bond|debt)|\bgse\b|publicly traded", re.I
+)
+
+
+def is_document_question(question):
+    """True when the question asks what a document says, not for a calculated figure."""
+    if _DOC_WORDS_RE.search(question):
+        return True
+    return bool(_DOC_ASK_RE.search(question) and _DOC_NOUN_RE.search(question))
+
+
+def infer_pile(question):
+    """Which pile a document question belongs to: "haircut_schedule" or "agreement".
+
+    A named regulation or table wins, then a named agreement, then the topic words.
+    Python decides this, so a model that picks the wrong pile does not change the answer.
+    """
+    if _SCHEDULE_NAMED_RE.search(question):
+        return "haircut_schedule"
+    if _AGREEMENT_NAMED_RE.search(question):
+        return "agreement"
+    if _SCHEDULE_TOPIC_RE.search(question):
+        return "haircut_schedule"
+    return "agreement"
+
+
+def _norm_text(text):
+    return re.sub(r"\s+", " ", text.lower()).strip()
+
+
+def quoted_strings(text):
+    """Every stretch of text inside double quotes that is long enough to be a quotation."""
+    return [a or b for a, b in re.findall(r'"([^"]{8,})"|\u201c([^\u201d]{8,})\u201d', text)]
+
+
+def quote_ok(quote, passages):
+    """True when the quotation appears word for word in one of the passages.
+
+    Case and spacing are ignored, and so are the full stop or comma at the ends.
+    This is the check behind the rule that a quoted sentence stays only when the
+    quote is in the passage.
+    """
+    needle = _norm_text(quote).strip(" .,;:")
+    return bool(needle) and any(needle in _norm_text(p) for p in passages)
 
 
 def _stated_buckets(question):
@@ -505,10 +574,18 @@ def _normalize_step(step, cfg):
     elif tool == "get_market_data":
         ticker = str(args.get("ticker", "")).strip().upper()
         args = {"ticker": ticker}
+    elif tool == "search_clauses":
+        raw_cid = str(args.get("counterparty", "")).strip()
+        cid = books.find_party(books.names_only(), raw_cid) if raw_cid else ""
+        pile = str(args.get("pile") or "").strip()
+        if pile not in cfg.get("piles", ["agreement", "haircut_schedule"]):
+            pile = ""
+        args = {"query": str(args.get("query") or "").strip(), "pile": pile, "counterparty": cid}
     else:
         asset = str(args.get("asset_class", "")).strip()
         if asset and asset not in cfg["asset_classes"]:
-            raise ValueError(f"asset_class must be one of {cfg['asset_classes']}")
+            log.debug(f"planner gave asset_class {asset!r}, not in the table; blanked")
+            asset = ""  # ground_args fills it from the question, or check_missing_args asks for it
         maturity = str(args.get("maturity_bucket") or "1-5y")
         rating = str(args.get("rating_bucket") or "AAA-AA-")
         if maturity not in cfg["maturity_buckets"]:
@@ -569,6 +646,8 @@ def check_missing_args(plan, cfg):
     for step in plan.get("steps") or []:
         tool = step["tool"]
         req = _REQUIRED_ARG.get(tool)
+        if tool == "search_clauses" and step["args"].get("pile") == "agreement":
+            req = "counterparty"  # an agreement belongs to one name; the schedules do not
         if req and not step["args"].get(req):
             msg = clarifications.get(req) or f"Please specify {req} for {tool}."
             return {
@@ -658,8 +737,19 @@ def ground_args(question, plan, state):
     """
     last = state.get("last_counterparty") or ""
     follow = bool(re.search(r"\b(it|its|their|them)\b", question.lower()))
+    if is_document_question(question) and not any(s["tool"] == "search_clauses" for s in plan.get("steps") or []):
+        if plan.get("steps") and not plan.get("refuse"):
+            named = books.find_party(books.names_only(), question)
+            plan["steps"] = [{"tool": "search_clauses", "args": {
+                "query": question, "pile": infer_pile(question), "counterparty": named or (last if follow else ""),
+            }}]
+            plan["intent"] = ["document_search"]
+            plan["reason"] = "the question asks what a document says, so it goes to the document search"
     for step in plan.get("steps") or []:
         args = step["args"]
+        if step["tool"] == "search_clauses":
+            args["query"] = question  # the search runs on the user's words, never on a model rewrite
+            args["pile"] = infer_pile(question)
         cid = args.get("counterparty")
         if cid and not (_mentioned(cid, question) or (follow and cid == last)):
             args["counterparty"] = ""
@@ -667,7 +757,23 @@ def ground_args(question, plan, state):
         if ticker and ticker.lower() not in question.lower():
             args["ticker"] = ""
         if step["tool"] == "regulatory_haircut":
+            stated = _extract_haircut_args(question)["asset_class"]
+            if stated and (not args.get("asset_class") or
+                           (stated.startswith("equity") and args["asset_class"].startswith("equity"))):
+                args["asset_class"] = stated  # "other equities" is not the main index, whatever the model said
             args.update(_stated_buckets(question))  # buckets stated in words win over the model's guess
+    named = books.find_party(books.names_only(), question)
+    if named and not is_document_question(question):
+        for i, step in enumerate(plan.get("steps") or []):
+            if step["tool"] == "regulatory_haircut":
+                # A haircut on a named counterparty's collateral is part of its margin call (README).
+                plan["steps"][i] = {"tool": "calculate_margin_call", "args": {"counterparty": named}}
+        tools = []
+        for step in plan.get("steps") or []:
+            if step not in tools:
+                tools.append(step)
+        plan["steps"] = tools
+        plan["intent"] = [_TOOL_TO_INTENT[s["tool"]] for s in plan["steps"]] or plan.get("intent")
     return plan
 
 
@@ -683,6 +789,19 @@ def heuristic_plan(question, state):
     follow = bool(re.search(r"\b(it|its|their|them)\b", lowered))
     cid = named or (state.get("last_counterparty") if follow else "") or ""
     steps = []
+    if is_document_question(question):
+        steps.append({"tool": "search_clauses", "args": {
+            "query": question, "pile": infer_pile(question), "counterparty": cid,
+        }})
+        plan = {
+            "intent": ["document_search"],
+            "refuse": False,
+            "refusal_reason": "",
+            "reason": "keyword plan, model was not called. The question asks what a document says.",
+            "steps": steps,
+            "router": "rules",
+        }
+        return check_missing_args(validate_plan(plan, cfg), cfg)
     if re.search(r"haircut|discount|knocked off|percentage (is )?(taken )?off", lowered) and not named:
         steps.append({"tool": "regulatory_haircut", "args": _extract_haircut_args(question)})
     ticker = _TICKER_RE.search(question)
@@ -721,6 +840,8 @@ def heuristic_plan(question, state):
                 args = _extract_haircut_args(question)
             elif tool == "get_market_data":
                 args = {"ticker": ticker.group(1).upper() if ticker else ""}
+            elif tool == "search_clauses":
+                args = {"query": question, "pile": infer_pile(question), "counterparty": cid}
             else:
                 args = {"counterparty": cid}
             steps.append({"tool": tool, "args": args})
@@ -764,6 +885,14 @@ def plan_with_model(question, state):
     plan = validate_plan(_json_object(raw), cfg)
     plan = _fill_last(question, plan, state)
     plan = ground_args(question, plan, state)
+    if any(s["tool"] == "search_clauses" for s in plan.get("steps") or []) and not is_document_question(question):
+        # The model picked the document search for a question that asks for a figure. Python decides
+        # what a document question is, so the keyword plan answers instead of a quoted passage.
+        fallback = heuristic_plan(question, state)
+        fallback["router"] = "qwen3-8b"
+        fallback["reason"] = "model chose the document search for a question that is not about wording; keyword plan used"
+        fallback["prompt"] = prompt
+        return fallback
     plan["router"] = "qwen3-8b"
     plan["prompt"] = prompt
     return check_missing_args(plan, cfg)
@@ -810,6 +939,7 @@ def critic(text, tool_result):
     issues = []
     blob = json.dumps(tool_result)
     allowed = set(re.findall(r"\d{3,}", blob))
+    allowed |= {n.replace(",", "") for n in re.findall(r"\d{1,3}(?:,\d{3})+", blob)}  # 1,000,000 in a quoted passage
     spoken = set(re.findall(r"\d{1,3}(?:,\d{3})+|\d{4,}", text))
     bad = sorted(item.replace(",", "") for item in spoken if item.replace(",", "") not in allowed)
     if bad:
@@ -850,6 +980,16 @@ def critic(text, tool_result):
                 issues.append("haircut percent missing from the wording")
         if row.get("tool") == "get_market_data" and str(output.get("spot")) not in text:
             issues.append("spot missing from the wording")
+        if row.get("tool") == "search_clauses":
+            passages = [h["text"] for h in output.get("hits") or []]
+            quotes = quoted_strings(text)
+            if passages and not quotes:
+                issues.append("no passage is quoted")
+            for quote in quotes:
+                if not quote_ok(quote, passages):
+                    issues.append("quote is not in the passage: " + quote[:50])
+            if not passages and not re.search(r"no passage|nothing|not found|no match|did not find|could not find", low):
+                issues.append("wording does not say that no passage was found")
     ran = {row.get("tool") for row in tool_result}
     if "calculate_margin_call" not in ran and re.search(r"margin call|no margin|no call", low):
         issues.append("wording talks about a margin call but that tool did not run")

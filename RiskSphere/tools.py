@@ -202,12 +202,49 @@ def regulatory_haircut(asset_class, maturity_bucket="1-5y", rating_bucket="AAA-A
     }
 
 
+def search_clauses(query, pile="agreement", counterparty=""):
+    """Find the passages of one pile that answer a question about what a document says.
+
+    pile is "agreement" (the sample CSA sentences) or "haircut_schedule" (the
+    calculator's table and the 12 CFR table). The piles never mix. counterparty,
+    when given, narrows the agreement pile to that name. Reads only: nothing here
+    changes a stored term. The passages come back word for word, with the id and
+    the source of each, so the answer can be quoted and checked. found is False,
+    with no hits, when nothing in the pile shares a topic word with the question.
+    """
+    import search
+
+    query = str(query or "").strip()
+    if not query:
+        raise ValueError("query is empty")
+    pile = pile or "agreement"
+    cid = ""
+    if counterparty:
+        cid = books.find_party(books.names_only(), str(counterparty))
+        if not cid:
+            raise ValueError(f"unknown counterparty {counterparty!r}")
+    found = search.search(query, counterparty_id=cid, pile=pile)
+    out = {
+        "tool": "search_clauses",
+        "query": query,
+        "pile": pile,
+        "mode": found["mode"],
+        "found": bool(found["hits"]),
+        "hits": found["hits"],
+        "note": "Passages are samples written for the project, not a filing. Nothing was changed.",
+    }
+    if cid:
+        out["counterparty_id"] = cid
+    return out
+
+
 HANDLERS = {
     "current_exposure": current_exposure,
     "calculate_margin_call": calculate_margin_call,
     "get_market_data": get_market_data,
     "regulatory_haircut": regulatory_haircut,
     "check_pfe_limit": check_pfe_limit,
+    "search_clauses": search_clauses,
 }
 
 
@@ -216,7 +253,8 @@ def run(name, args):
 
     name is a key of HANDLERS. args is the dict from the plan.
     Market data reads ticker. A haircut reads asset_class, maturity_bucket,
-    and rating_bucket. The other tools read counterparty.
+    and rating_bucket. A document search reads query, pile, and counterparty.
+    The other tools read counterparty.
     Logs the call at trace and the JSON result at debug. Raises ValueError
     for an unknown name, and whatever the tool raises on a bad input.
     """
@@ -233,6 +271,8 @@ def run(name, args):
             args.get("maturity_bucket") or "1-5y",
             args.get("rating_bucket") or "AAA-AA-",
         )
+    elif name == "search_clauses":
+        result = fn(args.get("query"), args.get("pile") or "agreement", args.get("counterparty") or "")
     else:
         result = fn(args.get("counterparty"))
     log.debug("tool out " + name + " " + json.dumps(result))

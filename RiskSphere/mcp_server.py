@@ -6,8 +6,8 @@ Protocol. Logs go to stderr so a log line cannot be read as a protocol message.
 
 The methods used are initialize, notifications/initialized, tools/list,
 tools/call, and ping. notifications/risksphere/reset_book drops the cached
-book before the next question. The five tools are the same calculations the
-planner already names. This process runs the Python. It does not call Qwen.
+book before the next question. The six tools are the five calculations and the
+document search the planner names. This process runs the Python. It does not call Qwen.
 """
 
 import json
@@ -108,6 +108,30 @@ TOOLS = [
                 }
             },
             "required": ["counterparty"],
+            "additionalProperties": False,
+        },
+    },
+    {
+        "name": "search_clauses",
+        "description": (
+            "Finds the sample agreement sentences, or the haircut schedule text, that answer a question "
+            "about what a document says. Returns the passages word for word with their source. "
+            "Reads only. Does not calculate and does not change any stored term."
+        ),
+        "inputSchema": {
+            "type": "object",
+            "properties": {
+                "query": {"type": "string", "description": "The question about the document."},
+                "pile": {
+                    "type": "string",
+                    "description": "agreement for CSA sentences, or haircut_schedule for the haircut tables.",
+                },
+                "counterparty": {
+                    "type": "string",
+                    "description": "Optional id or name: meridian, apex, or harbor. Agreement pile only.",
+                },
+            },
+            "required": ["query"],
             "additionalProperties": False,
         },
     },

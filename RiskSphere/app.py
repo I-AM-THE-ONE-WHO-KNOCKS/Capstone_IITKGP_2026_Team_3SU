@@ -155,6 +155,21 @@ def _tool_lines(row):
             f"books.py holds the d499 table and returned {output['haircut_pct']}%. "
             f"{output['source']}"
         ]
+    if name == "search_clauses":
+        pile = output.get("pile", "agreement").replace("_", " ")
+        who = f" for {output['counterparty_id']}" if output.get("counterparty_id") else ""
+        if not output.get("found"):
+            return [
+                f"Document search, in Python, no model. Searched the {pile} pile{who} and no passage shares a topic "
+                f"word with the question. Nothing is quoted and nothing was calculated."
+            ]
+        lines = [
+            f"Document search, in Python, no model. Searched the {pile} pile{who}, ranked with "
+            f"{output.get('mode')}. The passages below are word for word, and no stored term was changed."
+        ]
+        for hit in output["hits"]:
+            lines.append(f'Passage {hit["id"]} (score {hit["score"]}, source: {hit["source"]}): "{hit["text"]}"')
+        return lines
     return [json.dumps(output)]
 
 

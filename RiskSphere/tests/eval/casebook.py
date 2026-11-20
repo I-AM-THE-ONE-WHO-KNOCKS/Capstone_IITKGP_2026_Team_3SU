@@ -30,7 +30,7 @@ SOURCES = {"author_seed", "spec_derived", "template", "llm_paraphrase", "peer", 
 SPLITS = {"dev", "test"}
 LAYERS = {"route"}
 STOPS = {None, "kill", "injection", "pii", "action", "legal", "scope"}
-TOOLS = {"current_exposure", "calculate_margin_call", "get_market_data", "regulatory_haircut", "check_pfe_limit"}
+TOOLS = {"current_exposure", "calculate_margin_call", "get_market_data", "regulatory_haircut", "check_pfe_limit", "search_clauses"}
 MISSING_ARGS = {"counterparty", "ticker", "asset_class"}
 OVERLAP_THRESHOLD = 0.85
 

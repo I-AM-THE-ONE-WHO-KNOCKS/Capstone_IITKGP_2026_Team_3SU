@@ -4,8 +4,9 @@ The model is bge-small-en-v1.5. A request holds at most 16 texts. Vectors
 are compared with cosine similarity. If the key, the URL, or the
 certificate is missing, word overlap is used and the miss is logged.
 
-The sentences are samples written for the project. A hit does not change
-the stored terms, and the planner does not call search() yet.
+The sentences are samples written for the project, plus the 12 CFR haircut
+table. Each belongs to one pile. A hit does not change the stored terms. The
+planner reaches this through the search_clauses tool.
 """
 
 import json
@@ -25,6 +26,34 @@ from books import clause_rows
 CACHE = Path(__file__).resolve().parent / "data" / "embed_cache.json"
 INTENTS_PATH = Path(__file__).resolve().parent / "data" / "intents.json"
 BATCH = 16
+PILES = ("agreement", "haircut_schedule")
+RELATIVE_FLOOR = 0.85  # a later hit must score at least this share of the best one
+
+# Words that say what kind of question this is, not what it is about.
+_STOP = {
+    "a", "an", "the", "what", "which", "does", "do", "is", "are", "of", "in", "on", "for", "to", "and", "or",
+    "about", "say", "says", "state", "states", "it", "its", "me", "show", "tell", "give", "quote", "cite",
+    "clause", "clauses", "paragraph", "wording", "text", "document", "per", "under", "with", "our", "we",
+    "how", "much", "any", "there", "this", "that", "please", "exactly", "according", "from",
+}
+
+
+def _stem(word):
+    return word[:-1] if len(word) > 3 and word.endswith("s") else word
+
+
+def content_words(text):
+    """Lower-case words that carry the topic, with plural endings removed."""
+    return {_stem(w) for w in re.findall(r"[a-z0-9]+", text.lower()) if w not in _STOP and len(w) > 1}
+
+
+def shares_a_topic_word(question, clause):
+    """True when the question and the passage have at least one topic word in common.
+
+    This is the floor under the ranker. Without it the best of a few unrelated
+    passages would be returned for any question, and it would be quoted.
+    """
+    return bool(content_words(question) & content_words(clause["title"] + " " + clause["text"]))
 
 
 def _model():
@@ -144,12 +173,17 @@ def _save_cache(cache):
     CACHE.write_text(json.dumps(cache))
 
 
-def search(question, counterparty_id="", top=2):
+def search(question, counterparty_id="", top=2, pile=""):
     """Rank sample sentences for a question.
 
     counterparty_id, when set, keeps that name's sentences plus the shared
-    ones. top is how many hits to return. Each hit has id, title, text,
-    and score. mode is the model name, or "keyword" after a fallback.
+    ones. pile, when set, is "agreement" or "haircut_schedule" and keeps only
+    that pile; the two never mix. An unknown pile raises ValueError. top is
+    how many hits to return. Each hit has id, title, text, pile, source and
+    score. A passage that shares no topic word with the question is not
+    returned, and a later hit scoring under 85% of the best is dropped. An empty
+    hits list means nothing in the pile answers the question.
+    mode is the model name, or "keyword" after a fallback.
 
     Cached vectors are reused when the model and the sentence text match.
     A failure of the embedding call logs an error and scores by word overlap
@@ -157,6 +191,10 @@ def search(question, counterparty_id="", top=2):
     """
     agent.load_secrets()
     clauses = clause_rows()
+    if pile:
+        if pile not in PILES:
+            raise ValueError(f"pile must be one of {list(PILES)}")
+        clauses = [c for c in clauses if c.get("pile") == pile]
     if counterparty_id:
         pool = [c for c in clauses if c["counterparty_id"] in (counterparty_id, "")]
     else:
@@ -204,11 +242,19 @@ def search(question, counterparty_id="", top=2):
         scored.append((score, clause))
     scored.sort(key=lambda pair: pair[0], reverse=True)
     hits = []
-    for score, clause in scored[:top]:
+    for score, clause in scored:
+        if len(hits) == top:
+            break
+        if not shares_a_topic_word(question, clause):
+            continue
+        if hits and score < RELATIVE_FLOOR * hits[0]["score"]:
+            continue  # a weaker hit that only shares a name or a common word is noise
         hits.append({
             "id": clause["id"],
             "title": clause["title"],
             "text": clause["text"],
+            "pile": clause.get("pile", ""),
+            "source": clause.get("source", ""),
             "score": round(score, 4),
         })
     return {"mode": mode, "model": _model() if mode != "keyword" else "", "hits": hits}

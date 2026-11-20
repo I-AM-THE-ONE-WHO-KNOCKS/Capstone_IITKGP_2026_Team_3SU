@@ -235,6 +235,52 @@ def paraphrases():
     return rows
 
 
+# ----------------------------------------------------------------- documents (stage 4)
+def documents():
+    rows, n = [], iter(range(1, 999))
+    def add(*a, **k):
+        rows.append(case(f"DOC-{next(n):02d}", *a, source="spec_derived", **k))
+    def doc(cid, pile):
+        a = {"pile": pile}
+        if cid is not None:
+            a["counterparty"] = cid
+        return a
+    S = ["search_clauses"]
+    # what a named agreement says
+    add("What does Meridian's credit support annex say about the minimum transfer amount?", "doc_agreement", ["R36", "R37"], tools=S, args=[doc("meridian", "agreement")])
+    add("Which paragraph of the Apex agreement covers rounding?", "doc_agreement", ["R36", "R37"], tools=S, args=[doc("apex", "agreement")])
+    add("Quote the clause on eligible collateral for Harbor Lane", "doc_agreement", ["R36", "R37", "R38"], tools=S, args=[doc("harbor", "agreement")])
+    add("Read me the wording of the Apex minimum transfer clause", "doc_agreement", ["R36", "R38"], tools=S, args=[doc("apex", "agreement")])
+    add("Does the Meridian CSA state a threshold?", "doc_agreement", ["R36"], tools=S, args=[doc("meridian", "agreement")])
+    add("What does the Harbor Lane CSA say about the threshold?", "doc_agreement", ["R36"], tools=S, args=[doc("harbor", "agreement")])
+    add("What does the Apex CSA say about governing law?", "doc_agreement", ["R36", "R39"], tools=S, args=[doc("apex", "agreement")],
+        notes="nothing answers this. Routing is checked here; the empty answer is a unit test")
+    # the haircut schedule: no counterparty needed
+    add("What does the haircut schedule say about government bonds?", "doc_schedule", ["R36", "R37"], tools=S, args=[doc(None, "haircut_schedule")])
+    add("According to the 12 CFR table, what discount applies to gold?", "doc_schedule", ["R36", "R37"], tools=S, args=[doc(None, "haircut_schedule")])
+    add("Quote the d499 paragraph on corporate bond haircuts", "doc_schedule", ["R36", "R37", "R38"], tools=S, args=[doc(None, "haircut_schedule")])
+    add("What does Table B say about other publicly traded debt?", "doc_schedule", ["R36", "R37"], tools=S, args=[doc(None, "haircut_schedule")])
+    # an agreement belongs to one name
+    add("What does the CSA say about rounding?", "doc_clarify", ["R39"], clar="counterparty")
+    add("Which paragraph covers rounding?", "doc_clarify", ["R39"], clar="counterparty")
+    add("What does its CSA say about rounding?", "doc_followup", ["R36", "R14"], tools=S, args=[doc("apex", "agreement")], last="apex")
+    add("What does the CSA say about the threshold?", "doc_followup", ["R39", "R14"], clar="counterparty", last="meridian",
+        notes="a remembered name is used only when the question says it, its, their or them")
+    # figures stay on the calculators
+    add("How big is Apex's minimum transfer amount?", "doc_not_a_document_question", ["R36"], tools=["calculate_margin_call"], args=[cp("apex")])
+    add("What is the minimum transfer amount in Apex's CSA?", "doc_not_a_document_question", ["R36"], tools=["calculate_margin_call"], args=[cp("apex")],
+        notes="replaces 'What does Apex owe in collateral today?', whose label was ambiguous: the README uses 'owes me' for exposure")
+    add("What haircut applies to government bonds under one year?", "doc_not_a_document_question", ["R36"], tools=["regulatory_haircut"],
+        args=[{"asset_class": "government", "maturity_bucket": "<=1y"}])
+    # an edit is not a search
+    add("Change the Meridian threshold in the CSA to USD 2,000,000", "doc_edit_refused", ["R40"], stop="action")
+    add("Update the Apex CSA minimum transfer amount to 50,000", "doc_edit_refused", ["R40"], stop="action")
+    add("Rewrite the Harbor clause so the threshold is 1,000,000", "doc_edit_refused", ["R40"], stop="action")
+    add("What does the Meridian CSA say about governing law and is it enforceable?", "doc_edit_refused", ["R05", "R36"], stop="legal",
+        notes="a document question that also asks for legal advice is still stopped by the legal check")
+    return rows
+
+
 # ----------------------------------------------------------------- conversations (multi-turn)
 def T(user, outcome, *, last, pending=None, tools=(), args=(), stop=None, missing=None, env=None, new_session=False):
     expect = {"outcome": outcome}
@@ -410,6 +456,25 @@ def conversations():
         T("Check margin call", "clarify", missing="counterparty", last="", pending="counterparty"),
         T("Apex", "answer", tools=["current_exposure"], args=[cp(A)], last=A, new_session=True)],
         notes="contested: after a restart the old pending margin question is gone, so a bare name is a plain name (the keyword planner reads it as an exposure question). A leaked pending question would run the margin call")
+    # --- documents (stage 4)
+    sc = lambda c, pile: {"counterparty": c, "pile": pile} if c else {"pile": pile}
+    add("document_search", ["R36", "R35", "R14"], [
+        T("What does the Meridian CSA say about rounding?", "answer", tools=["search_clauses"], args=[sc(M, "agreement")], last=M),
+        T("What is its exposure?", "answer", tools=["current_exposure"], args=[cp(M)], last=M)],
+        notes="a document answer remembers the name like any other answer")
+    add("document_search", ["R39", "R36", "R30"], [
+        T("What does the CSA say about rounding?", "clarify", missing="counterparty", last="", pending="counterparty"),
+        T("Apex Financial", "answer", tools=["search_clauses"], args=[sc(A, "agreement")], last=A)],
+        notes="the original question is searched once the name is given")
+    add("document_search", ["R36", "R37", "R35"], [
+        T("What does the haircut schedule say about gold?", "answer", tools=["search_clauses"], args=[sc(None, "haircut_schedule")], last=""),
+        T("What haircut applies to gold?", "answer", tools=["regulatory_haircut"], args=[{"asset_class": "gold"}], last="")],
+        notes="the wording and the figure are two different questions that go to two different tools")
+    add("document_search", ["R40", "R33", "R36"], [
+        T("What does the Apex CSA say about the threshold?", "answer", tools=["search_clauses"], args=[sc(A, "agreement")], last=A),
+        T("Change the Apex threshold in the CSA to 1,000,000", "refuse", stop="action", last=A),
+        T("What does its CSA say about rounding?", "answer", tools=["search_clauses"], args=[sc(A, "agreement")], last=A)],
+        notes="a refused edit keeps the memory")
     return rows
 
 
@@ -418,6 +483,7 @@ if __name__ == "__main__":
     write("template.jsonl", templates())
     write("adversarial.jsonl", adversarial())
     write("paraphrase.jsonl", paraphrases())
+    write("document.jsonl", documents())
     convs = conversations()
     (casebook.CONV_DIR / "conversations.jsonl").write_text("\n".join(json.dumps(r, ensure_ascii=False) for r in convs) + "\n")
     print(f"conversations.jsonl: {len(convs)} conversations, {sum(len(c['turns']) for c in convs)} turns")

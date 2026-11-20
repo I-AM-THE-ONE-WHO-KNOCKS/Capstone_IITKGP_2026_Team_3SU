@@ -2,7 +2,9 @@
   {
     "intent": "current_exposure",
     "tool": "current_exposure",
-    "required_args": ["counterparty"],
+    "required_args": [
+      "counterparty"
+    ],
     "examples": [
       "Is Harbor Lane through its limit?",
       "What is Meridian's current exposure?",
@@ -14,7 +16,9 @@
   {
     "intent": "future_exposure",
     "tool": "check_pfe_limit",
-    "required_args": ["counterparty"],
+    "required_args": [
+      "counterparty"
+    ],
     "examples": [
       "What is Harbor Lane's future exposure?",
       "Run potential future exposure PFE check",
@@ -26,7 +30,9 @@
   {
     "intent": "margin_call",
     "tool": "calculate_margin_call",
-    "required_args": ["counterparty"],
+    "required_args": [
+      "counterparty"
+    ],
     "examples": [
       "What margin call do we have on Meridian?",
       "Do we need to call or return collateral?",
@@ -38,7 +44,9 @@
   {
     "intent": "market_data",
     "tool": "get_market_data",
-    "required_args": ["ticker"],
+    "required_args": [
+      "ticker"
+    ],
     "examples": [
       "What is SPY trading at?",
       "Give me the spot price and one-year volatility",
@@ -50,7 +58,9 @@
   {
     "intent": "regulatory_haircut",
     "tool": "regulatory_haircut",
-    "required_args": ["asset_class"],
+    "required_args": [
+      "asset_class"
+    ],
     "examples": [
       "What haircut applies to corporate bonds rated A to BBB over 5 years?",
       "Look up the d499 regulatory haircut schedule",
@@ -69,6 +79,18 @@
       "Tell me a joke",
       "Who won the cricket match?",
       "Write a python script to sort a list"
+    ]
+  },
+  {
+    "intent": "document_search",
+    "tool": "search_clauses",
+    "required_args": [],
+    "examples": [
+      "What does the Meridian CSA say about the minimum transfer amount?",
+      "Quote the paragraph in the Apex agreement about rounding",
+      "Which clause sets the threshold for Harbor Lane?",
+      "What does the haircut schedule say about government bonds?",
+      "According to the 12 CFR table, what discount applies to gold?"
     ]
   }
 ]
