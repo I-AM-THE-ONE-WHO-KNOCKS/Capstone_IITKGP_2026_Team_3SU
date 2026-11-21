@@ -31,7 +31,7 @@ Offline runs never call the network: the model and embedding gateways are switch
 ### Numbers
 
 - Evaluation cases: **198** (author_seed 18, llm_paraphrase 29, spec_derived 100, template 51).
-- Unit and data-guard tests: **483** collected test items (parametrised cases counted individually).
+- Unit and data-guard tests: **492** collected test items (parametrised cases counted individually).
 - Conversation scenarios: **38** (106 turns).
 - Requirements: **41**. Known issues: **2** routing and **6** conversation (strict expected failures, listed in section 6).
 - The latest live run (20261120-221246-live.json) passed 198 of 198 scored cases with the hosted Qwen3-8B planner and embeddings.
@@ -1112,6 +1112,7 @@ Document questions inside a conversation: the name is remembered, a missing name
 | `test_vague_query_clarification_and_followup` | 1 | 'Check margin call' asks for a counterparty; naming one resolves it; 'What is the haircut?' asks for an asset class. |
 | `test_critic_accepts_faithful_wording` | 1 | Wording that uses the tool's figures and status passes. |
 | `test_critic_rejects_hallucination` | 3 | A wrong figure, 'within its limit' on a BREACH, and an invented margin call are all rejected. |
+| `test_required_arg_holds_every_rule` | 9 | One function, required_arg(), says which argument each tool needs: counterparty, ticker or asset class, and for the document search a counterparty only on the agreement pile. |
 
 ### New guardrail patterns, false-refusal guards and grounding of model arguments
 

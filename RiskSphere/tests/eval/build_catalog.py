@@ -159,6 +159,7 @@ UNIT = [
         "test_vague_query_clarification_and_followup": "'Check margin call' asks for a counterparty; naming one resolves it; 'What is the haircut?' asks for an asset class.",
         "test_critic_accepts_faithful_wording": "Wording that uses the tool's figures and status passes.",
         "test_critic_rejects_hallucination": "A wrong figure, 'within its limit' on a BREACH, and an invented margin call are all rejected.",
+        "test_required_arg_holds_every_rule": "One function, required_arg(), says which argument each tool needs: counterparty, ticker or asset class, and for the document search a counterparty only on the agreement pile.",
     }),
     ("tests/unit/test_guardrail_regressions.py", "New guardrail patterns, false-refusal guards and grounding of model arguments", {
         "test_must_stop": "13 phrasings that must be stopped by the named check (injection, action, legal, scope).",

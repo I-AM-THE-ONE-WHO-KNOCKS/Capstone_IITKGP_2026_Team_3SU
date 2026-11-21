@@ -31,7 +31,7 @@ python3 -m venv .venv
 Expected result:
 
 ```
-1067 passed, 1 skipped, 10 xfailed in about 17 seconds
+1076 passed, 1 skipped, 10 xfailed in about 17 seconds
 ```
 
 This runs entirely offline. The model and embedding gateways are switched off for every test, the session file and the trace log go to a temporary folder, and market prices are recorded values, so it needs no keys and no Yahoo access. A clean checkout of the repository passes as-is.
@@ -100,7 +100,7 @@ The suite never downloads anything. Two optional scripts fetch real data, and th
 .venv/bin/python scripts/build_dtcc_book.py     # DTCC swap reports -> data/dtcc/trades_dtcc.csv (gitignored)
 ```
 
-On a fresh checkout one test is skipped (`test_real_d499_index_contains_appendix_b_and_the_minimum_transfer_rule`). Once `fetch_documents.py` has run, it runs too, and the count is 1068 passed, 10 xfailed. Apart from that one test, no test reads the local index: `conftest.py` points the search at an empty folder, so every other result is the same on every machine.
+On a fresh checkout one test is skipped (`test_real_d499_index_contains_appendix_b_and_the_minimum_transfer_rule`). Once `fetch_documents.py` has run, it runs too, and the count is 1077 passed, 10 xfailed. Apart from that one test, no test reads the local index: `conftest.py` points the search at an empty folder, so every other result is the same on every machine.
 
 `RISKSPHERE_TRADES=dtcc/trades_dtcc.csv` runs the app on the real-terms book. The tests always use the sample book.
 

@@ -448,13 +448,28 @@ _TOOL_TO_INTENT = {
     "regulatory_haircut": "regulatory_haircut",
 }
 _INTENT_TO_TOOL = {v: k for k, v in _TOOL_TO_INTENT.items()}
-_REQUIRED_ARG = {
+_ALWAYS_REQUIRED = {
     "current_exposure": "counterparty",
     "check_pfe_limit": "counterparty",
     "calculate_margin_call": "counterparty",
     "get_market_data": "ticker",
     "regulatory_haircut": "asset_class",
 }
+
+
+def required_arg(step):
+    """The one argument a planned step must have before it can run, or None.
+
+    Every rule is here. Most tools always need the same argument (_ALWAYS_REQUIRED).
+    The document search is the exception: its query is always the user's own words, so it
+    is never asked for, and a counterparty is needed only for the agreement pile, because
+    each agreement belongs to one name while the haircut schedules apply to everyone.
+    step is {"tool", "args"}.
+    """
+    tool = step["tool"]
+    if tool == "search_clauses":
+        return "counterparty" if (step.get("args") or {}).get("pile") == "agreement" else None
+    return _ALWAYS_REQUIRED.get(tool)
 _TICKER_RE = re.compile(r"\b(SPY|SHY|LQD|EURUSD=X|QQQ|GLD|TLT)\b", re.I)
 
 # A question about what a document says, as opposed to a question about a number.
@@ -645,9 +660,7 @@ def check_missing_args(plan, cfg):
     clarifications = cfg.get("clarifications") or {}
     for step in plan.get("steps") or []:
         tool = step["tool"]
-        req = _REQUIRED_ARG.get(tool)
-        if tool == "search_clauses" and step["args"].get("pile") == "agreement":
-            req = "counterparty"  # an agreement belongs to one name; the schedules do not
+        req = required_arg(step)
         if req and not step["args"].get(req):
             msg = clarifications.get(req) or f"Please specify {req} for {tool}."
             return {
@@ -672,8 +685,8 @@ def resolve_pending(question, state):
         return None
     cfg = load_config()
     tool = pending["tool"]
-    req = pending.get("missing_arg") or _REQUIRED_ARG.get(tool)
     args = dict(pending.get("args") or {})
+    req = pending.get("missing_arg") or required_arg({"tool": tool, "args": args})
     if req == "counterparty":
         cid = books.find_party(books.names_only(), question)
         if not cid:

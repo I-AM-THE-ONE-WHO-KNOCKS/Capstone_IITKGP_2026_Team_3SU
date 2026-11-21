@@ -77,3 +77,19 @@ def test_critic_accepts_faithful_wording():
 ])
 def test_critic_rejects_hallucination(text):
     assert agent.critic(text, TOOL_ROWS)
+
+
+@pytest.mark.parametrize("step,expected", [
+    ({"tool": "current_exposure", "args": {}}, "counterparty"),
+    ({"tool": "check_pfe_limit", "args": {}}, "counterparty"),
+    ({"tool": "calculate_margin_call", "args": {}}, "counterparty"),
+    ({"tool": "get_market_data", "args": {}}, "ticker"),
+    ({"tool": "regulatory_haircut", "args": {}}, "asset_class"),
+    ({"tool": "search_clauses", "args": {"pile": "agreement"}}, "counterparty"),
+    ({"tool": "search_clauses", "args": {"pile": "haircut_schedule"}}, None),
+    ({"tool": "search_clauses", "args": {}}, None),
+    ({"tool": "no_such_tool", "args": {}}, None),
+])
+def test_required_arg_holds_every_rule(step, expected):
+    """One function answers 'what must this step have?', including the document search's conditional rule."""
+    assert agent.required_arg(step) == expected
