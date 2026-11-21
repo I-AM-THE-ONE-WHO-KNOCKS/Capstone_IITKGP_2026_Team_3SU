@@ -10,6 +10,7 @@ Status date: 2026-11-20. Numbers in section 6 come from the runs listed there.
 |---|---|---|
 | Arithmetic | Exposure, status thresholds, haircuts, margin amounts and rounding, and the future-exposure (PFE) simulation, compared with hand-computed values and an independent exact-arithmetic reference (`tests/oracle.py`) | No |
 | Agent logic | The six guardrail checks and their order, plan validation, clarification questions, the critic that rejects wrong wording, and the step that drops names or tickers the question never contained | No |
+| Real data | The calculator's haircut cells against the real d499 PDF (each cell is either equal to it or labelled as an extension), the PDF download hash check, page cleaning and chunking, and the DTCC trade selection and loading | No |
 | Document search (stage 4) | The two piles never mix, a question nothing answers returns no passage, quotes must be word for word, document questions go to the search and figure questions do not, an edit of a term is refused, and the sample sentences agree with the stored terms | No |
 | Single-question cases | 198 questions, each with an expected outcome: refused by a named check, a clarification for a named argument, or specific tools and arguments | No (offline planner) or Yes (live planner) |
 | Conversations | 38 multi-turn scenarios (106 turns) that check what is remembered between turns: the last counterparty, pronouns, an open clarification, refusals in the middle, restarts | No (offline planner) or Yes (live planner) |
@@ -30,7 +31,7 @@ python3 -m venv .venv
 Expected result:
 
 ```
-986 passed, 8 xfailed in about 16 seconds
+1067 passed, 1 skipped, 10 xfailed in about 17 seconds
 ```
 
 This runs entirely offline. The model and embedding gateways are switched off for every test, the session file and the trace log go to a temporary folder, and market prices are recorded values, so it needs no keys and no Yahoo access. A clean checkout of the repository passes as-is.
@@ -90,6 +91,19 @@ To run the pytest cases against the live planner instead of the offline one: `RU
 
 A live run sends the test questions and the planner prompt to the course gateway. It sends no book data and no secrets.
 
+## 5a. Real data
+
+The suite never downloads anything. Two optional scripts fetch real data, and the tests that need it are skipped where it has not been fetched.
+
+```bash
+.venv/bin/python scripts/fetch_documents.py     # BCBS-IOSCO d499 PDF -> data/docs/index/ (gitignored)
+.venv/bin/python scripts/build_dtcc_book.py     # DTCC swap reports -> data/dtcc/trades_dtcc.csv (gitignored)
+```
+
+On a fresh checkout one test is skipped (`test_real_d499_index_contains_appendix_b_and_the_minimum_transfer_rule`). Once `fetch_documents.py` has run, it runs too, and the count is 1068 passed, 10 xfailed. Apart from that one test, no test reads the local index: `conftest.py` points the search at an empty folder, so every other result is the same on every machine.
+
+`RISKSPHERE_TRADES=dtcc/trades_dtcc.csv` runs the app on the real-terms book. The tests always use the sample book.
+
 ## 6. Latest results
 
 Single questions, 198 cases, including 22 document cases:
@@ -121,7 +135,7 @@ How to read these numbers:
 
 ## 7. Known issues
 
-Eight cases fail by design of the current code and are recorded as strict expected failures.
+Ten cases fail by design of the current code and are recorded as strict expected failures.
 
 | Id | What happens |
 |---|---|
@@ -131,6 +145,8 @@ Eight cases fail by design of the current code and are recorded as strict expect
 | CONV-11 | A counterparty name given in reply to a ticker question is answered as an exposure question. The expected behaviour here is a contested label |
 | GOLD-25 | "Compare Meridian and Apex exposure" returns one counterparty. The planner takes one counterparty per step |
 | PARA-22 | "Where are we today and where could we get to?" returns only the future-exposure tool in keyword mode. The live planner passes it |
+| Search near miss: interest | "What interest is paid on Harbor Lane's cash collateral?" matches the eligibility passage, which shares "cash collateral". The search alone cannot tell. With the model on, the answer check rejects it |
+| Search near miss: crypto | "What haircut applies to crypto assets?" matches the d499 currency row on the word "asset". With the model on, the answer check rejects it |
 
 CONV-21, CONV-33 and CONV-34 are product bugs and still unfixed. The expected behaviour for the conversation cases where the README is silent was agreed in advance: a new full question drops an open one, a refusal keeps memory and an open question, and a new run starts empty.
 

@@ -222,3 +222,80 @@ def test_checker_catches_a_wrong_rounding_clause():
     bad = {"id": "x", "counterparty_id": "apex", "title": "t",
            "text": "A delivery amount is rounded up to the nearest USD 5,000."}
     assert any("rounding" in p for p in csa_problems(bad, _terms(), _names()))
+
+
+# ----------------------------------------------------------------------------- the calculator against d499
+
+D499_FILE = books.DATA / "docs" / "d499_appendix_b.md"
+
+
+def _d499_table():
+    """Rows of the saved d499 Appendix B excerpt: {asset text: percent}."""
+    rows = {}
+    for line in D499_FILE.read_text().split("## How the calculator")[0].splitlines():
+        m = re.match(r"\| (.+?) \| ([\d.]+) \|$", line)
+        if m:
+            rows[m.group(1)] = float(m.group(2))
+    return rows
+
+
+D499_CELLS = {  # calculator cell -> the d499 row it claims to copy
+    ("cash", "1-5y", "AAA-AA-"): "Cash in same currency",
+    ("government", "<=1y", "AAA-AA-"): "High-quality government and central bank securities: residual maturity less than one year",
+    ("government", "1-5y", "AAA-AA-"): "High-quality government and central bank securities: residual maturity between one and five years",
+    ("government", ">5y", "AAA-AA-"): "High-quality government and central bank securities: residual maturity greater than five years",
+    ("corporate", "<=1y", "AAA-AA-"): "High-quality corporate\\covered bonds: residual maturity less than one year",
+    ("corporate", "1-5y", "AAA-AA-"): "High-quality corporate\\covered bonds: residual maturity greater than one year and less than five years",
+    ("corporate", ">5y", "AAA-AA-"): "High-quality corporate\\covered bonds: residual maturity greater than five years",
+    ("equity_main_index", "1-5y", "AAA-AA-"): "Equities included in major stock indices",
+    ("gold", "1-5y", "AAA-AA-"): "Gold",
+}
+
+
+def test_saved_d499_excerpt_has_the_ten_rows_of_appendix_b():
+    assert len(_d499_table()) == 10
+
+
+@pytest.mark.parametrize("cell", sorted(D499_CELLS), ids=lambda c: "-".join(c))
+def test_calculator_cell_labelled_d499_equals_the_pdf(cell):
+    assert books.haircut_source(*cell) == books.D499_SOURCE
+    assert books.haircut_pct(*cell) == _d499_table()[D499_CELLS[cell]]
+
+
+@pytest.mark.parametrize("cell", [
+    ("government", "<=1y", "A+-BBB-"), ("government", ">5y", "A+-BBB-"),
+    ("corporate", "1-5y", "A+-BBB-"), ("corporate", ">5y", "A+-BBB-"), ("equity_other", "1-5y", "AAA-AA-"),
+], ids=lambda c: "-".join(c))
+def test_cells_missing_from_d499_are_labelled_as_an_extension(cell):
+    assert books.haircut_source(*cell) == books.EXTENSION_SOURCE
+
+
+def test_every_calculator_cell_is_either_d499_or_labelled_extension():
+    for asset in books.ASSET_CLASSES:
+        for mat in books.MATURITIES:
+            for rating in books.RATINGS:
+                src = books.haircut_source(asset, mat, rating)
+                if src == books.D499_SOURCE:
+                    assert books.haircut_pct(asset, mat, rating) in _d499_table().values()
+                else:
+                    assert src == books.EXTENSION_SOURCE
+
+
+def test_haircut_tool_reports_where_the_cell_came_from():
+    import tools
+    out = tools.run("regulatory_haircut", {"asset_class": "corporate", "maturity_bucket": ">5y", "rating_bucket": "A+-BBB-"})
+    assert out["haircut_pct"] == 12.0 and out["in_d499"] is False and "Not in BCBS-IOSCO d499" in out["source"]
+    out = tools.run("regulatory_haircut", {"asset_class": "gold"})
+    assert out["in_d499"] is True
+
+
+@pytest.mark.parametrize("passage_id", ["d499-appendix-b-cash-government", "d499-appendix-b-corporate", "d499-appendix-b-equity-gold-fx"])
+def test_d499_passages_quote_the_saved_excerpt(passage_id):
+    """Every 'row figure' pair in the passage is a row of the saved excerpt with the same figure."""
+    text = next(c["text"] for c in CLAUSES if c["id"] == passage_id)
+    table = _d499_table()
+    found = [row for row in table if f"{row} {table[row]:g}" in text]
+    assert found, passage_id
+    body = text.replace("Appendix B. Standardised haircut schedule. ", "")
+    assert all(f"{r} {table[r]:g}." in body for r in found)
+    assert len(found) == body.count(". ") + 1

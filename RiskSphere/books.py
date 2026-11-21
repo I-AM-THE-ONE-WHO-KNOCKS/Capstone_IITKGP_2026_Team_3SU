@@ -12,6 +12,7 @@ future exposure is a separate simulation.
 import csv
 import json
 import math
+import os
 from pathlib import Path
 
 import market
@@ -19,7 +20,12 @@ import market
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data"
 
-# BCBS-IOSCO d499 Appendix B, in percent. Spot-check against the PDF is stage 3.
+# Haircuts in percent. Checked against the BCBS-IOSCO d499 PDF on 2026-11-20 (Appendix B,
+# printed page 26; excerpt in data/docs/d499_appendix_b.md). Cash, the AA- and above government
+# and corporate rows, main index equity and gold match d499. The A+ to BBB- rows and other equity
+# are NOT in d499. They are an extension; d499 footnote 19 says its table is based on Basel II
+# paragraph 151, which is the likely origin, not yet confirmed. d499 also adds 8% when the
+# collateral currency differs from the obligation; that add-on is not modelled here.
 HAIRCUTS = {
     "cash": 0.0,
     "government": {
@@ -35,6 +41,9 @@ HAIRCUTS = {
     "gold": 15.0,
 }
 ASSET_CLASSES = list(HAIRCUTS)
+D499_SOURCE = "BCBS-IOSCO d499 Appendix B (2020)"
+EXTENSION_SOURCE = ("Not in BCBS-IOSCO d499. An extension for lower ratings and non-index equity, "
+                    "likely from Basel II paragraph 151 (not yet confirmed)")
 MATURITIES = ["<=1y", "1-5y", ">5y"]
 RATINGS = ["AAA-AA-", "A+-BBB-"]
 
@@ -45,6 +54,16 @@ POSTED = {
     "corporate_bond": ("corporate", ">5y", "A+-BBB-"),
     "equity": ("equity_main_index", "1-5y", "AAA-AA-"),
 }
+
+
+def haircut_source(asset_class, maturity_bucket="1-5y", rating_bucket="AAA-AA-"):
+    """Where one cell of the table comes from: d499, or the extension that d499 does not contain."""
+    rating = rating_bucket if rating_bucket in RATINGS else "AAA-AA-"
+    if asset_class == "equity_other":
+        return EXTENSION_SOURCE
+    if asset_class in ("government", "corporate") and rating == "A+-BBB-":
+        return EXTENSION_SOURCE
+    return D499_SOURCE
 
 
 def haircut_pct(asset_class, maturity_bucket="1-5y", rating_bucket="AAA-AA-"):
@@ -68,9 +87,15 @@ def haircut_pct(asset_class, maturity_bucket="1-5y", rating_bucket="AAA-AA-"):
 
 
 def _read_csv(name):
-    """Read one book table as a list of dicts. name is the file under data/."""
+    """Read one book table as a list of dicts. name is the file under data/, or an absolute path."""
     with (DATA / name).open(newline="") as handle:
         return list(csv.DictReader(handle))
+
+
+def trades_file():
+    """The trades table to load. RISKSPHERE_TRADES, when set, names another file under data/
+    (for example dtcc/trades_dtcc.csv from scripts/build_dtcc_book.py). The default is trades.csv."""
+    return os.environ.get("RISKSPHERE_TRADES", "").strip() or "trades.csv"
 
 
 def _money(value):
@@ -129,7 +154,7 @@ def load_book():
     names = {row["counterparty_id"]: row for row in _read_csv("counterparties.csv")}
     limits = {row["counterparty_id"]: _money(row["pfe_limit"]) for row in _read_csv("limits.csv")}
     terms = {row["counterparty_id"]: row for row in _read_csv("csa_terms.csv")}
-    trades = _read_csv("trades.csv")
+    trades = _read_csv(trades_file())
     collateral = _read_csv("collateral.csv")
     quotes = market.fetch_quotes(sorted({row["symbol"] for row in trades}))
 
@@ -265,9 +290,19 @@ def find_party(book, text):
     return ""
 
 
+DOC_INDEX_DIR = DATA / "docs" / "index"
+
+
 def clause_rows():
-    """Sample agreement sentences for the ranker. Not a filing, and not priced."""
-    return json.loads((DATA / "clauses.json").read_text())
+    """Passages for the document search.
+
+    The sample agreement sentences and haircut excerpts in data/clauses.json, plus any
+    real document passages that scripts/fetch_documents.py has indexed into
+    data/docs/index/. Without that index the search still works on clauses.json alone.
+    """
+    import documents
+
+    return json.loads((DATA / "clauses.json").read_text()) + documents.load_index(DOC_INDEX_DIR)
 
 
 if __name__ == "__main__":

@@ -380,3 +380,44 @@ def test_a_real_document_question_keeps_the_search(monkeypatch):
             ["document_search"])
     plan = agent.plan_with_model("What does the Apex CSA say about rounding?", {})
     assert [s["tool"] for s in plan["steps"]] == ["search_clauses"]
+
+
+# ----------------------------------------------------------------------------- names are not topics
+# Found by hand on 2026-11-21: "What does the Apex CSA say about governing law?" returned two Apex
+# passages, because "Apex" and "CSA" counted as shared topic words.
+
+@pytest.mark.parametrize("question,counterparty,pile", [
+    ("What does the Apex CSA say about governing law?", "apex", "agreement"),
+    ("What does the Meridian Capital agreement say about netting?", "meridian", "agreement"),
+    ("What does the Harbor Lane credit support annex say about termination events?", "harbor", "agreement"),
+    ("What does the 12 CFR haircut schedule say about crypto?", "", "haircut_schedule"),
+    ("What does BCBS d499 Appendix B say about real estate?", "", "haircut_schedule"),
+])
+def test_a_company_or_document_name_alone_is_not_a_match(question, counterparty, pile):
+    assert search.search(question, counterparty_id=counterparty, pile=pile)["hits"] == []
+
+
+@pytest.mark.parametrize("question,counterparty,pile,expected", [
+    ("What does the Meridian CSA say about the minimum transfer amount?", "meridian", "agreement", "meridian-mta"),
+    ("What does the Apex agreement say about rounding?", "apex", "agreement", "apex-rounding"),
+    ("What does the Harbor Lane CSA say about eligible collateral?", "harbor", "agreement", "harbor-eligible"),
+    ("What does the 12 CFR table say about other publicly traded debt?", "", "haircut_schedule", "cfr45-other-debt"),
+    ("According to BCBS d499, what is the haircut on gold?", "", "haircut_schedule", None),
+])
+def test_the_subject_of_the_question_still_finds_its_passage(question, counterparty, pile, expected):
+    hits = search.search(question, counterparty_id=counterparty, pile=pile, top=3)["hits"]
+    assert hits, question
+    if expected:
+        assert expected in [h["id"] for h in hits]
+
+
+# Near misses that no current method rejects (measured 2026-11-21 with bge-small-en-v1.5): the
+# passage shares the question's words but does not answer it. Strict, so a fix turns these red.
+@pytest.mark.xfail(strict=True, reason="near miss: shares 'cash' and 'collateral' but says nothing about interest")
+def test_known_issue_interest_on_cash_collateral_is_not_answered_by_eligibility():
+    assert search.search("What interest is paid on Harbor Lane's cash collateral?", counterparty_id="harbor", pile="agreement")["hits"] == []
+
+
+@pytest.mark.xfail(strict=True, reason="near miss: shares 'asset' with the currency-mismatch row but crypto is not in any schedule")
+def test_known_issue_crypto_assets_are_not_in_the_schedule():
+    assert search.search("What haircut applies to crypto assets?", pile="haircut_schedule")["hits"] == []

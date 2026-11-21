@@ -83,9 +83,33 @@
     "id": "haircut-note",
     "counterparty_id": "",
     "pile": "haircut_schedule",
-    "source": "BCBS-IOSCO d499 Appendix B, the table the calculator uses (typed in by hand, not yet checked against the PDF)",
+    "source": "The calculator's table in books.py. Checked against BCBS-IOSCO d499 on 2026-11-20",
     "title": "Calculator haircut schedule",
-    "text": "Haircut schedule used by the calculator, from BCBS-IOSCO d499 Appendix B. Cash haircut is 0 percent. Government bonds rated AA- or better are 0.5 percent under one year, 2 percent for one to five years, and 4 percent over five years. Corporate bonds rated AA- or better are 1 percent under one year, 4 percent for one to five years, and 8 percent over five years. Corporate bonds rated A+ to BBB- are 2 percent under one year, 6 percent for one to five years, and 12 percent over five years. Main index equity is 15 percent. Other equity is 25 percent. Gold is 15 percent."
+    "text": "Haircut schedule used by the calculator. Its cash, AA- or better, main index equity and gold rows match BCBS-IOSCO d499 Appendix B. Its A+ to BBB- rows and other equity are not in d499. Cash haircut is 0 percent. Government bonds rated AA- or better are 0.5 percent under one year, 2 percent for one to five years, and 4 percent over five years. Corporate bonds rated AA- or better are 1 percent under one year, 4 percent for one to five years, and 8 percent over five years. Corporate bonds rated A+ to BBB- are 2 percent under one year, 6 percent for one to five years, and 12 percent over five years. Main index equity is 15 percent. Other equity is 25 percent. Gold is 15 percent."
+  },
+  {
+    "id": "d499-appendix-b-cash-government",
+    "counterparty_id": "",
+    "pile": "haircut_schedule",
+    "source": "BCBS-IOSCO, Margin requirements for non-centrally cleared derivatives (d499, April 2020), Appendix B, page 26. Brief excerpt; (c) Bank for International Settlements 2020",
+    "title": "d499 Appendix B cash and government securities",
+    "text": "Appendix B. Standardised haircut schedule. Cash in same currency 0. High-quality government and central bank securities: residual maturity less than one year 0.5. High-quality government and central bank securities: residual maturity between one and five years 2. High-quality government and central bank securities: residual maturity greater than five years 4."
+  },
+  {
+    "id": "d499-appendix-b-corporate",
+    "counterparty_id": "",
+    "pile": "haircut_schedule",
+    "source": "BCBS-IOSCO, Margin requirements for non-centrally cleared derivatives (d499, April 2020), Appendix B, page 26. Brief excerpt; (c) Bank for International Settlements 2020",
+    "title": "d499 Appendix B corporate and covered bonds",
+    "text": "Appendix B. Standardised haircut schedule. High-quality corporate\\covered bonds: residual maturity less than one year 1. High-quality corporate\\covered bonds: residual maturity greater than one year and less than five years 4. High-quality corporate\\covered bonds: residual maturity greater than five years 8."
+  },
+  {
+    "id": "d499-appendix-b-equity-gold-fx",
+    "counterparty_id": "",
+    "pile": "haircut_schedule",
+    "source": "BCBS-IOSCO, Margin requirements for non-centrally cleared derivatives (d499, April 2020), Appendix B, page 26. Brief excerpt; (c) Bank for International Settlements 2020",
+    "title": "d499 Appendix B equities, gold and currency mismatch",
+    "text": "Appendix B. Standardised haircut schedule. Equities included in major stock indices 15. Gold 15. Additional (additive) haircut on asset in which the currency of the derivatives obligation differs from that of the collateral asset 8."
   },
   {
     "id": "cfr45-government",

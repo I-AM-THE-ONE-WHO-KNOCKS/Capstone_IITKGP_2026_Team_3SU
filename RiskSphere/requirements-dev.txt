@@ -1,1 +1,2 @@
 pytest>=8
+pypdf==5.4.0  # only for scripts/fetch_documents.py; the app does not need it

@@ -17,7 +17,7 @@ The model plans the steps and, sometimes, writes the sentences afterwards. Pytho
 - Collateral coverage: eligible value after the haircut, then a shortfall or a surplus against what the agreement requires. An asset that is not eligible does not count.
 - A credit number from a probability of default and a loss given default that I store on the book. Expected loss is those two times an exposure. The exposure is either today's figure or the simulated future figure, and the label says which. I will not call it regulatory exposure at default.
 
-**Stage 4 is the documents. The search runs. I have not built the filings or the approval step.** A question that asks what a document says goes to a search tool, `search_clauses`, and not to a calculation. It ranks a small set of sentences with a hosted embedding model when that service answers, and with shared words when it does not. A sentence must also share a topic word with the question, so a question nothing answers returns no passage. The answer is the passage word for word, with its source. A quoted sentence stays only when the quote is in the passage. Agreement text and the haircut schedule stay in separate piles, and the search never mixes them. A term I read out of a document does not replace the book until a named person approves it, and I have not built that approval step yet: the search only reads, and a request to change a term is stopped by the action check. The agreement sentences are samples I wrote. The haircut pile holds the table the calculator uses and the US rule, 12 CFR Appendix B to Part 45, which I downloaded and saved in `data/docs/`.
+**Stage 4 is the documents. The search runs. I have not built the filings or the approval step.** A question that asks what a document says goes to a search tool, `search_clauses`, and not to a calculation. It ranks a small set of sentences with a hosted embedding model when that service answers, and with shared words when it does not. A sentence must also share a topic word with the question, so a question nothing answers returns no passage. The answer is the passage word for word, with its source. A quoted sentence stays only when the quote is in the passage. Agreement text and the haircut schedule stay in separate piles, and the search never mixes them. A term I read out of a document does not replace the book until a named person approves it, and I have not built that approval step yet: the search only reads, and a request to change a term is stopped by the action check. The agreement sentences are samples I wrote. The haircut pile holds the table the calculator uses, the US rule (12 CFR Appendix B to Part 45), and the real BCBS-IOSCO d499 PDF. The d499 licence allows brief excerpts with the source stated, so I commit only its Appendix B table; `scripts/fetch_documents.py` downloads the whole PDF, checks its hash, and cuts it into about 200 passages that stay on my machine. Each d499 answer cites its page.
 
 **Stage 5 is the report. I have not built it.** I want an alert for a breach, a shortfall, or a stale price, then one report that names the run, the inputs, the formulas, the seed, the path count, and the warnings. A margin notice, a stress book, and a dispute row would each be marked as a draft. I also want a frozen list of questions, and one run with the model switched off. There is still no collateral transfer. "Send the notice" still stops at the action check.
 
@@ -37,7 +37,7 @@ A positive mark means I am in the money. The counterparty owes me.
 
 1. For each trade, the mark is quantity times (Yahoo price minus entry price).
 2. The gross mark is the sum of those.
-3. Collateral that counts is the face amount times (1 minus the haircut). The haircut is the standardised schedule, in percent. Cash is 0. I map Apex's corporate bonds to corporate, rating A+ to BBB−, maturity over 5 years, which is 12%. Harbor and Meridian post cash. The table is BCBS-IOSCO d499 Appendix B, typed in by hand. I still have to read it against the published PDF. The US rule, 12 CFR Appendix B to Part 45, has no rating buckets, so it agrees with the AA- rows, equities and gold, and gives 8% where this table gives 12%. I keep that rule as a separate document in `data/docs/`.
+3. Collateral that counts is the face amount times (1 minus the haircut). The haircut is the standardised schedule, in percent. Cash is 0. I map Apex's corporate bonds to corporate, rating A+ to BBB−, maturity over 5 years, which is 12%. Harbor and Meridian post cash. I read the table against the BCBS-IOSCO d499 PDF on 2026-11-20. Cash, the AA- and above bond rows, main index equity, and gold match its Appendix B. The A+ to BBB- rows and other equity, 25%, are not in d499, so Apex's 12% is my extension and not a d499 figure. d499 says its table is based on Basel II paragraph 151, which is the likely origin of those rows; I have not checked that. d499 also adds 8% when the collateral currency differs from the obligation. I do not model that add-on, and every trade and collateral row in the sample book is in USD. Each haircut result now names its source. The US rule, 12 CFR Appendix B to Part 45, has no rating buckets, so it agrees with the AA- rows, equities and gold, and gives 8% where this table gives 12%. I keep that rule as a separate document in `data/docs/`.
 4. Today's exposure is the larger of (gross mark minus collateral value) and zero. I compare that with the limit I typed. Utilization over 100% is BREACH. Utilization from 85% is WARNING. Otherwise the status is OK. I decide the status on the unrounded ratio, then I show the percent to one decimal.
 5. Future exposure is a separate calculation. I simulate the net mark forward and compare the peak collateralised 95% point with the same limit. The collateral in that test is variation margin inside the paths, lagged by the margin period of risk. It is the posted cash only in the sense that the agreement terms (threshold, minimum transfer, independent amount) come from the same contract. The cash balance itself is not an input to the paths.
 6. Credit support is the larger of zero and (gross mark plus independent amount minus threshold). Independent amount is 0 for all three names.
@@ -137,6 +137,15 @@ A variable that is already set in the shell wins over the file.
 
 The names, trades, collateral, limits, and agreement terms are already in `data/`. They are the sample book. Prices are not stored there. The first question that needs a price downloads it from Yahoo. If Yahoo does not answer, that question stops. An old price file is not used in its place.
 
+### 3a. Real data, optional
+
+Two scripts fetch real, public data. Neither file goes into the repository.
+
+- `python3 scripts/fetch_documents.py` downloads the BCBS-IOSCO d499 PDF (the margin standard my haircut table is checked against), checks its SHA-256, and indexes it for the document search. It needs `pypdf` from `requirements-dev.txt`. Without it, the search uses the sample sentences and the saved excerpts only.
+- `python3 scripts/build_dtcc_book.py` downloads one day of DTCC's public swap reports (about 58 MB) and writes `data/dtcc/trades_dtcc.csv`: three real S&P 500 index swaps and three real EUR/USD forwards. The size, price, and dates are real. The reports are anonymous and do not say who bought, so I deal the trades to Meridian, Apex, and Harbor Lane and alternate the direction; every row says so and keeps its DTCC id. Collateral, terms, and limits stay my sample values. The index swaps are marked on the S&P 500 total return index (`^SP500TR`), because that is the level the reports show. I have not checked DTCC's terms of use, so the data stays local.
+
+To run the app on the real-terms book: `RISKSPHERE_TRADES=dtcc/trades_dtcc.csv python3 app.py`. On 2026-11-20 every counterparty had zero exposure today, because the index was below the entry levels and my invented direction is long, and the future exposure of Apex and Harbor Lane breached their limits, because real trades are tens of millions in size and my limits were typed for the small sample book.
+
 ### 4. Start it
 
 ```bash
@@ -231,11 +240,11 @@ This question never reaches the model or a calculation.
 
 - "What margin call do we have on Meridian?" The plan is a margin call. Python reads the threshold, the minimum transfer, and the rounding, then rounds a delivery up. The result is flagged for a person. I do not send the call.
 - "And its limit?" In the same process I still remember Meridian. The plan is today's exposure, without the name being typed again.
-- "What haircut applies to corporate bonds rated A to BBB over 5 years?" The plan is a haircut lookup. The table returns 12%. Yahoo is not called. The last counterparty is not used. I still have to read that cell against the published schedule.
+- "What haircut applies to corporate bonds rated A to BBB over 5 years?" The plan is a haircut lookup. The table returns 12%. Yahoo is not called. The last counterparty is not used. The result says that this cell is not in d499.
 
 ## What this slice leaves out
 
-I am not searching real filings, only sample sentences and two haircut tables, and I am not writing a file for a person to sign. The future exposure is a simulation against the limit I typed. Expected loss, the initial-margin proxy, and the consolidated report are later. A question uses two model calls at most, the plan and then the wording, plus one rewrite when the critic objects. I kept the rewrite count at one so a demo question stays short on a key that allows one request at a time.
+I am not searching real filings, only sample sentences, two haircut tables, and the d499 PDF, and I am not writing a file for a person to sign. The future exposure is a simulation against the limit I typed. Expected loss, the initial-margin proxy, and the consolidated report are later. A question uses two model calls at most, the plan and then the wording, plus one rewrite when the critic objects. A document question uses the plan and then an answer check instead of the wording: Qwen reads the passages the search found and says which one answers the question, or that none does. Its reply is only yes or no and a passage id from the list, so it writes none of the answer. When Qwen names a passage, that passage is the answer. When it says none answers, the answer says "No passage in the documents answers this question directly." and still shows the closest passage underneath, labelled as judged not to answer, so a wrong "no" never hides the real answer. When the model is off or its reply is unusable, the best passage from the search is shown and marked as not checked. I kept the rewrite count at one so a demo question stays short on a key that allows one request at a time.
 
 ## How the pieces fit
 
@@ -400,7 +409,7 @@ sequenceDiagram
   participant Planner as Qwen3-8B or keywords
   participant Search as search_clauses, embedding model plus word overlap
   participant Store as agreement pile or haircut-schedule pile
-  participant Gate as Quote check
+  participant Gate as Answer check, Qwen yes or no
 
   Analyst->>Guard: what does the text say
   alt change a term, legal advice, or off topic
@@ -410,10 +419,14 @@ sequenceDiagram
     Planner->>Search: the user's words, the pile, the counterparty
     Search->>Store: one pile only, the two never mix
     Store-->>Gate: passages that share a topic word
-    alt a passage answers
-      Gate-->>Analyst: the passage word for word, with its source
+    alt Qwen names a passage that answers
+      Gate-->>Analyst: that passage word for word, with its source
+    else Qwen says none answers
+      Gate-->>Analyst: no passage answers directly, then the closest one, labelled not an answer
     else nothing shares a topic word
       Gate-->>Analyst: no passage found, nothing quoted
+    else the model is off or its reply is unusable
+      Gate-->>Analyst: the best passage, marked not checked
     end
   end
 ```

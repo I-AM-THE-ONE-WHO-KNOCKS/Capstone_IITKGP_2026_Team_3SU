@@ -15,3 +15,9 @@ outputs/
 .venv/
 .pytest_cache/
 tests/results/*.json
+
+# Real documents: the BIS licence allows brief excerpts only, so the PDF and its full-text index stay local.
+data/docs/raw/
+data/docs/index/
+# DTCC public swap data: terms of use not yet checked, so raw files and derived samples stay local.
+data/dtcc/

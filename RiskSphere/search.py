@@ -38,6 +38,25 @@ _STOP = {
 }
 
 
+# Names of documents and of the source itself. Every passage of a pile shares these, so they
+# say which document is meant, not what the question is about.
+_DOCUMENT_NAMES = {
+    "csa", "credit", "support", "annex", "agreement", "contract", "schedule", "table", "sample",
+    "haircut", "d499", "bcbs", "iosco", "basel", "cfr", "12", "part", "45", "appendix", "b",
+    "standardised", "standardized", "regulation", "rule", "framework", "paragraph",
+}
+
+
+def _counterparty_names():
+    """Every word of every counterparty name and id, for example meridian, capital, apex, harbor, lane."""
+    import books
+
+    words = set()
+    for row in books.names_only():
+        words.update(re.findall(r"[a-z0-9]+", (row["name"] + " " + row["counterparty_id"]).lower()))
+    return words
+
+
 def _stem(word):
     return word[:-1] if len(word) > 3 and word.endswith("s") else word
 
@@ -47,13 +66,21 @@ def content_words(text):
     return {_stem(w) for w in re.findall(r"[a-z0-9]+", text.lower()) if w not in _STOP and len(w) > 1}
 
 
+def topic_words(text):
+    """The words that say what a question is about: content words minus document and company names."""
+    names = {_stem(w) for w in _DOCUMENT_NAMES | _counterparty_names()}  # "bcbs" is stemmed to "bcb" too
+    return {w for w in content_words(text) if w not in names}
+
+
 def shares_a_topic_word(question, clause):
     """True when the question and the passage have at least one topic word in common.
 
     This is the floor under the ranker. Without it the best of a few unrelated
-    passages would be returned for any question, and it would be quoted.
+    passages would be returned for any question, and it would be quoted. Company and
+    document names do not count: every Apex passage says "Apex" and "CSA", so a question
+    about Apex's governing law must not match on those words alone.
     """
-    return bool(content_words(question) & content_words(clause["title"] + " " + clause["text"]))
+    return bool(topic_words(question) & content_words(clause["title"] + " " + clause["text"]))
 
 
 def _model():

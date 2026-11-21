@@ -82,7 +82,7 @@ def _tool_lines(row):
         for line in output.get("collateral") or []:
             lines.append(
                 f"Collateral for {output['counterparty_name']}. Read {line['asset']} from collateral.csv, "
-                f"face {_money(line['amount'])}. Looked up the d499 table in books.py for "
+                f"face {_money(line['amount'])}. Looked up the haircut table in books.py for "
                 f"{line['asset_class']}, {line['rating_bucket']}, {line['maturity_bucket']}, which is a "
                 f"{line['haircut_pct']}% haircut. Amount that counts is face times (1 minus that haircut), "
                 f"{_money(line['counted'])}."
@@ -102,7 +102,7 @@ def _tool_lines(row):
         for line in output.get("collateral") or []:
             lines.append(
                 f"Collateral for {output['counterparty_name']}. Read {line['asset']} from collateral.csv, "
-                f"face {_money(line['amount'])}. The d499 row for this asset is a {line['haircut_pct']}% haircut, "
+                f"face {_money(line['amount'])}. The haircut table row for this asset is a {line['haircut_pct']}% haircut, "
                 f"so the amount that counts is {_money(line['counted'])}."
             )
         lines.append(
@@ -152,7 +152,7 @@ def _tool_lines(row):
         return [
             f"Haircut lookup, in Python, no model. The plan asked for {output['asset_class']}, "
             f"{output['rating_bucket']}, {output['maturity_bucket']}. "
-            f"books.py holds the d499 table and returned {output['haircut_pct']}%. "
+            f"books.py holds the haircut table and returned {output['haircut_pct']}%. "
             f"{output['source']}"
         ]
     if name == "search_clauses":
@@ -171,6 +171,54 @@ def _tool_lines(row):
             lines.append(f'Passage {hit["id"]} (score {hit["score"]}, source: {hit["source"]}): "{hit["text"]}"')
         return lines
     return [json.dumps(output)]
+
+
+def _document_answer(question, rows, flags, steps):
+    """The answer to a document question: the passage itself, never model wording.
+
+    With the model on, one call (agent.check_answer) replaces the wording call and decides
+    whether a retrieved passage answers the question. Yes: that passage is the answer, word
+    for word, with its source. No: the answer says no passage answers directly, and the
+    closest passage is still shown underneath, labelled as judged not to answer, so a wrong
+    "no" never hides the real answer. The reply is unusable or the model is off: the best
+    passage from the search stands, and the answer says it was not checked.
+    Returns the wording to show. Changes rows in place so the payload matches the answer.
+    """
+    row = rows[0]
+    output = row["output"]
+    hits = output.get("hits") or []
+    if not output.get("found") or not hits:
+        _say(steps, "No passage to check, so no model call was made.")
+        return "No passage in the documents answers this question."
+    if not agent.llm_enabled():
+        _say(steps, "Answer check: not run, because the model is off. The best passage from the search is shown, unchecked.")
+        flags.append("answer_check:off")
+        top = hits[0]
+        return f'"{top["text"]}" (source: {top["source"]}; not checked by the model)'
+    verdict = agent.check_answer(question, hits)
+    output["answer_check"] = verdict
+    if not verdict["checked"]:
+        flags.append("answer_check:unavailable")
+        _say(steps, f"Answer check: Qwen/Qwen3-8B could not decide ({verdict['error']}). "
+                    "The best passage from the search is shown, unchecked.")
+        top = hits[0]
+        return f'"{top["text"]}" (source: {top["source"]}; not checked by the model)'
+    if not verdict["answers"]:
+        flags.append("answer_check:no")
+        output["answers_question"] = False  # the passages stay in the result, marked as not answering
+        top = hits[0]
+        _say(steps, "Answer check: Qwen/Qwen3-8B read the passages above and said none of them answers the question. "
+                    "The closest passage is shown, labelled as not an answer.")
+        return ("No passage in the documents answers this question directly.\n"
+                f'Closest passage found, which the model judged does not answer it: "{top["text"]}" '
+                f'(source: {top["source"]})')
+    flags.append("answer_check:yes")
+    output["answers_question"] = True
+    chosen = next(h for h in hits if h["id"] == verdict["passage_id"])
+    output["hits"] = [chosen] + [h for h in hits if h["id"] != chosen["id"]]
+    _say(steps, f"Answer check: Qwen/Qwen3-8B said passage {chosen['id']} answers the question. "
+                "It is shown word for word; the model wrote none of it.")
+    return f'"{chosen["text"]}" (source: {chosen["source"]})'
 
 
 def _remember(question, results, state):
@@ -308,7 +356,10 @@ def answer(question):
 
     _remember(question, results, state)
     usable = [row for row in results if row["ok"]]
-    if agent.llm_enabled() and plan.get("router") == "qwen3-8b" and usable:
+    documents_only = bool(usable) and all(row["tool"] == "search_clauses" for row in usable)
+    if documents_only:
+        wording = _document_answer(question, usable, flags, steps)
+    elif agent.llm_enabled() and plan.get("router") == "qwen3-8b" and usable:
         issues = ["not checked"]
         for _ in range(cfg.get("critic_retries", 1) + 1):
             try:

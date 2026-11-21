@@ -1,9 +1,10 @@
-"""The calculations the planner is allowed to run.
+"""The tools the planner is allowed to run: five calculations and a document search.
 
 Each public function returns a dict and does not call the chat gateway.
 current_exposure and calculate_margin_call read the marked book.
 get_market_data talks to Yahoo for one ticker. regulatory_haircut is a
 table lookup. check_pfe_limit runs the future-exposure simulation.
+search_clauses finds document passages word for word and changes nothing.
 
 run(name, args) is what the MCP server calls. The console does not call it
 directly. Unknown names raise. The marked book is cached for the question
@@ -188,8 +189,8 @@ def regulatory_haircut(asset_class, maturity_bucket="1-5y", rating_bucket="AAA-A
     """One cell of the standardised haircut schedule.
 
     Does not need a counterparty and does not call Yahoo. Unknown maturity
-    or rating falls back to 1-5y and AAA-AA-. Returns the percent and a
-    source note. The table has not yet been spot-checked against the PDF.
+    or rating falls back to 1-5y and AAA-AA-. Returns the percent and the
+    source of that cell: BCBS-IOSCO d499, or the extension that d499 does not contain.
     """
     pct = books.haircut_pct(asset_class, maturity_bucket, rating_bucket)
     return {
@@ -198,7 +199,8 @@ def regulatory_haircut(asset_class, maturity_bucket="1-5y", rating_bucket="AAA-A
         "maturity_bucket": maturity_bucket if maturity_bucket in books.MATURITIES else "1-5y",
         "rating_bucket": rating_bucket if rating_bucket in books.RATINGS else "AAA-AA-",
         "haircut_pct": pct,
-        "source": "BCBS-IOSCO standardised haircut schedule, Appendix B of d499. Not yet spot-checked against the PDF.",
+        "in_d499": books.haircut_source(asset_class, maturity_bucket, rating_bucket) == books.D499_SOURCE,
+        "source": books.haircut_source(asset_class, maturity_bucket, rating_bucket),
     }
 
 
@@ -206,7 +208,8 @@ def search_clauses(query, pile="agreement", counterparty=""):
     """Find the passages of one pile that answer a question about what a document says.
 
     pile is "agreement" (the sample CSA sentences) or "haircut_schedule" (the
-    calculator's table and the 12 CFR table). The piles never mix. counterparty,
+    calculator's table, the 12 CFR table, and the BCBS-IOSCO d499 excerpts, plus
+    the whole d499 PDF when scripts/fetch_documents.py has been run). The piles never mix. counterparty,
     when given, narrows the agreement pile to that name. Reads only: nothing here
     changes a stored term. The passages come back word for word, with the id and
     the source of each, so the answer can be quoted and checked. found is False,
@@ -231,7 +234,9 @@ def search_clauses(query, pile="agreement", counterparty=""):
         "mode": found["mode"],
         "found": bool(found["hits"]),
         "hits": found["hits"],
-        "note": "Passages are samples written for the project, not a filing. Nothing was changed.",
+        "note": ("Agreement passages are samples written for the project. Haircut-schedule passages "
+                 "quote real documents (BCBS-IOSCO d499, 12 CFR Part 45); each hit names its source. "
+                 "Nothing was changed."),
     }
     if cid:
         out["counterparty_id"] = cid

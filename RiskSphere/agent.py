@@ -898,6 +898,44 @@ def plan_with_model(question, state):
     return check_missing_args(plan, cfg)
 
 
+def check_answer(question, hits):
+    """Ask Qwen whether one of the retrieved passages answers the question. One model call.
+
+    This replaces the wording call for a document question: the reply is not shown to the
+    user, it only picks a passage or rejects them all. hits is the search tool's list
+    (id, text, ...). Returns {"checked", "answers", "passage_id", "error"}:
+      checked False  -> the model could not be asked, or its reply was unusable (bad JSON,
+                        a missing field, or an id that was not in the list). The caller keeps
+                        the word-rule result and says the answer was not checked.
+      answers False  -> no passage answers the question.
+      answers True   -> passage_id is one of the ids that were sent.
+    The passages are document text; the reply is limited to a yes/no and an id from the list,
+    so text inside a passage cannot make the model say anything that reaches the user.
+    """
+    cfg = load_config()
+    ids = [h["id"] for h in hits]
+    passages = "\n".join(f"[{h['id']}] {h['text']}" for h in hits)
+    prompt = fill_prompt(cfg["answer_check_prompt"], question=question, passages=passages)
+    out = {"checked": False, "answers": False, "passage_id": "", "error": ""}
+    try:
+        with _LOCK:
+            raw = chat(prompt, max_tokens=cfg.get("answer_check_max_tokens", 120))
+        reply = _json_object(raw)
+    except Exception as exc:
+        out["error"] = f"answer check failed: {exc}"
+        return out
+    answers = reply.get("answers")
+    pid = str(reply.get("passage_id") or "").strip()
+    if not isinstance(answers, bool):
+        out["error"] = "answer check reply has no true/false answers field"
+        return out
+    if answers and pid not in ids:
+        out["error"] = f"answer check named passage {pid!r}, which was not in the list"
+        return out
+    out.update(checked=True, answers=answers, passage_id=pid if answers else "")
+    return out
+
+
 def compose(question, tool_result, issues=None):
     """Ask Qwen to phrase a result that Python already computed.
 

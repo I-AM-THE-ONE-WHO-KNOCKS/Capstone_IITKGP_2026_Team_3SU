@@ -34,12 +34,15 @@ def isolated_env(tmp_path, monkeypatch):
     """Temp state/trace files, gateways off, kill switch off."""
     monkeypatch.setattr(agent, "STATE_PATH", tmp_path / "session_state.json")
     monkeypatch.setattr(agent, "TRACE_PATH", tmp_path / "traces.jsonl")
+    # A locally fetched document index must not change test results on one machine only.
+    monkeypatch.setattr("books.DOC_INDEX_DIR", tmp_path / "no_doc_index")
     if not LIVE:
         # Empty (not unset) so agent.load_secrets() will not fill them in.
         for key in ("LLM_API_KEY", "LLM_BASE_URL", "EMBED_API_KEY", "EMBED_BASE_URL"):
             monkeypatch.setenv(key, "")
         monkeypatch.setenv("PFE_LLM_OFF", "1")
     monkeypatch.setenv("PFE_KILL_SWITCH", "0")
+    monkeypatch.delenv("RISKSPHERE_TRADES", raising=False)  # tests always use the sample book
     yield
 
 
