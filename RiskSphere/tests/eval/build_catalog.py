@@ -260,6 +260,9 @@ UNIT = [
         "test_a_capitalised_start_on_the_next_page_is_a_new_sentence": "A new sentence starting on the next page is not joined to the previous page.",
         "test_bullet_items_are_separate_sentences": "Bullet items (•) each start their own sentence.",
         "test_citation_names_a_page_range_when_a_passage_spans_two_pages": "The citation says 'PDF pages 1-2' for a passage across two pages and 'PDF page 3' for one page.",
+        "test_prune_removes_only_old_versions_of_the_documents_passages": "Pruning removes stale cached vectors of the rebuilt document's passages only; the clauses.json excerpts (d499-appendix-b-...), sample clauses, intent examples and other documents stay.",
+        "test_prune_with_nothing_stale_leaves_the_file_untouched": "When nothing is stale, the cache file is not rewritten.",
+        "test_rebuilding_the_index_prunes_the_cache": "Rebuilding the index removes the cached vector of a passage whose text changed and reports how many were removed.",
         "test_real_d499_index_contains_appendix_b_and_the_minimum_transfer_rule": "Runs only where the PDF was fetched: the real index has Appendix B, the EUR 500,000 minimum transfer rule, and page citations.",
     }),
     ("tests/unit/test_dtcc.py", "A trade book built from real DTCC public swap reports", {

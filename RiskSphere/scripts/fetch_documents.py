@@ -13,5 +13,6 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 import documents  # noqa: E402
 
 for source in documents.SOURCES:
-    n = documents.build_index(source)
-    print(f"{source['id']}: {n} passages written to {documents.INDEX_DIR / (source['id'] + '.json')}")
+    done = documents.build_index(source)
+    print(f"{source['id']}: {done['passages']} passages written to {documents.INDEX_DIR / (source['id'] + '.json')}; "
+          f"{done['pruned']} stale cached vectors removed")

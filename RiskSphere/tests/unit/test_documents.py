@@ -168,3 +168,53 @@ def test_real_d499_index_contains_appendix_b_and_the_minimum_transfer_rule():
     assert "minimum transfer amount not to exceed €500,000" in texts
     assert all(r["pile"] == "haircut_schedule" and "PDF page" in r["source"] for r in rows)
     assert len({r["id"] for r in rows}) == len(rows)
+
+
+# ----------------------------------------------------------------------------- pruning the vector cache
+
+def _cache_file(tmp_path, monkeypatch, entries):
+    path = tmp_path / "embed_cache.json"
+    path.write_text(json.dumps(entries))
+    monkeypatch.setattr(search, "CACHE", path)
+    return path
+
+
+M = "bge-small-en-v1.5"
+
+
+def test_prune_removes_only_old_versions_of_the_documents_passages(tmp_path, monkeypatch):
+    path = _cache_file(tmp_path, monkeypatch, {
+        f"{M}::d499-p14-2::2.3 All margin transfers (new text)": [1.0],
+        f"{M}::d499-p14-2::The threshold is applied ... 2.3 All margin (old text)": [2.0],   # stale
+        f"{M}::d499-p99-1::a passage that no longer exists": [3.0],                         # stale
+        f"{M}::d499-appendix-b-corporate::Appendix B. Standardised haircut schedule.": [4.0],  # clauses.json
+        f"{M}::meridian-mta::Meridian Capital sample CSA, paragraph 5.": [5.0],
+        f"{M}::intent::margin_call::0::What margin call do we have on Meridian?": [6.0],
+        f"{M}::cfr45-gse::12 CFR Appendix B to Part 45, Table B.": [7.0],
+    })
+    removed = search.prune_cache("d499-p", {("d499-p14-2", "2.3 All margin transfers (new text)")})
+    assert removed == 2
+    left = json.loads(path.read_text())
+    assert f"{M}::d499-p14-2::2.3 All margin transfers (new text)" in left
+    assert not any("old text" in k or "no longer exists" in k for k in left)
+    assert len(left) == 5  # the current passage, the excerpt, the sample clause, the intent, the 12 CFR passage
+
+
+def test_prune_with_nothing_stale_leaves_the_file_untouched(tmp_path, monkeypatch):
+    path = _cache_file(tmp_path, monkeypatch, {f"{M}::d499-p1-1::current": [1.0]})
+    before = path.read_text()
+    assert search.prune_cache("d499-p", {("d499-p1-1", "current")}) == 0
+    assert path.read_text() == before
+
+
+def test_rebuilding_the_index_prunes_the_cache(tmp_path, monkeypatch):
+    _cache_file(tmp_path, monkeypatch, {
+        f"{M}::d499-p1-1::An old version of the first passage that is long enough to keep.": [1.0],
+        f"{M}::meridian-mta::kept": [2.0],
+    })
+    monkeypatch.setattr(documents, "fetch", lambda source, raw_dir=None: tmp_path / "d499.pdf")
+    monkeypatch.setattr(documents, "read_pdf_pages", lambda path: ["The first passage is now worded differently and is long enough."])
+    done = documents.build_index(documents.SOURCES[0], raw_dir=tmp_path, index_dir=tmp_path / "index")
+    assert done == {"passages": 1, "pruned": 1}
+    left = json.loads((tmp_path / "embed_cache.json").read_text())
+    assert list(left) == [f"{M}::meridian-mta::kept"]

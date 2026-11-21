@@ -195,6 +195,29 @@ def _load_cache():
         return {}
 
 
+def prune_cache(id_prefix, keep):
+    """Drop cached vectors for old versions of one document's passages. Returns how many went.
+
+    id_prefix selects the document, for example "d499-p" for the indexed d499 PDF. Only
+    entries whose passage id starts with it are touched; the sample sentences, the
+    clauses.json excerpts (d499-appendix-b-...), the intent examples, and other documents
+    are left alone. keep is the set of (id, text) pairs in the new index; any entry for the
+    document that is not one of them can never be used again, because a cache key includes
+    the text. Entries for another embedding model are judged by id and text alone.
+    """
+    cache = _load_cache()
+    stale = []
+    for key in cache:
+        parts = key.split("::", 2)
+        if len(parts) == 3 and parts[1].startswith(id_prefix) and (parts[1], parts[2]) not in keep:
+            stale.append(key)
+    for key in stale:
+        del cache[key]
+    if stale:
+        _save_cache(cache)
+    return len(stale)
+
+
 def _save_cache(cache):
     """Write the vector cache. cache maps a string key to a list of floats."""
     CACHE.write_text(json.dumps(cache))

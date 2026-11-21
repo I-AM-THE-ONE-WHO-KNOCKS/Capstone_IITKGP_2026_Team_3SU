@@ -176,13 +176,21 @@ def read_pdf_pages(path):
 
 
 def build_index(source, raw_dir=RAW_DIR, index_dir=INDEX_DIR):
-    """Download, check, extract, chunk, and write data/docs/index/<id>.json. Returns the row count."""
+    """Download, check, extract, chunk, and write data/docs/index/<id>.json.
+
+    Then drops cached vectors for this document's passages that are no longer in the new
+    index, so the vector cache does not grow each time the passages are rebuilt.
+    Returns {"passages": rows written, "pruned": cached vectors removed}.
+    """
+    import search
+
     path = fetch(source, raw_dir)
     pages = [clean_page(t, source["page_header"]) for t in read_pdf_pages(path)]
     rows = to_clauses(chunk_pages(pages, source["id"]), source)
     index_dir.mkdir(parents=True, exist_ok=True)
     (index_dir / f"{source['id']}.json").write_text(json.dumps(rows, indent=1, ensure_ascii=False) + "\n")
-    return len(rows)
+    pruned = search.prune_cache(f"{source['id']}-p", {(r["id"], r["text"]) for r in rows})
+    return {"passages": len(rows), "pruned": pruned}
 
 
 def load_index(index_dir=INDEX_DIR):
