@@ -12,7 +12,7 @@
 \title{RiskSphere evaluation report\\[0.4em]
 \large Live Qwen plan, live embedder, failure taxonomy}
 \author{RiskSphere}
-\date{Generated from the run of 22 November 2026, 14:42 IST}
+\date{Generated from the run of 22 November 2026, 15:00 IST}
 
 \begin{document}
 \maketitle
@@ -95,10 +95,10 @@ End-to-end accuracy & 25/27 (93\%) \\
 Task completion & 27/27 (100\%) \\
 Routing accuracy & 25/27 (93\%) \\
 Refusal accuracy & 27/27 (100\%) \\
-Average tool calls & 0.81 \\
-Latency p50 / p95 & 3.539\,s / 8.986\,s \\
+Average tool calls & 0.85 \\
+Latency p50 / p95 & 4.053\,s / 7.086\,s \\
 Chat calls & 50 \\
-Prompt / completion tokens & 39{,}867 / 3{,}163 \\
+Prompt / completion tokens & 40{,}242 / 3{,}310 \\
 Plans from Qwen & 21 \\
 Plans that were not valid JSON & 0 \\
 Wording kept & 13 \\
@@ -116,8 +116,8 @@ Twenty-one work questions were eligible for a plan. All twenty-one came back fro
 \toprule
 Category & Passed & Category & Passed \\
 \midrule
-alerts & 1/1 & notice & 1/1 \\
-clause\_d499 & 1/2 & pfe & 1/1 \\
+alerts & 0/1 & notice & 1/1 \\
+clause\_d499 & 2/2 & pfe & 1/1 \\
 coverage & 1/1 & refusal\_action & 2/2 \\
 data\_quality & 1/1 & refusal\_injection & 1/1 \\
 dispute & 1/1 & refusal\_legal & 1/1 \\
@@ -141,13 +141,13 @@ Two plans named a neighbour of the gold tool. The tool that ran did not error, s
 \toprule
 Id & Question & Expected & Ran \\
 \midrule
-exp-3 & Is Zenith Hedge Fund LLC in breach? & today's exposure & alert list \\
-csa-1 & What does the haircut schedule say about gold? & clause search & haircut cell \\
+exp-3 & Is Zenith Hedge Fund LLC in breach? & today's exposure & alerts, data check \\
+alr-1 & Are there any stale prices? & alert list & data check \\
 \bottomrule
 \end{tabular}
 \end{center}
 
-The tag on both rows is \texttt{wrong\_tool}. No other failure tag fired. The Zenith question asked whether the name is through its limit, and the plan listed alerts. The gold question asked what the schedule text says, and the plan looked up the haircut cell. The prompt already separates those tools. The 8B model still crosses that boundary. The number underneath is the Python figure for the tool that did run, not a model estimate of the gold tool.
+The tag on both rows is \texttt{wrong\_tool}. No other failure tag fired. The Zenith question asked whether the name is through its limit, and the plan listed alerts and then checked the book. The stale-price question asked for alerts, and the plan checked the book instead. The prompt already separates those tools. The 8B model still crosses that boundary. The number underneath is the Python figure for the tool that did run, not a model estimate of the gold tool.
 
 \subsection{Where the critic rejected the wording}
 
@@ -159,7 +159,7 @@ Id & Question & Why the critic dropped it \\
 \midrule
 exp-1 & Apex Capital Derivatives exposure & Margin-call language, but the margin tool did not run. \\
 exp-2 & Meridian Global Trading's limit & Same. The plan had not called the margin tool. \\
-exp-3 & Is Zenith in breach? & \texttt{BREACH} is not in the alert-list result, and the wording talks about a margin call. \\
+exp-3 & Is Zenith in breach? & \texttt{BREACH} is not in the alert or data-check result, and the wording talks about a margin call. \\
 mgn-1 & Marina Sovereign Fund margin call & The margin amount is missing from the wording. \\
 mkt-1 & One-year volatility of SPY & Spot missing from the wording. \\
 mkt-2 & Latest price of EURUSD=X & Ungrounded \texttt{096972}. Spot missing. The live close was 1.096972; the model kept a slice of it. \\
@@ -173,7 +173,7 @@ Eight drops, thirteen kept. On a drop the Python lines stay and the sentences ar
 
 \section{Retrieval}
 
-Clause search during the live questions used hybrid BM25+dense once. The table is the labelled set, scored in the same process with the embedder on.
+Clause search during the live questions used hybrid BM25+dense twice. The table is the labelled set, scored in the same process with the embedder on.
 
 \begin{center}
 \begin{tabular}{@{}lrrrrr@{}}

@@ -34,7 +34,7 @@
 \vspace{-1.6em}
 \begin{abstract}
 \noindent
-RiskSphere answers questions about a synthetic six-name book. Each credit limit is that name's simulated collateralised peak, times a factor, rounded. Two agents call Qwen/Qwen3-8B. The orchestrator plans the question and writes the sentences. Documents reads one retrieved clause when the question asks for an agreement number. Python computes exposure, margin, the simulation, scenarios, coverage, expected loss, and the desk files, and it checks every quote. The filing folders hold 522 credit-support texts, 278 contracts, 150 disclosure excerpts, and the BCBS margin text. A term extracted from an agreement is verified only when the quote is in the file. A critic written in Python drops any sentence whose number, status, or citation is not in the tool result. The frozen question set is 27 rows, with duplicate questions removed. On the live run of 22 November 2026, 14:42 IST, the plan was right on 25 of 27, every refusal was correct, and the critic rejected 8 of 21 wordings.
+RiskSphere answers questions about a synthetic six-name book. Each credit limit is that name's simulated collateralised peak, times a factor, rounded. Two agents call Qwen/Qwen3-8B. The orchestrator plans the question and writes the sentences. Documents reads one retrieved clause when the question asks for an agreement number. Python computes exposure, margin, the simulation, scenarios, coverage, expected loss, and the desk files, and it checks every quote. The filing folders hold 522 credit-support texts, 278 contracts, 150 disclosure excerpts, and the BCBS margin text. A term extracted from an agreement is verified only when the quote is in the file. A critic written in Python drops any sentence whose number, status, or citation is not in the tool result. The frozen question set is 27 rows, with duplicate questions removed. On the live run of 22 November 2026, 15:00 IST, the plan was right on 25 of 27, every refusal was correct, and the critic rejected 8 of 21 wordings.
 \end{abstract}
 
 \section{Problem and boundary}
@@ -187,9 +187,9 @@ The plan prompt demands one JSON object and no other text. The object has an int
   \item \texttt{draft\_dispute} may copy \texttt{their\_mtm} only when that number is already written in the question.
 \end{itemize}
 
-Validation then rejects an unknown tool, more than four steps, a missing counterparty, a scenario name that is not one of the three stored shocks, and a non-numeric dispute mark. A refuse flag clears the steps. An empty step list on a non-refusal is an error, and that question is still answered without invented figures. On the 14:42 run every work plan was valid JSON. None fell through to the keyword planner.
+Validation then rejects an unknown tool, more than four steps, a missing counterparty, a scenario name that is not one of the three stored shocks, and a non-numeric dispute mark. A refuse flag clears the steps. An empty step list on a non-refusal is an error, and that question is still answered without invented figures. On the 15:00 run every work plan was valid JSON. None fell through to the keyword planner.
 
-The prompt is not sufficient by itself. On the 22 November 14:42 run, two plans crossed a boundary the prompt already draws. ``Is Zenith Hedge Fund LLC in breach?'' ran the alert list instead of today's exposure. ``What does the haircut schedule say about gold?'' ran the haircut table instead of the schedule pile. That is why the score is 25/27 and not a claim of a perfect router.
+The prompt is not sufficient by itself. On the 22 November 15:00 run, two plans crossed a boundary the prompt already draws. ``Is Zenith Hedge Fund LLC in breach?'' ran the alert list and the data check instead of today's exposure. ``Are there any stale prices?'' ran the data check instead of the alert list. That is why the score is 25/27 and not a claim of a perfect router. The gold-schedule question was routed to clause search on this run.
 
 \subsection{Wording prompt}
 
