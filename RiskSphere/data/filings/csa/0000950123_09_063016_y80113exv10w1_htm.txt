@@ -1,0 +1,2550 @@
+EX-10.1
+ 3
+ y80113exv10w1.htm
+ EX-10.1
+
+ exv10w1 
+
+ Exhibit 10.1 † 
+
+ Goldman Sachs International | Peterborough Court | 133 Fleet Street | London EC4A 2BB | Tel 0207 774 1000
+
+ Registered in England no. 226395. Registered Office as above. Authorised and regulated by the Financial Services Authority 
+
+ EXECUTION COPY 
+
+ AMENDED AND RESTATED CONFIRMATION 
+
+ DATE:
+
+ October 28, 2009 
+
+ TO:
+
+ CIT Financial Ltd. (“ Counterparty ”) 
+
+ FROM:
+
+ Goldman Sachs International (“ GSI ”) 
+
+ SUBJECT:
+
+ Total Return Swap Facility 
+
+ REF. NO.:
+
+ SDB925241547Y 
+
+ The purpose of this communication is to set forth the terms and conditions of the above-referenced
+Total Return Swap Facility entered into on the Trade Date specified below in accordance with the
+terms set forth in a Confirmation dated June 6, 2008 (the “ Original Facility ”) and amended and
+restated as of the date hereof (the “ Facility ”) between GSI and Counterparty. This communication
+constitutes a “Confirmation” as referred to in the Master Agreement specified below. This
+communication (this “ Confirmation ” or this “ Amended and Restated Confirmation ”) supersedes all
+prior communications regarding the Original Facility and the Facility (provided, for the avoidance
+of doubt, that this sentence will not be deemed to alter or affect the “Rescission of Notices”
+provisions set forth below).
+
+ This Confirmation is subject to, and incorporates, the 2006 ISDA Definitions (the “ 2006
+Definitions ”) and the 2003 ISDA Credit Derivatives Definitions as amended and supplemented by the
+May 2003 Supplement to the ISDA Credit Derivatives Definitions (together the “ Credit Definitions ”
+and together with the 2006 Definitions, the “ Definitions ”), as published by the International Swaps
+and Derivatives Association, Inc. (“ ISDA ”). In the event of any inconsistency between the 2006
+Definitions and the Credit Definitions, the 2006 Definitions shall govern.
+
+ This Confirmation supplements, forms a part of, and is subject to, the 1992 form of ISDA Master
+Agreement dated as of June 6, 2008 (including the Schedule and Credit Support Annex thereto), as
+amended or replaced from time to time (the “ Master Agreement ”) between GSI and Counterparty. This
+Confirmation will be read and construed as one with the executed Master Agreement and all other
+outstanding Confirmations between the parties, so that all such Confirmations and the executed
+Master Agreement constitute a single Agreement between the parties.
+
+ All provisions contained in, or incorporated by reference into the Master Agreement will govern
+this Confirmation except as expressly modified herein. In the event of any inconsistency between
+this Confirmation and the Definitions the Master Agreement or another Confirmation, as the case may
+be, this Confirmation will prevail for the purpose of the Facility and each Transaction to which
+this Confirmation relates.
+
+ This Confirmation evidences a separate total return swap transaction (each a “ Transaction ”) with
+respect to each Reference Obligation specified in Annex A from time to time as if the details
+specified in Annex A with respect to that Reference Obligation were set out in the Confirmation in
+full. Each such Transaction will have a unique Transaction Reference Number as is set out in Annex
+A. The terms of the Facility and each particular Transaction to which this Confirmation relates
+are as follows:
+
+ Terms Relating to the Facility 
+
+ Total Return Payer 
+
+ GSI 
+
+ † 
+
+ Confidential portions of this agreement have been omitted and filed separately with the
+ Securities and Exchange Commission under a request for confidential treatment. The portions of
+ this agreement that have been omitted and filed separately with the Securities and Exchange Commission
+ are denoted by the use of an asterisk in this agreement. 
+
+ 1 
+
+ Floating Rate Payer 
+
+ Counterparty 
+
+ Trade Date 
+
+ June 6, 2008 
+
+ Amendment Trade Date 
+
+ October 27, 2009 
+
+ Facility Commencement Date 
+
+ June 6, 2008 
+
+ Facility Amendment Date 
+
+ The date on or prior to October 28, 2009, on which the Conditions to Effectiveness are satisfied or effectively waived as described under
+“Conditions to Facility Amendment Date Effectiveness” below. Except with respect to amendments herein which specifically refer to the
+Amendment Trade Date, effectiveness of the amendments to the Original Facility provided for under this Amended and Restated Confirmation,
+including without limitation the obligation of Counterparty to pay the Termination Fee and GSI’s Forbearance Agreement specified below, shall
+become effective only on the Facility Amendment Date. 
+
+ Conditions to Facility
+Amendment Date
+Effectiveness 
+
+ Occurrence of the Facility Amendment Date is subject to the conditions precedent that:
+
+(i) the Amended and Restated Credit and Guaranty Agreement for up to $3 billion, entered into by CIT Group Inc. and certain of its
+subsidiaries as of July 29, 2009 and further amended on August 3, 2009, August 31, 2009, and September 30, 2009, with Barclays Bank PLC, as
+administrative agent and collateral agent, and the lenders party thereto (the “ Senior Credit Facility ”) has been amended to (A) expressly
+permit the amendments effected by this Amended and Restated Confirmation and the Amended CIT Group Guaranty (including without limitation the
+payment of the Termination Fee and the additional posting of collateral required hereby), (B) expressly permit, as an exception to any
+representation, warranty, affirmative or negative covenant obligation or event of default (in each case including, without limitation,
+relating to restrictions on liens or indebtedness) of Counterparty or any Credit Support Provider under the Senior Credit Facility or any
+other Credit Document (as defined in the Senior Credit Facility), all payments or Transfers of Posted Credit Support received by GSI pursuant
+to the terms of the Master Agreement, this Facility or any Credit Support Document, and the performance or incurrence of all obligations of
+Counterparty and each Credit Support Provider hereunder and thereunder (including without limitation with respect to the Present Value
+Facility Fee) including any liens, security interests or rights of setoff in favor of GSI contemplated by the terms of the Master Agreement,
+this Facility or any Credit Support Document (such provision, the “ TRS Lien Exception ”) and (C) amend any other references in the Senior
+Credit Facility and other Credit Documents to the Original Facility (and/or the Credit Support Documents with respect thereto) to refer
+instead to this Amended and Restated Confirmation and to the Amended CIT Group Guaranty for all purposes under such Senior Credit Facility and
+other Credit Documents (and, in the event that CIT Group Inc. and certain of its subsidiaries enter into a further amendment of the Senior
+Credit Facility, the foregoing condition shall apply, mutatis mutandis, to the Senior Credit Facility as so amended); 
+
+ (ii) GSI has received an opinion of counsel, in substantially the same form as paragraphs 1 through 8 of the opinion of outside counsel to CIT
+Group Inc. 
+
+ 2 
+
+ attached as Exhibit D to the Senior Credit Facility, addressing each of the matters addressed in relation to the “Transaction
+Agreements” referred to therein in relation to this Amended and Restated Confirmation and the Amended CIT Group Guaranty, and the obligations
+of Counterparty and each Credit Support Provider hereunder and thereunder (provided that paragraphs 1, 2 and 4 shall apply only to CIT Group
+Inc. and the “Applicable Contracts” for such purpose shall also include the Senior Credit Facility); and 
+
+ (iii) GSI has evidence in form and substance reasonably satisfactory to it of the authorization and approval of this Amended and Restated
+Confirmation and the Amended CIT Group Guaranty, in form and substance reasonably satisfactory to GSI; 
+
+ in each case on or prior to October 28, 2009 ((i) through (iii) the “ Conditions to Effectiveness ”). Any of the foregoing Conditions to
+Effectiveness may be waived or extended by GSI in its sole and absolute discretion (except that the Condition to Effectiveness in (i) cannot
+be waived by GSI), and if the Conditions to Effectiveness are not satisfied on or prior to October 28, 2009, GSI shall have the right to
+terminate the effectiveness of the amendments contemplated hereby, with the result that: (a) all terms of the Original Facility shall
+continue to apply and (b) any amendment to the terms of the Original Facility which became effective as of the Amendment Trade Date shall
+thereafter cease to be effective. 
+
+ For the avoidance of doubt, all terms of the Original Facility (other than those amended as of the Amendment Trade Date) shall continue to
+apply prior to the Facility Amendment Date. 
+
+ Counterparty covenants and agrees to use its reasonable best efforts to cause the Conditions to Effectiveness to be satisfied as soon as
+possible on or after the Amendment Trade Date and in any event not later than October 28, 2009. 
+
+ If the Senior Credit Facility shall be replaced or refinanced in whole or in part by a new agreement or facility on or prior to the Facility
+Amendment Date, the foregoing covenant and the Conditions to Effectiveness shall apply in relation to such new agreement or facility as well
+as, in the case of a partial replacement or refinancing, to the Senior Credit Facility. 
+
+ Rescission of Notices 
+
+ Effective on the Facility Amendment Date (but without prejudice to the effectiveness of such notices for any purpose prior to such date), the
+following notices (including any correspondence or communications relating to such notices the “ Rescinded Notices ”) shall each be rescinded
+and deemed of no further force and effect, whether for purposes of the Original Facility or the Facility as amended hereby: 
+
+ (a) Letter from Counterparty to GSI dated October 8, 2009 and captioned “Portfolio Adjustment Notice”;
+
+ (b) Letter from GSI to Counterparty dated October 15, 2009 and captioned “Notice of Exercise of Rights Under Indemnity Letters”;
+
+ (c) Letter from Counterparty to GSI dated October 16, 2009 and captioned “Portfolio Adjustment Notice”;
+
+ (d) Letter from GSI to Counterparty dated October 16, 2009 (not captioned);
+
+ 3 
+
+ (e) Letter from GSI to Counterparty dated October 21, 2009 and captioned “Notice of Breach of Indemnity Letters”;
+
+ (f) Letter from Counterparty to GSI dated October 22, 2009 (not captioned);
+
+ (g) Letter from GSI to Counterparty dated October 23, 2009 (not captioned);
+
+ (h) Letter from Counterparty to GSI dated October 23, 2009 (not captioned);
+
+ (i) Letter from GSI to Counterparty dated October 24, 2009 (not captioned);
+
+ (j) Letter from Counterparty to GSI dated October 27, 2009 captioned “Submission of Firm Bids for ROs To Be Removed Pursuant to a Portfolio
+Adjustment on October 30, 2009.”
+
+ (k) Letter from GSI to Counterparty dated October 27, 2009 (not captioned).
+
+ Rescission of the Rescinded Notices as set forth above shall not be construed to confirm, deny or prejudice in any respect any assertions or
+statements of fact or law set forth in such Rescinded Notices, or (except as set forth below in “Forbearance Agreement”) to prejudice the
+rights of any person to reassert or deny any such assertions or statements of fact or law on any subsequent date. 
+
+ Facility End Date 
+
+ The earliest of (i) the date falling 20 years after the Facility Commencement Date and (ii) an Optional Termination Date on which the
+Counterparty has terminated this Facility. 
+
+ Optional Termination Date 
+
+ On any Business Day, Counterparty shall have the option to early terminate this Facility on 10 Business Days prior written notice to GSI upon
+prior payment by Counterparty to GSI of the Present Value Facility Fee calculated on the Maximum Aggregate Notional Amount as of such Optional
+Termination Date. 
+
+ Portfolio 
+
+ The portfolio comprising each Eligible RO that is a Reference Obligation (“ RO ”) subject to a Transaction, as set out in Annex A (as amended
+from time to time to reflect Portfolio Adjustments). 
+
+ Eligible RO 
+
+ Any debt obligation which meets all of the following requirements as determined on the Effective Date of such obligation, as determined by the
+Calculation Agent: 
+
+ (i) 
+
+ A bond that is capable of being settled in The Depository Trust Company, Euroclear Bank S.A./N.V or Clearstream Banking, SA (or any
+successor to any such entity); 
+
+ (ii) 
+
+ (a) Rated at least as high as [*] by each of Standard and Poor’s (“ S&P ”) and Moody’s Investor Services (“ Moody’s ”), and not on
+Creditwatch Negative or Watchlist Negative (or their respective equivalents) and (b) such rating is a monitored rating subject to periodic
+update by the relevant agency; 
+
+ * 
+
+ Confidential treatment has been requested and the redacted material has been filed separately with the Securities and Exchange Commission. 
+
+ 4 
+
+ (iii) 
+
+ If rated by Fitch Ratings Inc. (“ Fitch ”),
+rated at least as high as [*] and not on Creditwatch Negative or Watchlist Negative (or their
+respective equivalents); 
+
+ (iv) 
+
+ Denominated in USD, GBP, CAD or EUR; 
+
+ (v) 
+
+ Are Asset Backed Securities that are backed predominately by assets falling into one of the following categories: aircraft leases, railcar
+leases, other equipment loans or leases, student loans, commercial loans (including but not limited to CLOs), vendor finance obligations and
+trade finance obligations; 
+
+ (vi) 
+
+ A legal final maturity of no more than 30 years from the Effective Date; 
+
+ (vii) 
+
+ if the RO has a fixed rate of interest, the weighted average life of such RO is less than [*] years (or such longer period otherwise
+agreed to by GSI acting in a reasonable manner); 
+
+ (viii) 
+
+ Counterparty and its Credit Support Providers have provided to GSI such documentation in respect of such obligation as GSI shall have
+reasonably requested (which shall include, without limitation, the offering document, rating letters, a Tax Opinion and, if applicable, the
+most recent Trustee/Servicer Report); 
+
+ (ix) 
+
+ The Reference Entity of such obligation is bankruptcy remote from Counterparty, its Credit Support Providers and their respective
+Affiliates, or other prior owner of the assets securitized through issuance of the Reference Obligation, as evidenced by a True Sale and
+Nonconsolidation Opinion satisfactory to GSI in its good faith discretion or other circumstances satisfactory to GSI; 
+
+ (x) 
+
+ The issuer of the RO shall not be an affiliate of the Counterparty or its Credit Support Providers for US bankruptcy law purposes (as
+reasonably determined by GSI); 
+
+ (xi) 
+
+ Application will have been made or required to be made on a recognised stock exchange; 
+
+ (xii) 
+
+ Not registered pursuant to any registration statement with the U.S. Securities and Exchange Commission; 
+
+ (xiii) 
+
+ Not issued by or guaranteed by any of (1) Counterparty or its Credit Support Providers, (2) The Goldman Sachs Group, Inc., or (3) any
+Affiliates of The Goldman Sachs Group, Inc.; 
+
+ (xiv) 
+
+ A bond that does not require a Holder to execute any agreement prior to buying or selling such bond, qualifies for transfer in
+accordance with the provisions of Regulation S and/or Rule 144A under the Securities Act and is otherwise Transferable; 
+
+ (xv) 
+
+ Would not cause the Portfolio to violate any of the following limits by aggregate Net USD Notional Amounts: 
+
+ * 
+
+ Confidential treatment has been requested and the redacted material has been filed separately with the Securities and Exchange Commission. 
+
+ 5 
+
+ a. 
+
+ The sum of the Net USD Notional Amounts of ROs rated [*] by
+each of S&P and Moody’s may be up to [*]% of the Maximum Aggregate Notional
+Amount, provided, however, that any RO rated [*] by each of S&P and Moody’s but also rated by Fitch and rated lower than [*] by Fitch
+shall be deemed for purposes of this test to be rated [*] by S&P and Moody’s; 
+
+ b. 
+
+ The sum of the Net USD Notional Amounts of ROs rated at least [*] by each of S&P and Moody’s (excluding ROs that are rated [*]) may not
+exceed (i) [*]% of the Maximum Aggregate Notional Amount minus (ii) the sum of the Net USD Notional Amounts of ROs rated lower than [*] by
+either S&P or Moody’s, provided, however, that (x) any RO rated [*] by each of S&P and Moody’s but also rated by Fitch and rated lower than
+[*] by Fitch shall be deemed for purposes of this test to be rated [*] by S&P and Moody’s and (y) any RO rated [*] by each of S&P and Moody’s
+but also rated by Fitch and rated lower than [*] by Fitch shall be deemed for purposes of this test to be rated lower than [*] by S&P and
+Moody’s; 
+
+ c. 
+
+ The sum of the Net USD Notional Amounts of Qualifying [*]-Rated
+ROs (excluding ROs that are rated [*] or [*]) may not exceed
+(i) [*]% of
+the Maximum Aggregate Notional Amount minus (ii) the sum of the Net USD Notional Amounts of ROs that are either (A) rated at least [*] by each
+of S&P and Moody’s but are not Qualifying [*]-Rated ROs or (B) rated lower than [*] by either S&P or Moody’s, provided, however, that any RO
+rated [*] by each of S&P and Moody’s but also rated by Fitch and rated lower than [*] by Fitch shall be deemed for purposes of this test to be
+rated lower than [*] by S&P and Moody’s; 
+
+ d. 
+
+ The sum of the Net USD Notional Amounts of ROs that are either (A) rated at least [*] by each of S&P and Moody’s but are not Qualifying
+[*]-Rated ROs or (B) rated lower than [*] by either S&P or
+Moody’s may not exceed [*]% of the Maximum Aggregate Notional Amount, provided,
+however, that any RO rated [*] by each of S&P and Moody’s but also rated by Fitch and rated lower than [*] by Fitch shall be deemed for
+purposes of this test to be rated lower than [*] by S&P and Moody’s; 
+
+ e. 
+
+ The sum of the Net USD Notional Amounts of ROs which are
+obligations secured by commercial loans may not exceed [*]% of the Maximum
+Aggregate Notional Amount; 
+
+ f. 
+
+ The sum of the Net USD Notional Amounts of ROs which are obligations secured by equipment loans or leases (including aircraft leases and
+railcar leases), may not exceed [*]% of the Maximum Aggregate Notional Amount; 
+
+ g. 
+
+ The sum of the Net USD Notional Amounts of ROs which are
+obligations secured by aircraft leases or railcar leases may not
+exceed [*]% of the
+Maximum Aggregate Notional Amount; 
+
+ * 
+
+ Confidential treatment has been requested and the redacted material has been filed separately with the Securities and Exchange Commission. 
+
+ 6 
+
+ h. 
+
+ The sum of the Net USD Notional Amounts of ROs which are
+obligations secured by Private Student Loans may not exceed [*]% of the Maximum
+Aggregate Notional Amount; 
+
+ i. 
+
+ The sum of the Net USD Notional Amounts of ROs which are
+secured by Guaranteed Student Loans may not exceed [*]% of the Maximum Aggregate
+Notional Amount; 
+
+ j. 
+
+ The sum of the Net USD Notional Amounts of ROs which are secured by assets other than commercial loans, equipment loans or leases
+(including aircraft leases and railcar leases), Private Student Loans or Guaranteed Student Loans, and which are not identified in k. below,
+may not in the aggregate exceed [*]% of the Maximum Aggregate Notional Amount; 
+
+ k. 
+
+ The sum of the Net USD Notional Amounts of ROs agreed between GSI and Counterparty pursuant to (xxiv) below shall not exceed such
+percentage of the Maximum Aggregate Notional Amount as shall be specified by GSI. 
+
+ For purposes of the foregoing tests: 
+
+ (a) the ratings applied for both the new RO proposed to be added to the Portfolio and the ratings for the existing ROs in the Portfolio shall
+be current ratings of such ROs as of the proposed Effective Date for the new RO; 
+
+ (b) If any RO consists of more than one of the asset types described in e. through j., the full Net USD Notional Amount of such RO shall be
+counted against each of the relevant percentage restrictions; and 
+
+ (c) [*] means [*] (S&P), [*] (Moody’s) and [*] (Fitch); and [*] means [*] (S&P), [*] (Moody’s), and [*] (Fitch); and
+[*] means [*] (S&P), [*] (Moody’s) and [*] (Fitch). 
+
+ (xvi) 
+
+ Would not cause the Net USD Notional Amount of a single RO in
+the Portfolio to exceed [*]% of the Maximum Aggregate Notional Amount; 
+
+ (xvii) 
+
+ Would not cause the aggregate Net USD Notional Amount of all ROs which are issued by a common issuer and have the same rating to exceed
+a) to the extent the ROs are rated [*], $[*] or b) to the extent one
+or more of such ROs are rated below [*], [*]% of the
+Maximum Aggregate Notional Amount; 
+
+ (xviii) 
+
+ Would not cause the aggregate Net USD Notional Amount of all ROs which are secured predominantly by obligations of any one obligor or
+group of affiliated obligors, to exceed [*]% of the Maximum Aggregate Notional Amount; 
+
+ * 
+
+ Confidential treatment has been requested and the redacted
+material has been filed separately with the Securities and Exchange
+Commission. 
+
+ 7 
+
+ (xix) 
+
+ Would not cause the total number of ROs to exceed [*] 
+
+ (xx) 
+
+ GSI owning the RO in an amount equal to the Net USD Notional Amount would not violate any law, rule or regulation applicable to GSI; 
+
+ (xxi) 
+
+ In the case of a Counterparty Originated Asset, Counterparty has delivered to GSI an executed indemnity letter in a form acknowledged in
+a letter agreement between GSI and Counterparty of even date herewith (the “ Indemnity Letter ”); 
+
+ (xxii) 
+
+ The terms of such RO require delivery to holders of such RO of Trustee/Servicer Reports providing information of a degree and with a
+frequency which is customary in Rule 144A securitizations of the same asset types; 
+
+ (xxiii) 
+
+ Is issued in registered form for U.S. federal income tax purposes; 
+
+ (xxiv) 
+
+ If such RO was issued after the Facility Amendment Date, then unless such RO is subject to backup servicing arrangements reasonably
+acceptable to GSI, the terms of such RO provide for a majority of the holders of such RO by principal amount to have the right to remove and
+replace any servicer, collateral manager or other administrative service provider for the issuer of such RO at any time; and 
+
+ (xxv) 
+
+ Also includes any other obligation as GSI may agree from time to time following request from Counterparty. 
+
+ If it is determined after the Effective Date that the RO failed to meet any of the foregoing requirements as of the Effective Date and GSI
+gives notice of such circumstance to Counterparty, a Removal Date shall be deemed to occur in relation to such RO. Further, if after the
+Effective Date Counterparty fails to deliver the most recently issued Trustee/Servicer Report or Rating Agency Report with respect to an RO
+within five Business Days of a request from GSI, at GSI’s sole option a Removal Date may be deemed to occur in relation to such RO. 
+
+ “ Asset Backed Securities ” means securities that are Not Contingent within the meaning of the Credit Derivatives Definitions and are secured by
+loans, leases, receivables or similar payment obligations or financial assets which convert by their terms into cash within a finite period of
+time, and without limitation of the foregoing shall exclude (i) credit linked notes or other synthetic securities; i.e. securities secured by
+or representing credit swaps, total return swaps or other derivative exposures, (ii) securities secured by equity instruments or corporate
+bonds and (iii) ABS CDOs, “CDO squareds” or other securities which are themselves secured by Asset Backed Securities. 
+
+ “ Counterparty Originated Asset ” means any RO with respect to which the Counterparty, its Credit Support Providers or any of their Affiliates
+(i) is related as depositor, originator or transferor of the receivables securitized in the RO or (ii) is a sponsor, servicer or administrator
+thereto, (iii) is a holder of any beneficial interest in the issuer of the RO or (iv) has acted as an underwriter, arranger or distributor of
+such RO. 
+
+ * 
+
+ Confidential treatment has been requested and the redacted material has been filed separately with the Securities and Exchange Commission. 
+
+ 8 
+
+ “ Guaranteed Student Loans ” means student loans originated under Title IV of the Higher Education Act, no less than 95% of the loan principal
+and interest of which are guaranteed and explicitly reinsured by the United States Department of Education. 
+
+ “ Private Student Loans ” means student loans other than Guaranteed Student Loans. 
+
+ “ Qualifying [*]-Rated RO ” means an RO that (i) is rated at least [*] by each of S&P and Moody’s (where any RO rated [*] by each of S&P and
+Moody’s but also rated by Fitch and rated lower than [*] by Fitch shall be deemed for purposes of this test to be rated lower than [*] by S&P
+and Moody’s) and (ii) is either (A) not subordinated to any other class or tranche of securities issued by the relevant Issuer or (B)
+subordinated only to a class or tranche of securities issued by the relevant Issuer the entire principal amount of which is included as an RO
+in this Facility. 
+
+ “ Tax Opinion ” means a legal opinion of nationally recognized tax counsel that concludes that (a) the RO will be treated as indebtedness for
+U.S. federal income tax purposes and (b) the issuer of the RO will not be treated as subject to U.S. federal tax. 
+
+ “ True Sale and Nonconsolidation Opinion ” means a legal opinion of Bingham McCutcheon LLP or other counsel satisfactory to GSI in its good
+faith discretion which concludes that (i) any assets purchased by the Reference Entity in connection with the relevant securitization would
+not be considered to be part of the estate of any relevant Affiliate of Counterparty (an “ Originator Affiliate ”) in a proceeding under the
+Bankruptcy Code and (ii) neither the Reference Entity nor any other special purpose entity organized in connection with the relevant
+securitization would be substantively consolidated with any of (A) Counterparty, (B) any Credit Support Providers of Counterparty or (C) any
+Originator Affiliate (other than a special purpose entity), in each case where the foregoing conclusions take account of the existence and
+terms of this Facility and Counterparty’s Credit Support Documents. 
+
+ Maximum Aggregate Notional Amount 
+
+ From and including the Facility Commencement Date to but excluding the Facility Amendment Date, USD 3,000,000,000. On and after the Facility
+Amendment Date, USD 2,125,000,000, less cumulative amount of Swap Amortization amounts determined on or prior to such date. 
+
+ Aggregate Notional Amount 
+
+ The sum on any day of the Net USD Notional Amounts of each RO at the close of business on that day . 
+
+ Swap Amortization 
+
+ USD 212,500,000 with respect to each anniversary of the Facility Commencement Date, beginning with the 11 th anniversary of the
+Facility Commencement Date. 
+
+ Portfolio Adjustment 
+
+ (A) Counterparty may, by sending a Portfolio Adjustment Notice to GSI, designate any Business Day to adjust the Portfolio (any such adjustment
+a “ Portfolio Adjustment ”) by: 
+
+ (i) 
+
+ designating a new Eligible RO for addition to the Portfolio; or 
+
+ * 
+
+ Confidential treatment has been requested and the redacted material has been filed separately with the Securities and Exchange Commission. 
+
+ 9 
+
+ (ii) 
+
+ designating a RO for removal, in whole or in part, pursuant to a Removal Date; or 
+
+ (iii) 
+
+ combining (i) and (ii) to effect a substitution; 
+
+ provided that: 
+
+ (a) no Potential Event of Default or Event of Default has occurred and is continuing in relation to Counterparty; 
+
+ (b) the Aggregate Notional Amount does not exceed the Maximum Aggregate Notional Amount as a result of such Portfolio Adjustment; 
+
+ (c) each RO to be added is an Eligible RO; 
+
+ (d) except as provided in (B)(i) and (ii) of the next paragraph or otherwise with the consent of GSI in its sole discretion, (I) no addition,
+removal, substitution or other Portfolio Adjustment may occur on or after the Facility Amendment Date until the Portfolio Adjustment Renewal
+Date and (II) no removal, in whole or in part, or any Removal Date in relation thereto may occur until on or after the Target Exposure Date;
+and 
+
+ (e) there shall be no more than one new RO (or four new ROs if (I) all such new ROs are issued by the same issuer in a single securitization
+documented pursuant to a single indenture or trust deed and (II) the same collateral secures all such ROs) added to the Portfolio in any
+calendar week. 
+
+ (B) In addition: 
+
+ (i) If GSI has notified Counterparty of a Re-Striking that would cause the Aggregate Notional Amount to exceed the Maximum Aggregate Notional
+Amount, then 
+
+ (x) prior to the Portfolio Adjustment Renewal Date, unless Counterparty has notified GSI within three Business Days of receipt of GSI’s notice
+of Re-Striking that Counterparty objects to such Re-Striking, in which case such Re-Striking shall not occur, GSI will have the right to
+designate one or more ROs for removal such that after giving effect to such Portfolio Adjustment Notice, the Aggregate Notional Amount is less
+than or equal to the Maximum Aggregate Notional Amount, and
+
+ (y) on and after the Portfolio Adjustment Renewal Date, Counterparty, will be required to designate one or more ROs for removal such that
+after giving effect to such Portfolio Adjustment Notice, the Aggregate Notional Amount is less than or equal to the Maximum Aggregate Notional
+Amount,
+
+ where in each case the Removal Date in respect of any such RO shall be no more than 10 Business Days following the Re-Striking Date. 
+
+ (ii) If Counterparty fails to designate a Removal Date as required hereby, GSI may by sending a Portfolio Adjustment Notice to Counterparty,
+designate any Business Day to adjust the Portfolio (any such adjustment, also a “ Portfolio Adjustment ”) by designating one or more ROs for
+removal, in whole or in part, 
+
+ 10 
+
+ pursuant to a Removal Date such that after giving effect to such Portfolio Adjustment
+Notice, the Aggregate Notional Amount is less than or equal to the Maximum Aggregate
+Notional Amount. 
+
+ “ Exchange Offer Settlement Date ” means the date on which the “Settlement Date” referred
+to in the Offering Memorandum, Disclosure Statement And Solicitation Of Acceptances Of A
+Prepackaged Plan Of Reorganization describing the “CIT Group Inc. & CIT Group Funding
+Company of Delaware LLC Offers to Exchange Relating to Any and All of Their Respective
+Outstanding Notes Listed Below and Solicitation of Acceptances of a Prepackaged Plan of
+Reorganization“ dated October 1, 2009 as filed on October 2, 2009 with the United States
+Securities and Exchange Commission, and as amended by (i) the amendments to such
+documents issued by CIT Group Inc. as of October 16, 2009 and filed with the United
+States Securities and Exchange Commission on October 19, 2009 and (ii) the amendments to
+such documents issued by CIT Group Inc. as of October 23, 2009 and filed with the United
+States Securities and Exchange Commission on October 26, 2009 (the “ Existing Exchange
+Offer Terms ”), and as further amended from time to time, provided, however that no such
+amendment, or any modification or waiver of the Existing Exchange Offer Terms, would
+adversely affect the Material Terms or otherwise constitute a TRS Impairment (such
+documents as so amended the “ Exchange Offer ”) has occurred in accordance with the
+Liquidity and Leverage Condition, Documentation Condition and the other terms and
+conditions of the Exchange Offer described in the section entitled “Description of the
+Offers — Conditions to the Offers.”. 
+
+ “ Exchange Offer Trigger Date ” means the 30 th day following the Exchange Offer
+Settlement Date. 
+
+ “Portfolio Adjustment Renewal Date ” means the earlier of (i) the Exchange Offer Trigger
+Date and (ii) the date on which the Plan of Reorganization is confirmed by the relevant
+bankruptcy court and has been consummated without any amendment, modification or
+supplement that adversely affects the Material Terms and is not approved by GSI, and CIT
+Group Inc. (and any subsidiaries or affiliates thereof) have emerged from bankruptcy
+proceedings. 
+
+ Portfolio Adjustment 
+
+Notice 
+
+ A notice provided at least fifteen Business Days (or such lesser number of Business Days
+as agreed between Counterparty and GSI) prior to the date of any Portfolio Adjustment
+revising Annex A to take account of any Portfolio Adjustment; provided, however that the
+date of any Portfolio Adjustment relating to the substitution of a new Eligible RO for an
+existing RO where the new and existing RO are the same obligation with the same Notional
+Amount (such Portfolio Adjustment a “ Re-Striking Substitution ”) may be 2 Business Days
+following the delivery of the related Portfolio Adjustment Notice. 
+
+ A Portfolio Adjustment Notice provided by GSI as contemplated under Re-Striking Payments
+shall be provided at least 2 Business Days prior to the Removal Date. 
+
+ Determination of
+Initial FX Rate 
+
+ The Calculation Agent will determine in a commercially reasonable manner the Initial FX
+Rate for each RO not denominated in USD based on the Current FX Rate as of the date
+determined by the Calculation Agent after the date the Portfolio Adjustment Notice is
+received for such RO and at least two Business
+Days prior to its Effective Date. 
+
+ 11 
+
+ FX Rate 
+
+ With respect to a Specified Currency, as of the Effective Date and at any time prior to
+and including the initial Re-Striking Date, the Initial FX Rate; and following the
+initial Re-Striking Date, the Current FX Rate as of the immediately preceding Re-Striking
+Date. 
+
+ Current FX Rate 
+
+ With respect to a Specified Currency as of any date, the spot rate of exchange between
+the Specified Currency and USD as of such date, determined by the Calculation Agent in a
+commercially reasonable manner. 
+
+ Business Days 
+
+ For payment dates requiring payments in USD, London and New York 
+
+ For payment dates requiring payments in CAD, Toronto and London 
+
+ For payment dates requiring payments in EUR, London and TARGET. 
+
+ For payment dates requiring payments in GBP, London and New York 
+
+ For purposes of the Collateral provisions, Portfolio Adjustment Notices and all other
+purposes hereunder, London and New York. 
+
+ Business Day 
+
+Convention 
+
+ Modified Following 
+
+ Calculation Agent 
+
+ Facility Fee 
+
+ GSI 
+
+ Facility Fee 
+
+ On each Facility Fee Payment Date, Counterparty shall pay to GSI a Facility Fee
+determined as follows: 
+
+ Facility Fee Notional Amount ´ Facility Fee Rate ´ (the actual number of days
+within the relevant Facility Fee Period divided by 360) 
+
+ Facility Fee 
+
+Notional Amount 
+
+ In respect of the Facility Fee Period from and including the Facility Commencement Date
+to but excluding the initial Facility Fee Payment Date, the higher of (a) the Aggregate
+Notional Amount and (b) zero. For the immediately following Facility Fee Period, the
+higher of (a) the Aggregate Notional Amount and (b) 50% of the Maximum Aggregate Notional
+Amount. For each subsequent Facility Fee Period, the Maximum Aggregate Notional Amount;
+provided that for the Facility Fee Period which includes the Facility Amendment Date, the
+Facility Fee Notional Amount will be the sum of the values of the Maximum Aggregate
+Notional Amount during each day in such Facility Fee Period divided by the number of days
+included in such Facility Fee Period. 
+
+ Facility Fee Rate 
+
+ 285 bps 
+
+ Facility Fee Period 
+
+ With respect to any Facility Fee Payment Date, the period from (and including) the
+immediately preceding Facility Fee Payment Date (or, in relation to the initial Facility
+Fee Period, the Facility Commencement Date) to (but excluding) such Facility Fee Payment
+Date (or, in relation to the final Facility Fee Period, the Facility End Date). 
+
+ 12 
+
+ Facility Fee Payment 
+
+Dates 
+
+ Quarterly on each three month anniversary of the Facility Commencement Date and ending
+on
+the Facility End Date. 
+
+ Facility Amendment
+Date
+Payments;
+Forbearance
+Agreement 
+
+ Termination Fee 
+
+ On the Facility Amendment Date, Counterparty will pay to GSI seven twenty-fourths
+(29.1667%) of the Present Value Facility Fee (based on the Maximum Aggregate Notional
+Amount as of the day prior to the Facility Amendment Date) as determined by GSI on the
+Facility Amendment Date, in consideration for GSI’s termination of the Present Value
+Facility Fee otherwise payable under the Original Facility in connection with the
+reduction of the Maximum Aggregate Notional Amount from USD 3,000,000,000 to USD
+2,125,000,000 (the “ Termination Fee ”). 
+
+ Forbearance Agreement 
+
+ In consideration for the payment of the Termination Fee and the other amendments effected
+hereby, GSI agrees (such agreement the “ Forbearance Agreement ”) not to exercise (A) its
+right to designate an Early Termination Date under the Master Agreement or (B) its right
+to defer or suspend payments or deliveries to Counterparty or CIT Barbados under Section
+2(a)(iii) of the Master Agreement or Paragraph 4(a) of the Credit Support Annex or
+otherwise (except as set forth in the provisions of this Confirmation relating to the
+Additional Collateralization Amount or as otherwise specifically provided in this
+Confirmation), in each case if (or in the case of (iii), (iv), (v) and (vii) for so long
+as): 
+
+ (i) such right arises solely as a result of (1) the announcement of or launch of
+solicitation of the Exchange Offer and Plan of Reorganization for CIT Group Inc., (2) the
+Events of Default and/or Potential Events of Default alleged by GSI in the Rescinded
+Notices (without prejudice to the rights of GSI in relation to any subsequent Event of
+Default or Potential Event of Default in relation to the Indemnity Letters), (3) the
+filing of a voluntary Chapter 11 bankruptcy proceeding by CIT Group Inc. on or prior to
+November 30, 2009, or (4) any actions, inactions, filings or disclosures by CIT Group
+Inc. pursuant thereto or to its overall restructuring process (collectively, the
+“ Exchange/Plan Activities ”);
+
+ (ii) such Chapter 11 proceeding occurs to effect the Plan of Reorganization;
+
+ (iii) no action is taken (whether by a court of competent jurisdiction or by CIT Group
+Inc., any affiliate of CIT Group Inc., any examiner or trustee or any other person on
+behalf of one of the foregoing) in connection with such Chapter 11 proceeding or
+otherwise that is inconsistent with the Material Terms or which impairs or restricts the
+ability of Counterparty or any Credit Support Provider to perform its respective
+obligations under the Master Agreement and this Facility or Counterparty’s Credit Support
+Documents, as applicable, or otherwise prejudices, impairs, avoids, objects to or
+restricts any rights, claims or remedies of GSI under the
+
+ 13 
+
+ Master Agreement, this Facility
+or any Credit Support Document, including without limitation (A) any action to propose or
+accept any sale or transfer of all or substantially all of the assets of CIT Group Inc.
+where the entity succeeding to such assets would not assume all of the obligations of CIT
+Group Inc. under the Amended CIT Group Guaranty or (B) any action to (I) impair or
+restrict the right of GSI to set off any First Total Return Termination Payments or other
+amounts otherwise payable by GSI hereunder against any amounts payable by Counterparty
+under the Master Agreement or this Facility, (II) subordinate (including by means of
+equitable subordination) any rights, claims or payment obligations of GSI rights under
+the Master Agreement, this Facility or any Credit Support Document in relation hereto,
+(III) use, or obtain credit secured by, the Posted Credit Support received by
+GSI
+pursuant to the terms of the Master Agreement or any other any liens, security interests
+or rights of setoff in favor of GSI contemplated by the terms of the Master Agreement,
+this Facility or any Credit Support Document (whether or not adequate protection is
+deemed to exist with respect to such Posted Credit Support, liens, security interests or
+rights of setoff for purposes of Sections 363 or 364 of the Bankruptcy Code), (IV)
+challenge or avoid, or expressly reserve the right to challenge or avoid for any reason
+any payments or Transfers of Posted Credit Support received by GSI or any obligations
+incurred by Counterparty or any Credit Support Provider under the Master Agreement, this
+Facility or any Credit Support Document (including without limitation the Termination
+Fee), (V) recharacterize or challenge the validity or enforceability of the Master
+Agreement, this Facility or any Credit Support Document or any ROs (including without
+limitation any action to recharacterize any sale of assets to the issuer of any RO as a
+secured financing, or to seek substantive consolidation of the issuer of any RO with any
+Relevant Entity) or (VI) assert any claim against GSI arising from the entry into, and
+incurrence and performance of obligations under the Master Agreement, this Facility or
+any Credit Support Document (any such action in (A) or (B)(I) through (VI) a “ TRS
+Impairment ”), provided , however , that no provision in the foregoing definition of TRS
+Impairment shall require Counterparty to waive, release or relieve GSI of GSI’s duty to
+perform its obligations in accordance with the terms of the Master Agreement, this
+Facility or any Credit Support Document, or to waive or release any rights, claims or
+remedies arising under the Master Agreement, this Facility or any Credit Support Document
+in relation to any breach by GSI or its Credit Support Provider of such obligations;
+
+(iv) the Plan of Reorganization is not withdrawn, revoked or otherwise abandoned;
+
+ (v) no amendment, modification or supplement to the Plan of Reorganization that
+adversely affects the Material Terms is included in, or incorporated into, the Plan of
+Reorganization without the prior written consent of GSI;
+
+ (vi) the Termination Fee is paid in full on the Facility Amendment Date; and
+
+ 14 
+
+ (vii) no TRS Conflicting Indebtedness (as defined below) is incurred or entered into at
+any time (the conditions in (i) through (vii) the “ Forbearance Conditions ”);
+
+ provided that if no Chapter 11 bankruptcy proceeding with respect to CIT Group Inc. has
+occurred by November 30, 2009, the Forbearance Agreement will be of no further force and
+effect. 
+
+ For purposes of clause (B)(II) of the definition of TRS Impairment neither (i) the
+priority given to financing obtained under Section 364 of the Bankruptcy Code nor (ii)
+the granting of a lien or security interest, including any cash management order entered
+in the Chapter 11 proceeding in accordance with the Plan of Reorganization and permitting
+intercompany liens, shall be considered to effect a “subordination”, provided that no
+such priority, lien or security interest is senior to or conflicts with or prejudices (a)
+the rights of GSI in relation to any RO Haircut Amounts or Posted Credit Support received
+by GSI pursuant to the terms of the Master Agreement, this Facility or any Credit Support
+Document, including any liens, security interests or rights of setoff in favor of GSI
+contemplated by the terms of the Master Agreement, this Facility or any Credit Support
+Document (whether or not adequate protection is deemed to exist with respect to GSI’s
+Posted Credit Support, liens, security interests or rights of setoff for purposes of
+Sections 363 or 364 of the Bankruptcy Code) or (b) the right of GSI to receive
+performance of any other obligations incurred by Counterparty or any Credit Support
+Provider under, the Master Agreement, this Facility or any Credit Support Document or (c)
+otherwise constitutes a TRS Impairment. 
+
+ The Forbearance Agreement will be of no further force and effect if Counterparty fails to
+pay the Termination Fee in full on the Facility Amendment Date or if any of the
+Forbearance Conditions fails or ceases to be satisfied at any time. The Forbearance
+Agreement will expire if the Plan of Reorganization is not confirmed by the relevant
+bankruptcy court (without any amendment, modification or supplement that adversely
+affects the Material Terms and is not approved by GSI), on or before June 30, 2010. In
+no event shall GSI be restricted from exercising any otherwise applicable right to
+designate an Early Termination Date under the Master Agreement for any reason after June
+30, 2010. 
+
+ The Forbearance Agreement 
+
+ (X) does not restrict GSI’s right to designate an Early Termination Date on grounds of
+
+ (i) any other Event of Default under the Master Agreement, including without limitation
+
+ (A) the occurrence of any event described in Section 5(a)(vii) of the Master Agreement in
+relation to Counterparty or CIT Barbados, whether or not a bankruptcy of CIT Group Inc.
+occurs in accordance with the Plan of Reorganization, provided that if no event described
+in Section 5(a)(vii) clause (1), (3), (4), (5), (6) or (7) occurs with respect to
+Counterparty or CIT Barbados, neither the Existing Exchange Offer
+
+ 15 
+
+ Terms nor the filing of
+a voluntary Chapter 11 bankruptcy proceeding with respect to CIT Group Inc. in accordance
+with the Plan of Reorganization shall, in and of itself, be construed to give rise to an
+event described in Section 5(a)(vii) clause (2), (8) or (9) in relation to Counterparty
+or CIT Barbados; or
+
+ (B) the occurrence of any event described in Section 5(a)(i) or Section 5(a)(iii) of the
+Master Agreement in relation to Counterparty or any Credit Support Provider as applicable
+(even if such event arises during or is caused by the existence of a Chapter 11
+proceeding in accordance with the Plan of Reorganization), except that no event described
+in Section 5(a)(iii)(2) in relation to the Amended CIT Group Guaranty shall be deemed to
+arise from the existence of a Chapter 11 proceeding in accordance with the Plan of
+Reorganization so long as each of the Forbearance Conditions continues to be met, or
+
+(ii) any Termination Event under the Master Agreement or this Facility;
+
+ provided , however , that the Forbearance Agreement shall restrict GSI’s right to designate
+an Early Termination Date on grounds of (aa) an Event of Default under (I) Section
+5(a)(ii) solely to the extent that the relevant breach of agreement is a failure to
+timely provide financials, (II) Section 5(a)(v) solely to the extent that the relevant
+default under the Specified Transaction is caused by the Exchange/Plan Activities and
+(III) Section 5(a)(vi) solely to the extent the default under and acceleration of the
+Specified Indebtedness is caused by the Exchange/Plan Activities or (bb) any right to
+designate an Early Termination Date in relation to the Master Agreement that arises not
+under the terms of this Confirmation or the Master Agreement but under the terms of a
+different contract or agreement that does not form a part of this Confirmation or the
+Master Agreement;
+
+ (Y) is without prejudice to any other rights and remedies of GSI under the Master
+Agreement or this Facility and
+
+ (Z) subject to clause (X)(bb) above, is without prejudice to any rights or remedies of
+GSI or any Affiliates of GSI under any other agreements with Counterparty, Counterparty’s
+Credit Support Providers and/or their Affiliates.
+
+ “ Plan of Reorganization ” means the “prepackaged bankruptcy” plan of reorganization of CIT
+Group Inc. that (1) will satisfy the requirements under Section 1129 of the Bankruptcy
+Code, (2) shall at a minimum include the following terms (the “ Material Terms ”): (i) the
+Amended CIT Group Guaranty will be reinstated and not impaired in any respect by CIT
+Group Inc. and will be in full force and effect on the effective date of such plan of
+reorganization; (ii) such plan of reorganization shall contain an express waiver of the
+rights of CIT Group Inc., the reorganized CIT Group Inc. and any of their respective
+affiliates to assert or take action to effect any TRS Impairment; and (iii) such plan of
+reorganization shall not otherwise have any provision effecting or in furtherance of a
+TRS Impairment and (3) is otherwise substantially in the form and substance set forth in
+Appendix C of the Exchange Offer, as may be amended from time to time, without giving
+effect to any amendment or modification that adversely affects the Material Terms. 
+
+ 16 
+
+ “ Relevant Entity ” means in relation to any RO, (i) Counterparty, (ii) any Credit Support
+Provider of Counterparty, (iii) any seller of assets purchased by the issuer of such RO
+pursuant to the securitization of assets in connection with the issuance of such RO, (iv)
+any servicer or collateral manager in relation to the issuer of such RO, (v) any entity
+not otherwise included in (i) through (iv) with respect to which an opinion of counsel
+was delivered in connection with the issuance of the relevant RO that such entity should
+not be consolidated with the issuer of the RO or (vi) any other entity where the
+substantive consolidation of such entity with the issuer of the RO would, as reasonably
+determined by GS, prejudice the rights or holders of the RO or have a material adverse
+impact on such RO. 
+
+ Terms Relating to Each Transaction 
+
+ 1. General Terms 
+
+ Terms Specified in 
+
+ The Following terms in relation to each Transaction will be specified in Annex A: 
+
+ Annex A 
+
+ § 
+
+ Effective Date (subject to Condition to RO Effectiveness below) 
+
+ § 
+
+ Reference Obligation (“ RO ”) 
+
+ § 
+
+ Reference Entity 
+
+ § 
+
+ Guarantor or other credit support provider (if any) 
+
+ § 
+
+ Insurer (if any) 
+
+ § 
+
+ Specified Currency 
+
+ § 
+
+ Initial FX Rate 
+
+ § 
+
+ Initial Notional Amount (which will be an actual outstanding principal amount of
+the RO) 
+
+ § 
+
+ Offered Price (including accrued interest) (expressed as percentage of principal
+balance) 
+
+ § 
+
+ Initial Price (expressed as percentage of principal balance) 
+
+ § 
+
+ Floating Rate Period End Dates 
+
+ § 
+
+ Reference Obligation Coupon 
+
+ § 
+
+ Each credit rating of RO as at Effective Date 
+
+ § 
+
+ The Transaction Termination Date 
+
+ § 
+
+ Initial Haircut Percentage (which will be the Haircut Percentage applicable to
+the RO on the Effective Date) 
+
+ 17 
+
+ The Transaction Termination Date shall, if required by or assumed by counsel in
+connection with the delivery of a True Sale and Non-Consolidation Opinion, be a date
+occurring not later than (i) for ROs for which the expected final amortization based on
+pricing speed, as determined by Counterparty (the “ Expected Amortization Date ”) will
+occur 5 years or more after the Effective Date for such RO, the date on which 80% of the
+number of days occurring between the Effective Date for such Transaction and the Expected
+Amortization Date have lapsed, (ii) for ROs for which the Expected Amortization Date will
+occur more than one but less than five years after the Effective Date for such RO, the
+date occurring one year prior to the Expected Amortization Date and (iii) for ROs for
+which the Expected Amortization Date will occur one year or less from the Effective Date
+for such RO, the date on which 50% of the number of days occurring between the Effective
+Date for such Transaction and the Expected Amortization Date have lapsed. 
+
+ Condition to RO
+Effectiveness 
+
+ The Effective Date shall be subject to (A) the availability to GSI of a firm offer from
+Counterparty or an unaffiliated third party designated by Counterparty on which GSI or
+its designee could execute the purchase of a principal amount of the RO equal to the
+Initial Notional Amount at the Offered Price for settlement on the Effective Date, such
+Offered Price (1) not to exceed the market value of the principal amount of the RO
+determined by the Calculation Agent in a commercially reasonable manner and (2) unless a
+Bid Failure Event occurs, to be greater than the applicable Initial Haircut Percentage
+and (B) receipt by GSI on or prior to such Effective Date of the Initial Payment from CIT
+Financial (Barbados) Srl (“ CIT Barbados ”) as required to be made pursuant to a Guaranty
+provided by CIT Barbados (the “ Guaranty ”) for application under the Transaction. If a
+Bid Failure Event occurs, the Effective Date shall occur at Counterparty’s option and the
+Offered Price shall be equal to zero. 
+
+ For the avoidance of doubt, if an Effective Date and Bid Failure Event occurs and the
+Offered Price is zero, immediately upon the Effective Date, Counterparty shall at its
+option, after giving the applicable notice described in this Agreement, be entitled to
+either (i) cause a Re-Striking Date to occur with respect to the related RO such that (x)
+Counterparty shall be entitled to receive a Net Re-Striking Gain Amount calculated based
+on the Current Price for such RO on the Effective Date and (y) CIT Barbados shall be
+required to pay a Net Re-Striking Haircut Addition Amount for such RO on the Effective
+Date or (ii) receive the Market Related Amount in cash from GSI with respect to the
+related RO on the Effective Date under the terms of the Credit Support Annex. 
+
+ The initial Effective Date hereunder shall also be subject to the condition precedent
+that (i) counsel to CIT Barbados has provided GSI with an opinion acceptable to GSI
+confirming the perfection of GSI’s interest in any Initial Payment to be made by CIT
+Barbados under the Guaranty from time to time and (ii) CIT Barbados has taken all
+necessary steps required by GSI to perfect GSI’s interest in such Initial Payment under
+Barbados law. 
+
+ Initial Price 
+
+ From and including the Effective Date to but excluding the first Re-Striking Date, (1)
+Offered Price minus (2) Haircut Percentage (in each case as of the Effective Date),
+subject to a minimum of zero. 
+
+ 18 
+
+ From and including any Re-Striking Date to but excluding the next Re-Striking Date, (1)
+Current Price minus (2) Haircut Percentage (in each case as of the Re-Striking Date
+occurring at the beginning of such period), subject to a minimum of zero. 
+
+ Bid Failure Event 
+
+ If prior to the Effective Date either GSI gives notice to Counterparty, or Counterparty
+gives notice to GSI, that GSI has not identified a firm bid for the RO at the Offered
+Price after the Condition to RO Effectiveness has been satisfied (for settlement on the
+Effective Date), then the Effective Date shall be five business days after the effective
+date of such notice. If prior to the second effective date either GSI gives notice to
+Counterparty, or Counterparty gives notice to GSI, that GSI has not identified a firm bid
+for the RO at the Offered Price (for settlement on such second effective date), then the
+Effective Date shall be five business days after the effective date of such notice. If
+prior to the third effective date either GSI gives notice to Counterparty, or
+Counterparty gives notice to GSI, that GSI has not identified a firm bid for the RO at
+the Offered Price (for settlement on such third effective date), then a Bid Failure Event
+has occurred. For the avoidance of doubt, GSI is not required to provide a bid for the
+RO. 
+
+ Initial Payment 
+
+ CIT Barbados, as required pursuant to the Guaranty, will make a payment to GSI on the
+Effective Date for each RO calculated as follows: 
+
+ Initial Notional Amount
+ times Initial Haircut Percentage divided by FX Rate for the
+relevant RO; provided, however, that if there is a Bid Failure Event, then the Initial
+Payment will be zero. 
+
+ Notional Amount 
+
+ The Initial Notional Amount, as reduced by each Terminated Notional Amount and Actual
+Principal Repayment from time to time. 
+
+ Net USD Notional 
+
+Amount 
+
+ On any day, the Notional Amount at the close of business (London time) on that day
+multiplied by the related Initial Price divided by the related FX Rate for that RO. 
+
+ Average Notional 
+
+Amount 
+
+ With respect to any Floating Rate Period, the sum of the Net USD Notional Amounts for
+each day in that period divided by the actual number of days in that period. 
+
+ Termination Date 
+
+ The earlier of: (i) the Facility End Date, (ii) the Defaulted Termination Date, (iii) the
+Transaction Termination Date or (iv) the date on which the Notional Amount of the
+Transaction equals zero. 
+
+ Removal Date 
+
+ The Business Day specified by Counterparty or GSI for early termination, in whole or in
+part, of an RO in accordance with a Portfolio Adjustment. 
+
+ 19 
+
+ 2. Effective Date
+Exchange 
+
+ Counterparty Exchange 
+
+Amount 
+
+ On the Effective Date with respect to an
+RO, Counterparty shall pay to GSI an
+amount in the Specified Currency with
+respect to such RO equal to its Initial
+Notional Amount multiplied by its Offered
+Price. 
+
+ GSI Exchange Amount 
+
+ On the Effective Date with respect to an
+RO, GSI shall pay to Counterparty an
+amount in USD with respect to such RO
+equal to its Initial Notional Amount
+multiplied by its Offered Price divided
+by its Initial FX Rate. 
+
+ 3. Haircut 
+
+ Haircut Percentage 
+
+ The Haircut Percentage shall be the percentage determined in accordance with the table
+below by reference to the rating of the RO as of the relevant date. For the avoidance of
+doubt the Haircut Percentage applicable to an RO may change after the Effective Date if
+its applicable rating changes. 
+
+ Rating 
+ Percentage 
+
+ ““AAA” FFELP Assets 
+ [*]% plus the Selected Percentage 
+
+ “A” or better 
+ [*]% plus the Selected Percentage 
+
+ “BBB” but less than “A” 
+ [*]% plus the Selected Percentage 
+
+ Less than “BBB” 
+ [*]% plus the Selected Percentage 
+
+ provided that where the ratings of the relevant agencies differ, the lower of the ratings
+shall apply. 
+
+ As used above: 
+
+ “A” or better” means that the RO is rated at least A+/A by S&P and A1/A2 by Moody’s and,
+if rated by Fitch, is rated at least A+/A by Fitch;
+
+““BBB” but less than “A”” means that the RO is rated at least A-/ BBB+/BBB/BBB- by S&P
+and A3/Baa1/Baa2/Baa3 by Moody’s and, if rated by Fitch, is rated at least
+A-/BBB+/BBB/BBB- by Fitch. 
+
+ “Less than “BBB”” means that the RO is neither ““A” or better” nor ““BBB” but less than
+“A””. 
+
+ “AAA” FFELP Assets means that the RO is a securitization where the securitized
+receivables are exclusively comprised of Guaranteed Student Loans, and is rated AAA by
+S&P and Aaa by Moody’s and, if rated by Fitch, is rated at least AAA by Fitch. 
+
+ “ Selected Percentage ” means (x) in respect of any date prior to the seven year
+anniversary of the Facility Commencement Date, zero and (y) in respect of any date after
+the seven year anniversary of the Facility Commencement Date, a figure of between 0% and
+10% selected by GSI; provided, however, that (i) the Selected Percentage may not exceed
+10%, (ii) the Selected Percentage may not be decreased from its value on any prior date
+and (iii) each incremental increase in the Selected Percentage shall result in a
+reduction of the Facility Fee Rate by 5 bps with effect from the date of such increase,
+with the values of the Facility Fee corresponding to each possible value of the 
+
+ * 
+
+ Confidential treatment has been requested and the redacted material has been filed separately with the Securities and Exchange Commission. 
+
+ 20 
+
+ Selected Percentage as set forth below. 
+
+ Selected 
+
+ Facility Fee 
+
+ Selected 
+
+ Facility Fee 
+
+ Percentage 
+
+ Rate (bps) 
+
+ Percentage 
+
+ Rate (bps) 
+
+ 0 
+ % 
+
+ 285 
+
+ 6 
+ % 
+
+ 255 
+
+ 1 
+ % 
+
+ 280 
+
+ 7 
+ % 
+
+ 250 
+
+ 2 
+ % 
+
+ 275 
+
+ 8 
+ % 
+
+ 245 
+
+ 3 
+ % 
+
+ 270 
+
+ 9 
+ % 
+
+ 240 
+
+ 4 
+ % 
+
+ 265 
+
+ 10 
+ % 
+
+ 235 
+
+ 5 
+ % 
+
+ 260 
+
+ 4. Total Return Payer Payments 
+
+ Total Return Coupon 
+
+Payments 
+
+ On each Total Return Coupon Payment Date, GSI shall pay to
+Counterparty (subject to “Floating Rate Payment and Total Return
+Coupon Netting” below) an amount in the Specified Currency equal to
+the Actual Coupon Payment on the related RO. 
+
+ Total Return Coupon 
+
+Payment Dates 
+
+ With respect to an RO, the date falling five Business Days following
+each date on which the Holders of the RO receive an Actual Coupon
+Payment. 
+
+ 5. Floating Rate Payer Payments 
+
+ Floating Rate Payments 
+
+ On each Floating Rate Payment Date, Counterparty shall pay to GSI
+(subject to “Floating Rate Payment and Total Return Coupon Netting”
+below) an amount in USD equal to: 
+
+ Average Notional Amount times Floating Rate times Floating Rate Day
+
+Count Fraction 
+
+ Floating Rate Period 
+
+End Dates 
+
+ As specified in Annex A, and the Termination Date. 
+
+ Floating Rate Payment 
+
+Dates 
+
+ The date falling five Business Days following each Floating Rate
+Period End Date. 
+
+ Floating Rate 
+
+ USD-LIBOR-BBA (with a Designated Maturity equal to the Floating Rate
+Period) plus the Floating Rate Spread. Linear Interpolation shall
+apply. 
+
+ Floating Rate Spread 
+
+ 0 bps 
+
+ Floating Rate Period 
+
+ The period from, and including, the prior Floating Rate Period End
+Date or the Effective Date, as applicable, to, but excluding, the
+current Floating Rate Period End Date. 
+
+ Floating Rate Day 
+
+Count Fraction 
+
+ Actual/360 
+
+ Floating Rate Reset 
+
+Dates 
+
+ The first day of each Floating Rate Period 
+
+ Floating Rate Payment 
+
+ On each Total Return Coupon Payment Date occurring during the Retained 
+
+ 21 
+
+ and Total Return 
+
+Coupon Netting 
+
+ Cash Flow Period, an amount equal to the excess of (i) the
+Adjusted RO Coupon with respect to the relevant RO and such Total
+Return Coupon Payment Date over (ii) the Floating Rate Payment with
+respect to the corresponding Transaction and the Floating Rate
+Payment Date occurring on such Total Return Coupon Payment Date
+shall be retained by GSI and credited to the Additional
+Collateralization Amount (each such amount a “ Retained Net RO Coupon
+Amount ”). 
+
+ Adjusted RO Coupon 
+
+ For each RO and any Total Return Coupon Payment Date, the relevant
+Actual Coupon Payment divided by Current FX Rate as determined on
+the date on which the Holders of the RO received such Actual Coupon
+Payment. 
+
+ 6. Principal Payments 
+
+ Floating Rate 
+
+Principal Payments 
+
+ On each Principal Payment Date, Counterparty shall pay to GSI
+(subject to “Net RO Principal Gain Payments” below) an amount in USD
+equal to: 
+
+ (1) the amount of the Actual Principal Repayment on the related RO
+ times (2) Offered Price divided by (3) FX Rate. 
+
+ Amortized Net Notional
+Amount 
+
+ For any Principal Payment Date, the amount of the Actual Principal
+Repayment on the related RO times Initial Price. 
+
+ First Total Return 
+
+Principal Payments 
+
+ On each Principal Payment Date, GSI shall pay to CIT Barbados an
+amount in USD equal to (a) the Actual Principal Repayment on the
+related RO times (b) the Initial Haircut Percentage divided by (c)
+the FX Rate with respect to that RO; provided, however, that (i) on
+each Principal Payment Date occurring during the Retained Cash Flow
+Period, GSI shall retain and credit the aggregate of such amounts
+determined with respect to all applicable ROs to the Additional
+Collateralization Amount (each such amount a “ Retained Haircut
+Principal Amount ”) and (ii) on each Principal Payment Date occurring
+on or after the Target Exposure Date, if the calculation of Facility
+Exposure, taking into account the RO Haircut Amount(s) after giving
+effect to the relevant Actual Principal Repayment for each RO for
+which a Principal Payment Date is occurring on such date, results in
+a Delivery Amount or Return Amount becoming due to GSI by
+Counterparty, then GSI shall pay to CIT Barbados only the portion of
+such amount that exceeds such Delivery Amount or Return Amount (and
+with respect to the balance of such amount shall treat Counterparty
+as having Transferred on such date Eligible Credit Support or Posted
+Credit Support in the form of Cash with a Value equal to such
+balance). 
+
+ Second Total Return 
+
+Principal Payments 
+
+ On each Principal Payment Date, GSI shall pay to Counterparty
+(subject to “Net RO Principal Gain Payments” below) an amount in the
+Specified Currency equal to the Actual Principal Repayment on the
+related RO. 
+
+ Principal Payment Dates 
+
+ With respect to an RO, the date falling five Business Days following
+each date on which the Holders of the RO receive an Actual Principal
+Repayment. 
+
+ Net RO Principal Gain
+Payments 
+
+ On each Principal Payment Date occurring during the Retained Cash
+Flow Period, GSI shall retain and credit to the Additional
+Collateralization Amount an amount in USD equal to the greater of
+(a) zero and (b)(1) the aggregate of the Second Total Return
+Principal Payments for such Principal Payment Date 
+
+ 22 
+
+ divided by 
+Current FX Rate minus (2) the aggregate of the Floating Rate
+Principal Payments for such Principal Payment Date (each such amount
+a “ Retained RO Principal Gain Amount ”). 
+
+ 7. Termination Payments 
+
+ First Total Return 
+
+Termination Payment 
+
+ On each Termination Payment Date and on any Early Termination Date,
+GSI shall pay to CIT Barbados with respect to each RO an amount in
+USD equal to the Terminated Notional Amount times the Initial
+Haircut Percentage divided by the FX Rate for that RO (the “ Haircut
+Termination Amount ” and the aggregate of all such Haircut
+Termination Amounts on any Termination Payment Date or Early
+Termination Date the “ Aggregate Haircut Termination Amount ”);
+provided that 
+
+ (i) during the Retained Cash Flow Period, on each Termination
+Payment Date which is not an Early Termination Date, GSI shall
+retain and credit the Aggregate Haircut Termination Amount to the
+Additional Collateralization Amount (each such amount a “ Retained
+Haircut Termination Amount ”), 
+
+ (ii) on or after the Target Exposure Date, if the calculation of
+Facility Exposure, taking into account the RO Haircut Amount(s)
+after giving effect to the relevant Terminated Notional Amount for
+each RO for which a Termination Payment Date is occurring on such
+date, results in a Delivery Amount or Return Amount becoming due to
+GSI by Counterparty, then GSI shall pay to CIT Barbados only the
+portion of such amount that exceeds such Delivery Amount or Return
+Amount (and with respect to the balance of such amount shall treat
+Counterparty as having Transferred on such date Eligible Credit
+Support or Posted Credit Support in the form of Cash with a Value
+equal to such balance) and 
+
+ (iii) on any Early Termination Date any Aggregate Haircut
+Termination Amount otherwise payable to CIT Barbados shall be
+subject to reduction and setoff for any amounts due and unpaid by
+Counterparty under the Master Agreement in respect of an Early
+Termination Date, and any amounts so reduced or setoff shall be
+applied first to all payment obligations of Counterparty hereunder
+other than any obligation to pay the Unpaid Fee Notional Amount and
+thereafter to such obligation of Counterparty to pay the Unpaid Fee
+Notional Amount. 
+
+ Second Total Return 
+
+Termination Payment 
+
+ On each Termination Payment Date, GSI shall pay to Counterparty
+(subject to “Net RO Termination Gain Payments” below) an amount in
+the Specified Currency equal to the Terminated Notional Amount times 
+Final Price. 
+
+ Floating Rate
+Termination Payment 
+
+ On each Termination Payment Date, Counterparty shall pay to GSI
+(subject to “Net RO Termination Gain Payments” below) an amount in
+USD equal to: 
+
+ (A) Terminated Notional Amount times Initial Price divided by FX Rate 
+
+ plus 
+
+ (B) Terminated Notional Amount times Initial Haircut Percentage
+ divided by FX 
+
+ 23 
+
+ Rate. 
+
+ Net RO Termination
+Gain Payments 
+
+ On each Termination Payment Date occurring during the Retained Cash
+Flow Period, GSI shall retain and credit to the Additional
+Collateralization Amount an amount in USD equal to the greater of
+(a) zero and (b)(1) the aggregate of the Second Total Return
+Termination Payments for such Termination Payment Date divided by 
+Current FX Rate minus (2) the aggregate of the Floating Rate
+Termination Payments for such Termination Payment Date (each such
+amount a “ Retained RO Termination Gain Amount ”). 
+
+ Termination Payment
+Date 
+
+ Each Removal Date, Defaulted Termination Date, Transaction
+Termination Date or Facility End Date, as applicable. 
+
+ 8. Re-Striking Payments 
+
+ Trigger Threshold 
+
+ The “Trigger Threshold” shall be met on any date on which the
+absolute value of the MTM is in excess of 3% of the Aggregate
+Notional Amount, where: 
+
+ “MTM” shall equal the aggregate sum of the Market Related Amount for
+each RO in the Portfolio. 
+
+ Re-Striking Date 
+
+ Each of (i) ten (10) Business Days following the date upon which a
+Trigger Threshold is met, (ii) the Facility Amendment Date, (iii)
+any one or more dates during the Retained Cash Flow Period
+designated as such by GSI from time to time (including any Valuation
+Date under the Credit Support Annex designated as such by GSI as
+described below) or (iv) the Effective Date of any Re-Striking
+Substitution. 
+
+ Re-Striking 
+
+ On giving no less than 3 Business Days notice in writing to
+Counterparty GSI may, with effect as of any Re-Striking Date, elect
+to re-strike the Initial Price of one or more ROs in the Portfolio
+as determined by GSI such that, had such adjustment been in effect
+on the Re-Striking Date, the MTM would have been equal to zero (a
+“ Re-Striking ”); provided, however, that no prior notice to
+Counterparty by GSI shall be required for GSI to designate as a
+Re-Striking Date any Valuation Date during the Retained Cash Flow
+Period on which GSI would otherwise be required to Transfer Eligible
+Credit Support to Counterparty. A Re-Striking shall also occur on
+the Effective Date of any Re-Striking Substitution designated by
+Counterparty pursuant to “Portfolio Adjustment Notice” above. If GSI
+so elects or if Counterparty makes a Re-Striking Substitution: 
+
+ (i) a Removal Date shall be deemed to occur on the Re-Striking Date,
+with respect to the Notional Amount of each RO for which a
+Re-Striking occurs and the parties shall make the payments required
+hereunder in connection with a Removal Date; 
+
+ (ii) a new Effective Date shall be deemed to occur on the
+Re-Striking Date with respect to the Notional Amount of each RO for
+which a Re-Striking occurs and the parties shall make the payments
+required hereunder in connection with an Effective Date; 
+
+ (iii) the Initial Price of each RO for which a Re-Striking occurs
+shall, with effect 
+
+ 24 
+
+ from the Re-Striking Date, be reset to (1)
+Current Price minus (2) Haircut Percentage (in each case as of the
+Re-Striking Date); 
+
+ (iv) the Offered Price of each RO for which a Re-Striking occurs
+shall, with effect from the Re-Striking Date, be reset to the
+Current Price as of the Re-Striking Date; 
+
+ (v) the Initial FX Rate of each RO for which a Re-Striking occurs
+shall, with effect from the Re-Striking Date, be reset to be equal
+to the Current FX Rate as determined two Business Days prior to the
+Re-Striking Date; and 
+
+ (vi) the Initial Haircut Percentage of each RO for which a
+Re-Striking occurs shall be reset to the Haircut Percentage on the
+Re-Striking Date. 
+
+ For the avoidance of doubt, on any Re-Striking Date, by operation of
+(and without duplication of) the Initial Payment, the Effective Date
+Exchange provision of Paragraph 2 and the Termination Payment
+provision of Paragraph 7, and with respect to each RO for which a
+Re-Striking Date occurs on such date: 
+
+ (1) GSI shall pay to CIT Barbados an amount in USD equal to the
+Notional Amount times the Initial Haircut Percentage for the
+relevant RO before the Re-Striking Date for the relevant RO divided
+by Initial FX Rate (each as determined before such Re-Striking); 
+
+ (2) CIT Barbados shall pay to GSI an amount in USD equal to the
+Notional Amount times Initial Haircut Percentage divided by Initial
+FX Rate (each as determined pursuant to such Re-Striking). 
+
+ (3) Counterparty shall pay to GSI an amount in the Specified
+Currency equal to the Notional Amount for the relevant RO multiplied
+by its Current Price (each as determined pursuant to such
+Re-Striking). 
+
+ (4) GSI shall pay to Counterparty an amount in USD equal to the
+Notional Amount for the relevant RO multiplied by the Current Price
+divided by the Initial FX Rate for the relevant RO (each as
+determined pursuant to such Re-Striking). 
+
+ (5) GSI shall pay to Counterparty an amount in the Specified
+Currency equal to the Notional Amount of the relevant RO times 
+Current Price. 
+
+ (6) Counterparty shall pay to GSI an amount in USD equal to the
+Notional Amount times (Initial Price plus Initial Haircut
+Percentage) divided by Initial FX Rate (each as determined before
+such Re-Striking). 
+
+ Items (1) and (2) shall be netted with respect to all ROs for which
+a Re-Striking Date is occurring on such date and (i) if a net amount
+is payable by CIT Barbados to GSI (a “ Net Re-Striking Haircut
+Addition Amount ”), CIT Barbados shall pay such Net Re-Striking
+Haircut Addition Amount to GSI and (ii) if a net amount is payable
+by GSI to CIT Barbados (a “ Net Re-Striking 
+
+ 25 
+
+ Haircut Return Amount ”), then 
+
+ (A) on each Re-Striking Date occurring during the Retained Cash Flow Period, GSI shall retain and credit such Net Re-Striking Haircut Return
+Amount to the Additional Collateralization Amount (each such amount a “ Retained Net Re-Striking Haircut Return Amount ”) and
+
+ (B) on each Re-Striking Date occurring on or after the Target Exposure Date, GSI shall pay such Net Re-Striking Haircut Return Amount to CIT
+Barbados, provided that if the calculation of Facility Exposure, taking into account the RO Haircut Amount for each RO after giving effect to
+each Re-Striking occurring on such Re-Striking Date, results in a Delivery Amount or Return Amount becoming due to GSI by Counterparty, GSI
+shall pay to CIT Barbados only the portion of such amount that exceeds such Delivery Amount or Return Amount (and with respect to the balance
+of such amount shall treat Counterparty as having Transferred on such date Eligible Credit Support or Posted Credit Support in the form of
+Cash with a Value equal to such balance).
+
+ Items (3), (4), (5) and (6) shall be netted with respect to all ROs for which a Re-Striking Date is occurring on such date and (i) if a net
+amount is payable by Counterparty to GSI (a “ Net Re-Striking Loss Amount ”), Counterparty shall pay such Net Re-Striking Loss Amount to GSI and
+(ii) if a net amount is payable by GSI to Counterparty (a “ Net Re-Striking Gain Amount”) , then 
+
+ (A) on each Re-Striking Date occurring during the Retained Cash Flow Period, GSI shall retain and credit such Net Re-Striking Gain Amount to
+the Additional Collateralization Amount (each such amount a “ Retained Net Re-Striking Gain Amount ”)
+
+ and
+
+ (B) on each Re-Striking Date occurring on or after the Target Exposure Date, GSI shall pay such Net Re-Striking Gain Amount to Counterparty,
+provided that if the calculation of Facility Exposure, taking into account the Market Related Amount for each RO after giving effect to the
+each Re-Striking occurring on such Re-Striking Date, results in a Delivery Amount or Return Amount becoming due to GSI by Counterparty, GSI
+shall pay to Counterparty only the portion of such amount that exceeds such Delivery Amount or Return Amount (and with respect to the balance
+of such amount shall treat Counterparty as having Transferred on such date Eligible Credit Support or Posted Credit Support in the form of
+Cash with a Value equal to such balance).
+
+ To the extent a Net Re-Striking Loss Amount is payable to GSI on the Facility Amendment Date, Counterparty authorizes GSI, and GSI agrees to
+effect such payment by treating an amount of Posted Credit Support in the form of cash posted by Counterparty under the Credit Support Annex
+equal to (i) if the Net Re-Striking Loss Amount exceeds such posted cash, the amount of such posted cash or (ii) otherwise, the Net
+Re-Striking Loss Amount, in each case, as being transferred on the Facility Amendment Date as a payment by Counterparty to GSI, with the
+effect that only any remaining shortfall amount will then be due from Counterparty to GSI. 
+
+ 26 
+
+ 9. Credit Event Termination 
+
+ Credit Event 
+
+ Failure to Pay; provided “ Failure to Pay ” shall mean: 
+
+ after the expiration of any applicable grace period (however defined under the terms of the RO), the occurrence of a non-payment of a payment
+of interest Scheduled to be Due or principal due on the RO on any date, in accordance with the terms of such RO at the time of such failure.
+The occurrence of a Failure to Pay shall be determined without regard to the effect of any provisions of the RO that permit or provide for the
+limitation of payments of principal or interest in accordance with the terms of the RO pursuant to an available funds cap or otherwise, that
+provide for the capitalization or deferral of interest on the RO, or that provide for the extinguishing or reduction of such payments of
+principal or interest without a corresponding payment to Holders of the RO. 
+
+ Bankruptcy (as defined in the Credit Definitions) of the Reference Entity or any Insurer and/or credit support provider. For the avoidance of
+doubt a “credit support provider” for the foregoing purpose is an entity, if any, indicated as such in Annex A under the heading “guarantor or
+credit support provider” and does not refer to CIT Group Inc. or CIT Barbados as “Credit Support Providers” for purposes of the Master
+Agreement. 
+
+ " Scheduled to be Due ” means in the case of an interest payment that such interest payment would accrue during the related calculation period
+for the RO using the Reference Obligation Coupon identified in Annex A on the outstanding principal balance of the RO for such calculation
+period, assuming for this purpose that sufficient funds are available therefor in accordance with the terms of the RO. 
+
+ Credit Event Notice 
+
+Requirement 
+
+ Notice of a Credit Event from GSI to Counterparty shall be in the form on an irrevocable notice in writing of the occurrence of a Credit
+Event. The notice shall: 
+
+ (i) identify the Credit Event in question and shall contain a description in reasonable detail of the facts relevant to the determination that
+a Credit Event has occurred, and 
+
+ (ii) be accompanied with Publicly Available Information (as defined in Sections 3.5(a) and (c) of the Credit Definitions and for such purposes
+the Specified Number of Public Sources shall be one and the RO is the Obligation). 
+
+ A Credit Event Notice shall be subject to the requirements regarding notices set forth in Section 1.10 of the Credit Definitions (except that
+the giving of notice by telephone shall not be permitted) which, together with the requirements set out above, shall be used to determine
+whether a Credit Event Notice is “effective.” 
+
+ Trustee/Servicer Report 
+
+ Periodic statements or reports regarding the RO provided to the Holders of the RO by the trustee, servicer, sub-servicer, master servicer,
+fiscal agent, paying agent or other similar entity responsible for calculating payment amounts or providing reports pursuant to the underlying
+instruments of the RO. 
+
+ 27 
+
+ Defaulted Termination 
+
+Date 
+
+ 10 Business Days after the Credit Event Notification Date. 
+
+ Defaulted Termination 
+
+Event 
+
+ Upon GSI notifying Counterparty of a Credit Event in accordance with Credit Event Notice Requirement (“ Credit Event Notification Date ”), the
+Transaction will terminate in whole on the Defaulted Termination Date. 
+
+ 10. Breakage Payments 
+
+ LIBOR Breakage Payment 
+
+Date: 
+
+ The occurrence of a (i) Removal Date, (ii) Principal Payment Date, (iii) Defaulted Termination Date; or (iv) a Re-Striking Date, unless any
+such date occurs on either (a) a Floating Rate Period End Date or (b) the Facility End Date. 
+
+ LIBOR Breakage Payment: 
+
+ In the event, and only in the event, that a LIBOR Breakage Payment Date occurs, Counterparty shall pay to GSI on each such LIBOR Breakage
+Payment Date an amount equal to the LIBOR Breakage Payment Amount (if positive) for such LIBOR Breakage Payment Date or GSI shall pay to
+Counterparty an amount equal to the absolute value of the LIBOR Breakage Payment Amount (if negative) for such LIBOR Breakage Payment Date. 
+
+ LIBOR Breakage Payment 
+
+Amount: 
+
+ With respect to each LIBOR Breakage Payment Date, an amount calculated by the Calculation Agent according to the following formula (the “ LIBOR
+Breakage Payment Amount ”): 
+
+ With respect to a Principal Payment Date: 
+
+ (L1 — L2) x (D / 360) x Amortized Net Notional Amount / FX Rate 
+
+ With respect to a Removal Date or Defaulted Termination Date: 
+
+ (L1 — L2) x (D / 360) x Terminated Notional Amount x Initial Price / FX Rate 
+
+ With respect to a Re-Striking Date and any Net Re-Striking Loss Amount: 
+
+ (L1 — L2) x (D / 360) x Net Re-Striking Loss Amount 
+
+ Where: — 
+
+ " L1 ” equals the current Floating Rate (excluding the Floating Rate Spread) for the period ending on the next succeeding Floating Rate Period
+End Date as set on the immediately previous Reset Date. 
+
+ " L2 ” equals USD-LIBOR-BBA minus 0.15%, with a Designated Maturity equal to “D” (as defined below) with the Reset Date being the current LIBOR
+Breakage Payment Date; provided, however, that if such Designated Maturity shall be one week or less, one-week USD-LIBOR-BBA shall be used.
+If such Designated Maturity is longer than one week and there is no USD-LIBOR-BBA published with such a Designated Maturity, Linear
+Interpolation of the next shorter and next longer published Designated Maturities of USD-LIBOR-BBA shall be used. 
+
+ " D ” equals the actual number of days remaining in the Calculation Period from, and including, the current LIBOR Breakage Payment Date to, but
+excluding, the next Floating Rate Period End Date. 
+
+ 28 
+
+ 11. Definitions 
+
+ Actual Coupon Payments 
+
+ All payments, including, without limitation, interest and fees, if any, paid by or on behalf of the Issuer in respect of an outstanding
+principal balance of the applicable RO equal to the Notional Amount to a Holder (other than Final Price proceeds or Actual Principal
+Repayments). 
+
+ Actual Principal 
+
+Repayments 
+
+ In respect of any Principal Payment Date, all payments on such date in respect of the reimbursement of principal allocable to an outstanding
+principal amount of the RO equal to the Notional Amount (as in effect immediately prior to such Actual Principal Repayment) including, if
+applicable to such date, principal payments on the maturity date and makewhole or premium payments, if any, paid by or on behalf of the Issuer
+to a Holder. In no event shall a First Total Return Termination Payment, Second Total Return Termination Payment or a Floating Rate
+Termination Payment be payable by either party in connection with an Actual Principal Repayment. 
+
+ Additional 
+
+Collateralization
+Amount 
+
+ On any date of determination after the Amendment Trade Date, the aggregate sum of the following amounts determined on or prior to such date of
+determination (but in the case of amounts determined on such date, only after giving effect to the crediting of the relevant amount): 
+
+ (i) USD 250,000,000 added on the Facility Amendment Date plus 
+
+ (ii) all Retained Net RO Coupon Amounts for which a Total Return Coupon Payment Date has occurred, plus 
+
+ (iii) all Retained Haircut Principal Amounts and Retained RO Principal Gain Amounts for which a Principal Payment Date has occurred, plus 
+
+ (iv) all Retained Haircut Termination Amounts for which a Termination Payment Date has occurred, plus 
+
+ (v) all Retained RO Termination Gain Amounts for which a Termination Payment Date has occurred, plus 
+
+ (vi) without duplication of amounts in (iv) or (v), all Retained Net Re-Striking Haircut Return Amounts and Retained Net Re-Striking Gain
+Amounts for which a Re-Striking Date has occurred, plus 
+
+ (vii) all Retained CSA Interest Amounts for which the Transfer date specified in Paragraph 13 of the Credit Support Annex has occurred, plus 
+
+ (viii) all Retained Credit Support Amounts for which a Valuation Date has occurred.
+
+ On any date on which an amount is credited by GSI to the Additional Collateralization Amount (x) in the case of (i) above, such crediting
+shall give rise to a Delivery Amount of USD 250,000,000 applicable to Counterparty as of the Facility Amendment Date (in addition to any
+Delivery Amount applicable to Counterparty on such date as a result of any Market Related Amount), (y) in the case of (ii)-(vii) above,
+Counterparty shall be treated as having Transferred to GSI Eligible Credit Support in the form of cash in the amount of such credit for 
+
+ 29 
+
+ purposes of the Credit Support Annex and GSI shall hold such amount as Posted Credit Support and (z) in the case of (viii) above, GSI shall
+continue to hold the relevant Retained Credit Support Amount as Posted Credit Support. 
+
+ Final Price 
+
+ (1) With respect to a Termination Payment Date other than where Bid Disqualification Condition item (iii) below would apply, the price
+(expressed as a percentage) determined three Business Days prior to the scheduled Termination Payment Date (the “ Counterparty Bidding Date ”)
+on the basis of the firm bids, including accrued interest, (each a “ Firm Bid ”) for a principal amount of the RO equal to the Terminated
+Notional Amount, for settlement on the scheduled Termination Payment Date, obtained by the Calculation Agent on such Counterparty Bidding Date
+from Counterparty or Counterparty’s designee, where (i) the Calculation Agent will give Counterparty notice of the Counterparty Bidding Date
+(unless the Termination Payment Date arises from a Removal Date notified by Counterparty or a Credit Event Notification Date) of its intention
+to obtain Firm Bids pursuant to this provision and the applicable deadline time for submission of a bid and (ii) Counterparty may, but shall
+not be obligated to, provide a Firm Bid or procure a Firm Bid from an unaffiliated third party designated by Counterparty; provided, however,
+that (A) if no Firm Bid is obtained for any portion of the entire Terminated Notional Amount of the RO by the deadline time on the
+Counterparty Bidding Date, then the Termination Payment Date shall be postponed to the Business Day following the originally scheduled
+Termination Payment Date and (B) if the party providing the Firm Bid on the Counterparty Bidding Date fails to perform its obligation to make
+payment for the Terminated Notional Amount based on such Firm Bid on the scheduled Termination Payment Date, the Termination Payment Date
+shall be postponed to the fourth Business Day following the originally scheduled Termination Payment Date. 
+
+ (2) With respect to a Termination Payment Date where (x) Bid Disqualification item (iii) below would apply or (y) the proviso in (1)(A) above
+applies or (z) the proviso in (1)(B) above applies, the price (expressed as a percentage) determined three Business Days prior to the
+scheduled Termination Payment Date (in the case of (x)) or the postponed Termination Payment Date (in the case of (y) or (z)), as applicable
+(the “ Alternative Bidding Date ”) on the basis of the highest of the Firm Bids for a principal amount of the RO equal to the Terminated
+Notional Amount, for settlement on the Termination Payment Date, obtained by the Calculation Agent on such Alternative Bidding Date; where (i)
+the Calculation Agent shall attempt to obtain a Firm Bid for the Terminated Notional Amount of the RO from one or more Independent Dealers,
+(ii) except in the case of an Alternative Bidding Date occurring due to the failure of the party providing the Firm Bid on the Counterparty
+Bidding Date to perform its obligation to make payment for the Terminated Notional Amount as described in (1)(B) above (aa) the Calculation
+Agent will give Counterparty notice of its intention to obtain Firm Bids pursuant to this provision and the applicable deadline time for
+submission of bids and (bb) Counterparty may, but shall not be obligated to, provide a Firm Bid or procure a Firm Bid from an unaffiliated
+third party designated by Counterparty and (iv) if no Firm Bid is obtained for any portion of the entire Terminated Notional Amount of the
+Reference Obligation by the deadline time on the Bidding Date, then the Final Price for such portion shall be deemed to be zero per cent. 
+
+ Notwithstanding the foregoing, the Calculation Agent shall be entitled to 
+
+ 30 
+
+ disregard as invalid any Firm Bid submitted by any third party if, in the Calculation Agent’s commercially reasonable judgment, 
+
+ (i) either (x) such third party is ineligible to accept assignment or transfer of the relevant RO or portion thereof, as applicable,
+substantially in accordance with the then-current market practice in the principal market for the RO, as reasonably determined by the
+Calculation Agent, or (y) such third party would not, through the exercise of its commercially reasonable efforts, be able to obtain any
+consent required under any agreement or instrument governing or otherwise relating to the RO to the assignment or transfer of the RO or
+portion thereof, as applicable, to it;
+
+ (ii) such Firm Bid is not bona fide , including, without limitation, due to (x) the insolvency of the bidder or (y) the inability, failure or
+refusal of the bidder to settle the purchase of the RO or portion thereof, as applicable, or otherwise settle transactions in the relevant
+market or perform its obligations generally; or
+
+ (iii) in connection with any Firm Bid procured by Counterparty on any Counterparty Originated Asset (as defined below), Counterparty is in
+breach of the Indemnity Letter provided in connection with addition of such RO or any other Potential Event of Default or Event of Default has
+occurred and is continuing in relation to Counterparty.
+
+ (each of (i), (ii) or (iii) a “ Bid Disqualification Condition ”). 
+
+ Holder 
+
+ A holder of a nominal amount of the RO equal to the Notional Amount 
+
+ Terminated Notional 
+
+Amount 
+
+ In respect of each Termination Payment Date (i) in the case of a Termination Payment Date arising other than from a Removal Date, the current
+Notional Amount in full and (ii) in the case of a Termination Payment Date arising from a Removal Date, the portion of the Notional Amount
+designated for removal by Counterparty in connection with such Removal Date. 
+
+ Transaction 
+
+Termination Date 
+
+ As specified in Annex A. 
+
+ 12. Other Terms 
+
+ Collateral 
+
+ Credit Support Annex; provided that, the component of a party’s Exposure attributable to this Facility and each Transaction hereunder will be
+the Facility Exposure as determined below. 
+
+ “Market Related
+Amount” means [(Initial Price divided by FX Rate) minus 
+([Current Price minus Haircut Percentage] divided by Current FX Rate)]
+ times Notional Amount plus Accrued Floating Amount. 
+
+ “ Accrued Floating Amount ” means the Floating Rate Payment accrued from (and including) the previous Floating Rate Period End Date to (but
+excluding) the date of calculation. 
+
+ “ Facility Exposure ” means, as of any date of determination (i) on or after the Amendment Trade Date but prior to the Target Exposure Date, the
+Ramp Up 
+
+ 31 
+
+ Advance Rate Exposure and (ii) on or after the Target Exposure Date, the Target Advance Rate Exposure. 
+
+ “ Ramp Up Advance Rate Exposure ” means on any date of determination 
+
+ (a) the sum of the Market Related Amounts calculated for each RO in the Portfolio as of such date of determination plus 
+
+ (b) the Additional Collateralization Amount as of such date of determination (after giving effect to any credits thereto occurring on such
+date).
+
+ “ Target Advance Rate Exposure ” means on any date of determination 
+
+ (a) the sum of the Market Related Amounts calculated for each RO in the Portfolio as of such date of determination plus 
+
+ (b) (i) 75% times (ii) the Present Value Facility Fee as of such date of determination plus 
+
+ (c) the greater of (x) zero and (y) (A) 25.5% times the Present Value Facility Fee as of such date of determination minus (B) the aggregate of
+the RO Haircut Amounts as of such date of determination for each RO included in the Facility on such date.
+
+ “ Target Exposure Date ” means, except as provided under “Designation of Target Exposure Date,” a date designated as such by either party by
+three Business Days’ prior written notice to the other, provided that such notice is given on or after the first date after the Facility
+Amendment Date on which the Net Target Advance Rate Exposure is zero or less. 
+
+ “ Net Target Advance Rate Exposure ” means on any date of determination (A) (i) 75% times (ii) the Present Value Facility Fee as of such date of
+determination minus (B) the Additional Collateralization Amount as of such date of determination (after giving effect to any credits to the
+Additional Collateralization Amount occurring on such date). 
+
+ “ Retained Cash Flow Period ” means the period on or after the Amendment Trade Date but prior to the Target Exposure Date. 
+
+ “ RO Haircut Amount ” means for each RO and on any date of determination, the product of (A) Notional Amount times (B) Haircut Percentage
+ divided by (C) Current FX Rate. 
+
+ “ Current Price ” means the bid side market value of the RO (expressed as percentage of principal balance) as determined by Calculation Agent in
+its sole and absolute discretion. The parties are entitled to assume that there has been no change in the Current Price, and rely on the
+preceding notification, until such time as a new Current Price is notified to the parties by the Calculation Agent. 
+
+ If the Facility Exposure is a positive number, then such amount shall be deemed to be a positive Settlement Amount for the purposes of
+determining GSI’s Exposure in respect of the Transactions and a negative Settlement Amount for the purposes of determining Counterparty’s
+Exposure in respect of the Transactions. 
+
+ 32 
+
+ If the Facility Exposure is a negative number, then such amount shall be deemed to be a negative Settlement Amount for purposes of determining
+GSI’s Exposure in respect of the Transactions and positive Settlement Amount for the purposes of determining Counterparty’s Exposure in
+respect of the Transactions; provided, however, that in the event that the Facility Exposure is a negative amount which exceeds the Available
+Maximum Aggregate Notional Amount, then the foregoing provisions of this paragraph shall not apply and the Available Maximum Aggregate
+Notional Amount shall be deemed to be a negative Settlement Amount for purposes of determining GSI’s Exposure in respect of all of the
+Reference Obligations in the Portfolio and positive Settlement Amount for the purposes of determining Counterparty’s Exposure in respect of
+all of the Reference Obligations in the Portfolio. 
+
+ “ Available Maximum
+Aggregate Notional Amount ” means, on any date, Maximum
+Aggregate Notional Amount minus Aggregate Notional Amount. 
+
+ Notwithstanding the provisions of the Credit Support Annex: 
+
+ (i) on any Valuation Date during the Retained Cash Flow Period which is also a Principal Payment Date or Termination Payment Date on which an
+Actual Principal Payment or Terminated Notional Amount has been determined in relation to an RO, Posted Credit Support having a Value equal to
+the greater of zero and
+
+ (A) any positive Market Related Amount in relation to such RO on the immediately preceding Valuation Date, based on the Notional Amount prior
+to giving effect to the relevant Actual Principal Payment or
+Terminated Notional Amount minus 
+
+ (B) any positive Market Related Amount in relation to such RO on such Valuation Date, based on the Notional Amount after giving effect to the
+relevant Actual Principal Payment or Terminated Notional Amount (and if the Market Related Amount on such Valuation Date is negative or zero,
+the amount in this clause (B) is zero),
+
+ shall be retained by GSI and credited to the Additional Collateralization Amount (each such amount a “ Retained Credit Support Amount ”), and
+any corresponding Delivery Amount or Return Amount applicable to GSI shall be reduced accordingly;
+
+ (ii) on any date during the Retained Cash Flow Period any Interest Amount otherwise payable under Paragraph 6(d)(ii) of the Credit Support
+Annex shall be retained by GSI and credited to the Additional Collateralization Amount (any such amount a “ Retained CSA Interest Amount ”); and
+
+ (iii) on any date on which the aggregate of the RO Haircut Amounts does not exceed the Minimum Transfer Amount applicable to Delivery Amounts
+by Counterparty under the Credit Support Annex, the Minimum Transfer Amount applicable to Delivery Amounts by Counterparty shall be zero.
+
+ For the avoidance of doubt, (i) the provisions in this Confirmation providing for 
+
+ 33 
+
+ GSI to retain and credit certain amounts to the Additional
+Collateralization Amount are in addition to and without limitation of GSI’s right to retain and apply any net payments owed to Counterparty
+under the Master Agreement or this Facility on any date to any Delivery Amount actually applicable to Counterparty under the Credit Support
+Annex on such date and (ii) the Transfer of Eligible Credit Support arising from any one or more credits to the Additional Collateralization
+Amount on any date is in addition to and not in limitation of any Delivery Amount applicable to Counterparty under the Credit Support Annex on
+the same date by virtue of the calculation of Exposure prior to such Transfer. 
+
+ In the event that GSI receives written notice from Counterparty that Counterparty, acting in a commercially reasonable manner, disputes the
+Current Price as determined above (a “ Dispute Notice ”), (i) the Current Price on the relevant date shall be the Current Price determined by
+the Calculation Agent; and (ii) Counterparty shall be entitled to obtain an Independent Price on the Business Day following the date on which
+Counterparty satisfies its obligation to Transfer Eligible Credit Support pursuant to Paragraph 3(a) of the Credit Support Annex. 
+
+ If Counterparty obtains an Independent Price on the Business Day following the date on which it satisfies its obligation pursuant to Paragraph
+3(a) of the Credit Support Annex, the Current Price on such Business Day shall be the Independent Price so obtained, provided, however, that
+if GSI reasonably believes, acting in good faith and in a commercially reasonable manner, that such Independent Price does not reflect the
+market value of the RO, GSI shall notify Counterparty and (i) the Current Price on the relevant date shall be the Current Price determined by
+the Calculation Agent; and (ii) Counterparty shall on the next Business Day obtain a firm bid for the Notional Amount from at least one
+Independent Dealer (an “ Independent Bid ”) and the Current Price on such Business Day shall be such Independent Bid (subject to any Bid
+Disqualification Condition). 
+
+ If Counterparty does not obtain an Independent Price on the next Business Day following a Dispute Notice, or does not obtain an Independent
+Bid on request by GSI, the Current Price on such Business Day shall be the market bid price of the RO as determined by Calculation Agent as of
+the date of such calculation. 
+
+ Exposure if Facility
+Amendment Date Fails
+to Occur 
+
+ For the avoidance of doubt, in the event that the Facility Amendment Date does not occur pursuant to the “Conditions to Facility Amendment
+Date Effectiveness” set forth above, Exposure will be calculated pursuant to the terms of the Original Facility, such that any amounts
+credited to the Additional Collateralization Amount under (ii) through (viii) of the definition thereof will no longer be included in the
+Exposure of GSI to Counterparty for purposes of the Credit Support Annex. 
+
+ Independent Price 
+
+ The Independent Price shall be on any date of determination the average of the market bid prices, including accrued interest, relating to a
+principal amount of the Reference Obligation equal to the Notional Amount (the “ Quote Size ”) provided by at least two Independent Dealers
+nominated by Counterparty; provided that if at least two bids are not available, then only one bid may be used, and if no bids are available,
+then the Current Price on such Business Day shall be the market bid price of the RO as determined by Calculation Agent as of the date of such
+calculation. 
+
+ 34 
+
+ “ Independent Dealers ” means Bank of America, Bank of New York, Barclays Capital, BNP Paribas, Citigroup, Credit Suisse, Deutsche Bank,
+JPMorgan, Morgan Stanley, Royal Bank of Scotland, UBS, Wachovia, Wells Fargo, the lead arrangers or underwriters in respect of the RO, any
+Affiliate or successor of any of the foregoing and any other unaffiliated third party designated by Counterparty and agreed to by GSI. 
+
+ Designation of Target
+Exposure Date 
+
+ Upon the reasonable request of Counterparty from time to time, GSI shall include in any valuation or exposure statement in relation to the
+Facility that GSI may otherwise provide to Counterparty a calculation of the Additional Collateralization Amount. If on the basis of receipt
+of such calculations or otherwise Counterparty concludes in good faith that the Net Target Advance Rate Exposure is zero or less, Counterparty
+may by written notice to GSI request GSI to designate the Target Exposure Date (a “ Target Exposure Date Request ”). Within two Business Days
+of receiving such Target Exposure Date Request from Counterparty, GSI shall by written notice to Counterparty, (i) advise Counterparty of
+GSI’s determination as to whether the Net Target Advance Rate Exposure is zero or less on the date of such notice and (ii) if GSI has advised
+that the Net Target Advance Rate Exposure is zero or less, the second Business Day following such notice shall be the Target Exposure Date.
+If after receiving a Target Exposure Date Request from Counterparty, GSI advises Counterparty that GSI has determined that the Net Target
+Advance Rate Exposure is greater than zero, and Counterparty delivers GSI a notice disputing such determination, Counterparty and GSI shall
+consult with each other in good faith to resolve such dispute. Other than in accordance with these procedures, GSI shall not be responsible
+for ensuring that the Target Exposure Date has been designated when the Net Target Advance Rate Exposure is zero or less. 
+
+ Payments on Early 
+
+Termination 
+
+ Notwithstanding anything to the contrary in the Master Agreement, upon the occurrence of an Early Termination Date in respect of any
+Transaction hereunder or under the Facility, then the Loss of the parties in respect of each Transaction shall be determined for such
+Transaction as equal to the Market Related Amount in relation thereto; where if the Market Related Amount is a negative number, then such
+amount shall be deemed to be a positive Loss of Counterparty and a negative Loss of GSI in respect of the relevant Transaction and if the
+Market Related Amount is a positive number, then such amount shall be deemed to be a negative Loss of Counterparty and a positive Loss of GSI
+in respect of the relevant Transaction; provided, however, that for purposes of determination of Loss (i) the reference in the definition of
+Market Related Amount to “Current Price” shall be deemed to be a reference to “Final Price,” (ii) the second Business Day following the Early
+Termination Date shall be treated as the Termination Payment Date solely for purposes of the definition of “Final Price” and (iii) for the
+avoidance of doubt, the provisions set forth under “Collateral” (other than the definitions of Market Related Amount and Accrued Floating
+Amount) shall not apply. 
+
+ In addition to the payments set out above, so long as GSI is not the Defaulting Party or the sole Affected Party, upon the occurrence of an
+Early Termination Date in respect of any Transaction hereunder or under the Facility, an amount equal to the Unpaid Fee Notional Amount as of
+such Early Termination Date 
+
+ 35 
+
+ shall be deemed to be an additional positive Loss of
+GSI payable to GSI on such Early Termination Date. The parties agree that the Unpaid Fee
+Notional Amount represents a reasonable pre-estimate of GSI’s loss resulting from the
+occurrence of an Early Termination Date in respect of any Transaction hereunder or under the
+Facility and not a penalty. 
+
+ “ Accrued Facility Fee ” shall mean, as of any date of determination, any accrued but unpaid
+Facility Fee as at that date. 
+
+ “ Unpaid Fee Notional Amount ” means in relation to any Early Termination Date the aggregate of
+(i) the Accrued Facility Fee, (ii) the Present Value Facility Fee and (iii) any unpaid
+Termination Fee as of such Early Termination Date. 
+
+ “ Present Value Facility Fee ” shall mean, as of any date of determination, the present value
+(as determined by the Calculation Agent) of the Facility Fee which would accrue from (and
+including) that date to (and including) the date falling 20 years after the Facility
+Commencement Date, assuming no Optional Termination Date were to occur and discounting each
+scheduled Facility Fee amount from the relevant scheduled Facility Fee Payment Date based on
+the value of “USD-ISDA-Swap Rate” for a maturity equal to the period of time from the date of
+determination to such scheduled Facility Fee Payment Date, as determined by the Calculation
+Agent. 
+
+ RO Conversion 
+
+ If the RO or any portion thereof is irreversibly converted or exchanged into or for any
+securities, obligations or other assets or property (“ Exchange Consideration ”), or any
+payment on the RO is paid in the form of any Exchange Consideration that is not cash,
+thereafter such Exchange Consideration will constitute the RO or portion thereof and the
+Calculation Agent shall in good faith adjust the terms of the related Transaction as the
+Calculation Agent determines appropriate to preserve the theoretical value of such
+Transaction to the parties immediately prior to such exchange or, if such exchange results in
+a change in value, the proportionate post-exchange value, and determine the effective date of
+such adjustments; provided, however, that if the Calculation Agent shall determine in good
+faith that it is not possible to make such revisions, a Removal Date shall be deemed to occur
+in relation to such RO and the Transaction related to such RO shall be terminated. 
+
+ Indemnity Letter 
+
+Cross Default 
+
+ For the avoidance of doubt, any failure of the Counterparty or any other party having
+obligations under an Indemnity Letter (other than GSI) to comply with its obligations
+thereunder shall constitute a Potential Event of Default and, if not cured within the time
+period specified in the Schedule, an Event of Default, under Section 5(a)(ii) of the Master
+Agreement, with Counterparty as the Defaulting Party. 
+
+ TRS Conflicting 
+
+Indebtedness 
+
+ It shall constitute an Event of Default under Section 5(a)(ii) of the Master Agreement, with
+Counterparty as the Defaulting Party, and without provision for cure, if the documentation in
+relation to the Series A Notes contemplated by the Exchange Offer and Plan of Reorganization
+or any other secured indebtedness of Counterparty or any Credit Support Provider from time to
+time (“ Other Secured Indebtedness ”) contains any representation, warranty, affirmative or 
+
+ 36 
+
+ negative covenant obligation or event of default (in each case including, without limitation,
+relating to restrictions on liens or indebtedness) applicable to Counterparty or any Credit
+Support Provider that both (i) would be violated or breached by the incurrence of or
+performance by Counterparty or any Credit Support Provider of its obligations under the
+Master Agreement or this Facility or would conflict with the liens granted to GSI hereunder
+but for a TRS Lien Exception and (ii) fails to provide for a TRS Lien Exception (such Other
+Secured Indebtedness in such circumstance, “ TRS Conflicting Indebtedness ”). 
+
+ Amended and Restated
+Guaranty Provisions 
+
+ On or after the Facility Amendment Date, any references in the Master Agreement or herein to
+the Credit Support Document provided by CIT Group Inc. shall refer to the Amended and
+Restated Guaranty dated as of the Facility Amendment Date (the “ Amended CIT Group Guaranty ”). 
+
+ Any failure by CIT Group Inc. to comply with the provisions of the second subparagraph of
+Paragraph 10 of the Amended CIT Group Guaranty shall be deemed to constitute an Event of
+Default under Section 5(a)(viii) (Merger Without Assumption) of the Master Agreement. 
+
+ Rating Agency Reports 
+
+ With respect to each Counterparty Originated Asset, the servicer that is a party to the
+Indemnity Letter has agreed under the Indemnity Letter (and with respect to each other RO,
+Counterparty agrees) (a) to be responsible for and shall pay or arrange for payment of the
+annual fees of Moody’s and S&P and other costs of maintaining the rating of each RO as a
+monitored rating during the term of the Facility and (b) to deliver to GSI promptly from time
+to time any S&P, Moody’s and Fitch reports regarding any ROs that are available to holders of
+the RO or to Counterparty or its Affiliates in any capacity as originator, servicer,
+administrator, manager or otherwise in connection with any Reference Entity or RO (“ Rating
+Agency Reports ”). 
+
+ 37 
+
+ Special Reference 
+
+Obligation 
+
+Termination Events 
+
+ In the event that
+
+(i) any of Counterparty or its Affiliates or the Reference Entity fails to comply with any of
+the covenants or operating procedures assumed or specified to be performed by such parties in
+a True Sale and Nonconsolidation Opinion as a premise for such opinion, and such failure is
+not cured within the cure period applicable to a Potential Event of Default under Section
+5(a)(ii) of the Schedule; 
+
+ (ii) a change in law (including application or interpretation of existing law) results in a
+True Sale and Nonconsolidation Opinion becoming invalid under current law as reasonably
+demonstrated by GSI, and an updated True Sale and Nonconsolidation Opinion taking account of
+such change in law and otherwise satisfactory to GSI is not delivered to GSI within 30 days
+of GSI’s request therefor; 
+
+ (iii) a change in law (including application or interpretation of law) would render a
+Transaction under this Facility no longer to be subject to termination, netting and closeout
+without restriction from any automatic stay or similar restriction in an insolvency
+proceeding under Canadian or U.S. law, as reasonably demonstrated by GSI; 
+
+ (iv) the rating of the RO ceases to be a monitored rating subject to periodic update by the
+relevant agency; 
+
+ (v) payments of interest in relation to the RO become subject to withholding tax under
+applicable law (unless fully compensated under a customary gross-up provision); or 
+
+ (vi) a Qualifying [*]-Rated RO ceases to satisfy clause (ii) of the definition thereof, unless
+such RO would be eligible to be included in one of the categories identified in clause (xv)
+a., b. or d. of the definition of Eligible RO and adding such RO to such category would not
+cause the Portfolio to violate any of the limits set forth in such clause (xv) a., b. or d.; 
+
+ then GSI may designate a Removal Date in respect of the relevant RO or Transaction. 
+
+ Governing Law 
+
+ This Confirmation and each Transaction documented hereby will be governed by, and construed
+and enforced in accordance with, the law of the State of New York (without reference to its
+choice of law doctrine). 
+
+ 13. Payment Details 
+
+ Payments to GSI 
+
+ In accordance with GSI’s written instructions as set forth below or as
+otherwise delivered to Counterparty. 
+
+ GSI Payment Details 
+
+ Name of Bank: Citibank, N.A. New York 
+
+ Account No.: 4061 6408 
+
+ * 
+
+ Confidential treatment has been requested and the redacted material has been filed separately with the Securities and Exchange Commission. 
+
+ 38 
+
+ Fed. ABA No.: 021000089 
+
+ GSI Inquiries and Notices 
+
+ Goldman Sachs International 
+
+ Attention: Credit Derivatives Middle Office 
+
+ Tel: 1 212 357 0167 
+
+ Fax: 1 212 428 9189 
+
+ With a copy to: 
+
+ Email: gs-sctabs-reporting@ny.email.gs.com 
+
+ Fax: +1 212 428 3697 
+
+ All correspondence shall include the GS Reference Number: SDB925241547Y. 
+
+ Payments to Counterparty 
+
+ In accordance with Counterparty’s written instructions as set forth below
+or otherwise delivered to GSI. GSI shall make no payments without having
+received (i) such written instructions and (ii) a fully executed facsimile
+copy of this Confirmation or other written acceptance of the terms hereof. 
+
+ Counterparty Payment Details 
+
+ In accordance with Counterparty’s written instructions as delivered to GSI. 
+
+ Payments to CIT Barbados 
+
+ In accordance with CIT Barbados’ written instructions as set forth below
+or otherwise delivered to GSI. GSI shall make no payments without having
+received (i) such written instructions and (ii) a fully executed facsimile
+copy of this Confirmation or other written acceptance of the terms hereof. 
+
+ CIT Barbados Payment Details 
+
+ In accordance with CIT Barbados’ written instructions as delivered to GSI. 
+
+ 14. Additional Acknowledgement and Agreements: 
+
+ (a) Counterparty hereby represents to and acknowledges and agrees with GSI that:
+
+ (i) (w) without limitation of Section 9.1 of the Credit Derivatives Definitions, neither GSI nor
+any of its Affiliates shall be under any obligation to hedge the Transaction or to own or hold the
+Reference Obligation or any securities of the Reference Entity or its Affiliates, directly or
+indirectly, as a result of any Transaction, and GSI and its Affiliates may establish, maintain,
+modify, terminate or re-establish any hedge position or any methodology for hedging at any time
+without regard to Counterparty;
+
+ (x) Counterparty is not relying on any representation, warranty or statement by GSI or any of
+its Affiliates as to whether, at what times, in what manner or by what method GSI or any of its
+Affiliates may engage in any hedging activities;
+
+ (y) if GSI does hedge the Transaction or GSI or any hedge counterparty does own or hold the
+Reference Obligation, directly or indirectly, as a result of any Transaction, GSI and its
+Affiliates and any such hedge counterparty may act with respect to such Reference Obligation and
+any other securities of the Reference Entity or its Affiliates in the same manner as if the
+Transaction did not exist and may originate, purchase, sell, hold or trade, and may exercise or
+fail to exercise voting, consensual, amendment or remedial rights in respect of the Reference
+Obligations or other obligations, securities or financial instruments of, issued by or linked to
+the
+Reference Entity or its Affiliates in their sole and absolute discretion, regardless of whether any
+such action
+
+ 39 
+
+ might have an adverse effect on the Reference Entity, the value of the Reference
+Obligation or the position of the Counterparty to this Transaction or otherwise; and
+
+ (z) it has consulted with its own tax advisors to the extent that it has deemed necessary, and
+it has made its own decisions regarding entering into this Facility and each Transaction based upon
+its own judgment and upon any advice from such advisors as it has deemed necessary and not upon any
+view expressed by GSI or any of its Affiliates or agents.
+
+ (ii) The Facility comprises a series of derivative Transactions and no such Transaction is intended
+by the parties to be a loan, nor is GSI required to provide a bid at any time in relation to any
+RO;
+
+ (iii) The fair value of the assets of the Counterparty will exceed the debt and liabilities,
+subordinated, contingent and otherwise of the Counterparty and Counterparty will not have
+unreasonably small capital with which to conduct the business in which it is engaged as such
+business is now conducted and is proposed to be conducted.
+
+ (b) each party acknowledges and agrees that:
+
+ (i) (A) the Master Agreement and each Transaction entered into under this Confirmation is a “swap
+agreement” and/or a “securities contract” within the meaning given to such term under Section
+101(53B) of the United States Bankruptcy Code of 1978, as amended (the “ Bankruptcy Code ”); (B) it
+is a “swap participant” within the meaning given to such term under Section 101(53C) of the
+Bankruptcy Code and (C) all Transactions entered into hereunder will constitute “eligible financial
+contracts” for purposes of the Bankruptcy and Insolvency Act (Canada), the Companies’ Creditors
+Arrangement Act (Canada) and the Winding Up and Restructuring Act (Canada);
+
+ (ii) Unless identified as an underwriter or arranger in an offering document relating to an RO, GSI
+and its Affiliates have played no role in structuring or arranging for the issuance of any RO or in
+negotiating or establishing the terms of such RO. Whether or not GSI or its Affiliates are
+identified as an underwriter or arranger in an offering document relating to an RO, any and all
+information that may be provided by GSI to Counterparty hereunder with respect to any RO is not
+being furnished by GSI in the capacity of an underwriter or dealer of the RO in connection with
+this Transaction and GSI accepts no responsibility or liability therefor.
+
+ (iii) The contents of this Confirmation and the other agreements relating to the Facility are
+confidential and shall not be disclosed to any third party, and neither party shall make any public
+announcement relating to this Facility without consent of the other party; except that disclosure
+of this Confirmation and the terms of the Facility is permitted (A) where required or appropriate
+in response to any summons, subpoena, or otherwise in connection with any litigation or regulatory
+inquiry or to comply with any applicable law, order, regulation, ruling, or disclosure requirement,
+including without limitation, any requirement of any regulatory body or stock exchange where the
+shares of such disclosing party are listed, as determined by the disclosing party in good faith
+following consultation with the other party hereto, (B) to officers, directors, employees,
+attorneys and advisors of the parties or their affiliates who are subject to a duty of
+confidentiality to the disclosing party or such affiliate, (C) to rating agencies and (D) where the
+information has otherwise become public (other than as a result of a breach of this subparagraph
+(b)(iii)). Notwithstanding the foregoing or any other provision in this Confirmation or any other
+document, GSI and Counterparty (and each employee, representative, or other agent of GSI or
+Counterparty) may each disclose to any and all persons, without limitation of any kind, the U.S.
+tax treatment and U.S. tax structure of the transaction and all materials of any kind (including
+opinions or other tax analyses) that are provided to them relating to such U.S. tax treatment and
+U.S. tax structure (as those terms are used in Treasury Regulations under Sections 6011, 6111 and
+6112 of the U.S. Internal Revenue Code of 1986, as amended (the “ Code ”)), other than any
+information for which nondisclosure is reasonably necessary in order to comply with applicable
+securities laws. Without limitation of (iii)(A) above, Counterparty agrees (A) to arrange for CIT
+Group Inc. promptly to make disclosure of the terms of this Confirmation and the Facility in a
+filing on Form 8-K pursuant
+to the reporting provisions of the Securities Exchange Act of 1934, as amended (the
+
+ 40 
+
+ “ Exchange Act ”) and as otherwise required under the provisions of the Exchange Act, (B) to
+afford GSI a reasonable opportunity to review the form of such disclosure in advance, consistent
+with the performance by CIT Group Inc. of its obligations referred to in (A), and (C) to cooperate
+in good faith with any reasonable request by GSI to seek confidential treatment from the Securities
+and Exchange Commission for specific provisions of this Confirmation, provided however, GSI shall
+pay all reasonable fees (including reasonable legal fees) incurred in connection with such request.
+
+ (iv) as of the Effective Date and so long as either party has or may have any obligation under
+any Transaction, it is not and will not be an “employee benefit plan” (as defined in Section 3(3)
+of the Employee Retirement Income Security Act of 1974, as amended (“ ERISA ”)), subject to Title I
+of ERISA, a “plan” (as defined in Section 4975(e) of the Code), subject to Section 4975 of the Code
+or an entity whose underlying assets include the assets of any such plan by reason of 29 CFR
+2510.3-101, Section 3(42) of ERISA or otherwise.
+
+ (c) CIT Barbados shall be an express third party beneficiary of the provisions of this Facility
+specifying payment obligations to CIT Barbados, provided that such payment obligations shall be
+subject to reduction and setoff on any date in respect of amounts due and unpaid by Counterparty
+hereunder.
+
+ (d) The parties agree to amend the definition of “Indemnifiable Tax” by adding the following to
+the end of the definition:
+
+ “Notwithstanding the foregoing, any Tax imposed by reason of a payment deemed made or received
+between Counterparty and an affiliate thereof, or between affiliates of Counterparty, by reason of
+this Facility or a Transaction hereunder, and related transactions, shall be treated as (i) an
+Indemnifiable Tax on a payment under this Agreement in the case of payments made by Counterparty or
+its affiliates to GSI and (ii) a Tax on a payment under this Agreement which is not an
+Indemnifiable Tax in the case of payments made by GSI to Counterparty or its affiliates.”
+
+ 41 
+
+ 15. Agreement as to Confirmation :
+
+ Counterparty hereby agrees (a) to check this Confirmation (Reference No SDB925241547Y) carefully
+and immediately upon receipt so that errors or discrepancies can be promptly identified and
+rectified and (b) to confirm that the foregoing correctly sets forth the terms of the agreement
+between GSI and Counterparty with respect to the Transactions to which this Confirmation relates,
+by manually signing this Confirmation and providing the other information requested herein and
+immediately returning an executed copy to Swap Administration, Goldman Sachs International,
+facsimile No +1 212 428 9189).
+
+ 42 
+
+ Goldman Sachs International | Peterborough Court |133 Fleet Street | London EC4A 2BB | Tel 0207 774 1000
+
+ Registered in England no. 226395. Registered Office as above. Authorised and regulated by the Financial Services Authority 
+
+ GSI is very pleased to have executed this Transaction (Reference No. SDB925241547Y) with
+Counterparty.
+
+ Very truly yours, 
+
+ GOLDMAN SACHS INTERNATIONAL 
+
+ By:
+
+Name:
+
+ /s/ Joseph J. McNeila
+
+Joseph J. McNeila
+
+ Title:
+
+ Managing Director 
+
+ Agreed To And Accepted By: 
+
+ CIT FINANCIAL LTD. 
+
+ By:
+
+ /s/ Usama Ashraf
+
+ Name: Usama Ashraf 
+
+ Title: Senior Vice President 
+
+ 43 
+
+ Annex A
+
+ Offering 
+
+ Floating 
+
+ Guarantor 
+
+ Price 
+
+ Rate 
+
+ or credit 
+
+ Transaction 
+
+ Initial 
+
+ Par 
+
+ (including 
+
+ Reference 
+
+ Period 
+
+ Initial 
+
+ Transaction 
+
+ Reference 
+
+ Reference 
+
+ support 
+
+ Insurer, 
+
+ Specified 
+
+ Effective 
+
+ Termination 
+
+ Notional 
+
+ Amount at 
+
+ accrued 
+
+ Initial 
+
+ Obligation 
+
+ End 
+
+ CUSIP/ 
+
+ Haircut 
+
+ Number 
+
+ Obligation 
+
+ Entity 
+
+ provider 
+
+ if any 
+
+ Currency 
+
+ Date 
+
+ Date 
+
+ Amount 
+
+ Issuance 
+
+ interest) 
+
+ Price 
+
+ Coupon 
+
+ Dates 
+
+ ISIN 
+
+ Percentage 
+
+ 44

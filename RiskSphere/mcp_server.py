@@ -30,7 +30,7 @@ TOOLS = [
             "properties": {
                 "counterparty": {
                     "type": "string",
-                    "description": "Id or name: meridian, apex, or harbor.",
+                    "description": "Id or name on the book.",
                 }
             },
             "required": ["counterparty"],
@@ -48,7 +48,7 @@ TOOLS = [
             "properties": {
                 "counterparty": {
                     "type": "string",
-                    "description": "Id or name: meridian, apex, or harbor.",
+                    "description": "Id or name on the book.",
                 }
             },
             "required": ["counterparty"],
@@ -104,7 +104,7 @@ TOOLS = [
             "properties": {
                 "counterparty": {
                     "type": "string",
-                    "description": "Id or name: meridian, apex, or harbor.",
+                    "description": "Id or name on the book.",
                 }
             },
             "required": ["counterparty"],
@@ -112,6 +112,101 @@ TOOLS = [
         },
     },
 ]
+
+def _party(name, description, extra=None, required_extra=None):
+    properties = {
+        "counterparty": {
+            "type": "string",
+            "description": "Id or name on the book.",
+        }
+    }
+    if extra:
+        properties.update(extra)
+    required = ["counterparty"] + (required_extra or [])
+    return {
+        "name": name,
+        "description": description,
+        "inputSchema": {
+            "type": "object",
+            "properties": properties,
+            "required": required,
+            "additionalProperties": False,
+        },
+    }
+
+
+def _noarg(name, description):
+    return {
+        "name": name,
+        "description": description,
+        "inputSchema": {"type": "object", "properties": {}, "additionalProperties": False},
+    }
+
+
+TOOLS.extend([
+    _noarg("check_data_quality", "Check ids, dates, units, and signs. Does not fill a missing value and does not download a price."),
+    _party(
+        "scenario_pnl",
+        "Scenario profit and loss. Shock sizes are stored. Equity and FX only.",
+        extra={"scenario": {"type": "string", "description": "equity_down_20, equity_down_40, or usd_spike."}},
+        required_extra=["scenario"],
+    ),
+    _party("initial_margin_proxy", "Illustrative initial margin with a horizon and a percentile. Not ISDA SIMM."),
+    _party("collateral_coverage", "Eligible collateral after haircut, then shortfall or surplus. Ineligible assets count as zero."),
+    _party(
+        "expected_loss",
+        "Synthetic PD times LGD times a labelled exposure. Not regulatory EAD.",
+        extra={"ead_basis": {"type": "string", "description": "current or pfe."}},
+        required_extra=["ead_basis"],
+    ),
+    {
+        "name": "search_clauses",
+        "description": "Rank sample sentences in one pile. csa is the agreement pile. d499 is the haircut schedule pile. Does not change the book.",
+        "inputSchema": {
+            "type": "object",
+            "properties": {
+                "query": {"type": "string"},
+                "pile": {"type": "string", "description": "csa or d499."},
+            },
+            "required": ["query", "pile"],
+            "additionalProperties": False,
+        },
+    },
+    _party(
+        "propose_term",
+        "Write a draft agreement term. Does not change the stored book.",
+        extra={
+            "field": {"type": "string"},
+            "value": {"type": "number"},
+            "passage_id": {"type": "string"},
+        },
+        required_extra=["field", "value", "passage_id"],
+    ),
+    _noarg("list_alerts", "Breaches, collateral shortfalls, and stale prices."),
+    _party(
+        "draft_report",
+        "Draft a report with the run id, input hashes, formulas, seed, and path count. Nothing is sent.",
+        extra={"include_pfe": {"type": "boolean"}},
+    ),
+    _party("draft_margin_notice", "Draft a margin notice. It is not sent."),
+    {
+        "name": "draft_stress_book",
+        "description": "Draft the stored shocks. An empty counterparty means the whole book.",
+        "inputSchema": {
+            "type": "object",
+            "properties": {
+                "counterparty": {"type": "string"},
+            },
+            "additionalProperties": False,
+        },
+    },
+    _party(
+        "draft_dispute",
+        "Draft a dispute row from our mark and a mark already stated in the question.",
+        extra={"their_mtm": {"type": "number"}},
+        required_extra=["their_mtm"],
+    ),
+])
 
 
 def _write(payload):

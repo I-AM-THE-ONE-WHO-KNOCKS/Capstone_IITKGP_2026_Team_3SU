@@ -1,0 +1,1763 @@
+EX-10.4.4
+ 12
+ a09-17603_1ex10d4d4.htm
+ NON-GUARANTEED PUT OPTION CONFIRM
+
+ Exhibit 10.4.4 
+
+ (Bilateral
+ Form) 
+
+ (ISDA Agreements Subject to New York Law Only) 
+
+ ISDA ® 
+
+ International
+Swaps and Derivatives Association, Inc. 
+
+ CREDIT SUPPORT ANNEX 
+
+ to the Schedule to
+the ISDA Master Agreement 
+
+ dated as of June 30,
+2009 
+
+ between 
+
+ DEXIA CRÉDIT LOCAL S.A., acting through
+ its New York Branch, and DEXIA
+ SA , jointly and severally; 
+
+ and 
+
+ FSA ASSET MANAGEMENT LLC 
+
+ This
+Annex supplements, forms part of, and is subject to, the above-referenced
+Agreement, is part of its Schedule and is a Credit Support Document under this
+Agreement with respect to each party. 
+
+ Accordingly, the parties agree as follows:— 
+
+ Paragraph 1. 
+Interpretation 
+
+ (a) Definitions and
+Inconsistency. Capitalized terms not otherwise defined herein or
+elsewhere in this Agreement have the meanings specified pursuant to Paragraph
+12, and all references in this Annex to Paragraphs are to Paragraphs of this
+Annex. In the event of any inconsistency
+between this Annex and the other provisions of this Schedule, this Annex will
+prevail, and in the event of any inconsistency between Paragraph 13 and the
+other provisions of this Annex, Paragraph 13 will prevail. 
+
+ (b) Secured Party and Pledgor. 
+ All
+references in this Annex to the “Secured Party” will be to either party when
+acting in that capacity and all corresponding references to the “Pledgor” will
+be to the other party when acting in that capacity; provided,
+however, that if Other Posted Support is held by a party to this
+Annex, all references herein to that party as the Secured Party with respect to
+that Other Posted Support will be to that party as the beneficiary thereof and
+will not subject that support or that party as the beneficiary thereof to
+provisions of law generally relating to security interests and secured parties. 
+
+ Paragraph 2. 
+Security Interest 
+
+ Each
+party, as the Pledgor, hereby pledges to the other party, as the Secured Party,
+as security for its Obligations, and grants to the Secured Party a first
+priority continuing security interest in, lien on and right of Set-off against
+all Posted Collateral Transferred to or received by the Secured Party
+hereunder. Upon the Transfer by the
+Secured Party to the Pledgor of Posted Collateral, the security interest and
+lien granted hereunder on that Posted Collateral will be released immediately
+and, to the extent possible, without any further action by either party. 
+
+ Paragraph 3. Credit Support Obligations 
+
+ (a) Delivery Amount . 
+ Subject to
+Paragraphs 4 and 5, upon a demand made by the Secured Party on or promptly
+following a Valuation Date, if the Delivery Amount for that Valuation Date
+equals or exceeds the 
+
+ Pledgor’s
+Minimum Transfer Amount, then the Pledgor will Transfer to the Secured Party
+Eligible Credit Support having a Value as of the date of Transfer at least
+equal to the applicable Delivery Amount (rounded pursuant to Paragraph
+13). Unless otherwise specified in
+Paragraph 13, the “Delivery Amount” applicable to the Pledgor for any Valuation Date will equal
+the amount by which: 
+
+ (i) the
+Credit Support Amount 
+
+ exceeds 
+
+ (ii) the Value as of
+that Valuation Date of all Posted Credit Support held by the Secured Party. 
+
+ (b) Return Amount. 
+ Subject to
+Paragraphs 4 and 5, upon a demand made by the Pledgor on or promptly following
+a Valuation Date, if the Return Amount for that Valuation Date equals or
+exceeds the Secured Party’s Minimum Transfer Amount, then the Secured Party
+will Transfer to the Pledgor Posted Credit Support specified by the Pledgor in
+that demand having a Value as of the date of Transfer as close as practicable
+to the applicable Return Amount (rounded pursuant to Paragraph 13). Unless otherwise specified in Paragraph 13,
+the “Return Amount” applicable
+to the Secured Party for any Valuation Date will equal the amount by which: 
+
+ (i) the Value as of
+that Valuation Date of all Posted Credit Support held by the Secured Party
+exceeds 
+
+ (ii) the
+Credit Support Amount. 
+
+ “Credit Support Amount” means, unless otherwise specified in Paragraph 13, for
+any Valuation Date (i) the Secured Party’s Exposure for that Valuation
+Date plus (ii) the aggregate of all Independent Amounts applicable to the
+Pledgor, if any, minus (iii) all Independent Amounts applicable to the
+Secured Party, if any, minus (iv) the Pledgor’s Threshold; provided, however, that the Credit Support Amount will be
+deemed to be zero whenever the calculation of Credit Support Amount yields a
+number less than zero. 
+
+ Paragraph 4. 
+Conditions Precedent, Transfer Timing, Calculations and Substitutions 
+
+ (a) Conditions Precedent. 
+ Each
+Transfer obligation of the Pledgor under Paragraphs 3 and 5 and of the Secured
+Party under Paragraphs 3, 4(d)(ii), 5 and 6(d) is subject to the
+conditions precedent that: 
+
+ (i) no Event of
+Default, Potential Event of Default or Specified Condition has occurred and is
+continuing with respect to the other party; and 
+
+ (ii) no Early
+Termination Date for which any unsatisfied payment obligations exist has
+occurred or been designated as the result of an Event of Default or Specified
+Condition with respect to the other party. 
+
+ (b) Transfer Timing. 
+ Subject to
+Paragraphs 4(a) and 5 and unless otherwise specified, if a demand for the
+Transfer of Eligible Credit Support or Posted Credit Support is made by the
+Notification Time, then the relevant Transfer will be made not later than the
+close of business on the next Local Business Day; if a demand is made after the
+Notification Time, then the relevant Transfer will be made not later than the
+close of business on the second Local Business Day thereafter. 
+
+ (c) Calculations. 
+ All
+calculations of Value and Exposure for purposes of Paragraphs 3 and 6(d) will
+be made by the Valuation Agent as of the Valuation Time. The Valuation Agent will notify each party
+(or the other party, if the Valuation Agent is a party) of its calculations not
+later than the Notification Time on the Local Business Day following the
+applicable Valuation Date (or in the case of Paragraph 6(d), following the date
+of calculation). 
+
+ 2 
+
+ (d) Substitutions . 
+
+ (i) Unless otherwise
+specified in Paragraph 13, upon notice to the Secured Party specifying the
+items of Posted Credit Support to be exchanged, the Pledgor may, on any Local
+Business Day, Transfer to the Secured Party substitute Eligible Credit Support
+(the “Substitute Credit Support”); and 
+
+ (ii) subject to
+Paragraph 4(a), the Secured Party will Transfer to the Pledgor the items of
+Posted Credit Support specified by the Pledgor in its notice not later than the
+Local Business Day following the date on which the Secured Party receives the
+Substitute Credit Support, unless otherwise specified in Paragraph 13 (the “Substitution
+Date”); provided that the Secured Party will
+only be obligated to Transfer Posted Credit Support with a Value as of the date
+of Transfer of that Posted Credit Support equal to the Value as of that date of
+the Substitute Credit Support. 
+
+ Paragraph 5. 
+Dispute Resolution 
+
+ If a
+party (a “Disputing Party”) disputes (I) the Valuation Agent’s calculation
+of a Delivery Amount or a Return Amount or (II) the Value of any Transfer
+of Eligible Credit Support or Posted Credit Support, then (1) the
+Disputing Party will notify the other party and the Valuation Agent (if the
+Valuation Agent is not the other party) not later than the close of business on
+the Local Business Day following (X) the date that the demand is made
+under Paragraph 3 in the case of (I) above or (Y) the date of
+Transfer in the case of (II) above, (2) subject to Paragraph 4(a),
+the appropriate party will Transfer the undisputed amount to the other party
+not later than the close of business on the Local Business Day following (X) the
+date that the demand is made under Paragraph 3 in the case of (I) above or
+(Y) the date of Transfer in the case of (II) above, (3) the
+parties will consult with each other in an attempt to resolve the dispute and (4) if
+they fail to resolve the dispute by the Resolution Time, then: 
+
+ (i) In the case of a dispute involving a
+Delivery Amount or Return Amount, unless otherwise specified in Paragraph 13,
+the Valuation Agent will recalculate the Exposure and the Value as of the
+Recalculation Date by: 
+
+ (A) utilizing any calculations of Exposure
+for the Transactions (or Swap Transactions) that the parties have agreed are
+not in dispute; 
+
+ (B) calculating the Exposure for the
+Transactions (or Swap Transactions) in dispute by seeking four actual
+quotations at mid-market from Reference Market-makers for purposes of
+calculating Market Quotation, and taking the arithmetic average of those
+obtained; provided that if four quotations are not
+available for a particular Transaction (or Swap Transaction), then fewer than
+four quotations may be used for that Transaction (or Swap Transaction); and if
+no quotations are available for a particular Transaction (or Swap Transaction),
+then the Valuation Agent’s original calculations will be used for that
+Transaction (or Swap Transaction); and 
+
+ (C) utilizing the procedures specified in
+Paragraph 13 for calculating the Value, if disputed, of Posted Credit Support. 
+
+ (ii) In the case of a dispute involving the
+Value of any Transfer of Eligible Credit Support or Posted Credit Support, the
+Valuation Agent will recalculate the Value as of the date of Transfer pursuant
+to Paragraph 13. 
+
+ Following
+a recalculation pursuant to this Paragraph, the Valuation Agent will notify
+each party (or the other party, if the Valuation Agent is a party) not later
+than the Notification Time on the Local Business Day following the Resolution
+Time. The appropriate party will, upon
+demand following that notice by the 
+
+ 3 
+
+ Valuation
+Agent or a resolution pursuant to (3) above and subject to Paragraphs 4(a) and
+4(b), make the appropriate Transfer. 
+
+ Paragraph 6. 
+Holding and Using Posted Collateral 
+
+ (a) Care of Posted Collateral. 
+ Without
+limiting the Secured Party’s rights under Paragraph 6(c), the Secured Party
+will exercise reasonable care to assure the safe custody of all Posted
+Collateral to the extent required by applicable law, and in any event the
+Secured Party will be deemed to have exercised reasonable care if it exercises
+at least the same degree of care as it would exercise with respect to its own
+property. Except as specified in the
+preceding sentence, the Secured Party will have no duty with respect to Posted
+Collateral, including, without limitation, any duty to collect any
+Distributions, or enforce or preserve any rights pertaining thereto. 
+
+ (b) Eligibility to Hold Posted
+Collateral; Custodians. 
+
+ (i) General. Subject to the satisfaction of any
+conditions specified in Paragraph 13 for holding Posted Collateral, the Secured
+Party will be entitled to hold Posted Collateral or to appoint an agent (a “Custodian”)
+to hold Posted Collateral for the Secured Party. Upon notice by the Secured Party to the
+Pledgor of the appointment of a Custodian, the Pledgor’s obligations to make
+any Transfer will be discharged by making the Transfer to that Custodian. The holding of Posted Collateral by a
+Custodian will be deemed to be the holding of that Posted Collateral by the
+Secured Party for which the Custodian is acting. 
+
+ (ii) Failure to Satisfy Conditions. If the Secured Party
+or its Custodian fails to satisfy any conditions for holding Posted Collateral,
+then upon a demand made by the Pledgor, the Secured Party will, not later than
+five Local Business Days after the demand, Transfer or cause its Custodian to
+Transfer all Posted Collateral held by it to a Custodian that satisfies those
+conditions or to the Secured Party if it satisfies those conditions. 
+
+ (iii) Liability. The Secured Party will be liable
+for the acts or omissions of its Custodian to the same extent that the Secured
+Party would be liable hereunder for its own acts or omissions. 
+
+ (c) Use of Posted Collateral. 
+ Unless
+otherwise specified in Paragraph 13 and without limiting the rights and
+obligations of the parties under Paragraphs 3, 4(d)(ii), 5, 6(d) and 8, if
+the Secured Party is not a Defaulting Party or an Affected Party with respect
+to a Specified Condition and no Early Termination Date has occurred or been
+designated as the result of an Event of Default or Specified Condition with
+respect to the Secured Party, then the Secured Party will, notwithstanding Section 9-207
+of the New York Uniform Commercial Code, have the right to: 
+
+ (i) sell, pledge, rehypothecate, assign, invest, use, commingle or
+otherwise dispose of, or otherwise use in its business any Posted Collateral it
+holds, free from any claim or right of any nature whatsoever of the Pledgor,
+including any equity or right of redemption by the Pledgor; and 
+
+ (ii) register any Posted Collateral in the name of the Secured
+Party, its Custodian or a nominee for either. 
+
+ For
+purposes of the obligation to Transfer Eligible Credit Support or Posted Credit
+Support pursuant to Paragraphs 3 and 5 and any rights or remedies authorized
+under this Agreement, the Secured Party will be deemed to continue to hold all
+Posted Collateral and to receive Distributions made thereon, regardless of
+whether the Secured Party has exercised any rights with respect to any Posted
+Collateral pursuant to (i) or (ii) above. 
+
+ 4 
+
+ (d) Distributions and Interest
+Amount. 
+
+ (i) Distributions. Subject to Paragraph 4(a), if the
+Secured Party receives or is deemed to receive Distributions on a Local
+Business Day, it will Transfer to the Pledgor not later than the following
+Local Business Day any Distributions it receives or is deemed to receive to the
+extent that a Delivery Amount would not be created or increased by that
+Transfer, as calculated by the Valuation Agent (and the date of calculation will
+be deemed to be a Valuation Date for this purpose). 
+
+ (ii) Interest Amount. Unless otherwise specified in
+Paragraph 13 and subject to Paragraph 4(a), in lieu of any interest, dividends
+or other amounts paid or deemed to have been paid with respect to Posted
+Collateral in the form of Cash (all of which may be retained by the Secured
+Party), the Secured Party will Transfer to the Pledgor at the times specified
+in Paragraph 13 the Interest Amount to the extent that a Delivery Amount would
+not be created or increased by that Transfer, as calculated by the Valuation
+Agent (and the date of calculation will be deemed to be a Valuation Date for
+this purpose). The Interest Amount or
+portion thereof not Transferred pursuant to this Paragraph will constitute Posted
+Collateral in the form of Cash and will be subject to the security interest
+granted under Paragraph 2. 
+
+ Paragraph 7. 
+Events of Default 
+
+ For
+purposes of Section 5(a)(iii)(1) of this Agreement, an Event of
+Default will exist with respect to a party if: 
+
+ (i) that party fails
+(or fails to cause its Custodian) to make, when due, any Transfer of Eligible
+Collateral, Posted Collateral or the Interest Amount, as applicable, required
+to be made by it and that failure continues for two Local Business Days after notice
+of that failure is given to that party; 
+
+ (ii) that party fails to
+comply with any restriction or prohibition specified in this Annex with respect
+to any of the rights specified in Paragraph 6(c) and that failure
+continues for five Local Business Days after notice of that failure is given to
+that party; or 
+
+ (iii) that party fails to
+comply with or perform any agreement or obligation other than those specified
+in Paragraphs 7(i) and 7(ii) and that failure continues for 30 days
+after notice of that failure is given to that party. 
+
+ Paragraph 8. 
+Certain Rights and Remedies 
+
+ (a) Secured Party’s Rights and
+Remedies. If at any time (1) an Event of Default or
+Specified Condition with respect to the Pledgor has occurred and is continuing
+or (2) an Early Termination Date has occurred or been designated as the
+result of an Event of Default or Specified Condition with respect to the
+Pledgor, then, unless the Pledgor has paid in full all of its Obligations that
+are then due, the Secured Party may exercise one or more of the following
+rights and remedies: 
+
+ (i) all rights and
+remedies available to a secured party under applicable law with respect to
+Posted Collateral held by the Secured Party; 
+
+ (ii) any other rights
+and remedies available to the Secured Party under the terms of Other Posted
+Support, if any; 
+
+ (iii) the right to
+Set-off any amounts payable by the Pledgor with respect to any Obligations
+against any Posted Collateral or the Cash equivalent of any Posted Collateral
+held by the Secured Party (or any obligation of the Secured Party to Transfer
+that Posted Collateral); and 
+
+ (iv) the right to
+liquidate any Posted Collateral held by the Secured Party through one or more
+public or private sales or other dispositions with such notice, if any, as may
+be required under applicable law, free from any claim or right of any nature
+whatsoever of the Pledgor, including any equity or right of redemption by the
+Pledgor (with the Secured Party having the right to purchase any 
+
+ 5 
+
+ or all of the Posted Collateral to be sold) and to apply the proceeds
+(or the Cash equivalent thereof) from the liquidation of the Posted Collateral
+to any amounts payable by the Pledgor with respect to any Obligations in that
+order as the Secured Party may elect. 
+
+ Each
+party acknowledges and agrees that Posted Collateral in the form of securities
+may decline speedily in value and is of a type customarily sold on a recognized
+market, and, accordingly, the Pledgor is not entitled to prior notice of any
+sale of that Posted Collateral by the Secured Party, except any notice that is
+required under applicable law and cannot be waived. 
+
+ (b) Pledgor’s Rights and
+Remedies. If at any time an Early Termination Date has occurred
+or been designated as the result of an Event of Default or Specified Condition
+with respect to the Secured Party, then (except in the case of an Early
+Termination Date relating to less than all Transactions (or Swap Transactions)
+where the Secured Party has paid in full all of its obligations that are then
+due under Section 6(e) of this Agreement): 
+
+ (i) the Pledgor may
+exercise all rights and remedies available to a pledgor under applicable law
+with respect to Posted Collateral held by the Secured Party; 
+
+ (ii) the Pledgor may
+exercise any other rights and remedies available to the Pledgor under the terms
+of Other Posted Support, if any; 
+
+ (iii) the Secured Party
+will be obligated immediately to Transfer all Posted Collateral and the
+Interest Amount to the Pledgor; and 
+
+ (iv) to the extent that
+Posted Collateral or the Interest Amount is not so Transferred pursuant to (iii) above,
+the Pledgor may: 
+
+ (A) Set-off any amounts payable by the
+Pledgor with respect to any Obligations against any Posted Collateral or the
+Cash equivalent of any Posted Collateral held by the Secured Party (or any
+obligation of the Secured Party to Transfer that Posted Collateral); and 
+
+ (B) to the extent that the Pledgor does
+not Set-off under (iv)(A) above, withhold payment of any remaining amounts
+payable by the Pledgor with respect to any Obligations, up to the Value of any
+remaining Posted Collateral held by the Secured Party, until that Posted
+Collateral is Transferred to the Pledgor. 
+
+ (c) Deficiencies and Excess
+Proceeds. The Secured Party will Transfer to the Pledgor any
+proceeds and Posted Credit Support remaining after liquidation, Set-off and/or
+application under Paragraphs 8(a) and 8(b) after satisfaction in full
+of all amounts payable by the Pledgor with respect to any Obligations; the
+Pledgor in all events will remain liable for any amounts remaining unpaid after
+any liquidation, Set-off and/or application under Paragraphs 8(a) and
+8(b). 
+
+ (d) Final Returns. 
+ When no
+amounts are or thereafter may become payable by the Pledgor with respect to any
+Obligations (except for any potential liability under Section 2(d) of
+this Agreement), the Secured Party will Transfer to the Pledgor all Posted
+Credit Support and the Interest Amount, if any. 
+
+ Paragraph 9. 
+Representations 
+
+ Each
+party represents to the other party (which representations will be deemed to be
+repeated as of each date on which it, as the Pledgor, Transfers Eligible
+Collateral) that: 
+
+ (i) it has the power to grant a security interest in and lien on
+any Eligible Collateral it Transfers as the Pledgor and has taken all necessary
+actions to authorize the granting of that security interest and lien; 
+
+ 6 
+
+ (ii) it is the sole owner of or otherwise has the right to
+Transfer all Eligible Collateral it Transfers to the Secured Party hereunder,
+free and clear of any security interest, lien, encumbrance or other
+restrictions other than the security interest and lien granted under Paragraph
+2, 
+
+ (iii) upon the Transfer of any Eligible Collateral to the Secured
+Party under the terms of this Annex, the Secured Party will have a valid and
+perfected first priority security interest therein (assuming that any central
+clearing corporation or any third-party financial intermediary or other entity
+not within the control of the Pledgor involved in the Transfer of that Eligible
+Collateral gives the notices and takes the action required of it under
+applicable law for perfection of that interest); and 
+
+ (iv) the performance by it of its obligations under this Annex
+will not result in the creation of any security interest, lien or other
+encumbrance on any Posted Collateral other than the security interest and lien
+granted under Paragraph 2. 
+
+ Paragraph 10. 
+Expenses 
+
+ (a) General. 
+ Except as
+otherwise provided in Paragraphs 10(b) and 10(c), each party will pay its
+own costs and expenses in connection with performing its obligations under this
+Annex and neither party will be liable for any costs and expenses incurred by
+the other party in connection herewith. 
+
+ (b) Posted Credit Support. 
+ The
+Pledgor will promptly pay when due all taxes, assessments or charges of any
+nature that are imposed with respect to Posted Credit Support held by the
+Secured Party upon becoming aware of the same, regardless of whether any
+portion of that Posted Credit Support is subsequently disposed of under
+Paragraph 6(c), except for those taxes, assessments and charges that result
+from the exercise of the Secured Party’s rights under Paragraph 6(c). 
+
+ (c) Liquidation/Application of
+Posted Credit Support. All reasonable costs and expenses incurred by or on
+behalf of the Secured Party or the Pledgor in connection with the liquidation
+and/or application of any Posted Credit Support under Paragraph 8 will be
+payable, on demand and pursuant to the Expenses Section of this Agreement,
+by the Defaulting Party or, if there is no Defaulting Party, equally by the
+parties. 
+
+ Paragraph 11. 
+Miscellaneous 
+
+ (a) Default Interest. 
+ A Secured
+Party that fails to make, when due, any Transfer of Posted Collateral or the
+Interest Amount will be obligated to pay the Pledgor (to the extent permitted
+under applicable law) an amount equal to interest at the Default Rate
+multiplied by the Value of the items of property that were required to be
+Transferred, from (and including) the date that Posted Collateral or Interest
+Amount was required to be Transferred to (but excluding) the date of Transfer
+of that Posted Collateral or Interest Amount. 
+This interest will be calculated on the basis of daily compounding and
+the actual number of days elapsed. 
+
+ (b) Further Assurances. 
+ Promptly
+following a demand made by a party, the other party will execute, deliver, file
+and record any financing statement, specific assignment or other document and
+take any other action that may be necessary or desirable and reasonably requested
+by that party to create, preserve, perfect or validate any security interest or
+lien granted under Paragraph 2, to enable that party to exercise or enforce its
+rights under this Annex with respect to Posted Credit Support or an Interest
+Amount or to effect or document a release of a security interest on Posted
+Collateral or an Interest Amount. 
+
+ (c) Further Protection. 
+ The
+Pledgor will promptly give notice to the Secured Party of, and defend against,
+any suit, action, proceeding or lien that involves Posted Credit Support
+Transferred by the Pledgor or that could adversely affect the security interest
+and lien granted by it under Paragraph 2, unless that suit, action, proceeding
+or lien results from the exercise of the Secured Party’s rights under Paragraph
+6(c). 
+
+ 7 
+
+ (d) Good Faith and
+Commercially Reasonable Manner. Performance of all obligations under this
+Annex, including, but not limited to, all calculations, valuations and
+determinations made by either party, will be made in good faith and in a
+commercially reasonable manner. 
+
+ (e) Demands and Notices . 
+ All
+demands and notices made by a party under this Annex will be made as specified
+in the Notices Section of this Agreement, except as otherwise provided in
+Paragraph 13. 
+
+ (f) Specifications of Certain
+Matters. Anything referred to in this Annex as being specified
+in Paragraph 13 also may be specified in one or more Confirmations or other
+documents and this Annex will be construed accordingly. 
+
+ Paragraph 12. 
+Definitions 
+
+ As used in this Annex:— 
+
+ “Cash” means the lawful currency of the United States of
+America. 
+
+ “Credit Support Amount” has the meaning specified in Paragraph 3 
+
+ “Custodian” has the meaning specified in Paragraphs 6(b)(i) and
+13. 
+
+ “Delivery Amount” has the meaning specified in Paragraph 3(a). 
+
+ “Disputing Party” has the meaning specified in Paragraph 5. 
+
+ “Distributions” means with respect to Posted Collateral other than
+Cash, all principal, interest and other payments and distributions of cash or
+other property with respect thereto, regardless of whether the Secured Party
+has disposed of that Posted Collateral under Paragraph 6(c). Distributions will not include any item of
+property acquired by the Secured Party upon any disposition or liquidation of
+Posted Collateral or, with respect to any Posted Collateral in the form of
+Cash, any distributions on that collateral, unless otherwise specified herein. 
+
+ “Eligible Collateral” means, with respect to a party, the items, if any,
+specified as such for that party in Paragraph 13. 
+
+ “Eligible Credit Support” means Eligible Collateral and Other Eligible Support. 
+
+ “Exposure” means
+for any Valuation Date or other date for which Exposure is calculated and
+subject to Paragraph 5 in the case of a dispute, the amount, if any, that would
+be payable to a party that is the Secured Party by the other party (expressed
+as a positive number) or by a party that is the Secured Party to the other
+party (expressed as a negative number) pursuant to Section 6(e)(ii)(2)(A) of
+this Agreement as if all Transactions (or Swap Transactions) were being
+terminated as of the relevant Valuation Time; provided that
+Market Quotation will be determined by the Valuation Agent using its estimates
+at mid-market of the amounts that would be paid for Replacement Transactions
+(as that term is defined in the definition of “Market Quotation”). 
+
+ “Independent Amount” means, with respect to a party, the amount specified
+as such for that party in Paragraph 13; if no amount is specified, zero. 
+
+ “Interest Amount” means, with respect to an Interest Period, the
+aggregate sum of the amounts of interest calculated for each day in that
+Interest Period on the principal amount of Posted Collateral in the form of
+Cash held by the Secured Party on that day, determined by the Secured Party for
+each such day as follows: 
+
+ (x) the amount of that Cash on that day;
+multiplied by 
+
+ 8 
+
+ (y) the Interest Rate in effect for that day;
+divided by 
+
+ (z) 360. 
+
+ “Interest Period” means the period from (and including) the last Local
+Business Day on which an Interest Amount was Transferred (or, if no Interest
+Amount has yet been Transferred, the Local Business Day on which Posted
+Collateral in the form of Cash was Transferred to or received by the Secured
+Party) to (but excluding) the Local Business Day on which the current Interest
+Amount is to be Transferred. 
+
+ “Interest Rate” means the rate specified in Paragraph 13. 
+
+ “Local Business Day” , unless otherwise specified in Paragraph 13, has the
+meaning specified in the Definitions Section of this Agreement, except
+that references to a payment in clause (b) thereof will be deemed to
+include a Transfer under this Annex. 
+
+ “Minimum Transfer Amount” means, with respect to a party, the amount specified
+as such for that party in Paragraph 13; if no amount is specified, zero. 
+
+ “Notification Time” has the meaning specified in Paragraph 13. 
+
+ “Obligations” means,
+with respect to a party, all present and future obligations of that party under
+this Agreement and any additional obligations specified for that party in
+Paragraph 13. 
+
+ “Other Eligible Support” means, with respect to a party, the items, if any,
+specified as such for that party in Paragraph 13. 
+
+ “Other Posted Support” means all Other Eligible Support Transferred to the
+Secured Party that remains in effect for the benefit of that Secured Party. 
+
+ “Pledgor” means
+either party, when that party (i) receives a demand for or is required to
+Transfer Eligible Credit Support under Paragraph 3(a) or (ii) has Transferred
+Eligible Credit Support under Paragraph 3(a). 
+
+ “Posted Collateral” means all Eligible Collateral, other property,
+Distributions, and all proceeds thereof that have been Transferred to or
+received by the Secured Party under this Annex and not Transferred to the
+Pledgor pursuant to Paragraph 3(b), 4(d)(ii) or 6(d)(i) or released
+by the Secured Party under Paragraph 8. 
+Any Interest Amount or portion thereof not Transferred pursuant to
+Paragraph 6(d)(ii) will constitute Posted Collateral in the form of Cash. 
+
+ “Posted Credit Support” means Posted Collateral and Other Posted Support. 
+
+ “Recalculation Date” means the Valuation Date that gives rise to the
+dispute under Paragraph 5; provided, however, that
+if a subsequent Valuation Date occurs under Paragraph 3 prior to the resolution
+of the dispute, then the “Recalculation Date” means the most recent Valuation
+Date under Paragraph 3. 
+
+ “Resolution Time” has the meaning specified in Paragraph 13. 
+
+ “Return Amount” has the meaning specified in Paragraph 3(b). 
+
+ “Secured Party” means either party, when that party (i) makes a
+demand for or is entitled to receive Eligible Credit Support under Paragraph 3(a) or
+(ii) holds or is deemed to hold Posted Credit Support. 
+
+ “Specified Condition” means, with respect to a party, any event specified as
+such for that party in Paragraph 13. 
+
+ 9 
+
+ “Substitute Credit Support” has the meaning specified in Paragraph 4(d)(i). 
+
+ “Substitution Date” has the meaning specified in Paragraph 4(d)(ii). 
+
+ “Threshold” means,
+with respect to a party, the amount specified as such for that party in
+Paragraph 13; if no amount is specified, zero. 
+
+ “Transfer” means,
+with respect to any Eligible Credit Support, Posted Credit Support or Interest
+Amount, and in accordance with the instructions of the Secured Party, Pledgor
+or Custodian, as applicable: 
+
+ (i) in the case of Cash, payment or delivery
+by wire transfer into one or more bank accounts specified by the recipient; 
+
+ (ii) in the case of certificated securities
+that cannot be paid or delivered by book-entry, payment or delivery in
+appropriate physical form to the recipient or its account accompanied by any
+duly executed instruments of transfer, assignments in blank, transfer tax
+stamps and any other documents necessary to constitute a legally valid transfer
+to the recipient; 
+
+ (iii) in the case of securities that can be
+paid or delivered by book-entry, the giving of written instructions to the
+relevant depository institution or other entity specified by the recipient,
+together with a written copy thereof to the recipient, sufficient if complied
+with to result in a legally effective transfer of the relevant interest to the
+recipient; and 
+
+ (iv) in the case of Other Eligible Support or
+Other Posted Support, as specified in Paragraph 13. 
+
+ “Valuation Agent” has the meaning specified in Paragraph 13. 
+
+ “Valuation Date” means each date specified in or otherwise determined
+pursuant to Paragraph 13. 
+
+ “Valuation Percentage” means, for any item of Eligible Collateral, the percentage
+specified in Paragraph 13. 
+
+ “Valuation Time” has the meaning specified in Paragraph 13. 
+
+ “Value” means
+for any Valuation Date or other date for which Value is calculated and subject
+to Paragraph 5 in the case of a dispute, with respect to: 
+
+ (i) Eligible Collateral or Posted Collateral
+that is: 
+
+ (A) Cash,
+the amount thereof, and 
+
+ (B) a security, the bid price obtained by
+the Valuation Agent multiplied by the applicable Valuation Percentage, if any; 
+
+ (ii) Posted Collateral that consists of items
+that are not specified as Eligible Collateral, zero; and 
+
+ (iii) Other Eligible Support and Other Posted
+Support, as specified in Paragraph 13. 
+
+ 10 
+
+ Execution Version 
+
+ ISDA® 
+
+ CREDIT SUPPORT ANNEX 
+
+ (New York Law) 
+
+ to the Schedule to the 
+
+ ISDA Master Agreement 
+
+ Non-Guaranteed Put Contract 
+
+ dated as of June 30 , 2009 between 
+
+ DEXIA CRÉDIT LOCAL S.A., acting through its New York Branch, and DEXIA SA (jointly and severally) (hereinafter together
+referred to as “Party A” or “Pledgor” ) 
+
+ and 
+
+ FSA ASSET MANAGEMENT LLC, (hereinafter referred to as “Party B” 
+or “Secured Party” ). 
+
+ Paragraph
+13. Elections and Variables. 
+
+ (a) Security Interest for “Obligations”. 
+
+ (i) Paragraph
+2 is amended by adding, immediately after the words “lien on and right of
+Set-off against”, the words “the Dexia Collateral Account, and all the property
+from time to time credited thereto or carried therein, and the proceeds
+thereof, including without limitation”. 
+
+ (ii) The term “Obligations” as used in this Annex includes
+the following additional obligations: 
+
+ With
+respect to Party A: not applicable. 
+
+ With
+respect to Party B: not applicable. 
+
+ (b) Credit Support Obligations. 
+
+ (i) Eligible
+Collateral . 
+
+ On any date, the categories
+of assets denominated in U.S. Dollars or Euros and designated as “CSA Eligible”
+on Schedule A to the credit support annex of the Dexia Guaranteed Put Contract
+qualify as “ Eligible Collateral ” and the Valuation Percentage for each such
+category shall be the percentage corresponding to the current rating for such
+category on the relevant Valuation Date. 
+For the avoidance of doubt, any asset that is not Eligible Collateral
+shall have a Value of zero for all purposes under this Credit Support
+Annex. Cash in U.S. Dollars shall also
+constitute Eligible Collateral. 
+
+ (ii) Other
+Eligible Support. 
+
+ The following items will
+qualify as “Other Eligible Support” for
+the party specified: 
+
+ Not applicable. 
+
+ (iii) Threshold. 
+
+ (A) “Independent
+Amount” 
+
+ 1 
+
+ With respect to Party A: (i) prior to the Swap Amendment Cut-Off
+Date (as defined in the Hedging Letter Agreement referred to in the Pledge and
+Administration Agreement), not applicable and (ii) on or after the Swap
+Amendment Cut-Off Date, any amount that is applicable under the Hedging Letter
+Agreement (and otherwise zero). 
+
+ With respect to Party B: not applicable. 
+
+ (B) “Threshold” means, with respect to Party A, USD
+5,000,000, unless the Subordinated Claims Payment Condition is not met, in
+which case it will be zero. 
+
+ “Threshold” , with respect to Party B and any
+Valuation Date is not applicable. 
+
+ (C) “Minimum
+Transfer Amount” means, with respect to Party A and Party B,
+USD 5,000,000 , unless
+the Subordinated Claims Payment Condition is not met, in which case it will be
+zero with respect to Party A, and infinity with respect to Party B. 
+
+ (D) Rounding : The Delivery Amount will be
+rounded up to the nearest integral multiple of USD 10,000. The Return Amount will
+be rounded down to the nearest integral multiple of USD 10,000. 
+
+ (c) Valuation and Timing . 
+
+ (i) “Valuation
+Agent” means the Reporting Agent (as defined in the Pledge
+and Administration Agreement). 
+
+ (ii) “Valuation
+Date” means (A) each day which is the last Business
+Day in a calendar week, (each, a “ Scheduled
+Valuation Date ”) and (B) any additional Business Day requested
+to be a Valuation Date by FSA or Party A from time to time which is not a
+Scheduled Valuation Date and is notified to Party A or Party B and FSA, as
+applicable and the Valuation Agent at least one Business Day in advance of the
+proposed additional Valuation Date (each an “ Additional
+Valuation Date ”), provided that the number of Additional Valuation
+Dates requested by FSA shall not exceed 10 in any calendar year (and the number
+of Additional Valuation Dates requested by Party A is not limited). 
+
+ (iii) “Valuation
+Time” means the close of business in the city of the
+Valuation Agent on the Local Business Day immediately preceding the Valuation
+Date or date of calculation, as applicable; provided that
+the calculations of Value and Exposure will be made as of approximately the
+same time on the same date. 
+
+ (iv) “ Notification Time ”
+means 11:00a.m., New York City time, on a Local Business Day. 
+
+ (v) Deemed
+Demand. Paragraph 3(a) is amended
+by adding, immediately following the words “upon a demand made by the Secured
+Party” in Paragraph 3(a), the words “(which demand shall be deemed as having
+been validly made automatically upon receipt of notice from the Valuation Agent
+of a Delivery Amount resulting from the Valuation Agent’s calculations on any
+Valuation Date)”. 
+
+ (vi) “ Value ” means FSAM
+Asset Value. 
+
+ 2 
+
+ (vii) No DCL
+Collateral Period and No Dexia Collateral Period . 
+
+ (A) With respect to any date which falls
+during a period which is (A) not on or after a Sovereign Guarantee
+Unenforceability Date (as defined in the Dexia Guaranteed Put Contract) and (B)(I) on
+and after the First Collateral Posting Date and prior to the Liquidity and
+Collateral Trigger Expiration Date or (II) during a period that a DCL
+Bankruptcy has occurred and is continuing (a “ No
+DCL Collateral Period ”), (i) any Eligible Collateral
+Transferred by DCL, whether at any time before or during such No DCL Collateral
+Period, will be deemed to have a Value of zero during such No DCL Collateral
+Period (any such Eligible Collateral on any date during the No DCL Collateral
+Period the “ Affected DCL Collateral ”)
+and (ii) only postings made by Dexia (whether made at any time before or
+during such No DCL Collateral Period, and including by substitution in
+accordance with the Credit Support Annex of Eligible Collateral posted by Dexia
+for Eligible Collateral posted by DCL) will be considered in calculating any
+applicable Delivery Amount and whether the obligation to Transfer Eligible
+Collateral with a Value equal to such Delivery Amount has been met during such
+No DCL Collateral Period; provided, that such Affected DCL Collateral shall be
+Transferred to DCL against the simultaneous delivery of replacement Eligible
+Collateral by Dexia. 
+
+ (B) With respect to any date which falls
+during a period which is (A) on or after a Sovereign Guarantee
+Unenforceability Date and (B) not during a period that a DCL Bankruptcy
+has occurred and is continuing (a “ No Dexia
+Collateral Period ”), (i) any Eligible Collateral Transferred by
+Dexia, whether at any time before or during such No Dexia Collateral Period,
+will be deemed to have a Value of zero during such No Dexia Collateral Period
+(any such Eligible Collateral on any date during the No Dexia Collateral Period
+the “ Affected Dexia Collateral ”)
+and (ii) only postings made by DCL (whether made at any time before or
+during such No Dexia Collateral Period, and including by substitution in
+accordance with the Credit Support Annex of Eligible Collateral posted by DCL
+for Eligible Collateral posted by Dexia) will be considered in calculating any
+applicable Delivery Amount and whether the obligation to Transfer Eligible
+Collateral with a Value equal to such Delivery Amount has been met during such
+No Dexia Collateral Period; provided, that such Affected Dexia Collateral shall
+be Transferred to Dexia against the simultaneous delivery of replacement
+Eligible Collateral by DCL. 
+
+ (C) In
+relation to any Put Settlement Date arising from a Collateral Default Trigger
+occurring during a No DCL Collateral Period or No Dexia Collateral Period,
+Party B shall Transfer to Party A the relevant Affected DCL Collateral or
+Affected Dexia Collateral as of the date of occurrence of the relevant
+Collateral Default Trigger as part of the Put Settlement Assets delivered to
+Party A on such Put Settlement Date (unless Party A has already effected a
+substitution for such Affected DCL Collateral or Affected Dexia Collateral as
+described in Paragraph 13(c)(vii)).
+
+ (viii) In the event that a Put Settlement Date
+occurs (i) on or after a DCL Belgian Corporate Reorganization has occurred
+and (ii) prior to the date on which (1) the Collateral Replacement
+Date has occurred and (2) Eligible Collateral having a Value equal to the
+Delivery Amount determined on the Collateral Replacement Date shall have been
+Transferred under the Credit Support Annex, and except in the case of a Put
+Settlement 
+
+ 3 
+
+ under which the Put Settlement Amount is paid to Party
+B by the Sovereign Guarantors, (A) Party A will be required to pay the Put
+Settlement Amount on the Put Settlement Date, (B) Party B will not be
+required to Deliver the related Put Settlement Assets until the date following
+the Put Settlement Date on which the Belgian Preference Period has expired and (C) pending
+such Delivery on the date referred to in (B), Party A will be deemed to have
+pledged the relevant Put Settlement Assets to Party B and Party B shall hold
+such Put Settlement Assets as additional Posted Collateral hereunder (“ Repledged Assets ”). 
+
+ (d) Substitution. 
+
+ (i) “ Substitution
+Date ” has the meaning specified in Paragraph 4(d)(ii). 
+
+ (ii) Consent. If specified here as applicable, then the
+Pledgor must obtain the Secured Party’s consent for any substitution pursuant
+to Paragraph 4(d): Inapplicable. 
+
+ (e) Dispute Resolution . 
+
+ (i) “Resolution
+Time” means 1:00 p.m. New
+York time on the Local Business Day following the date on which the notice of
+the dispute is given under Paragraph 5. 
+
+ (ii) Value. The provisions of Paragraph 5
+will apply, provided, however, that any dispute as to the Indicative Market
+Value of any FSAM Asset shall be resolved as set forth in the definition of “FSAM
+Asset Value” and, to such extent, the provisions of Paragraph 5 shall not
+apply. 
+
+ (f) Holding and Using Posted Collateral . 
+
+ (i) Eligibility to Hold Posted
+Collateral; Custodians. Party B
+(through the Custodian) will be entitled to hold Posted Collateral pursuant to
+Paragraph 6(b). 
+
+ The Custodian for
+Party B is: Wells Fargo Bank, National Association. 
+
+ Party A and Party B agree that (x) Posted Collateral that is
+denominated in USD, or that is Cash that is USD, will be credited to the Dexia
+Collateral Account and held in the United States of America, and (y) all
+other Posted Collateral will either be deposited in the Dexia Collateral
+Account or granted to the Custodian directly acting as representative for the
+benefit of Party B and held by the Custodian in a special designated pledged
+account opened in its name in the Euroclear System with Euroclear Bank NV/SA in
+accordance with Euroclear’s Multi Pledgor Pledged Account Terms and Conditions
+(the “MPAA Account”). The Custodian may
+use agents and affiliates for purposes of opening, managing and operating the
+MPAA Account. 
+
+ Notwithstanding the foregoing, if both a DCL Belgian
+Corporate Reorganization and a Sovereign Guarantee Unenforceability Date have
+occurred, all Transfers of Eligible Collateral will be made through, and all
+Posted Collateral will be held in, the MPAA Account or another account (or
+subaccount or subcustody arrangement) maintained in the Euroclear System. 
+
+ 4 
+
+ (ii) Use of Posted
+Collateral. The provisions of Paragraph
+6(c)(i) will not apply to Party B, and the provisions of
+Paragraph 6(c)(ii) will
+apply to Party B; provided, however, that 
+
+ (A) on any date on which the Collateral Agent
+or FSA has delivered a Payment Failure Notice (as defined in the Pledge and
+Administration Agreement) and the payment failure identified in such Payment
+Failure Notice has not been cured on the third Business Day following the
+Collateral Agent or FSA’s delivery of such Payment Failure Notice, Paragraph 6(c)(i) will apply to Party B
+such that the Collateral Agent and/or FSA shall have the rights, subject to the
+terms and limitations of the Pledge and Administration Agreement, to (x) enter
+into a Temporary Funding Transaction (as defined in the Pledge and Administration
+Agreement) in relation to any Posted Collateral held by the Collateral Agent
+hereunder or (y) solely in the circumstances described in Section 11.2(b)(i)(C) of
+the Pledge and Administration Agreement, to effect a Liquidation of Posted
+Collateral by sale for its obtainable market value, and in each case apply the
+proceeds of such transaction in (x) or (y) to satisfy one or more
+scheduled or expected Senior Priority Payments identified in accordance with
+the provisions Section 11.2(b) of the Pledge and Administration
+Agreement at or prior to the time when such Payment Failure Notice was sent (“ Required Senior Priority Payments ”), and
+any such application of the proceeds of such transaction in (x) or (y) shall
+also be deemed to satisfy (to the extent of such proceeds) any Liquidity Draw
+Request which is outstanding and has not been funded on the date such proceeds
+are applied; 
+
+ (B) on any date on or after the Collateral
+Replacement Date on which the Administrator, the Collateral Agent or FSA has
+delivered a GIC Termination Liquidity Draw and the relevant Bank under (and as
+defined in) the Liquidity Facility or Buyer under (and as defined in) the
+Repurchase Facility Agreement, as applicable, has not performed its payment
+obligations within the time required under the Liquidity Facility or Repurchase
+Facility Agreement, as applicable, Paragraph
+6(c)(i) will apply to Party B such that the Collateral Agent and/or
+FSA shall have the rights to enter into a Temporary Funding Transaction in
+relation to any Posted Collateral held by the Collateral Agent hereunder, and
+apply the proceeds of such transaction to satisfy the relevant GIC Termination
+Liquidity Draw; and 
+
+ (C) Party B or, if a Dexia Event of Default
+has occurred, the Collateral Agent or FSA directly as third party beneficiary,
+may instruct the transfer of any Posted Collateral which is eligible to be
+posted as collateral to secure either (x) a FSA GIC Contract or (y) a
+Third Party Hedge Agreement which is not a Subordinated Hedge Agreement to the
+collateral account for such FSA GIC Contract or Third Party Hedge Agreement, as
+applicable, and Paragraph 6(c)(i) will
+apply to Party B to the extent necessary to permit such actions in (x) or
+(y). 
+
+ Any use of Posted
+Collateral (or the cash proceeds thereof) provided for under (A) through (C) shall
+not be considered a Set-off under Paragraph 8(a)(iii) or otherwise affect
+the inclusion of the Value of such Posted Collateral as Posted Credit Support
+held by the Secured Party for purposes of Paragraph 3 or the determination of
+any Delivery Amount or Return Amount thereunder, provided that (x) the
+Value of any Posted Collateral Liquidated under (ii)(A)(y) above, or
+Liquidated in connection with the termination of a Temporary Funding
+Transaction, shall be fixed at the FSAM Asset Value thereof as most recently
+determined hereunder at the time of such Liquidation (in connection with the
+Collateral Sale Deficiency Amount and Collateral Sale Excess Amount adjustments 
+
+ 5 
+
+ referred to below) and (y) to
+the extent that the Liquidation Proceeds of any sale or cash obtained in a
+Temporary Financing Transaction have been applied to satisfy a Qualifying
+Liquidity Payment (a “ Liquidity Draw Offset ”),
+the portion of the FSAM Asset Value of the relevant Eligible Collateral
+obtained by multiplying (i) such FSAM Asset Value times (ii) the
+relevant Liquidity Offset Fraction, shall be no longer be included in
+determining the Value of Posted Credit Support held by the Secured Party for
+purposes of Paragraph 3 or the determination of any Delivery Amount or Return
+Amount hereunder. 
+
+ (g) Distributions and
+Interest Amount. 
+
+ (i) Distributions. The
+provisions of Paragraph 6(d)(i) will not apply. The Custodian shall credit all Distributions
+received to the Dexia Collateral Account or the MPAA Account, as
+applicable. “ Dexia Collateral Account ”
+has the meaning set forth in the Pledge and Administration Agreement. 
+
+ (ii) Interest Amount. The provisions of Paragraph 6(d)(ii) will
+apply, provided that (I) Posted Collateral in the form of Cash may be
+invested only in cash equivalent investments eligible under the ALM Procedures
+and agreed between the Custodian and the Administrator from time to time and (II) the
+amount of interest on Posted Collateral in the form of Cash on any date will be
+calculated by the Custodian based on the relevant investments in (I). 
+
+ (h) Additional Representation(s). There are no additional representations by
+either party. 
+
+ (i) Other Eligible Support
+and Other Posted Support. 
+
+ (i) “Value” with respect
+to Other Eligible Support and Other Posted Support means: not applicable. 
+
+ (ii) “Transfer” with respect to Other Eligible Support and Other
+Posted Support means: not applicable. 
+
+ (j) Demands and Notices. All demands, specifications and
+notices under this Annex will be made pursuant to the Notices Section of
+this Agreement, except that any demand, specification or notice shall be given
+to or made at the following addresses, or at such other address as the relevant
+party may from time to time designate by giving notice (in accordance with the
+terms of this paragraph) to the other party: 
+
+ If
+to Party A, at the address specified pursuant to the Notices Section of
+this Agreement. 
+
+ If
+to Party B, at the address specified pursuant to the Notices Section of
+this Agreement. 
+
+ If to Party B’s
+Custodian: Same address as if to Party B
+pursuant to the Notices Section of this Agreement. 
+
+ (k) Address for Transfers. Each Transfer hereunder
+shall be made to the address specified in writing from time to time by the
+party to which such Transfer will be made. 
+
+ Party A account details — To be provided. 
+
+ 6 
+
+ Party B account details — To be provided. 
+
+ (l) Additional Transfers. On
+any date, whether or not a Valuation Date, Party A may at its option Transfer additional Eligible Collateral to the Dexia Collateral Account for the purpose of making the resulting Posted Collateral available for
+use by Party B in the manner contemplated by (f)(ii)(B) above. 
+
+ (m) Other Provisions. 
+
+ (i) Collateral
+Account. Party A and Party B acknowledge and agree that
+the Custodian shall hold, record and identify all Posted Collateral in the Dexia
+Collateral Account or the MPAA Account. 
+
+ (ii) Agreement
+as to Single Secured Party and Single Pledgor . Party A and Party B hereby agree that, notwithstanding
+anything to the contrary in this Annex, (a) the term “Secured Party” as
+used in this Annex means only Party B, (b) the term “Pledgor” as used in
+this Annex means only Party A, (c) only Party A makes the pledge and grant
+in Paragraph 2, the acknowledgement in the final sentence of Paragraph 8(a) and
+the representations in Paragraph 9. 
+
+ (iii) Events
+of Default. 
+
+ Paragraph 7 shall not apply. A ny failure by Party A to
+comply with or perform any obligation to be complied with or performed by Party
+A under this Credit Support Annex shall only be an Event of Default if Section 5(a)(i) of
+the Agreement (as amended by the Schedule) is or becomes applicable thereto. 
+
+ (iv) Additional
+Definitions . As used in this Annex: 
+
+ “ALM Noncompliance Amount” means on any date of determination on which a
+Dexia Event of Default has not occurred, the sum of (i) the aggregate of
+the ALM Noncompliance Derivative Amounts plus (ii) the ALM Noncompliance
+Operational Amount. 
+
+ “ ALM
+Noncompliance Derivative Amount ” means on any date of determination on which a
+Dexia Event of Default has not occurred, and in relation to any interest rate,
+currency or other derivative transaction (whether such transaction would be
+classified as an Asset Swap or a Liability Swap) which (1) either (A) Party
+A has agreed, following an objection by FSA, was required to have been effected
+in order to comply with the ALM Procedures or (B) the ALM Arbiter has
+concluded was required to have been effected in order to comply with the ALM
+Procedures, as applicable, and (2) has not yet been effected by Party B,
+an amount equal to the FSAM Liability Swap Benefit or FSAM Asset Swap Benefit,
+as applicable, that would result from such transaction having been effected on
+the date the ALM Arbiter determines (or that Party A agrees with FSA) that it
+should have been effected and currently being in effect on such date of
+determination. In determining such FSAM
+Liability Swap Benefit or FSAM Asset Swap Benefit the Valuation Agent may rely
+on the determination of FSAM’s swap counterparty under any Third Party Hedge
+Agreement or on the determination of the ALM Arbiter. 
+
+ 7 
+
+ “ ALM
+Noncompliance Operational Amount ” means on any date of determination on which (A) either
+(i) the ALM Arbiter has concluded (or Party A has agreed, following an
+objection by FSA) that Party B has failed to comply with a requirement of the
+ALM Procedures or (ii) the ALM Arbiter has concluded (or Party A has agreed,
+following an objection by FSA) that Party B has adopted an amendment or
+modification to the ALM Procedures (other than a Dexia Policy Amendment) such
+that the amended ALM Procedures do not constitute a reasonable and prudent
+asset and liability management policy in accordance with prevailing market
+standards for portfolio management activities of the same type, (B) FSA
+has not consented to the relevant noncompliance, amendment or modification and (C)
+Party B has failed to remedy the relevant noncompliance or rescind the relevant
+amendment or modification to the ALM Procedures, an amount equal to 25% times
+the Spread Component of the GIC Business Costs Amount as most recently
+determined on such date. 
+
+ “ Collateral Replacement Date ” means
+the earlier to occur of (i) the First Collateral Posting Date, and (ii) any
+Sovereign Guarantee Unenforceability Date. 
+
+ “ Collateral Sale
+Excess Amount ”
+means in relation to each item of Eligible Collateral Liquidated by Party B or
+the Collateral Agent in the circumstances set forth in Paragraph
+13(f)(ii)(A)(y), (A) one minus the Liquidity Offset Fraction times (B) the
+excess, if any, of (i) the relevant Liquidation Proceeds over (ii) the
+FSAM Asset Value of such item of Eligible Collateral as most recently
+determined hereunder at the time of such Liquidation. 
+
+ “ Collateral Sale
+Deficiency Amount ” means in relation to each item of Eligible Collateral sold by Party B
+or the Collateral Agent in the circumstances set forth in Paragraph
+13(f)(ii)(A)(y), (A) one minus the Liquidity Offset Fraction times (B) the
+excess, if any, of (i) the FSAM Asset Value of such item of Eligible
+Collateral as most recently determined hereunder at the time of such
+Liquidation over (ii) the applicable Liquidation Proceeds. 
+
+ “ Collateral Value ”
+means, with respect to each Hedge Agreement, the Value of the Posted Collateral
+held by the Collateral Agent on behalf of FSAM (and, for the avoidance of
+doubt, not merely held by DCL as Credit Support Provider of FSAM under the
+relevant Hedge Agreement) in relation to each Hedge Agreement, as determined by
+the Valuation Agent. For purpose of the
+foregoing, with respect to any Hedge Agreement, “Value” and “Posted Collateral”
+shall have the meanings set forth in Hedge Agreement, and the Valuation Agent
+may rely on the determination of such Value by the Valuation Agent (as defined
+in the relevant Hedge Agreement) in accordance with the terms of the relevant
+Hedge Agreement. 
+
+ “ Dexia Policy Amendment ”
+means an amendment or modification to the ALM Procedures that is necessary, as
+reasonably evidenced to FSA by Party A, to conform such ALM Procedures to
+generally applicable risk management policies within the Dexia group. 
+
+ “Exposure” means on any Valuation Date, an amount equal to the
+sum, which shall not be less than zero, of: 
+
+ 8 
+
+ (1) the sum of 
+
+ (A) the aggregate GIC Redemption Balance of
+the FSA GIC Contracts as of such date, plus 
+
+ (B) the GIC Business Costs Amount most
+recently calculated on or prior to such date, plus 
+
+ (C) the aggregate sum of the FSAM Exposure to
+each of its Hedge Counterparties as of such date; plus 
+
+ (D) the aggregate of all the FSAM Asset Swap
+Costs and all the FSAM Liability Swap Costs, in each case in relation to Third
+Party Hedge Agreements other than Third Party Hedge Agreements which are
+Qualifying Hedge Agreements on such date; plus 
+
+ (E) to the extent that (x) the “Credit
+Support Amount” applicable to FSAM in relation to any Third Party Hedge
+Agreement that is not a Qualifying Hedge Agreement as of such date, plus or minus any “unpaid
+amounts” that are outstanding between the parties exceeds (y) the amount
+determined in relation to such Third Party Hedge Agreement under (D), the
+aggregate of such excess of (x) over (y) in relation to all such
+Third Party Hedge Agreements; plus 
+
+ (F) the ALM Noncompliance Amount (if any); plus 
+
+ (G) the Lien Creditor Amount (if any); plus 
+
+ (H) the Principal Forgiveness Amount (if
+any); plus 
+
+ (I) the aggregate of the Collateral Sale
+Deficiency Amounts determined on or prior to such date, if any; 
+
+ minus 
+
+ (2) the sum of 
+
+ (A) (I) prior to the Collateral
+Replacement Date, the aggregate Outstanding Principal Amount of the Put
+Portfolio Assets and (II) on and after the Collateral Replacement Date,
+the aggregate FSAM Asset Value of the Put Portfolio Assets, plus 
+
+ (B) the aggregate FSAM Asset Value of the Excluded Assets and Other Assets
+(including without duplication (I) cash proceeds of any Defaulted
+Collateral Amount that has been paid by the Sovereign Guarantors as a Put
+Settlement Amount under the Sovereign Guarantee and not invested in Permitted
+Investments constituting Other Assets or applied under the Priority of
+Payments, 
+
+ 9 
+
+ (II) Repledged
+Assets, (III) any other cash held in respect of the Required Reserve and (IV) all
+other amounts standing to the credit of the FSAM Cash Account or other accounts
+maintained by the Collateral Agent under the Pledge and Administration
+Agreement), plus 
+
+ (C) the aggregate of the Collateral Values
+related to Hedge Agreements, plus 
+
+ (D) the aggregate of all the FSAM Asset Swap
+Benefits in relation to Hedge Agreements; plus 
+
+ (E) the aggregate of the Collateral Sale
+Excess Amounts determined on or prior to such date, if any. 
+
+ “ Eligible Dealers ”
+means JP Morgan Securities Inc., Goldman Sachs & Co., Deutsche Bank
+Securities, Inc., Morgan Stanley & Co., Bank of America
+Securities LLC, Citigroup Global Markets Inc. and Credit Suisse Securities
+(USA) LLC, and such other dealers as may be reasonably agreed among Party A,
+the Administrator and FSA from time to time. 
+
+ “ FSAM Asset Swap Benefit ”
+means in relation to each derivative transaction that is identified as an Asset
+Swap in the Hedge Agreement Register, the mark to market value of such
+derivative transaction (if any) in favor of FSAM as determined by the Valuation
+Agent hereunder in accordance with the definition of Exposure applicable under
+the relevant Hedge Agreement (but disregarding any transactions other than such
+Asset Swap that would otherwise be included in the determination of Exposure
+thereunder as defined therein), where the Valuation Agent hereunder may rely
+for this purposes on the determination of Exposure (or the components thereof)
+by the relevant Third Party Valuation Agent. 
+
+ “ FSAM Asset Swap Cost ”
+means in relation to each derivative transaction that is identified as an Asset
+Swap in the Hedge Agreement Register, the mark to market value of such
+derivative transaction (if any) in favor of FSAM’s Hedge Counterparty as
+determined by the Valuation Agent hereunder in accordance with the definition
+of Exposure applicable under the relevant Hedge Agreement (but disregarding any
+transactions other than such Asset Swap that would otherwise be included in the
+determination of Exposure thereunder as defined therein), plus or minus any “unpaid
+amounts” that are outstanding between the parties, where the Valuation Agent
+hereunder may rely for this purposes on the determination of Exposure (or the
+components thereof) by the relevant Third Party Valuation Agent. 
+
+ “ FSAM Assets Valuation Percentage ”
+means in relation to each category of FSAM Asset, the valuation percentage
+corresponding to the current rating of such FSAM Asset as set forth under the
+heading “Collateral Rating” on Schedule A to the credit support annex
+of the Dexia Guaranteed Put Contract. 
+
+ “ FSAM Asset Value ”
+means in relation to each FSAM Asset or item of Eligible Collateral, on any
+date of determination, the product of (i) (A) in the case of an FSAM
+Asset, the Outstanding Principal Amount thereof times the indicative market
+price (as a 
+
+ 10 
+
+ percentage of par) of such FSAM Asset
+determined by the Valuation Agent in accordance with the procedures attached as
+Schedule C to the credit support annex of the Dexia Guaranteed Put Contract,
+and (B) in the case of an item of Eligible Collateral, the unpaid
+principal balance thereof times the indicative market price (as a percentage of
+par) of such item of Eligible Collateral, determined in accordance with
+generally applicable procedures used by the Custodian for valuing similar types
+of assets (each of (A) and (B), the “ Indicative
+Market Value ”) and (ii) the FSAM Assets Valuation Percentage
+corresponding to the relevant category of FSAM Asset (or item of Eligible
+Collateral, as applicable). The
+FSAM Asset Value with respect to FSAM Assets that are not Put Portfolio Assets,
+Excluded Assets, Permitted Investments or cash will be zero. 
+
+ Either
+the Pledgor or FSA (a “ Disputing Party ”)
+may dispute the determination of any FSAM Asset Value on the basis of the Indicative
+Market Value by the Valuation Agent; provided that in relation to any single
+Valuation Date neither the Pledgor nor the Secured Party may dispute the
+Valuation Agent’s determination of the FSAM Asset Value in relation to more
+than 10% of the FSAM Assets (by principal amount, with such 10% permitted
+amount to be determined separately for the Pledgor or Secured Party, as
+applicable). If a Disputing Party
+disputes the Valuation Agent’s calculation of an FSAM Asset Value in accordance
+with the foregoing restriction, then (1) the Disputing Party will notify
+the other party, FSA and the Valuation Agent not later than the close of
+business on the Local Business Day that the date that a demand is made or
+deemed to have been made under Paragraph 3 (if such demand was made or
+deemed to have been made at or prior to the Notification Time), or by 12:00
+noon (New York City time) on the next Local Business Day (if such demand was
+made or deemed to have been made at after the Notification Time), (2) subject
+to Paragraph 4(a), the appropriate party will Transfer the full amount demanded
+or deemed to have been demanded to the other party in accordance with the
+timing set forth in Paragraph 4(b), (3) the parties will consult with each
+other in an attempt to resolve the dispute and (4) if they fail to resolve
+the dispute by the Resolution Time, then in relation to each FSAM Asset for
+which one of the parties has initiated a dispute within the required time, the
+Valuation Agent shall request bids from at least three Eligible Dealers, one of
+which shall be identified by the Pledgor, one of which shall be identified by
+FSA and the remainder of which shall be selected by the Valuation Agent. For any bid to be eligible for use in calculating
+the FSAM Asset Value (each an “ Eligible Bid ”),
+it (i) must be received from the Eligible Dealer at or before 1:00 p.m.
+on the business day following the Resolution Time, and (ii) must be a firm
+bid at which the Eligible Dealer is ready and willing to purchase assets
+determined by the Valuation Agent to be comparable, in an amount determined by
+the Valuation Agent to be representative, at such price (provided, that in
+obtaining such bid, the Valuation Agent shall not be required to commit to
+actually deliver and sell the asset to any bidder). On the basis of the Eligible Bids received
+the Valuation Agent shall determine the FSAM Asset Value as follows: 
+
+ (i) In the event
+that the Valuation Agent receives any Eligible Bid that is equal to or greater
+than the Indicative Market Value for any FSAM Asset, the Indicative Market
+Value determination for such FSAM Asset shall prevail without consideration of
+any other Eligible Bid; or 
+
+ 11 
+
+ (ii) If the
+Valuation Agent does not receive any Eligible Bid that is equal to or greater
+than the Indicative Market Value for any FSAM Asset, then: 
+
+ (a) if the
+Valuation Agent receives three or more Eligible Bids, the Valuation Agent shall
+calculate the arithmetic mean of the three lowest Eligible Bids received (the “ Bid Average ”), and if such Bid Average is
+more than 105% or less than 95% of the Indicative Market Value, the Valuation
+Agent shall adjust the determination of the FSAM Asset Value so as to be within
+the range that is not more than 105% or less than 95% of the Indicative Market
+Value (but by no more than the amount necessary to be within such range), which
+adjusted FSAM Asset Value shall be binding; or 
+
+ (b) if the
+Valuation Agent receives only two Eligible Bids, the Valuation Agent shall use
+the Indicative Market Value as one of the three bids used to calculate the Bid
+Average, and the Valuation Agent shall determine FSAM Asset Value in accordance
+with sub-clause (a) above; or 
+
+ (c) in the event
+that fewer than two Eligible Bids are received, the Indicative Market Value
+determination shall prevail without consideration of any Eligible Bid. 
+
+ “ FSAM Exposure ” means
+in relation to each Hedge Agreement the aggregate Exposure (if any) of FSAM to
+the relevant Hedge Counterparty determined by the Valuation Agent in accordance
+with the definition of Exposure applicable under the relevant Hedge Agreement
+(where the Valuation Agent may rely for this purposes on the determination of
+Exposure by the valuation agent or calculation agent under such Hedge
+Agreement). For the avoidance of doubt,
+the determination of FSAM Exposure shall not be reduced by any Threshold
+applicable to collateral postings under the relevant Hedge Agreement. 
+
+ “ FSAM Liability Swap Benefit ”
+means in relation to each derivative transaction that would be identified as a
+Liability Swap in the Hedge Agreement Register, the mark to market value of
+such derivative transaction (if any) in favor of FSAM that would be determined
+by the Valuation Agent in accordance with the definition of Exposure applicable
+under any Hedge Agreement selected by the Administrator (but disregarding any
+transactions other than such transaction that would otherwise be included in
+such determination of Exposure); or if such derivative transaction would not be
+documented under an ISDA Master Agreement, the current market value of such
+transaction in the relevant futures market or similar market as reasonably
+estimated by the Administrator. 
+
+ “ FSAM Liability Swap Cost ”
+means in relation to each derivative transaction that is identified as a
+Liability Swap in the Hedge Agreement Register, the mark to market value of
+such derivative transaction (if any) in favor of FSAM’s Hedge Counterparty as
+determined by the Valuation Agent hereunder in accordance with the definition
+of Exposure applicable under the relevant Hedge Agreement (but disregarding any
+transactions other than such Liability Swap that would otherwise be included in
+such determination of Exposure), plus or minus any “unpaid amounts” that are
+outstanding between the parties, where the Valuation Agent hereunder may rely
+for this purposes on 
+
+ 12 
+
+ the
+determination of Exposure (or the components thereof) by the relevant Third
+Party Valuation Agent. 
+
+ “ GIC Business Costs Amount ”
+means on any date of determination the amount applicable under the terms set
+forth in Schedule B to the credit support annex of the Dexia Guaranteed Put
+Contract in relation to such date, as most recently determined by the
+Calculation Agent. 
+
+ “ GIC Redemption Balance ”
+means the outstanding principal balance of a GIC or, if a GIC accretes a
+redemption value based on a fixed series of payments, such accreted redemption
+value, provided, however that any component of such redemption value that is
+attributable to a makewhole or prepayment premium payable upon redemption of
+the relevant GIC in respect of changes in interest rates shall be excluded in
+determining such redemption value. 
+
+ “ GIC
+Termination Liquidity Draw ” means a Liquidity Draw Request for
+the purpose of paying, or reserving funds for payment of, the maximum amount potentially payable
+under one or more GICs due to mandatory terminations, or terminations at the
+option of the GIC Holder under the GIC Contracts, as a result of a GIC Credit
+Event (as defined in the Liquidity Facility or Repurchase Agreeement Facility,
+as applicable) which has made one or more GIC Termination Downgrade
+Provisions become applicable under the relevant GIC Contracts. 
+
+ “ GIC
+Termination Downgrade Provision ” means a provision that requires
+(i) the termination and repayment of a GIC Contract either automatically,
+or assuming notice from the relevant GIC Holder electing such termination and
+repayment (notwithstanding any posting of collateral) and (ii) becomes
+applicable upon a specified downgrade of the rating of FSA’s financial
+strength. 
+
+ “ Lien ” means, with respect to any
+asset, any mortgage, deed of trust, lien, pledge, hypothecation, encumbrance,
+charge or security interest in, on or of such asset. 
+
+ “ Lien Creditor Amount ” means, as of
+any date, an amount equal to the sum of (x) the amount of any judgment,
+tax claim or claim under the Employee Retirement Income Security Act of 1974 or
+equivalent laws under non-U.S. jurisdictions (including any interest and/or
+penalties on any such amounts) which is secured by a Lien on any Posted
+Collateral or FSAM Assets, plus (y) an amount equal to the aggregate
+amount of obligations (including any interest on such obligations accrued up to
+and including such date) which are secured by a Lien on any Posted Collateral
+or by FSAM Assets (other than the Lien of the Collateral Agent or any Secured
+Party under the Pledge and Administration Agreement as contemplated by the
+terms of such Agreement) which has not been discharged and with respect to
+which Party A has received 30 days’ prior notice from Party B of the existence
+of such Lien. 
+
+ “ Liquidation ” means
+either (i) the sale for cash of Eligible Collateral or (ii) the
+termination of a Temporary Funding Transaction in relation to Eligible
+Collateral on terms whereby the repurchase agreement buyer retains such
+Eligible Collateral and the repurchase agreement seller retains the Liquidation
+Proceeds. 
+
+ 13 
+
+ “ Liquidation Proceeds ”
+means the cash sale proceeds from a sale of Eligible Collateral or the cash proceeds of the financing
+obtained in connection with such Temporary Funding Transaction. 
+
+ “ Liquidity Draw Request ”
+has the meaning specified in the Pledge and Administration Agreement. 
+
+ “ Liquidity Offset Fraction ”
+means in the case of a Liquidity Draw Offset, the fraction obtained by dividing
+(i) the amount of the Liquidity Draw Offset by (ii) the full
+Liquidation Proceeds of any sale or cash amount of the relevant Temporary
+Financing Transaction . 
+
+ “ Local Business Day ” means any day on
+which (A) commercial banks are open for business (including dealings in
+foreign exchange and foreign currency deposits) in New York and the location of
+Party A, Party B and any Custodian, and (B) in relation to a Transfer of
+Eligible Collateral, any day on which the clearance system agreed between the
+parties for the delivery of Eligible Collateral is open for acceptance and
+execution of settlement instructions (or in the case of a Transfer of Cash or
+other Eligible Collateral for which delivery is contemplated by other means a
+day on which commercial banks are open for business (including dealings in
+foreign exchange and foreign deposits) in New York and the location of Party A,
+Party B and any Custodian). 
+
+ “ Principal Forgiveness Amount ” means
+an amount equal to the aggregate of all amounts of principal forgiven by the
+holders of any Put Portfolio Assets, Excluded Assets or Other Assets pursuant
+to amendments to the Underlying Instruments which result in a reduction of the
+Outstanding Principal Amount of the related Put Portfolio Assets, Excluded
+Assets or Other Assets (except to the extent that either (A) such amount
+of principal forgiven has been separately paid by Party A to Party B as a
+Writedown Amount under this Agreement or (B) a Put Settlement Date has
+occurred and the Put Settlement Amounts in relation thereto have already been
+paid in relation to the relevant Put Portfolio Assets, Excluded Assets or Other
+Assets prior to the relevant forgiveness of principal). 
+
+ “ Qualifying Hedge Agreement ”
+means a Third Party Hedge Agreement that (i) is a Subordinated Hedge Agreement and (ii) with respect to which on
+the date of determination, Dexia or its Affiliates have posted all collateral
+required to be posted in relation to such Third Party Hedge Agreement under the
+credit support annex for such Third Party Hedge Agreement (including by
+satisfying such requirements through the credit support annex for the Dexia
+Affiliate guaranteeing such Third Party Hedge Agreement) as of such date. For the avoidance of doubt, collateral posted
+by Dexia or its Affiliates in relation to any Hedge Agreement that is treated
+as a Qualifying Hedge Agreement shall be deemed not to constitute a Put
+Portfolio Asset, Excluded Asset or Other Asset, or to have any FSAM Asset Value
+for purposes of the determination of Exposure hereunder, whether or not the
+relevant Hedge Counterparty treats Party B as the pledgor or beneficial owner
+of such collateral for purposes of the relevant Hedge Agreement. 
+
+ 14 
+
+ “ Qualifying Liquidity Payment ”
+means (i) if any undrawn or unutilized commitments remaining outstanding
+with respect to the Guaranteed Liquidity Facilities and such Guaranteed
+Liquidity Facilities have not been terminated, a payment with respect to a
+Liquidity Draw Request and (ii) if no undrawn or unutilized commitments
+remain outstanding under the Guaranteed Liquidity Facilities or such Guaranteed
+Liquidity Facilities have been terminated, a payment of principal or redemption
+amount in relation to an FSA GIC Contract that if not otherwise paid would be
+required to be paid by Party A as an “Obligation” under the Dexia FP Guarantee. 
+
+ “ Subordinated Hedge Agreement ”
+means each Third Party Hedge Agreement in relation to which Party A, FSAM and the
+relevant Hedge Counterparty have entered into an amendment substantially in the
+form set forth in Schedule D to the credit support annex to the Dexia
+Guaranteed Put Contract, provided that Party A, Party B and FSA acknowledge and
+agree that variations in the terms of individual amendments based on such form
+either (i) that do not impair in any material respect the direct or
+indirect benefits to Party B and FSA of the amendment contemplated by such form
+or (ii) to which FSA has given its consent not to be unreasonably withheld
+or delayed, shall not prevent a Third Party Hedge Agreement from qualifying as
+a Subordinated Hedge Agreement. 
+
+ “ Third Party Valuation Agent ”
+means the “Valuation Agent” as defined in a Hedge Agreement. 
+
+ Other terms . Capitalized terms used and not defined herein
+have the meanings set forth in the Pledge and Administration Agreement or the
+Confirmation to this Agreement. 
+
+ (v) Rating
+Agency Revisions . Notwithstanding the provisions for the calculation of
+Exposure and Value set forth above, if each of Moody’s Investors Service,
+Standard and Poor’s Rating Services and Fitch Ratings Inc. (the “ Rating Agencies ”) confirm that the GIC
+Issuers’ obligations in relation to the FSA GIC Contracts will continue to be
+rated at least “Aa2/AA/AA” (without giving effect to the Retained FSA Policies
+other than Secondary Policies) with a lesser Exposure being collateralized by
+Party A or different FSAM Assets Valuation Percentage being applicable, then
+the calculation of Exposure or FSAM Asset Value described above shall be
+revised accordingly pursuant to Section 9(b) of this Agreement, and
+when such amendment is effective Party A may post such lesser Credit Support
+Amount as results from such amendment and/or receive a Return Amount of any
+resulting excess Credit Support Amount (any such change a “ Required Collateral Reduction ”); provided,
+further, that no Return Amount shall apply unless, prior to any Transfer of
+such Return Amount, each Rating Agency confirms that the credit rating assigned
+to the financial strength of FSA would not be downgraded or withdrawn as a
+result of such Transfer. Any rating
+issued in accordance with the preceding sentence must be a monitored rating
+(with the related costs and expenses being borne by Party A). 
+
+ If after being obtained
+any rating of the GIC Issuers is subsequently downgraded below “Aa3” by Moody’s
+or “AA-” by S&P or Fitch or withdrawn, the definitions of Exposure and FSAM
+Assets Valuation Percentage will be reinstated to require the Credit Support
+Amount initially set forth herein prior to any Required Collateral Reductions,
+and Party A 
+
+ 15 
+
+ shall be required to
+Transfer Eligible Collateral to the extent of any resulting increase in the
+Credit Support Amount resulting from such reinstatement within five Business
+Days of receiving notice of such downgrade. 
+Provided Party A satisfies such Transfer obligations, the FSAM Assets
+Valuation Percentage shall thereafter be amended as necessary in consultation
+with the Rating Agencies such that the rating of the GIC Issuers will be at
+least “Aa3” by Moody’s, “AA-” by S&P and “AA-” by Fitch, provided that in
+no event shall the definitions of Exposure and FSAM Assets Valuation Percentage
+be reinstated to require a higher Credit Support Amount than initially set
+forth herein prior to any Required Collateral Reductions. 
+
+ (m) Remedies, Waiver. 
+
+ (i) In addition to the rights
+and remedies of the Secured Party or its designee under Paragraph 8(a), and
+subject in each case to the provisions of Section 5.3 of the Pledge and
+Administration Agreement, the Pledgor agrees that if at any time (1) an
+Event of Default with respect to the Pledgor has occurred and is continuing and
+FSA has become the Secured Party Representative, or (2) an Early Termination
+Date has occurred or been designated as the result of an Event of Default with
+respect to the Pledgor, then, unless the Pledgor has paid in full all of its
+Obligations that are then due, the Collateral Agent (as assignee of the Secured
+Party and at the direction of the Secured Party Representative) may exercise
+any of its rights or remedies afforded under any agreement, by law, at equity
+or otherwise, including the rights and remedies of a secured party under the
+Uniform Commercial Code as in effect in any applicable jurisdiction, or under
+other applicable law, without further notice, demand or presentment. Such rights and remedies include the rights
+to use self-help or other remedies, including without limitation (i) taking possession of any Posted Collateral,
+wherever situate; (ii) entering any premises or obtain sole control of any
+account where Posted Collateral is located; and (iii) selling or otherwise
+disposing of any Posted Collateral “as is” without representation or warranty
+of any kind, at public or private sale, with such notice as may be required by
+applicable law, in lots or in bulk, at such locations, all as the
+Collateral Agent (as assignee of the Secured Party and at the direction of the
+Secured Party Representative), in its
+sole discretion, deems advisable. The
+Collateral Agent (as assignee of the Secured Party and at the direction of the
+Secured Party Representative) shall
+have the right to sell, lease or otherwise dispose of any Posted Collateral for
+cash, credit or any combination thereof, and the Collateral Agent (as
+assignee of the Secured Party and at the direction of the Secured Party
+Representative) may purchase any Posted
+Collateral at public or, if permitted by law, private sale and, in lieu of
+actual payment of the purchase price, may set off the amount of such price
+against the Obligations. The
+rights and remedies of the Collateral Agent are cumulative, may be exercised at
+any time and from time to time, concurrently or in any order, and are not
+exclusive of any other rights or remedies available by agreement, by law, at
+equity or otherwise. 
+
+ (ii) Paragraph 8(b) shall
+not apply. 
+
+ 16 
+
+ IN
+WITNESS WHEREOF, the parties have executed this Annex by their duly authorized
+representatives as of the date of the Agreement. 
+
+ DEXIA CRÉDIT LOCAL S.A. 
+
+ FSA ASSET MANAGEMENT LLC 
+
+ By: 
+
+ By: 
+
+ Name: 
+
+ Name: 
+
+ Title: 
+
+ Title: 
+
+ By: 
+
+ Name: 
+
+ Title: 
+
+ DEXIA
+ SA 
+
+ By: 
+
+ Title: 
+
+ By: 
+
+ Title:

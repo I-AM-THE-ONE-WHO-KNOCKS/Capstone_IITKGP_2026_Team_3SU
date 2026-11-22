@@ -1,0 +1,311 @@
+EX-10.83.3
+ 19
+ y10687a1exv10w83w3.txt
+ EX-10.83.3
+
+ Exhibit 10.83.3
+
+MERRILL LYNCH
+
+DATE: DECEMBER 3, 2004
+AMENDED: JANUARY 13, 2005
+AMENDED: FEBRUARY 4, 2005
+AMENDED: FEBRUARY 15, 2005
+
+TO: FORTRESS NBA ACQUISITION, LLC ("Counterparty")
+ATTENTION: Akhil Sharma
+TEL: 212 479 5280
+FAX: 212 798 6133
+
+FROM: MERRILL LYNCH CAPITAL SERVICES, INC. ("MLCS")
+CONTACT: Hui Sun Kwei
+EMAIL: hkwei@exchange.ml.com
+TEL: 212-449-8253
+FAX: 917-778-0836
+
+RE: SWAP TRANSACTION
+
+ML REF: 04DL16954, 1942455
+
+THIS COMMUNICATION SUPERCEDES AND REPLACES ALL PRIOR COMMUNICATION BETWEEN THE
+PARTIES HERETO WITH RESPECT TO THE TRANSACTION DESCRIBED BELOW.
+
+Dear Sir or Madam:
+
+ The purpose of this communication is to confirm the terms and conditions of
+the transaction entered into between us on the Trade Date specified below (the
+"Transaction"). This communication constitutes a "Confirmation" as referred to
+in the Agreement specified below.
+
+ The definitions and provisions contained in the 2000 ISDA Definitions as
+published by the International Swaps and Derivatives Association, Inc. (the
+"Definitions") are incorporated into this Confirmation. For these purposes, all
+references in those Definitions to a "Swap Transaction" shall be deemed to apply
+to the Transaction referred to herein. In the event of any inconsistency between
+the Definitions and this Confirmation, the terms of this Confirmation shall
+govern.
+
+ This Confirmation evidences a complete and binding agreement between you
+and us as to the terms of the Transaction to which this Confirmation relates. In
+addition, you and we agree to use all reasonable efforts promptly to negotiate,
+execute and deliver an agreement in the form of the ISDA Master Agreement
+(Multicurrency-Cross Border) (the "Master Form"), with such modifications as you
+and wo will in good faith agree (the "Agreement"). Upon the execution by you and
+us of the Agreement, this Confirmation will supplement, form a part of, and be
+subject to the Agreement. All provisions contained in or incorporated by
+reference in the Agreement upon its execution will
+
+ Page 1 of 6
+
+MERRILL LYNCH
+
+govern this Confirmation except as expressly modified below. Until we execute
+and deliver the Agreement, this Confirmation, together with all other documents
+referring to the Master Form (each a "Confirmation") confirming transactions
+(each a "Transaction") entered into between us (notwithstanding anything to the
+contrary in a Confirmation), shall supplement, form a part of, and be subject
+to, an agreement in the form of the Master Form as if we had executed an
+agreement in such form (but without any Schedule except for the election of the
+laws of the State of New York as the governing law and US Dollars as the
+Termination Currency) on the Trade Date of the first such Transaction between
+us. In the event of any inconsistency between the provisions of that agreement
+and this Confirmation, this Confirmation will prevail for the purpose of this
+Transaction.
+
+The terms of the particular Transaction to which the Confirmation relates are as
+follows:
+
+Notional Amount: USD 12,000,000.00
+
+Trade Date: December 3, 2004
+
+Effective Date: January 22, 2005
+
+Termination Date: January 22, 2008
+
+Fixed Amounts:
+
+Fixed Rate Payer: Counterparty
+
+Fixed Rate Payer Payment Date: The 22nd day of each month in each
+ year, commencing on February 22, 2005
+ and ending on the Termination Date,
+ inclusive, subject to adjustment in
+ accordance with the Modified Following
+ Business Day Convention.
+
+Fixed Rate: 3.615000% per annum
+
+Fixed Rate Payer Day Count Fraction: 30/360
+
+No Adjustment of Period End Dates: Inapplicable
+
+Floating Amounts:
+
+Floating Rate Payer: MLCS
+
+Floating Rate Payer Payment Date: The 22nd day of each month in each
+ year, commencing on February 22, 2005
+ and ending on the Termination Date,
+ inclusive, subject to adjustment in
+ accordance with the Modified Following
+ Business Day
+
+ Page 2 of 6
+
+MERRILL LYNCH
+
+ Convention.
+
+Floating Rate Option: USD-LIBOR BBA
+
+Designated Maturity: One Month
+
+Spread: Inapplicable
+
+Floating Rate Payer Day Count Fraction: Actual/360
+
+No Adjustment of Period End Dates: Inapplicable
+
+Reset Dates: The first day of each Floating Rate
+ Payer Calculation Period
+
+Rate Cut-Off Dates: Inapplicable
+
+Averaging: Inapplicable
+
+Compounding: Inapplicable
+
+Business Days: New York and London
+
+Calculation Agent: MLCS, unless otherwise specified in
+ the Agreement
+
+Collateral: (a) Until the execution of a Credit
+ Support Annex between the parties,
+ this Confirmation shall constitute a
+ pledge agreement (and a Credit Support
+ Document under the Agreement) securing
+ the payment and performance of
+ Counterparty's obligations to MLCS
+ under this and any other Transaction
+ between the parties. Promptly after
+ the execution hereof, MLCS and
+ Counterparty agree to execute a Credit
+ Support Annex in form and substance
+ reasonably satisfactory to the
+ parties. With the exception of the
+ "Independent Amount" language, Upon
+ execution, the Credit Support Annex
+ shall supersede and replace the pledge
+ agreement and all the provisions of
+ "Collateral" created hereby.
+
+ (b) If at any time a Required Amount
+
+ Page 3 of 6
+
+MERRILL LYNCH
+
+ and/or an Independent Amount (both as
+ defined below) exists, Counterparty,
+ as security for its obligations to
+ MLCS, shall, promptly upon demand by
+ MLCS, pledge, transfer and deliver to
+ MLCS, and grant MLCS a first priority
+ continuing security interest in and
+ right of set-off against, Eligible
+ Collateral (as defused below) having a
+ minimum market value equal to the
+ Required Amount and/or Independent
+ Amount, as applicable.
+
+ (c) Upon any default by Counterparty
+ in the performance of its obligations
+ to MLCS hereunder or under any other
+ Transaction with MLCS, MLCS shall have
+ all rights of a secured creditor under
+ the New York Uniform Commercial Code.
+
+ (d) The term "Eligible Collateral"
+ means U.S. denominated cash, U.S.
+ Treasury Securities and any other form
+ of collateral agreed to between the
+ parties.
+
+ The term "Required Amount" means the
+ amount by which the value of any
+ positive "Net Market Quotation" (as
+ defined below) exceeds USD 0.00. A
+ positive Net Market Quotation shall
+ mean that MLCS is exposed to
+ Counterparty and a negative Net Market
+ Quotation shall mean that Counterparty
+ is exposed to MLCS.
+
+ The term "Net Market Quotation" means
+ an amount equal to the sum of all
+ Market Quotations (both positive and
+ negative) for all Transactions between
+ the parties assuming all such
+ Transactions were being terminated as
+ of the relevant date of valuation;
+ provided, however, that Market
+ Quotation will be determined by MLCS
+ using its mid-market estimates of the
+ amounts that would be paid for
+ Replacement Transactions (as such term
+ is defined in the definition of
+ "Market Quotation").
+
+ Page 4 of 6
+
+MERRILL LYNCH
+
+ The term "Independent Amount" means,
+ if at any time if the net book value
+ of Party B falls below USD 50,000,000
+ at any time during the period 12
+ months prior to the date of any such
+ determination, an amount equal to (a)
+ (i) if such date of determination
+ occurs during the first 12 months of
+ the Transaction, up to 30 basis points
+ of the Notional Account, (ii) if such
+ date of determination occurs between
+ months 12 and 24 of the Transaction,
+ up to 20 basis points of the Notional
+ Amount and (iii) if such date of
+ determination occurs after month 24 of
+ the Transaction, up to 10 basis points
+ of the Notional Amount."
+
+ Please contact Collateral Management,
+ at telephone: (212) 449-3782,
+ facsimile: (212) 738-1492, for
+ delivery instructions for securities.
+
+Non-Reliance: Each party represents to the other
+ party that it is acting for its own
+ account, and has made its own
+ independent decisions to enter into
+ this Transaction and as to whether
+ this Transaction is appropriate or
+ proper for it based on its own
+ judgement and upon advice from such
+ advisors as it has deemed necessary.
+ It is not relying on any communication
+ (written or oral) of the other party
+ as investment advice or as a
+ recommendation to enter into this
+ Transaction, it being understood that
+ information and explanations related
+ to the terms and conditions of this
+ Transaction shall not be considered
+ investment advice or a recommendation
+ to enter into this Transaction. No
+ communication (written or oral)
+ received from the other party shall be
+ deemed to be an assurance or guarantee
+ as to the expected results of this
+ Transaction.
+
+Account Details:
+
+ Page 5 of 6
+
+MERRILL LYNCH
+
+USD payments to MLCS: DEUTSCHE BANK TRUST COMPANY AMERICAS,
+ NEW YORK, NY: 021001033)
+
+ FAQ: MERRILL LYNCH CAPITAL SERVICES,
+ INC., NEW YORK, NY
+
+ Acct: 00-811-874
+
+USD payments to Counterparty: Please Advise
+
+Please confirm that the foregoing correctly sets the terms of our agreement by
+executing this Confirmation and returning it to us by facsimile transmission.
+
+Yours sincerely,
+
+MERRILL LYNCH CAPITAL SERVICES, INC.
+
+By: /s/ Angelina Lopes
+ ---------------------------------
+ Authorized Signatory
+
+Accepted and confirmed as of the
+Trade Date written above:
+
+FORTRESS NBA ACQUISITION, LLC
+
+By: /s/ William Doniger
+ ---------------------------------
+Name: William Doniger
+Title: Authorized Signatory
+ ------------------------------
+
+ Page 6 of 6

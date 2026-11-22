@@ -1,0 +1,793 @@
+EX-10
+ 4
+ nc1yma.htm
+ EX 10.3
+
+BANK OF AMERICA, N.A.
+
+To: RAMP Series 2006-NC1 Trust,
+ acting through U.S. Bank National Association
+ not in its individual capacity but solely in its capacity as Trustee for the
+ benefit of RAMP Series 2006-NC1 Trust
+
+ EP-MN-WS3D
+ 60 Livingston Avenue
+ St. Paul, MN 55107
+
+Attn: RAMP Series 2006-NC1 Trust
+Telephone: 651 495 3880
+ Fax: 651 495 8090
+
+Cc: Josie Knorr
+Fax: 952 352 0503
+
+From: Bank of America, N.A.
+ 233 South Wacker Drive - Suite 2800
+ Chicago
+ Illinois 60606
+ U.S.A.
+Department: Swaps Operations
+Telephone: (+1) 312 234 2732
+Fax: (+1) 866 255 1444
+
+Date: 30th January 2006
+
+Our Reference Number: 4444298
+Internal Tracking Numbers: 13202616
+
+Dear Sir/Madam,
+
+The purpose of this letter agreement is to confirm the terms and conditions of the transaction
+ entered into between RAMP Series 2006-NC1 Trust acting through U.S. Bank National
+ Association, not in its individual capacity, but solely as Trustee for the benefit of RAMP Series 2006-NC1 Trust
+and Bank of America, N.A., a national banking association organized under the laws of the United States of
+America (each a "party" and together "the parties") on the Trade Date specified below (the "Transaction"). This
+letter agreement constitutes a "Confirmation" as referred to in the ISDA Master Agreement specified in paragraph
+1 below. In this Confirmation, "Party A" means Bank of America, N.A., and "Party B" means RAMP Series 2006-NC1
+Trust acting through U.S. Bank National Association, not in its individual capacity, but solely as Trustee for
+the benefit of RAMP Series 2006-NC1 Trust.
+
+ The definitions and provisions contained in the 2000 ISDA Definitions, as published by the International
+Swaps and Derivatives Association, Inc. (the "Definitions"), are incorporated into this Confirmation. In the
+event of any inconsistency between the Definitions and this Confirmation, this Confirmation will govern.
+
+ Other capitalized terms used herein (but not otherwise defined) shall have the meaning specified in that
+certain Pooling and Servicing Agreement, dated as of January 1, 2006 (the "Pooling and Servicing Agreement"),
+among Residential Asset Mortgage Products, Inc., as Depositor, Residential Funding Corporation, as Master
+Servicer, and U.S. Bank National Association, as Trustee ("the Trustee").
+
+1. This Confirmation evidences a complete binding agreement between the parties as to the terms of the
+Transaction to which this Confirmation relates. In addition, the parties agree that for the purposes of this
+Transaction, this Confirmation will supplement, form a part of, and be subject to an agreement in the form of the
+1992 ISDA Master Agreement (Multicurrency-Cross Border) as if the parties had executed an agreement in such form
+(but without any Schedule except for the elections noted below) on the Trade Date of the Transaction (such
+agreement, the "Form Master Agreement"). In the event of any inconsistency between the provisions of the Form
+Master Agreement and this Confirmation, this Confirmation will prevail for the purpose of this Transaction.
+
+ Each party represents to the other party and will be deemed to represent to the other party on the date
+on which it enters into this Transaction that (absent a written agreement between the parties that expressly
+imposes affirmative obligations to the contrary for that Transaction):
+
+ (a) NON-RELIANCE. Each party has made its own independent decisions to enter into this Transaction
+and as to whether this Transaction is appropriate or proper for it based upon its own judgment and upon advice
+from such advisors as it has deemed necessary. It is not relying on any communication (written or oral) of the
+other party as investment advice or as a recommendation to enter into this Transaction; it being understood that
+information and explanations related to the terms and conditions of this Transaction shall not be considered
+investment advice or a recommendation to enter into this Transaction. Further, such party has not received from
+the other party any assurance or guarantee as to the expected results of this Transaction. Notwithstanding the
+foregoing, in the case of Party B, it has entered into this Transaction pursuant to the direction received by it
+pursuant to the Pooling and Servicing Agreement.
+
+ (b) EVALUATION AND UNDERSTANDING. It is capable of evaluating and understanding (on its own behalf
+or through independent professional advice), and understands and accepts, the terms, conditions and risks of this
+Transaction. It is also capable of assuming, and assumes, the financial and other risks of this Transaction and,
+in the case of Party B, it has been directed by the Pooling and Servicing Agreement to enter into this
+Transaction.
+
+ (c) STATUS OF PARTIES. The other party is not acting as an agent, fiduciary or advisor for it in
+respect of this Transaction.
+
+2. The terms of the particular Transaction to which this Confirmation relates are as follows:
+
+ Notional Amount: With respect to any Calculation Period, the lesser of:
+
+(i) The amount as set forth in Exhibit I, which is attached hereto and incorporated by reference into this
+ Confirmation, and
+
+(ii) The aggregate outstanding principal balance of the Class A Certificates and Class M Certificates, as
+ described in the Pooling and Servicing Agreement immediately
+ prior to the last day of such Calculation Period.
+
+ Trade Date: 24th January 2006
+
+ Effective Date: 30th January 2006
+
+ Termination Date: 27th December 2010 subject to adjustment in accordance with the
+ Following Business Day Convention
+
+FIXED AMOUNTS:
+
+ Fixed Rate Payer: Party B
+
+ Fixed Rate Payer
+ Payment Dates: 30th January 2006
+
+ Fixed Amount: USD 5,220,000.00
+
+FLOATING AMOUNTS:
+
+ Floating Rate Payer: Party A
+
+ Cap Rate: 4.50000 percent
+
+ Early Payment: Applicable, 2 Business Days prior to each Floating Rate Payer Period
+ End Date
+
+ Floating Rate Payer
+ Period End Dates: The 25th of each Month, commencing on 25th February 2006 and ending
+ on the Termination Date subject to adjustment in accordance with the
+ Following Business Day Convention.
+
+Floating Rate for initial
+Calculation Period: 4.56000 percent
+
+ Floating Rate Option: USD-LIBOR-BBA
+
+ Designated Maturity: 1 Month
+
+ Spread: None
+
+ Floating Rate Day
+ Count Fraction: Actual/360
+
+ Reset Dates: First day of each Calculation Period.
+
+ Business Days: New York
+
+3. FORM MASTER AGREEMENT.
+
+ (a) "Specified Entity" means, in relation to Party A, for the purpose of Section 5(a)(v), Section
+5(a)(vi), Section 5(a)(vii) and Section 5(b)(iv): Not Applicable.
+
+ (b) "Specified Entity" means, in relation to Party B, for the purpose of Section 5(a)(v), Section
+5(a)(vi), Section 5(a)(vii) and Section 5(b)(iv): Not Applicable.
+
+ (c) "Specified Transaction" will have the meaning specified in Section 14 of the Form Master
+Agreement.
+
+ (d) The "Credit Event Upon Merger" provisions of Section 5(b)(iv) of the Form Master Agreement will
+not apply to Party A or to Party B.
+
+ (e) The "Automatic Early Termination" provision of Section 6(a) of the Form Master Agreement will
+not apply to Party A or to Party B.
+
+ (f) The Form Master Agreement will be governed by, and construed in accordance with, the laws of
+the State of New York without reference to its conflict of laws provisions (except for Sections 5-1401 and 5-1402
+of the New York General Obligations Law).
+
+ (g) The phrase "Termination Currency" means United States Dollars.
+
+ (h) For the purpose of Section 6(e) of the Form Master Agreement, Market Quotation and Second
+Method will apply.
+
+ (i) The Events of Default specified under Sections 5(a)(ii), 5(a)(iii), 5(a)(iv), 5(a)(v), 5(a)(vi)
+and Sections 5(b)(ii) and 5(b)(iii) of the Form Master Agreement will not apply to Party A or to Party B. With
+respect to Party B only, the provisions of Section 5(a)(vii) clause 2 will not be applicable.
+
+(j) Without affecting the provisions of the Form Master Agreement requiring the calculation of certain net
+ payment amounts, as a result of an Event of Default or Additional Termination Event or otherwise, each party
+ irrevocably waives any and all rights it may have to set off, net, recoup or otherwise withhold or suspend or
+ condition payment or performance of any obligation between it and the other party hereunder against any
+ obligation between it and the other party under any other agreements.
+
+4. RECORDING OF CONVERSATIONS.
+
+ Each party to this Transaction acknowledges and agrees to the tape (and/or other electronic) recording
+of conversations between the parties to this Transaction whether by one or other or both of the parties or their
+agents, and that any such recordings may be submitted in evidence in any Proceedings relating to the Form Master
+Agreement and/or this Transaction.
+
+5. CREDIT SUPPORT DOCUMENT.
+
+ In relation to Party A: Not Applicable.
+ In relation to Party B: Not Applicable.
+
+6. CREDIT SUPPORT PROVIDER.
+
+ In relation to Party A: Not Applicable.
+ In relation to Party B: Not Applicable.
+
+7. ACCOUNT DETAILS.
+
+ Account for payments to Party A:
+ USD
+ NAME: BANK OF AMERICA NA
+ CITY: NEW YORK
+ ABA #: 026009593
+ ATTN: BOFAUS3N
+ NAME: BANK OF AMERICA NA
+ CITY: CHARLOTTE
+ ACCT: 6550219386
+ ATTN: RATE DERIVATIVE SETTLEMENTS
+ ATTN: BOFAUS6SGDS
+
+ Account for payments to Party B:
+
+ U.S. Bank National Association
+ ABA Number: 091000022
+ Account Number: 1731 0332 2058
+ Reference: RAMP Series 2006-NC1
+ OBI: Attention: Josh Wilkening
+ Ref. Acct. No.: 792563000
+
+8. OFFICES.
+
+ The Office of Party A for this Transaction is: Charlotte, North Carolina
+ Please send reset notices to fax no. (+1) 866 218
+ 8487
+
+ The Office of Party B for this Transaction is: St. Paul, MN
+
+9. ADDITIONAL PROVISIONS.
+
+ (a) Fully-Paid Transactions. Notwithstanding the terms of Sections 5 and 6 of the Form Master
+Agreement, if at any time and so long as one of the parties to the Form Master Agreement ("X") shall have
+satisfied in full all its payment and delivery obligations under Section 2(a)(i) of the Form Master Agreement and
+shall at the time have no future payment or delivery obligations, whether absolute or contingent, under such
+Section, then unless the other party ("Y") is required pursuant to appropriate proceedings to return to X or
+otherwise returns to X (upon demand of X, or otherwise) any portion of any such payment or delivery: (i) the
+occurrence of an event described in Section 5(a), excluding Section 5(a)(vii), of the Form Master Agreement with
+respect to X shall not constitute an Event of Default or a Potential Event of Default with respect to X as the
+Defaulting Party; and (ii) Y shall be entitled to designate an Early Termination Date (a) pursuant to Section 10
+below and/or (b) pursuant to Section 6 of the Form Master Agreement only as a result of the occurrence of a
+Termination Event set forth in Section 5(b)(i) of the Form Master Agreement with respect to Y as the Affected
+Party.
+
+ (b) Downgrade of Party A. If a Ratings Event (as defined below) shall occur and be continuing with
+respect to Party A, then Party A shall (A) within 5 Business Days of such Ratings Event, give notice to Party B
+of the occurrence of such Ratings Event, and (B) use reasonable efforts to transfer (at its own cost) Party A's
+rights and obligations hereunder to another party, subject to satisfaction of the Rating Agency Condition (as
+defined below). Unless such a transfer by Party A has occurred within 20 Business Days after the occurrence of a
+Ratings Event, Party A shall immediately, at its own cost, post Eligible Collateral (as designated in the
+approved Credit Support Annex), to secure Party B's exposure or potential exposure to Party A, and such Eligible
+Collateral shall be provided in accordance with a Credit Support Annex to be attached hereto and made a part
+hereof. The Eligible Collateral to be posted and the Credit Support Annex to be executed and delivered shall be
+subject to the Rating Agency Condition. Valuation and posting of Eligible Collateral shall be made weekly.
+Notwithstanding the addition of the Credit Support Annex and the posting of Eligible Collateral, Party A shall
+continue to use reasonable efforts to transfer its rights and obligations hereunder to an acceptable third party;
+provided, however, that Party A's obligations to find a transferee and to post Eligible Collateral under such
+Credit Support Annex shall remain in effect only for so long as a Ratings Event is continuing with respect to
+Party A. For the purpose hereof, a "Ratings Event" shall occur with respect to Party A if the long-term and
+short-term senior unsecured deposit ratings of Party A cease to be at least A and A-1 by Standard & Poor's
+Ratings Service ("S&P") and at least A1 and P-1 by Moody's Investors Service, Inc. ("Moody's"), to the extent
+such obligations are rated by S&P or Moody's. "Rating Agency Condition" means, with respect to any action taken
+or to be taken, a condition that is satisfied when S&P and Moody's have confirmed in writing that such action
+would not result in the downgrade, qualification (if applicable) or withdrawal of the rating then assigned by
+such Rating Agency to the applicable class of Certificates. Notwithstanding the forgoing, in the event the
+long-term senior unsecured deposit ratings of Party A ceases to be at least BBB- or is withdrawn by S&P, to the
+extent such obligations are rated by S&P, Party A shall, within 10 Business Days of such occurrence, transfer (at
+its own cost) its rights and obligations hereunder to another party, subject to satisfaction of the Rating Agency
+Condition.
+
+10. ADDITIONAL TERMINATION EVENT.
+
+ The failure by Party A to comply with Section 9(b) hereof or to transfer its rights and obligations
+hereunder shall constitute an Additional Termination Event for which Party A shall be the sole Affected Party.
+
+11. WAIVER OF RIGHT TO TRIAL BY JURY.
+
+ EACH PARTY HEREBY IRREVOCABLY WAIVES ANY AND ALL RIGHTS TO TRIAL BY JURY WITH RESPECT TO ANY LEGAL
+PROCEEDING ARISING OUT OF OR RELATING TO THIS TRANSACTION.
+
+12. ELIGIBLE CONTRACT PARTICIPANT.
+
+ Each party represents to the other party that it is an "eligible contract participant" as defined in
+Section 1a(12) of the U.S. Commodity Exchange Act, as amended.
+
+13. NOTICE BY FACSIMILE TRANSMISSION.
+
+ Section 12(a) of the Form Master Agreement is hereby amended by deleting the parenthetical "(except that
+a notice or other communication under Section 5 or 6 may not be given by facsimile transmission or electronic
+messaging system)."
+
+14. REPRESENTATIONS.
+
+ Party B represents that: (a) it is directed pursuant to the Pooling and Servicing Agreement to enter
+into this Transaction (including the Form Master Agreement) and to perform its obligations hereunder (and
+thereunder); (b) the Transaction and the performance of its obligations hereunder (and under the Form Master
+Agreement) do not violate any material obligation of such Party; (c) as of the date hereof, all conditions
+precedent to the issuance of the Certificates have been satisfied or waived; (d) each of the Pooling and
+Servicing Agreement and the other transaction documents related thereto (the "Transaction Documents") to which it
+is a party has been duly authorized, executed and delivered by it; (e) assuming the due authorization, execution
+and delivery thereof by the other parties thereto, each of the Pooling and Servicing Agreement and the other
+Transaction Documents to which Party B is a party constitutes the legal, valid and binding obligations of Party
+B, enforceable against Party B in accordance with the terms thereof, subject to applicable bankruptcy, insolvency
+and similar laws or legal principles affecting creditors' rights generally; (f) the Pooling and Servicing
+Agreement and the other Transaction Documents to which Party B is a party are in full force and effect on the
+date hereof and there have been no amendments or waivers or modifications of any of the terms thereof since the
+original execution and delivery of the Pooling and Servicing Agreement and the other Transaction Documents to
+which Party B is a party, except such as may have been delivered to Party A and to Party B; (g) to the best of
+its knowledge, no event of default (or event which would, with the passage of time or the giving of notice, or
+both, constitute an event of default) has occurred under any of the Transaction Documents to which Party B is a
+party; and (h) the person executing this Confirmation is duly authorized to execute and deliver it on behalf of
+Party B.
+
+15. MULTIBRANCH PARTY.
+
+ For purpose of Section 10(c) of the Form Master Agreement: (a) Party A is a Multibranch Party,
+and may act through its Charlotte, North Carolina, Chicago, Illinois, San Francisco, California, New York, New
+York, Boston, Massachusetts or London, England Office or such other Office as may be agreed to by the parties in
+connection with a Transaction; and (b) Party B is not a Multibranch Party.
+
+16. USA PATRIOT ACT NOTICE.
+
+ Party A hereby notifies Party B that pursuant to the requirements of the USA Patriot Act (Title III of
+Pub. L. 107-56 (signed into law October 26, 2001)) (the "Patriot Act"), it is required to obtain, verify and
+record information that identifies Party B, which information includes the name and address of Party B and other
+information that will allow Party A to identify Party B in accordance with the Patriot Act.
+
+17. OTHER PROVISIONS.
+
+ (a) Calculation Agent. If applicable, the Calculation Agent is Party A.
+
+ (b) Addresses for notices.
+
+ With respect to Party A:
+
+ As set forth on page 1 hereof and the fax no. set forth in Section 8 hereof.
+
+ With respect to Party B:
+
+ Address: RAMP Series 2006-NC1 Trust
+ c/o U.S. Bank National Association
+ 60 Livingston Avenue
+ EP-MN-WS3D
+ St. Paul, MN 55107
+ Facsimile No.: 651-495-8090
+ Telephone No: 651-495-3880
+
+ with a copy to:
+
+ Address: Residential Funding Corporation
+ 8400 Normandale Lake Blvd.
+ Minneapolis, MN 55437
+ Attention: Josie Knorr
+ Facsimile No.: 952-352-0503
+ Telephone No: 952-857-6560 (For all purposes)
+
+ (c) For the purpose of Section 13(c) of the Form Master Agreement: (i) Party A appoints as its
+Process Agent, not applicable; and (ii) Party B appoints as its Process Agent, not applicable.
+
+ (d) Section 12(a)(ii) of the Form Master Agreement is deleted in its entirety.
+
+ (e) Party A may assign or transfer its rights and obligations hereunder to any entity so long as
+the Rating Agency Condition is satisfied. This Transaction shall not be amended or modified pursuant to Section
+9(b) of the Form Master Agreement unless the Rating Agency Condition is satisfied.
+
+ (f) Payer Representations. For the purpose of Section 3(e) of the Form Master Agreement, Party A
+and Party B make the following representation:
+
+ It is not required by any applicable law, as modified by the practice of any relevant governmental
+revenue authority, of any Relevant Jurisdiction to make any deduction or withholding for or on account of any Tax
+from any payment (other than interest under Section 2(e), 6(d)(ii), or 6(e) of the Form Master Agreement) to be
+made by it to the other party under the Form Master Agreement. In making this representation, it may rely on (i)
+the accuracy of any representations made by the other party pursuant to Section 3(f) of the Form Master
+Agreement, (ii) the satisfaction of the agreement contained in Section 4(a)(i) or 4(a)(iii) of the Form Master
+Agreement, and the accuracy and effectiveness of any document provided by the other party pursuant to Section
+4(a)(i) or 4(a)(iii) of the Form Master Agreement, and (iii) the satisfaction of the agreement of the other party
+contained in Section 4(d) of the Form Master Agreement, provided that it shall not be a breach of this
+representation where reliance is placed on clause (ii) and the other party does not deliver a form or document
+under Section 4(a)(iii) by reason of material prejudice to its legal or commercial position.
+
+ (g) Payee Representations. For the purpose of Section 3(f) of the Form Master Agreement, Party A
+and Party B make the following representations:
+
+ The following representation applies to Party A: Party A is a national banking association organized
+under the laws of the United States of America and the federal taxpayer identification number is 94-1687665.
+
+ U.S. Bank National Association is the Trustee under the Pooling and Servicing Agreement.
+
+ (h) For the purpose of Section 4(a)(i) and (ii) of the Form Master Agreement, each Party agrees to
+deliver the following documents as applicable:
+
+(a) Tax forms, documents or certificates to be delivered are:-
+
+------------------------------------------ ------------------------------------- -------------------------------------
+ PARTY REQUIRED TO DELIVER
+ DOCUMENT FORM/DOCUMENT/CERTIFICATE DATE BY WHICH TO DELIVERED
+========================================== ===================================== =====================================
+========================================== ===================================== =====================================
+Party B. An executed U.S. Internal Revenue (i) Before the first Payment Date
+ Service Form W-9 (or any successor hereunder, (ii) promptly upon
+ thereto). reasonable demand by Party A and
+ (iii) promptly upon learning that
+ any such form previously provided
+ to Party A has become obsolete or
+ incorrect.
+------------------------------------------ ------------------------------------- -------------------------------------
+
+(b) Other documents to be delivered are:
+
+--------------------------- ---------------------------------------- -------------------------- ------------------------
+PARTY REQUIRED TO DELIVER FORM/DOCUMENT/ DATE BY WHICH TO BE COVERED BY SECTION
+ DOCUMENT CERTIFICATE DELIVERED 3(D) REPRESENTATION
+=========================== ======================================== ========================== ========================
+--------------------------- ---------------------------------------- -------------------------- ------------------------
+Party A and Party B. Incumbency certificate or other Concurrently with the Yes.
+ documents evidencing the authority of execution of this
+ the party entering into this agreement agreement or of any
+ or any other document executed in other documents executed
+ connection with this agreement. in connection with this
+ agreement.
+
+--------------------------- ---------------------------------------- -------------------------- ------------------------
+--------------------------- ---------------------------------------- -------------------------- ------------------------
+Party B. Copy of each report delivered under Upon availability. Yes.
+ the Pooling and Servicing Agreement
+ and/or any other Transaction Document.
+--------------------------- ---------------------------------------- -------------------------- ------------------------
+--------------------------- ---------------------------------------- -------------------------- ------------------------
+Party A and Party B. Legal opinion from counsel for each Concurrently with the No.
+ party concerning due authorization, execution of this
+ enforceability and related matters, agreement, or with
+ addressed to the other party and respect to Party A,
+ acceptable to the other party. within 2 New York
+ Business Days of the
+ execution of this
+ agreement.
+--------------------------- ---------------------------------------- -------------------------- ------------------------
+--------------------------- --------------------------------------- --------------------------- ------------------------
+Party A and Party B. Certified copies of all corporate, Upon execution and Yes.
+ partnership, trust or membership delivery of this
+ authorizations, as the case may be, agreement.
+ and any other documents with respect
+ to the execution, delivery and
+ performance of this agreement and any
+ Credit Support Document
+--------------------------- --------------------------------------- --------------------------- ------------------------
+--------------------------- --------------------------------------- --------------------------- ------------------------
+Party A and Party B. Indemnification agreement executed by Concurrently with No.
+ each Party with respect to printing of any
+ information included in any preliminary prospectus
+ preliminary prospectus supplement and supplement and the
+ the prospectus supplement related to prospectus supplement
+ the Class A and Class M Certificates. related to the Class A
+ and Class M Certificates.
+--------------------------- --------------------------------------- --------------------------- ------------------------
+--------------------------- --------------------------------------- --------------------------- ------------------------
+Party A Any document required to be delivered As provided for in Yes.
+ pursuant to section 18 of this section 18
+ Confirmation within the Response
+ Period set forth in section 18
+--------------------------- --------------------------------------- --------------------------- ------------------------
+
+ (i) "Affiliate" will have the meaning specified in Section 14 of the Form Master Agreement;
+provided, however, that Party B shall be deemed not to have any Affiliates for purposes of this Transaction.
+
+ (j) Party A hereby agrees that it will not, prior to the date that is one year and one day (or, if
+longer, the applicable preference period) after all Certificates (as such term is defined in the Pooling and
+Servicing Agreement) issued by Party B pursuant to the Pooling and Servicing Agreement have been paid in full,
+acquiesce, petition or otherwise invoke or cause Party B to invoke the process of any court or governmental
+authority for the purpose of commencing or sustaining a case against Party B under any federal or state
+bankruptcy, insolvency or similar law or for the purpose of appointing a receiver, liquidator, assignee, trustee,
+custodian, sequestrator or other similar official for Party B or any substantial part of the property of Party B,
+or for the purpose of ordering the winding up or liquidation of the affairs of Party B. Nothing herein shall
+prevent Party A from participating in any such proceeding once commenced.
+
+ (k) Notwithstanding anything herein to the contrary, it is expressly understood and agreed by the
+parties hereto that (i) this Confirmation is executed and delivered by U.S. Bank National Association, not
+individually or personally but solely as trustee ("Trustee") of Party B, in the exercise of the powers and
+authority conferred and vested in it and that Trustee shall perform its duties and obligations hereunder in
+accordance with the standard of care set forth in Article VIII of the Pooling and Servicing Agreement, (ii) each
+of the representations, undertakings and agreements herein made on the part of Party B is made and intended not
+as personal representations, undertakings and agreements by Trustee but is made and intended for the purpose of
+binding only Party B, (iii) nothing herein contained shall be construed as creating any liability on Trustee,
+individually or personally, to perform any covenant either expressed or implied contained herein, all such
+liability, if any, being expressly waived by the parties hereto and by any Person claiming by, through or under
+the parties hereto; provided that nothing in this paragraph shall relieve Trustee from performing its duties and
+obligations under the Pooling and Servicing Agreement in accordance with the standard of care set forth therein,
+and (iv) under no circumstances shall Trustee be personally liable for the payment of any indebtedness or
+expenses of Party B or be liable for the breach or failure of any obligation, representation, warranty or
+covenant made or undertaken by Party B hereunder or any other related documents.
+
+ (l) The Form Master Agreement is hereby amended as follows:
+
+The word "third" shall be replaced by the word "second" in the third line of Section 5(a)(i) of the Form Master
+Agreement.
+
+ (m) Severability. If any term, provision, covenant, or condition of this Agreement, or the
+application thereof to any party or circumstance, shall be held to be invalid or unenforceable (in whole or in
+part) for any reason, the remaining terms, provisions, covenants, and conditions hereof shall continue in full
+force and effect as if this Agreement had been executed with the invalid or unenforceable portion eliminated, so
+long as this Agreement as so modified continues to express, without material change, the original intentions of
+the parties as to the subject matter of this Agreement and the deletion of such portion of this Agreement will
+not substantially impair the respective benefits or expectations of the parties.
+
+ The parties shall endeavor to engage in good faith negotiations to replace any invalid or unenforceable
+term, provision, covenant or condition with a valid or enforceable term, provision, covenant or condition, the
+economic effect of which comes as close as possible to that of the invalid or unenforceable term, provision,
+covenant or condition.
+
+ (n) Notwithstanding anything to the contrary contained herein, none of Party B or any of its
+officers, directors, or shareholders (the "Non-recourse Parties") shall be personally liable for the payment by
+or on behalf of RAMP Series 2006-NC1 Trust hereunder, and Party A shall be limited to a proceeding against the
+Collateral or against any other third party other than the Non-recourse Parties, and Party A shall not have the
+right to proceed directly against RAMP Series 2006-NC1 Trust for the satisfaction of any monetary claim against
+the Non-recourse Parties or for any deficiency judgment remaining after foreclosure of any property included in
+such Collateral and following the realization of the Collateral, any claims of Party A shall be extinguished.
+
+18. COMPLIANCE WITH REGULATION AB.
+
+(a) Party A has been advised that Residential Funding Corporation ("RFC") and Residential Asset Mortgage
+Products, Inc. ("RAMP") are required under Regulation AB under the Securities Act of 1933 and the Securities
+Exchange Act of 1934, as amended ("Regulation AB"), to disclose certain financial information regarding Party A
+depending on the applicable "significance percentage" of this Confirmation, as calculated from time to time in
+accordance with Item 1115 of Regulation AB.
+
+(b) If required, Party A shall provide to RFC or RAMP the applicable financial information described under
+Item 1115 of Regulation AB (the "Reg AB Information") within ten (10) Local Business Days of receipt of a written
+request for such Reg AB Information by RFC or RAMP (the "Response Period"), so long as RFC or RAMP has reasonably
+determined, in good faith, that such information is required under Regulation AB; provided, however that if Party
+A in good faith determines that it is unable to provide the Reg AB Information within the Response Period, then,
+subject to the Rating Agency Condition, (i) Party A shall cause a Reg AB Approved Entity (as defined below) to
+replace Party A as party to this Confirmation on terms substantially similar to this Confirmation prior to the
+expiration of the Response Period, and (ii) such Reg AB Approved Entity shall provide the Reg AB Information
+prior to the expiration of the Response Period. "Reg AB Approved Entity" means any entity that (i) has the
+ability to provide the Reg AB Information and (ii) meets or exceeds the Approved Rating Thresholds. If RFC or
+RAMP request (in writing) the Reg AB Information from Party A, then Party B shall cause RFC or RAMP to promptly
+(and in any event within three (3) Local Business Days of the date of the request for the Reg AB Information)
+provide Party A with a written explanation of how the significance percentage was calculated.
+
+(c) Party A (or, if applicable, the Reg AB Approved Entity) shall indemnify and hold harmless the RFC, RAMP,
+their respective directors or officers and any person controlling the RFC or RAMP, from and against any and all
+losses, claims, damages and liabilities caused by (i) any untrue statement or alleged untrue statement of a
+material fact contained in any information that Party A or such Reg AB Approved Entity, as applicable, provides
+to RFC or RAMP pursuant to this Paragraph 18(c) (the "Party A Information") or caused by any omission or alleged
+omission to state in the Party A Information a material fact required to be stated therein or necessary to make
+the statements therein, in light of the circumstances under which they were made, not misleading; or (ii) any
+failure by Party A to deliver any information or other material when and as required under this Section 18.
+
+19. BANKRUPTCY.
+
+Each party hereto acknowledges that:
+
+ (a) This Confirmation, including any Credit Support Document, is a "master netting agreement" as
+defined in the U.S. Bankruptcy Code (the "Code"), and a "netting contract" as defined in the netting provisions
+of the Federal Deposit Insurance Corporation Improvement Act of 1991 ("FDICIA"), and this Confirmation, including
+any Credit Support Document, and the Transaction hereby is of a type set forth in Section 561(a)(1)-(5) of the
+Code;
+
+ (b) Party A is a "master netting agreement participant," a "financial institution," a "financial
+participant," a "forward contract merchant" and a "swap participant" as defined in the Code, and a "financial
+institution" as defined in the netting provisions of FDICIA;
+
+ (c) The remedies provided herein, and in any Credit Support Document, are the remedies referred to
+in Section 561(a), Sections 362(b)(6), (7), (17) and (27), and Section 362(o) of the Code, and in Section
+11(e)(8)(A) and (C) of the Federal Deposit Insurance Act;
+
+ (d) All transfers of cash, securities or other property under or in connection with this
+Confirmation, any Credit Support Document or the Transaction hereby are "margin payments," "settlement payments"
+and "transfers" under Sections 546(e), (f), (g) or (j), and under Section 548(d)(2) of the Code; and
+
+ (e) Each obligation under this Confirmation, any Credit Support Document or the Transaction hereby
+is an obligation to make a "margin payment," "settlement payment" and "payment" within the meaning of Sections
+362, 560 and 561 of the Code.
+
+ [remainder of page intentionally left blank]
+
+Please confirm that the foregoing correctly sets forth the terms and conditions of our agreement by returning
+within three (3) Business Days via telecopier an executed copy of this Confirmation to the attention of Global
+Derivative Operations (fax no. (+1) 866 255 1444). Failure to respond within such period shall not affect the
+validity or enforceability of this Transaction.
+
+Yours sincerely,
+
+Bank of America, N.A.
+
+By:_________________________________________
+ Name:
+ Title:
+
+Confirmed as of the date above:
+
+RAMP Series 2006-NC1 Trust
+
+By: U.S. Bank National Association not in its individual capacity
+but solely in its capacity as Trustee for the benefit of RAMP 2006-NC1 Trust
+
+By:__________________________________________
+ Name:
+ Title:
+
+ EXHIBIT I TO THE CONFIRMATION
+ OUR REF. NO. 4444298
+
+----------------------------------------------------------- ---------------------------
+ For the Calculation Periods Notional Amount
+----------------------------------------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ From and including*: To but excluding*: in USD:
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ The Effective Date February 25, 2006 533,500,000.00
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ February 25, 2006 March 25, 2006 533,500,000.00
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ March 25, 2006 April 25, 2006 533,500,000.00
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ April 25, 2006 May 25, 2006 533,500,000.00
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ May 25, 2006 June 25, 2006 526,507,562.80
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ June 25, 2006 July 25, 2006 516,830,428.64
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ July 25, 2006 August 25, 2006 505,664,026.55
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ August 25, 2006 September 25, 2006 493,046,594.78
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ September 25, 2006 October 25, 2006 479,034,814.81
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ October 25, 2006 November 25, 2006 463,727,666.56
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ November 25, 2006 December 25, 2006 447,496,204.99
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ December 25, 2006 January 25, 2007 431,068,478.69
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ January 25, 2007 February 25, 2007 415,250,113.11
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ February 25, 2007 March 25, 2007 400,018,306.89
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ March 25, 2007 April 25, 2007 385,351,117.85
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ April 25, 2007 May 25, 2007 371,227,430.42
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ May 25, 2007 June 25, 2007 357,626,924.37
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ June 25, 2007 July 25, 2007 344,530,044.67
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ July 25, 2007 August 25, 2007 331,901,334.98
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ August 25, 2007 September 25, 2007 319,741,267.19
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ September 25, 2007 October 25, 2007 307,984,958.10
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ October 25, 2007 November 25, 2007 292,441,484.04
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ November 25, 2007 December 25, 2007 272,814,359.71
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ December 25, 2007 January 25, 2008 254,660,611.56
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ January 25, 2008 February 25, 2008 237,850,832.87
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ February 25, 2008 March 25, 2008 222,296,590.87
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ March 25, 2008 April 25, 2008 210,088,566.45
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ April 25, 2008 May 25, 2008 201,272,542.14
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ May 25, 2008 June 25, 2008 192,840,380.25
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ June 25, 2008 July 25, 2008 184,783,270.83
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ July 25, 2008 August 25, 2008 177,079,806.18
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ August 25, 2008 September 25, 2008 169,709,893.66
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ September 25, 2008 October 25, 2008 162,658,699.31
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ October 25, 2008 November 25, 2008 155,912,022.53
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ November 25, 2008 December 25, 2008 149,455,898.15
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ December 25, 2008 January 25, 2009 143,278,509.68
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ January 25, 2009 February 25, 2009 137,367,521.52
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ February 25, 2009 March 25, 2009 131,710,387.07
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ March 25, 2009 April 25, 2009 126,295,867.99
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ April 25, 2009 May 25, 2009 121,113,234.10
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ May 25, 2009 June 25, 2009 116,152,284.66
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ June 25, 2009 July 25, 2009 111,403,323.99
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ July 25, 2009 August 25, 2009 106,857,135.54
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ August 25, 2009 September 25, 2009 102,504,503.91
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ September 25, 2009 October 25, 2009 98,336,913.73
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ October 25, 2009 November 25, 2009 94,346,233.05
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ November 25, 2009 December 25, 2009 90,524,707.02
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ December 25, 2009 January 25, 2010 86,864,906.50
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ January 25, 2010 February 25, 2010 83,359,771.09
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ February 25, 2010 March 25, 2010 80,002,509.83
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ March 25, 2010 April 25, 2010 76,786,660.71
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ April 25, 2010 May 25, 2010 73,706,051.32
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ May 25, 2010 June 25, 2010 70,754,785.70
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ June 25, 2010 July 25, 2010 67,927,231.69
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ July 25, 2010 August 25, 2010 65,218,008.97
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ August 25, 2010 September 25, 2010 62,621,977.58
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ September 25, 2010 October 25, 2010 60,134,226.95
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ October 25, 2010 November 25, 2010 57,750,065.53
+------------------------------- --------------------------- ---------------------------
+------------------------------- --------------------------- ---------------------------
+ November 25, 2010 The Termination Date 55,464,881.88
+------------------------------- --------------------------- ---------------------------
+
+*All dates listed above (with the exception of the Effective Date), are subject to adjustment in accordance with
+the Following Business Day Convention.

@@ -1,0 +1,621 @@
+EX-99.4
+ 5
+ efc6-2436_ex994.txt
+
+ EXHIBIT 99.4
+ ------------
+
+ The Swap Contract Administration Agreement
+
+ SWAP CONTRACT ADMINISTRATION AGREEMENT
+
+ This SWAP CONTRACT ADMINISTRATION AGREEMENT, dated as of
+September 29, 2006 (this "Agreement"), among THE BANK OF NEW YORK ("BNY"), as
+Swap Contract Administrator (in such capacity, the "Swap Contract
+Administrator") and not in its individual or corporate capacity but solely as
+Trustee under the Pooling and Servicing Agreement referred to below (in such
+capacity, the "Trustee"), and COUNTRYWIDE HOME LOANS, INC. ("CHL").
+
+ WHEREAS, CHL is a party to two interest rate swap
+agreements, one between CHL and Barclays Bank PLC ("Barclays" and, the "Class
+2-A-2A Swap Counterparty"), with a Trade Date of September 25, 2006 (the
+"Class 2-A-2A Swap Contract") and one between CHL and Lehman Brothers Special
+Financing Inc. ("Lehman" and, the "Certificate Swap Counterparty" and together
+with Barclays, the "Counterparties" and each a "Counterparty"), with a Trade
+Date of September 25, 2006 and a Global ID of 2676695 (the "Certificate Swap
+Contract" and together with the Class 2-A-2A Swap Contract, the "Swap
+Contracts" and each, a "Swap Contract"), copies of which are attached to this
+Agreement at Exhibit A;
+
+ WHEREAS, CWALT, Inc. is conveying certain mortgage loans and
+other related assets to a trust fund, CWALT, Inc. Alternative Loan Trust
+2006-OC8 (the "Trust Fund") created pursuant to a Pooling and Servicing
+Agreement, dated as of September 1, 2006 (the "Pooling and Servicing
+Agreement"), among CWALT, Inc., as depositor, CHL, as a seller, Park Granada
+LLC, as a seller, Park Monaco Inc., as a seller, Park Sienna LLC, as a seller,
+Countrywide Home Loans Servicing LP, as master servicer (the "Master
+Servicer"), and the Trustee;
+
+ WHEREAS, simultaneously with the execution and delivery of
+this Agreement, CHL is assigning all of its rights, and delegating all of its
+duties and obligations (other than, with respect to the Certificate Swap
+Contract, its right to receive any Additional Payment (as defined in the
+Certificate Swap Contract)), under the Swap Contracts to the Swap Contract
+Administrator, pursuant to an assignment agreement dated as of the date hereof
+(the "Class 2-A-2A Assignment Agreement") among CHL, as assignor, the Swap
+Contract Administrator, as assignee, and Barclays and the assignment
+agreement, dated as of the date hereof (the "Certificate Assignment Agreement"
+and together with the Class 2-A-2A Assignment Agreement, the "Assignment
+Agreements"), among CHL, as assignor, the Swap Contract Administrator, as
+assignee, and Lehman;
+
+ WHEREAS, the parties hereto desire that the Trustee make
+remittances to the Swap Contract Administrator as contemplated by and to the
+extent provided in the Pooling and Servicing Agreement to cover payments due
+to each Counterparty under the Swap Contracts;
+
+ WHEREAS, CHL desires that the Net Payments (as defined
+below) payable by the Certificate Swap Counterparty on the Certificate Swap
+Contract and the payments from the Class 2-A-2A Swap Counterparty pursuant to
+the Class 2-A-2A Swap Contract be distributed to the Trustee under the Pooling
+and Servicing Agreement to be applied for the purposes specified in the
+Pooling and Servicing Agreement and that the Excess Payments (as defined
+below) on the Certificate Swap Contract be distributed to CHL;
+
+ WHEREAS, CHL and the Trustee desire to appoint the Swap
+Contract Administrator, and the Swap Contract Administrator desires to accept
+such appointment, to distribute funds received under the Swap Contracts to the
+Trustee and to CHL as provided in this Agreement, and, in the case of a NIM
+Issuance, to distribute Excess Payments in accordance with the related Swap
+Excess Assignment Agreement (each as defined below).
+
+ NOW, THEREFORE, in consideration of the mutual covenants
+contained in this Agreement, and for other good and valuable consideration,
+the receipt and adequacy of which are hereby acknowledged, the parties agree
+as follows:
+
+1. Definitions. Capitalized terms used but not otherwise defined in this
+Agreement shall have the respective meanings assigned thereto in the Pooling
+and Servicing Agreement.
+
+ Benefited Certificates: With respect to the Class 2-A-2A
+Swap Contract, the Class 2-A-2A Certificates and with respect to the
+Certificate Swap Contract, the LIBOR Certificates.
+
+ Certificate Swap Administration Account: The separate
+account created and maintained by the Swap Contract Administrator pursuant to
+Section 3 with a depository institution in the name of the Swap Contract
+Administrator for the benefit of the Certificate Swap Counterparty, CHL and
+the Trustee on behalf of the Holders of the related Classes of Benefited
+Certificates and designated "The Bank of New York for Countrywide Home Loans,
+Inc., Lehman Brothers Special Financing Inc. and certain registered Holders of
+CWALT, Inc., Mortgage Pass-Through Certificates, Series 2006-OC8". Funds in
+the Certificate Swap Administration Account shall be held for Lehman Brothers
+Special Financing Inc., CHL and the Trustee on behalf of the Holders of the
+related Classes of Benefited Certificates as set forth in this Agreement.
+
+ Class 2-A-2A Swap Administration Account: The separate
+account created and maintained by the Swap Contract Administrator pursuant to
+Section 3 with a depository institution in the name of the Swap Contract
+Administrator for the benefit of the Class 2-A-2A Swap Counterparty and the
+Trustee on behalf of the Holders of the related Classes of Benefited
+Certificates and designated "The Bank of New York for Barclays Bank PLC and
+certain registered Holders of CWALT, Inc., Mortgage Pass-Through Certificates,
+Series 2006-OC8". Funds in the Class 2-A-2A Swap Administration Account shall
+be held for Barclays and the Trustee on behalf of the Holders of the related
+Classes of Benefited Certificates as set forth in this Agreement.
+
+ Excess Payment: For any Distribution Date on or prior to the
+Certificate Swap Contract Termination Date and as to which the Certificate
+Swap Contract or a replacement swap contract is in effect, an amount equal to
+the excess, if any, of (i) the Net Swap Payment (as defined in the Pooling and
+Servicing Agreement) received by the Swap Contract Administrator from the
+Certificate Swap Counterparty with respect to such Distribution Date over (ii)
+the Net Payment for such Distribution Date. For any Distribution Date on or
+prior to the Certificate Swap Contract Termination Date but only if neither
+the Certificate Swap Contract nor a replacement swap contract is in effect,
+zero. For any Distribution Date after the Certificate Swap
+
+Contract Termination Date, an amount equal to all remaining funds on deposit
+in the Certificate Swap Administration Account.
+
+ Indenture Trustee: With respect to a NIM Issuance (if any),
+the indenture trustee under the indenture pursuant to which the notes related
+to such NIM Issuance are issued.
+
+ ISDA Credit Support Annex: An ISDA Credit Support Annex
+negotiated and established as provided in Section 5.
+
+ Net Payment: With respect to any Distribution Date on or
+prior to the Certificate Swap Contract Termination Date, an amount equal to
+the sum of (i) any Current Interest and Interest Carry Forward Amounts in
+respect of the related classes of Benefited Certificates, (ii) any Net Rate
+Carryover in respect of the related classes of Benefited Certificates, (iii)
+any Unpaid Realized Loss Amounts in respect of the related classes of
+Benefited Certificates and (iv) any remaining Overcollateralization Deficiency
+Amount, in each case remaining unpaid following the distribution to the
+related classes of Benefited Certificates of Excess Cashflow pursuant to
+Section 4.02(c)(i) through (iv) of the Pooling and Servicing Agreement. With
+respect to any Distribution Date after the Certificate Swap Contract
+Termination Date, zero.
+
+ NIM Issuance: An issuance by a NIM Trust, on or after the
+date hereof, of asset-backed notes secured by the Class C Certificates and/or
+Class P Certificates.
+
+ NIM Trust: A Delaware statutory trust or other
+special-purpose entity that is the issuer of the securities issued in
+connection with a NIM Issuance (if any).
+
+ Responsible Officer: When used with respect to the Swap
+Contract Administrator, any Vice President, any Assistant Vice President, the
+Secretary, any Assistant Secretary, any Trust Officer or any other officer of
+the Swap Contract Administrator customarily performing functions similar to
+those performed by any of the above designated officers and also to whom, with
+respect to a particular matter, such matter is referred because of such
+officer's knowledge of and familiarity with the particular subject.
+
+ Swap Administration Account: The Certificate Swap
+Administration Account or the Class 2-A-2A Swap Administration Account, as
+applicable.
+
+ Swap Excess Assignment Agreement: With respect to a NIM
+Issuance (if any), an agreement executed on or after the date hereof by CHL,
+the related NIM Trust and the Swap Contract Administrator (in form and
+substance reasonably satisfactory to the Swap Contract Administrator),
+pursuant to which rights to receive certain portions of Excess Payments shall
+be assigned to such NIM Trust and pursuant to which the Swap Contract
+Administrator shall agree to distribute Excess Payments to the related
+Indenture Trustee and CHL (in accordance with the terms of such agreement).
+
+2. Appointment of Swap Contract Administrator.
+
+ CHL and the Trustee hereby appoint BNY to serve as Swap Contract
+Administrator pursuant to this Agreement and pursuant to the related Swap
+Excess Assignment Agreement (if any). The Swap Contract Administrator accepts
+such appointment and acknowledges the
+
+transfer and assignment to it of CHL's rights and obligations under each Swap
+Contract pursuant to the Assignment Agreements. The Swap Contract
+Administrator agrees to exercise the rights referred to above for the benefit
+of CHL, the Trustee and the Counterparties and to perform the duties set forth
+in this Agreement. In the event of a NIM Issuance, the Swap Contract
+Administrator further agrees to perform the duties set forth in the related
+Swap Excess Assignment Agreement for the benefit of CHL, the related NIM Trust
+and the related Indenture Trustee.
+
+3. Receipt of Funds; Swap Administration Accounts.
+
+ The Swap Contract Administrator hereby agrees to receive (i) on
+behalf of CHL and the Trustee, all amounts paid by the Certificate Swap
+Counterparty under the Certificate Swap Contract and all amounts paid by the
+Class 2-A-2A Swap Counterparty under the Class 2-A-2A Swap Contract and (ii)
+on behalf of the Class 2-A-2A Swap Counterparty and the Certificate Swap
+Counterparty, all amounts remitted by the Trustee pursuant to the Pooling and
+Servicing Agreement for payment to the respective Counterparty.
+
+ The Swap Contract Administrator shall establish and maintain a
+Certificate Swap Administration Account into which the Swap Contract
+Administrator shall deposit or cause to be deposited on the Business Day of
+receipt, (x) all amounts remitted by the Trustee for payment to the
+Certificate Swap Counterparty pursuant to the Certificate Swap Contract and
+(y) all amounts payable by the Certificate Swap Counterparty under the
+Certificate Swap Contract. All funds deposited in the Certificate Swap
+Administration Account shall be held for the benefit of the Certificate Swap
+Counterparty, CHL and the Trustee on behalf of the Holders of the related
+Classes of Benefited Certificates until withdrawn in accordance with Section
+4.
+
+ The Swap Contract Administrator shall establish and maintain a Class
+2-A-2A Swap Administration Account into which the Swap Contract Administrator
+shall deposit or cause to be deposited on the Business Day of receipt, (x) all
+amounts remitted by the Trustee for payment to the Class 2-A-2A Swap
+Counterparty pursuant to the Class 2-A-2A Swap Contract and (y) all amounts
+payable by the Class 2-A-2A Swap Counterparty under the Class 2-A-2A Swap
+Contract. All funds deposited in the Class 2-A-2A Swap Administration Account
+shall be held for the benefit of the Class 2-A-2A Swap Counterparty and the
+Trustee on behalf of the Holders of the related Class of Benefited
+Certificates until withdrawn in accordance with Section 4.
+
+ Each Swap Administration Account shall be an "Eligible Account" as
+defined in the Pooling and Servicing Agreement. Funds in the Swap
+Administration Accounts shall remain uninvested.
+
+ The Swap Contract Administrator shall give at least 30 days advance
+notice to the applicable Counterparty, CHL (in the case of the Certificate
+Swap Administration Account) and the Trustee of any proposed change of
+location of a Swap Administration Account prior to any change thereof.
+
+4. Calculations; Distribution of Payments; Delivery of Notices.
+
+ The Swap Contract Administrator hereby agrees to make payments based
+on the information provided by the Trustee and the Class 2-A-2A Swap
+Counterparty or the Certificate
+
+Swap Counterparty, as applicable, and the Swap Contract Administrator shall,
+absent manifest error, be entitled to rely on information provided by the
+Trustee, the Class 2-A-2A Swap Counterparty and the Certificate Swap
+Counterparty.
+
+ (i) On the Business Day of receipt of any payment from the Class
+2-A-2A Swap Counterparty, the Swap Contract Administrator shall withdraw the
+amount of such payment from the Class 2-A-2A Swap Administration Account and
+distribute such payment to the Trustee for deposit into the Class 2-A-2A Swap
+Account.
+
+ (ii) On the Business Day of receipt of any payment from the
+Certificate Swap Counterparty, the Swap Contract Administrator shall withdraw
+the amount of such payment from the Certificate Swap Administration Account
+and distribute such amount sequentially, as follows:
+
+ (a) first, to the Trustee for deposit into the Certificate Swap
+ Account, the applicable Net Payment; and
+
+ (b) second, to CHL, the applicable Excess Payment, in accordance
+ with the following wiring instructions:
+
+ Bank: Bank of New York
+ Account Name: Countrywide Home Loans
+ Account No: 8900038632
+ ABA No: 021000018
+ REF: CWALT 2006-OC8 X'S SwapPyt
+
+ On the Business Day of receipt of any payment from the Trustee for
+payment to a Counterparty, the Swap Contract Administrator shall withdraw the
+amount of such payment from the applicable Swap Administration Account and
+distribute such amounts to the respective Counterparty in accordance with the
+wiring instructions specified in the Assignment Agreements.
+
+ The Swap Contract Administrator shall prepare and deliver any notices
+required to be delivered under the Swap Contracts.
+
+ On the Business Day of receipt of any notices, information or reports
+received by the Swap Contract Administrator from a Counterparty, the Swap
+Contract Administrator shall provide the same to the Trustee, including
+without limitation information regarding any Net Swap Payment or Swap
+Termination Payment that will be payable by the Swap Contract Administrator to
+such Counterparty with respect to the next Distribution Date.
+
+5. Control Rights; Credit Support Annex; Replacement Swap Contract.
+
+ The Trustee shall have the right to direct the Swap Contract
+Administrator with respect to the exercise of any right under a Swap Contract
+(such as the right to designate an Early Termination Date following an Event
+of Default (each such term as defined in each Swap Contract).
+
+ Upon the Swap Contract Administrator obtaining actual knowledge of
+the rating of a Counterparty falling below the Approved Rating Thresholds (as
+defined in the applicable Swap Contract) or upon the Swap Contract
+Administrator obtaining actual knowledge of a Ratings Event (as defined in the
+applicable Swap Contract), the Swap Contract Administrator, at the direction
+of the Trustee, shall demand payment of the Delivery Amount from the
+applicable Counterparty, (as defined in the applicable ISDA Credit Support
+Annex) on each Valuation Date (as defined in the applicable ISDA Credit
+Support Annex) and perform its other obligations in accordance with the
+applicable ISDA Credit Support Annex or (ii) take such other action required
+under the applicable Swap Contract. If a Delivery Amount is demanded, the Swap
+Contract Administrator shall establish an account to hold cash or other
+eligible investments pledged under such ISDA Credit Support Annex. Any such
+account shall be an "Eligible Account" as defined in the Pooling and Servicing
+Agreement. Any cash or other eligible investments pledged under an ISDA Credit
+Support Annex shall not be part of any Swap Administration Account unless they
+are applied in accordance with such ISDA Credit Support Annex to make a
+payment due to the Swap Contract Administrator pursuant to the applicable Swap
+Contract.
+
+ In the event that the Certificate Swap Contract is terminated, CHL
+shall assist the Swap Contract Administrator in procuring a replacement swap
+contract with terms approximating those of the original Certificate Swap
+Contract.
+
+ In the event that a Swap Contract is terminated and the Swap Contract
+Administrator enters into a replacement swap contract procured by CHL or the
+applicable Counterparty, the Swap Contract Administrator shall continue to
+serve as Swap Contract Administrator pursuant to the terms hereof. Any Swap
+Termination Payment received from the applicable Swap Counterparty shall be
+used to pay any upfront amount required under any replacement swap contract,
+and any excess shall be distributed to CHL. In the event that a replacement
+swap contract cannot be procured, any Swap Termination Payment received from
+the applicable Swap Counterparty in respect of the termination of the original
+Swap Contract shall be held in the related Swap Administration Account and
+distributed as provided in Section 4. In the event that a replacement swap is
+procured and the replacement counterparty pays an upfront amount to the Swap
+Contract Administrator in connection with the execution of such replacement
+swap contract, the Swap Contract Administrator shall use such upfront amount
+to pay any remaining Swap Termination Payment due to the applicable Swap
+Counterparty in respect of the original Swap Contract, and shall remit to the
+Trustee the remaining portion of such upfront amount (based on information
+provided by the Trustee) to be included in (i) with respect to the Certificate
+Swap Contract, Interest Funds for Loan Group 1 and Loan Group 2 and the
+Principal Distribution Amount for Loan Group 1 and Loan Group 2 for the
+following Distribution Date to the extent that a Swap Termination Payment was
+payable to the Certificate Swap Counterparty in connection with the
+termination of the original Certificate Swap Contract and Interest Funds for
+Loan Group 1 and Loan Group 2 and the Principal Distribution Amount for Loan
+Group 1 and Loan Group 2 for one or more preceding Distribution Dates were
+used to cover such Swap Termination Payment or (ii) with respect to the Class
+2-A-2A Swap Contract, Interest Funds for Loan Group 2 and the Principal
+Distribution Amount for Loan Group 2 for the following Distribution Date to
+the extent that a Swap Termination Payment was payable to the Class 2-A-2A
+Swap Counterparty in connection with the termination of the original Class
+2-A-2A Swap Contract and Interest Funds for Loan Group 2 and the Principal
+Distribution Amount for Loan
+
+Group 2 for one or more preceding Distribution Dates were used to cover such
+Swap Termination Payment, as applicable.
+
+ Any upfront amount paid by a replacement counterparty that is not (x)
+used by the Swap Contract Administrator to cover any remaining Swap
+Termination Payment payable to the applicable Swap Counterparty in respect of
+the original Swap Contract or (y) remitted by the Swap Contract Administrator
+to the Trustee to be included in the Interest Funds and Principal Distribution
+Amount as described in the preceding paragraph, shall be distributed to CHL.
+
+6. Representations and Warranties of the Swap Contract Administrator.
+The Swap Contract Administrator represents and warrants as follows:
+
+ (a) BNY is duly organized and validly existing as a banking
+ corporation under the laws of the State of New York and has
+ all requisite power and authority to execute and deliver
+ this Agreement and to perform its obligations as Swap
+ Contract Administrator under this Agreement.
+
+ (b) The execution, delivery and performance of this Agreement by
+ BNY as Swap Contract Administrator has been duly authorized
+ by BNY.
+
+ (c) This Agreement has been duly executed and delivered by BNY
+ as Swap Contract Administrator and is enforceable against
+ BNY in accordance with its terms, except as enforceability
+ may be affected by bankruptcy, insolvency, fraudulent
+ conveyance, reorganization, moratorium and other similar
+ laws relating to or affecting creditors' rights generally,
+ general equitable principles (whether considered in a
+ proceeding in equity or at law).
+
+7. Certain Matters Concerning the Swap Contract Administrator.
+
+ (a) The Swap Contract Administrator shall undertake to perform
+ such duties and only such duties as are specifically set
+ forth in this Agreement.
+
+ (b) No provision of this Agreement shall be construed to relieve
+ the Swap Contract Administrator from liability for its own
+ grossly negligent action, its own grossly negligent failure
+ to act or its own willful misconduct, its grossly negligent
+ failure to perform its obligations in compliance with this
+ Agreement, or any liability that would be imposed by reason
+ of its willful misfeasance or bad faith; provided that:
+
+ (i) the duties and obligations of the Swap Contract
+ Administrator shall be determined solely by the
+ express provisions of this Agreement, the Swap
+ Contract Administrator shall not be liable,
+ individually or as Swap Contract Administrator, except
+ for the performance of such duties and obligations as
+ are specifically set forth in this Agreement, no
+ implied covenants or obligations shall be read into
+ this Agreement against the Swap Contract Administrator
+ and the Swap Contract Administrator may conclusively
+ rely, as to the truth of the statements and the
+ correctness of the opinions expressed therein, upon
+ any certificates or opinions furnished to the Swap
+ Contract Administrator and conforming to the
+ requirements of
+
+ this Agreement that it reasonably believed in good
+ faith to be genuine and to have been duly executed by
+ the proper authorities respecting any matters arising
+ hereunder;
+
+ (ii) the Swap Contract Administrator shall not be liable,
+ individually or as Swap Contract Administrator, for an
+ error of judgment made in good faith by a Responsible
+ Officer or Responsible Officers of the Swap Contract
+ Administrator, unless the Swap Contract Administrator
+ was grossly negligent or acted in bad faith or with
+ willful misfeasance; and
+
+ (iii) the Swap Contract Administrator shall not be liable,
+ individually or as Swap Contract Administrator, with
+ respect to any action taken, suffered or omitted to be
+ taken by it in good faith in accordance with the
+ direction of the Controlling Party, or exercising any
+ power conferred upon the Swap Contract Administrator
+ under this Agreement.
+
+ (c) Except as otherwise provided in Sections 7(a) and 7(b):
+
+ (i) the Swap Contract Administrator may request and rely
+ upon and shall be protected in acting or refraining
+ from acting upon any resolution, officer's
+ certificate, certificate of auditors or any other
+ certificate, statement, instrument, opinion, report,
+ notice, request, consent, order, appraisal, bond or
+ other paper or document believed by it to be genuine
+ and to have been signed or presented by the proper
+ party or parties;
+
+ (ii) the Swap Contract Administrator may consult with
+ counsel and any opinion of counsel shall be full and
+ complete authorization and protection in respect of
+ any action taken or suffered or omitted by it
+ hereunder in good faith and in accordance with such
+ opinion of counsel;
+
+ (iii) the Swap Contract Administrator shall not be liable,
+ individually or as Swap Contract Administrator, for
+ any action taken, suffered or omitted by it in good
+ faith and believed by it to be authorized or within
+ the discretion or rights or powers conferred upon it
+ by this Agreement;
+
+ (iv) the Swap Contract Administrator shall not be bound to
+ make any investigation into the facts or matters
+ stated in any resolution, certificate, statement,
+ instrument, opinion, report, notice, request, consent,
+ order, approval, bond or other paper or document,
+ unless requested in writing so to do by the Class
+ 2-A-2A Swap Counterparty, the Certificate Swap
+ Counterparty, CHL or the Trustee; provided, however,
+ that if the payment within a reasonable time to the
+ Swap Contract Administrator of the costs, expenses or
+ liabilities likely to be incurred by it in the making
+ of such investigation is, in the opinion of the Swap
+ Contract Administrator not reasonably assured to the
+ Swap Contract Administrator by the Class 2-A-2A Swap
+ Counterparty, the Certificate Swap Counterparty, CHL
+ and/or the Trustee, the Swap Contract Administrator
+ may require reasonable
+
+ indemnity against such expense, or liability from the
+ Class 2-A-2A Swap Counterparty, the Certificate Swap
+ Counterparty, CHL and/or the Trustee, as the case may
+ be, as a condition to taking any such action; and
+
+ (v) the Swap Contract Administrator shall not be required
+ to expend its own funds or otherwise incur any
+ financial liability in the performance of any of its
+ duties hereunder if it shall have reasonable grounds
+ for believing that repayment of such funds or adequate
+ indemnity against such liability is not assured to it.
+
+ (d) CHL covenants and agrees to pay or reimburse the Swap
+ Contract Administrator, upon its request, for all reasonable
+ expenses and disbursements incurred or made by the Swap
+ Contract Administrator in accordance with any of the
+ provisions of this Agreement except any such expense or
+ disbursement as may arise from its negligence, bad faith or
+ willful misconduct. The Swap Contract Administrator and any
+ director, officer, employee or agent of the Swap Contract
+ Administrator shall be indemnified by CHL and held harmless
+ against any loss, liability or expense incurred in
+ connection with any legal action relating to this Agreement,
+ the Swap Contracts or the Assignment Agreements, or in
+ connection with the performance of any of the Swap Contract
+ Administrator's duties hereunder or thereunder, other than
+ any loss, liability or expense incurred by reason of willful
+ misfeasance, bad faith or negligence in the performance of
+ any of the Swap Contract Administrator's duties hereunder or
+ thereunder. Such indemnity shall survive the termination of
+ this Agreement or the resignation of the Swap Contract
+ Administrator hereunder and under the Swap Contracts and the
+ Assignment Agreements. Notwithstanding anything to the
+ contrary in this Section 7(a), any expenses, disbursements,
+ losses or liabilities of the Swap Contract Administrator or
+ any director, officer, employee or agent thereof that are
+ made or incurred as a result of any request, order or
+ direction of any NIM Insurer or any of the
+ Certificateholders made to the Trustee as contemplated by
+ Section 8.02(ix) of the Pooling and Servicing Agreement and
+ consequently made to the Swap Contract Administrator by the
+ Trustee shall be payable by the Trustee out of the security
+ or indemnity provided by any NIM Insurer or such
+ Certificateholders pursuant to Section 8.02(ix) of the
+ Pooling and Servicing Agreement.
+
+ (e) Upon the resignation of BNY as Trustee in accordance with
+ the Pooling and Servicing Agreement, (i) BNY shall resign
+ and be discharged from its duties as Swap Contract
+ Administrator hereunder and (ii) the Person that succeeds
+ BNY as Trustee shall be appointed as successor Swap Contract
+ Administrator hereunder upon its execution, acknowledgement
+ and delivery of the instrument accepting such appointment in
+ accordance with Section 8.08 of the Pooling and Servicing
+ Agreement, whereupon the duties of the Swap Contract
+ Administrator hereunder shall pass to such Person. In
+ addition, upon the appointment of a successor Trustee under
+ the Pooling and Servicing Agreement, such successor Trustee
+ shall succeed to the rights of the Trustee hereunder.
+
+ (f) In the event of a NIM Issuance, nothing in this Section 7
+ shall limit or otherwise modify or affect the rights, duties
+ or obligations of the Swap Contract Administrator under the
+ related Swap Excess Assignment Agreement.
+
+8. Miscellaneous.
+
+ (a) This Agreement shall be governed by and construed in
+ accordance with the laws of the State of New York.
+
+ (b) Each of BNY and CHL hereby irrevocably waives, to the
+ fullest extent permitted by applicable law, any and all
+ right to trial by jury in any legal proceedings arising out
+ of or relating to this Agreement.
+
+ (c) The Class 2-A-2A Swap Counterparty and the Certificate Swap
+ Counterparty shall be express third party beneficiaries of
+ this Agreement for the purpose of enforcing the provisions
+ hereof to the extent of each Counterparty's rights
+ explicitly specified herein as if a party hereto.
+
+ (d) This Agreement shall terminate upon the termination of the
+ Swap Contracts and the disbursement by the Swap Contract
+ Administrator of all funds received under the Swap Contracts
+ to CHL and the Trustee on behalf of the Holders of the
+ Benefited Certificates.
+
+ (e) This Agreement may be amended, supplemented or modified in
+ writing by the parties hereto, provided that no amendment
+ shall adversely affect in any material respect the
+ Counterparty without the prior written consent of the
+ Counterparty, which consent shall not be unreasonably
+ withheld.
+
+ (f) This Agreement may be executed by one or more of the parties
+ to this Agreement on any number of separate counterparts
+ (including by facsimile transmission), and all such
+ counterparts taken together shall be deemed to constitute
+ one and the same instrument.
+
+ (g) Any provision of this Agreement which is prohibited or
+ unenforceable in any jurisdiction shall, as to such
+ jurisdiction, be ineffective to the extent of such
+ prohibition or unenforceability without invalidating the
+ remaining provisions hereof, and any such prohibition or
+ unenforceability in any jurisdiction shall not invalidate or
+ render unenforceable such provision in any other
+ jurisdiction.
+
+ (h) The representations and warranties made by the parties to
+ this Agreement shall survive the execution and delivery of
+ this Agreement. No act or omission on the part of any party
+ hereto shall constitute a waiver of any such representation
+ or warranty.
+
+ (i) The article and section headings in this Agreement are for
+ convenience of reference only, and shall not limit or
+ otherwise affect the meaning of this Agreement.
+
+ IN WITNESS WHEREOF, the parties have caused this Agreement
+to be duly executed and delivered as of the day and year first above written.
+
+ THE BANK OF NEW YORK,
+ as Swap Contract Administrator
+
+ By: /s/ Michael Cherchio
+ ------------------------------------------
+ Name: Michael Cherchio
+ Title: Assistant Treasurer
+
+ THE BANK OF NEW YORK,
+ not in its individual or corporate capacity
+ but solely as Trustee
+
+ By: /s/ Michael Cherchio
+ ------------------------------------------
+ Name: Michael Cherchio
+ Title: Assistant Treasurer
+
+ COUNTRYWIDE HOME LOANS, INC.
+
+ By: /s/ Michael Schloessmann
+ ----------------------------------------------
+ Name: Michael Schloessmann
+ Title: Senior Vice President
+
+ EXHIBIT A
+
+ SWAP CONTRACTS
+
+ A-1

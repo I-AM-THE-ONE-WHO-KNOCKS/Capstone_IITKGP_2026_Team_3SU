@@ -1,0 +1,406 @@
+EX-10.15
+ 9
+ g67224ex10-15.txt
+ SWAP TRANSACTION
+
+ 1
+
+Exhibit 10.15
+
+ SWAP TRANSACTION
+
+Date: 15 September 1999
+
+ The purpose of this letter agreement is to confirm the terms and
+conditions of the Swap Transaction entered into between:
+
+ MORGAN GUARANTY TRUST COMPANY OF NEW YORK
+
+ and
+
+ SUMMIT PROPERTIES PARTNERSHIP LP
+
+ On the Trade Date and identified by the Morgan Deal Number specified
+below (the "Swap Transaction"). This letter agreement constitutes a Confirmation
+as referred to in the agreement specified below.
+
+ The definitions and provisions contained in the 1991 IDA Definitions as
+supplemented by the 1998 IDA Supplement (as published by the International Swaps
+and Derivates Association, Inc.) are incorporated into this Confirmation. In the
+event of any inconsistency between those definitions and provisions and this
+Confirmation, this Confirmation will govern.
+
+ This Confirmation represents an amendment and restatement of any prior
+documents or other confirming communications between the parties with respect to
+the Swap Transaction.
+
+ Morgan Guaranty Trust Company of New York is, together with other
+United Kingdom listed institutions, subject to the Bank of England's Code of
+Conduct. In connection therewith, this and certain future wholesale money market
+transactions will be outside the Financial Services Act, but you will have the
+benefit of the Code of Conduct.
+
+1. If MORGAN GUARANTY TRUST COMPANY OF NEW YORK ("Morgan") and SUMMIT PROPERTIES
+PARTNERSHIP LP (the "Counterparty") are parties to a Master Agreement, Interest
+Rate and Currency Exchange Agreement or other similar Agreement (a "Swap
+Agreement"), this Confirmation supplements, forms a part of, and is subject to
+such Swap Agreement, this Confirmation supplements, forms a part of, and is
+subject to the Swap Agreement most recently executed between the parties.
+
+ If Morgan and the Counterpart are not yet parties to a Swap Agreement,
+the parties agree that this Transaction will be documented under a master
+agreement to be entered into on the basis of the printed form of Master
+Agreement (Multicurrency-Cross Border) published by the International Swaps and
+Derivatives Association, Inc., together with such changes as shall be agreed
+between the parties (the "Master Agreement"). Upon execution and delivery by the
+parties of the Master Agreement, this Confirmation shall supplement, form a part
+of, and be subject to such Master Agreement. Until the parties execute and
+deliver the Master Agreement,
+
+ 2
+
+this Confirmation shall supplement, form a part of, and be subject to the
+printed form of Master Agreement published by IDA, as if the parties had
+executed that agreement (but without any Schedule thereto) on the Trade Date of
+this Transaction.
+
+The parties hereby agree that if they have not executed a Master Agreement,
+together with a Credit Support Annex, within 60 Calendar days from the Trade
+Date, Morgan shall have the right (in its sole discretion) to terminate this
+transaction on any Business Day (such day being referred to herein as an
+"Elective Termination Date"). Any such termination shall be referred to as an
+"Effective termination" and the Counterpart will be deemed the Affected Party.
+
+2. The terms of the particular Swap Transaction to which this Confirmation
+relates are as follows:
+
+Morgan Deal Number 406306
+
+Trade Date: 14 September 1999
+
+Effective Date: 16 September 1999, subject to adjustment in
+ accordance with the Modified Following
+ Business Day convention
+
+Termination Date: 15 December 2003, subject to adjustment in
+ accordance with the Modified Following
+ Business Day Convention
+
+FIXED AMOUNTS:
+
+Fixed Rate Payer: Morgan
+
+Notional Amount: 30,000,000.00 USD
+
+Fixed Rate Payer Payment Dates: Each 15 December, 15 June starting with 15
+ December 1999 up to, and including, the
+ Termination Date, subject to adjustment in
+ accordance with the Following Business Day
+ Convention and there will be no adjustment
+ to the Calculation Period.
+
+Fixed Rate: 6.625000 percent
+
+Fixed Rate Day Count Fraction: 30/360
+
+Initial Calculation Period: From 16 September 1999 to 15 December 1999,
+ subject to adjustment in accordance with the
+ Following Business Day Convention.
+
+FLOATING AMOUNT:
+
+ 2
+ 3
+
+Floating Rate Payer: Counterparty
+
+Notional Amount: 30,000,000.00 USD
+
+Floating Rate Payer Payment Dates: Each 15 December, 15 March, 15 June, 15
+ September starting with 15 December 1999 up
+ to, and including, the Termination Date,
+ subject to adjustment in accordance with the
+ Modified Following Business Day Convention
+ and there will be an adjustment to the
+ Calculation Period.
+
+Floating Rate Option: USD-LIBOR-BBA
+
+Designated Maturity: 3 Month
+
+Spread: Plus 0.110000 percent
+
+Floating Rate Day Count Fraction: Actual/360
+
+Reset Dates: The first day of each Calculation Period.
+
+Compounding: Inapplicable
+
+Initial Calculation Period: From 16 September 1999 to 15 December 1999,
+ subject to adjustment in accordance with the
+ Modified Following Business Day Convention.
+
+Floating Rate for Initial
+calculation Period: 5.510000 percent (Excluding Spread where
+ applicable)
+
+Payment Business Day Locations for
+Counterpart: London, New York
+
+Payment Business Day Locations
+for Morgan: London, New York
+
+Payments will be: Net
+
+ADDITIONAL COMMENTS:
+
+ CREDIT ENHANCEMENT. This Confirmation is supplemented by the standard
+form of IDA Credit Support Annex which is hereby incorporated by reference
+together with the following additional provisions pursuant to which the
+Counterpart is required to deliver Eligible Collateral to Morgan. This Section
+will be superceded by any Credit Support Annex executed between Morgan and the
+counterparty after the Trade Date hereof. The provisions contained in this
+Section of this Confirmation are deemed to be Paragraph 13 - "Elections and
+Variables" for the
+
+ 3
+ 4
+
+purposes of the Credit Support Annex and together with the Credit Support Annex
+shall constitute a Credit Support Document with respect to the counterparty.
+Capitalized terms used herein and not otherwise defined shall have the meanings
+given terms in the Credit Support Annex.
+
+Eligible Collateral: Cash, Treasury Bills, Treasury Notes,
+ Treasury Bonds and Agency Securities (as
+ defined below) in accordance with the
+ valuation percentages set forth in Exhibit
+ A.
+
+Custodian: Any mutually agreed upon Bank (as defined in
+ the Federal Deposit Insurance Act) having a
+ Long-Term Debt Rating of BBB+/Baa1 or
+ higher.
+
+ "Long Term Debt Rating" means, with respect
+ to a party, the rating assigned by either
+ S&P or Moody's to the long term, unsecured
+ and unsubordinated indebtedness of such
+ party. "Moody's" means Moody's Investors
+ Service, Inc. "S&P" means Standard & Poor's
+ Ratings Group.
+
+Use of Posted Collateral: The provisions of Paragraph 6(c) shall
+ apply.
+
+Substitution of Collateral: Consent required.
+
+Valuation Date: Any Local Business Day.
+
+Minimum Transfer Amount: $100,000, provided, however, that if any
+ Event of Default has occurred and is
+ containing with respect to the Counterpart,
+ the Minimum Transfer Amount shall be $0.
+
+Delivery Amount: Shall have the meaning specified in
+ Paragraph 3(a).
+
+Return Amount: Shall have meaning specified in Paragraph
+ 3(b).
+
+Credit Support Amount: Shall have the meaning specified in
+ Paragraph 3(c).
+
+ 4
+ 5
+
+Rounding: Delivery and Return Amounts will be rounded
+ to the nearest $10,000.
+
+ "THRESHOLD" means, with respect to the Counterpart the amounts
+determined on the basis of the lower of the Long Term Debt Ratings by Moody's or
+S&P as set forth in the following table, provided, however, that if (i) the
+Counterpart has not Long Term Debt Rating, or (ii) an Event of Default has
+occurred and is continuing with respect to the Counterparty, the Threshold shall
+be U.S. $0:
+
+ LONG TERM DEBT RATING THRESHOLD
+ (S&P/MOODY'S) COUNTERPARTY
+ ------------- ------------
+ AAA/Aaa $25
+ AA+/Aa1 $25
+ AA/Aa2 $25
+ AA-/Aa3 $25
+ A+/A1 $25
+ A/A2 $25
+ A-/A3 $25
+ BBB+/Baa1 $10
+ BBB/Baa2 $7
+ BBB/Baa3 $5
+ Below BB-/Baa3 $0
+
+ i. The cross default provision of section 5(a)(vi) of
+ the Agreement shall apply to both parties with
+ regarding to any obligation in respect of borrowed
+ money and commitments to lend in an aggregate amount
+ of not less than the threshold amount which for
+ Morgan shall be 3 percent of the total stockholders
+ equity of Morgan and which for the counterparty shall
+ be an amount reflective of its credit as agreed to by
+ the parties.
+
+ ii. The credit event upon a merger provisions of section
+ 5(b)(iv) of the Agreement shall not apply to Morgan.
+
+ 5
+ 6
+
+3. Account Details
+
+PAYMENTS TO MORGAN:
+
+Account for payments in USD Morgan Guaranty Trust Co. of New York
+ ABA 021 000 238
+
+Favour: Morgan Guaranty Trust Co. of New York
+ London Branch
+
+Account No.: 670 07 054
+
+Reference: Swaps Group
+
+PAYMENTS TO COUNTERPARTY:
+
+Account for payments in USD:
+
+Favour: SUMMIT PROPERTIES PARTNERSHIP LP
+
+ABA/Bank No.:
+
+Account No.:
+
+Reference:
+
+4. Offices
+
+ (a) The Office of Morgan for the Swap transaction is LONDON: and
+
+ (b) The Office of the Counterparty for the Swap Transaction is
+ CHARLOTTE
+
+ All enquiries regarding payments and/or rate resettings only should be
+ sent to:
+
+ Morgan Guaranty Trust Company of New York
+ 60 Victoria Embankment
+ London, EC4Y OJP
+
+ Attention: Derivatives Processing Center
+ Telephone: 011 44 171 325 3783
+ Facsimile: 011 44 171 325 7400
+ Telex : 896631 MGT G
+ Cable: Morgan Bank
+
+ Please quote the Morgan Deal Number indicated above.
+
+ All enquiries regarding confirmations should be sent to:
+
+ 6
+ 7
+
+ Morgan Guaranty Trust Company of New York
+ 60 Wall Street
+ New York, New York 10260
+
+ Attention: Vola Grilli
+
+ Telephone: 1-212-648-6712
+ Facsimile: 1-212-648-5117
+
+ Please quote the Morgan Deal Number indicated above.
+
+ JP MORGAN SECURITIES INCORPORATED is acting solely as agent for Morgan
+and will have no obligations under this Swap Transaction.
+
+ Each party represents that (i) it is entering into the transaction
+evidenced hereby as principal (and not as agent or in any other capacity); (ii)
+the other party is not acting as a fiduciary for it; (iii) it is not relying
+upon any representations except hose expressly set forth in the Agreement or t
+his confirmation; (iv) it has consulted with its own legal, regulatory, tax,
+business, investment, financial, and accounting advisors to the extent is has
+deemed necessary, and it has made its own investment, hedging, and trading
+decisions based upon its own judgment and upon any advice from such advisors as
+it has deemed necessary and not upon any view expressed by the other party; and
+(v) it is entering into this transaction with a full understanding of the terms,
+conditions and risks thereof and it is capable of and willing to assume those
+risks.
+
+ Please confirm that the foregoing correctly sets forth the terms of our
+agreement by executing a copy of this Confirmation and returning it to us or by
+sending to us a letter, telex or facsimile substantially similar to this letter,
+which letter, telex or facsimile sets forth the material terms of the Swap
+Transaction to which this Confirmation relates and indicates agreement to those
+terms. When referring to this Confirmation, please indicate: Morgan Deal Number:
+406306.
+
+ Yours sincerely,
+
+ JP MORGAN SECURITIES
+ INCORPORATED, as Agent for and
+ signing on behalf of:
+
+ MORGAN GUARANTY TRUST
+ COMPANY OF NEW YORK
+
+ By: /s/ Jason P. Manske
+ -------------------------------------
+ Name: Jason P. Manske
+ Title: Vice President
+
+ 7
+ 8
+
+Confirmed as of the
+date first above written:
+
+SUMMIT PROPERTIES PARTNERSHIP LP
+
+By: /s/ Gregg Adzema
+ ------------------------------------
+ Name: Gregg Adzema
+ Title: Vice President - Finance
+
+ 8
+ 9
+
+ EXHIBIT A
+
+ COLLATERAL VALUATION PERCENTAGES
+
+ "VALUATION
+ PERCENTAGE"
+
+ (A) Cash 100%
+
+ (B) negotiable debt obligations issued by the U.S. Treasury 98%
+ Department having an original maturity at issuance of not more
+ than one year ("Treasury Bills")
+
+ (C) negotiable debt obligations issued by the U.S. Treasury 95%
+ Department having an original maturity at issuance of more
+ than one year but not more than ten years ("Treasury Notes")
+
+ (D) negotiable debt obligations issued by the U.S. Treasury 95%
+ Department having an original maturity at issuance of more
+ than ten years ("Treasury Bonds")
+
+ (E) Other: Agency Securities 95%
+
+ As used herein, "Agency Securities" means negotiable debt obligations
+which are fully guaranteed as to both principal and interest by the Federal
+National Mortgage Association, the Government National Mortgage Corporation or
+the Federal Home Loan Mortgage Corporation, but excluding (i) interest only and
+principal only securities and (ii) Collateralized Mortgage Obligations, Real
+Estate Mortgage Investment Conduits and similar derivative securities.
+
+ 9

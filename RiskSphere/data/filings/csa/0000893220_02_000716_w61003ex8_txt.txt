@@ -1,0 +1,1228 @@
+EX-8
+ 7
+ w61003ex8.txt
+ CONFIRMATION/DATES DEC. 8, 2006 THRU DEC. 21, 2006
+
+ EXHIBIT 8
+
+ [LEHMAN BROTHERS LOGO]
+
+ May 21, 2002
+
+ TRANSACTION
+
+SmithKline Beecham Corporation
+One Franklin Plaza
+200 N. 16th Street
+Philadelphia, PA 19102
+Attn: Donald Parman, fax 215-751-5349
+CC: James Wheatcroft, fax 44-20-8047-7898
+--------------------------------------------------------------------------------
+Global Deal Id: 245458
+Effort Id: 234120
+
+Dear Sir or Madam:
+
+The purpose of this letter agreement (this "Confirmation") is to confirm the
+terms and conditions of the Transaction entered into between Lehman Brothers
+Finance S.A. ("Party A") and SmithKline Beecham Corporation ("Party B") on the
+Trade Date specified below (the "Transaction"). This letter agreement
+constitutes a "Confirmation" as referred to in the ISDA Master Agreement
+specified below.
+
+This Confirmation supplements, forms part of, and is subject to, the ISDA Master
+Agreement dated as of May 21, 2002, as amended and supplemented from time to
+time (the "Agreement"), between Party A and Party B. All provisions contained in
+the Agreement shall govern this Confirmation except as expressly modified below.
+
+The definitions and provisions contained in the 1996 ISDA Equity Derivatives
+Definitions (the "Equity Definitions") and the 2000 ISDA Definitions (the "Swap
+Definitions", and together with the Equity Definitions, the "Definitions"), in
+each case as published by the International Swaps and Derivatives Association,
+Inc. ("ISDA") are incorporated into this Confirmation. References herein to
+"Transaction" shall be deemed references to "Swap Transaction" for purposes of
+the Swap Definitions and "Share Swap Transaction" for purposes of the Equity
+Definitions. In the event of any inconsistency between the Equity Definitions
+and the Swap Definitions, the Equity Definitions will govern. In the event of
+any inconsistency between either set of Definitions and this Confirmation, this
+Confirmation will govern.
+
+Party A and Party B each represents that entering into the Transaction is within
+its capacity, is duly authorized and does not violate any laws of its
+jurisdiction of organization or residence or the terms of any agreement to which
+it is a party. Party A and Party B each represents that (a) it is not relying on
+the other party in connection with its decision to enter into this Transaction,
+and neither party is acting as an advisor to or fiduciary of the other party in
+connection with this Transaction regardless of whether the other party provides
+it with market information or its views; (b) it understands the risks of the
+Transaction and any legal, regulatory, tax, accounting and economic consequences
+resulting therefrom; and (c) it has determined based upon its own judgment and
+upon any advice received from its own professional advisors as it has deemed
+necessary to consult that entering into the Transaction is appropriate for such
+party in light of its financial capabilities and objectives. Party A and Party B
+each represents that upon due execution and delivery of this Confirmation, it
+will constitute a legally valid and binding obligation, enforceable against it
+in accordance with its terms, subject to applicable principles of bankruptcy and
+creditors' rights generally and to equitable principles of general application.
+
+The terms of the Transaction to which this Confirmation relates are as follows:
+
+Agent: Lehman Brothers Inc. ("LBI") is acting as
+ agent on behalf of Party A and Party B for
+ this Transaction. LBI has no obligations, by
+ guarantee, endorsement or otherwise, with
+ respect to the performance of this
+ Transaction by either party.
+
+ LEHMAN BROTHERS FINANCE S.A.
+ TALSTRASSE 82 - P.O. BOX 2828 - CH-8021 ZURICH - SWITZERLAND
+ TELEPHONE (41-1)287 88 42 - TELEFAX (41-1)287 88 25 - TELEX 812096 LBFS CH
+
+(a) GENERAL TERMS
+
+ Trade Date: May 21, 2002
+
+ Effective Date: Three (3) Exchange Business Days
+ next following the Trade Date
+
+ Valuation Date: Each Averaging Date
+
+ Valuation Time: 4:00 p.m. (local time in New York)
+
+ Shares: The common stock of Quest
+ Diagnostics, Inc. (the "Issuer")
+ Ticker: DGX
+
+ Exchange: New York Stock Exchange
+
+ Related Exchange(s): Any exchange on which options or
+ futures on the Shares are traded.
+
+ Number of Shares: 1,000,000
+
+ Initial Price: USD84.55
+
+ Depreciation Floor: USD84.55
+
+ Appreciation Cap: USD109.15
+
+ Final Price: To the extent Physical Settlement
+ is applicable, Final Price shall be
+ the closing price per Share quoted
+ by the Exchange on each Averaging
+ Date at the Valuation Time, without
+ regard to extended or after hours
+ trading. To the extent Cash
+ Settlement is applicable, Final
+ Price shall be the arithmetic
+ average of the Relevant Prices, and
+ "Relevant Price" shall be the
+ closing price per Share quoted by
+ the Exchange on each Averaging Date
+ at the Valuation Time, without
+ regard to extended or after hours
+ trading.
+
+ Averaging Dates: December 8, 2006, December 11, 2006,
+ December 12, 2006, December 13,
+ 2006, December 14, 2006,
+ December 15, 2006, December 18,
+ 2006, December 19, 2006,
+ December 20, 2006 and
+ December 21, 2006
+
+ Averaging Date Market Disruption: Modified Postponement
+
+ Delivery Adjustment: (a) If the Final Price is less than
+ or equal to the Depreciation Floor,
+ then the Delivery Adjustment equals
+ 1.0
+
+ (b) If the Final Price is greater
+ than the Depreciation Floor, but
+ less than or equal to the
+ Appreciation Cap, then the Delivery
+ Adjustment equals a fraction, the
+ numerator of which is the
+ Depreciation Floor and the
+ denominator of which is the Final
+ Price
+
+ (c) If the Final Price is greater
+ than the Appreciation Cap, then the
+ Delivery Adjustment equals 1.0 minus
+ ((the Appreciation Cap minus the
+ Depreciation Floor) divided by the
+ Final Price).
+
+(b) PARTY A'S PAYMENT OF PURCHASE PRICE
+
+ Purchase Price: USD84,550,000.00
+
+ Risk ID: N02050812 / Effort ID: 234120 / Global Deal ID: 245458
+
+ Page 2 of 11
+
+ Payment Date: To the extent Physical Settlement is
+ applicable, Party A will pay the
+ Purchase Price divided by the Number
+ of Averaging Dates to Party B on
+ each Delivery Date. To the extent
+ Cash Settlement is applicable, Party
+ A will pay the Purchase Price to
+ Party B on the Cash Settlement
+ Payment Date.
+
+(c) PARTY B'S DELIVERY OBLIGATIONS
+
+ Settlement Amount: On each Averaging Date, the relevant
+ Delivery Adjustment multiplied by
+ the relevant Number of Shares for
+ the relevant Averaging Date,
+ provided that if such calculation
+ results in any fractional Share, the
+ Settlement Amount shall be rounded
+ up to the next whole number of
+ Shares and Party A shall pay the
+ cash value thereof to Party B.
+
+ Cash Settlement Amount: The Delivery Adjustment multiplied
+ by the Number of Shares multiplied
+ by the Final Price
+
+ Delivery Date: Three (3) Exchange Business Days
+ next following each Averaging Date
+
+ Settlement Option: Party B may elect Physical or Cash
+ Settlement (with respect to all or a
+ portion of the Number of Shares) by
+ delivering a written notice of such
+ election to Party A on or prior to
+ the Election Date. If Party B elects
+ Physical or Cash Settlement with
+ respect to a portion of the Number
+ of Shares, (i) Party B will be
+ deemed to elect the other Settlement
+ Option with respect to the remainder
+ of the Number of Shares, (ii) the
+ Number of Shares for each settlement
+ option shall be deemed to be the
+ portion with respect to which such
+ election was made and (iii) the
+ Purchase Price shall be allocated
+ between the settlement options
+ proportionally to the Number of
+ Shares for each settlement option.
+ If Party B does not provide such
+ notice, Physical Settlement shall
+ apply if the Posted Collateral on
+ the Election Date consists of a
+ number of freely-tradable Shares
+ equal to the Number of Shares in
+ book entry form; otherwise, Cash
+ Settlement shall apply.
+
+ Election Date: The fifth (5th) Exchange Business
+ Day prior to the first Averaging
+ Date
+
+ Physical Settlement: To the extent Physical Settlement
+ applies, the Transaction shall
+ expire in equal proportions of
+ Shares on each Averaging Date, with
+ the Delivery Date for each such
+ Averaging Date occurring three (3)
+ Exchange Business Days after each
+ such Averaging Date. On each such
+ Delivery Date Party B will deliver a
+ number of freely-tradable Shares in
+ book-entry form equal to the
+ Settlement Amount to Party A, free
+ and clear of any Encumbrances or
+ Transfer Restrictions. Party B
+ acknowledges and understands that
+ any such delivery may require Party
+ B to provide an opinion of counsel
+ and other documentation in a form
+ acceptable to the Issuer and the
+ transfer agent for the Shares to
+ ensure the conversion of such Shares
+ into book-entry form in advance of
+ any delivery.
+
+ Cash Settlement: To the extent Cash Settlement
+ applies, Party B will pay the Cash
+ Settlement Amount to Party A on the
+ Cash Settlement Payment Date.
+
+ Risk ID: N02050812 / Effort ID: 234120 / Global Deal ID: 245458
+
+ Page 3 of 11
+
+ Cash Settlement Payment Date: Three Exchange Business Days next
+ following the final Averaging Date
+
+ Collateral: If Party B elects to Transfer (and
+ Transfers) the Independent Amount to
+ Party A (which Independent Amount
+ shall constitute Eligible Collateral
+ with respect to Party B), Party A's
+ Exposure under this Transaction
+ shall be zero and Party B's Credit
+ Support Amount (as Secured Party)
+ shall be calculated without
+ subtracting the Independent Amounts
+ referred to in clause (iii) of the
+ definition thereof; otherwise, Party
+ A's Exposure under this Transaction
+ shall be calculated as provided in
+ the Credit Support Annex. At any
+ time Party B may revoke such
+ election by Transferring to Party A
+ under the Credit Support Annex the
+ then Delivery Amount (determined
+ ignoring the Independent Amount and
+ with Party A's Exposure under this
+ Transaction being calculated as
+ provided in the Credit Support
+ Annex), in which case Party A shall
+ promptly Transfer the Independent
+ Amount to Party B. Party B
+ acknowledges and understands that
+ any revocation of its election to
+ Transfer the Independent Amount may
+ result in such Shares becoming
+ subject to transfer restrictions
+ under the Securities Act of 1933, as
+ amended (the "1933 Act"), if such
+ Shares have previously been
+ converted into book-entry form.
+ "Independent Amount" means, with
+ respect to Party B for this
+ Transaction, a number of Shares free
+ and clear of any Encumbrances or
+ Transfer Restrictions (other than
+ transfer restrictions arising under
+ the 1933 Act and other than under
+ the Stockholders Agreement, dated as
+ of August 16, 1999, between
+ SmithKline Beecham PLC and the
+ Issuer (the "Stockholders
+ Agreement")) equal to the Number of
+ Shares. The Independent Amount shall
+ include all Distributions with
+ respect to all Posted Collateral
+ (other than cash dividends which are
+ not Extraordinary Dividends).
+ Notwithstanding any provision to the
+ contrary in the Credit Support
+ Annex, the Independent Amount shall
+ be delivered by Party B without
+ regard to the Minimum Transfer
+ Amount and, except as provided
+ above, Party A shall have no
+ obligation to return the Independent
+ Amount to Party B until all of Party
+ B's obligations with respect to this
+ Transaction have been satisfied.
+ Party B agrees to provide three
+ stock powers executed in blank with
+ respect to each certificate
+ evidencing any Shares delivered as
+ Posted Collateral and to update such
+ stock powers as necessary.
+
+ Party A may use any Shares
+ constituting Posted Collateral and
+ the Independent Amount pursuant to
+ Section 6(c) of the Credit Support
+ Annex only upon Party B's consent.
+ Party A agrees that if it uses any
+ Shares pursuant to Section 6(c) of
+ the Credit Support Annex, it will
+ provide additional collateral to
+ Party B, the terms of which shall be
+ consistent with market practice for
+ stock loans of U.S. liquid equity
+ securities unless the parties agree
+ otherwise. Party B acknowledges and
+ understands that any such use may
+ require Party B to provide an
+ opinion of counsel and other
+ documentation in a form acceptable
+ to the Issuer and the transfer agent
+ for the Shares to ensure the
+ conversion of such Shares into
+ book-entry form prior to such use.
+ Party A agrees to cooperate in good
+ faith with respect to the conversion
+ of Shares into book-entry form.
+ Party A agrees that LBI will hold
+ any Shares constituting Posted
+ Collateral in connection with this
+ Transaction, that Party B is the
+ beneficial owner of such Shares, and
+ that, if such Shares are being held
+ by LBI in book-entry form and are
+ not being used by Party A pursuant
+ to Section 6(c) of the Credit
+ Support Annex, LBI will
+
+ Risk ID: N02050812 / Effort ID: 234120 / Global Deal ID: 245458
+
+ Page 4 of 11
+
+ comply with its obligations under
+ applicable law and regulation
+ (including the rules of the New York
+ Stock Exchange and the National
+ Association of Securities Dealers)
+ to forward to the beneficial owner
+ all proxy and other materials
+ properly furnished to it by the
+ Issuer, in accordance with its
+ standard business practices.
+
+ADJUSTMENTS:
+
+ Method of Adjustment: Calculation Agent Adjustment
+
+ Extraordinary Dividends: For purposes of this
+ Transaction and the
+ definition of a "Potential
+ Adjustment Event" (without
+ limiting the generality of
+ clause (iii) of Section
+ 9.1(e) of the Equity
+ Definitions), an
+ "Extraordinary Dividend"
+ shall mean, as calculated by
+ the Calculation Agent, (i)
+ any cash dividend or
+ distribution declared with
+ respect to the Shares at a
+ time when the Issuer has not
+ previously declared or paid
+ dividends or distributions
+ on such Shares for the prior
+ four quarterly periods; (ii)
+ any increase or decrease by
+ more than 5% (determined on
+ an annualized basis) in the
+ then current quarterly
+ dividend or (iii) any other
+ "special" cash or non-cash
+ dividend on or distribution
+ with respect to the Shares
+ which is, by its terms or
+ declared intent, declared
+ and paid outside the normal
+ operations or normal
+ dividend procedures of the
+ Issuer.
+
+EXTRAORDINARY EVENTS:
+
+ Consequences of Merger Events:
+
+ (a) Share-for-Share: Alternative Obligation
+
+ (b) Share-for-Other: Cancellation and Payment
+
+ (c) Share-for-Combined: Alternative Obligation with
+ respect to the New Shares
+ and Cancellation and Payment
+ with respect to the Other
+ Consideration
+
+Alternative Obligation: The applicable definition of
+ "Alternative Obligation" in
+ subsections 9.3(b)and (d) of
+ the Equity Definitions shall
+ be amended by adding the
+ following at the end of each
+ such subsection:
+
+ "including any one or more
+ of the Initial Price, Final
+ Price, Relevant Price,
+ Number of Shares,
+ Appreciation Cap,
+ Depreciation Floor, Delivery
+ Adjustment and any other
+ variable relevant to the
+ exercise, settlement or
+ payment terms of each such
+ Transaction. In addition,
+ the Calculation Agent will
+ determine if the change in
+ the volatility of the New
+ Shares (as compared with the
+ Shares) affects the
+ theoretical value of any
+ such Transaction, and if so,
+ shall in a commercially
+ reasonable manner make an
+ adjustment to the
+ Appreciation Cap to reflect
+ such change in theoretical
+ value. Any adjustment made
+ pursuant to this paragraph
+ will be effective as of the
+ date determined by the
+ Calculation Agent on or
+ following the Merger Date.
+
+NATIONALIZATION, INSOLVENCY, HEDGING Cancellation and Payment
+DISRUPTION EVENT, BORROW LOSS OR
+ INCREASE IN BORROW COSTS:
+
+Definitions: The definition of "Merger
+ Event" in Section 9.2(a) of
+ the Equity Definitions shall
+ be amended by deleting
+ subsection 9.2(a)(iii) in
+ its entirety and replacing
+ it with the following:
+
+ "(iii) other takeover offer
+ for the Shares that results
+ in a transfer of or an
+ irrevocable commitment to
+ transfer 25% or more of all
+ the
+
+ Risk ID: N02050812 / Effort ID: 234120 / Global Deal ID: 245458
+
+ Page 5 of 11
+
+ outstanding Shares (other
+ than the Shares owned or
+ controlled by the offeror)"
+
+ For purposes of the
+ definition of "Cancellation
+ and Payment" in Sections
+ 9.3(c)(ii), 9.3(d)(ii) and
+ 9.6, this Transaction shall
+ be deemed to be a Share
+ Option Transaction. The
+ amount payable upon
+ Cancellation and Payment
+ will be the amount agreed
+ upon promptly by the parties
+ after the Merger Date or the
+ date of the occurrence of
+ the Nationalization,
+ Insolvency, Hedging
+ Disruption Event, Increase
+ in Borrow Costs or Borrow
+ Loss, as the case may be. In
+ the absence of such
+ agreement, the amount
+ payable will be determined
+ by the Calculation Agent in
+ a commercially reasonable
+ manner (without the
+ requirement of soliciting
+ dealer quotations) as the
+ fair value of the
+ Transaction with terms that
+ would preserve the economic
+ equivalent of any payment or
+ delivery (assuming
+ satisfaction of each
+ applicable condition
+ precedent) by the parties in
+ respect of the relevant
+ Transaction that would have
+ been required after that
+ date but for the occurrence
+ of the Nationalization,
+ Insolvency, Hedging
+ Disruption Event, Increase
+ in Borrow Costs, Borrow Loss
+ or Merger Event, as
+ applicable. The Calculation
+ Agent will determine the
+ amount payable on the basis
+ of the factors identified in
+ subparagraphs (i), (ii) and
+ (iii) in Section 9.7(b) and
+ such other factors as it
+ deems appropriate in a
+ commercially reasonable
+ manner.
+
+Additional Extraordinary Events: "Hedging Disruption Event"
+ means that the Shares cease
+ to be listed on or quoted by
+ the Exchange, the Nasdaq
+ National Market System or
+ the American Stock Exchange
+ for any reason (other than a
+ Merger Event).
+
+ If an Increase in Borrow
+ Costs occurs, then by the
+ Valuation Time on the day
+ such event occurs, Party B
+ shall:
+
+ (a) (i) permit Party A to
+ use the Shares posted as
+ Posted Collateral and the
+ Independent Amount pursuant
+ to Section 6(c) of the
+ Credit Support Annex and
+ (ii) ensure that such Shares
+ are freely tradable and have
+ been converted into
+ book-entry form; or
+
+ (b) agree to adjustments to
+ the terms of this
+ Transaction to reflect the
+ Total Borrow Cost, which
+ adjustments will be
+ determined by the
+ Calculation Agent in a
+ commercially reasonable
+ manner; or
+
+ (c) agree to pay the Total
+ Borrow Cost.
+
+ If Party B does not agree to
+ (a), (b) or (c) by the
+ Valuation Time on the day on
+ which the Increase in Borrow
+ Costs occurs, Cancellation
+ and Payment shall
+ immediately be applicable.
+
+ If a Borrow Loss occurs, the
+ Calculation Agent shall
+ notify Party A and Party B
+ and Cancellation and Payment
+ shall immediately be
+ applicable unless, by the
+ later of the Valuation Time
+ on the day on which the
+ Borrow Loss occurs or three
+ hours after such
+ notification, (i) Party B
+ permits Party A to use the
+ Shares posted as Posted
+ Collateral and the
+ Independent Amount pursuant
+ to Section 6(c) of the
+ Credit Support Annex and
+ (ii) such Shares are freely
+ tradable and have been
+ converted into book-entry
+ form.
+
+ Risk ID: N02050812 / Effort ID: 234120 / Global Deal ID: 245458
+
+ Page 6 of 11
+
+ Party B acknowledges and
+ understands that any use of
+ the Shares posted as Posted
+ Collateral pursuant to
+ Section 6(c) of the Credit
+ Support Annex may require
+ Party B to provide an
+ opinion of counsel and other
+ documentation in a form
+ acceptable to the Issuer and
+ the transfer agent for the
+ Shares to ensure the
+ conversion of such Shares
+ into book-entry form prior
+ to the occurrence of the
+ Borrow Loss or the Increase
+ in Borrow Costs, as
+ applicable.
+
+ If Party A is permitted to
+ use the Shares posted as
+ Posted Collateral pursuant
+ to Section 6(c) of the
+ Credit Support Annex, Party
+ A shall adjust the terms of
+ this Transaction in a
+ commercially reasonable
+ manner to reflect its lower
+ borrowing costs for the
+ period that Party A is
+ permitted to use the Shares
+ (which borrowing costs will
+ reflect the interest rate
+ earned by Party A on any
+ collateral posted to Party B
+ in connection with such
+ use).
+
+ The Calculation Agent shall
+ notify both parties as soon
+ as the average rebate earned
+ by Party A on collateral
+ posted for any Shares
+ borrowed in connection with
+ this Transaction is at or
+ below 1% (determined on an
+ annualized basis).
+
+ "Borrow Cost" means the
+ difference between the
+ actual rebate earned by
+ Party A on collateral posted
+ for any Shares borrowed in
+ connection with this
+ Transaction and the General
+ Collateral Rate, multiplied
+ by the closing price per
+ Share quoted by the Exchange
+ at the Valuation Time on the
+ preceding Exchange Business
+ Day, multiplied by the Hedge
+ Delta on the preceding
+ Exchange Business Day,
+ calculated on an actual/360
+ basis, as determined by the
+ Calculation Agent in a
+ commercially reasonable
+ manner.
+
+ "Borrow Loss" means that it
+ becomes impracticable for
+ Party A to borrow Shares
+ equal to its desired Hedge
+ Delta on any day, as
+ determined by the
+ Calculation Agent in a
+ commercially reasonable
+ manner.
+
+ "General Collateral Rate"
+ means the general collateral
+ rebate rate earned by market
+ participants in general on
+ collateral posted for U.S.
+ liquid equity securities as
+ determined by the
+ Calculation Agent in a
+ commercially reasonable
+ manner. The Calculation
+ Agent will provide evidence
+ of the General Collateral
+ Rate to either party upon
+ request.
+
+ "Hedge Delta" means the
+ number of Shares borrowed by
+ Party A in connection with
+ this Transaction, as
+ determined by the
+ Calculation Agent in a
+ commercially reasonable
+ manner.
+
+ "Increase in Borrow Costs"
+ means that the actual rebate
+ earned by Party A on
+ collateral posted for any
+ Shares borrowed in
+ connection with this
+ Transaction is at or below
+ zero for ten (10) days or
+ longer, as determined by the
+ Calculation Agent in a
+ commercially reasonable
+ manner.
+
+ "Total Borrow Cost" means
+ the Borrow Cost for every
+ day from the day on which
+ the Increase in Borrow Costs
+ occurs until the final
+ Delivery Date, the Cash
+ Settlement Payment Date or
+ the effective date for any
+ Elected Termination, as
+ applicable.
+
+ Risk ID: N02050812 / Effort ID: 234120 / Global Deal ID: 245458
+
+ Page 7 of 11
+
+Bankruptcy Code: Without limiting any other
+ protections under the
+ Bankruptcy Code (Title 11 of
+ the United States Code) (the
+ "Bankruptcy Code"), the
+ Parties hereto intend for:
+
+ (a) This Transaction and the
+ Agreement to be a "swap
+ agreement" as defined in the
+ Bankruptcy Code, and the
+ parties hereto to be
+ entitled to the protections
+ afforded by, among other
+ Sections, Section 560 of the
+ Bankruptcy Code.
+
+ (b) A party's right to
+ liquidate this Transaction
+ and to exercise any other
+ remedies upon the occurrence
+ of any Event of Default or
+ Termination Event under the
+ Agreement or this
+ Transaction to constitute a
+ "contractual right" as
+ described in Section 560 of
+ the Bankruptcy Code.
+
+ (c) Any cash, securities or
+ other property provided as
+ performance assurance,
+ credit support or collateral
+ with respect to this
+ Transaction or the Agreement
+ to constitute "transfers"
+ under a "swap agreement" as
+ defined in the Bankruptcy
+ Code.
+
+ (d) All payments for, under
+ or in connection with this
+ Transaction or the
+ Agreement, all payments for
+ any securities or other
+ assets and the transfer of
+ such securities or other
+ assets to constitute
+ "transfers" under a "swap
+ agreement" as defined in the
+ Bankruptcy Code.
+
+Party B Representations: In addition to the
+ representations set forth in
+ the Agreement, Party B
+ further represents that;
+
+ (a) Neither Party A nor any
+ of its affiliates has
+ advised Party B with respect
+ to any legal, regulatory,
+ tax, accounting or economic
+ consequences arising from
+ this Transaction, and
+ neither Party A nor any of
+ its affiliates is acting as
+ agent (other than LBI as
+ dual agent if specified
+ above), or advisor for Party
+ B in connection with this
+ Transaction. (b) Party B is
+ not in possession of any
+ material non-public
+ information concerning the
+ business, operations or
+ prospects of the Issuer and
+ was not in possession of any
+ such information at the time
+ of placing any order with
+ respect to the Transaction.
+
+ "Material" information for
+ these purposes is any
+ information to which an
+ investor would reasonably
+ attach importance in
+ reaching a decision to buy,
+ sell or hold any securities
+ of the Issuer(s).
+
+ (c) Party B is the legal and
+ beneficial owner of the
+ Shares, free and clear of
+ any Encumbrances or any
+ Transfer Restrictions (other
+ than transfer restrictions
+ arising under the 1933 Act
+ and other than under the
+ Stockholder's Agreement),
+ and, upon the transfer of
+ the Shares to Party A in
+ settlement of this
+ Transaction (except to the
+ extent that Party B elects
+ the Cash Settlement option,
+ if any) Party A will acquire
+ good and marketable title
+ and will be the beneficial
+ owner of the Shares, free
+ and clear of any
+ Encumbrances or any Transfer
+ Restrictions.
+
+ "Encumbrance" means any
+ pledge, hypothecation,
+ assignment, encumbrance,
+ charge, claim, security
+ interest, option,
+ preference,
+
+ Risk ID: N02050812 / Effort ID: 234120 / Global Deal ID: 245458
+
+ Page 8 of 11
+
+ priority or other
+ preferential arrangement of
+ any kind or nature
+ whatsoever, or other charge,
+ claim or other encumbrance
+ (other than an Encumbrance
+ routinely imposed on all
+ securities in the relevant
+ Clearance System).
+
+ "Transfer Restriction"
+ means, with respect to any
+ security or other property,
+ any condition to or
+ restriction on the ability
+ of the holder thereof to
+ sell, assign or otherwise
+ transfer such security or
+ other property or to enforce
+ the provisions thereof or of
+ any document related
+ thereto, whether set forth
+ in such security or other
+ property itself or in any
+ document related thereto,
+ including, without
+ limitation, (i) any
+ requirement that any sale,
+ assignment or other transfer
+ or enforcement of such
+ security or other property
+ be consented to or approved
+ by any person, including,
+ without limitation, the
+ Issuer or any other obligor
+ thereon, (ii) any
+ limitations on the type or
+ status, financial or
+ otherwise, of any purchaser,
+ pledgee, assignee or
+ transferee of such security
+ or other property, (iii) any
+ requirement for the delivery
+ of any certificate, consent,
+ agreement, opinion of
+ counsel, notice or any other
+ document of any person to be
+ given to the Issuer, any
+ other obligor on or any
+ registrar or transfer agent
+ for, such security or other
+ property, and (iv) any
+ registration or
+ qualification requirement or
+ prospectus delivery
+ requirement for such
+ security or other property
+ pursuant to any federal,
+ state or foreign securities
+ law (including, without
+ limitation, any such
+ requirement arising as a
+ result of Rule 144 or Rule
+ 145 under the 1933 Act).
+
+ (d) As of the date hereof
+ (without giving effect to
+ the transactions
+ contemplated hereby) Party B
+ is the beneficial owner (as
+ defined in Rule 13d-3 under
+ the Securities Exchange Act
+ of 1934 (the "1934 Act")) of
+ 22,128,672 Shares, which
+ constitutes approximately
+ 22.8% of the outstanding
+ Shares of the Issuer (as at
+ April 30, 2002). Party B is
+ currently, and in the past
+ has been, in compliance with
+ any applicable reporting and
+ other obligations under
+ Section 13 and Section 16 of
+ the 1934 Act. Party B shall
+ comply with all applicable
+ reporting and other
+ requirements of Section 13
+ and Section 16 of the 1934
+ Act (and the rules and
+ regulations promulgated
+ thereunder) relating to this
+ Transaction. Party B will
+ provide Party A with a draft
+ of any amendments to its
+ Schedule 13D which relate to
+ the Transaction and will
+ give Party A a reasonable
+ opportunity to comment on
+ the draft. Party B shall
+ promptly file all amendments
+ to its Schedule 13D in a
+ form reasonably acceptable
+ to Party A.
+
+ (e) Party B's entry into
+ this Transaction, any sale
+ of Shares hereunder, the
+ pledge of any Eligible
+ Collateral hereunder and
+ Party A's exercise of all
+ rights and remedies
+ hereunder with respect to
+ such Eligible Collateral
+ complies with and is not in
+ any way limited by (i) any
+ trading or "blackout"
+ policies of the Issuer or
+ (ii) any other conditions or
+ restrictions imposed by the
+ Issuer on the sale,
+ transfer, loan, pledge,
+ disposition or other use by
+ its employees of any
+ Eligible Collateral or
+ Shares.
+
+ (f) Party B acquired the
+ Shares and paid for the
+ Shares in full more than one
+ year prior to the Trade
+ Date. Party B did not
+ acquire the
+
+ Risk ID: N02050812 / Effort ID: 234120 / Global Deal ID: 245458
+
+ Page 9 of 11
+
+ Shares in contemplation of,
+ or in a transaction that was
+ contingent upon, entering
+ into this Transaction.
+
+ (g) Neither Party B nor any
+ person who would be
+ considered to be the same
+ "person" (as such term is
+ used in Rule 144(a)(2) under
+ the 1933 Act, has sold any
+ Shares or hedged (through
+ swaps, options, short sales
+ or otherwise) any long
+ position in the Shares
+ during the preceding three
+ (3) months prior to the
+ Trade Date. For purposes of
+ this paragraph, "Shares"
+ shall be deemed to include
+ securities convertible into
+ or exchangeable or
+ exercisable for Shares and
+ any other security or
+ instrument that would be
+ subject to aggregation under
+ paragraphs (a)(2) and (e) of
+ Rule 144 under the 1933 Act.
+
+ (h) Party B has not made,
+ and will not make, any
+ payment in connection with
+ the offering or sale of the
+ Shares to any person other
+ than Party A.
+
+ (i) Party B has not
+ solicited or arranged for
+ the solicitation of, and
+ will not solicit or arrange
+ for the solicitation of,
+ orders to buy Shares in
+ anticipation of or in
+ connection with any proposed
+ sale of the Shares.
+
+ (j) The Shares constituting
+ Posted Collateral are
+ currently eligible for
+ public resale by Party B
+ pursuant to Rule 144 under
+ the 1933 Act. Party B
+ acknowledges and agrees that
+ (i) the entering into of
+ this Confirmation will
+ constitute a sale for
+ purposes of Rule 144, (ii)
+ Party B has not taken and
+ will not take any action
+ that would cause the sale
+ made pursuant to this
+ Confirmation to fail to meet
+ all applicable requirements
+ of Rule 144, including
+ without limitation, the
+ volume limitations of Rule
+ 144(e).
+
+MUTUAL REPRESENTATION: Party A and Party B each
+ represent that the Number of
+ Shares will not exceed the
+ greater of (i) 1% of the
+ outstanding Shares as shown
+ by the most recent report or
+ statement published by the
+ Issuer, or (ii) the average
+ reported weekly volume of
+ trading in the Shares during
+ the four calendar weeks
+ preceding the Trade Date.
+
+COVENANTS: (a) Party B will transmit
+ three signed copies of a
+ Form 144 for filing with the
+ Securities and Exchange
+ Commission (the "SEC"), the
+ Exchange and the Issuer
+ concurrently with the
+ execution of this
+ Confirmation.
+
+ (b) Party B will send to
+ Party A via facsimile a copy
+ of each Form 144 and each
+ filing under Section 13 or
+ 16 of the Exchange Act, if
+ any, relating to this
+ Transaction concurrently
+ with filing or transmission
+ for filing, as the case may
+ be, of such form to or with
+ the SEC.
+
+ (c) Party A covenants that,
+ through its affiliate Lehman
+ Brothers Inc., it will
+ introduce into the public
+ market a number of Shares
+ equal to the Number of
+ Shares in a manner
+ consistent with the
+ manner-of-sale conditions
+ described in 144(f) and (g)
+ under the 1933 Act.
+
+ Risk ID: N02050812 / Effort ID: 234120 / Global Deal ID: 245458
+
+ Page 10 of 11
+
+ (d) Each party acknowledges
+ and agrees that upon
+ execution of this
+ Confirmation, this
+ Confirmation shall
+ constitute a "binding
+ commitment" within the
+ meaning of the interpretive
+ letter from the SEC to
+ Goldman, Sachs & Co. dated
+ December 20, 1999.
+
+Elected Termination: Party B may elect to
+ terminate this Transaction
+ upon mutually agreed upon
+ terms. The Calculation Agent
+ will calculate any amounts
+ owing upon such early
+ termination in a
+ commercially reasonable
+ manner. Upon request, the
+ Calculation Agent will
+ provide the assumptions it
+ used to calculate any
+ amounts owing.
+
+Payments on Early Termination: Party A and Party B agree
+ that for this Transaction,
+ for purposes of Section 6(e)
+ of the Agreement, Loss and
+ the Second Method will
+ apply.
+
+Additional Provision: Party B hereby identifies
+ the Shares initially pledged
+ as Posted Collateral under
+ this Transaction as a
+ position with respect to
+ personal property that is an
+ offsetting position with
+ respect to Party B's rights
+ and obligations hereunder
+ and that is part of a
+ "straddle" with such rights
+ and obligations within the
+ meaning of section 1092 of
+ the Internal Revenue Code of
+ 1986, as amended, and Party
+ A acknowledges that Party B
+ has identified the Shares
+ for that purpose.
+
+Calculation Agent: Lehman Brothers Inc., whose
+ adjustments, determinations
+ and calculations shall be
+ made in a commercially
+ reasonable manner.
+
+THIS TRANSACTION HAS BEEN ENTERED INTO FOR INVESTMENT AND HAS NOT BEEN
+REGISTERED UNDER THE UNITED STATES SECURITIES ACT OF 1933, AS AMENDED, OR ANY
+OTHER UNITED STATES FEDERAL OR STATE SECURITIES LAWS; THIS TRANSACTION MAY NOT
+BE SOLD OR OTHERWISE TRANSFERRED IN THE ABSENCE OF APPROPRIATE REGISTRATION
+UNDER SUCH SECURITIES LAWS EXCEPT IN A TRANSACTION EXEMPT FROM OR NOT SUBJECT TO
+THE REGISTRATION REQUIREMENTS OF SUCH SECURITIES LAWS.
+
+Please confirm your agreement with the foregoing by executing this Confirmation
+and returning it to us at facsimile number 201-524-2080, Attention:
+Documentation.
+
+Yours sincerely, Confirmed as of the date first above
+ written:
+LEHMAN BROTHERS FINANCE S.A. SMITHKLINE BEECHAM CORPORATION
+
+By: /s/ Philip Franz By: /s/ Donald F. Parman
+ --------------------------- -------------------------
+Name: Philip Franz Name: Donald F. Parman
+Title: Vice President Title: Vice President & Secretary
+
+By: /s/ Diana Nottingham
+ ---------------------------
+Name: Diana Nottingham
+Title: Vice President
+
+Execution time will be furnished upon Counterparty's written request.
+
+ Risk ID: N02050812 / Effort ID: 234120 / Global Deal ID: 245458
+
+ Page 11 of 11

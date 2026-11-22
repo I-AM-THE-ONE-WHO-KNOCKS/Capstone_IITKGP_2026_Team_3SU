@@ -1,0 +1,705 @@
+EX-10.4
+ 5
+ file005.htm
+ CAP CONTRACT CONFIRMATION CLASS M CERTIFICATES
+
+ CONFIRMATION
+
+TO: Wells Fargo Bank, N.A., not individually but solely as trustee for
+ Carrington Mortgage
+ Loan Trust, Series 2006-NC1
+ 9062 Old Anapolis Road
+ Columbia, Maryland 21045
+Attention: Client Manager-Carrington Mortgage Loan Trust, 2006-NC1
+Telephone: (410) 884-2000
+Facsimile: (410) 715-2380
+
+FROM: Swiss Re Financial Products Corporation
+ 55 East 52nd Street
+ New York, New York 10055
+Attention: Head of Operations
+Facsimile. (212) 317-5335
+
+CC:
+Attention: Head of Legal
+Facsimile: (212) 317-5474
+
+DATE: February 8, 2006
+
+Transaction Reference Number: 788492
+
+Dear Sir/Madam,
+
+ The purpose of this letter agreement is to confirm the terms and
+conditions of the transaction entered into between Wells Fargo Bank, N.A., not
+individually but solely as trustee for Carrington Mortgage Loan Trust, Series
+2006-NC1, and Swiss Re Financial Products Corporation, a corporation organized
+under the laws of the State of Delaware (each a "party" and together "the
+parties") on the Trade Date specified below (the "Transaction"). This letter
+agreement constitutes a "Confirmation" as referred to in the ISDA Master
+Agreement specified in paragraph 1 below. In this Confirmation, "Party A" means
+Swiss Re Financial Products Corporation, and "Party B" means Carrington Mortgage
+Loan Trust, Series 2006-NC1, by Wells Fargo Bank, N.A., not individually but
+solely as trustee for Carrington Mortgage Loan Trust, Series 2006-NC1.
+
+ The definitions and provisions contained in the 2000 ISDA Definitions, as
+published by the International Swaps and Derivatives Association, Inc. (the
+"Definitions"), are incorporated into this Confirmation. In the event of any
+inconsistency between the Definitions and this Confirmation, this Confirmation
+will govern.
+
+ Other capitalized terms used herein (but not otherwise defined) shall have
+the meaning specified in that certain Pooling and Servicing Agreement, dated as
+of February 1, 2006 (the "Pooling and Servicing Agreement"), among Stanwich
+Asset Acceptance Company, L.L.C., as Depositor, New Century Mortgage
+Corporation, as Servicer, and Wells Fargo Bank, N.A., as Trustee (the "Trustee).
+
+ S-1
+
+ 1. This Confirmation evidences a complete binding agreement between the
+parties as to the terms of the Transaction to which this Confirmation relates.
+In addition, the parties agree that for the purposes of this Transaction, this
+Confirmation will supplement, form a part of, and be subject to an agreement in
+the form of the 1992 ISDA Master Agreement (Multicurrency-Cross Border) as if
+the parties had executed an agreement in such form (but without any Schedule
+except for the elections noted below) on the Trade Date of the Transaction (such
+agreement, the "Form Master Agreement"). In the event of any inconsistency
+between the provisions of the Form Master Agreement and this Confirmation, this
+Confirmation will prevail for the purpose of this Transaction.
+
+ Each party represents to the other party and will be deemed to represent
+to the other party on the date on which it enters into this Transaction that
+(absent a written agreement between the parties that expressly imposes
+affirmative obligations to the contrary for that Transaction):
+
+ (a) NON-RELIANCE. Each party has made its own independent
+decisions to enter into this Transaction and as to whether this Transaction is
+appropriate or proper for it based upon its own judgment and upon advice from
+such advisors as it has deemed necessary. It is not relying on any communication
+(written or oral) of the other party as investment advice or as a recommendation
+to enter into this Transaction; it being understood that information and
+explanations related to the terms and conditions of this Transaction shall not
+be considered investment advice or a recommendation to enter into this
+Transaction. Further, such party has not received from the other party any
+assurance or guarantee as to the expected results of this Transaction.
+
+ (b) EVALUATION AND UNDERSTANDING. It is capable of evaluating and
+understanding (on its own behalf or through independent professional advice),
+and understands and accepts, the terms, conditions and risks of this
+Transaction. It is also capable of assuming, and assumes, the financial and
+other risks of this Transaction.
+
+ (c) STATUS OF PARTIES. The other party is not acting as an agent,
+fiduciary or advisor for it in respect of this Transaction.
+
+ 2. The terms of the particular Transaction to which this Confirmation
+relates are as follows:
+
+ --------------------------------------------------------------------------
+ Notional Amount: As per Schedule A attached hereto
+ --------------------------------------------------------------------------
+ Trade Date: January 27, 2006
+ --------------------------------------------------------------------------
+ Effective Date: March 25, 2006
+ --------------------------------------------------------------------------
+ Termination Date: May 25, 2009, subject to adjustment in accordance
+ with the Following Business Day Convention.
+ --------------------------------------------------------------------------
+ FIXED AMOUNTS:
+ --------------------------------------------------------------------------
+ Fixed Rate Payer: Party B
+ --------------------------------------------------------------------------
+ Payment Date: February 8, 2006
+ --------------------------------------------------------------------------
+
+ --------------------------------------------------------------------------
+ Fixed Amount: USD 543,000
+ --------------------------------------------------------------------------
+ FLOATING AMOUNTS:
+ --------------------------------------------------------------------------
+ Floating Rate Payer: Party A
+ --------------------------------------------------------------------------
+ Cap Rate: See attached Schedule A under the Column "Cap
+ Rate (%)".
+ --------------------------------------------------------------------------
+ Floating Rate Payer The 25th of each month, commencing on 25th April
+ Period End Dates: 2006 in accordance with the Following Business
+ Day Convention.
+ --------------------------------------------------------------------------
+ Floating Rate Payer Early Payment shall be applicable. The Floating
+ Payment Dates: Rate Payer Payment Dates shall be two Business
+ Days prior to each Floating Rate Payer Period End
+ Date, commencing on April 21, 2006 to and
+ including the date which is two Business Days
+ prior to the Termination Date.
+ --------------------------------------------------------------------------
+ Floating Rate Option: USD-LIBOR-BBA; provided, however, that if the
+ Floating Rate determined from such Floating Date
+ Option for any Calculation Period is greater than
+ 8.632% then the Floating Rate for such
+ Calculation Period shall be deemed to be 8.632%.
+ --------------------------------------------------------------------------
+ Designated Maturity: One month
+ --------------------------------------------------------------------------
+ Spread: None
+ --------------------------------------------------------------------------
+ Floating Rate Day Actual/360
+ Count Fraction:
+ --------------------------------------------------------------------------
+ Reset Date: First day of each Calculation Period
+ --------------------------------------------------------------------------
+ Compounding: Inapplicable
+ --------------------------------------------------------------------------
+ BUSINESS DAYS: New York
+ --------------------------------------------------------------------------
+ CALCULATION AGENT: Party A; provided, however, if an Event of
+ Default has occurred with respect to Party A, a
+ Reference Market-maker, as designated by Party B,
+ shall be the Calculation Agent.
+ --------------------------------------------------------------------------
+
+ 3. FORM MASTER AGREEMENT.
+
+ (a) "SPECIFIED ENTITY" means, in relation to Party A, for the
+purpose of Section 5(a)(v), Section 5(a)(vi), Section 5(a)(vii) and Section
+5(b)(iv) of the Form Master Agreement: Not Applicable.
+
+ (b) "SPECIFIED ENTITY" means, in relation to Party B, for the
+purpose of Section 5(a)(v), Section 5(a)(vi), Section 5(a)(vii) and Section
+5(b)(iv) of the Form Master Agreement: Not Applicable.
+
+ (c) "SPECIFIED TRANSACTION" will have the meaning specified in
+Section 14 of the Form Master Agreement.
+
+ (d) The "CREDIT EVENT UPON MERGER" provisions of Section 5(b)(iv)
+of the Form Master Agreement will not apply to Party A or to Party B.
+
+ (e) The "AUTOMATIC EARLY TERMINATION" provision of Section 6(a) of
+the Form Master Agreement will not apply to Party A or to Party B.
+
+ (f) GOVERNING LAW. The Form Master Agreement will be governed by,
+and construed in accordance with, the laws of the State of New York without
+reference to its conflict of laws provisions (except for Sections 5-1401 and
+5-1402 of the New York General Obligations Law).
+
+ (g) The phrase "TERMINATION CURRENCY" means United States Dollars.
+
+ (h) PAYMENTS ON EARLY TERMINATION. For the purpose of Section 6(e)
+of the Form Master Agreement, Market Quotation and Second Method will apply.
+
+ (i) EVENTS OF DEFAULT. The Events of Default specified under
+Sections 5(a)(ii), 5(a)(iv), 5(a)(v) and 5(a)(vi) of the Form Master Agreement
+will not apply to Party A; 5(a)(ii), 5(a)(iii), 5(a)(iv), 5(a)(v) and 5(a)(vi)
+of the Form Master Agreement will not apply to Party B. With respect to Party B
+only, the provisions of Section 5(a)(vii) clause 2 will not be applicable.
+
+ (j) TAX EVENT. The provisions of Section 2(d)(i)(4) and 2(d)(ii)
+of the printed Form Master Agreement shall not apply to Party B and Party B
+shall not be required to pay any additional amounts referred to therein.
+
+ (k) NO SET-OFF. Without affecting the provisions of the Form
+Master Agreement requiring the calculation of certain net payment amounts, as a
+result of an Event of Default or Additional Termination Event or otherwise, all
+payments will be made without setoff or counterclaim.
+
+ 4. RECORDING OF CONVERSATIONS.
+
+ Each party to this Transaction acknowledges and agrees to the tape (and/or
+other electronic) recording of conversations between the parties to this
+Transaction whether by one or other or both of the parties or their agents, and
+that any such recordings may be submitted in evidence in any Proceedings
+relating to the Form Master Agreement and/or this Transaction.
+
+ 5. CREDIT SUPPORT DOCUMENT.
+
+ In relation to Party A: A Guaranty of Swiss Re dated as of the date
+hereof, in a form acceptable to Party B and, if Party A is required pursuant to
+Paragraph 8 of this Confirmation to post collateral, an ISDA Credit Support
+Annex.
+
+ In relation to Party B: The Pooling and Servicing Agreement.
+
+Party B agrees that the security interests in collateral granted to Party A
+under the foregoing Credit Support Document shall secure the obligations of
+Party B to Party A hereunder.
+
+ 6. CREDIT SUPPORT PROVIDER.
+
+ In relation to Party A: Swiss Reinsurance Company ("Swiss Re").
+ In relation to Party B: Not Applicable.
+
+ 7. ACCOUNT DETAILS.
+
+ Account for payments to Party A:
+
+ PAYMENT INSTRUCTION: JP Morgan Chase Bank
+ Swift: CHASUS33
+ For the Account of Swiss Re Financial Products
+
+ ACCT #: 066911184
+
+ Account for payments to Party B:
+
+ NAME: Wells Fargo Bank, National Association
+ ABA#: 121-000-248
+ ACCT #: 3970771416
+ ACCT NAME: Corporate Trust Clearing
+ For further credit to ACCT #: 50890801
+
+ REF: Client Manager - Carrington Mortgage Loan Trust 2006-NC1
+
+ 8. ADDITIONAL TERMINATION EVENTS.
+
+ Downgrade of Party A. For the purpose of this section, a "Ratings Event"
+shall occur with respect to Party A (or its Credit Support Provider) if the
+long-term and short-term senior unsecured deposit ratings of Party A (or its
+Credit Support Provider) cease to be at least A and A-1 by Standard & Poor's
+Ratings Service or any successor thereto ("S&P") or at least A1 and P-1 by
+Moody's Investors Service, Inc. or any successor thereto ("Moody's") or at least
+A and F1 by Fitch, Inc. or any successor thereto ("Fitch"), to the extent such
+obligations are rated by S&P or Moody's or Fitch. The failure by Party A to
+comply with the provisions of Section 15 hereof shall constitute an Additional
+Termination Event for which Party A shall be the sole Affected Party.
+
+ Swap Disclosure Event. Upon the occurrence of a Swap Disclosure Event (as
+defined below), if Party A has not, within 10 days after such Swap Disclosure
+Event (the "Response Period") complied with one of the solutions listed below,
+then an Additional Termination Event shall have occurred with respect to Party A
+and Party A shall be the sole Affected Party with respect to such Additional
+Termination Event.
+
+ It shall be a swap disclosure event ("Swap Disclosure Event") if at any
+time after the date hereof Carrington Securities, LP ("Carrington Securities")
+and Stanwich Asset Acceptance Company, L.L.C. ("Stanwich") notify Party A that
+in the reasonable discretion of Carrington Securities or Stanwich acting in good
+faith, the "aggregate significance percentage" of all derivative instruments (as
+such term is defined in Item 1115(b)(2) of Regulation AB (as defined
+
+below)) provided by Party A and any of its affiliates to Carrington Mortgage
+Loan Trust, Series 2006-NC1 (the "Significance Percentage") is 10% or more.
+
+ Following a Swap Disclosure Event, Party A shall take one of the following
+actions at its own expense: either (I) (a) if the Significance Percentage is 10%
+or more, Party A provide the information set forth in Item 1115(b)(1) of
+Regulation AB for Party A (or for the group of affiliated entities, if
+applicable) or (b) if the Significance Percentage is 20% or more, Party A
+provide the information set forth in Item 1115(b)(2) of Regulation AB for Party
+A (or for the group of affiliated entities, if applicable) (collectively, the
+"Reg AB Information"), to Carrington Securities or Stanwich or (II) cause a Reg
+AB Approved Entity (as defined below) to replace Party A as party to this
+Agreement on terms similar to this Agreement prior to the expiration of the
+Response Period and cause such Reg AB Approved Entity to provide the Reg AB
+Information prior to the expiration of the Response Period; provided however,
+that no such transfer to a Reg AB Approved Entity pursuant to (II) above shall
+occur unless the Reg AB Approved entity agrees to terms identical to those
+contained in Paragraph 16 of this Agreement. "Reg AB Approved Entity" means any
+entity that (i) has the ability to provide the Reg AB Information and (ii) meets
+or exceeds the Approved Rating Threshold.
+
+ "Regulation AB" means Subpart 229.1100 - Asset Backed Securities
+(Regulation AB), 17 C.F.R. ss.ss.229.1100-229.1123, as such may be amended from
+time to time, and subject to such clarification and interpretation as have been
+provided by the Securities and Exchange Commission ("SEC") in the adopting
+release (Asset-Backed Securities, Securities Act Release No. 33-8518, 70 Fed.
+Reg. 1,506, 1,531 (Jan. 7, 2005)) or by the staff of the SEC, or as may be
+provided by the SEC or its staff from time to time.
+
+ 9. LIMITATION ON EVENTS OF DEFAULT. Notwithstanding the terms of
+Sections 5 and 6 of the Form Master Agreement, if at any time and so long as
+Party B has satisfied in full all its payment obligations under Section 2(a)(i)
+of the Form Master Agreement and has at the time no future payment obligations,
+whether absolute or contingent, under such Section, then unless Party A is
+required pursuant to appropriate proceedings to return to Party B or otherwise
+returns to Party B upon demand of Party B any portion of any such payment, (a)
+the occurrence of an event described in Section 5(a) of the Form Master
+Agreement with respect to Party B shall not constitute an Event of Default or
+Potential Event of Default with respect to Party B as Defaulting Party and (b)
+Party A shall be entitled to designate an Early Termination Date pursuant to
+Section 6 of the Form Master Agreement only as a result of the occurrence of a
+Termination Event set forth in either Section 5(b)(i) with respect to either
+Party A or Party B as the Affected Party.
+
+ 10. WAIVER OF RIGHT TO TRIAL BY JURY.
+
+ EACH PARTY HEREBY IRREVOCABLY WAIVES ANY AND ALL RIGHTS TO TRIAL BY JURY
+WITH RESPECT TO ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS
+TRANSACTION.
+
+ 11. ELIGIBLE CONTRACT PARTICIPANT.
+
+ Each party represents to the other party that it is an "eligible contract
+participant" as defined in Section 1a(12) of the U.S. Commodity Exchange Act, as
+amended.
+
+ 12. NOTICE BY FACSIMILE TRANSMISSION.
+
+ Section 12(a) of the Form Master Agreement is hereby amended by deleting
+the parenthetical "(except that a notice or other communication under Section 5
+or 6 may not be given by facsimile transmission or electronic messaging
+system)."
+
+ 13. MULTIBRANCH PARTY.
+
+ For purpose of Section 10(c) of the Form Master Agreement: (a) Party A is
+not a Multibranch Party; and (b) Party B is not a Multibranch Party.
+
+ 14. OTHER PROVISIONS.
+
+ (a) Addresses for notices. As set forth on page 1 hereof.
+
+ (b) For the purpose of Section 13(c) of the Form Master Agreement:
+(i) Party A appoints as its Process Agent, not applicable; and (ii) Party B
+appoints as its Process Agent, not applicable.
+
+ (c) No transfer, amendment, waiver, supplement, assignment or
+other modification of this Transaction shall be permitted by either party unless
+(i) each of S&P, Fitch and Moody's have been provided notice of the same and
+(ii) S&P, Fitch and Moody's confirm in writing (including by facsimile
+transmission) within five Business Days after such notice is given that they
+will not downgrade, qualify, withdraw or otherwise modify their then-current
+rating of the Certificates.
+
+ (d) PAYER REPRESENTATIONS. For the purpose of Section 3(e) of the
+Form Master Agreement, Party A and Party B make the following representation:
+
+ It is not required by any applicable law, as modified by the practice of
+any relevant governmental revenue authority, of any relevant jurisdiction to
+make any deduction or withholding for or on account of any tax from any payment
+(other than interest under Section 2(e), 6(d)(ii), or 6(e) of the Form Master
+Agreement) to be made by it to the other party under the Form Master Agreement.
+In making this representation, it may rely on (i) the accuracy of any
+representations made by the other party pursuant to Section 3(f) of the Form
+Master Agreement, (ii) the satisfaction of the agreement contained in Section
+4(a)(i) or 4(a)(iii) of the Form Master Agreement, and the accuracy and
+effectiveness of any document provided by the other party pursuant to Section
+4(a)(i) or 4(a)(iii) of the Form Master Agreement, and (iii) the satisfaction of
+the agreement of the other party contained in Section 4(d) of the Form Master
+Agreement, provided that it shall not be a breach of this representation where
+reliance is placed on clause (ii) and the other party does not deliver a form or
+document under Section 4(a)(iii) by reason of material prejudice to its legal or
+commercial position.
+
+ (e) PAYEE REPRESENTATIONS. For the purpose of Section 3(f) of the
+Form Master Agreement, Party A and Party B make the following representations:
+
+ (i) The following representation applies to Party A: Party A
+is a corporation organized under the laws of the State of Delaware.
+
+ (ii) The following representation applies to Party B: Party B
+is a "U.S. person" as that term is used in section 1.1441-4(a)(3)(ii) of the
+United States Treasury Regulations (the "Regulations") for United States federal
+income tax purposes.
+
+ (f) For the purpose of Section 4(a)(i) and (ii) of the Form Master
+Agreement, each Party agrees to deliver the following documents as applicable:
+
+ (i) Tax forms, documents or certificates to be delivered
+are:
+
+--------------------------------------------------------------------------------
+PARTY REQUIRED TO
+DELIVER DOCUMENT FORM/DOCUMENT/CERTIFICATE DATE BY WHICH TO DELIVERED
+--------------------------------------------------------------------------------
+Party A and Party B An executed U.S. (i) Before the first Payment
+ Internal Revenue Service Date hereunder, (ii)
+ Form W-9 (or any promptly upon reasonable
+ successor thereto). demand by the other party
+ and (iii) promptly upon
+ learning that any such form
+ previously provided to the
+ other party has become
+ obsolete or incorrect.
+--------------------------------------------------------------------------------
+
+ (ii) Other documents to be delivered are:
+
+-----------------------------------------------------------------------------------------------------------
+PARTY REQUIRED TO FORM/DOCUMENT/ DATE BY WHICH TO BE COVERED BY SECTION 3(D)
+DELIVER DOCUMENT CERTIFICATE DELIVERED REPRESENTATION
+-----------------------------------------------------------------------------------------------------------
+
+Party A and Party B Credit Support Document, if any, Concurrently with Yes
+ specified herein, such Credit the execution of
+ Support Document being duly executed this agreement.
+ if required.
+-----------------------------------------------------------------------------------------------------------
+Party A and Party B Incumbency certificate or other Concurrently with Yes
+ documents evidencing the authority the execution of
+ of the party entering into this this agreement or of
+ agreement or any other document any other documents
+ executed in connection with this executed in
+ agreement. connection with this
+ agreement.
+-----------------------------------------------------------------------------------------------------------
+Party B Copy of each report delivered under Upon availability. Yes
+ the Pooling and Servicing Agreement
+ and/or any other Transaction
+ Document.
+-----------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------
+PARTY REQUIRED TO FORM/DOCUMENT/ DATE BY WHICH TO BE COVERED BY SECTION 3(D)
+DELIVER DOCUMENT CERTIFICATE DELIVERED REPRESENTATION
+-----------------------------------------------------------------------------------------------------------
+
+Party A and Party B Legal opinion from counsel for each Concurrently with No
+ party concerning due authorization, the execution of
+ enforceability and related matters, this agreement.
+ addressed to the other party and
+ acceptable to the other party.
+-----------------------------------------------------------------------------------------------------------
+Party A Certified copies of all corporate, Upon execution and Yes
+ partnership, trust or membership delivery of this
+ authorizations, as the case may be, agreement
+ and any other documents with respect
+ to the execution, delivery and
+ performance of this agreement and
+ any Credit Support Document
+-----------------------------------------------------------------------------------------------------------
+
+ (g) "Affiliate" will have the meaning specified in Section 14 of
+the Form Master Agreement; provided, however, that Party B shall be deemed not
+to have any Affiliates for purposes of this Transaction.
+
+ (h) NON PETITION. Party A hereby agrees that it will not, prior to
+the date that is one year and one day (or, if longer, the applicable preference
+period) after all Certificates (as such term is defined in the Pooling and
+Servicing Agreement) issued by Party B pursuant to the Pooling and Servicing
+Agreement have been paid in full, acquiesce, petition or otherwise invoke or
+cause Party B to invoke the process of any court or governmental authority for
+the purpose of commencing or sustaining a case against Party B under any federal
+or state bankruptcy, insolvency or similar law or for the purpose of appointing
+a receiver, liquidator, assignee, trustee, custodian, sequestrator or other
+similar official for Party B or any substantial part of the property of Party B,
+or for the purpose of ordering the winding up or liquidation of the affairs of
+Party B. Nothing herein shall prevent Party A from participating in any such
+proceeding once commenced. The provisions of this paragraph shall survive the
+termination of this Agreement.
+
+ (i) NON-RECOURSE PROVISIONS. Notwithstanding anything to the
+contrary contained herein, none of Wells Fargo Bank, N.A. or any of its
+officers, directors, or shareholders (the "Non-recourse Parties") shall be
+personally liable for the payment by or on behalf of the Issuer hereunder, and
+Party A shall be limited to a proceeding against the Collateral or against any
+other third party other than the Non-recourse Parties, and Party A shall not
+have the right to proceed directly against the Issuer for the satisfaction of
+any monetary claim against the Non-recourse Parties or for any deficiency
+judgment remaining after foreclosure of any property included in such Collateral
+and following the realization of the Collateral, any claims of Party A shall be
+extinguished. The provisions of this paragraph shall survive the termination of
+this Agreement.
+
+ (j) TRUSTEE LIABILITY LIMITATION. It is expressly understood and
+agreed by the parties hereto that (i) this confirmation is executed and
+delivered by Wells Fargo Bank, N.A. ("Wells Fargo"), not individually or
+personally but solely as trustee, (ii) each of the
+
+representations, undertakings and agreements herein made on the part of Party B
+is made and intended not as personal representations, undertakings and
+agreements by Wells Fargo but is made and intended for the purpose of binding
+only Party B, (iii) nothing herein contained shall be construed as creating any
+liability on Wells Fargo, individually or personally, to perform any covenant
+either expressed or implied contained herein, and (iv) under no circumstances
+shall Wells Fargo be personally liable for the payment of any indebtedness or
+expenses of Party B or be liable for the breach or failure of any obligation,
+representation, warranty or covenant made or undertaken by Party B hereunder or
+any other related documents. Any resignation or removal of Wells Fargo as
+trustee under the Pooling and Servicing Agreement shall require the assignment
+of this confirmation to Wells Fargo's replacement.
+
+ (k) The Form Master Agreement is hereby amended as follows:
+
+The word "third" shall be replaced by the word "second" in the third line of
+Section 5(a)(i) of the Form Master Agreement.
+
+ (l) SEVERABILITY. If any term, provision, covenant, or condition
+of this Agreement, or the application thereof to any party or circumstance,
+shall be held to be invalid or unenforceable (in whole or in part) for any
+reason, the remaining terms, provisions, covenants, and conditions hereof shall
+continue in full force and effect as if this Agreement had been executed with
+the invalid or unenforceable portion eliminated, so long as this Agreement as so
+modified continues to express, without material change, the original intentions
+of the parties as to the subject matter of this Agreement and the deletion of
+such portion of this Agreement will not substantially impair the respective
+benefits or expectations of the parties.
+
+ The parties shall endeavor to engage in good faith negotiations to
+replace any invalid or unenforceable term, provision, covenant or condition with
+a valid or enforceable term, provision, covenant or condition, the economic
+effect of which comes as close as possible to that of the invalid or
+unenforceable term, provision, covenant or condition.
+
+ (m) Party A hereby agrees that, notwithstanding any provision of
+this agreement to the contrary, Party B's obligations to pay any amounts owing
+under this Agreement shall be subject to Sections 4.01 and 4.07 of the Pooling
+and Servicing Agreement and Party A's right to receive payment of such amounts
+shall be subject to Sections 4.01 and 4.07 of the Pooling and Servicing
+Agreement.
+
+ 15. DOWNGRADE OF PARTY A.
+
+ If a Ratings Event (as defined in Section 8 hereof) shall occur and be
+continuing with respect to Party A, then Party A shall (A) within 5 Business
+Days of such Ratings Event, give notice to Party B of the occurrence of such
+Ratings Event, and (B) use reasonable efforts to transfer (at its own cost)
+Party A's rights and obligations hereunder to another party, subject to
+satisfaction of the Rating Agency Condition (as defined below). Unless such a
+transfer by Party A has occurred within 20 Business Days after the occurrence of
+a Ratings Event, Party A shall no later than the end of such 20 Business Day
+period, post eligible collateral at its own cost and satisfactory to Party B
+("Eligible Collateral"), to secure Party B's exposure or potential exposure to
+Party A, and such Eligible Collateral shall be provided in accordance with a
+Credit Support Annex to be attached hereto and made a part hereof. The Eligible
+Collateral to be posted and the
+
+Credit Support Annex to be executed and delivered shall be subject to the Rating
+Agency Condition. Valuation and Posting of Eligible Collateral shall occur
+weekly. Notwithstanding the addition of the Credit Support Annex and the posting
+of Eligible Collateral, Party A shall continue to use reasonable efforts to
+transfer its rights and obligations hereunder to an acceptable third party;
+provided, however, that Party A's obligations to find a transferee and to post
+Eligible Collateral under such Credit Support Annex shall remain in effect only
+for so long as a Ratings Event is continuing with respect to Party A. "Rating
+Agency Condition" means, with respect to any action to be taken, a condition
+that is satisfied when S&P, Moody's and Fitch have confirmed that such action
+would not result in the downgrade, qualification (if applicable) or withdrawal
+of the rating then assigned by such Rating Agency to the applicable class of
+Certificates.
+
+ 16. COMPLIANCE WITH REGULATION AB.
+
+ (a) Party A agrees and acknowledges that Carrington Securities and
+Stanwich may be required under Regulation AB, to disclose certain financial
+information regarding Party A and Swiss Re depending on the applicable
+"significance percentage" of this Agreement, as calculated from time to time in
+accordance with Item 1115 of Regulation AB.
+
+ (b) Party A, or a Reg AB Approved Entity after a Swap Disclosure Event
+pursuant to Paragraph 8, as applicable, shall indemnify and hold harmless
+Carrington Securities, Stanwich, their respective directors or officers and any
+person controlling Carrington Securities or Stanwich, from and against any and
+all losses, claims, damages and liabilities caused by any untrue statement or
+alleged untrue statement of a material fact contained in the Reg AB Information
+that Party A or such Reg AB Approved Entity, as applicable, provides to
+Carrington Securities or Stanwich pursuant to Paragraph 8 (the "Party A
+Information") or caused by any omission or alleged omission to state in the
+Party A Information by Party A or the Reg AB Approved Entity, as applicable, a
+material fact required to be stated therein or necessary to make the statements
+therein, in light of the circumstances under which they were made, not
+misleading. For the avoidance of doubt, Party A shall provide the indemnity
+described above with respect to any Party A Information it is required to
+provide pursuant to Paragraph 8 and any Reg AB Approved Entity which has
+replaced Party A pursuant to Paragraph 8 shall provide the indemnity described
+above with respect to any Party A Information it is required to provide from
+pursuant to Paragraph 8.
+
+Please confirm that the foregoing correctly sets forth the terms and conditions
+of our agreement by returning within three (3) Business Days via telecopier an
+executed copy of this Confirmation. Failure to respond within such period shall
+not affect the validity or enforceability of this Transaction.
+
+Yours sincerely,
+
+SWISS RE FINANCIAL PRODUCTS CORPORATION
+
+By: /s/ Linda H. Singer
+ -------------------------------
+ Name: Linda H. Singer
+ Title: Vice President
+
+Confirmed as of the date above:
+
+By: WELLS FARGO BANK, N.A., NOT INDIVIDUALLY BUT SOLELY AS TRUSTEE FOR
+CARRINGTON MORTGAGE LOAN TRUST, SERIES 2006-NC1
+
+By: /s/ Peter A. Gobel
+ --------------------------------
+ Name: Peter A. Gobel
+ Title: Vice President
+
+SCHEDULE A to the Confirmation dated as of February 8, 2006,
+Re: Reference Number 788492
+
+AMORTIZATION SCHEDULE, Floating Rate Payer Period End Dates shall be subject to
+adjustment in accordance with the Following Business Day Convention, however,
+Fixed Rate Payer Period End Dates will use No Adjustment.
+
+--------------------------------------------------------------------------------
+From and including To but excluding Notional Amount (USD) Cap Rate (%)
+--------------------------------------------------------------------------------
+March 25, 2006 April 25, 2006 272,914,000.00 5.650
+--------------------------------------------------------------------------------
+April 25, 2006 May 25, 2006 272,914,000.00 5.868
+--------------------------------------------------------------------------------
+May 25, 2006 June 25, 2006 272,914,000.00 5.651
+--------------------------------------------------------------------------------
+June 25, 2006 July 25, 2006 272,914,000.00 5.868
+--------------------------------------------------------------------------------
+July 25, 2006 August 25, 2006 272,914,000.00 5.651
+--------------------------------------------------------------------------------
+August 25, 2006 September 25, 2006 272,914,000.00 5.651
+--------------------------------------------------------------------------------
+September 25, 2006 October 25, 2006 272,914,000.00 5.869
+--------------------------------------------------------------------------------
+October 25, 2006 November 25, 2006 272,914,000.00 5.651
+--------------------------------------------------------------------------------
+November 25, 2006 December 25, 2006 272,914,000.00 5.869
+--------------------------------------------------------------------------------
+December 25, 2006 January 25, 2007 272,914,000.00 5.651
+--------------------------------------------------------------------------------
+January 25, 2007 February 25, 2007 272,914,000.00 5.651
+--------------------------------------------------------------------------------
+February 25, 2007 March 25, 2007 272,914,000.00 6.350
+--------------------------------------------------------------------------------
+March 25, 2007 April 25, 2007 272,914,000.00 5.651
+--------------------------------------------------------------------------------
+April 25, 2007 May 25, 2007 272,914,000.00 5.868
+--------------------------------------------------------------------------------
+May 25, 2007 June 25, 2007 272,914,000.00 5.651
+--------------------------------------------------------------------------------
+June 25, 2007 July 25, 2007 272,914,000.00 5.868
+--------------------------------------------------------------------------------
+July 25, 2007 August 25, 2007 272,914,000.00 5.651
+--------------------------------------------------------------------------------
+August 25, 2007 September 25, 2007 272,914,000.00 5.651
+--------------------------------------------------------------------------------
+September 25, 2007 October 25, 2007 272,914,000.00 5.869
+--------------------------------------------------------------------------------
+October 25, 2007 November 25, 2007 272,914,000.00 5.716
+--------------------------------------------------------------------------------
+November 25, 2007 December 25, 2007 272,914,000.00 6.402
+--------------------------------------------------------------------------------
+December 25, 2007 January 25, 2008 272,914,000.00 6.156
+--------------------------------------------------------------------------------
+January 25, 2008 February 25, 2008 272,914,000.00 6.142
+--------------------------------------------------------------------------------
+February 25, 2008 March 25, 2008 272,914,000.00 6.612
+--------------------------------------------------------------------------------
+March 25, 2008 April 25, 2008 272,914,000.00 6.128
+--------------------------------------------------------------------------------
+April 25, 2008 May 25, 2008 272,914,000.00 6.417
+--------------------------------------------------------------------------------
+May 25, 2008 June 25, 2008 272,914,000.00 6.583
+--------------------------------------------------------------------------------
+June 25, 2008 July 25, 2008 272,914,000.00 6.828
+--------------------------------------------------------------------------------
+July 25, 2008 August 25, 2008 272,914,000.00 6.575
+--------------------------------------------------------------------------------
+August 25, 2008 September 25, 2008 272,914,000.00 6.571
+--------------------------------------------------------------------------------
+September 25, 2008 October 25, 2008 272,914,000.00 6.826
+--------------------------------------------------------------------------------
+October 25, 2008 November 25, 2008 272,914,000.00 6.916
+--------------------------------------------------------------------------------
+November 25, 2008 December 25, 2008 272,914,000.00 8.045
+--------------------------------------------------------------------------------
+December 25, 2008 January 25, 2009 272,914,000.00 7.774
+--------------------------------------------------------------------------------
+January 25, 2009 February 25, 2009 272,914,000.00 7.780
+--------------------------------------------------------------------------------
+February 25, 2009 March 25, 2009 272,914,000.00 8.632
+--------------------------------------------------------------------------------
+March 25, 2009 April 25, 2009 272,914,000.00 7.772
+--------------------------------------------------------------------------------
+April 25, 2009 May 25, 2009 272,914,000.00 8.373
+--------------------------------------------------------------------------------

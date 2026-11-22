@@ -1,0 +1,1919 @@
+EX-99.16
+ 19
+ m0578exhibit9916.htm
+
+ Exhibit 99.16 
+
+ DATE: 
+
+ May 15, 2007 
+
+ TO: 
+
+ Wells Fargo Bank, N.A., not in its individual capacity but solely as Trustee of the Supplemental Interest Trust on behalf of the MASTR Adjustable Rate Mortgages Trust 2007-3, Mortgage Pass-Through Certificates, Series 2007-3 
+
+ Wells Fargo Bank, N.A., 
+
+ 9062 Old Annapolis Road 
+
+ Columbia, MD 21045 
+
+ ATTENTION: 
+
+ Corporate Trust Services - MASTR Adjustable Rate Mortgages Trust 2007-3 
+
+ TELEPHONE: 
+
+ (410) 884-2000 
+
+ FAX: 
+
+ (410) 715-2380 
+
+ FROM: 
+
+ Swiss Re Financial Products Corporation 
+
+ TELEPHONE: 
+
+ (212) 407 7322 
+
+ FACSIMILE: 
+
+ (917) 322 7201 
+
+ SUBJECT: 
+
+ Fixed Income Derivatives Confirmation 
+
+ REFERENCE NUMBER: 
+
+ 1471465 – Group 2 Cap 
+
+ The purpose of this long-form confirmation ( “Confirmation” ) is to confirm the terms and conditions of the current Transaction entered into on the Trade Date specified below (the “Transaction” ) between Swiss Re Financial Products Corporation ( “Party A” ) and Wells Fargo Bank, N.A., not individually, but solely as Trustee of the Supplemental Interest Trust on behalf of the MASTR Adjustable Rate Mortgages Trust 2007-3 (the “Trust”) ( “Party B” ) created under the Pooling and Servicing Agreement, dated as of April 1, 2007, among Mortgage Asset Securitization Transactions, Inc., as depositor, Wells Fargo Bank, N.A., as master servicer, trust administrator, custodian, and credit risk manager and U.S. Bank, National Association, as trustee. (the “Pooling and Servicing Agreement” ). This Confirmation evidences a complete and binding agreement between you and us to enter into the Transaction on the terms set forth below and replaces any previous agreement between us with respect to the subject matter hereof. This Confirmation constitutes a “Confirmation” and also constitutes a “Schedule” as referred to in the ISDA Master Agreement, and Paragraph 13 of a Credit Support Annex to the Schedule. 
+
+ 1.
+
+ This Confirmation shall supplement, form a part of, and be subject to an agreement in the form of the ISDA Master Agreement (Multicurrency - Cross Border) as published and copyrighted in 1992 by the International Swaps and Derivatives Association, Inc. (the “ISDA Master Agreement” ), as if Party A and Party B had executed an agreement in such form on the date hereof, with a Schedule as set forth in Item 3 of this Confirmation, and an ISDA Credit Support Annex (Bilateral Form - ISDA Agreements Subject to New York Law Only version) as published and copyrighted in 1994 by the International Swaps and Derivatives Association, Inc., with Paragraph 13 thereof as set forth in Annex A hereto (the “Credit Support Annex” ). For the avoidance of doubt, the Transaction described herein shall be the sole Transaction governed by such ISDA Master Agreement. In the event of any inconsistency among any of the following documents, the relevant document first listed shall govern: (i) this Confirmation, exclusive of the provisions set forth in Item 3 hereof and Annex A hereto; (ii) the provisions set forth in Item 3 hereof, which are incorporated by reference into the Schedule; (iii) the Credit Support Annex; (iv) the Definitions; and (v) the ISDA Master Agreement.
+
+ Each reference herein to a “Section” (unless specifically referencing the Pooling and Servicing Agreement) or to a “Section” “of this Agreement” will be construed as a reference to a Section of the ISDA Master Agreement; each herein reference to a “Part” will be construed as a reference to the provisions herein deemed incorporated in a Schedule to the ISDA Master Agreement; each reference herein to a “Paragraph” will be construed as a reference to a Paragraph of the Credit Support Annex.
+
+ 2.
+
+ The terms of the particular Transaction to which this Confirmation relates are as follows:
+
+ Type of Transaction:
+
+ Cap Agreement
+
+ Notional Amount:
+
+ With respect to any Calculation Period, the amount set forth for such period on Schedule I attached hereto under the heading Notional Amount (USD).
+
+ Trade Date:
+
+ April 11, 2007
+
+ Effective Date:
+
+ May 15, 2007
+
+ Termination Date:
+
+ April 25, 2014, subject to adjustment in accordance with the Business Day Convention
+
+ Scale Factor:
+
+ 350
+
+ Fixed Amounts:
+
+ Fixed Rate Payer:
+
+ Party B
+
+ Fixed Rate Payer
+
+ Payment Date:
+
+ May 15, 2007
+
+ Fixed Amount:
+
+ USD 1,509,000
+
+ Floating Amounts:
+
+ Floating Rate Payer:
+
+ Party A
+
+ Cap Rate I:
+
+ With respect to any Calculation Period, the amount set forth for such period on Schedule I attached hereto under the heading Cap Rate I 
+
+ Floating Rate Payer
+
+ Period End Dates:
+
+ The 25 th calendar day of each month during the Term of this Transaction, commencing May 25, 2007, and ending on the Termination Date, subject to adjustment in accordance with the Business Day Convention.
+
+ Floating Rate Payer 
+
+ Payment Dates:
+
+ Early Payment shall be applicable. The Floating Rate Payer Payment Date shall be two Business Day preceding each Floating Rate Payer Period End Date.
+
+ Floating Rate Option:
+
+ USD-LIBOR-BBA, provided, however, for any Calculation Period, if the Floating Rate Option is greater than the rate set forth opposite such Calculation Period as set forth in Schedule I under the heading Cap Rate II (%), then the Floating Rate for such Calculation Period shall be deemed to be such rate
+
+ Designated Maturity:
+
+ One Month
+
+ Spread:
+
+ None
+
+ Floating Rate Day 
+
+ Count Fraction:
+
+ Actual/360
+
+ Floating Rate Payer 
+
+ Payment Amount:
+
+ Notional Amount multiplied by Scale Factor multiplied by Floating Rate Day Count Fraction multiplied by (the greater of (a) zero and (b) Floating Rate Option minus the Cap Rate)
+
+ Reset Dates:
+
+ The first day of each Calculation Period.
+
+ Compounding:
+
+ Inapplicable
+
+ Business Days:
+
+ New York
+
+ Business Day Convention:
+
+ Following
+
+ Calculation Agent:
+
+ Party A
+
+ 3.
+
+ Provisions Deemed Incorporated in a Schedule to the ISDA Master Agreement:
+
+ Part 1. 
+
+ Termination Provisions. 
+
+ For the purposes of this Agreement:-
+
+ (a)
+
+ “Specified Entity” will not apply to Party A or Party B for any purpose. 
+
+ (b)
+
+ “Specified Transaction” will not apply to Party A or Party B for any purpose.
+
+ (c)
+
+ Events of Default. 
+
+ The statement below that an Event of Default will apply to a specific party means that upon the occurrence of such an Event of Default with respect to such party, the other party shall have the rights of a Non-defaulting Party under Section 6 of this Agreement; conversely, the statement below that such event will not apply to a specific party means that the other party shall not have such rights.
+
+ (i)
+
+ The “Failure to Pay or Deliver” provisions of Section 5(a)(i) will apply to Party A and will apply to Party B; provided, however, that Section 5(a)(i) is hereby amended by replacing the word “third” with the word “first”; provided, further, that notwithstanding anything to the contrary in Section 5(a)(i), any failure by Party A to comply with or perform any obligation to be complied with or performed by Party A under the Credit Support Annex shall not constitute an Event of Default under Section 5(a)(i) unless (A) a Required Ratings Downgrade Event has occurred and been continuing for 30 or more Local Business Days and (B) such failure is not remedied on or before the third Local Business Day after notice of such failure is given to Party A.
+
+ (ii)
+
+ The “Breach of Agreement” provisions of Section 5(a)(ii) will apply to Party A and will not apply to Party B.
+
+ (iii)
+
+ The “Credit Support Default” provisions of Section 5(a)(iii) will apply to Party A and will not apply to Party B except that Section 5(a)(iii)(1) will apply to Party B solely in respect of Party B’s obligations under Paragraph 3(b) of the Credit Support Annex; provided, however, that notwithstanding anything to the contrary in Section 5(a)(iii)(1), any failure by Party A to comply with or perform any obligation to be complied with or performed by Party A under the Credit Support Annex shall not constitute an Event of Default under Section 5(a)(iii) unless (A) a Required Ratings Downgrade Event has occurred and been continuing for 30 or more Local Business Days and (B) such failure is not remedied on or before the third Local Business Day after notice of such failure is given to Party A.
+
+ (iv)
+
+ The “Misrepresentation” provisions of Section 5(a)(iv) will apply to Party A and will not apply to Party B. 
+
+ (v)
+
+ The “Default under Specified Transaction” provisions of Section 5(a)(v) will apply to Party A and will not apply to Party B.
+
+ (vi)
+
+ The “Cross Default” provisions of Section 5(a)(vi) will apply to Party A and will not apply to Party B. For purposes of Section 5(a)(vi), solely with respect to Party A:
+
+ “Specified Indebtedness” will have the meaning specified in Section 14, except that such term shall not include insurance contracts entered into in the ordinary course of Party A’s Credit Support Provider’s insurance business.
+
+ “Threshold Amount” means with respect to Party A an amount equal to three percent (3%) of the Shareholders’ Equity of Party A or, if applicable, the Eligible Guarantor. 
+
+ “Shareholders’ Equity” means with respect to an entity, at any time, the sum (as shown in the most recent annual audited financial statements of such entity) of (i) its capital stock (including preferred stock) outstanding, taken at par value, (ii) its capital surplus and (iii) its retained earnings, minus (iv) treasury stock, each to be determined in accordance with generally accepted accounting principles.
+
+ (vii)
+
+ The “Bankruptcy” provisions of Section 5(a)(vii) will apply to Party A and will apply to Party B except that the provisions of Section 5(a)(vii)(2), (6) (to the extent that such provisions refer to any appointment contemplated or effected by the Pooling and Servicing Agreement or any appointment to which Party B has not become subject), (7) and (9) will not apply to Party B; provided that, with respect to Party B only, Section 5(a)(vii)(4) is hereby amended by adding after the words “against it” the words “(excluding any proceeding or petition instituted or presented by Party A or its Affiliates)”, and Section 5(a)(vii)(8) is hereby amended by deleting the words “to (7) inclusive” and inserting lieu thereof “, (3), (4) as amended, (5), (6) as amended, or (7)”.
+
+ (viii)
+
+ The “Merger Without Assumption” provisions of Section 5(a)(viii) will apply to Party A and will apply to Party B.
+
+ (d)
+
+ Termination Events. 
+
+ The statement below that a Termination Event will apply to a specific party means that upon the occurrence of such a Termination Event, if such specific party is the Affected Party with respect to a Tax Event, the Burdened Party with respect to a Tax Event Upon Merger (except as noted below) or the non-Affected Party with respect to a Credit Event Upon Merger, as the case may be, such specific party shall have the right to designate an Early Termination Date in accordance with Section 6 of this Agreement; conversely, the statement below that such an event will not apply to a specific party means that such party shall not have such right; provided, however, with respect to “Illegality” the statement that such event will apply to a specific party means that upon the occurrence of such a Termination Event with respect to such party, either party shall have the right to designate an Early Termination Date in accordance with Section 6 of this Agreement.
+
+(i)
+
+ The “Illegality” provisions of Section 5(b)(i) will apply to Party A and will apply to Party B.
+
+ (ii)
+
+ The “Tax Event” provisions of Section 5(b)(ii) will apply to Party A except that, for purposes of the application of Section 5(b)(ii) to Party A, Section 5(b)(ii) is hereby amended by deleting the words “(x) any action taken by a taxing authority, or brought in a court of competent jurisdiction, on or after the date on which a Transaction is entered into (regardless of whether such action is taken or brought with respect to a party to this Agreement) or (y)”, and the “Tax Event” provisions of Section 5(b)(ii) will apply to Party B. 
+
+ (iii)
+
+ The “Tax Event Upon Merger” provisions of Section 5(b)(iii) will apply to Party A and will apply to Party B, provided that Party A shall not be entitled to designate an Early Termination Date by reason of a Tax Event upon Merger in respect of which it is the Affected Party.
+
+ (iv)
+
+ The “Credit Event Upon Merger” provisions of Section 5(b)(iv) will not apply to Party A and will not apply to Party B.
+
+ (e)
+
+ The “Automatic Early Termination” provision of Section 6(a) will not apply to Party A and will not apply to Party B.
+
+ (f)
+
+ Payments on Early Termination. For the purpose of Section 6(e) of this Agreement:
+
+ (i)
+
+ Market Quotation will apply, provided, however, that, in the event of a Derivative Provider Trigger Event, the following provisions will apply:
+
+ (A) 
+
+ The definition of Market Quotation in Section 14 shall be deleted in its entirety and replaced with the following:
+
+ “Market Quotation” means, with respect to one or more Terminated Transactions, a Firm Offer which is (1) made by a Reference Market-maker that is an Eligible Replacement, (2) for an amount that would be paid to Party B (expressed as a negative number) or by Party B (expressed as a positive number) in consideration of an agreement between Party B and such Reference Market-maker to enter into a Replacement Transaction, and (3) made on the basis that Unpaid Amounts in respect of the Terminated Transaction or group of Transactions are to be excluded but, without limitation, any payment or delivery that would, but for the relevant Early Termination Date, have been required (assuming satisfaction of each applicable condition precedent) after that Early Termination Date is to be included. The party making the determination (or its agent) will request each Reference Market-maker to provide its quotation to the extent reasonably practicable as of the same day and time (without regard to different time zones) on or as soon as reasonably practicable after the relevant Early Termination Date. The day and time as of which those quotations are to be obtained will be selected in good faith by the party obliged to make a determination under Section 6(e), and, if each party is so obliged, after consultation with the other. 
+
+ (B)
+
+ The definition of Settlement Amount shall be deleted in its entirety and replaced with the following:
+
+ “Settlement Amount” means, with respect to any Early Termination Date, an amount (as determined by Party B) equal to: 
+
+ (a)
+
+ If a Market Quotation for the relevant Terminated Transaction or group of Terminated Transactions is accepted by Party B so as to become legally binding on or before the day falling ten Local Business Days after the day on which the Early Termination Date is designated, or such later day as Party B may specify in writing to Party A, but in either case no later than one Local Business Day prior to the Early Termination Date (such day, the “Latest Settlement Amount Determination Day”), the Termination Currency Equivalent of the amount (whether positive or negative) of such Market Quotation; 
+
+ (b)
+
+ If, on the Latest Settlement Amount Determination Day, no Market Quotation for the relevant Terminated Transaction or group of Terminated Transactions has been accepted by Party B so as to become legally binding and one or more Market Quotations from Approved Replacements have been made and remain capable of becoming legally binding upon acceptance, the Settlement Amount shall equal the Termination Currency Equivalent of the amount (whether positive or negative) of the lowest of such Market Quotations (for the avoidance of doubt, the lowest of such Market Quotations shall be the lowest Market Quotation of such Market Quotations expressed as a positive number or, if any of such Market Quotations is expressed as a negative number, the Market Quotation expressed as a negative number with the largest absolute value); or
+
+ (c)
+
+ If, on the Latest Settlement Amount Determination Day, no Market Quotation for the relevant Terminated Transaction or group of Terminated Transactions is accepted by Party B so as to become legally binding and no Market Quotation from an Approved Replacement remains capable of becoming legally binding upon acceptance, the Settlement Amount shall equal Party B’s Loss (whether positive or negative and without reference to any Unpaid Amounts) for the relevant Terminated Transaction or group of Terminated Transactions.
+
+ (C)
+
+ If Party B requests Party A in writing to obtain Market Quotations, Party A shall use its reasonable efforts to do so before the Latest Settlement Amount Determination Day.
+
+ (D)
+
+ If the Settlement Amount is a negative number, Section 6(e)(i)(3) shall be deleted in its entirety and replaced with the following:
+
+ “(3) Second Method and Market Quotation. If the Second Method and Market Quotation apply, (I) Party B shall pay to Party A an amount equal to the absolute value of the Settlement Amount in respect of the Terminated Transactions, (II) Party B shall pay to Party A the Termination Currency Equivalent of the Unpaid Amounts owing to Party A and (III) Party A shall pay to Party B the Termination Currency Equivalent of the Unpaid Amounts owing to Party B; provided, however, that (x) the amounts payable under the immediately preceding clauses (II) and (III) shall be subject to netting in accordance with Section 2(c) of this Agreement and (y) notwithstanding any other provision of this Agreement, any amount payable by Party A under the immediately preceding clause (III) shall not be netted-off against any amount payable by Party B under the immediately preceding clause (I).”
+
+ (E)
+
+ At any time on or before the Latest Settlement Amount Determination Day at which two or more Market Quotations from Approved Replacements remain capable of becoming legally binding upon acceptance, Party B shall be entitled to accept only the lowest of such Market Quotations (for the avoidance of doubt, the lowest of such Market Quotations shall be the lowest Market Quotation of such Market Quotations expressed as a positive number or, if any of such Market Quotations is expressed as a negative number, the Market Quotation expressed as a negative number with the largest absolute value).
+
+ (ii)
+
+ The Second Method will apply.
+
+ (g)
+
+ “Termination Currency” means USD.
+
+ (h) 
+
+ Additional Termination Events. Additional Termination Events will apply as provided in Part 5(c). 
+
+ Part 2. 
+
+ Tax Matters. 
+
+ (a)
+
+ Tax Representations. 
+
+ (i)
+
+ Payer Representations. For the purpose of Section 3(e) of this Agreement: 
+
+ (A)
+
+ Party A makes the following representation(s):
+
+ It is not required by any applicable law, as modified by the practice of any relevant governmental revenue authority, of any Relevant Jurisdiction to make any deduction or withholding for or on account of any Tax from any payment (other than interest under Section 2(e), 6(d)(ii) or 6(e) of this Agreement) to be made by it to the other party under this Agreement. In making this representation, it may rely on: the accuracy of any representations made by the other party pursuant to Section 3(f) of this Agreement; (ii) the satisfaction of the agreement contained in Section 4(a)(i) or 4(a)(iii) of this Agreement and the accuracy and effectiveness of any document provided by the other party pursuant to Section 4(a)(i) or 4(a)(iii) of this Agreement; and (iii) the satisfaction of the agreement of the other party contained in Section 4(d) of this Agreement, provided that it shall not be a breach of this representation where reliance is placed on clause (ii) and the other party does not deliver a form or document under Section 4(a)(iii) by reason of material prejudice to its legal or commercial position.
+
+ (B)
+
+ Party B makes the following representation(s):
+
+ None.
+
+ (ii) 
+
+ Payee Representations. For the purpose of Section 3(f) of this Agreement: 
+
+ (A)
+
+ Party A makes the following representation(s):
+
+ SRFP represents that it is a corporation organized under the laws of the State of Delaware. 
+
+ (B)
+
+ Party B makes the following representation(s):
+
+ None. 
+
+ (b)
+
+ Tax Provisions. 
+
+ (i)
+
+ Gross Up. Section 2(d)(i)(4) shall not apply to Party B as X, and Section 2(d)(ii) shall not apply to Party B as Y, in each case such that Party B shall not be required to pay any additional amounts referred to therein.
+
+ (ii)
+
+ Indemnifiable Tax. The definition of “Indemnifiable Tax” in Section 14 is deleted in its entirety and replaced with the following:
+
+ “Indemnifiable Tax” means, in relation to payments by Party A, any Tax and, in relation to payments by Party B, no Tax. 
+
+ Part 3. 
+
+ Agreement to Deliver Documents. 
+
+ (a)
+
+ For the purpose of Section 4(a)(i), tax forms, documents, or certificates to be delivered are:
+
+ Party required to deliver document 
+
+ Form/Document/ 
+
+ Certificate 
+
+ Date by which to 
+
+ be delivered 
+
+ Party A
+
+ A correct, complete and duly executed U.S. Internal Revenue Service Form W-9 or other applicable form (or successor thereto), together with appropriate attachments, that eliminates U.S. federal withholding and backup withholding Tax on payments to Party A under this Agreement.
+
+ (i) Before the first scheduled payment; (ii) promptly upon reasonable demand by Party B; and (iii) promptly upon learning that any Form W-9 or other applicable form (or any successor thereto) previously provided by Party A has become obsolete or incorrect.
+
+ Party B
+
+ Party B will deliver at closing, or promptly thereafter, a correct, complete and duly executed U.S. Internal Revenue Service Form W-9 or other applicable form (or successor thereto), together with appropriate attachments, that eliminates U.S. federal withholding and backup withholding Tax on payments to Party B under this Agreement, and may deliver other tax forms relating to the beneficial owner of payments to Party B under this Agreement from time to time.
+
+ (i) Before the first scheduled payment; (ii) promptly upon reasonable demand by Party B; and (iii) promptly upon learning that any Form W-9 or other applicable form (or any successor thereto) previously provided by Party A has become obsolete or incorrect.
+
+ (b)
+
+ For the purpose of Section 4(a)(ii), other documents to be delivered are:
+
+ Party required to deliver document 
+
+ Form/Document/ 
+
+ Certificate 
+
+ Date by which to 
+
+ be delivered 
+
+ Covered by Section 3(d) Representation 
+
+ Party A and
+
+ Party B
+
+ Any documents required by the receiving party to evidence the authority of the delivering party or its Credit Support Provider, if any, for it to execute and deliver the Agreement, this Confirmation, and any Credit Support Documents to which it is a party, and to evidence the authority of the delivering party or its Credit Support Provider to perform its obligations under the Agreement, this Confirmation and any Credit Support Document, as the case may be
+
+ Upon the execution and delivery of this Agreement
+
+ Yes
+
+ Party A and
+
+ Party B
+
+ A certificate of an authorized officer of the party, as to the incumbency and authority of the respective officers of the party signing the Agreement, this Confirmation, and any relevant Credit Support Document, as the case may be
+
+ Upon the execution and delivery of this Agreement
+
+ Yes
+
+ Party A
+
+ Annual Report of Party A containing consolidated financial statements certified by independent certified public accountants and prepared in accordance with generally accepted accounting principles in the country in which Party A is organized
+
+ Promptly upon becoming publicly available
+
+ Yes
+
+ Party A
+
+ Quarterly Financial Statements of Party A containing unaudited, consolidated financial statements of Party A’s fiscal quarter prepared in accordance with generally accepted accounting principles in the country in which Party A is organized
+
+ Promptly upon becoming publicly available
+
+ Yes
+
+ Party A
+
+ An opinion of counsel to Party A in form acceptable to Party B
+
+ Upon the execution and delivery of this Agreement
+
+ No
+
+ Party A
+
+ A guarantee of Swiss Reinsurance Company substantially in the form of Exhibit A to this Confirmation
+
+ Upon the execution and delivery of this Agreement
+
+ No
+
+ Party A
+
+ An opinion of counsel to Party A’s Guarantor substantially in the form of Exhibit B to this Confirmation 
+
+ Upon the execution and delivery of this Agreement
+
+ No
+
+ Part 4. Miscellaneous. 
+
+ (a)
+
+ Address for Notices: For the purposes of Section 12(a) of this Agreement:
+
+ Address for notices or communications to Party A:
+
+ Address: Swiss Re Financial Products Corporation
+
+ 55 East 52nd Street
+
+ New York, New York 10055
+
+ Attention: Head of Operations
+
+ Facsimile No. (917) 322-7201
+
+ (For all purposes)
+
+ With a copy to: Swiss Re Financial Products Corporation
+
+ 55 East 52nd Street
+
+ New York, New York 10055
+
+ Attention: Legal Department
+
+ Facsimile No.: (212) 317-5474
+
+ Address for notices or communications to Party B:
+
+ Wells Fargo Bank, N.A.
+
+ 9062 Old Annapolis Road Columbia, Maryland 21045 
+
+ Attn: Client Manager - MASTR Adjustable Rate Mortgages Trust 2007-3
+
+ Telephone: 410.884.2000 
+
+ Fax: 410.715.2380
+
+ (b)
+
+ Process Agent. For the purpose of Section 13(c):
+
+ Party A appoints as its Process Agent: Not applicable.
+
+ Party B appoints as its Process Agent: Not applicable.
+
+ (c)
+
+ Offices. The provisions of Section 10(a) will apply to this Agreement; neither Party A nor Party B has any Offices other than as set forth in the Notices Section.
+
+ (d)
+
+ Multibranch Party. For the purpose of Section 10(c) of this Agreement:
+
+ Party A is not a Multibranch Party.
+
+ Party B is not a Multibranch Party.
+
+ (e)
+
+ Calculation Agent. The Calculation Agent is Party A; provided, however, that if an Event of Default shall have occurred with respect to Party A, Party B shall have the right to appoint as Calculation Agent a third party, reasonably acceptable to Party A, the cost for which shall be borne by Party A.
+
+ (f)
+
+ Credit Support Document. 
+
+ Party A:
+
+ The Credit Support Annex, and any guarantee in support of Party A’s obligations under this Agreement.
+
+ Party B:
+
+ The Credit Support Annex, solely in respect of Party B’s obligations under Paragraph 3(b) of the Credit Support Annex.
+
+ (g)
+
+ Credit Support Provider. 
+
+ Party A:
+
+ The guarantor under any guarantee in support of Party A’s obligations under this Agreement.
+
+ Party B:
+
+ None.
+
+ (h)
+
+ Governing Law. The parties to this Agreement hereby agree that the law of the State of New York shall govern their rights and duties in whole, without regard to the conflict of law provisions thereof other than New York General Obligations Law Sections 5-1401 and 5-1402. 
+
+ (i)
+
+ Netting of Payments. The parties agree that subparagraph (ii) of Section 2(c) will apply to each Transaction hereunder. 
+
+ (j)
+
+ Affiliate. “Affiliate” shall have the meaning assigned thereto in Section 14; provided, however, that Party B shall be deemed to have no Affiliates for purposes of this Agreement, including for purposes of Section 6(b)(ii).
+
+ Part 5. 
+
+ Others Provisions. 
+
+ (a)
+
+ Definitions. Unless otherwise specified in a Confirmation, this Agreement and each Transaction under this Agreement are subject to the 2000 ISDA Definitions as published and copyrighted in 2000 by the International Swaps and Derivatives Association, Inc. (the “Definitions” ), and will be governed in all relevant respects by the provisions set forth in the Definitions, without regard to any amendment to the Definitions subsequent to the date hereof. The provisions of the Definitions are hereby incorporated by reference in and shall be deemed a part of this Agreement, except that (i) references in the Definitions to a “Swap Transaction” shall be deemed references to a “Transaction” for purposes of this Agreement, and (ii) references to a “Transaction” in this Agreement shall be deemed references to a “Swap Transaction” for purposes of the Definitions. Each term capitalized but not defined in this Agreement shall have the meaning assigned thereto in the Pooling and Servicing Agreement.
+
+ (b)
+
+ Amendments to ISDA Master Agreement. 
+
+ (i)
+
+ Single Agreement. Section 1(c) is hereby amended by the adding the words “including, for the avoidance of doubt, the Credit Support Annex” after the words “Master Agreement”. 
+
+ (ii)
+
+ [Reserved] 
+
+ (iii)
+
+ Change of Account. Section 2(b) is hereby amended by the addition of the following after the word “delivery” in the first line thereof:
+
+ “to another account in the same legal and tax jurisdiction as the original account”.
+
+ (iv)
+
+ Representations. Section 3 is hereby amended by adding at the end thereof the following subsection (g): 
+
+ “(g)
+
+ Relationship Between Parties. 
+
+ (1)
+
+ Nonreliance. (i) It is not relying on any statement or representation of the other party regarding the Transaction (whether written or oral), other than the representations expressly made in this Agreement or the Confirmation in respect of that Transaction and (ii) it has consulted with its own legal, regulatory, tax, business, investment, financial and accounting advisors to the extent it has deemed necessary, and it has made its own investment, hedging and trading decisions based upon its own judgment and upon any advice from such advisors as it has deemed necessary and not upon any view expressed by the other party.
+
+ (2)
+
+ Evaluation and Understanding. (i) It has the capacity to evaluate (internally or through independent professional advice) the Transaction and has made its own decision subject to Section 6(n) of this Agreement to enter into the Transaction and (ii) It understands the terms, conditions and risks of the Transaction and is willing and able to accept those terms and conditions and to assume those risks, financially and otherwise. 
+
+ (3)
+
+ Purpose. It is entering into the Transaction for the purposes of managing its borrowings or investments, hedging its underlying assets or liabilities or in connection with a line of business. 
+
+ (4)
+
+ Status of Parties. The other party is not acting as an agent, fiduciary or advisor for it in respect of the Transaction. 
+
+ (5)
+
+ Eligible Contract Participant. It is an “eligible swap participant” as such term is defined in, Section 35.1(b)(2) of the regulations (17 C.F.R. 35) promulgated under, and an “eligible contract participant” as defined in Section 1(a)(12) of the Commodity Exchange Act, as amended.”
+
+ (v)
+
+ Transfer to Avoid Termination Event. Section 6(b)(ii) is hereby amended by (i) deleting the words “or if a Tax Event Upon Merger occurs and the Burdened Party is the Affected Party,” and (ii) by deleting the words “to transfer” and inserting the words “to effect a Permitted Transfer” in lieu thereof.
+
+ (vi) 
+
+ Jurisdiction. Section 13(b) is hereby amended by: (i) deleting in the second line of subparagraph (i) thereof the word "non-", (ii) deleting “; and” from the end of subparagraph 1 and inserting “.” in lieu thereof, and (iii) deleting the final paragraph thereof.
+
+ (vii)
+
+ Local Business Day. The definition of Local Business Day in Section 14 is hereby amended by the addition of the words “or any Credit Support Document” after “Section 2(a)(i)” and the addition of the words “or Credit Support Document” after “Confirmation”. 
+
+ (c)
+
+ Additional Termination Events. The following Additional Termination Events will apply:
+
+ (i) 
+
+ First Rating Trigger Collateral. If (A) it is not the case that a Moody’s Second Trigger Ratings Event has occurred and been continuing for 30 or more Local Business Days and (B) Party A has failed to comply with or perform any obligation to be complied with or performed by Party A in accordance with the Credit Support Annex, then an Additional Termination Event shall have occurred with respect to Party A and Party A shall be the sole Affected Party with respect to such Additional Termination Event. 
+
+ (ii) 
+
+ Second Rating Trigger Replacement. If (A) a Required Ratings Downgrade Event has occurred and been continuing for 30 or more Local Business Days and (B) (i) at least one Eligible Replacement has made a Firm Offer to be the transferee of all of Party A’s rights and obligations under this Agreement (and such Firm Offer remains an offer that will become legally binding upon such Eligible Replacement upon acceptance by the offeree) and/or (ii) an Eligible Guarantor has made a Firm Offer to provide an Eligible Guarantee (and such Firm Offer remains an offer that will become legally binding upon such Eligible Guarantor immediately upon acceptance by the offeree), then an Additional Termination Event shall have occurred with respect to Party A and Party A shall be the sole Affected Party with respect to such Additional Termination Event. 
+
+ (iii)
+
+ Amendment of Pooling and Servicing Agreement. If, without the prior written consent of Party A where such consent is required under the Pooling and Servicing Agreement (such consent not to be unreasonably withheld), an amendment is made to the Pooling and Servicing Agreement which amendment could reasonably be expected to have a material adverse effect on the interests of Party A (excluding, for the avoidance of doubt, any amendment to the Pooling and Servicing Agreement that is entered into solely for the purpose of appointing a successor servicer, master servicer, trust administrator, trustee or other service provider) under this Agreement, an Additional Termination Event shall have occurred with respect to Party B and Party B shall be the sole Affected Party with respect to such Additional Termination Event. 
+
+ (iv)
+
+ Provision of Information Required by Regulation AB. Party A shall fail to comply with the provisions of Part 5(e) upon the occurrence of a Swap Disclosure Event. For all purposes of this Agreement, Party A shall be the sole Affected Party with respect to such Additional Termination Event.
+
+ (v)
+
+ Optional Termination of Securitization. An Additional Termination Event shall occur upon the notice to Certificateholders of a Group 2 Optional Termination becoming unrescindable in accordance with Article X of the Pooling and Servicing Agreement (such notice, the “Optional Termination Notice” ). With respect to such Additional Termination Event: (A) Party B shall be the sole Affected Party; (B) notwithstanding anything to the contrary in Section 6(b)(iv) or Section 6(c)(i), the final Distribution Date specified in the Optional Termination Notice is hereby designated as the Early Termination Date for this Additional Termination Event in respect of all Affected Transactions; (C) Section 2(a)(iii)(2) shall not be applicable to any Affected Transaction in connection with the Early Termination Date resulting from this Additional Termination Event; notwithstanding anything to the contrary in Section 6(c)(ii), payments and deliveries under Section 2(a)(i) or Section 2(e) in respect of the Terminated Transactions resulting from this Additional Termination Event will be required to be made through and including the Early Termination Date designated as a result of this Additional Termination Event; provided, for the avoidance of doubt, that any such payments or deliveries that are made on or prior to such Early Termination Date will not be treated as Unpaid Amounts in determining the amount payable in respect of such Early Termination Date; (D) notwithstanding anything to the contrary in Section 6(d)(i), (I) if, no later than 4:00 pm New York City time on the day that is four Business Days prior to the final Distribution Date specified in the Optional Termination Notice, the Trustee of the Supplemental Interest Trust requests the amount of the Estimated Swap Termination Payment, Party A shall provide to the Trustee of the Supplemental Interest Trust in writing (which may be done in electronic format) the amount of the Estimated Swap Termination Payment no later than 2:00 pm New York City time on the following Business Day and (II) if the Trustee of the Supplemental Interest Trust, provides written notice (which may be done in electronic format) to Party A no later than two Business Days prior to the final Distribution Date specified in the Optional Termination Notice that all requirements of the Optional Termination have been met, then Party A shall, no later than one Business Day prior to the final Distribution Date specified in the Optional Termination Notice, make the calculations contemplated by Section 6(e) of the ISDA Master Agreement (as amended herein) and provide to the Trustee of the Supplemental Interest Trust, in writing (which may be done in electronic format) the amount payable by either Party B or Party A in respect of the related Early Termination Date in connection with this Additional Termination Event; provided, however, that the amount payable by Party B, if any, in respect of the related Early Termination Date shall be the lesser of (x) the amount calculated to be due by Party B pursuant to Section 6(e) and (y) the Estimated Swap Termination Payment; and (E) notwithstanding anything to the contrary in this Agreement, any amount due from Party B to Party A in respect of this Additional Termination Event will be payable on the final Distribution Date specified in the Optional Termination Notice and any amount due from Party A to Party B in respect of this Additional Termination Event will be payable one Business Day prior to the final Distribution Date specified in the Optional Termination Notice. 
+
+ The Trustee of the Supplemental Interest Trust shall be an express third party beneficiary of this Agreement as if a party hereto to the extent of the Trustee of the Supplemental Interest Trust‘s rights specified herein. 
+
+ (d)
+
+ Required Ratings Downgrade Event. In the event that no Relevant Entity has credit ratings at least equal to the Required Ratings Threshold (such event, a “Required Ratings Downgrade Event” ), then Party A shall, as soon as reasonably practicable and so long as a Required Ratings Downgrade Event is in effect, at its own expense, using commercially reasonable efforts, procure either (A) a Permitted Transfer or (B) an Eligible Guarantee from an Eligible Guarantor. 
+
+ (e) 
+
+ Compliance with Regulation AB. (i) For purposes of Item 1115 of Subpart 229.1100 – Asset Backed Securities (Regulation AB) (17 C.F.R. ss.ss.229.1100 – 229.1123) (“Regulation AB”) under the Securities Act of 1933, as amended, and the Securities Exchange Act of 1934, as amended (the “Exchange Act”), as amended and interpreted by the Securities and Exchange Commission and its staff, if the Depositor or Party B makes a determination, acting reasonably and in good faith, that (x) the applicable “significance percentage” with respect to this Agreement has been reached, and (y) it has a reporting obligation under the Exchange Act (a “Swap Disclosure Event”), then Party A shall, within ten (10) calendar days after notice to that effect, at its sole expense, take one of the following actions (each subject to satisfaction of the Rating Agency Condition): (1) provide (including, if permitted by Regulation AB, provision by reference to reports filed pursuant to the Exchange Act or otherwise publicly available information): (A) the financial data required by Item 301 of Regulation S–K (17 C.F.R. §229.301), pursuant to Item 1115(b)(1); (B) financial statements meeting the requirements of Regulation S–X (17 C.F.R. §§210.1–01 through 210.12–29, but excluding 17 C.F.R. ss. 210.3–05 and Article 11 of Regulation S–X (17 C.F.R. ss. ss. 210.11–01 through 210.11–03)), pursuant to Item 1115(b)(2); or (C) such other financial information as may at the time be required or permitted to be provided in satisfaction of the requirements of Item 1115(b), together with accountants consents and/or a procedure letter relating thereto; or (2) secure an Approved Replacement that is able to comply with the requirements of Item 1115(b) of Regulation AB to replace Party A as party to this Agreement, on substantially similar terms, the debt rating of which entity (or credit support provider therefor) meets or exceeds the applicable requirements of the applicable Rating Agencies.
+
+ (ii) For so long as the aggregate significance percentage is 10% or more, Party A shall provide any updates to the information provided pursuant to clause (i)(1) above to the Depositor within five (5) Business Days following availability thereof (but in no event more than 45 days after the end of each of Party’s fiscal quarter for any quarterly update, and in no event more than 90 days after the end of each of Party A’s fiscal year for any annual update).
+
+ (iii) All information provided pursuant to clauses (i)(1) and (ii) shall be in a form suitable for conversion to the format required for filing by the Deposition with the Commission via the Electronic Data Gathering and Retrieval System (EDGAR). In addition, any such information, if audited, shall be accompanied by any necessary auditor’s consents or, if such information is unaudited, shall be accompanied by an appropriate agreed-upon procedures letter from Party A’s accountants. If permitted by Regulation AB, any such information may be provided by reference to or incorporation by reference from reports filed pursuant to the Exchange Act.
+
+ (iv) Third Party Beneficiary. The Depositor shall be an express third party beneficiary of this Agreement as if a party hereto to the extent of the Depositor’s rights explicitly specified herein.
+
+ (f)
+
+ Transfers. 
+
+ (i)
+
+ Section 7 is hereby amended to read in its entirety as follows:
+
+ “Subject to Section 6(b)(ii), Part 5(d), and Part 5(e), neither Party A nor Party B is permitted to assign, novate or transfer (whether by way of security or otherwise) as a whole or in part any of its rights, obligations or interests under the Agreement or any Transaction without (a) the prior written consent of the other party and (b) satisfaction of the Rating Agency Condition with respect to S&P and DBRS.” 
+
+ (ii)
+
+ If an Eligible Replacement has made a Firm Offer (which remains an offer that will become legally binding upon acceptance by Party B) to be the transferee pursuant to a Permitted Transfer, Party B shall, at Party A’s written request and at Party A’s expense, take any reasonable steps required to be taken by Party B to effect such transfer. 
+
+ (g)
+
+ Non-Recourse. Party A acknowledges and agree that, notwithstanding any provision in this Agreement to the contrary, the obligations of Party B hereunder are limited recourse obligations of Party B, payable solely from the Trust and the proceeds thereof, in accordance with the priority of payments and other terms of the Pooling and Servicing Agreement and that Party A will not have any recourse to any of the directors, officers, employees, shareholders or affiliates of the Party B with respect to any claims, losses, damages, liabilities, indemnities or other obligations in connection with any transactions contemplated hereby. In the event that the Trust and the proceeds thereof, should be insufficient to satisfy all claims outstanding and following the realization of the account held by the Trust and the proceeds thereof, any claims against or obligations of Party B under the ISDA Master Agreement or any other confirmation thereunder still outstanding shall be extinguished and thereafter not revive. The Trustee of the Supplemental Interest Trust, shall not have liability for any failure or delay in making a payment hereunder to Party A due to any failure or delay in receiving amounts in the account held by the Trust from the Trust created pursuant to the Pooling and Servicing Agreement. This provision will survive the termination of this Agreement.
+
+ (h)
+
+ Timing of Payments by Party B upon Early Termination. Notwithstanding anything to the contrary in Section 6(d)(ii), to the extent that all or a portion (in either case, the “Unfunded Amount”) of any amount that is calculated as being due in respect of any Early Termination Date under Section 6(e) from Party B to Party A will be paid by Party B from amounts other than any upfront payment paid to Party B by an Eligible Replacement that has entered a Replacement Transaction with Party B, then such Unfunded Amount shall be due on the next subsequent Distribution Date following the date on which the payment would have been payable as determined in accordance with Section 6(d)(ii), and on any subsequent Distribution Dates until paid in full (or if such Early Termination Date is the final Distribution Date, on such final Distribution Date); provided, however, that if the date on which the payment would have been payable as determined in accordance with Section 6(d)(ii) is a Distribution Date, such payment will be payable on such Distribution Date.
+
+ (i)
+
+ Rating Agency Notifications. Notwithstanding any other provision of this Agreement, no Early Termination Date shall be effectively designated hereunder by Party B and no transfer of any rights or obligations under this Agreement shall be made by either party unless each Swap Rating Agency has been given prior written notice of such designation or transfer. 
+
+ (j)
+
+ No Set-off. Except as expressly provided for in Section 2(c), Section 6 or Part 1(f)(i)(D) hereof, and notwithstanding any other provision of this Agreement or any other existing or future agreement, each party irrevocably waives any and all rights it may have to set off, net, recoup or otherwise withhold or suspend or condition payment or performance of any obligation between it and the other party hereunder against any obligation between it and the other party under any other agreements. Section 6(e) shall be amended by deleting the following sentence: “The amount, if any, payable in respect of an Early Termination Date and determined pursuant to this Section will be subject to any Set-off.”.
+
+ (k)
+
+ Amendment. Notwithstanding any provision to the contrary in this Agreement, no amendment of either this Agreement or any Transaction under this Agreement shall be permitted by either party unless each of the Swap Rating Agencies has been provided prior written notice of the same and each of the Rating Agencies as determined in the Pooling and Servicing Agreemnet confirms in writing (including by facsimile transmission) that it will not downgrade, withdraw or otherwise modify its then-current ratings of the Certificates or the Notes. 
+
+ (l)
+
+ Notice of Certain Events or Circumstances. Each Party agrees, upon learning of the occurrence or existence of any event or condition that constitutes (or that with the giving of notice or passage of time or both would constitute) an Event of Default or Termination Event with respect to such party, promptly to give the other Party and to each Swap Rating Agency notice of such event or condition; provided that failure to provide notice of such event or condition pursuant to this Part 5(l) shall not constitute an Event of Default or a Termination Event.
+
+ (m)
+
+ Proceedings. No Relevant Entity shall institute against, or cause any other person to institute against, or join any other person in instituting against Party B, the Trust, or the trust formed pursuant to the Pooling and Servicing Agreement, in any bankruptcy, reorganization, arrangement, insolvency or liquidation proceedings or other proceedings under any federal or state bankruptcy or similar law for a period of one year (or, if longer, the applicable preference period) and one day following payment in full of the Certificates and any Notes. This provision will survive the termination of this Agreement. 
+
+ (n)
+
+ Trustee of the Supplemental Interest Trust Liability Limitations. It is expressly understood and agreed by the parties hereto that (a) this Agreement is executed by Wells Fargo Bank, N.A. (“Wells Fargo”) not in its individual capacity, but solely as Trustee of the Supplemental Interest Trust under the Pooling and Servicing Agreement in the exercise of the powers and authority conferred upon and vested in it thereunder; (b) Wells Fargo has been directed pursuant to the Pooling and Servicing Agreement to enter into this Agreement and to perform its obligations hereunder; (c) each of the representations, undertakings and agreements herein made on behalf of the Trust is made and intended not as a personal representation, undertaking or agreement of Wells Fargo but is made and intended for the purpose of binding only the Trust; and (d) under no circumstances shall Wells Fargo in its individual capacity be personally liable for any payments hereunder or for the breach or failure of any obligation, representation, warranty or covenant made or undertaken under this Agreement.
+
+ (o)
+
+ Severability. If any term, provision, covenant, or condition of this Agreement, or the application thereof to any party or circumstance, shall be held to be invalid or unenforceable (in whole or in part) in any respect, the remaining terms, provisions, covenants, and conditions hereof shall continue in full force and effect as if this Agreement had been executed with the invalid or unenforceable portion eliminated, so long as this Agreement as so modified continues to express, without material change, the original intentions of the parties as to the subject matter of this Agreement and the deletion of such portion of this Agreement will not substantially impair the respective benefits or expectations of the parties; provided, however, that this severability provision shall not be applicable if any provision of Section 2, 5, 6, or 13 (or any definition or provision in Section 14 to the extent it relates to, or is used in or in connection with any such Section) shall be so held to be invalid or unenforceable. 
+
+ The parties shall endeavor to engage in good faith negotiations to replace any invalid or unenforceable term, provision, covenant or condition with a valid or enforceable term, provision, covenant or condition, the economic effect of which comes as close as possible to that of the invalid or unenforceable term, provision, covenant or condition. 
+
+ (p)
+
+ Agent for Party B. [Reserved].
+
+ (q)
+
+ Escrow Payments. If (whether by reason of the time difference between the cities in which payments are to be made or otherwise) it is not possible for simultaneous payments to be made on any date on which both parties are required to make payments hereunder, either Party may at its option and in its sole discretion notify the other Party that payments on that date are to be made in escrow. In this case deposit of the payment due earlier on that date shall be made by 2:00 pm (local time at the place for the earlier payment) on that date with an escrow agent selected by the notifying party, accompanied by irrevocable payment instructions (i) to release the deposited payment to the intended recipient upon receipt by the escrow agent of the required deposit of any corresponding payment payable by the other party on the same date accompanied by irrevocable payment instructions to the same effect or (ii) if the required deposit of the corresponding payment is not made on that same date, to return the payment deposited to the party that paid it into escrow. The party that elects to have payments made in escrow shall pay all costs of the escrow arrangements.
+
+ (r)
+
+ Consent to Recording. Each party hereto consents to the monitoring or recording, at any time and from time to time, by the other party of any and all communications between trading, marketing, and operations personnel of the parties and their Affiliates, waives any further notice of such monitoring or recording, and agrees to notify such personnel of such monitoring or recording. 
+
+ (s)
+
+ Waiver of Jury Trial. Each party waives any right it may have to a trial by jury in respect of any in respect of any suit, action or proceeding relating to this Agreement or any Credit Support Document. 
+
+ (t)
+
+ Form of ISDA Master Agreement. Party A and Party B hereby agree that the text of the body of the ISDA Master Agreement is intended to be the printed form of the ISDA Master Agreement (Multicurrency – Crossborder) as published and copyrighted in 1992 by the International Swaps and Derivatives Association, Inc.
+
+ (u)
+
+ Payment Instructions. Party A hereby agrees that, unless notified in writing by Party B of other payment instructions, any and all amounts payable by Party A to Party B under this Agreement shall be paid to the account specified in Item 4 of this Confirmation, below. 
+
+ (v)
+
+ Additional representations. 
+
+ (i)
+
+ Representations of Party A. Party A represents to Party B on the date on which Party A enters into each Transaction that:--
+
+ Party A’s obligations under this Agreement rank pari passu with all of Party A’s other unsecured, unsubordinated obligations except those obligations preferred by operation of law.
+
+ (ii)
+
+ Capacity. Party A represents to Party B on the date on which Party A enters into this Agreement that it is entering into the Agreement and the Transaction as principal and not as agent of any person. Party B represents to Party A on the date on which Party B enters into this Agreement that it is entering into the Agreement and the Transaction in its capacity as Trustee of the Supplemental Interest Trust.
+
+ (w)
+
+ Acknowledgements. 
+
+ (i)
+
+ Substantial financial transactions. Each party hereto is hereby advised and acknowledges as of the date hereof that the other party has engaged in (or refrained from engaging in) substantial financial transactions and has taken (or refrained from taking) other material actions in reliance upon the entry by the parties into the Transaction being entered into on the terms and conditions set forth herein and in the Pooling and Servicing Agreement relating to such Transaction, as applicable. This paragraph shall be deemed repeated on the trade date of each Transaction.
+
+ (ii)
+
+ Bankruptcy Code. Subject to Part 5(m), without limiting the applicability if any, of any other provision of the U.S. Bankruptcy Code as amended (the “Bankruptcy Code”) (including without limitation Sections 362, 546, 556, and 560 thereof and the applicable definitions in Section 101 thereof), the parties acknowledge and agree that all Transactions entered into hereunder will constitute “forward contracts” or “swap agreements” as defined in Section 101 of the Bankruptcy Code or “commodity contracts” as defined in Section 761 of the Bankruptcy Code, that the rights of the parties under Section 6 of this Agreement will constitute contractual rights to liquidate Transactions, that any margin or collateral provided under any margin, collateral, security, pledge, or similar agreement related hereto will constitute a “margin payment” as defined in Section 101 of the Bankruptcy Code, and that the parties are entities entitled to the rights under, and protections afforded by, Sections 362, 546, 556, and 560 of the Bankruptcy Code.
+
+ (x)
+
+ Notices; Demands. In the event that Party A fails to perform any of its obligations under this Agreement (including, without limitation, its obligations to make any payment or transfer collateral), or breaches any of its representations and warranties hereunder, or in the event that an Event of Default, Termination Event, or Additional Termination Event occurs, Party B shall, no later than the next Business Day following such failure, breach or occurrence, notify the Depositor and give any notice of such failure specified in this Agreement and make any demand specified in this Agreement. In the event that Party A’s obligations are at any time guaranteed by a third party, then to the extent that Party A fails to make any payment or delivery required under terms of this Agreement, Party B shall, no later than the next Business Day following such failure, demand that such guarantor make any and all payments then required to be made by the guarantor pursuant to such guarantee. Party B shall cause any replacement swap provider to provide a copy of the related replacement derivative agreement to the Depositor. For the avoidance of doubt, notwithstanding anything in this Agreement to the contrary, the failure of Party B to comply with the requirements of this paragraph shall not constitute an Event of Default or Termination Event. 
+
+ (y)
+
+ [Reserved]
+
+ (z)
+
+ Additional Definitions. 
+
+ As used in this Agreement, the following terms shall have the meanings set forth below, unless the context clearly requires otherwise: 
+
+ “Approved Ratings Threshold” means each of the S&P Approved Ratings Threshold, the Moody’s First Trigger Ratings Threshold, and the DBRS Approved Ratings Threshold.
+
+ “Approved Replacement” means, with respect to a Market Quotation, an entity making such Market Quotation, which entity would satisfy conditions (a), (b), (c) and (e) of the definition of Permitted Transfer (as determined by Party B in its sole discretion, acting in a commercially reasonable manner) if such entity were a Transferee, as defined in the definition of Permitted Transfer.
+
+ “ DBRS ” means DBRS Limited, or any successor thereto.
+
+ “ DBRS Approved Ratings Threshold ” means, with respect to Party A, the guarantor under an Eligible Guarantee, or an Eligible Replacement, a long-term unsecured and unsubordinated debt rating from DBRS of “AA(low)” and a short-term unsecured and unsubordinated debt rating from DBRS of “R-1(middle)”.
+
+ “ DBRS Required Ratings Threshold ” means, with respect to Party A, the guarantor under an Eligible Guarantee, or an Eligible Replacement, a long-term unsecured and unsubordinated debt rating from DBRS of “BBB”.
+
+ “Derivative Provider Trigger Event” means (i) an Event of Default with respect to which Party A is a Defaulting Party, (ii) a Termination Event with respect to which Party A is the sole Affected Party or (iii) an Additional Termination Event with respect to which Party A is the sole Affected Party.
+
+ “Eligible Guarantee” means an unconditional and irrevocable guarantee of all present and future obligations (for the avoidance of doubt, not limited to payment obligations) of Party A or an Eligible Replacement to Party B under this Agreement that is provided by an Eligible Guarantor as principal debtor rather than surety and that is directly enforceable by Party B, the form and substance of which guarantee are subject to the Rating Agency Condition with respect to S&P and DBRS, and either (A) a law firm has given a legal opinion confirming that none of the guarantor’s payments to Party B under such guarantee will be subject to Tax collected by withholding or (B) such guarantee provides that, in the event that any of such guarantor’s payments to Party B are subject to Tax collected by withholding, such guarantor is required to pay such additional amount as is necessary to ensure that the net amount actually received by Party B (free and clear of any Tax collected by withholding) will equal the full amount Party B would have received had no such withholding been required.
+
+ “Eligible Guarantor” means an entity that (A) has credit ratings at least equal to the Approved Ratings Threshold or (B) has credit ratings at least equal to the Required Ratings Threshold, provided, for the avoidance of doubt, that an Eligible Guarantee of an Eligible Guarantor with credit ratings below the Approved Ratings Threshold will not cause a Collateral Event (as defined in the Credit Support Annex) not to occur or continue. 
+
+ “Eligible Replacement” means an entity (A) (i) that has credit ratings at least equal to the Approved Ratings Threshold, (ii) has credit ratings at least equal to the Required Ratings Threshold, provided, for the avoidance of doubt, that an Eligible Guarantee of an Eligible Guarantor with credit ratings below the Approved Ratings Threshold will not cause a Collateral Event (as defined in the Credit Support Annex) not to occur or continue, or (iii) the present and future obligations (for the avoidance of doubt, not limited to payment obligations) of which entity to Party B under this Agreement are guaranteed pursuant to an Eligible Guarantee provided by an Eligible Guarantor and (B) that has executed an Item 1115 Agreement with Depositor.
+
+ “Estimated Swap Termination Payment” means, with respect to an Early Termination Date, an amount determined by Party A in good faith and in a commercially reasonable manner as the maximum payment that could be owed by Party B to Party A in respect of such Early Termination Date pursuant to Section 6(e) of the ISDA Master Agreement, taking into account then current market conditions.
+
+ “Firm Offer” means (A) with respect to an Eligible Replacement, a quotation from such Eligible Replacement (i) in an amount equal to the actual amount payable by or to Party B in consideration of an agreement between Party B and such Eligible Replacement to replace Party A as the counterparty to this Agreement by way of novation or, if such novation is not possible, an agreement between Party B and such Eligible Replacement to enter into a Replacement Transaction (assuming that all Transactions hereunder become Terminated Transactions), and (ii) that constitutes an offer by such Eligible Replacement to replace Party A as the counterparty to this Agreement or enter a Replacement Transaction that will become legally binding upon such Eligible Replacement upon acceptance by Party B, and (B) with respect to an Eligible Guarantor, an offer by such Eligible Guarantor to provide an Eligible Guarantee that will become legally binding upon such Eligible Guarantor upon acceptance by the offeree.
+
+ “Moody’s” means Moody’s Investors Service, Inc., or any successor thereto. 
+
+ “Moody’s First Trigger Ratings Threshold” means, with respect to Party A, the guarantor under an Eligible Guarantee or an Eligible Replacement, (i) if such entity has both a long-term unsecured and unsubordinated debt rating or counterparty rating from Moody’s and a short-term unsecured and unsubordinated debt rating from Moody’s, a long-term unsecured and unsubordinated debt rating or counterparty rating from Moody’s of “A2” and a short-term unsecured and unsubordinated debt rating from Moody’s of “Prime-1”, or (ii) if such entity has only a long-term unsecured and unsubordinated debt rating or counterparty rating from Moody’s, a long-term unsecured and unsubordinated debt rating or counterparty rating from Moody’s of “A1”.
+
+ “Moody’s Second Trigger Ratings Event” means that no Relevant Entity has credit ratings from Moody’s at least equal to the Moody’s Second Trigger Rating Threshold. 
+
+ “Moody’s Second Trigger Ratings Threshold” means, with respect to Party A, the guarantor under an Eligible Guarantee or an Eligible Replacement, (i) if such entity has both a long-term unsecured and unsubordinated debt rating or counterparty rating from Moody’s and a short-term unsecured and unsubordinated debt rating from Moody’s, a long-term unsecured and unsubordinated debt rating or counterparty rating from Moody’s of “A3” or a short-term unsecured and unsubordinated debt rating from Moody’s of “Prime-2”, or (ii) if such entity has only a long-term unsecured and unsubordinated debt rating or counterparty rating from Moody’s, a long-term unsecured and unsubordinated debt rating or counterparty rating from Moody’s of “A3”.
+
+ “Permitted Transfer” means a transfer by novation by Party A to a transferee (the “Transferee” ) of all, but not less than all, of Party A’s rights, liabilities, duties and obligations under this Agreement, with respect to which transfer each of the following conditions is satisfied: (a) the Transferee is an Eligible Replacement that is a recognized dealer in interest rate swaps organized under the laws of the United States of America or a jurisdiction located in the United States of America (or another jurisdiction reasonably acceptable to Party B), (b) as of the date of such transfer neither Party B nor the Transferee would be required to withhold or deduct on account of Tax from any payments under this Agreement, (c) an Event of Default or Termination Event would not occur as a result of such transfer, (d) Party B has consented in writing to the transfer, such consent not to be unreasonably withheld, (e) the transfer would not give rise to a taxable event or any other adverse Tax consequences to Party B or its interest holders, as determined by Party B in its sole discretion, (f) pursuant to a written instrument (the “Transfer Agreement”), the Transferee acquires and assumes all rights and obligations of Party A under the Agreement and the relevant Transaction, (g) Party B shall have determined, in its sole discretion, acting in a commercially reasonable manner, that such Transfer Agreement is effective to transfer to the Transferee all, but not less than all, of Party A’s rights and obligations under the Agreement and all relevant Transactions; (h) Party A will be responsible for any costs or expenses incurred in connection with such transfer (including any replacement cost of entering into a replacement transaction); (i) Moody’s has been given prior written notice of such transfer and the Rating Agency Condition is satisfied with respect to S&P and DBRS; and (j) such transfer otherwise complies with the terms of the Pooling and Servicing Agreement. 
+
+ “Rating Agency Condition” means, with respect to any particular proposed act or omission to act hereunder and each Swap Rating Agency specified in connection with such proposed act or omission, that the party acting or failing to act must consult with each of the specified Swap Rating Agencies and receive from each such Swap Rating Agency a prior written confirmation that the proposed action or inaction would not cause a downgrade or withdrawal of the then-current rating of any Certificates or Notes.
+
+ “Relevant Entity” means Party A and, to the extent applicable, a guarantor under an Eligible Guarantee.
+
+ “Replacement Transaction” means, with respect to any Terminated Transaction or group of Terminated Transactions, a transaction or group of transactions that (i) would have the effect of preserving for Party B the economic equivalent of any payment or delivery (whether the underlying obligation was absolute or contingent and assuming the satisfaction of each applicable condition precedent) by the parties under Section 2(a)(i) in respect of such Terminated Transaction or group of Terminated Transactions that would, but for the occurrence of the relevant Early Termination Date, have been required after that Date, and (ii) has terms which are substantially the same as this Agreement, including, without limitation, rating triggers, Regulation AB compliance, and credit support documentation, save for the exclusion of provisions relating to Transactions that are not Terminated Transaction, as determined by Party B in its sole discretion, acting in a commercially reasonable manner.
+
+ “Required Ratings Downgrade Event” shall have the meaning assigned thereto in Part 5(d).
+
+ “Required Ratings Threshold” means each of the S&P Required Ratings Threshold, the Moody’s Second Trigger Ratings Threshold, and the DBRS Required Ratings Threshold.
+
+ “S&P” means Standard & Poor's Rating Services, a division of The McGraw-Hill Companies, Inc., or any successor thereto. 
+
+ “S&P Approved Ratings Threshold” means, with respect to Party A, the guarantor under an Eligible Guarantee or an Eligible Replacement, a short-term unsecured and unsubordinated debt rating from S&P of “A-1”, or, if such entity does not have a short-term unsecured and unsubordinated debt rating from S&P, a long-term unsecured and unsubordinated debt rating from S&P of “A+”.
+
+ “S&P Required Ratings Threshold” means, with respect to Party A, the guarantor under an Eligible Guarantee or an Eligible Replacement, a long-term unsecured and unsubordinated debt rating from S&P of “BBB+”. 
+
+ “Swap Rating Agencies” means, with respect to any date of determination, each of S&P, DBRS and Moody’s, to the extent that each such rating agency is then providing a rating for any of the MASTR Adjustable Rate Mortgages Trust 2007-3, Mortgage Pass-Through Certificates, Series 2007-3 (the “Certificates”) or any notes backed by the Certificates (the “Notes”).
+
+ [Remainder of this page intentionally left blank.]
+
+ 4.
+
+ Account Details and Settlement Information:
+
+ Payments to Party A:
+
+ JPMorgan Chase Bank
+
+ SWIFT: 
+
+ CHASUS33
+
+ Account of: 
+
+ Swiss Re Financial Products
+
+ Account No.: 
+
+ 066-911184 
+
+ ABA#:
+
+ 021000021
+
+ Payments to Party B:
+
+ Wells Fargo Bank, N.A.
+
+ San Francisco, CA
+
+ ABA # 121-000-248
+
+ Acct. # 3970771416
+
+ Acct. Name: SAS Clearing
+
+ FFC: 53140105
+
+ This Agreement may be executed in several counterparts, each of which shall be deemed an original but all of which together shall constitute one and the same instrument.
+
+ We are very pleased to have executed this Transaction with you and we look forward to completing other transactions with you in the near future.
+
+ Very truly yours,
+
+ Swiss Re Financial Products Corporation
+
+ By:
+
+ _______ /s/ David Starr ______________
+
+ Name:
+
+ David Starr
+
+ Title:
+
+ Director
+
+ Party B, acting through its duly authorized signatory, hereby agrees to, accepts and confirms the terms of the foregoing as of the date hereof.
+
+ Wells Fargo Bank, N.A. not in its individual capacity but solely as Trustee of the Supplemental Interest Trust on behalf of the MASTR Adjustable Rate Mortgages Trust 2007-3, Mortgage Pass-Through Certificates, Series 2007-3 
+
+ By:
+
+ _______ /s/ Graham Oglesby ______________
+
+ Name:
+
+ Graham Oglesby
+
+ Title:
+
+ Vice President
+
+ SCHEDULE I 
+
+ All such dates subject to adjustment in accordance with the Following Business Day Convention 
+
+ From and including 
+
+ To but excluding 
+
+ Notional Amount (USD) 
+
+ Cap Rate I (%) 
+
+ Cap Rate II (%) 
+
+ 15-May-07
+
+ 25-May-07 
+
+ 2,334,311.43 
+
+ 5.590
+
+ 5.764
+
+ 25-May-07 
+
+ 25-Jun-07 
+
+ 2,322,822.86 
+
+ 5.646
+
+ 5.850
+
+ 25-Jun-07 
+
+ 25-Jul-07 
+
+ 2,306,960.00 
+
+ 5.649
+
+ 5.850
+
+ 25-Jul-07 
+
+ 25-Aug-07 
+
+ 2,287,628.57 
+
+ 5.639
+
+ 5.850
+
+ 25-Aug-07 
+
+ 25-Sep-07 
+
+ 2,264,254.29 
+
+ 5.621
+
+ 5.850
+
+ 25-Sep-07 
+
+ 25-Oct-07 
+
+ 2,236,637.14 
+
+ 5.681
+
+ 5.965
+
+ 25-Oct-07 
+
+ 25-Nov-07 
+
+ 2,204,991.43 
+
+ 5.749
+
+ 6.093
+
+ 25-Nov-07 
+
+ 25-Dec-07 
+
+ 2,169,577.14 
+
+ 5.808
+
+ 6.215
+
+ 25-Dec-07 
+
+ 25-Jan-08 
+
+ 2,130,257.14 
+
+ 5.854
+
+ 6.346
+
+ 25-Jan-08 
+
+ 25-Feb-08 
+
+ 2,087,162.86 
+
+ 5.914
+
+ 6.473
+
+ 25-Feb-08 
+
+ 25-Mar-08 
+
+ 2,040,331.43 
+
+ 5.967
+
+ 6.593
+
+ 25-Mar-08 
+
+ 25-Apr-08 
+
+ 1,990,065.71 
+
+ 6.012
+
+ 6.717
+
+ 25-Apr-08 
+
+ 25-May-08 
+
+ 1,929,205.71 
+
+ 6.065
+
+ 6.835
+
+ 25-May-08 
+
+ 25-Jun-08 
+
+ 1,873,208.57 
+
+ 6.114
+
+ 6.947
+
+ 25-Jun-08 
+
+ 25-Jul-08 
+
+ 1,814,665.71 
+
+ 6.174
+
+ 7.070
+
+ 25-Jul-08 
+
+ 25-Aug-08 
+
+ 1,754,928.57 
+
+ 6.223
+
+ 7.181
+
+ 25-Aug-08 
+
+ 25-Sep-08 
+
+ 1,695,305.71 
+
+ 6.274
+
+ 7.284
+
+ 25-Sep-08 
+
+ 25-Oct-08 
+
+ 1,636,774.29 
+
+ 6.339
+
+ 7.383
+
+ 25-Oct-08 
+
+ 25-Nov-08 
+
+ 1,569,582.86 
+
+ 6.380
+
+ 7.475
+
+ 25-Nov-08 
+
+ 25-Dec-08 
+
+ 1,515,891.43 
+
+ 6.429
+
+ 7.568
+
+ 25-Dec-08 
+
+ 25-Jan-09 
+
+ 1,464,094.29 
+
+ 6.490
+
+ 7.650
+
+ 25-Jan-09 
+
+ 25-Feb-09 
+
+ 1,414,037.14 
+
+ 6.528
+
+ 7.731
+
+ 25-Feb-09 
+
+ 25-Mar-09 
+
+ 1,365,625.71 
+
+ 6.570
+
+ 7.807
+
+ 25-Mar-09 
+
+ 25-Apr-09 
+
+ 1,318,837.14 
+
+ 6.622
+
+ 7.865
+
+ 25-Apr-09 
+
+ 25-May-09 
+
+ 1,262,065.71 
+
+ 6.647
+
+ 7.921
+
+ 25-May-09 
+
+ 25-Jun-09 
+
+ 1,219,091.43 
+
+ 6.679
+
+ 7.974
+
+ 25-Jun-09 
+
+ 25-Jul-09 
+
+ 1,177,628.57 
+
+ 6.718
+
+ 8.007
+
+ 25-Jul-09 
+
+ 25-Aug-09 
+
+ 1,137,628.57 
+
+ 6.734
+
+ 8.043
+
+ 25-Aug-09 
+
+ 25-Sep-09 
+
+ 1,099,020.00 
+
+ 6.758
+
+ 8.078
+
+ 25-Sep-09 
+
+ 25-Oct-09 
+
+ 1,061,780.00 
+
+ 6.784
+
+ 8.095
+
+ 25-Oct-09 
+
+ 25-Nov-09 
+
+ 1,001,834.29 
+
+ 6.784
+
+ 8.102
+
+ 25-Nov-09 
+
+ 25-Dec-09 
+
+ 967,782.86 
+
+ 6.792
+
+ 8.109
+
+ 25-Dec-09 
+
+ 25-Jan-10 
+
+ 934,914.29 
+
+ 6.808
+
+ 8.108
+
+ 25-Jan-10 
+
+ 25-Feb-10 
+
+ 903,171.43 
+
+ 6.804
+
+ 8.105
+
+ 25-Feb-10 
+
+ 25-Mar-10 
+
+ 872,508.57 
+
+ 6.806
+
+ 8.103
+
+ 25-Mar-10 
+
+ 25-Apr-10 
+
+ 842,914.29 
+
+ 6.806
+
+ 8.086
+
+ 25-Apr-10 
+
+ 25-May-10 
+
+ 795,288.57 
+
+ 6.795
+
+ 8.071
+
+ 25-May-10 
+
+ 25-Jun-10 
+
+ 768,011.43 
+
+ 6.789
+
+ 8.057
+
+ 25-Jun-10 
+
+ 25-Jul-10 
+
+ 741,694.29 
+
+ 6.783
+
+ 8.036
+
+ 25-Jul-10 
+
+ 25-Aug-10 
+
+ 715,877.14 
+
+ 6.771
+
+ 8.017
+
+ 25-Aug-10 
+
+ 25-Sep-10 
+
+ 691,014.29 
+
+ 6.763
+
+ 7.998
+
+ 25-Sep-10 
+
+ 25-Oct-10 
+
+ 667,068.57 
+
+ 6.752
+
+ 7.966
+
+ 25-Oct-10 
+
+ 25-Nov-10 
+
+ 625,720.00 
+
+ 6.733
+
+ 7.935
+
+ 25-Nov-10 
+
+ 25-Dec-10 
+
+ 604,057.14 
+
+ 6.710
+
+ 7.890
+
+ 25-Dec-10 
+
+ 25-Jan-11 
+
+ 583,082.86 
+
+ 6.695
+
+ 7.851
+
+ 25-Jan-11 
+
+ 25-Feb-11 
+
+ 562,874.29 
+
+ 6.663
+
+ 7.799
+
+ 25-Feb-11 
+
+ 25-Mar-11 
+
+ 543,308.57 
+
+ 6.631
+
+ 7.742
+
+ 25-Mar-11 
+
+ 25-Apr-11 
+
+ 524,237.14 
+
+ 6.596
+
+ 7.677
+
+ 25-Apr-11 
+
+ 25-May-11 
+
+ 488,642.86 
+
+ 6.558
+
+ 7.613
+
+ 25-May-11 
+
+ 25-Jun-11 
+
+ 471,531.43 
+
+ 6.517
+
+ 7.539
+
+ 25-Jun-11 
+
+ 25-Jul-11 
+
+ 455,065.71 
+
+ 6.475
+
+ 7.457
+
+ 25-Jul-11 
+
+ 25-Aug-11 
+
+ 439,220.00 
+
+ 6.426
+
+ 7.375
+
+ 25-Aug-11 
+
+ 25-Sep-11 
+
+ 423,931.43 
+
+ 6.371
+
+ 7.281
+
+ 25-Sep-11 
+
+ 25-Oct-11 
+
+ 409,211.43 
+
+ 6.315
+
+ 7.182
+
+ 25-Oct-11 
+
+ 25-Nov-11 
+
+ 378,888.57 
+
+ 3.873
+
+ 5.836
+
+ 25-Nov-11 
+
+ 25-Dec-11 
+
+ 365,731.43 
+
+ 3.880
+
+ 5.008
+
+ 25-Dec-11 
+
+ 25-Jan-12 
+
+ 353,071.43 
+
+ 3.911
+
+ 5.018
+
+ 25-Jan-12 
+
+ 25-Feb-12 
+
+ 340,880.00 
+
+ 3.916
+
+ 5.030
+
+ 25-Feb-12 
+
+ 25-Mar-12 
+
+ 329,145.71 
+
+ 3.920
+
+ 5.043
+
+ 25-Mar-12 
+
+ 25-Apr-12 
+
+ 317,794.29 
+
+ 3.929
+
+ 5.055
+
+ 25-Apr-12 
+
+ 25-May-12 
+
+ 290,780.00 
+
+ 3.933
+
+ 5.066
+
+ 25-May-12 
+
+ 25-Jun-12 
+
+ 280,565.71 
+
+ 3.939
+
+ 5.076
+
+ 25-Jun-12 
+
+ 25-Jul-12 
+
+ 270,700.00 
+
+ 3.950
+
+ 5.086
+
+ 25-Jul-12 
+
+ 25-Aug-12 
+
+ 261,208.57 
+
+ 3.955
+
+ 5.094
+
+ 25-Aug-12 
+
+ 25-Sep-12 
+
+ 252,082.86 
+
+ 3.962
+
+ 5.101
+
+ 25-Sep-12 
+
+ 25-Oct-12 
+
+ 243,294.29 
+
+ 3.972
+
+ 5.107
+
+ 25-Oct-12 
+
+ 25-Nov-12 
+
+ 221,082.86 
+
+ 3.977
+
+ 5.112
+
+ 25-Nov-12 
+
+ 25-Dec-12 
+
+ 213,337.14 
+
+ 3.985
+
+ 5.115
+
+ 25-Dec-12 
+
+ 25-Jan-13 
+
+ 205,848.57 
+
+ 4.003
+
+ 5.117
+
+ 25-Jan-13 
+
+ 25-Feb-13 
+
+ 198,645.71 
+
+ 4.008
+
+ 5.117
+
+ 25-Feb-13 
+
+ 25-Mar-13 
+
+ 191,714.29 
+
+ 4.013
+
+ 5.116
+
+ 25-Mar-13 
+
+ 25-Apr-13 
+
+ 185,048.57 
+
+ 4.020
+
+ 5.116
+
+ 25-Apr-13 
+
+ 25-May-13 
+
+ 168,482.86 
+
+ 4.025
+
+ 5.116
+
+ 25-May-13 
+
+ 25-Jun-13 
+
+ 162,611.43 
+
+ 4.033
+
+ 5.118
+
+ 25-Jun-13 
+
+ 25-Jul-13 
+
+ 156,965.71 
+
+ 4.050
+
+ 5.122
+
+ 25-Jul-13 
+
+ 25-Aug-13 
+
+ 151,537.14 
+
+ 4.056
+
+ 5.126
+
+ 25-Aug-13 
+
+ 25-Sep-13 
+
+ 146,317.14 
+
+ 4.063
+
+ 5.132
+
+ 25-Sep-13 
+
+ 25-Oct-13 
+
+ 141,300.00 
+
+ 4.071
+
+ 5.140
+
+ 25-Oct-13 
+
+ 25-Nov-13 
+
+ 126,785.71 
+
+ 4.077
+
+ 5.149
+
+ 25-Nov-13 
+
+ 25-Dec-13 
+
+ 122,154.29 
+
+ 4.085
+
+ 5.159
+
+ 25-Dec-13 
+
+ 25-Jan-14 
+
+ 117,702.86 
+
+ 4.101
+
+ 5.172
+
+ 25-Jan-14 
+
+ 25-Feb-14 
+
+ 113,420.00 
+
+ 4.107
+
+ 5.186
+
+ 25-Feb-14 
+
+ 25-Mar-14 
+
+ 109,302.86 
+
+ 4.111
+
+ 5.201
+
+ 25-Mar-14 
+
+ 25-Apr-14 
+
+ 105,342.86 
+
+ 4.114
+
+ 5.216
+
+ Annex A 
+
+ Paragraph 13 of the Credit Support Annex 
+
+ [See Exhibit 99.19] 
+
+ Exhibit A 
+
+ Form of Parental Guarantee 
+
+ To: Wells Fargo Bank, N.A., not in its individual capacity but solely as Trustee of the Supplemental Interest Trust on behalf of the MASTR Adjustable Rate Mortgages Trust 2007-3, Mortgage Pass-Through Certificates, Series 2007-3 (Mezzanine Certificates) (the “Rated Securities”) 
+
+ 1.
+
+ The undersigned, SWISS REINSURANCE COMPANY, a Swiss company (the "Guarantor"), hereby absolutely and unconditionally guarantees the prompt payment as and when due of all obligations of its indirect, wholly-owned subsidiary SWISS RE FINANCIAL PRODUCTS CORPORATION, a Delaware corporation ("THE GUARANTEED SUBSIDIARY") under, in connection with or ancillary to a long form confirmation dated as April 11, 2007 between the Beneficiary and THE GUARANTEED SUBSIDIARY as amended or restated from time to time (the “Agreement”) which support the issuance of the Rated Securities. In this Guarantee these obligations are referred to as the “Guaranteed Obligations”. This Guarantee is given solely for the benefit of, and is enforceable only by, the Beneficiary or any trustee as assignee of the Beneficiary to which this Guarantee has been validly assigned in accordance with applicable law and who is acting as trustee for the investors in the Rated Securities.
+
+ 2.
+
+ This Guarantee constitutes a Guarantee of payment and not of collection and is not conditional or contingent upon any attempts to collect from, or pursue or exhaust any rights or remedies against, THE GUARANTEED SUBSIDIARY. A demand for payment hereunder may at the Beneficiary’s option be made in writing addressed to the Chief Financial Officer of the Guarantor. This Guarantee is not however dependent in any way on the manner of the demand for payment. Delay in making a claim will not affect the Guarantor’s obligations under this Guarantee unless the relevant legal limitation period has expired.
+
+ 3.
+
+ This Guarantee constitutes, and is intended by the Guarantor to constitute, an unlimited non-accessory undertaking („unbeschränkte, nicht akzessorische Verpflichtung“) within the meaning of Article 111 of the Swiss Code of Obligations (‚CO‘) and is not a mere surety („Bürgschaft“) within the meaning of Article 492 et seq of the CO. 
+
+ 4.
+
+ Notwithstanding any reference to the obligations of THE GUARANTEED SUBSIDIARY, the Guarantor’s obligations under this Guarantee are its absolute and independent obligations as a primary obligor. Payment of a claim hereunder is required as soon as the Guaranteed Obligations are due and payable.
+
+ 5.
+
+ To the extent that any event or circumstance would give rise to any legal or equitable discharge, defence or other rights of the Guarantor under this Guarantee, but which event or circumstance would not give rise to any discharge, defence or rights of THE GUARANTEED SUBSIDIARY under the Agreements, the Guarantor hereby fully waives, subject to paragraph 7 below, such discharge, defence, or rights and the Guarantor’s liability hereunder shall continue as if such event or circumstance had not arisen.
+
+ 6.
+
+ The Guarantor further agrees, subject to paragraph 7 below, that to the extent that any event or circumstance gives rise to any legal or equitable discharge, defence or other rights available to both the Guarantor under the Guarantee and THE GUARANTEED SUBSIDIARY under the Agreements, the Guarantor hereby agrees to waive such discharge, defence or other rights against the Beneficiary, until such time as all the Guaranteed Obligations in relation to the same event or circumstance have been fully met as required to protect investors in the Rated Securities.
+
+ 7.
+
+ Notwithstanding any other provision of this Guarantee, the Guarantor will have the right, prior to making any payment under this Guarantee, to (a) assert such rights of offset as are set forth in the Agreements to the extent that such rights relate to amounts due and payable by the Beneficiary to THE GUARANTEED SUBSIDIARY and not to amounts which are subject to dispute; and (b) defend manifestly fraudulent claims under this Guarantee made by the Beneficiary.
+
+ 8.
+
+ This Guarantee will continue in full force and effect in relation to all Guaranteed Obligations until all the Guaranteed Obligations have been satisfied in full. For the avoidance of doubt, all Guaranteed Obligations entered into by THE GUARANTEED SUBSIDIARY during the term of this Guarantee shall be honoured in accordance with this Guarantee and shall be binding on the Guarantor and its successors and assigns. This Guarantee may be amended only as necessary to reflect changes to the Guaranteed Obligations which are validly agreed to by the Beneficiary in accordance with the terms of the Rated Securities, including any requirement to obtain the consent of some or all of the investors in the Rated Securities.
+
+ 9.
+
+ If any payment by THE GUARANTEED SUBSIDIARY is avoided, recaptured or reduced as a result of insolvency or any similar event affecting creditors rights generally having occurred in respect of THE GUARANTEED SUBSIDIARY, the Guarantor’s liability under this Guarantee shall continue as if the avoided, recaptured or reduced payment had not occurred.
+
+ 10.
+
+ Upon payment by the Guarantor to the Beneficiary of any amount due under this Guarantee, the Guarantor shall be entitled to require the assignment to it of the rights of the Beneficiary against THE GUARANTEED SUBSIDIARY to the extent satisfied by such payment, and the Beneficiary will take at the Guarantor's expense such steps as the Guarantor may reasonably require to implement such assignment. The Guarantor shall not exercise any rights against THE GUARANTEED SUBSIDIARY which it may acquire in consequence of such payment and assignment unless and until all the Guaranteed Obligations to the Beneficiary shall have been paid in full.
+
+ 11.
+
+ This Guarantee is governed and will be construed in accordance with Swiss law.
+
+ The exclusive place of jurisdiction for any legal proceeding hereunder shall be Zurich, Switzerland.
+
+ IN WITNESS WHEREOF, the Guarantor has caused this Guarantee to be executed in its name as of the 11th day of April, 2007.
+
+ SWISS REINSURANCE COMPANY
+
+ Exhibit B 
+
+ Form of Parental Guarantee Opinion 
+
+ Guarantee by Swiss Reinsurance Company dated 11 April 2007 of Guaranteed Obligations of Swiss Re Financial Products Corporation in connection with an ISDA Master Agreement dated as of 11 April 2007 between the Beneficiary and Swiss Re Financial Products Corporation 
+
+ Dear Sirs
+
+ I am Legal Counsel of Swiss Reinsurance Company (“Swiss Re”) and have acted as Swiss counsel in connection with the Guarantee by Swiss Re dated 11 April 2007 (the “Guarantee”) of all obligations of its indirect, wholly-owned subsidiary Swiss Re Financial Products Corporation , a Delaware corporation (the “Guaranteed Subsidiary”) under, in connection with or ancillary to a long form confirmation, dated as of 11 April 2007, between the Beneficiary and the Guaranteed Subsidiary as amended or restated from time to time (the ”Agreement”) which support the issuance of the “Rated Security”. In this Guarantee these obligations are referred to as the “Guaranteed Obligations”. The Guarantee has been given for the sole benefit of, and shall only be enforceable by, the Beneficiary or, upon assignment, by a trustee which is acting for the investors of the Rated Security.
+
+ As such legal adviser, I have been asked by Swiss Re to render a legal opinion to you on certain matters of Swiss law relating to the Guarantee. 
+
+ For the purpose of this opinion I have examined a copy of the Guarantee as attached to this opinion, and I have reviewed such matters of Swiss law and examined such other corpo­rate documents of Swiss Re as I considered necessary for this opinion.
+
+ Based upon the foregoing and subject to the qualifications stated below, I am of the following opinion, limited in all respects to the law of Switzerland as at the date hereof: 
+
+ 1.
+
+ Swiss Re is a company limited by shares, duly organized and validly existing under the law of Switzerland, with legal domicile in Zurich, Switzerland.
+
+ 2.
+
+ Swiss Re has the corporate power and authority to issue the Guarantee for Guaran­teed Obligations of the Guaranteed Subsidiary and to perform its obligations thereunder. 
+
+ 3.
+
+ Swiss Re has taken all necessary corporate action to authorize the execution and delivery of the Guarantee and the performance of its obligations thereunder. 
+
+ 4.
+
+ The Guarantee constitutes legal, valid and binding obligations of Swiss Re in favour of the Beneficiary or (assuming the assignment to be valid under applicable law) in favour of the trustee who is acting for the benefit of the investors of the Rated Security.
+
+ 5.
+
+ The Guarantee has been duly executed by Swiss Re and is in proper form for enforcement against Swiss Re and its properties in Switzerland.
+
+ 6.
+
+ The execution and delivery by Swiss Re of the Guarantee, and its performance of its obligations under the Guarantee, do not violate or conflict with (i) any provision of its Articles of Association, or (ii) any law, rule, or regulation in Switzerland applicable to it.
+
+ 7.
+
+ No authorization, exemption, action or approval by, notice to or filing, recordation or registration with, any governmental or other authority in Switzerland is required to have been obtained or made by Swiss Re with respect to the execution, delivery and performance of its obligations under the Guarantee. 
+
+ 8.
+
+ Swiss Re will not be required to make any deduction for Swiss withholding tax from any payment under the Guarantee.
+
+ 9.
+
+ The obligations of Swiss Re under the Guarantee constitute direct, unconditional and general obligations of Swiss Re ranking at least pari passu in priority of payment with all unsecured obligations of Swiss Re which are not preferred by applicable law.
+
+ 10.
+
+ The courts of the Canton of Zurich, Switzerland, have jurisdiction in any litigation brought against Swiss Re by the Beneficiary in respect of claims made under the Guarantee.
+
+ This opinion is subject to the following qualifications:
+
+ a)
+
+ The obligations of Swiss Re under the Guarantee may be limited by applicable bankruptcy, insolvency, reorganisation, moratorium, creditors’ preference, statute of limitations or similar laws relating to or affecting the rights of creditors generally.
+
+ b)
+
+ The obligations of Swiss Re under the Guarantee may further be limited by the application of general principles of law or equity such as (without limitation) abuse of law or Swiss public policy in connection with the claim made under the Guarantee, actual payment by or absence of a Guaranteed Obligation of the Guaranteed Subsidiary, release of the payment obligation of the Guaranteed Subsidiary by its obligee, and manifest fraud.
+
+ c)
+
+ Specific performance of the Guaranteed Obligations by the Guarantor (other than for the payment of money) may not in all instances be available but only damages upon proof of the damage suffered.
+
+ d)
+
+ Art. 111 of the Swiss Code of Obligations which governs the substantive legal aspects of the Guarantee is a very general provision of Swiss law and is further specified to a significant extent by decisions of the Swiss Federal Court on which this opinion relies. No assurance can be given that future decisions of the Swiss Federal Court may not have a material impact on the statements made in this opinion.
+
+ This opinion is addressed to you and is for the sole benefit of you. It may not be relied upon, transmitted to or filed with any other person, firm, company or institution without my express written consent. It can be released to DBRS Ratings Ltd., Moody’s Investors Service, Inc. and Standard & Poor’s Ratings Services and to their respective advisers for the purposes of information only, since we understand that each of them wishes to know that this opinion has been given and to be made aware of its terms. However, none of DBRS Ratings Ltd., Moody’s Investors Service, Inc. nor Standard & Poor’s Ratings Services, nor their respective advisers, may rely on this opinion for their own benefit or for that of any other person.
+
+ Very sincerely yours,

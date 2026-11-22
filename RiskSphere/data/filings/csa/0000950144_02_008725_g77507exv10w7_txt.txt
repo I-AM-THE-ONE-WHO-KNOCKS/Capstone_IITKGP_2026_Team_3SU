@@ -1,0 +1,232 @@
+EX-10.7
+ 9
+ g77507exv10w7.txt
+ SWAP TRANSACTION DATED JUNE 17, 2002
+
+Exhibit 10.7
+
+233 South Wacker Drive, Suite 2800
+Chicago, Illinois 60606
+Tel 312-234-2732
+Fax 312-234-3603
+
+BANK OF AMERICA N.A.
+
+TO: Summit Properties Partnership, LP
+ 309 East Morehead St, Ste 200
+ Charlotte, NC 28202
+
+ATTN: Gregg Adzema
+TEL: 704-334-9905
+FAX: 704-334-4496
+
+FROM: Bank of America, N.A.
+ 233 South Wacker Drive - Suite 2800
+ Chicago, Illinois 60606
+ Gerry Rosales / Mike Allison
+
+Date: 17JUN02
+
+Our Reference No. 26049
+
+Internal Tracking Nos. 385471
+
+ The purpose of this letter agreement is to confirm the terms and
+conditions of the Transaction entered into between Summit Properties
+Partnership, LP and Bank of America, N.A. (each a "party" and together "the
+parties") on the Trade Date specified below (the "Transaction"). This letter
+agreement constitutes a "Confirmation" as referred to in the ISDA Master
+Agreement specified in paragraph 1 below (the "Agreement").
+
+ The definitions and provisions contained in the 2000 ISDA Definitions,
+as published by the International Swaps and Derivatives Association, Inc., (the
+"Definitions") are incorporated into this Confirmation. In the event of any
+inconsistency between the Definitions and this Confirmation, this Confirmation
+will govern.
+
+ 1. This Confirmation evidences a complete binding agreement between the
+parties as to the terms of the Transaction to which this Confirmation relates.
+In addition, the parties agree to use all reasonable efforts promptly to
+negotiate, execute and deliver an agreement in the form of the ISDA Master
+Agreement (Multicurrency-Cross Border) (the "ISDA Form"), with such
+modifications as the parties will in good faith agree. Upon the execution by the
+parties of such an agreement, this Confirmation will supplement, form a part of,
+and be subject to that agreement. All provisions contained or incorporated by
+reference in that agreement upon its execution will govern this Confirmation
+except as expressly modified below. Until the parties execute and deliver that
+agreement, this Confirmation, together with all other documents referring to the
+ISDA Form (each a "Confirmation") confirming transactions (each a "Transaction")
+entered into between the parties (notwithstanding anything to the contrary in a
+Confirmation), shall supplement, form a part of, and be subject to an agreement
+in the form of the ISDA Form as if the parties had executed an agreement in such
+form (but without any Schedule) on the Trade Date of the first such Transaction
+between the parties. In the event of any inconsistency between the provisions of
+that agreement and this Confirmation, this Confirmation will prevail for the
+purpose of this Transaction.
+
+ In this Confirmation "Party A" means Bank of America, N.A. and "Party
+B" means Summit Properties Partnership, LP.
+
+ 2. The terms of the particular Transaction to which this Confirmation
+relates are as follows:
+
+ Notional Amount: USD 50,000,000.00
+
+ Trade Date: 11JUN02
+
+ Effective Date: 14JUN02
+
+ Termination Date: 15AUG07, subject to adjustment in accordance with the Following
+ Business Day Convention
+ FIXED AMOUNTS:
+
+ Fixed Rate Payer: Party A
+
+ Fixed Rate Payer Payment Dates: The 15th of each February and August, commencing 15AUG02 and
+ ending 15AUG07, subject to adjustment in accordance with the
+ Following Business Day Convention. No Adjustment Of Period End
+ Dates.
+
+ Fixed Rate: 7.20000%
+
+ Fixed Rate Day Count Fraction: 30/360
+
+ FLOATING AMOUNTS:
+
+ Floating Rate Payer: Party B
+
+ Floating Rate Payer Payment The 15th of each February, May, August and November, commencing
+ Dates: 15AUG02 and ending 15AUG07, subject to adjustment in accordance
+ with the Modified Following Business Day Convention.
+
+ Floating Rate for initial TO BE SET
+ Calculation Period:
+
+ Floating Rate Option: USD-LIBOR-BBA
+
+ Averaging: Inapplicable
+
+ Designated Maturity: 3 Month
+
+ Spread: Plus 2.41750%
+
+ Floating Rate Day Count Actual/360
+ Fraction:
+
+ Reset Dates: The first day of each Calculation Period
+
+ Compounding: Inapplicable
+
+ Business Days: New York, London
+
+ Calculation Agent: Party A
+
+ 3. RECORDING OF CONVERSATIONS:
+
+ Each party to this Transaction acknowledges and agrees to the tape
+recording of conversations between the parties to this Transaction whether by
+one or other or both of the parties or their agents, and that any such tape
+recordings may be submitted in evidence in any Proceedings relating to the
+Agreement and/or this Transaction.
+
+ 2
+
+ 4. ACCOUNT DETAILS:
+
+ Account for payments to Party A:
+
+ [Account information for Party A]
+
+ Account for payments to Party B:
+
+ [Account information for Party B]
+
+5. OFFICES:
+
+ The Office of Party A for this
+ Transaction is: Charlotte, NC
+
+ Please send reset notices to fax no. (312-234-3603)
+
+ The Office of Party B for this
+ Transaction is: North Carolina, USA
+
+ GOVERNING LAW: The Laws of the State of New York (without reference to
+ the conflict of laws provisions thereof)
+
+ CREDIT SUPPORT DOCUMENT: As per Agreement (and Credit Support Annex
+ if applicable).
+
+ In relation to Party B,
+
+ The ISDA Credit Support Annex to be executed by Party B and given in
+favor of Party A with the following terms:
+
+ "Threshold" means, with respect to Party B on any date of
+ determination, (a) the amount set forth opposite the Credit
+ Rating which Party B has on that date as assigned by Moody's
+ Investor Services, Inc. or any successor thereto ("Moody's")
+ or Standard & Poor's Corporation, a division of The McGraw
+ Hill Companies, Inc., or any successor thereto ("S&P") or (b)
+ zero if on that date Party B does not have a Credit Rating or
+ an Event of Default or Potential Event of Default or
+ Termination Event (or event that would constitute an Event of
+ Default or Termination Event with the lapse of time or giving
+ of notice or both) with respect to such party has occurred
+ that is still continuing. The Threshold amount will be based
+ on the lower of the two ratings from Moody's and S&P, if such
+ ratings are split. If Party B is only rated by one agency, the
+ Threshold amount will be based on the rating of that agency.
+
+ Threshold Credit Rating by S&P by Moody's
+ $5,000,000 BBB (and above) Baa2 (and above)
+ $2,000,000 BBB- Baa3
+ $0 below BBB- below Baa3
+
+ Minimum Transfer Amount means, $100,000.
+
+ Additional Termination Event. Additional Termination Event will apply.
+
+ It shall be an Additional Termination Event, Party B shall be the
+Affected Party and Party A shall be the party entitled to designate an Early
+Termination Date with respect to all Transactions and determine the amounts
+payable under Section 6(e) of this Agreement,
+
+ 3
+
+ If Party B fails to execute an ISDA Master Agreement and ISDA Credit
+Support Annex in form and substance satisfactory to Party A and provide
+collateral on or before September 10, 2002
+
+ The Confirmation should be subject to an ISDA Master Agreement to be
+entered into with Bank of America, N.A.
+
+ Please confirm that the foregoing correctly sets forth the terms and
+conditions of our agreement by returning via telecopier an executed copy of this
+Confirmation to the attention of Global Derivative Operations at (fax no.(312)
+234-3603).
+
+Yours Sincerely,
+
+Bank of America, N.A.
+
+/S/ Dave Walker
+-------------------------
+Dave Walker
+Senior Vice President
+
+Authorized Signatory
+
+Accepted and confirmed as of the date first written:
+
+Summit Properties Partnership, LP
+
+By: /S/ Gregg D. Adzema
+
+Name: Gregg D. Adzema
+
+Title: Executive Vice President
+
+Our Reference # 26049
+
+ 4

@@ -1,0 +1,1351 @@
+EX-10.73
+ 4
+ l18783aexv10w73.txt
+ EXHIBIT 10.73
+
+ EXHIBIT 10.73
+
+(MULTICURRENCY - CROSS BORDER)
+
+ ISDA(R)
+ INTERNATIONAL SWAP DEALERS ASSOCIATION, INC.
+
+ MASTER AGREEMENT
+
+ DATED AS OF OCTOBER 13, 2005
+
+MERRILL LYNCH CAPITAL SERVICES, INC. GENERAL CABLE CORPORATION
+ ("PARTY A") ("PARTY B")
+
+have entered and/or anticipate entering into one or more transactions (each a
+"Transaction") that are or will be governed by this Master Agreement, which
+includes the schedule (the "Schedule"), and the documents and other confirming
+evidence (each a "Confirmation") exchanged between the parties confirming those
+Transactions.
+
+Accordingly, the parties agree as follows:-
+
+1. INTERPRETATION
+
+(a) DEFINITIONS. The terms defined in Section 14 and in the Schedule will have
+the meanings therein specified for the purpose of this Master Agreement.
+
+(b) INCONSISTENCY. In the event of any inconsistency between the provisions of
+the Schedule and the other provisions of this Master Agreement, the Schedule
+will prevail. In the event of any inconsistency between the provisions of any
+Confirmation and this Master Agreement (including the Schedule), such
+Confirmation will prevail for the purpose of the relevant Transaction.
+
+(c) SINGLE AGREEMENT. All Transactions are entered into in reliance on the fact
+that this Master Agreement and all Confirmations form a single agreement between
+the parties (collectively referred to as this "Agreement"), and the parties
+would not otherwise enter into any Transactions.
+
+2. OBLIGATIONS
+
+(a) GENERAL CONDITIONS.
+
+ (i) Each party will make each payment or delivery specified in each
+ Confirmation to be made by it, subject to the other provisions of this
+ Agreement.
+
+ (ii) Payments under this Agreement will be made on the due date for value
+ on that date in the place of the account specified in the relevant
+ Confirmation or otherwise pursuant to this Agreement, in freely
+ transferable funds and in the manner customary for payments in the required
+ currency. Where settlement is by delivery (that is, other than by payment),
+ such delivery will be made for receipt on the due date in the manner
+ customary for the relevant obligation unless otherwise specified in the
+ relevant Confirmation or elsewhere in this Agreement.
+
+ (iii) Each obligation of each party under Section 2(a)(i) is subject to (1)
+ the condition precedent that no Event of Default or Potential Event of
+ Default with respect to the other party has occurred and is continuing, (2)
+ the condition precedent that no Early Termination Date in respect of the
+ relevant Transaction has occurred or been effectively designated and (3)
+ each other applicable condition precedent specified in this Agreement.
+
+ COPYRIGHT (C) 1992 BY INTERNATIONAL SWAP DEALERS ASSOCIATION, INC.
+
+value of that which was (or would have been) required to be delivered as of the
+originally scheduled date for delivery, in each case together with (to the
+extent permitted under applicable law) interest, in the currency of such
+amounts, from (and including) the date such amounts or obligations were or would
+have been required to have been paid or performed to (but excluding) such Early
+Termination Date, at the Applicable Rate. Such amounts of interest will be
+calculated on the basis of daily compounding and the actual number of days
+elapsed. The fair market value of any obligation referred to in clause (b) above
+shall be reasonably determined by the party obliged to make the determination
+under Section 6(e) or, if each party is so obliged, it shall be the average of
+the Termination Currency Equivalents of the fair market values reasonably
+determined by both parties.
+
+IN WITNESS WHEREOF the parties have executed this document on the respective
+dates specified below with effect from the date specified on the first page of
+this document.
+
+MERRILL LYNCH CAPITAL SERVICES, INC. GENERAL CABLE CORPORATION
+
+By: By:
+ --------------------------------- ------------------------------------
+Name: Name:
+ ------------------------------- ----------------------------------
+Title: Title:
+ ------------------------------ ---------------------------------
+Date: Date:
+ ------------------------------- ----------------------------------
+
+ ISDA (R) 1992
+
+ 2
+
+ SCHEDULE
+
+ TO THE
+
+ MASTER AGREEMENT
+
+ DATED AS OF OCTOBER 13, 2005
+
+ BETWEEN
+
+ MERRILL LYNCH CAPITAL SERVICES, INC., A CORPORATION
+ ORGANIZED UNDER THE LAWS OF THE STATE OF DELAWARE
+ ("PARTY A")
+
+ AND
+
+ GENERAL CABLE CORPORATION, A CORPORATION ORGANIZED UNDER
+ THE LAWS OF THE STATE OF DELAWARE
+ ("PARTY B")
+
+ PART 1
+
+ TERMINATION PROVISIONS
+
+In this Agreement:-
+
+(a) "SPECIFIED ENTITY" means in relation to Party A for the purpose of:-
+
+Section 5(a)(v), Not Applicable
+Section 5(a)(vi), Not Applicable
+Section 5(a)(vii), Not Applicable
+Section 5(b)(iv), Not Applicable
+
+ in relation to Party B for the purpose of:-
+
+Section 5(a)(v), Not Applicable
+Section 5(a)(vi), Not Applicable
+Section 5(a)(vii), Not Applicable
+Section 5(b)(iv), Not Applicable
+
+(b) "SPECIFIED TRANSACTION" will have the meaning specified in Section 14 of
+ this Agreement.
+
+(c) The "CROSS DEFAULT" provisions of Section 5(a)(vi) will apply to Party A
+ and to Party B.
+
+If such provisions apply:-
+
+ 3
+
+"SPECIFIED INDEBTEDNESS" will have the meaning specified in Section 14 of this
+Agreement, and, in addition, "Specified Indebtedness" as applied to Party B
+shall also include any payment obligation of Party B under that certain Credit
+Agreement dated as of October 22, 2004 (as amended, supplemented or otherwise
+modified from time to time, including, without limitation, the Limited Consent
+with Respect to Amended and Restated Credit Agreement, dated as of October 12,
+2005, as amended and restated by the Second Amended and Restated Credit
+Agreement, dated as of November 23, 2005, collectively, the "Credit Agreement")
+among General Cable Industries, Inc., as Borrower, General Cable Corporation and
+the other Guarantors party thereto, as Guarantors, Merrill Lynch Capital, a
+division of Merrill Lynch Business Financial Services Inc., individually as a
+Lender, collateral agent and as security trustee for the Secured Parties, and as
+syndication agent, Merrill Lynch Capital, a division of Merrill Lynch Business
+Financial Services INC. and UBS Securities LLC, as joint lead arrangers, Fleet
+Capital Corporation, as a co-documentation agent, GMAC Commercial Finance LLC,
+as a co-documentation agent, General Electric Capital Corporation, as a
+co-documentation agent, UBS Loan Finance LLC, as a Lender and as swingline
+lender, UBS AG, Stamford Branch, in its individual capacity, as issuing bank,
+and as administrative agent for the Lenders and the financial institutions from
+time to time parties thereto as lenders thereunder.
+
+"THRESHOLD AMOUNT" means, in respect of Party A, USD 100,000,000 or its
+equivalent in other currencies, and in respect of Party B, USD 100,000 or its
+equivalent in other currencies, provided that, in respect of Party B, the
+Threshold Amount applicable to an Event of Default under the Credit Agreement
+shall mean zero (0).
+
+(d) The "CREDIT EVENT UPON MERGER" provisions of Section 5(b)(iv) will apply to
+ Party A and Party B. Section 5(b)(iv) of this Agreement shall be amended to
+ read as follows: "Credit Event Upon Merger" means that a Designated Event
+ (as defined below) occurs with respect to a party, any Credit Support
+ Provider of such party, or any Specified Entity of such party and such
+ action does not constitute an event described in Section 5(a)(viii) but, in
+ the reasonable opinion of the other party, the creditworthiness of the
+ successor, surviving or transferee entity, taking into account any
+ applicable Credit Support Document (except any applicable Credit Support
+ Annex or other agreement providing for the pledge of collateral or any
+ similar agreement) (in which case the party or its successor or transferee,
+ as appropriate, will be the Affected Party) is materially weaker than that
+ of its predecessor, immediately prior to the occurrence of the Designated
+ Event. For purposes hereof, a Designated Event means that, after the Trade
+ Date of any Transaction:
+
+ (i) the party, any Credit Support Provider of the party or any Specified
+ Entity of the party consolidates or amalgamates with, or merges with
+ or into, or transfers all or substantially all its assets (or any
+ substantial part of the assets comprising the business of that party)
+ to, or reorganizes, incorporates, reincorporates, or reconstitutes
+ into or as, another entity, or another entity consolidates or
+ amalgamates with, or merges with or into, or transfers all or
+ substantially all its assets to, or reorganizes, incorporates,
+ reincorporates, reconstitutes into or as, such party; or
+
+ (ii) any person or entity acquires directly or indirectly the beneficial
+ ownership of equity securities having the power to elect a majority of
+ the board of directors of the party, any Credit Support Provider of
+ the party or any applicable Specified Entity of the party; or
+
+ (iii) the party, any Credit Support Provider of the party, or any
+ applicable Specified Entity of the party enters into any agreement
+ providing for any of the foregoing.
+
+(e) The "AUTOMATIC EARLY TERMINATION" provision of Section 6(a) will not apply
+ to either Party A or to Party B.
+
+ 4
+
+(f) PAYMENTS ON EARLY TERMINATION. For the purpose of Section 6(e) of this
+ Agreement:-
+
+ (i) Market Quotation will apply.
+
+ (ii) The Second Method will apply.
+
+(g) "TERMINATION CURRENCY" means United States Dollars.
+
+(H) ADDITIONAL TERMINATION EVENT will apply.
+
+ (i) TERMINATION OF REVOLVING COMMITMENTS. If, upon the termination of all
+ Revolving Commitments, the repayment of all outstanding Loans (as such
+ terms are defined in the Credit Agreement) and the release of all
+ liens securing the same (collectively, "Release"), this Agreement is
+ in effect, the Parties hereto, at Party A's option, and written notice
+ thereof to Party B, shall, within five (5) business days of the
+ Release, execute and deliver a Credit Support Annex in the form
+ attached hereto as Exhibit "C" and post collateral to Party A pursuant
+ to the terms of the Credit Support Annex.
+
+ The Credit Support Annex shall not take effect unless and until there
+ is a termination of all Revolving Commitments, the repayment of all
+ outstanding Loans and the release of all liens securing the same.
+
+ (ii) PARI PASSU OBLIGATIONS. If any obligation due and owing by Party B to
+ Party A under this Agreement fails to rank at least pari passu with
+ any obligation due and owing by Party B to any of its unsecured debt
+ holders.
+
+ Failure by Party B to comply with the terms of either Part 1(h)(i) or
+ 1(h)(ii) shall constitute an Additional Termination Event pursuant to
+ Section 5(b)(v), and Party B shall be the sole Affected Party in
+ either case.
+
+ 5
+
+ PART 2
+
+ TAX REPRESENTATIONS
+
+(a) PAYER REPRESENTATIONS. For the purpose of Section 3(e) of this Agreement,
+ Party A will make the following representation and Party B will make the
+ following representation:-
+
+ It is not required by any applicable law, as modified by the practice of
+ any relevant governmental revenue authority, of any Relevant Jurisdiction
+ to make any deduction or withholding for or on account of any Tax from any
+ payment (other than interest under Section 2(e), 6(d)(ii) or 6(e) of this
+ Agreement) to be made by it to the other party under this Agreement. In
+ making this representation, it may rely on (i) the accuracy of any
+ representations made by the other party pursuant to Section 3(f) of this
+ Agreement, (ii) the satisfaction of the agreement contained in Section
+ 4(a)(i) or 4(a)(iii) of this Agreement and the accuracy and effectiveness
+ of any document provided by the other party pursuant to Section 4(a)(i) or
+ 4(a)(iii) of this Agreement and (iii) the satisfaction of the agreement of
+ the other party contained in Section 4(d) of this Agreement, provided that
+ it shall not be a breach of this representation where reliance is placed on
+ clause (ii) and the other party does not deliver a form or document under
+ Section 4(a)(iii) by reason of material prejudice to its legal or
+ commercial position.
+
+(b) PAYEE REPRESENTATIONS. For the purpose of Section 3(f) of this Agreement,
+ Party A and Party B make the representations specified below:-
+
+ (i) The following representation applies to Party A:-
+
+ Party A is a corporation organized under the laws of the State of
+ Delaware.
+
+ (ii) The following representation applies to Party B:-
+
+ Party B is a corporation organized under the laws of the State of
+ Delaware.
+
+ 6
+
+ PART 3
+
+ AGREEMENT TO DELIVER DOCUMENTS
+
+For the purpose of Section 4(a)(i) and (ii) of this Agreement, each party agrees
+to deliver the following documents as applicable:-
+
+(a) Tax forms, documents or certificates to be delivered are:-
+
+PARTY REQUIRED TO
+ DELIVER DOCUMENT FORM/DOCUMENT/CERTIFICATE DATE BY WHICH TO BE DELIVERED
+----------------- -------------------------------- -------------------------------------
+
+ Party A/Party B A correct, complete and executed (i) Before the first Payment Date
+ U.S. Internal Revenue Service under this Agreement, (ii) promptly
+ Form W-9 (or any successor upon reasonable demand by Party A,
+ thereto), including appropriate and (iii) promptly upon learning that
+ attachments, that eliminates any such form previously provided by
+ U.S. federal backup withholding Party B has become obsolete or
+ tax on payments under this incorrect.
+ Agreement.
+
+(b) Other Documents to be delivered are:-
+
+ PARTY REQUIRED COVERED BY
+ TO DELIVER FORM/DOCUMENT/ DATE BY WHICH SECTION 3(D)
+ DOCUMENT CERTIFICATE TO BE DELIVERED REPRESENTATION
+ -------------- --------------------------------------------- ----------------------- --------------
+
+Party A/Party B. Annual audited financial statements (or, in Promptly after request. Yes.
+ the case of Party A, of its Credit Support
+ Provider) prepared in accordance with
+ generally accepted accounting principles in
+ the country in which the party (or, in the
+ case of Party A, its Credit Support Provider)
+ is organized.
+
+Party A/Party B. Quarterly unaudited financial statements (or, Promptly after request. Yes.
+ in the case of Party A, of its Credit Support
+ Provider) prepared in accordance with
+ generally accepted accounting principles in
+ the country in which the party (or, in the
+ case of Party A, its Credit Support Provider)
+ is organized.
+
+Party A/Party B. Credit Support Document, if any, specified in Concurrently with the No.
+ Part 4 of the Schedule, such Credit Support execution of this
+ Document being duly executed if required. Agreement.
+
+ The collateralized Guarantee of General Cable
+ Industries, Inc. shall be in a form
+ acceptable to Party A.
+
+ 7
+
+PARTY REQUIRED COVERED BY
+ TO DELIVER FORM/DOCUMENT/ DATE BY WHICH SECTION 3(D)
+ DOCUMENT CERTIFICATE TO BE DELIVERED REPRESENTATION
+-------------- --------------------------------------------- ----------------------- --------------
+
+Party A/Party B. Certified copies of the resolution(s) of its Concurrently with the Yes.
+ board of directors or other documents execution of this
+ authorizing the execution and delivery of Agreement.
+ this Agreement.
+
+Party A/Party B. Incumbency certificate or other documents Concurrently with the Yes.
+ evidencing the authority of the party execution of this
+ entering into this Agreement or any other Agreement or of any
+ document executed in connection with this other documents
+ Agreement. executed in connection
+ with this Agreement.
+
+Party A. An opinion of counsel with respect to Party A Concurrently with the No.
+ in a form acceptable to Party B. execution of this
+ Agreement.
+
+Party A. An opinion of counsel with respect to Party Concurrently with the No.
+ A's Credit Support Provider in a form execution of this
+ acceptable to Party B. Agreement.
+
+Party B. An opinion of counsel with respect to Party B Concurrently with the No.
+ substantially in the form attached hereto as execution of this
+ Exhibit B and otherwise in a form acceptable Agreement.
+ to Party A.
+
+Party B. An opinion of counsel with respect to Party Concurrently with the No.
+ B's Credit Support Provider in a form execution of this
+ acceptable to Party A. Agreement.
+
+ 8
+
+ PART 4
+
+ MISCELLANEOUS
+
+(a) ADDRESSES FOR NOTICES: For the purpose of Section 12(a) of this Agreement:-
+
+Address for notices or communications to PARTY A:-
+
+Address: MERRILL LYNCH WORLD HEADQUARTERS
+ 4 WORLD FINANCIAL CENTER, 18TH FLOOR
+ NEW YORK, NEW YORK 10080
+Attention: SWAP GROUP
+Facsimile No.: 917-778-0836
+Telephone No.: 212 449-2467
+
+(For all purposes)
+
+Additionally, a copy of all notices pursuant to Sections 5, 6, and 7 as well as
+any changes to counterparty's address, telephone number or facsimile number
+should be sent to:
+
+ GMI COUNSEL
+ MERRILL LYNCH WORLD HEADQUARTERS
+ 4 WORLD FINANCIAL CENTER, 12TH FLOOR
+ NEW YORK, NEW YORK 10080
+ ATTENTION: SWAPS LEGAL
+ FACSIMILE NO.: 212 449-6993
+
+Address for notices or communications to PARTY B:-
+
+Address: General Cable Corporation
+ 4 Tesseneer Drive
+ Highland Heights, Kentucky 41076
+Attention: Chief Financial Officer
+Facsimile No.: (859) 572-8440
+Telephone No.: (859) 572-8000
+
+(For all purposes)
+
+(b) PROCESS AGENT. For the purpose of Section 13(c):-
+
+Party A appoints as its Process Agent: Not Applicable.
+
+Party B appoints as its Process Agent: Not Applicable.
+
+(c) OFFICES. The provisions of Section 10(a) will apply to this Agreement.
+
+(d) MULTIBRANCH PARTY. For the purpose of Section 10(c) of this Agreement:
+
+Party A is not a Multibranch Party.
+
+Party B is not a Multibranch Party.
+
+ 9
+
+(e) CALCULATION AGENT. The Calculation Agent is Party A, unless either Party A
+ is in default hereunder, in which event Party B shall select the
+ Calculation Agent with the consent of Party A (which consent shall not be
+ unreasonably withheld), or a different Calculation Agent is otherwise
+ specified in a Confirmation in relation to the relevant Transaction.
+
+(f) CREDIT SUPPORT DOCUMENT. Details of any Credit Support Document:-
+
+Party A: Guarantee of Merrill Lynch & Co., Inc. ("ML&Co.") in the form attached
+hereto as Exhibit A.
+
+Party B: The Continuing Unconditional Guarantee of General Cable Industries,
+Inc., the Credit Agreement (as defined in Part 1 hereof) and the Security
+Agreement (as defined in the Credit Agreement), and the Credit Support Annex
+which supplements, forms part of, and is subject to this Agreement.
+
+(g) CREDIT SUPPORT PROVIDER.
+
+Credit Support Provider means in relation to Party A, ML & Co.
+
+Credit Support Provider means in relation to Party B, General Cable Industries,
+Inc.
+
+(h) GOVERNING LAW. This Agreement will be governed by and construed in
+ accordance with the laws of the State of New York without reference to
+ choice of law doctrine.
+
+(i) NETTING OF PAYMENTS. Subparagraph (ii) of Section 2(c) of this Agreement
+ will not apply.
+
+(j) "AFFILIATE" will have the meaning specified in Section 14 of this
+ Agreement.
+
+ 10
+
+ PART 5
+
+ OTHER PROVISIONS
+
+(1) FINANCIAL STATEMENTS. Section 3(d) is hereby amended by adding in the third
+line thereof after the word "respect" and before the period:
+
+ "or, in the case of financial statements, a fair presentation of the
+ financial condition of the relevant party".
+
+(2) ADDITIONAL REPRESENTATIONS. For purposes of Section 3, the following shall
+be added, immediately following paragraph (f) thereto:
+
+ (g) It is an "eligible contract participant" within the meaning of the
+ United States Commodity Exchange Act.
+
+ (h) It has entered into this Agreement (including each Transaction
+ evidenced hereby) in conjunction with its line of business (including
+ financial intermediation services) or the financing of its business, and,
+ with respect to Party B, for the purpose of hedging its interest rate
+ exposure.
+
+ (i) It is entering into this Agreement, any Credit Support Document to
+ which it is a party, each Transaction and any other documentation relating
+ to this Agreement or any Transaction as principal (and not as agent or in
+ any other capacity, fiduciary or otherwise).
+
+In addition, the parties each represent (which representations will be deemed to
+be repeated on each date on which a Transaction is entered into) that:
+
+ (j) NON-RELIANCE. Each party represents to the other party (which
+ representation will be deemed to be repeated by each party on each date on
+ which a Transaction is entered into or amended, extended or otherwise
+ modified) that it is acting for its own account, and has made its own
+ independent decisions to enter into this Agreement and any Transaction
+ hereunder and as to whether this Agreement and any Transaction hereunder is
+ appropriate or proper for it based on its own judgment and upon advice from
+ such advisors as it has deemed necessary. It is not relying on any
+ communication (written or oral) of the other party as investment advice or
+ as a recommendation to enter into this Agreement or any Transaction
+ hereunder, it being understood that information and explanations related to
+ the terms and conditions of this Agreement and any Transaction hereunder
+ shall not be considered investment advice or a recommendation to enter into
+ this Agreement or any Transaction hereunder. No communication (written or
+ oral) received from the other party shall be deemed to be an assurance or
+ guarantee as to the expected results of any Transaction hereunder.
+
+(3) TRANSFER. To the extent the following does not violate the terms of the
+Credit Agreement, and notwithstanding the provisions of Section 7, Party A may
+assign its rights and delegate its obligations under any Transaction, in whole
+or in part, to any Affiliate (an "Assignee") of ML & Co., effective (the
+"Effective Date") upon delivery to Party B of both (a) an executed acceptance
+and assumption by the Assignee of the transferred obligations of Party A under
+the Transaction(s) (the "Transferred Obligations"); and (b) an executed
+guarantee of ML & Co., of the Transferred Obligations, substantially in the form
+of Exhibit A hereto. On the Effective Date, (a) Party A shall be released from
+all obligations and liabilities arising under the Transferred Obligations; and
+(b) the Transferred Obligations shall cease to be Transaction(s) under this
+Agreement and shall be deemed to be Transaction(s) under the master agreement
+between Assignee and Party B, provided that, if at such time Assignee and Party
+B have not
+
+ 11
+
+entered into a master agreement, Assignee and Party B shall be deemed to have
+entered into an ISDA form of Master Agreement (Multicurrency-Cross Border)
+without any Schedule attached thereto.
+
+Notwithstanding the provisions of Section 7, Party A hereby agrees to not
+unreasonably withhold the right of Party B to assign it's rights and delegate
+it's obligations under any Transaction, in whole or in part to a banking
+counterparty which Party A has sufficient credit availability for such
+transaction.
+
+(4) METHOD OF NOTICE. Section 12(a)(ii) of the Master Agreement is deleted in
+its entirety.
+
+(5) JURISDICTION. Party B hereby irrevocably and unconditionally submits to the
+nonexclusive jurisdiction of the Supreme Court of the State of New York sitting
+in New York County and of the United States District Court of the Southern
+District of New York, and any appellate court from any thereof, in any action or
+proceeding arising out of or relating to this Agreement, or for recognition or
+enforcement of any judgment. Party A and Party B agree that a final judgment is
+any such action or proceeding shall be conclusive and may be enforced in other
+jurisdictions by suit on the judgment or in any other manner provided by law.
+
+(6) SET-OFF.
+
+ (a) Without affecting the provisions of this Agreement requiring the
+ calculation of certain net payment amounts, and to the extent the following
+ does not violate the terms of the Credit Agreement, all payments under this
+ Agreement will be made without setoff or counterclaim; provided, however,
+ that in addition to any rights of setoff a party may have as a matter of
+ law or otherwise, upon the designation or deemed designation of an Early
+ Termination Date, the non-Defaulting Party or non-Affected party (in either
+ case, "X") may without prior notice set off any sum or obligation (whether
+ or not arising under this Agreement, whether or not matured, whether or not
+ contingent and regardless of the currency, place of payment or booking
+ office of the obligation) owed or due by the Defaulting Party or Affected
+ Party (in either case, "Y") to X against any sum or obligation (whether or
+ not arising under this Agreement, whether or not matured, whether or not
+ contingent and regardless of the currency, place of payment or booking
+ office of the obligation) owed or due by X or any Affiliate of X to Y. X
+ will promptly provide a detailed accounting of such Set-off amounts and
+ calculations.
+
+ (b) For the purposes of cross-currency set-off, X may convert into the
+ currency in which the other is denominated at the rate of exchange at which
+ such party would be able, acting in a reasonable manner and in good faith,
+ to purchase the relevant amount of such currency.
+
+ (c) If an obligation is unascertained, X may in good faith estimate that
+ obligation and set off in respect of the estimate, subject to the relevant
+ party accounting to the other when the obligation is ascertained.
+
+(7) ESCROW. If by reason of the time difference between the cities in which
+payments are to be made, it is not possible for simultaneous payments to be made
+on any date on which both parties are required to make payments hereunder,
+either party may, at its option and in its sole discretion, notify the other
+party that payments on that date are to be made in escrow. In this case, deposit
+of the payment due earlier on that date shall be made by 2:00 p.m. (local time
+at the place for the earlier payment) on that date with an escrow agent selected
+by the notifying party, accompanied by irrevocable payment instruction (i) to
+release the deposited payment to the intended recipient upon receipt by the
+escrow agent of the required deposit of the corresponding payment from the other
+party on the same date accompanied by irrevocable payment instructions to the
+same effect or (ii) if the required deposit of the corresponding payment is not
+made on that same date, to return the payment deposited to the party that paid
+it in escrow. The party that
+
+ 12
+
+elects to have payments made in escrow shall pay the costs of the escrow
+arrangements and shall cause those arrangements to provide that the intended
+recipient of the payment due to be deposited first shall be entitled to interest
+on that deposited payment for each day in the period of its deposit at the rate
+offered by the escrow agent for that day for overnight deposits in the relevant
+currency in the office where it holds that deposited payment (at 11:00 a.m.
+local time on that day) if that payment is not released by 5:00 p.m. local time
+on the date it is deposited for any reason, other than the intended recipient's
+failure to make the escrow deposit it is required to make hereunder in a timely
+fashion.
+
+(8) CONSENT TO RECORDING. The parties agree that each may electronically record
+all telephonic conversations between marketing and trading personnel in
+connection with this Agreement.
+
+(9) WAIVER OF JURY TRIAL. Each party hereby irrevocably waives any and all right
+to trial by jury with respect to any legal proceeding arising out of or relating
+to this Agreement or any Transaction contemplated hereunder.
+
+(10) SINGLE TRANSACTION. Party A and Party B each agree and acknowledge that the
+only Transaction that is or will be governed by this Agreement is the
+Transaction evidenced by the Confirmation dated October 13, 2005.
+
+(11) REPRESENTATION OF PARTY A. Party A hereby represents that on the date of
+this Agreement it is a Lender or an Affiliate of a Lender (as such terms are
+defined in the Credit Agreement).
+
+ 13
+
+ EXHIBIT A
+
+ GUARANTEE OF MERRILL LYNCH & CO., INC.
+
+ FOR VALUE RECEIVED, receipt of which is hereby acknowledged, Merrill Lynch
+& Co., Inc., a corporation duly organized and existing under the laws of the
+State of Delaware ("ML & CO."), hereby unconditionally guarantees to General
+Cable Corporation (the "Company"), the due and punctual payment of any and all
+amounts payable by Merrill Lynch Capital Services, Inc., a corporation organized
+under the laws of the State of Delaware ("MLCS"), its successors and permitted
+assigns, to the extent such successors or permitted assigns are direct or
+indirect subsidiaries of ML & Co., under the terms of the Master Agreement
+between the Company and MLCS, dated as of October 13, 2005 (the "Agreement"),
+including, in case of default, interest on any amount due, when and as the same
+shall become due and payable, whether on the scheduled payment dates, at
+maturity, upon declaration of termination or otherwise, according to the terms
+thereof. In case of the failure of MLCS punctually to make any such payment, ML
+& Co. hereby agrees to make such payment, or cause such payment to be made,
+promptly upon demand made by the Company to ML & Co.; provided, however that
+delay by the Company in giving such demand shall in no event affect ML & Co.'s
+obligations under this Guarantee. This Guarantee shall remain in full force and
+effect or shall be reinstated (as the case may be) if at any time any payment
+guaranteed hereunder, in whole or in part, is rescinded or must otherwise be
+returned by the Company upon the insolvency, bankruptcy or reorganization of
+MLCS or otherwise, all as though such payment had not been made.
+
+ ML & Co. hereby agrees that its obligations hereunder shall be
+unconditional, irrespective of the validity, regularity or enforceability of the
+Agreement; the absence of any action to enforce the same; any waiver or consent
+by the Company concerning any provisions thereof; the rendering of any judgment
+against MLCS or any action to enforce the same; or any other circumstances that
+might otherwise constitute a legal or equitable discharge of a guarantor or a
+defense of a guarantor. ML & Co. covenants that this guarantee will not be
+discharged except by complete payment of the amounts payable under the
+Agreement. This Guarantee shall continue to be effective if MLCS merges or
+consolidates with or into another entity, loses its separate legal identity or
+ceases to exist.
+
+ ML & Co. hereby waives diligence; presentment; protest; notice of protest,
+acceleration, and dishonor; filing of claims with a court in the event of
+insolvency or bankruptcy of MLCS; all demands whatsoever, except as noted in the
+first paragraph hereof; and any right to require a proceeding first against
+MLCS.
+
+ ML & Co. hereby certifies and warrants that this Guarantee constitutes the
+valid obligation of ML & Co. and complies with all applicable laws.
+
+ This Guarantee shall be governed by, and construed in accordance with, the
+laws of the State of New York.
+
+ This Guarantee may be terminated at any time by notice by ML & Co. to the
+Company given in accordance with the notice provisions of the Agreement,
+effective upon receipt of such notice by the Company or such later date as may
+be specified in such notice; provided, however, that this Guarantee shall
+continue in full force and effect with respect to any obligation of MLCS under
+the Agreement entered into prior to the effectiveness of such notice of
+termination.
+
+ This Guarantee becomes effective concurrent with the effectiveness of the
+Agreement, according to its terms.
+
+ IN WITNESS WHEREOF, ML & Co. has caused this Guarantee to be executed in
+its corporate name by its duly authorized representative.
+
+ MERRILL LYNCH & CO., INC.
+
+ By:
+ ------------------------------------
+ Name:
+ ----------------------------------
+ Title:
+ ---------------------------------
+ Date:
+ ----------------------------------
+
+ 14
+
+(BILATERAL FORM)
+
+ (ISDA AGREEMENTS SUBJECT TO NEW YORK LAW ONLY)
+
+ EXHIBIT C
+
+ ISDA(R)
+ INTERNATIONAL SWAPS AND DERIVATIVES ASSOCIATION, INC.
+ CREDIT SUPPORT ANNEX
+ TO THE SCHEDULE TO THE
+ ISDA MASTER AGREEMENT
+
+ DATED AS OF OCTOBER 13, 2005
+
+ BETWEEN
+
+MERRILL LYNCH CAPITAL AND GENERAL CABLE CORPORATION
+ SERVICES, INC. ("PARTY B")
+ ("PARTY A")
+
+This Annex supplements, forms part of, and is subject to, the above-referenced
+Agreement, is part of its Schedule and is a Credit Support Document under this
+Agreement with respect to each party.
+
+Accordingly, the parties agree as follows:--
+
+PARAGRAPH 1. INTERPRETATION
+
+(a) DEFINITIONS AND INCONSISTENCY. Capitalized terms not otherwise defined
+herein or elsewhere in this Agreement have the meanings specified pursuant to
+Paragraph 12, and all references in this Annex to Paragraphs are to Paragraphs
+of this Annex. In the event of any inconsistency between this Annex and the
+other provisions of this Schedule, this Annex will prevail, and in the event of
+any inconsistency between Paragraph 13 and the other provisions of this Annex,
+Paragraph 13 will prevail.
+
+(b) SECURED PARTY AND PLEDGOR. All references in this Annex to the "Secured
+Party" will be to either party when acting in that capacity and all
+corresponding references to the "Pledgor" will be to the other party when acting
+in that capacity; provided, however, that if Other Posted Support is held by a
+party to this Annex, all references herein to that party as the Secured Party
+with respect to that Other Posted Support will be to that party as the
+beneficiary thereof and will not subject that support or that party as the
+beneficiary thereof to provisions of law generally relating to security
+interests and secured parties.
+
+PARAGRAPH 2. SECURITY INTEREST
+
+Each party, as the Pledgor, hereby pledges to the other party, as the Secured
+Party, as security for its Obligations, and grants to the Secured Party a first
+priority continuing security interest in, lien on and right of Set-off against
+all Posted Collateral Transferred to or received by the Secured Party hereunder.
+Upon the Transfer by the Secured Party to the Pledgor of Posted Collateral, the
+security interest and lien granted hereunder on that Posted Collateral will be
+released immediately and, to the extent possible, without any further action by
+either party.
+
+ COPYRIGHT (C) 1994 BY INTERNATIONAL SWAPS AND DERIVATIVES ASSOCIATION, INC.
+
+ 15
+
+PARAGRAPH 13. ELECTIONS AND VARIABLES
+
+(a) SECURITY INTEREST FOR "OBLIGATIONS". The term "OBLIGATIONS" as used in this
+ Annex includes the following additional obligations: Not Applicable.
+
+(b) CREDIT SUPPORT OBLIGATIONS.
+
+ (i) DELIVERY AMOUNT, RETURN AMOUNT AND CREDIT SUPPORT AMOUNT.
+
+ (A) "DELIVERY AMOUNT" has the meaning specified in Paragraph 3(a).
+
+ (B) "RETURN AMOUNT" has the meaning specified in Paragraph 3(b).
+
+ (C) "CREDIT SUPPORT AMOUNT" means, for any Valuation Date (i) the
+ Secured Party's Exposure for that Valuation Date plus (ii) the
+ aggregate of all Independent Amounts applicable to the Pledgor, if
+ any, minus (iii) the Pledgor's Threshold; provided, however, that (x)
+ in the case where the sum of the Independent Amounts applicable to the
+ Pledgor exceeds zero, the Credit Support Amount will not be less than
+ the sum of all Independent Amounts applicable to the Pledgor and (y)
+ in all other cases, the Credit Support Amount will be deemed to be
+ zero whenever the calculation of Credit Support Amount yields an
+ amount less than zero.
+
+ (ii) ELIGIBLE COLLATERAL. The following items will qualify as "ELIGIBLE
+ COLLATERAL":
+
+ VALUATION
+ PERCENTAGE
+ ----------
+
+ (A) Cash 100%
+
+ (iii) OTHER ELIGIBLE SUPPORT. There shall be no "OTHER ELIGIBLE SUPPORT"
+ for either Party A or Party B.
+
+ (iv) THRESHOLDS.
+
+ (A) "INDEPENDENT AMOUNT" means, for Party B, with respect to each
+ Transaction, zero (unless a different amount is specified in the
+ Confirmation of that Transaction as that party's Independent Amount).
+
+ (B) "THRESHOLD" means, with respect to Party B, Infinity, provided,
+ that if an Event of Default or Specified Condition has occurred and is
+ continuing with respect to Party B, the Threshold with respect to
+ Party B shall be zero.
+
+ (C) "MINIMUM TRANSFER AMOUNT" means, with respect to a party, USD
+ 100,000; provided, that if an Event of Default or Specified Condition
+ has occurred and is continuing with respect to Party B, the Minimum
+ Transfer Amount with respect to Party B shall be zero.
+
+ 16
+
+ (D) "ROUNDING". The Delivery Amount and the Return Amount will be
+ rounded up or down respectively to the nearest integral multiple of
+ USD 10,000.
+
+(c) VALUATION AND TIMING.
+
+ (i) "VALUATION AGENT" means, for purposes of Paragraph 3 and 5, the party
+ making the demand under Paragraph 3; for the purpose of Paragraph
+ 4(d)(ii), the Secured Party receiving the Substitute Credit Support;
+ and for purposes of Paragraph 6(d), the Secured Party receiving or
+ deemed to receive the Distributions or the Interest Amount, as
+ applicable.
+
+ (ii) "VALUATION DATE" means each Local Business Day.
+
+ (iii) "VALUATION TIME" means the close of business in the city of the
+ Valuation Agent on the Local Business Day preceding the Valuation Date
+ or date of calculation, as applicable; provided that the calculations
+ of Value and Exposure will be made as of approximately the same time
+ on the same date.
+
+ (iv) "NOTIFICATION TIME" means 10:00 a.m., New York time, on a Local
+ Business Day.
+
+(d) CONDITIONS PRECEDENT AND SECURED PARTY'S RIGHTS AND REMEDIES. For purposes
+ of Paragraph 8(a), each Termination Event will constitute a Specified
+ Condition with respect to Pledgor, if the Pledgor fails to pay when due any
+ amount payable by it in connection with an Early Termination Date
+ designated in connection with that Termination Event. For all other
+ purposes of this Annex, each Termination Event specified below with respect
+ to a party will be a "SPECIFIED CONDITION" for that party.
+
+Credit Event Upon Merger (with respect to General Cable Corporation) [X]
+
+Additional Termination Events (if any) [X]
+
+(e) SUBSTITUTION.
+
+ (i) "SUBSTITUTION DATE" has the meaning specified in Paragraph 4(d)(ii).
+
+ (ii) "CONSENT." The Pledgor may not substitute Eligible Credit Support
+ pursuant to Paragraph 4(d) without consent from the Secured Party.
+
+(f) DISPUTE RESOLUTION.
+
+ (i) "RESOLUTION TIME" means 1:00 p.m., New York time, on the first Local
+ Business Day following the date on which notice of a dispute is given
+ under Paragraph 5.
+
+ (ii) "VALUE." For the purpose of Paragraph 5(i)(C) and 5(ii), the Value of
+ Eligible Collateral other than Cash will be calculated as follows: Not
+ Applicable.
+
+ (iii) "ALTERNATIVE." Not Applicable.
+
+ 17
+
+(g) HOLDING AND USING POSTED COLLATERAL.
+
+ (i) "ELIGIBILITY TO HOLD POSTED COLLATERAL; CUSTODIANS." As long as the
+ conditions set forth in clause (A) below are satisfied, Party A shall
+ be entitled to hold Posted Collateral pursuant to Paragraph 6(b). As
+ long as the condition set forth in clause (B) below are satisfied, any
+ Custodian for Party A shall be entitled to hold Posted Collateral
+ pursuant to Paragraph 6(b).
+
+ (A) Party A: (a) The long-term, unsecured, unsubordinated debt ratings
+ of ML & Co. are at least BBB+ (in the case of S&P) and Baa1 (in the
+ case of Moody's) and (b) Party A is not a Defaulting Party.
+
+ (B) The Custodian: The Custodian is either: (a) a wholly owned, direct
+ or indirect, Affiliate of ML & Co. or (b) a bank or trust company
+ located in the State of New York having total assets of at least USD
+ 10,000,000,000.
+
+ Initially, the CUSTODIAN for Party A is: Merrill Lynch, Pierce, Fenner
+ & Smith Inc.
+
+ (ii) "USE OF POSTED COLLATERAL." The provisions of Paragraph 6(c) will
+ apply.
+
+(h) DISTRIBUTIONS AND INTEREST AMOUNT.
+
+ (i) "INTEREST RATE." The Interest Rate will be the rate per annum equal to
+ the overnight Federal Funds Rate (the "Fed Funds Rate") for each day
+ cash is held by the Secured Party as reported in Federal Reserve
+ Publication H.15-519.
+
+ (ii) "TRANSFER OF INTEREST AMOUNT." The Transfer of the Interest Amount
+ will be made on the last Local Business Day of each calendar month and
+ on any Local Business Day that Posted Collateral in the form of Cash
+ is Transferred to the Pledgor pursuant to Paragraph 3(b).
+
+ (iii) "ALTERNATIVE TO INTEREST AMOUNT." Not Applicable.
+
+(i) ADDITIONAL REPRESENTATION(S). Not Applicable.
+
+(j) "OTHER ELIGIBLE SUPPORT AND OTHER POSTED SUPPORT."
+
+ (i) "VALUE" with respect to Other Eligible Support and Other Posted
+ Support means: Not Applicable.
+
+ (ii) "TRANSFER" with respect to Other Eligible Support and Other Posted
+ Support means: Not Applicable.
+
+ 18
+
+(k) DEMANDS AND NOTICES. All demands, specifications and notices made by a
+ party to this Annex will be made as follows:
+
+Party A: Merrill Lynch World Headquarters
+ 4 World Financial Center, 18th Floor
+ New York, New York 10080
+ Attention: Swap Group
+ Facsimile No.: (917) 778-0836
+ Telephone No.: (212) 449-2467
+
+Party B: General Cable Corporation
+ 4 Tesseneer Drive
+ Highland Heights, Kentucky 41076
+ Attention: Chief Financial Officer
+ Facsimile No.: (859) 572-8440
+ Telephone No.: (859) 572-8000
+
+(l) ADDRESSES FOR TRANSFERS. Not Applicable.
+
+(m) OTHER PROVISIONS.
+
+ (i) AGREEMENT AS TO SINGLE SECURED PARTY AND PLEDGOR. Party A and Party B
+ agree that, notwithstanding anything to the contrary in the recital to
+ this Annex, Paragraph 1(b) or Paragraph 2 or the definitions in
+ Paragraph 12, (a) the term "Secured Party" as used in this Annex means
+ only Party A, (b) the term "Pledgor" as used in this Annex means only
+ Party B, (c) only Party B makes the pledge and grant in Paragraph 2,
+ the acknowledgment in the final sentence of Paragraph 8(a) and the
+ representations in Paragraph 9 and (d) only Party B will be required
+ to make Transfers of Eligible Credit Support hereunder. Party A and
+ Party B further agree that, notwithstanding anything to the contrary
+ in the recital to this Annex or Paragraph 7, this Annex will
+ constitute a Credit Support Document only with respect to Party B, and
+ the Events of Default in Paragraph 7 will only apply to Party B.
+
+ (ii) ADDITIONS TO PARAGRAPH 3. The following subparagraph (c) is hereby
+ added to Paragraph 3 of this Annex:
+
+ (c) NO OFFSET. On any Valuation Date, if either (i) each party is
+ required to make a Transfer under Paragraph 3(a) or (ii) each party is
+ required to make a Transfer under Paragraph 3(b), then the amounts of
+ those obligations will not offset each other.
+
+ (iii) POSTED COLLATERAL. The definition of Posted Collateral shall also
+ include any and all accounts in which Cash Collateral is held.
+
+ 19
+
+ CONTINUING UNCONDITIONAL GUARANTY
+
+ THIS CONTINUING UNCONDITIONAL GUARANTY (this "GUARANTY") is made as of
+January 25, 2006 and is effective as of October 13, 2005 by GENERAL CABLE
+INDUSTRIES, INC., a Delaware corporation ("GUARANTOR"), to and for the benefit
+of MERRILL LYNCH CAPITAL SERVICES, INC., a Delaware corporation
+("COUNTERPARTY").
+
+ WHEREAS, GENERAL CABLE CORPORATION ("PRIMARY OBLIGOR") and Counterparty
+have entered into that certain ISDA Master Agreement dated as of October 13,
+2005 between Primary Obligor and Counterparty; that certain Schedule to such
+ISDA Master Agreement dated as of October 13, 2005; a Confirmation with a trade
+date of October 13, 2005 (such ISDA Master Agreement, Schedule, Confirmation,
+and a Credit Support Annex (as defined in and subject to the provisions of the
+Schedule) together, as any of them may be amended, supplemented, modified or
+restated from time to time, the "SWAP AGREEMENT"), pursuant to which Primary
+Obligor and Counterparty have entered into a certain foreign currency swap
+transaction, all more completely described in and subject to the terms and
+conditions set forth in the Swap Agreement and all of the other agreements,
+documents, instruments, certificates, reports and financing statements
+heretofore or hereafter executed or delivered in connection therewith
+(specifically including without limitation any Credit Support Annex), as the
+same may be amended, supplemented, modified or restated from time to time (all
+of such agreements, etc., together with the Swap Agreement, collectively
+referred to herein as the "SWAP DOCUMENTS");
+
+ WHEREAS, Guarantor is a wholly-owned indirect subsidiary of Primary
+Obligor and, pursuant to Counterparty's request, as an incident to the
+obligation of Counterparty to enter into the Swap Agreement with Primary
+Obligor, is required, and has agreed, to execute and deliver this Agreement of
+even date herewith;
+
+ WHEREAS, Guarantor acknowledges and confirms that, as wholly-owned
+subsidiary of Primary Obligor, (a) it will benefit from the foreign currency
+swap transactions entered into by Primary Obligor and Counterparty pursuant to
+the Swap Agreement, (b) the undertakings and obligations of Counterparty in
+favor of Primary Obligor under the Swap Agreement constitute valuable
+consideration to Guarantor, (c) it was agreed by Primary Obligor and
+Counterparty at the time the Swap Agreement was entered into that, as an
+inducement to Counterparty to enter into the foreign currency swap transactions
+provided for therein, that Primary Obligor would cause Guarantor to provide a
+guaranty of the obligations and undertakings of Primary Obligor in favor of
+Counterparty under the Swap Agreement, and (d) Counterparty relied on such
+agreement entering into the Swap Agreement and the foreign currency swap
+transactions provided for thereunder.
+
+ NOW, THEREFORE, for value received and in consideration of the entry by
+Counterparty into and of the undertakings and obligations of Counterparty in
+favor of Primary Obligor under the Swap Agreement the undersigned Guarantor
+unconditionally guaranties and agrees to stand surety for (i) the full and
+prompt payment when due, whether at maturity or earlier, by reason of early
+termination, acceleration or otherwise, and at all times thereafter, of all
+
+ 20
+
+of the indebtedness, liabilities and obligations of every kind and nature of
+Primary Obligor to Counterparty under the Swap Agreement and the other Swap
+Documents, howsoever created, arising or evidenced, whether direct or indirect,
+absolute or contingent, joint or several, now or hereafter existing, or due or
+to become due, and howsoever owned, held or acquired by Counterparty (including
+without limitation any interest, fees or expenses accruing following the
+commencement of any insolvency, receivership, reorganization or bankruptcy case
+or proceeding relating to Primary Obligor, whether or not a claim for
+post-petition interest, fees or expenses is allowed in such case or proceeding),
+and (ii) the prompt, full and faithful discharge by Primary Obligor of each and
+every term, condition, agreement, representation and warranty now or hereafter
+made by Primary Obligor to Counterparty under the Swap Agreement and the other
+Swap Documents (all such indebtedness, liabilities and obligations being
+hereinafter referred to as the "PRIMARY OBLIGOR'S LIABILITIES"). Guarantor
+further agrees to pay all reasonable costs and expenses, including, without
+limitation, all court costs and reasonable attorneys' and paralegals' fees paid
+or incurred by Counterparty in endeavoring to collect all or any part of Primary
+Obligor's Liabilities from, or in prosecuting any action against, Guarantor or
+any other guarantor of all or any part of Primary Obligor's Liabilities. All
+amounts payable by Guarantor under this Guaranty shall be payable upon demand by
+Counterparty upon the occurrence of an Event of Default under the Swap Agreement
+or any other Swap Document and shall be made in lawful money of the United
+States, in immediately available funds.
+
+ Notwithstanding any provision of this Guaranty to the contrary, it is
+intended that this Guaranty, and any liens and security interests granted by
+Guarantor to secure this Guaranty, not constitute a "Fraudulent Conveyance" (as
+defined below). Consequently, Guarantor agrees that if the Guaranty, or any
+liens or security interests securing this Guaranty, would, but for the
+application of this sentence, constitute a Fraudulent Conveyance, this Guaranty
+and each such lien and security interest shall be valid and enforceable only to
+the maximum extent that would not cause this Guaranty or such lien or security
+interest to constitute a Fraudulent Conveyance, and this Guaranty shall
+automatically be deemed to have been amended accordingly at all relevant times.
+For purposes hereof, "FRAUDULENT CONVEYANCE" means a fraudulent conveyance under
+Section 548 of the "Bankruptcy Code" (as hereinafter defined) or a fraudulent
+conveyance or fraudulent transfer under the provisions of any applicable
+fraudulent conveyance or fraudulent transfer law or similar law of any state,
+nation or other governmental unit, as in effect from time to time.
+
+ Guarantor hereby agrees that its obligations under this Guaranty shall be
+unconditional, irrespective of (i) the validity or enforceability of Primary
+Obligor's Liabilities or any part thereof, or of any Swap Document, promissory
+note or other document evidencing all or any part of Primary Obligor's
+Liabilities, (ii) the absence of any attempt to collect Primary Obligor's
+Liabilities from Primary Obligor or any other guarantor or other action to
+enforce the same, (iii) the waiver or consent by Counterparty with respect to
+any provision of any instrument evidencing Primary Obligor's Liabilities, or any
+part thereof, or any other agreement heretofore, now or hereafter executed by
+Primary Obligor and delivered to Counterparty, (iv) the institution of any
+proceeding under Chapter 11 of Title 11 of the United States Code (11 U.S.C.
+Section 101 et seq.), as amended (the "BANKRUPTCY CODE"), or any similar
+proceeding, by or against Primary Obligor, or Counterparty's election in any
+such proceeding of the application of Section 1111(b)(2) of the Bankruptcy Code,
+(v) any borrowing or grant of a security interest by Primary Obligor as
+debtor-in-possession, under Section 364 of the Bankruptcy Code, (vi) the
+disallowance, under Section 502 of the Bankruptcy Code, of all or any portion of
+Counterparty's
+
+ 21
+
+claim(s) for repayment of Primary Obligor's Liabilities, or (vii) any other
+circumstance which might otherwise constitute a legal or equitable discharge or
+defense of a guarantor.
+
+ Guarantor hereby waives diligence, presentment, demand of payment, filing
+of claims with a court in the event of receivership or bankruptcy of Primary
+Obligor, protest or notice with respect to Primary Obligor's Liabilities and all
+demands whatsoever, and covenants that this Guaranty will not be discharged,
+except by complete performance of the obligations and liabilities contained
+herein. Upon any default by Primary Obligor as provided in the Swap Agreement or
+any other Swap Document, Counterparty may, at its sole election, proceed
+directly and at once, without notice, against Guarantor to collect and recover
+the full amount or any portion of Primary Obligor's Liabilities, without first
+proceeding against Primary Obligor, or any other person, firm, or corporation,
+or against any security or collateral for Primary Obligor's Liabilities.
+Guarantor agrees that this Guaranty constitutes a guarantee of payment when due
+and not of collection.
+
+ Counterparty is hereby authorized, without notice or demand and without
+affecting the liability of Guarantor hereunder, to at any time and from time to
+time (i) renew, extend, accelerate or otherwise change the time for payment of,
+or other terms relating to, Primary Obligor's Liabilities or otherwise modify,
+amend or change the terms of the Swap Agreement or any other Swap Document now
+or hereafter executed by Primary Obligor and delivered to Counterparty; (ii)
+accept partial payments on Primary Obligor's Liabilities; (iii) take and hold
+security or collateral for the payment of Primary Obligor's Liabilities
+guaranteed hereby, or for the payment of this Guaranty, or for the payment of
+any other guaranties of Primary Obligor's Liabilities, and exchange, waive and
+release any such security or collateral; (iv) apply such security or collateral
+and direct the order or manner of sale thereof as in its sole discretion it may
+determine; and (v) settle, release, compromise, collect or otherwise liquidate
+Primary Obligor's Liabilities and any security or collateral therefor in any
+manner, without affecting or impairing the obligations of Guarantor hereunder.
+Counterparty shall have the exclusive right to determine the time and manner of
+application of any payments or credits, whether received from Primary Obligor or
+any other source, and such determination shall be binding on Guarantor. All such
+payments and credits may be applied, reversed and reapplied, in whole or in
+part, to any of Primary Obligor's Liabilities as Counterparty shall determine in
+its sole discretion without affecting the validity or enforceability of this
+Guaranty.
+
+ Guarantor hereby assumes responsibility for keeping itself informed of the
+financial condition of Primary Obligor, and any and all endorsers and/or other
+guarantor of any instrument or document evidencing all or any part of Primary
+Obligor's Liabilities and of all other circumstances bearing upon the risk of
+nonpayment of Primary Obligor's Liabilities or any part thereof that diligent
+inquiry would reveal and Guarantor hereby agrees that Counterparty shall have no
+duty to advise Guarantor of information known to Counterparty regarding such
+condition or any such circumstances or to undertake any investigation not a part
+of its regular business routine. If Counterparty, in its sole discretion,
+undertakes at any time or from time to time to provide any such information to
+Guarantor, Counterparty shall be under no obligation to update any such
+information or to provide any such information to Guarantor on any subsequent
+occasion.
+
+ Guarantor consents and agrees that Counterparty shall be under no
+obligation to marshal any assets in favor of Guarantor or against or in payment
+of any or all of Primary
+
+ 22
+
+Obligor's Liabilities. Guarantor further agrees that, to the extent that Primary
+Obligor makes a payment or payments to Counterparty, or Counterparty receives
+any proceeds of collateral, which payment or payments or any part thereof are
+subsequently invalidated, declared to be fraudulent or preferential, set aside
+and/or required to be repaid to Primary Obligor, its estate, trustee, receiver
+or any other party, including, without limitation, Guarantor under any
+bankruptcy law, state or federal law, common law or equitable theory, then to
+the extent of such payment or repayment, Primary Obligor's Liabilities or the
+part thereof which has been paid, reduced or satisfied by such amount, and
+Guarantor's obligations hereunder with respect to such portion of Primary
+Obligor's Liabilities, shall be reinstated and continued in full force and
+effect as of the date such initial payment, reduction or satisfaction occurred.
+
+ Guarantor agrees that any and all claims of Guarantor against Primary
+Obligor, any endorser or any other guarantor of all or any part of Primary
+Obligor's Liabilities, or against any of Primary Obligor's properties, whether
+arising by reason of any payment by Guarantor to Counterparty pursuant to the
+provisions hereof, or otherwise, shall be subordinate and subject in right of
+payment to the prior payment, in full, of all of Primary Obligor's Liabilities.
+
+ Counterparty may, without notice to anyone, sell or assign Primary
+Obligor's Liabilities or any part thereof, or grant participations therein, and
+in any such event each and every immediate or remote assignee or holder of, or
+participant in, all or any of Primary Obligor's Liabilities shall have the right
+to enforce this Guaranty, by suit or otherwise for the benefit of such assignee,
+holder, or participant, as fully as if herein by name specifically given such
+right, but Counterparty shall have an unimpaired right, prior and superior to
+that of any such assignee, holder or participant, to enforce this Guaranty for
+the benefit of Counterparty, as to any part of Primary Obligor's Liabilities
+retained by Counterparty.
+
+ This Guaranty shall be binding upon Guarantor and upon the successors
+(including without limitation, any receiver, trustee or debtor in possession of
+or for Guarantor) of Guarantor and shall inure to the benefit of Counterparty
+and its successors and assigns; provided, however, that Guarantor's obligations
+hereunder may not be delegated or assigned without Counterparty's prior written
+consent. If there is more than one signatory hereto, all references to Guarantor
+herein shall include each and every Guarantor and each and every obligation of
+Guarantor hereunder shall be the joint and several obligation of each Guarantor.
+
+ Guarantor (and each of them, if there be more than one) represents and
+warrants (which representations and warranties shall survive the execution and
+delivery hereof) to Counterparty that:
+
+ (A) It has the legal capacity and corporate authority to execute, deliver
+and perform this Guaranty, and the transactions contemplated hereby;
+
+ (B) No consent of any person (including, without limitation, creditors of
+Guarantor), and no consent, permit, approval or authorization of, exemption by,
+notice or report to, or registration, filing or declaration with, any
+governmental authority is required in connection with the execution, delivery,
+performance, validity or enforceability of this Guaranty and the transactions
+contemplated hereby;
+
+ 23
+
+ (C) This Guaranty constitutes the legal, valid and binding obligation of
+Guarantor, enforceable in accordance with its terms, except as the
+enforceability thereof may be limited by applicable bankruptcy, reorganization,
+insolvency, moratorium or other laws affecting creditors' rights generally; and
+
+ (D) The execution, delivery and performance of this Guaranty will not
+violate the certificate of incorporation or bylaws of Guarantor or any
+requirement of law applicable to or material contractual obligation of
+Guarantor.
+
+ This Guaranty shall continue in full force and effect until such time as
+all of Primary Obligor's Liabilities have been paid in full and discharged, and
+the Swap Agreement and the other Swap Documents have been terminated.
+
+ Wherever possible each provision of this Guaranty shall be interpreted in
+such manner as to be effective and valid under applicable law, but if any
+provision of this Guaranty shall be prohibited by or invalid under such law,
+such provision shall be ineffective to the extent of such prohibition or
+invalidity without invalidating the remainder of such provision or the remaining
+provisions of this Guaranty.
+
+ THIS GUARANTY AND ALL MATTERS RELATING HERETO AND ARISING HEREFROM
+(WHETHER ARISING UNDER CONTRACT LAW, TORT LAW OR OTHERWISE) SHALL BE GOVERNED
+BY, AND SHALL BE CONSTRUED AND ENFORCED IN ACCORDANCE WITH, THE INTERNAL LAWS OF
+THE STATE OF NEW YORK WITHOUT REGARD TO CONFLICTS OF LAWS PRINCIPLES THAT WOULD
+REQUIRE THE APPLICATION OF THE LAWS OF ANOTHER JURISDICTION.
+
+ THE UNDERSIGNED GUARANTOR HEREBY CONSENTS TO THE NON-EXCLUSIVE
+JURISDICTION OF THE SUPREME COURT OF THE STATE OF NEW YORK AND OF THE U.S.
+DISTRICT COURT OF THE SOUTHERN DISTRICT OF NEW YORK LOCATED IN THE BOROUGH OF
+MANHATTAN, AND ANY APPELLATE COURT THEREOF, AND IRREVOCABLY AGREES THAT, SUBJECT
+TO COUNTERPARTY'S ELECTION, ALL ACTIONS OR PROCEEDINGS ARISING OUT OF OR
+RELATING TO THIS GUARANTY SHALL BE LITIGATED IN SUCH COURTS, UNLESS NONE OF SUCH
+COURTS HAS LAWFUL JURISDICTION OVER SUCH PROCEEDINGS. THE UNDERSIGNED GUARANTOR
+ACCEPTS FOR ITSELF AND IN CONNECTION WITH ITS PROPERTIES, GENERALLY AND
+UNCONDITIONALLY, THE NON-EXCLUSIVE JURISDICTION OF THE AFORESAID COURTS, TO THE
+FULLEST EXTENT PERMITTED BY APPLICABLE LAW, AND WAIVES ANY DEFENSE OF FORUM NON
+CONVENIENS. EACH OF THE GUARANTOR AND THE COUNTERPARTY IRREVOCABLY AGREES TO BE
+BOUND BY ANY FINAL JUDGMENT RENDERED THEREBY IN CONNECTION WITH THIS GUARANTY OR
+THE OBLIGATIONS OF GUARANTOR HEREUNDER.
+
+ THE UNDERSIGNED GUARANTOR CONSENTS TO SERVICE OF PROCESS IN THE MANNER AND
+METHODS SET FORTH BELOW FOR THE GIVING OF NOTICES UNDER THIS GUARANTY.
+
+ 24
+
+ EACH OF THE UNDERSIGNED GUARANTOR AND COUNTERPARTY HEREBY WAIVE THEIR
+RESPECTIVE RIGHTS TO A JURY TRIAL OF ANY CLAIM OR CAUSE OF ACTION BASED UPON OR
+ARISING OUT OF THIS GUARANTY. EACH OF THE UNDERSIGNED GUARANTOR AND COUNTERPARTY
+ACKNOWLEDGE THAT THIS WAIVER IS A MATERIAL INDUCEMENT TO ENTER INTO A BUSINESS
+RELATIONSHIP, THAT EACH HAS ALREADY RELIED ON THE WAIVER IN ENTERING INTO THIS
+GUARANTY AND THAT EACH WILL CONTINUE TO RELY ON THE WAIVER IN THEIR RELATED
+FUTURE DEALINGS. EACH OF THE UNDERSIGNED GUARANTOR AND COUNTERPARTY FURTHER
+WARRANT AND REPRESENT THAT EACH HAS REVIEWED THIS WAIVER WITH ITS LEGAL COUNSEL,
+AND THAT EACH KNOWINGLY AND VOLUNTARILY WAIVES ITS JURY TRIAL RIGHTS FOLLOWING
+CONSULTATION WITH LEGAL COUNSEL.
+
+ Any notices to be given by one party to the other under this Guaranty
+shall be given by the notifying party by hand delivery or nationally recognized
+overnight courier delivered to the notice address for the party to whom notice
+is being given set forth on the signature page hereto (or such other notice
+address as such party to whom notice is being given may have given notice of to
+the other party in accordance with the provisions of this paragraph after the
+date hereof). Any such notice shall be effective and deemed to have been given
+when delivered to such address of the party to whom notice is being given.
+
+ This Guaranty represents the entire understanding and agreement between
+Guarantor, on the one hand, and Counterparty, on the other hand, with respect to
+the subject matter contained herein, and there are no other existing agreements
+or understandings, whether oral or written, between or among such parties as to
+such subject matter.
+
+ All rights and remedies hereunder and under the Swap Agreement and the
+other Swap Documents are cumulative and not alternative, and Counterparty may
+proceed in any order from time to time against Primary Obligor, the Guarantor or
+any other guarantor of all or any part of the Primary Obligor's Liabilities
+and/or the obligations or liabilities of any of them under any Swap Document and
+their respective assets. Counterparty shall not have any obligation to proceed
+at any time or in any manner against, or exhaust any or all of Counterparty's
+rights against, Primary Obligor, or the Guarantor or any other guarantor of all
+or any part of the Primary Obligor's Liabilities prior to proceeding against
+Guarantor hereunder. No failure or delay on the part of Counterparty in the
+exercise of any power, right or privilege shall impair such power, right or
+privilege or be construed to be a waiver of any default or acquiescence therein,
+nor shall any single or partial exercise of any such power, right or privilege
+preclude other or further exercise thereof or of any other right, power or
+privilege. No amendment, modification or waiver of any provision of this
+Guaranty, or consent to any departure by Guarantor therefrom, shall be effective
+unless the same shall be in writing and signed by Counterparty and Guarantor.
+Each amendment, modification or waiver shall be effective only in the specific
+instance and for the specific purpose for which it was given.
+
+ [Remainder of Page Intentionally Left Blank]
+
+ 25
+
+ IN WITNESS WHEREOF, this Guaranty has been duly executed by the
+undersigned Guarantor as of this 25 day of January, 2006, and is effective as of
+October 13, 2005.
+
+ GENERAL CABLE INDUSTRIES, INC.
+
+ By:
+ -------------------------------
+ Name:
+ Title:
+
+ Address for Notices:
+
+ 4 Tesseneer Drive
+ Highland Heights, KY 41076
+
+Accepted:
+
+MERRILL LYNCH CAPITAL SERVICES, INC.
+
+By:
+ -------------------------------
+ Name:
+ Title:
+
+Address for Notices:
+
+ Merrill Lynch World Headquarters
+ 4 World Financial Center, 18th Floor
+ New York, NY 10080
+ Attention: Swap Group
+ Fax No.: 646-805-0218
+ Tel. No.: 212-449-7403
+
+ [Signature Page to Guaranty Re October 2005 Foreign Currency Swap with
+ General Cable Corporation]
+
+ 26

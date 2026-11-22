@@ -1,0 +1,753 @@
+EX-10.1
+ 2
+ d424064dex101.htm
+ EX-10.1
+
+ EX-10.1 
+
+ Exhibit 10.1 
+
+ Amendment Agreement (“Agreement”) 
+
+ Dated: 13 July, 2017 
+ Between: 
+
+ (A) 
+ Merrill Lynch International, a company organized under the laws of England and Wales, (“ Party A ”); and 
+
+ (B) 
+ SPDR ® Long Dollar Gold Trust (the “ Fund ”), a series of World Currency Gold Trust (the “ Trust ”) a statutory trust organized under
+the laws of the State of Delaware (“ Party B ”), 
+ each a “ Party ” and together the
+“ Parties ”. 
+ Whereas: 
+ Party A and
+Party B entered into an ISDA Master Agreement and Schedule (the “ ISDA ”) dated as of 28 December, 2016. Party A and Party B wish to amend the ISDA in accordance with this Agreement; and to make further changes in accordance with
+recent changes to the regulatory environment. 
+
+ (1) 
+ Definitions and Interpretation 
+ Terms used in this Agreement, unless otherwise defined,
+shall have the same meanings as are set out in the ISDA. 
+
+ (2) 
+ Effectiveness 
+ Party A and Party B agree as follows: 
+
+ (a) 
+ That the ISDA and the Master Confirmation shall be amended as set out in Schedule One hereto. 
+
+ (b) 
+ The arrangements in respect of variation margin in accordance with the requirements of 17 CFR Part 23 ( Swap Dealers and Major Swap Participants ) Subpart E ( Capital and Margin Requirements for Swap Dealers and
+Major Swap Participants ) shall be as set out in Schedule Two hereto. 
+
+ (c) 
+ To enter into the Variation Margin CSA as set out in Schedule Three hereto. 
+ Each of which
+shall apply with effect from the date of this Agreement. 
+
+ (3) 
+ Continuation 
+ This Agreement amends the ISDA and, as amended hereby, the ISDA will
+remain in full force and effect. Any Transactions outstanding as at the date hereof shall continue in existence thereafter as though the same were Transactions for the purposes of the amended ISDA. 
+
+ (4) 
+ Counterparts 
+ This Agreement may be executed in any number of counterparts, and by
+different Parties hereto in separate counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall be deemed to constitute one and the same binding agreement between the Parties. 
+
+ (5) 
+ Applicable Law and Jurisdiction 
+ This Agreement shall be construed in accordance with,
+and this Agreement and all claims and causes of action arising out of the transactions contemplated hereby shall be governed by, the laws of the State of New York (other than choice of law rules that would require the application of the laws of any
+other jurisdiction). Pursuant to Section 5-1402 of the New York General Obligations Law, all actions or proceedings arising in connection with this Agreement shall be tried and litigated in state or federal courts located in the borough of
+Manhattan, New York City, State of New York. Each Party hereto waives any right it may have to assert the doctrine of forum non conveniens , to assert that it is not subject to the jurisdiction of such courts or to object to venue to the
+extent any proceeding is brought in accordance with this section. 
+
+ Merrill Lynch International 
+
+ World Currency Gold Trust, acting in respect of SPDR ® Long Dollar Gold Trust 
+
+ /s/ Kamal Gajree 
+
+ /s/ Gregory S. Collett 
+
+ Title: Authorised Signatory
+ Date: 13 July
+2017
+
+ Title: Vice President
+ Date: 7.19.17
+
+ Authorized to sign on behalf of the Trust in this capacity since an officer of
+Trust’s Sponsor
+
+ 1 | Page 
+
+ SCHEDULE ONE 
+
+ Amendments to the ISDA 
+ The Parties agree that the ISDA
+shall be amended as follows: 
+
+ (1) 
+ At page 30 of the ISDA, the “ Termination Date ” section within the “ Commercial Terms ” section of the Master Confirmation, forming Appendix I to the ISDA (and dated 28 December,
+2016) shall be deleted in its entirety and replaced as follows: 
+
+ Termination Date: 
+
+ In respect of each Transaction, the DDA Delivery Date.
+
+ Provided that, to the extent necessary to discharge any Final Delivery Amount, this shall include each such DDA Delivery Date following an Early Termination
+Date.
+
+ (2) 
+ At page 30 of the ISDA, the “ Delivery Dates ” section within the “ Commercial Terms ” section of the Master Confirmation, forming Appendix I to the ISDA (and dated 28 December, 2016)
+shall be deleted in its entirety and replaced as follows: 
+
+ Delivery Dates: 
+
+ In respect of a Transaction, the DDA Delivery Date; where the “Bullion Transaction Settlement Date” shall be that day which is two
+(2) Commodity Business Days following the Pricing Day on which the Fee Embedded Index Price and the Total Number of Shares has been calculated for that Transaction in accordance with Part 8 of the Agreement.
+
+ Provided that, to the extent necessary to discharge any Final Delivery Amount, this shall
+include each such DDA Delivery Date following an Early Termination Date.
+
+ The Parties agree that the Master Confirmation shall be amended as follows: 
+
+ (1) 
+ That the “ Termination Date ” section within the “ Commercial Terms ” section of the Master Confirmation, shall be deleted in its entirety and replaced as follows: 
+
+ Termination Date: 
+
+ In respect of each Transaction, the DDA Delivery Date.
+
+ Provided that, to the extent necessary to discharge any Final Delivery Amount, this shall include each such DDA Delivery Date following an Early Termination
+Date.
+
+ (2) 
+ That the “ Delivery Dates ” section within the “ Commercial Terms ” section of the Master Confirmation, shall be deleted in its entirety and replaced as follows: 
+
+ Delivery Dates: 
+
+ In respect of a Transaction, the DDA Delivery Date; where the “Bullion Transaction Settlement Date” shall be that day which is two
+(2) Commodity Business Days following the Pricing Day on which the Fee Embedded Index Price and the Total Number of Shares has been calculated for that Transaction in accordance with Part 8 of the Agreement.
+
+ Provided that, to the extent necessary to discharge any Final Delivery Amount, this shall
+include each such DDA Delivery Date following an Early Termination Date.
+
+ 2 | Page 
+
+ SCHEDULE TWO 
+
+ Agreement in respect of Variation Margin per 17 CFR Part 23 ( Swap Dealers and Major Swap Participants ) Subpart E ( Capital and
+Margin Requirements for Swap Dealers and Major Swap Participants ) 
+
+ 1. 
+ Party A classification 
+
+ 1.1 
+ Party A is provisionally registered as a swap dealer with the U.S. Commodity Futures Trading Commission (the “ CFTC ”). Accordingly, Party A is subject to the CFTC Margin Requirements for Uncleared Swaps
+for Swap Dealers and Major Swap Participants (“ Covered Swap Entities ”) under the Final Rules as published in the Federal Register on January 6, 2016, Fed. Reg. Vol. 81, No. 3, pp 636 et seq . (the “ CFTC
+Margin Rules ”) (as such laws may be updated, interpreted, amended, modified or supplemented from time to time). The CFTC Margin Rules generally require that, in the case of non-centrally cleared swap transactions (referred to in the CFTC
+Margin Rules as “uncleared swaps”) between, among other entities, swap dealers subject to the CFTC’s jurisdiction and certain types of counterparties, both parties to the swap transaction collect and post variation margin in respect
+of their aggregate exposure under the relevant swaps. 
+
+ 2. 
+ Party B classification 
+
+ 2.1 
+ Party B has classified itself, pursuant to the ISDA standard form Regulatory Margin Self-Disclosure Letter (published on 30 th June, 2016 by the International
+Swaps and Derivatives Association, Inc. (“ ISDA ”)), as an NFC- for the purposes of the European Market Infrastructure Regulation No 648/2012 (“ EMIR ”) (as such laws and regulations may be updated, interpreted,
+amended, modified or supplemented from time to time), and as a “financial end user” for the purposes of the CFTC Margin Rules; and is a Commodity Pool and US Person for purposes of the CFTC Margin Rules. 
+
+ 3. 
+ Physical gold settlement under the ISDA 
+
+ 3.1 
+ Pursuant to the ISDA entered into between the Parties: 
+
+ (a) 
+ There is a requirement, each day, for the delivery of an amount of physical gold linked to the performance of components of the Solactive GLD ® Long USD Gold Index
+(the “ Index ”). 
+
+ (b) 
+ The referenced Index Methodology of the Index aims to track the daily performance of a hypothetical long position in physical gold and a short position in a basket of non-USD currencies (the “ FX
+Basket ”). The specific currencies and weights of the FX Basket are: (i) Euro (57.6%), (ii) Japanese Yen (13.6%), (iii) British Pound Sterling (11.9%), (iv) Canadian Dollar (9.1%), (v) Swedish Krona
+(4.2%) and (vi) Swiss Franc (3.6%). Each of physical gold and the non-USD currencies in the FX Basket are an “ Index Component ”. Pursuant to the ISDA, Party B causes the index provider to deliver the value of the Index to
+Party A by 5:30 am New York time on each Index Business Day (being any day that is a New York Business Day, London Business Day, Gold Business Day, and FX Basket Business Day). 
+
+ (c) 
+ Thereafter, on each Pricing Day (being each New York Business Day), Party A is required to calculate the Fee Embedded Index Price and Total Number of Shares pursuant to a formula contained in Part 8(b) of the ISDA and
+is then required to provide Party B with an Adjustment Notice setting forth those amounts by 6:30 am New York time on that Pricing Day. 
+
+ (d) 
+ Each such Adjustment Notice is provided on each Pricing Day and references a Trade Date of “T”. The details of the amounts in such Adjustment Notice have the nature of being inputs only which are then used to
+calculate the actual delivery requirements of each Transaction. 
+
+ (e) 
+ Provided that there are no objections to the Adjustment Notice, then the inputs from the Adjustment Notice are translated into the actual delivery requirement for the applicable Transaction; which is expressed as the
+Daily Delivery Amount, and which is calculated and initially set forth in an Excel file transmitted by Party A to Party B on the Trade Date of “T”. 
+
+ (f) 
+ Where the Daily Delivery Amount is: (i) a positive amount, the amount of ounces of physical gold are to be delivered from Party A to Party B on the relevant Bullion Transaction Settlement Date (the “ DDA
+Delivery Date ”); and (ii) a negative amount, the absolute value of ounces of physical gold are to be delivered from Party B to Party A on the DDA Delivery Date. In each case, the settlement date is T+2 in accordance with the normal
+market convention for completion of delivery in respect of physical gold transactions. 
+
+ (g) 
+ Any delivery of physical gold on a DDA Delivery Date is to be: (i) on an unallocated basis; (ii) delivered to HSBC, acting as custodian. 
+
+ (h) 
+ Together, the Master Confirmation, Adjustment Notice and Invoice form the Confirmation of a transaction under the ISDA (each, a “ Transaction ”). As such, it is not until the values for each of the
+Adjustment Notice and the Invoice are determined that a Transaction comes into effect as between the Parties. 
+
+ 3 | Page 
+
+ (i) 
+ Notwithstanding paragraph (h), as a result of the different times for publication of each Index Component, in order to ensure that the value of each Index Component is appropriately captured within its booking systems,
+Party A for its convenience books an index swap transaction in its system as at that date immediately prior to each Trade Date (“T-1”) – this ensures that each of the settled prices of the FX Basket can be captured in Party A’s
+system overnight (GMT time) and can then be added together with the publication of the settlement price of the physical gold Index Component during its morning fixing at 9 am (GMT time) on the Trade Date of “T”. As a consequence, in the
+booking systems for Party A, the timeline proceeds as follows: 
+
+ (i) 
+ On T-1: the index swap is booked into the system, awaiting the overnight (GMT time) flow of each of the settled prices of the FX Basket. 
+
+ (ii) 
+ On T (or T+1 from the booking date): the index provider delivers the value of the Index. The process for exchange of the Adjustment Notice proceeds as outlined in the above paragraphs. 
+
+ (iii) 
+ On T (or T+1 from the booking date): simultaneously with (ii), the publication of the settlement price of the physical gold Index Component is fed into the formula for calculation of the Fee Embedded Index Price and
+Total Number of Shares. 
+
+ (iv) 
+ On T+1 (or T+2 from the booking date): the values in the Fee Embedded Index Price and Total Number of Shares are translated into the actual delivery requirement for physical gold. 
+
+ (v) 
+ On T+2 (or T+3 from the booking date): the relevant value of ounces of physical gold are delivered on the DDA Delivery Date in accordance with normal market convention. 
+
+ Per the above, the bookings, undertaken for the purposes of sweeping up the relevant price elements of the Index Components for the operational
+convenience of Party A, have an earlier timeline than that for the actual Transaction and the parties agree that the date of execution for a Transaction is as determined pursuant to the CFTC Margin Rules and not as of the time when Party A books for
+its own convenience a swap that is not the actual Transaction. 
+
+ 4. 
+ Application to the CFTC Margin Rules 
+
+ 4.1 
+ If and to the extent that the variation margin provisions of the CFTC Margin Rules are generally applicable to uncleared swaps entered into between Party A and Party B and executed on or after March 1, 2017; and to
+the extent the CFTC Margin Rules require the collection or posting of variation margin in respect of such uncleared swaps, then, accordingly, the Parties acknowledge and agree as follows: 
+
+ (a) 
+ The CFTC Margin Rules at Regulation §23.153(a) provide for a covered swap entity to determine (and collect or post, as necessary) the variation margin amount on or before the business day after the day of execution
+of an uncleared swap between that covered swap entity and any counterparty that is a swap entity or a financial end user. Pursuant to the CFTC Margin Rules at Regulation §23.153(d), the covered swap entity may calculate and comply with the
+applicable variation margin requirements on an aggregate basis with respect to all uncleared swaps executed pursuant to an eligible master netting agreement between that covered swap entity and a counterparty. For these purposes, the Parties have
+made the assumption, as between themselves, that the “ day of execution ” for the purposes of the CFTC Margin Rules is not necessarily equivalent to the day of booking, but is to be the day on which the Transaction comes into effect.
+
+ (b) 
+ In addition, the CFTC Margin Rules at Regulation §23.153(e) provide that such covered swap entity shall not be deemed to have violated the obligation to collect or post such variation margin where the counterparty
+has refused or has otherwise failed to provide or to accept the required variation margin to or from the covered swap entity and such covered swap entity has either: (i) made the necessary efforts to collect or post the required variation
+margin including the timely initiation of formal dispute resolution mechanisms; or (ii) has commenced termination of the uncleared swap promptly following the applicable cure period. 
+
+ (c) 
+ As such, Party A is under a duty to determine (and collect or post, as necessary) the variation margin amount on “T+1” in respect of each uncleared swap entered into under the ISDA between Party A and Party B.
+The amount of such variation margin that is to be collected or posted (as applicable) is to be calculated by Party A as being equal to the cumulative mark-to-market change in value of the relevant Transaction. 
+
+ (d) 
+ At the point of calculation of the value of such variation margin amount by Party A (i.e., on day “T+1”), in the normal course of events, the agreement of the amounts stated in the Adjustment Notice as between
+Party A and Party B are thereafter converted, as at day “T+1”, from the nominal exposure values represented by the Fee Embedded Index Price and Total Number of Shares (the “ Exposure Values ”) into a physical delivery amount
+of gold, the settlement date for which is the DDA Delivery Date (being “T+2”). 
+
+ 4 | Page 
+
+ 5. 
+ Obligations in respect of calculation of variation margin 
+
+ (a) 
+ With respect to each Transaction, on each business day beginning with the first day that is both a New York Business Day and a London Business Day following the execution of such Transaction (the date of such execution
+being determined in accordance with the CFTC Margin Rules), Party A shall determine, in accordance with the requirements of the CFTC Margin Rules, the amount of variation margin which is required to be collected or, as applicable, posted, in respect
+of each Transaction. Party A will consider each relevant Transaction together on a net basis (i.e., on a portfolio basis), in accordance with the CFTC Margin Rules. 
+
+ (b) 
+ In undertaking the calculation of the amount of variation margin which is to be collected or posted, it is acknowledged that the effective conversion of the Exposure Values into an amount of ounces of physical gold
+which is to be delivered from Party A to Party B on the applicable DDA Delivery Date shall result in the reduction of such variation margin requirement in respect of the applicable Transaction(s) to zero. Accordingly, delivery of the corresponding
+Daily Delivery Amount shall extinguish any requirement to provide variation margin in respect thereof as set out above. For the avoidance of doubt, the conversion of the Exposure Values into an amount of ounces of physical gold shall occur on that
+date and at that time at which the Bank of New York Mellon (acting as securities intermediary) sends a SWIFT message to HSBC (acting as custodian) instructing HSBC to transfer such physical gold from one Party to the other. The process for such
+messaging shall, under normal circumstances, be as follows: (i) Bank of New York Mellon (acting as securities intermediary) shall send a SWIFT message to HSBC (acting as custodian) during London business hours; (ii) HSBC shall thereafter
+confirm via email to Party A and Party B at an address specified by the relevant party that such instruction has been received and, in the case of a delivery of physical gold, that enough physical gold is in the relevant account in order to deliver
+that amount of physical gold specified in the SWIFT message (either on that same day if the SWIFT message is received by HSBC during London business hours, or on the immediately following day if the SWIFT message is received by HSBC outside of
+London business hours from Bank of New York Mellon). 
+
+ (c) 
+ Nevertheless, in any circumstance where Party A determines, upon the advice of independent counsel and based only upon a change in applicable law or regulation, that it is required to collect variation margin in respect
+of one or more Transactions as set out above, it may notify Party B accordingly, and Party B shall either (i) provide the required amount of variation margin in the form of margin eligible for the purposes of and in accordance with the timing
+and other requirements of the CFTC Margin Rules or (ii) terminate the applicable Transaction. Where Party B has failed to provide any variation margin as required pursuant to a notification of Party A, and such failure continues for a period of
+five (5) days that are both New York Business Days and London Business Days following the last date on which such margin could be provided in compliance with the CFTC Rules, Party A may (but, for clarification, shall not be obliged to save to
+the extent that it determines otherwise in accordance with the CFTC Margin Rules) terminate the relevant Transaction in accordance with the CFTC Margin Rules. Party A acknowledges and agrees that such termination of the relevant Transaction shall be
+its sole remedy in respect of any failure of Party B to provide variation margin. 
+
+ 6. 
+ Modifications 
+
+ 6.1 
+ In the event that Party A determines, upon the advice of independent counsel and based only upon a change in applicable law or regulation, that the application of the CFTC Margin Rules to it would require any
+modification to any provision set out in this Schedule Two, then it may notify Party B accordingly and the Parties shall use reasonable efforts to agree the terms of such modification, acting in good faith. 
+
+ 5 | Page 
+
+ SCHEDULE THREE 
+
+ Format of the Variation Margin CSA 
+
+ 6 | Page 
+
+ International Swaps and Derivatives Association, Inc. 
+
+ 2016 CREDIT SUPPORT ANNEX FOR 
+
+ VARIATION MARGIN (VM) 
+
+ dated as of 13 July, 2017 (the “ Effective Date ”) 
+
+ to the Schedule to the ISDA Master Agreement 
+
+ dated as of 28 th December, 2016 
+
+ between 
+
+ Merrill Lynch International 
+
+ and 
+
+ World Currency Gold Trust, acting in respect 
+
+ of SPDR ® Long Dollar Gold Trust 
+
+ (“Bank”) 
+
+ (“Counterparty”) 
+
+ This Annex supplements, forms part of, and is subject to, the above-referenced Agreement, is part of its Schedule and is a
+Credit Support Document under this Agreement with respect to each party. References to “Party A” and “Party B” in the above-referenced Agreement shall be construed as references to either the Bank or the Counterparty, depending
+on which of the Bank or the Counterparty is specified as Party A or Party B in the Agreement. This Annex will become effective on the Effective Date, notwithstanding that this Annex may have been executed before such date. 
+
+ Accordingly, the parties agree as follows:— 
+ Paragraph
+1. Interpretation 
+ (a) Definitions and Inconsistency . Capitalized terms not otherwise defined herein or elsewhere in this
+Agreement have the meanings specified pursuant to Paragraph 12, and all references in this Annex to Paragraphs are to Paragraphs of this Annex. In the event of any inconsistency between this Annex and the other provisions of this Schedule, this
+Annex will prevail, and in the event of any inconsistency between Paragraph 13 and the other provisions of this Annex, Paragraph 13 will prevail. 
+ (b)
+ Secured Party and Pledgor . All references in this Annex to the “Secured Party” will be to either party when acting in that capacity and all corresponding references to the “Pledgor” will be to the other party
+when acting in that capacity; provided , however , that if Other Posted Support (VM) is held by a party to this Annex, all references herein to that party as the Secured Party with respect to that Other Posted Support (VM) will be to
+that party as the beneficiary thereof and will not subject that support or that party as the beneficiary thereof to provisions of law generally relating to security interests and secured parties. 
+
+ 7 | Page 
+
+ Paragraph 13. Elections and Variables 
+
+ (a) 
+ Base Currency and Eligible Currency . 
+
+ (i) 
+ “ Base Currency ” means United States Dollars (USD). 
+
+ (ii) 
+ “ Eligible Currency ” means the Base Currency and each other currency specified here: None Specified. 
+
+ (b) 
+ “Covered Transactions”; “Exposure”. 
+
+ (i) 
+ The term “Covered Transactions” as used in this Annex includes any Transaction that is entered into on or after 1 March 2017, except as otherwise provided in the Confirmation of such
+Transaction. For the purposes of the foregoing, a Transaction will be deemed to be entered into on or after the date specified in this Paragraph 13(b)(i) if an amendment, novation or other lifecycle event with respect to such Transaction would cause
+such Transaction to be entered into after such date under law applicable to either party requiring the collection or delivery of variation margin. 
+
+ (ii) 
+ The term “ Obligations ” as used in this Annex includes the following additional obligations: 
+
+ With respect to the Bank: None Specified. 
+
+ With respect to the Counterparty: None Specified. 
+
+ (iii) 
+ “Exposure” has the meaning specified in Paragraph 12. 
+
+ (c) 
+ Credit Support Obligations. 
+
+ (i) 
+ Delivery Amount (VM) and Return Amount (VM). 
+
+ (A) 
+ “Delivery Amount (VM)” has the meaning specified in Paragraph 3(a). 
+
+ (B) 
+ “Return Amount (VM)” has the meaning specified in Paragraph 3(b). 
+
+ (ii) 
+ Eligible Credit Support (VM). Subject to Paragraph 11(g), if applicable, and each Credit Support Eligibility Condition (VM) applicable to it specified in Paragraph 13, if any, the following items will
+qualify as “Eligible Credit Support (VM)” for the party specified (as the Pledgor): 
+
+ Bank 
+
+ Valuation
+Percentage 
+
+ Counterparty 
+
+ Valuation
+Percentage 
+
+ Cash in an Eligible Currency
+
+ Applicable 
+
+ 100 
+ % 
+
+ Applicable 
+
+ 100 
+ % 
+
+ Gold
+
+ Applicable 
+
+ 85 
+ % 
+
+ Applicable 
+
+ 85 
+ % 
+
+ (iii) 
+ Legally Ineligible Credit Support (VM). The provisions of Paragraph 11(g) will apply to each party as the Secured Party. 
+
+ (A) 
+ “Total Ineligibility Date” has the meaning specified in Paragraph 11(g), unless otherwise specified here: Not Specified. 
+
+ (B) 
+ “Transfer Ineligibility Date” has the meaning specified in Paragraph 11(g), unless otherwise specified here: Not Specified. 
+
+ (iv) 
+ Credit Support Eligibility Conditions (VM). The following conditions will each be a “ Credit Support Eligibility Condition (VM) ” for the party specified. Any item will not qualify as
+Eligible Credit Support (VM) if such item does not satisfy each Credit Support Eligibility Condition (VM) applicable to it. 
+
+ None applicable. 
+
+ (v) 
+ “Valuation Percentage”; “FX Haircut Percentage” 
+
+ (A) 
+ “Valuation Percentage” means, with respect to each party (as the Pledgor) and item of Eligible Credit Support (VM), the percentage (expressed as a decimal) specified in Paragraph 13(c)(ii),
+provided that if nothing is specified in Paragraph 13(c)(ii), the Valuation Percentage will be 100%. If at any time the Valuation Percentage assigned to an item of Eligible Credit Support (VM) with respect to a party (as the Pledgor) under this
+Annex is greater than the maximum permitted valuation percentage (prescribed or implied) for such item of collateral under any law, regulatory guideline, policy, manual, standard or statement applicable to a party, then the Valuation Percentage with
+respect to such item of Eligible Credit Support (VM) will be such maximum permitted valuation percentage. 
+
+ (B) 
+ “FX Haircut Percentage” means, with respect to each party (as the Pledgor) and an item of Eligible Credit Support (VM), 0%, provided that if the Eligible Credit Support (VM) is non-cash Eligible
+Credit Support (VM) and the currency in which such non-cash Eligible Credit Support (VM) is denominated does not match an Eligible Currency, the FX Haircut Percentage for that form of Eligible Credit Support (VM) will be 8%. 
+
+ 8 | Page 
+
+ (vi) 
+ Other Eligible Support (VM) The following items will qualify as “Other Eligible Support (VM)” for the party specified (as the Pledgor): None specified. 
+
+ (vii) 
+ Minimum Transfer Amount . 
+
+ (A) 
+ “Minimum Transfer Amount” means, with respect to Bank: 500,000 units of the Base Currency. 
+
+ “Minimum Transfer Amount” means, with respect to Counterparty: 500,000 units of the Base Currency. 
+
+ (B) 
+ Rounding . 
+
+ (1) 
+ the Delivery Amount (VM) will be rounded up to the nearest integral multiple of 10,000 units of the Base Currency; and 
+
+ (2) 
+ the Return Amount (VM) will be rounded down to the nearest integral multiple of 10,000 units of the Base Currency. 
+
+ (viii) 
+ Transfers. “ Regular Settlement Day ” has the meaning specified in Paragraph 12, unless otherwise specified here: None specified. 
+
+ (d) 
+ Valuation and Timing. 
+
+ (i) 
+ “Valuation Agent” means, for purposes of Paragraphs 3 and 5, the party making the demand under Paragraph 3, and, for the purposes of Paragraph 6(d), the Secured Party, as applicable.
+
+ (ii) 
+ “Valuation Date” means each day that is a day on which commercial banks are open for general business in at least one Valuation Date Location for the Bank and at least one Valuation Date Location
+for the Counterparty. 
+ For purposes of determining the Valuation Date and clause (iii) of the definition of “Local
+Business Day” in Paragraph 12, “Valuation Date Location” means, with respect to each party, each city, region or country specified below: 
+
+ Bank: New York 
+ Counterparty: New
+York 
+
+ (iii) 
+ “Valuation Time” has the meaning specified in Paragraph 12, unless otherwise specified here: Not specified. 
+
+ (iv) 
+ “Notification Time” means 10:00 a.m., New York time, on a Local Business Day, unless otherwise specified here: Not specified. 
+
+ (e) 
+ Conditions Precedent and Secured Party’s Rights and Remedies 
+
+ (i) 
+ The provisions of Paragraph 4(a) will apply, unless otherwise specified here: Not specified. 
+
+ (ii) 
+ If the provisions of Paragraph 4(a) are applicable, the following Termination Event(s) will be a “ Specified Condition ” for the party specified (that party being the Affected Party if the
+Termination Event occurs with respect to that party): 
+
+ Event 
+
+ Bank 
+
+ Counterparty 
+
+ Illegality
+
+ [ X 
+ ] 
+
+ [ X 
+ ] 
+
+ Force Majeure Event
+
+ [ X 
+ ] 
+
+ [ X 
+ ] 
+
+ Tax Event
+
+ [ X 
+ ] 
+
+ [ X 
+ ] 
+
+ Tax Event Upon Merger
+
+ [ X 
+ ] 
+
+ [ X 
+ ] 
+
+ Credit Event Upon Merger
+
+ [ X 
+ ] 
+
+ [ X 
+ ] 
+
+ Additional Termination Event(s)
+
+ [ X 
+ ] 
+
+ [ X 
+ ] 
+
+ (f) 
+ Substitution 
+
+ (i) 
+ “ Substitution Date ” has the meaning specified in Paragraph 4(d)(ii) unless otherwise specified here: 
+
+ “Substitution Date” means the Local Business Day in New York on which the Secured Party is able to confirm irrevocable
+receipt of the Substitute Credit Support, provided that (x) such receipt is confirmed before 2:00 p.m. (New York time) on such Local Business Day in New York and (y) the Secured Party has received, before 1:00 p.m. (New York time) on the
+immediately preceding Local Business Day in New York, the notice of substitution described in Paragraph 4(d)(i). 
+
+ (ii) 
+ “ Consent ” If specified here as applicable, then the Pledgor must obtain the Secured Party’s consent for any substitution pursuant to Paragraph 4(d). 
+
+ The Pledgor is not required to obtain the Secured Party’s consent for any substitution pursuant to Paragraph 4(d). 
+
+ 9 | Page 
+
+ (g) 
+ Dispute Resolution. 
+
+ (i) 
+ “Resolution Time means 1:00 p.m., New York time, on the Local Business Day following the date on which the notice is given that gives rise to a dispute under Paragraph 5, unless otherwise specified
+here: Not specified. 
+
+ (ii) 
+ Value. For the purpose of Paragraphs 5(iv)(A)(3) and 5(iv)(B), the Value of Posted Credit Support (VM) will be calculated as follows: 
+
+ With respect to cash in any Eligible Currency, the Value will be calculated by the Valuation Agent as provided in the definition of
+“Value” in Paragraph 12. 
+
+ (iii) 
+ Alternative. The provisions of Paragraph 5 will apply, unless an alternative dispute resolution procedure is specified here: Not specified. 
+
+ (h) 
+ Holding and Using Posted Collateral (VM). 
+
+ (i) 
+ Eligibility to Hold Posted Collateral (VM); Custodians (VM) . As long as the conditions set forth in clause (1) below are satisfied, the Bank will be entitled to hold Posted Collateral (VM)
+pursuant to Paragraph 6(b). As long as the conditions set forth in clause (2) below are satisfied, any Custodian (VM) for Bank shall be entitled to hold Posted Collateral (VM) pursuant to Paragraph 6(b): 
+
+ (1) 
+ The Bank, as the Secured Party, is not a Defaulting Party, and no Specified Condition has occurred and is continuing with respect to Bank. 
+
+ (2) 
+ The Custodian (VM): The Custodian (VM) is either: 
+
+ (I) 
+ a direct or indirect Affiliate of Bank of America Corporation, or 
+
+ (II) 
+ a domestic office of a commercial bank, trust company or financial institution organized under the laws of the United States (or any state or a political subdivision thereof) having (I) assets of at least $10
+billion and (II) a long-term debt or deposit rating of at least (a) Baa2 from Moody’s and (b) BBB from S&P. 
+
+ Initially, the Custodian (VM) for the Bank is: as may be specified in writing by Bank. 
+
+ As long as the conditions set forth in clause (1) below are satisfied, Counterparty will be entitled to hold Posted Collateral (VM)
+pursuant to Paragraph 6(b). As long as the conditions set forth in clause (2) below are satisfied, any Custodian (VM) for Party B shall be entitled to hold Posted Collateral (VM) pursuant to Paragraph 6(b). 
+
+ (1) 
+ The Counterparty, as Secured Party, is not a Defaulting Party and no Specified Condition has occurred and is continuing with respect to Counterparty. 
+
+ (2) 
+ The Custodian (VM): The Custodian (VM) is a domestic office of a commercial bank, trust company or financial institution organized under the laws of the United States (or any state or a political subdivision thereof)
+having (1) assets of at least $10 billion and (2) a long term debt or deposit rating of at least (I) Baa2 from Moody’s and (II) BBB from S&P. 
+
+ Initially, the Custodian (VM) for the Counterparty is: as may be specified in writing by Counterparty. 
+
+ “ Moody’s ” means Moody’s Investors Service, Inc., or any successor to the rating business of such entity. 
+
+ “ S&P ” means S&P Global Ratings, a division of S&P Global Inc., or any successor to the rating business of
+such entity. 
+
+ (ii) 
+ Use of Posted Collateral (VM) . The provisions of Paragraph 6(c) will apply to both parties. 
+
+ (i) 
+ Distributions and Interest Amount (VM). 
+ The Distributions and Interest Amount
+(VM) provisions shall not apply. 
+
+ (j) 
+ Credit Support Offsets. 
+ If specified here as applicable, then the
+ “Credit Support Offsets” provisions in Paragraph 11(j) will apply: Not Applicable 
+
+ (k) 
+ Additional Representation(s). 
+ None Specified. 
+
+ (l) 
+ Other Eligible Support (VM) and Other Posted Support (VM). 
+
+ (i) 
+ “Value” with respect to Other Eligible Support (VM) and Other Posted Support (VM) means: Not Specified. 
+
+ (ii) 
+ “Transfer” with respect to Other Eligible Support (VM) and Other Posted Support (VM) means: Not Specified. 
+
+ 10 | Page 
+
+ (m) 
+ Demands and Notices. 
+ All demands, specifications and notices under this Annex
+will be made pursuant to the Notices Section of this Agreement, unless otherwise specified here: 
+
+ (n) 
+ Addresses for Transfers. 
+
+ Bank: To be advised 
+
+ Counterparty: To be advised 
+
+ (o) 
+ Other CSA. “Other CSA” has the meaning specified in Paragraph 12, unless otherwise specified here: None Specified. 
+
+ (p) 
+ Other Provisions. 
+
+ (i) 
+ 2016 ISDA Credit Support Annex for Variation Margin (VM) (Bilateral Form—ISDA Agreements Subject to New York Law version). 
+
+ Except as otherwise provided in this Paragraph 13, it is the intention of the parties that the printed form of Paragraphs 1 to 12 of the 2016
+ISDA Credit Support Annex for Variation Margin (VM) (Bilateral Form – ISDA Agreements Subject to New York Law version) as published by the International Swaps and Derivatives Association, Inc. ( “ISDA VM CSA Published Form” )
+shall apply to this Annex and in the event of any inconsistency between Paragraphs 1-12 of this Annex and the ISDA VM CSA Published Form, the ISDA VM CSA Published Form shall prevail. 
+
+ (ii) 
+ [DELETED] 
+
+ (iii) 
+ Representations. 
+ Each party and the Investment Manager repeats on equivalent
+terms all representations made by it pursuant to the Agreement (as amended pursuant to the terms herein) and any letter to the Bank from the Investment Manager relating to its authority. For the avoidance of doubt, any terms in the Agreement (and,
+if applicable, any related letter) regarding the nature of Counterparty, the relationship between the Investment Manager and Counterparty or related rights and obligations of the parties (including, without limitation, any provisions with respect to
+several and not joint liability and the express identification of separate agreements for Counterparty) continue to apply to the Agreement as so amended by the terms herein, and on equivalent terms with respect to the matters set out herein. 
+
+ (iv) 
+ Entire Agreement. This Annex constitutes the entire agreement and understanding of the parties with respect to its subject matter and supersedes all oral communication and prior writings (except as
+otherwise provided herein) with respect thereto. 
+
+ (v) 
+ Counterparts. This Annex may be executed and delivered in counterparts (including by facsimile transmission), each of which will be deemed an original. 
+
+ (vi) 
+ Headings. The headings used in this Annex are for convenience of reference only and are not to affect the construction of or to be taken into consideration in interpreting this Annex. 
+
+ (vii) 
+ Governing Law. This Annex and any non-contractual obligations arising out of or in connection with it will be governed by and construed in accordance with the laws of the State of New York.
+
+ (ix) 
+ Disclosure of Re-use Risks and Consequences . In accordance with Article 15 of the Securities Financing Transactions Regulation, Counterparty confirms that it has been duly informed by Bank of the risks and
+consequences that may be involved in consenting to a right of use of financial instruments received as collateral under a security collateral arrangement or of concluding a title transfer collateral arrangement (which are set out at:
+ http://www.bofaml.com/SFTR_Information_Statement_EN , or as otherwise advised by Bank from time to time). 
+
+ “Securities Financing Transactions Regulation” means Regulation (EU) 2015/2365 of the European Parliament and of the Council of
+25 November 2015 on transparency of securities financing transactions and of reuse and amending Regulation (EU) No 648/2012. 
+
+ (x) 
+ Uniform Commercial Code . This Credit Support Annex is a “Security Agreement” as such term is defined in the New York Uniform Commercial Code. 
+
+ (xi) 
+ UK Financial Conduct Authority’s Client Money Rules 7.11.1R and 7.11.6G. Pursuant to the
+rights set out under Paragraph 6(c), full ownership of all Cash received from or on behalf of Counterparty and held by Bank under the terms of this Credit Support Annex will pass to Bank on receipt and will be held as collateral for
+Counterparty’s present and future obligations to Bank. In accordance with paragraphs 7.11.1R and 7.11.6G of the UK Financial Conduct Authority’s Client Money Rules (the “Rules”), such money will cease to be client money upon
+receipt and will not receive the client money protections conferred by the Rules. Consequently, by signing this Credit Support Annex, Counterparty acknowledges that full ownership of such cash will pass to Bank and be held as collateral as mentioned
+
+ 11 | Page 
+
+above and will not be segregated from that of Merrill Lynch International, as would otherwise be required by the Rules, and will be used by Bank in the course of its own business. Counterparty
+will therefore rank as a general creditor of Bank. Counterparty may request in writing that the rights set out under Paragraph 6(c) are disapplied to this arrangement, which Bank will consider in good faith but which bank is not required to grant in
+any circumstances. 
+ IN WITNESS WHEREOF the parties have executed this Annex on the respective dates specified below with effect from the date
+specified first on the first page of this Annex. 
+
+ Merrill Lynch International 
+
+ World Currency Gold Trust, acting in respect of SPDR ® Long Dollar Gold Trust 
+
+ /s/ Kamal Gajree 
+
+ /s/ Gregory S. Collett 
+
+ Title: Authorised Signatory
+ Date: 13 July
+2017
+
+ Title: Vice President
+ Date: 7.19.17
+
+ Authorized to sign on behalf of the Trust in this capacity since an officer of Trust’s Sponsor
+
+ 12 | Page

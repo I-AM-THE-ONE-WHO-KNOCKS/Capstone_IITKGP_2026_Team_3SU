@@ -1,0 +1,445 @@
+EX-99.1
+ 6
+ helt2007fre1csa.htm
+
+ CSA 
+
+ Party A – The Royal Bank of Scotland plc
+
+ Party B – Wells Fargo Bank, N.A., not individually, but solely as trustee (the “ Trustee ”) on behalf of the Supplemental Interest Trust with respect to the Home Equity Loan Trust 2007-FRE1 
+
+ Paragraph 13. Elections and Variables 
+
+ (a)
+
+ Security Interest for “Obligations”. The term “Obligations” as used in this Annex includes the following additional obligations:
+
+ With respect to Party A: Not applicable.
+
+ With respect to Party B: Not applicable.
+
+ (b)
+
+ Credit Support Obligations. 
+
+ (i) Delivery Amount, Return Amount and Credit Support Amount. 
+
+ (A)
+
+ Delivery Amount. Paragraph 3(a) is amended as follows: (I) the words “upon a demand made by the Secured Party on or promptly following a Valuation Date” shall be deleted and replaced by the words “not later than the close of business on each Valuation Date” and (II) the sentence beginning “Unless otherwise specified in Paragraph 13” and ending “(ii) the Value as of that Valuation Date of all Posted Credit Support held by the Secured Party.” shall be deleted and replaced by the following:
+
+ “The “Delivery Amount” applicable to the Pledgor for any Valuation Date will equal the greatest of 
+
+ (1) 
+
+ the amount by which (a) the S&P Collateral Amount for such Valuation Date exceeds (b) the S&P Value as of such Valuation Date of all Posted Credit Support held by the Secured Party, and
+
+ (2) 
+
+ the amount by which (a) the Moody’s Collateral Amount for such Valuation Date exceeds (b) the Moody’s Value as of such Valuation Date of all Posted Credit Support held by the Secured Party.
+
+ (B) 
+
+ Return Amount. Paragraph 3(b) is amended as follows: The sentence beginning “Unless otherwise specified in Paragraph 13” and ending “(ii) the Credit Support Amount.” shall be deleted and replaced by the following:
+
+ “The “Return Amount” applicable to the Secured Party for any Valuation Date will equal the least of 
+
+ (1) 
+
+ the amount by which (a) the S&P Value as of such Valuation Date of all Posted Credit Support held by the Secured Party exceeds (b) the S&P Collateral Amount for such Valuation Date, and
+
+ (2) 
+
+ the amount by which (a) the Moody’s Value as of such Valuation Date of all Posted Credit Support held by the Secured Party exceeds (b) the Moody’s Collateral Amount for such Valuation Date.
+
+ (C)
+
+ “ Credit Support Amount ” shall not apply. For purposes of calculating any Delivery Amount or Return Amount for any Valuation Date, reference shall be made to the S&P Collateral Amount and the Moody’s Collateral Amount, in each case for such Valuation Date, as provided in Paragraphs 13(b)(i)(A) and 13(b)(i)(B), above.
+
+ The “ S&P Collateral Amount ” means, for any Valuation Date, zero, provided that (A) for so long as an S&P First Rating Trigger Event has occurred and is continuing for at least 10 Local Business Days, the S&P Collateral Amount shall equal Party B’s Exposure, and (B) for so long as an S&P Second Rating Trigger Event has occurred and is continuing for at least 10 Local Business Days, the S&P Collateral Amount shall equal the product of (I) Party B’s Exposure and (II) 125%.
+
+ The “ Moody’s Collateral Amount ” means (A) if (i) no Moody’s First Rating Trigger Event has occurred and is continuing, or (ii) a Moody’s First Rating Trigger Event occurred after Party A executed this Annex and such event has been continuing for less than 30 Local Business Days, zero;
+
+ (B) if a Moody’s First Rating Trigger Event has occurred and is continuing and (i)(I) such event existed at the time Party A executed this Annex or (II) at least 30 Local Business Days have elapsed since such event occurred and (ii)(I) no Moody’s Second Rating Trigger Event has occurred and is continuing or (II) less than 30 Local Business Days have elapsed since the occurrence of a Moody’s Second Rating Trigger Event, then the Moody’s Collateral Amount shall equal the sum of (x) Party B’s Exposure and (y) the sum, over all Transactions, of
+
+ Min [15*DV01, 2%*Hedge Notional]; and
+
+ (C) if a Moody’s Second Rating Trigger Event exists at the time Party A executed this Annex or has occurred and been continuing for 30 or more Local Business Days, then the Moody’s Collateral Amount shall equal 
+
+ Max [0, Next Payment, Party B’s Exposure + Additional Amount], where
+
+ Next Payment = the sum of the net payments due from Party A to Party B (if any) on the next payment date for all Transactions.
+
+ Additional Amount = the sum, over all Transactions of 
+
+ (a)
+
+ with respect to each Transaction that is a single currency swap with a fixed notional amount for each Calculation Period, Min [50*DV01, 8%* Hedge Notional], and
+
+ (b)
+
+ with respect to each Transaction that is not a single-currency swap with a fixed notional amount for each Calculation Period, Min [65*DV01, 10%* Hedge Notional], where
+
+ DV01 = Party A’s estimate of the change in the mid-market value of Party B’s Exposure in a Transaction resulting from a one basis point change in the swap curve (as if such Transaction were the only one outstanding between Party A and Party B), and
+
+ Hedge Notional = the notional amount of a Transaction for the relevant Calculation Period.
+
+ (ii) Eligible Collateral. The following items will qualify as “Eligible Collateral” for the party specified (for the avoidance of doubt, all Eligible Collateral to be denominated in USD):
+
+ Collateral Type 
+
+ Valuation 
+
+Percentage for S&P First Rating Trigger Event 
+
+ Valuation 
+
+Percentage for S&P Second Rating Trigger Event 
+
+ Valuation Percentage for Moody’s First Rating Trigger Event 
+
+ Valuation Percentage for Moody’s Second Rating Trigger Event
+
+ (A) Cash, in the form of USD
+
+ 100%
+
+ 80%
+
+ 100%
+
+ 100%
+
+ (B) Negotiable Debt Obligations (as defined below) issued by the Government of the United States of America having a remaining maturity of not more than one year.
+
+ 98.9%
+
+ 79.1%
+
+ 100%
+
+ 100%
+
+ (C) Negotiable Debt Obligations issued by the Government of the United States of America having a remaining maturity of more than one but not more than two years.
+
+ 98.0%
+
+ 78.4%
+
+ 100%
+
+ 99%
+
+ (D) Negotiable Debt Obligations issued by the Government of the United States of America having a remaining maturity of more than two but not more than three years.
+
+ 98.0%
+
+ 78.4%
+
+ 100%
+
+ 98%
+
+ (E) Negotiable Debt Obligations issued by the Government of the United States of America having a remaining maturity of more than three but not more than five years.
+
+ 98.0%
+
+ 78.4%
+
+ 100%
+
+ 97%
+
+ (F) Negotiable Debt Obligations issued by the Government of the United States of America having a remaining maturity of more than five but not more than seven years.
+
+ 93.7%
+
+ 75.0%
+
+ 100%
+
+ 96%
+
+ (G) Negotiable Debt Obligations issued by the Government of the United States of America having a remaining maturity of more than seven but not more than ten years.
+
+ 92.6%
+
+ 74.1%
+
+ 100%
+
+ 94%
+
+ (H) Negotiable Debt Obligations issued by the Government of the United States of America having a remaining maturity of more than ten but not more than twenty years.
+
+ 91.1%
+
+ 72.9%
+
+ 100%
+
+ 90%
+
+ (I) Negotiable Debt Obligations issued by the Government of the United States of America having a remaining maturity of more than twenty years.
+
+ 88.6%
+
+ 70.9%
+
+ 100%
+
+ 88%
+
+ As used above, the following terms have the indicated meanings:
+
+ “Negotiable Debt Obligation” means a debt obligation in a stated principal amount with a non-variable fixed maturity, which cannot be redeemed by its issuer before its maturity nor put to the issuer for redemption before its maturity. It must bear interest on its stated principal amount at a non-variable fixed rate until maturity. 
+
+ (iii) Other Eligible Support. The following items will qualify as “Other Eligible Support” for the party specified: Not Applicable.
+
+ (iv) Thresholds. 
+
+ (A)
+
+ “Independent Amount” means with respect to Party A: Not Applicable.
+
+ “Independent Amount” means with respect to Party B: Not Applicable.
+
+ (B)
+
+ “Threshold” shall mean zero with respect to Party A and Party B.
+
+ (C)
+
+ “Minimum Transfer Amount” means with respect to Party A: USD 100,000, and with respect to Party B: USD 100,000, provided, that if the aggregate principal balance of the Certificates rated by S&P ceases to be more than USD 50,000,000, the “Minimum Transfer Amount” shall be USD 50,000 and provided further that if a Party is a Defaulting Party, or the Affected Party under an Additional Termination Event, the Minimum Transfer Amount for such party shall be zero.
+
+ (D)
+
+ Rounding. The Delivery Amount and the Return Amount will be rounded up and down, respectively, to the nearest integral multiple of USD 10,000.
+
+ (c)
+
+ Valuation and Timing. 
+
+ (i) “Valuation Agent ” means Party A.
+
+ (ii) “Valuation Date” means: each Local Business Day. 
+
+ (iii) “Valuation Time” means the close of business on the Local Business Day before the Valuation Date or date of calculation, as applicable; provided, however, that the calculations of Value and Exposure will be made as of approximately the same time on the same date.
+
+ (iv) “Notification Time” means 9:00 a.m., New York time, on a Local Business Day.
+
+ (d) 
+
+ Conditions Precedent and Secured Party's Rights and Remedies. For purposes of Paragraph 8(a), each Termination Event will be a "Specified Condition" for the Pledgor, if the Secured Party has designated an Early Termination Date in connection with the Termination Event. For all other purposes of this Annex, each Termination Event specified below with respect to a party will be a "Specified Condition" for that party (that party being the Affected Party if the Termination Event occurs with respect to that party): 
+
+ Termination Event 
+
+ Party A 
+
+ Party B 
+
+ Illegality
+
+ N/A 
+
+ N/A 
+
+ Tax Event
+
+ N/A 
+
+ N/A 
+
+ Tax Event Upon Merger
+
+ N/A 
+
+ N/A 
+
+ Credit Event Upon Merger
+
+ N/A 
+
+ N/A 
+
+ Additional Termination Event(s)
+
+ X 
+
+ X 
+
+ (e)
+
+ Substitution. 
+
+ (i) “Substitution Date” has the meaning specified in Paragraph 4(d)(ii).
+
+ (ii) Consent. The Pledgor shall obtain the Secured Party’s consent for any substitution pursuant to Paragraph 4(d). Such consent shall not be unreasonably withheld. 
+
+ (f)
+
+ Dispute Resolution. 
+
+ (i) “Resolution Time” means 9:00 a.m., New York time, on the Local Business Day following the date on which the notice of the dispute is given by the Disputing Party to the other party.
+
+ (ii) Value. For the purposes of Paragraphs 5(i)(c) and 5(ii), the Value of the outstanding Credit Support Amount or of any transfer of Eligible Credit Support or Posted Credit Support other than Cash (the “Non-Cash Credit Support”) will be calculated as follows: the product of (A) appropriate Valuation Percentage and (B) the sum of (I) the mean of the bid prices quoted on such date by any three principal market makers for such Non-Cash Credit Support chosen by the Disputing Party, or if three such quotations are not available from principal market makers for such date, using two such quotations, or if only one such quotation is obtained using such quotation, or if no quotations are available using the mean of such bid prices as of the day, next preceding such date, on which one or more of such quotations were available, plus (II) the accrued interest on such Non-Cash Credit Support (except to the extent Transferred to a party pursuant to this Agreement or included in the applicable price referred to in subparagraph (A) of this Clause) as of such date. For the purposes of Paragraphs 5(i)(c) and 5(ii), the Value of the outstanding Credit Support Amount or of any transfer of Eligible Credit Support or Posted Credit in the form of Cash will be calculated as follows: (A) the amount thereof or (B) if an S&P Second Rating Trigger Event has occurred and has been continuing for at least 10 Local Business Days, the amount thereof multiplied by the Valuation Percentage for the S&P Second Rating Trigger Event for Cash set forth in Paragraph 13(b)(ii). 
+
+ (iii) Alternative. The provisions of Paragraph 5 will apply.
+
+ (g)
+
+ Holding and Using Posted Collateral. 
+
+ (i) Eligibility to Hold Posted Collateral; Custodians. 
+
+ Party B or its Custodian will be entitled to hold Posted Collateral pursuant to Paragraph 6(b); provided that the following conditions applicable to it are satisfied:
+
+ (A)
+
+ In the event that Party B holds Posted Collateral, Party B is not a Defaulting Party or an Affected Party under an Additional Termination Event.
+
+ (B)
+
+ Posted Collateral may be held only in the following jurisdiction: New York.
+
+ (C)
+
+ In the event that the Custodian holds Posted Collateral, the long-term unsubordinated unsecured debt of the Custodian is rated at least “A+” and “A-1” by Standard & Poors, a division of The McGraw-Hill Companies, Inc. (or any successor thereto) and at least “A1” by Moody’s Investors Service, Inc. (or any successor thereto). If at any time the Custodian does not have credit ratings from S&P at least equal to the a short-term unsecured and unsubordinated debt rating from S&P of “A-1,” or, if such entity does not have a short-term unsecured and unsubordinated debt rating from S&P, a long-term unsecured and unsubordinated debt rating or counterparty rating from S&P of “A+”, the Trustee must within 60 days obtain a replacement Custodian with credit ratings from S&P at least equal to the a short-term unsecured and unsubordinated debt rating from S&P of “A-1,” or, if such entity does not have a short-term unsecured and unsubordinated debt rating from S&P, a long-term unsecured and unsubordinated debt rating or counterparty rating from S&P of “A+”.
+
+ Initially, the Custodian for Party B is Wells Fargo Bank, N.A..
+
+ (ii) Use of Posted Collateral. The provisions of Paragraph 6(c)(i) shall not apply.
+
+ (h)
+
+ Distributions and Interest Amount. 
+
+ (i) Interest Rate. The “Interest Rate” will be the actual interest earned by the Secured Party in respect of Posted Collateral in the form of Cash. 
+
+ (ii) Transfer of Interest Amount. The transfer of the Interest Amount will be made on the second Local Business Day of each calendar month in respect of the Interest Amount for the preceding calendar month, provided, however , that the obligation of Party B to Transfer any Interest Amount to Party A shall be limited to the extent that Party B has earned and received such funds and such funds are available to Party B.
+
+ (iii) Alternative to Interest Amount. Not applicable.
+
+ (i)
+
+ Additional Representation(s). Not applicable.
+
+ (j)
+
+ Other Eligible Support and Other Posted Support. 
+
+ (i) “Value” with respect to Other Eligible Support and Other Posted Support means: Not applicable.
+
+ (ii) “Transfer” with respect to Other Eligible Support and Other Posted Support means: Not applicable.
+
+ (k)
+
+ Demands and Notices. 
+
+ All demands, specifications and notices under this Annex will be made pursuant to the Notices Section of this Agreement, unless otherwise specified here:
+
+ Party A:
+
+ Global Collateral Support Unit 
+
+ The Royal Bank of Scotland plc, Financial Markets 
+
+ 280 Bishopsgate 
+
+ London EC2M 4RB
+
+ Facsimile: 44.207 085 4793
+
+ Telephone: 44.207 085 5209
+
+ With a copy to:
+
+ Greenwich Capital Markets, Inc.
+
+ 600 Steamboat Road
+
+ Greenwich CT 06830
+
+ Attn: 
+
+ Derivatives Settlements
+
+ Telephone: 203-618-2781 (Rob Bache) 
+
+ 203-618-2440 (Operations main number)
+
+ Facsimile: 203-618-2579
+
+ Party B:
+
+ Wells Fargo Bank, N.A.
+
+ 9062 Old Annapolis Road
+
+ Columbia, Maryland 21045
+
+ Client Manager – HELT 2007-FRE1
+
+ Fax: 
+
+ (410) 715-2380
+
+ Phone: 
+
+ (410) 884-2000
+
+ (l)
+
+ Address for Transfers. All transfers hereunder will be made to the account or accounts most recently notified by each party to the other.
+
+ (m)
+
+ Other Provisions. 
+
+ (i) Single Secured Party and Single Pledgor. Party A and Party B hereby agree that, notwithstanding anything to the contrary in this Annex, (a) the term “Secured Party” as used in this Annex means only Party B, (b) the term “Pledgor” as used in this Annex means only Party A, (c) only Party A makes the pledge and grant in Paragraph 2, the acknowledgement in the final sentence of Paragraph 8(a) and the representations in Paragraph 9.
+
+ (ii) Events of Default . Paragraph 7 will not apply to cause any Event of Default to exist with respect to Party B except that Paragraph 7(i) will apply to Party B solely in respect of Party B’s obligations under Paragraph 3(b) of the Credit Support Annex. Notwithstanding anything to the contrary in Paragraph 7, any failure by Party A to comply with or perform any obligation to be complied with or performed by Party A under the Credit Support Annex shall only be an Event of Default if (A) a First Rating Trigger Event with respect to S&P or a Second Rating Trigger Event with respect to S&P has occurred and been continuing for 60 days or more or (B) a Second Rating Trigger Event with respect to Moody’s has occurred and been continuing for 30 or more Local Business Days and such failure is not remedied on or before the third Local Business Day after notice of such failure is given to Party A. 
+
+ (iii) Form of Annex . Party A and Party B hereby agree that the text of Paragraphs 1 through 12, inclusive, of this Annex is intended to be the printed form of ISDA Credit Support Annex (Bilateral Form - ISDA Agreements Subject to New York Law Only version) as published and copyrighted in 1994 by the International Swaps and Derivatives Association, Inc.
+
+ (iv) Expenses. Notwithstanding anything to the contrary in Paragraph 10, the Pledgor will be responsible for, and will reimburse the Secured Party for, all transfer and other taxes and other costs involved in any Transfer of Eligible Collateral.
+
+ (v) Withholding. Paragraph 6(d)(ii) is hereby amended by inserting immediately after “the Interest Amount” in the fourth line thereof the words “less any applicable withholding taxes.”
+
+ (vi) “ Local Business Day ” means, for purposes of the Credit Support Annex, any day on which (A) commercial banks are open for business (including dealings in foreign exchange and foreign currency deposits) in New York and the location of Party A, Party B and any Custodian, and (B) in relation to a Transfer of Eligible Collateral, any day on which the clearance system agreed between the parties for the delivery of Eligible Collateral is open for acceptance and execution of settlement instructions (or in the case of a Transfer of Cash or other Eligible Collateral for which delivery is contemplated by other means a day on which commercial banks are open for business (including dealings in foreign exchange and foreign deposits) in New York and the location of Party A, Party B and any Custodian. 
+
+ (vii) Calculation of Value. Paragraph 4(c) is hereby amended by deleting the word “Value” and inserting in lieu thereof “S&P Value and Moody’s Value”. Paragraph 4(d)(ii) is hereby amended by (A) deleting the words “a Value” and inserting in lieu thereof “an S&P Value and a Moody’s Value” and (B) deleting the words “the Value” and inserting in lieu thereof “S&P Value or Moody’s Value”. Paragraph 5 (flush language) is hereby amended by deleting the word “Value” and inserting in lieu thereof “S&P Value or Moody’s Value”. Paragraph 5(i) (flush language) is hereby amended by deleting the word “Value” and inserting in lieu thereof “S&P Value and Moody’s Value”. Paragraph 5(i)(C) is hereby amended by deleting the word “the Value, if” and inserting in lieu thereof “any one or more of the S&P Value or Moody’s Value, as may be”. Paragraph 5(ii) is hereby amended by (1) deleting the first instance of the words “the Value” and inserting in lieu thereof “any one or more of the S&P Value or Moody’s Value” and (2) deleting the second instance of the words “the Value” and inserting in lieu thereof “such disputed S&P Value or Moody’s Value”. Each of Paragraph 8(b)(iv)(B) and Paragraph 11(a) is hereby amended by deleting the word “Value” and inserting in lieu thereof “least of the S&P Value and Moody’s Value”. 
+
+ (viii) “ Moody’s Value ” means, on any date and with respect to any Eligible Collateral other than Cash, (A) if a Moody’s First Rating Trigger Event has occurred and is continuing and (i)(I) such event existed at the time Party A executed this Annex or (II) at least 30 Local Business Days have elapsed since such event occurred and (ii)(I) no Moody’s Second Rating Trigger Event has occurred and is continuing or (II) less than 30 Local Business Days have elapsed since the occurrence of a Moody’s Second Rating Trigger Event, the bid price obtained by the Valuation Agent multiplied by the Valuation Percentage for Moody’s First Rating Trigger Event for such Eligible Collateral set forth in Paragraph 13(b)(ii); and (B) if a Moody’s Second Rating Trigger Event exists at the time Party A executed this Annex or has occurred and been continuing for 30 or more Local Business Days, the bid price obtained by the Valuation Agent multiplied by the Valuation Percentage for Moody’s Second Rating Trigger Event for such Eligible Collateral set forth in Paragraph 13(b)(ii).
+
+ (x)
+
+ “ S&P Value ” means, on any date and with respect to any Eligible Collateral other than Cash, (a) if an S&P First Trigger Rating Event has occurred and an S&P Second Trigger Rating Event has not occurred and been continuing for 10 Local Business Days, the bid price obtained by the Valuation Agent multiplied by the Valuation Percentage for S&P First Rating Trigger Event for such Eligible Collateral set forth in Paragraph 13(b)(ii), or (b) if a Second Trigger Rating Event has occurred with respect to S&P, the bid price obtained by the Valuation Agent multiplied by the Valuation Percentage for S&P Second Rating Trigger Event for such Eligible Collateral set forth in Paragraph 13(b)(ii). With respect to Cash, (a) the amount thereof or (b) if an S&P Second Rating Trigger Event has occurred and has been continuing for at least 10 Local Business Days, the amount thereof multiplied by the Valuation Percentage for the S&P Second Rating Trigger Event for Cash set forth in Paragraph 13(b)(ii).
+
+ (xi)
+
+ Collateral Account. Party B shall open and maintain a segregated account and hold, record and identify all Posted Collateral in such segregated account.
+
+ (xii)
+
+ Transfer Timing. The following words shall be inserted before the period at the end of Paragraph 4(b): “, provided that maintenance and any transfer of Eligible Credit Support by the Pledgor pursuant to Paragraph 3(a) shall be made not later than the close of business on the relevant Valuation Date, regardless of whether any demand for transfer is received.”
+
+ [SIGNATURE PAGE IMMEDIATELY FOLLOWS]
+
+ THE ROYAL BANK OF SCOTLAND PLC
+
+ By: Greenwich Capital Markets, Inc., its agent
+
+ By /s/ David E. Wagner 
+
+ Name: Deborah Pfeifer 
+
+ Title: Managing Director 
+
+ WELLS FARGO BANK, N.A., not individually, but solely as trustee on behalf of the Supplemental Interest Trust with respect to the Home Equity Loan Trust 2007-FRE1
+
+ By /s/ Darron C. Woodus 
+
+ Name: Darron C. Woodus 
+
+ Title: Assistant Vice President

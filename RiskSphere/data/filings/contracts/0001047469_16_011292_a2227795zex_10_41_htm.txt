@@ -1,0 +1,566 @@
+EX-10.41
+ 2
+ a2227795zex-10_41.htm
+ EX-10.41
+
+ Exhibit 10.41 
+
+ SWAP INTERCREDITOR AGREEMENT 
+
+ THIS SWAP INTERCREDITOR AGREEMENT (this “ Agreement ”) is entered into as of May 22, 2015 by and among Warren Resources, Inc., a Maryland corporation (“ Borrower ”) the other subsidiaries of Borrower party as Guarantors under the Credit Agreement (collectively referred to as “ Guarantors ,” and together with Borrower, collectively referred to as “ Credit Parties ”), Cargill, Incorporated, acting through its Cargill Risk Management Business Unit (the “ Initial Secured Swap Counterparty ”), any other Person that hereafter becomes a party to this Agreement as a “ Secured Swap Counterparty ” pursuant to the Joinder Supplement, Wilmington Trust, National Association, as administrative agent for the Lenders under the Credit Agreement (in such capacity, “ Administrative Agent ”) and each other Person that from time to time becomes a party hereto in accordance with the terms of this Agreement. 
+
+ RECITALS: 
+
+ WHEREAS, pursuant to that certain Credit Agreement, dated as of May 22, 2015 (as amended, restated, amended and restated, supplemented or otherwise modified from time to time, the “ Credit Agreement ”), among the Borrower, the various banks and other financial institutions and entities from time to time parties thereto (collectively referred to as “ Lenders ”) and Administrative Agent, Lenders have made Loans (as such term is defined in the Credit Agreement) to the Credit Parties; 
+
+ WHEREAS, pursuant to (a) the Security Agreement, dated as of the date hereof (as the same may be amended, restated, amended and restated, supplemented or otherwise modified, refinanced or replaced from time to time, the “ Security Agreement” ), (b) the other Collateral Documents (as defined in the Credit Agreement), Borrower and each Guarantor party thereto has granted a security interest on a First Lien basis in the Collateral to secure the Obligations; 
+
+ WHEREAS, certain Credit Parties and Initial Secured Swap Counterparty have entered into that certain ISDA Master Agreement, dated as of May 22, 2015, including the schedules, exhibits and annexes related thereto, and have entered into or may enter into one or more transaction confirmations thereunder (collectively referred to as the “ Initial ISDA ”); 
+
+ WHEREAS, Borrower and Guarantors may from time to time after the date hereof enter into additional Approved ISDAs to the extent permitted under the Credit Agreement and the other applicable Principal Agreements, in each case which may be secured on a First Lien basis by all or a portion of the Collateral pursuant to the terms of the Security Instruments; 
+
+ WHEREAS, Borrower and Guarantors may from time to time after the date hereof enter into additional agreements evidencing indebtedness or other obligations to the extent permitted under the Credit Agreement and the other applicable Principal Agreements, in each case which may be secured on a First Lien basis by all or a portion of the Collateral pursuant to the terms of the Security Instruments; 
+
+ WHEREAS, the Credit Agreement and the Initial ISDA provide, among other things, that the parties thereto shall enter into this Agreement to, among other things, define the rights, duties, authorities and responsibilities of Administrative Agent and the respective rights and remedies among the Secured Parties with respect to the Collateral; and 
+
+ WHEREAS, in order to induce the Secured Parties to enter into the transactions contemplated by the Principal Agreements, each of the parties hereto has agreed to the agency, intercreditor and other provisions set forth in this Agreement, and Administrative Agent (on behalf of Lenders), Secured Swap Counterparties and Credit Parties desire to enter into this Agreement to establish certain terms relating to the relative rights of the Lenders Parties and Secured Swap Counterparties with respect to the First Lien security for payment of the Credit Obligations owed by Credit Parties to Lenders and the Swap Obligations owed by Credit Parties to Secured Swap Counterparties. 
+
+ AGREEMENTS: 
+
+ In consideration of the premises, the mutual covenants and promises of this Agreement and other consideration, the receipt and adequacy of which are hereby acknowledged, Credit Parties, Secured Swap Counterparties and Administrative Agent on behalf of the Lenders agree as follows. 
+
+ Section 1. Definitions . The following terms shall have the meanings set forth below, and terms capitalized but not defined herein shall have the meaning set forth in the Credit Agreement, as in effect on the date hereof:
+
+ Accelerated Creditor means any Creditor that has delivered notice of a Triggering Event to Administrative Agent, and (i) declared an Early Termination Date under an Approved ISDA, or (ii) holds Loans that have matured (whether by acceleration or otherwise).
+
+ Administrative Agent is defined in the preamble.
+
+ Affiliate has the meaning assigned to such term in the Credit Agreement.
+
+ Agreement is defined in the preamble.
+
+ Approved ISDA means (a) the Initial ISDA, (b) any ISDA Master Agreement (including the confirmations, schedules, annexes and exhibits related thereto) executed and delivered in reliance upon the terms of Section 2(c), and (c) any other ISDA Master Agreement (including the confirmations, schedules, annexes and exhibits related thereto) between any Credit Party and any Secured Swap Counterparty that is approved by Administrative Agent and the Lead Lenders.
+
+ Bankruptcy Code Title 11 of the United States Code, entitled “Bankruptcy”, as now and hereafter in effect, or any successor statute.
+
+ Borrower is defined in the preamble.
+
+ Business Day has the meaning assigned to such term in the Credit Agreement.
+
+ Collateral means the “Collateral” as defined in the Credit Agreement.
+
+ Contractual Obligations as to any Person means any provision of any security issued by such Person or of any agreement, instrument or other undertaking to which such Person is a party or by which it or any of its property is bound.
+
+ 2 
+
+ Credit Agreement is defined in the recitals to this Agreement.
+
+ Credit Obligations means the “Obligations” as defined in the Credit Agreement.
+
+ Creditors means, collectively, Lender Parties and Secured Swap Counterparties.
+
+ Cross-Default is defined in clause (c) of the definition of “Triggered Event.”
+
+ Debtor Relief Law has the meaning assigned to such term in the Credit Agreement.
+
+ Early Termination Event means, with respect to any Approved ISDA, the designation or occurrence of an “Early Termination Date” (as defined in such Approved ISDA) or the occurrence of any event of default (howsoever defined) under any Approved ISDA that results in the termination of one or more transactions under such Approved ISDA.
+
+ Eligible Secured Swap Counterparty has the meaning assigned to such term in the Credit Agreement.
+
+ Event of Default means (x) an “Event of Default” under and as defined in the Credit Agreement or (y) any Early Termination Event under any Approved ISDA with respect to which Borrower or any other Credit Party is the “Defaulting Party” or “Affected Party,” as the case may be.
+
+ Financing Documents means each document defined as a “Financing Document” in the Credit Agreement.
+
+ First Lien means a first priority Lien granted pursuant to the Security Instruments to Administrative Agent (for the benefit of all Secured Parties) on the Collateral to secure the Obligations.
+
+ Guarantors is defined in the preamble.
+
+ Indemnitee is defined in Section 8(d).
+
+ Initial ISDA is defined in the recitals to this Agreement.
+
+ Initial Secured Swap Counterparty is defined in the preamble.
+
+ Insolvency or Liquidation Proceeding means
+
+ (a) any voluntary or involuntary case or proceeding under any Debtor Relief Law with respect to any Credit Party;
+
+ (b) any other voluntary or involuntary insolvency, reorganization or bankruptcy case or proceeding, or any receivership, liquidation, reorganization or other similar case or proceeding with respect to any Credit Party or with respect to a material portion of their respective assets;
+
+ 3 
+
+ (c) any liquidation, dissolution, reorganization or winding up of any Credit Party whether voluntary or involuntary and whether or not involving insolvency or bankruptcy; or
+
+ (d) any assignment for the benefit of creditors or any other marshalling of assets and liabilities of any Credit Party.
+
+ Interest Expense means for any period, all interest, commitment fees and letter of credit fees in respect of outstanding Obligations accrued, capitalized or payable during such period (whether or not actually paid during such period).
+
+ Joinder Supplement means a supplement to this Agreement in the form of Exhibit A, providing for a signatory thereto to become a Secured Swap Counterparty under this Agreement.
+
+ Lenders is defined in the recitals to this Agreement.
+
+ Lender Parties means Administrative Agent, Lenders and any other Lender of the Credit Obligations from time to time . 
+
+ Lien has the meaning assigned to such term in the Credit Agreement.
+
+ Mortgages means collectively each mortgage, deed of trust and other document or instrument under which any Lien on real property owned or leased by any Credit Party is granted by a Credit Party to secure any Obligations or under which rights or remedies with respect to any such Liens are governed, including the “Mortgages” (as defined in the Credit Agreement).
+
+ Initial ISDA is defined in the recitals to this Agreement.
+
+ Notice Lender means any Lender that, together with its Affiliates that also hold a portion (but an equal or lessor portion) of the Loans, holds a sufficient amount to meet the test to be Required Lenders under the Credit Agreement.
+
+ Notice of Default means (a) any written notice delivered under the Credit Agreement declaring that a Default or an Event of Default (as defined therein) exists and demanding cure thereof, or giving notice of intent to accelerate the Loans in connection therewith, or giving notice that such acceleration has occurred, and (b) any written notice delivered under an Approved ISDA declaring that an Event of Default, a Potential Event of Default, a Termination Event, or an event that would, with notice or passage of time, become a Termination Event (as such terms are defined in such Approved ISDA) exists and demanding cure thereof, or giving notice of intent to designate an Early Termination Date under such Approved ISDA in connection therewith, or giving notice that such an Early Termination Date has occurred.
+
+ Obligations means collectively all Credit Obligations and all Swap Obligations, whether direct or indirect (including those acquired by assumption), absolute or contingent, due or to become due, now existing or hereafter arising. Without limiting the generality of the foregoing, the Obligations shall include interest accruing at the then applicable rate provided in the applicable Principal Agreement after the maturity of the relevant Obligations and any Post- Petition Interest.
+
+ 4 
+
+ Ordinary Course Settlement Payments means all regularly scheduled payments due under any Approved ISDA calculated in accordance with the terms of such Approved ISDA, including any Interest Expense due and payable by any Credit Party in connection with any such regularly scheduled payments, but excluding any “Termination Payments” due and payable under any Approved ISDA.
+
+ Post-Petition Interest means any interest or entitlement to fees or expenses or other charges that accrues after the commencement of any Insolvency or Liquidation Proceeding, whether or not allowed or allowable in any such Insolvency or Liquidation Proceeding.
+
+ Principal Agreements means, collectively, the Financing Documents and the Swap Documents.
+
+ Proceeds from Enforcement means any and all proceeds received by Administrative Agent or any Creditor from any sale, exchange, destruction, condemnation, foreclosure or liquidation of any of the Collateral under any Debtor Relief Law or pursuant to enforcement of remedies in the Security Instruments or from any other disposition by Administrative Agent or any Creditor of any of the Collateral; provided, however , that, unless a Triggering Event has occurred, such term will not include payments made out of the proceeds from sales of inventory in the ordinary course of a Credit Party’s business included in, produced from or attributable to the Collateral or to Ordinary Course Settlement Payments.
+
+ Property means an interest in any kind of property or assets, whether real, personal or mixed, or tangible or intangible, including, without limitation, cash, securities, accounts and contract rights.
+
+ Ratably or Ratable means, with respect to each Creditor at any time, a fraction whose numerator is the amount of Credit Obligations and Swap Obligations owing to such Creditor at such time and whose denominator is the Total Obligations owing to all Creditors at such time.
+
+ Requirements of Law has the meaning assigned to such term in the Credit Agreement.
+
+ Right or Rights means rights, remedies, powers, privileges and benefits.
+
+ Refinance means, in respect of any Indebtedness, (a) such Indebtedness (in whole or in part) as extended, renewed, defeased, refinanced, replaced, refunded or repaid and (b) any other Indebtedness issued in exchange or replacement for or to refinance such Indebtedness, in whole or in part, whether with the same or different Lenders, arrangers and/or agents and whether with a larger or smaller aggregate principal amount and/or a longer or shorter maturity, in each case to the extent permitted (if addressed therein, or, otherwise, not prohibited) under the terms of the Credit Agreement and under the terms of the other applicable Principal Agreements. “ Refinanced ” and “ Refinancing” shall have correlative meanings.
+
+ Secured Party has the meaning assigned to such term in the Credit Agreement as in effect on the Closing Date (without reference to any subsequent amendment, restatement, modification or Refinance), and in any event will include all Secured Swap Counterparties; provided, that in the case of any Secured Swap Counterparty that is not a party hereto as of the date hereof, such Secured Swap Counterparty shall have executed and delivered to Administrative Agent a Joinder
+
+ 5 
+
+ Supplement in accordance with Section 15 pursuant to which it has become a party to this Agreement and has agreed to be bound by the obligations of a Secured Party under the terms hereof. 
+
+ Secured Swap Counterparties means, collectively, Initial Secured Swap Counterparty, each Person that has entered into any ISDA Master Agreement in reliance on a certificate from Borrower as contemplated by Section 2(c) and executes and delivers a Joinder Supplement as provided in Section 15 and each other Person that is recognized by Administrative Agent as an “Eligible Secured Swap Counterparty” under the Credit Agreement and executes and delivers a Joinder Supplement (along with Administrative Agent and Credit Parties) as provided in Section 15.
+
+ Security Agreement is defined in the recitals to this Agreement.
+
+ Security Instruments means the “Collateral Documents” as defined in the Credit Agreement and includes those documents listed in Schedule I attached hereto.
+
+ Swap Agreement is defined in the Credit Agreement.
+
+ Swap Documents means each Approved ISDA and all relevant confirmations of trades made under any Approved ISDA.
+
+ Swap Intercreditor Agreement means this Agreement and each other intercreditor agreement entered into among Administrative Agent, the Borrower and a counterparty to a Swap Agreement approved by Administrative Agent (at the direction of the Lead Lenders).
+
+ Swap Obligations means, at any time in question, all amounts owing by any Credit Party to any Secured Swap Counterparty under the Swap Documents, including all Ordinary Course Settlement Payments and all Termination Payments (and, at any time when an Early Termination Event designation may be enjoined or barred by law or court order, all amounts that would be owing were an Early Termination Date to be designated), together with all costs and expenses (including reasonable attorneys’ fees) incurred in the enforcement or collection thereof, and all interest thereon after the commencement of any proceedings under any Debtor Relief Laws and any expenses or other amounts paid by such Secured Swap Counterparty to which it is entitled to reimbursement by any Credit Party.
+
+ Termination Payment means any amount payable to or by any Credit Party in connection with a termination (whether as a result of the occurrence of an Event of Default or other termination event) of any Approved ISDA, including any “Settlement Amount” or “Termination Payment,” together with any Interest Expense due and payable by any of the Credit Parties in connection with such amounts; provided, that “ Termination Payments” shall not include any Ordinary Course Settlement Payments due under any such Approved ISDA that have been paid prior to such date of determination.
+
+ Total Obligations means, as of any date of determination but without duplication, an amount equal to the sum of (a) the Credit Obligations plus (b) the Swap Obligations.
+
+ Triggering Event means either of the following:
+
+ 6 
+
+ (a) Administrative Agent shall have received from any Secured Swap Counterparty written notice that (A) either an Event of Default, a Termination Event or an Additional Termination Event (as defined in such Secured Swap Counterparty’s Approved ISDA, but excluding any Event of Default that is of the type described under clause (i) of the definition of “Cross Default” below, but such exclusion shall not apply if Administrative Agent has issued a “Triggering Event” under clause (b) below) has occurred and is continuing, (B) an Early Termination Date has been designated as a result thereof, (C) specifies the sum of all Unpaid Amounts (as defined in such Approved ISDA) then due as the result of the designation of such Early Termination Date and the amount of Interest Expense and other amounts then due and payable by Credit Parties in respect thereof and (D) states that the amount set forth in clause (C) has not been paid in full or otherwise discharged to the satisfaction of such Secured Swap Counterparty; or
+
+ (b) Administrative Agent shall have received from Credit Parties written notice that (A) an Event of Default (as defined in the Credit Agreement, but excluding any Event of Default that is of a type described under clause (ii) of the definition of “Cross Default” below, but such exclusion shall not apply if the Secured Swap Counterparty has issued a “Triggering Event” under clause (a) above) has occurred and is continuing and (B) the unpaid principal amount of all Loans under the Credit Agreement and all interest accrued and unpaid thereon have been declared to be due and payable prior to its scheduled stated maturity date; and
+
+ (c) for the purposes of this definition “ Cross-Default ” means (i) any Event of Default under the Financing Documents that is caused solely by the occurrence of an Event of Default, Termination Event or Additional Termination Event under any Swap Documents (unless the Secured Swap Counterparty that is party to such Swap Documents has designated an Early Termination Date) or (ii) any Event of Default, Termination Event or Additional Termination Event under any Secured Swap Counterparty’s Swap Documents that is caused solely by the occurrence of an Event of Default under the Financing Documents (unless Administrative Agent has declared the Loans due and payable) or the occurrence of an Event of Default, Termination Event or Additional Termination Event under another Secured Swap Counterparty’s Swap Documents (unless such other Swap Party has designated an Early Termination Date).
+
+ UCC means the Uniform Commercial Code as in effect from time to time in the State of New York or, when the context implies, the Uniform Commercial Code as in effect from time to time in any other applicable jurisdiction.
+
+ Section 2. Obligations and Liens; Amendments .
+
+ (a) The Creditors acknowledge and agree that none of the Swap Obligations has been contractually subordinated in right of payment to any of the Credit Obligations and that none of the Credit Obligations has been contractually subordinated in right of payment to any of the Swap Obligations, and that the Credit Obligations and the Swap Obligations shall rank pari passu in right of payment. Subject to the other terms and conditions of this Agreement, the Credit Obligations and the Swap Obligations shall be secured on a pari passu basis by the Liens granted to Administrative Agent for the benefit
+
+ 7 
+
+ of the Secured Parties under the Security Instruments. In furtherance of the foregoing, (i) as among the Creditors, all Liens on the Collateral shall rank pari passu, and the Creditors shall share in the Collateral and all Proceeds of Enforcement in accordance with the terms of this Agreement and (ii) no Credit Party shall grant or permit any additional Liens on any property or assets to secure any Obligation unless it has granted or concurrently grants a Lien on such property or assets to secure all Obligations on a pari passu basis. As soon as is practicable following execution of a Joinder Supplement by any Secured Swap Counterparty, Borrower and Administrative Agent shall execute amendments, if necessary, in form and substance satisfactory to Administrative Agent, to the Security Instruments then in effect to evidence and provide that the Liens granted to or for the benefit of Administrative Agent under such Security Instruments also secure the Swap Obligations owing to such Secured Swap Counterparty. 
+
+ (b) Each Creditor agrees that it will not seek or accept credit support for any Obligation other than its Ratable share of the Rights under the Security Instruments. Notwithstanding the preceding sentence, to the extent that any Creditor hereafter obtains any Lien on assets of any Credit Party or any of its Affiliates to secure all or any portion of the Obligations, such Lien (i) shall be subject to this Agreement in the same way as the Liens held by Administrative Agent, (ii) shall secure the Total Obligations on a pari passu basis, and upon request by Administrative Agent or the Lead Lenders such Liens shall be assigned to Administrative Agent to be held for the pari passu benefit of the Creditors on a First Lien basis.
+
+ (c) The parties hereto acknowledge and agree that the Initial ISDA is secured on a pari passu First Lien basis with the Credit Obligations and the Liens securing the Swap Obligations are Permitted Liens. Notwithstanding the foregoing or any other term in this Agreement to the contrary (including Section 2(d)), each Secured Swap Counterparty shall be entitled to rely exclusively on a certificate executed and delivered by the Borrower with a copy provided to Administrative Agent and Notice Lender (and confirmed in writing by Administrative Agent) representing that any Swap Agreement entered into after the date hereof is permitted pursuant to the terms of the Credit Agreement, and in reliance thereon all obligations arising under such Swap Agreement shall be secured pari passu on a First Lien basis with other Credit Obligations and Swap Obligations, and (following satisfaction with the terms of Section 15) such Secured Swap Counterparty shall be entitled to all of the rights and benefits of this Agreement.
+
+ (d) Subject to the limitations and approval rights on “Swap Agreements” and “Eligible Secured Swap Counterparties” provided in the Credit Agreement (and in the case of any Secured Swap Counterparty other than Initial Secured Swap Counterparty, subject to Section 15), but without in any way limiting the terms of Section 2(c), Administrative Agent (at the direction of the Lead Lenders) consents to Credit Parties entering into the Swap Documents and agrees that each of the Swap Documents is a “Swap Agreement” and that each Secured Swap Counterparty is an “Eligible Secured Swap Counterparty.”
+
+ (e) Each Secured Swap Counterparty hereby acknowledges and consents to Credit Parties’ grants of security interests to Administrative Agent in all rights of Credit
+
+ 8 
+
+ Parties under the Swap Documents and the enforcement of such Liens by Administrative Agent in accordance with the terms hereof, including all payments owing to Credit Parties thereunder, notwithstanding any restrictions on assignment in any Swap Document. 
+
+ (f) The amounts payable by Credit Parties or any of their Subsidiaries to any Creditor at any time under any of the Principal Agreements to which such Creditor is a party shall be separate and independent debts, and each Creditor shall be entitled to enforce any right arising out of the applicable Principal Agreement to which it is a party, subject to the terms thereof and of this Agreement. Each Creditor hereby agrees that, notwithstanding anything to the contrary that may be set forth in any Security Instrument, no Creditor, other than Administrative Agent as the holder of the Liens under the Security Instruments, shall have any right individually to realize upon any Liens granted under the Security Instruments or take action against the Collateral, it being understood and agreed that such remedies may be exercised only by Administrative Agent under the Security Instruments for the Ratable benefit of the Creditors.
+
+ (g) Administrative Agent shall have the right from time to time to release Collateral from the Liens created by the Security Instruments in accordance with the Financing Documents; provided, that the Administrative Agent’s release of all or substantially all of the Collateral shall require the consent of the Initial Secured Swap Counterparty so long as the Initial Secured Swap Counterparty is an Eligible Secured Swap Counterparty and does not otherwise terminate its arrangements with Borrower as a result of or in connection with such release; provided, further, that proceeds of a sale of Collateral occurring while no Triggering Event has occurred (or would result therefrom) shall be applied as required by the Financing Documents.
+
+ (h) Each Creditor agrees that it will not (and hereby waives any right to) object to or contest or support any other Person in objecting to or contesting, in any proceeding (including any Insolvency or Liquidation Proceeding), the perfection, priority, validity or enforceability of a Lien held by Administrative Agent on behalf of any of the Creditors in all or any part of the Collateral, or the provisions of this Agreement; provided, that nothing in this Agreement shall be construed to prevent or impair the rights of Administrative Agent or any Creditor to enforce this Agreement.
+
+ (i) Each Lender Party and Secured Swap Counterparty agrees that (i) it will not (and hereby waives any right to) challenge or question in any proceeding the validity or enforceability of any of the Total Obligations or any Security Instrument or the validity, attachment, perfection or priority of any Lien under any Security Instrument or the validity or enforceability of the priorities, rights or duties established by or other provisions of this Agreement, (ii) it will not take or cause to be taken any action the purpose or intent of which is, or could be, to interfere, hinder or delay, in any manner, whether by judicial proceedings or otherwise, any sale, transfer or other disposition of the Collateral by Administrative Agent in accordance with the terms of this Agreement, (iii) it will not institute any suit or assert in any suit, bankruptcy, insolvency or other proceeding any claim against Administrative Agent or any other Creditor seeking damages from or other relief by way of specific performance, instructions or otherwise
+
+ 9 
+
+ with respect to any Collateral, and none of Administrative Agent or any other Creditor shall be liable for any action taken or omitted to be taken by Administrative Agent or Creditor, with respect to any Collateral in accordance with the provisions of this Agreement, (iv) it will not seek, and hereby waives any right, to have any Collateral or any part thereof marshaled upon any foreclosure or other disposition of such Collateral and (v) it will not attempt, directly or indirectly, whether by judicial proceedings or otherwise, to challenge the enforceability of any provision of this Agreement; provided, that nothing in this Agreement shall be construed to prevent or impair the rights of any of Administrative Agent or any other Creditor to enforce this Agreement. 
+
+ (j) Each Lender Party and Secured Swap Counterparty hereby agrees that if it shall obtain possession of any Collateral or shall realize any proceeds or payment in respect of any such Collateral, pursuant to any Security Instruments or by the exercise of any rights available to it under applicable law or in any Insolvency or Liquidation Proceeding or through any other exercise of remedies at any time prior to the satisfaction of the Total Obligations, then it shall hold such Collateral, proceeds or payment in trust for the other Creditors and promptly transfer such Collateral, proceeds or payment, as the case may be, to Administrative Agent, to be distributed by Administrative Agent in accordance with the provisions of Section 6(b) hereof.
+
+ Section 3. Certain Notices; Consent to Disclosure .
+
+ (a) Each Creditor agrees that it shall endeavor to deliver to Administrative Agent (i) at the same time or promptly after it makes delivery to Credit Parties, a copy of any Notice of Default that it delivers to any Credit Party, and (ii) to deliver to Administrative Agent, at the same time or promptly after it makes delivery to any other Person, a copy of any notice of the commencement of any judicial proceeding and a copy of any other notice with respect to the exercise of Rights with respect to any of the Credit Obligations or the Swap Obligations, as applicable. Administrative Agent shall promptly furnish any notice it receives under this Section to the other Creditors. No failure by a party hereto to furnish a copy under this clause shall provide any rights or defenses to any Credit Party with respect to any of the Total Obligations or otherwise limit or affect the rights and obligations of the Creditors under the Financing Documents or the Swap Documents.
+
+ (b) Credit Parties hereby agree to provide written notice to Secured Swap Counterparties of any amendment to the Credit Agreement, including with such notice a copy of the amendment. Secured Swap Counterparties hereby agree to provide written notice to Administrative Agent and each Lead Lender of any amendment to any Approved ISDA, including with such notice a copy of the amendment (provided that this clause is not meant to permit Credit Parties to enter into any such amendments in contravention of the Credit Agreement). Credit Parties hereby agree to provide written notice to Secured Swap Counterparties not less than seven days prior to the earliest to occur of (i) the date of signing or closing of any replacement financing or any Refinancing of the Credit Agreement or (ii) the date of any payment in full and retirement of the Credit Agreement, including with such notice a copy of the proposed replacement financing, terms of Refinancing or retirement of the Credit Agreement, as applicable.
+
+ 10 
+
+ (c) Credit Parties hereby agree that each Secured Swap Counterparty may provide to Administrative Agent, and each Secured Swap Counterparty hereby agrees to provide to Administrative Agent, within a reasonable time following receipt of a written request therefor from Administrative Agent following a Triggering Event, (i) a report of the mark-to-market values of each transaction in effect at the time of such report under such Secured Swap Counterparty’s Swap Documents, and (ii) copies of any trade confirmations included in such Swap Documents.
+
+ (d) Credit Parties hereby consent to Creditors’ disclosure to each other of any confidential information relating to Credit Parties that has been provided to any Creditor by or for the benefit of Credit Parties, notwithstanding any confidentiality agreement between Credit Parties and any Creditor that might otherwise limit or prohibit such disclosure.
+
+ Section 4. Appointment of Administrative Agent . Each Secured Swap Counterparty and each Lender Party hereby appoint Administrative Agent to act as its respective agent and to hold the Liens on the Collateral for its behalf, in Administrative Agent’s name for the benefit and security of Secured Swap Counterparties and Lender Parties and for enforcement and payment of the Total Obligations, to take such action on behalf of Secured Swap Counterparties and Lender Parties under the terms and provisions of the Security Instruments, and to exercise such rights and remedies under the Security Instruments as are specifically delegated to or required of Administrative Agent, together with such powers and discretion as are reasonably incidental thereto, in each case pursuant to the terms and provisions of this Agreement, including distribution of Proceeds from Enforcement in accordance with Section 6 below. Administrative Agent may perform any and all of its duties and exercise its rights and powers hereunder or under any other Security Instrument by or through any one or more sub-agents appointed by Administrative Agent. Administrative Agent and any such sub-agent may perform any and all of its duties and exercise its rights and powers by or through their respective Affiliates. The exculpatory provisions of this Agreement shall apply to any such sub-agent and to such Affiliates of Administrative Agent and any such sub-agent.
+
+ Section 5. Administrative Agent’s Authority; Enforcement of Liens .
+
+ (a) Upon the occurrence and during the continuance of any Triggering Event, Administrative Agent shall, upon the request of any of the Accelerated Creditors, but subject to the provisions of this Agreement, take any and all actions provided for in the Security Instruments relating to the pursuit of Rights thereunder, including, but not limited to, the foreclosure of Liens or other disposition of the Collateral; provided, that no Secured Swap Counterparty shall have the right to request or require Administrative Agent to take any actions provided for in the Security Instruments relating to the pursuit of Rights thereunder or to realize on any Liens granted pursuant to the Security Instruments.
+
+ (b) For so long as such Triggering Event is continuing, any payments received by Lender Parties under the Financing Documents and any payments received by Secured Swap Counterparties under Approved ISDAs will be held for the Ratable benefit of the Creditors until such time that such Triggering Event is no longer continuing or that
+
+ 11 
+
+ Administrative Agent is exercising remedies under the Security Instruments (including the foreclosure of Liens) and distributing the Proceeds from Enforcement Ratably to the Creditors under Section 6(b) of this Agreement (“ Blocking Period ”). 
+
+ (c) If a Triggering Event of the type referred to in clause (b) of the definition of Triggering Event shall have occurred and is continuing, at the request of Administrative Agent, each Secured Swap Counterparty shall make payments of any amounts due and owing from it to Credit Parties under such Swap Documents to Administrative Agent to be disbursed as provided in Section 6(b) of this Agreement.
+
+ (d) Administrative Agent shall not be obligated to follow any instructions of any Accelerated Creditor if Administrative Agent determines, in its sole and absolute discretion, that: (i) such instructions conflict with the provisions of this Agreement, any Principal Agreement, any Security Instrument or any Governmental Requirement, (ii) such instructions are ambiguous, inconsistent, in conflict with other instructions (whether from the same or another Accelerated Creditor) or otherwise insufficient to direct the actions of Administrative Agent, provided that Administrative Agent explains the grounds for a refusal, or (iii) Administrative Agent has not been adequately indemnified to its satisfaction (including indemnity from the Accelerated Creditors in accordance with the Ratable amounts of Total Obligations owing to them). Administrative Agent shall have the right, in its discretion, to take any action authorized under this Agreement or the Security Instruments, to the extent that such action is not prohibited by the terms hereof or thereof, which it deems proper and consistent with the instructions given by any Accelerated Creditor as provided for herein or otherwise in the best interest of Creditors. In the absence of written instructions from any Accelerated Creditor for any particular matter, Administrative Agent shall have no duty to take or refrain from taking any action unless such action or inaction is explicitly required by the terms of this Agreement or any Governmental Requirement. Administrative Agent shall have no duty with respect to a Triggering Event unless it has received written notice from an Accelerated Creditor that a Triggering Event has occurred.
+
+ (e) Other than its duties expressly provided herein or in the Security Instruments, Administrative Agent shall have no implied duties to Creditors or Credit Parties under or in connection with this Agreement and no implied duties as to any Property belonging to any Credit Parties (whether or not the same constitutes Collateral), whether such Property is in Administrative Agent’s possession or control or in the possession or control of any of its agents or nominees, or any income thereon or as to the preservation of Rights against prior parties or any other rights pertaining thereto or available at law or otherwise. Administrative Agent shall have the same Rights hereunder as any other Creditor and may exercise the same as though it were not performing the duties specified herein. The Person serving as Administrative Agent may engage in any kind of other business with Credit Parties or any of Credit Parties’ Affiliates as if it were not performing the duties specified herein, and may accept fees and other consideration from Credit Parties and such other Persons in connection with this Agreement or any Principal Document, and otherwise, without having to account for the same to the other Creditors except as specified herein.
+
+ 12 
+
+ (f) Each Creditor and each Credit Party will, from time to time sign, execute, deliver and file, alone or with Administrative Agent or any other Creditor or Credit Party, and hereby authorizes Administrative Agent to (i) file, any financing statements, Guarantee and Collateral Agreements, documents, certificates or instruments pertaining to the Collateral, or any part thereof, (ii) procure any agreements, documents, certificates or instruments as may be reasonably requested by Administrative Agent and the Lead Lenders and (iii) and take all further action that may be necessary or desirable, or that Administrative Agent and the Lead Lenders may request, to confirm, perfect, preserve and protect the Liens intended to be granted under the Security Instruments, and in addition, each Creditor and Credit Party hereby authorizes Administrative Agent to execute and deliver on behalf of such Person and to file such other financing statements, Financing Documents, Mortgages, and other agreements, documents, certificates or instruments without the signature of such Person either in Administrative Agent’s name or in the name of such Person and as agent and attorney-in-fact for such Person. Each Creditor and Credit Party shall do all such additional and further acts or things, give such assurances and execute such agreements, documents, certificates or instruments as Administrative Agent requires to vest more completely in and assure to Administrative Agent and Creditors their Rights under this Agreement.
+
+ Section 6. Proceeds from Enforcement .
+
+ (a) The Creditors hereby agree among themselves that (i) prior to the occurrence of a Triggering Event (and thereafter so long as such Triggering Event has been cured), each Creditor shall be entitled to receive and retain for its own account, and shall not be required to disgorge to Administrative Agent or any other Creditor or acquire direct or participating interests in the Credit Obligations or the Swap Obligations owing to such Creditor, all payments or prepayments of the Total Obligations, whether scheduled, mandatory or voluntary and including Ordinary Course Settlement Payments, and payments for the redemption, purchase or settlement thereof, and (ii) after the occurrence and during the continuance of a Triggering Event (and during the Blocking Period), all such payments shall be treated as if constituting Proceeds from Enforcement and shall be shared by the Creditors Ratably and in accordance with Section 6(b) below.
+
+ (b) Regardless of any Insolvency or Liquidation Proceeding that has been commenced by or against Borrower or any other Credit Party, Proceeds of Enforcement and other payments from Credit Parties received by any Secured Swap Counterparty, any Lender Party or Administrative Agent after the occurrence of any Triggering Event or received in connection with the sale or other disposition of, or collection on, Collateral upon the exercise of remedies under the Security Instruments by Administrative Agent, or enforcement of any Lien or judgment against any Collateral or proceeds thereof, shall be distributed and applied in the following order (it being agreed that Administrative Agent shall apply such amounts in the following order as promptly as is reasonably practicable after the receipt thereof), and each Creditor and Credit Party hereby authorizes such distribution and application:
+
+ 13 
+
+ (i) First , to reimburse Administrative Agent for expenses in accordance with Section 7 or for any other expenditures for which Administrative Agent is entitled to indemnity under Section 8;
+
+ (ii) Second , Ratably to Lender Parties and Secured Swap Counterparties, to pay or prepay all Total Obligations then owing;
+
+ (iii) Third , to the extent that any Proceeds from Enforcement remain after the full and indefeasible payment of all of the amounts described in the preceding paragraphs, to Credit Parties.
+
+ If any Secured Swap Counterparty or any Lender Party receives any Proceeds from Enforcement, it shall promptly deliver the same to Administrative Agent for distribution by Administrative Agent in accordance with this Section 6(b). 
+
+ (c) Upon receipt of any Proceeds from Enforcement to be distributed pursuant to the preceding subsection (b), Administrative Agent shall give Creditors notice thereof, and each Creditor (or its representative) shall within five (5) Business Days thereafter notify Administrative Agent of the amount of Total Obligations owing to it. Such notification shall state the amount of its (or their) Total Obligations and how much is then due and owing. If requested by Administrative Agent or the Lead Lenders, each Creditor (or its representative) shall demonstrate that the amounts set forth in its notice are actually owing to such Creditor to the reasonable satisfaction of Administrative Agent and the Lead Lenders. Notwithstanding the foregoing, Administrative Agent may conclusively rely on information in such notices without investigation.
+
+ (d) Nothing in this Agreement shall impair the right of any Creditor to exercise its rights of set-off, offset or netting, if any (except, with respect to any item of Collateral or the Proceeds of Enforcement), with no obligation to any other Creditor.
+
+ Section 7. Expenses . Each Creditor other than Administrative Agent shall bear (and promptly reimburse Administrative Agent for) its respective Ratable share of any reasonable expenses (including reasonable fees and charges of counsel, accountants, experts and advisors) incurred by Administrative Agent in taking action on behalf of Lender Parties and Secured Swap Counterparties in connection with its investigation, evaluation or enforcement of any Rights under the Security Instruments or the performance of its duties under this Agreement, but only to the extent Administrative Agent does not receive reimbursement for such expenses from Credit Parties or from Proceeds from Enforcement within 30 days after such expenses are invoiced; provided, that, to the extent any Creditor reimburses Administrative Agent for such expenses, such Creditor will be entitled to receive its Ratable share of any reimbursement subsequently received by Administrative Agent from Credit Parties or from Proceeds from Enforcement. The expense and indemnity provisions of Sections 9.1 and 9.2 of the Credit Agreement shall be incorporated herein as is specifically set forth herein, mutatis mutandis .
+
+ Section 8. Limitation of Liability — Administrative Agent .
+
+ (a) Independently and without reliance upon Administrative Agent or any other Creditor, each Creditor represents to Administrative Agent and each of the other
+
+ 14 
+
+ Creditors that such Creditor has made (i) its own independent investigation of the financial condition and affairs of each Credit Party based on such documents and information as it has deemed appropriate in connection with the taking or not taking of any action in connection herewith, and (ii) its own appraisal of the creditworthiness of each Credit Party. Each Creditor also acknowledges that it will, independently and without reliance upon Administrative Agent or any other Creditor and based on such documents and information as it shall deem appropriate at the time, continue to make its own credit decisions in taking or not taking action with respect to this Agreement, the Principal Documents, and the Security Instruments. Except as expressly provided in this Agreement, Administrative Agent shall have no duty or responsibility, either initially or on a continuing basis, to provide any Creditor with any credit or other information concerning the affairs, financial condition or business of any Credit Party and its Subsidiaries which may come into the possession of Administrative Agent or any of its Affiliates (whether now in its possession or in its possession at any time or times hereafter), and Administrative Agent shall not be required to keep itself informed as to the performance or observance by any Credit Party of this Agreement, the Security Instruments or any other document referred to or provided for herein or to inspect the properties or books of any Credit Party. 
+
+ (b) Administrative Agent (i) shall not be responsible to any Creditor for any recitals, statements, information, representations or warranties of any other Person herein, in the Security Instruments, or in any document, certificate or other writing delivered in connection herewith or therewith or for the execution, effectiveness, genuineness, validity, enforceability, collectability, priority or sufficiency of this Agreement, the Principal Agreements or the Security Instruments or the financial condition of any Credit Party, and (ii) shall not be required to make any inquiry concerning the performance or observance by others of any of the terms, provisions or conditions of this Agreement, the Principal Agreements, or the Security Instruments, including the content of notices, opinions, certificates and directions given under this Agreement, the Principal Documents or the Security Instruments, the financial condition of any Credit Party or its Subsidiaries, or the existence or possible existence of any “Default,” “Event of Default” or “Termination Event” under any of the Principal Agreements. Notwithstanding anything else provided herein or in the Security Instruments, Administrative Agent shall have no obligation or liability to any Person, (i) unless caused primarily by Administrative Agent’s gross negligence or willful misconduct (as determined by a final non-appealable judgment of a court of competent jurisdiction), with respect to the perfection, recording, re-recording, filing, refilling, monitoring, or maintenance in effect of any Security Instruments or other instruments, documents, mortgages, deeds of trust, financing statements or continuation statements, (ii) with respect to the effectiveness or enforceability, genuineness, validity or the due execution of the Security Instruments or for any representation, warranty, document, certificate, report or statement made in or in connection with the Security Instruments, or (iii) to ascertain or inquire as to the performance or observation of any of the terms, covenants or conditions of any of the Financing Documents or the Swap Documents.
+
+ (c) Neither Administrative Agent nor any of its representatives shall be liable to any of the Credit Parties or their respective Subsidiaries or any Creditor (or any Person
+
+ 15 
+
+ asserting any claim with respect to any of them) for any action taken or omitted to be taken by it or them hereunder or under the Security Instruments in good faith and reasonably believed by it or them to be within the discretion or power conferred upon it or them by this Agreement and the Security Instruments or be responsible for the consequences of any error of judgment, except to the extent arising primarily from its gross negligence or willful misconduct (as determined by a final non-appealable judgment of a court of competent jurisdiction). Administrative Agent shall be entitled to rely, and shall be fully protected in relying, upon any writing, resolution, notice, statement, certificate, electronic transmission, facsimile transmission, telephone message or other writing or message believed by it to be genuine and correct and to have been signed, sent or made by the proper Person. Administrative Agent may consult with independent legal counsel, independent public accountants and other experts selected by it and shall not be liable for any action taken or omitted to be taken by it in accordance with the advice of such counsel, accountants or experts. 
+
+ Section 9. Limitation of Liability — Administrative Agent and Creditors . Neither Administrative Agent nor any Creditor (nor any Affiliate of Administrative Agent or any other Creditor) shall owe any liability to the other Creditors under or in connection with this Agreement, any Principal Agreement or the Security Instruments except as expressly required under this Agreement. This Agreement is intended to benefit only Administrative Agent, the Indemnitees, and the Creditors, and neither any Credit Party nor any other Person shall have any rights hereunder or be entitled to claim any damages or defenses on account hereof from or against Administrative Agent or any Creditor (or any Affiliate of Administrative Agent or any Creditor).
+
+ Section 10. Term . Subject to reinstatement pursuant to Section 23 below, this Agreement shall terminate upon the full and indefeasible payment in cash of the Total Obligations.
+
+ Section 11. Removal and Resignation of Administrative Agent .
+
+ (a) Administrative Agent shall not be subject to removal by Creditors or Credit Parties, provided that if the Person serving as Administrative Agent is replaced as Administrative Agent under the Credit Agreement, the Person serving as replacement Administrative Agent under the Credit Agreement shall automatically and without further action or consent by Credit Parties or any Secured Swap Counterparty become Administrative Agent under this Agreement. The Person serving as Administrative Agent may also resign as Administrative Agent hereunder by providing to each Lender Party, Secured Swap Counterparty and Credit Parties written notice of such resignation no less than 30 days prior to the effective date of such resignation set forth in such written notice.
+
+ (b) Upon such resignation, Administrative Agent agrees to execute and deliver assignments of the Security Instruments, in form and substance mutually satisfactory to Administrative Agent, the Lead Lenders and each Secured Swap Counterparty, to a successor Administrative Agent designated by Creditors then holding a majority of the Total Obligations. Such assignments shall be prepared at the expense of
+
+ 16 
+
+ Credit Parties, and each Credit Party hereby consents to such assignments. Following any such resignation by a Person serving as Administrative Agent and execution and delivery of such assignments, such Person shall have no further duties, responsibilities or liabilities as Administrative Agent under this Agreement but shall remain entitled to the benefit of the indemnifications provided in this Agreement and to reimbursement, in accordance with applicable provisions of this Agreement, of expenses incurred in the discharge of its duties as Administrative Agent as provided in this Agreement. 
+
+ Section 12. Survival of Rights . All of the respective rights and interests of Administrative Agent, Lender Parties and each Secured Swap Counterparty under this Agreement (and the respective obligations and agreements of Administrative Agent, each Lender Party and each Secured Swap Counterparty under this Agreement), shall remain in full force and effect regardless of:
+
+ (a) any lack of validity or enforceability of any of the Principal Agreements or any other agreement or instrument related thereto; or
+
+ (b) any other circumstance that might otherwise constitute a defense available to, or discharge of, Credit Parties with respect to the Credit Obligations or the Swap Obligations (other than the defense that such obligations have been fully satisfied in cash).
+
+ Section 13. Representations and Warranties . Each of Administrative Agent, Administrative Agent on behalf of the Lender Parties and each Secured Swap Counterparty represents and warrants to the others that:
+
+ (a) neither the execution and delivery of this Agreement nor its performance of or compliance with the terms and provisions hereof will conflict with, or result in a breach of the terms, conditions or provisions of, or constitute a default under, any other agreement to which it is now subject;
+
+ (b) it has all requisite authority to execute, deliver and perform its obligations under this Agreement; and
+
+ (c) this Agreement constitutes its legal, valid, and binding obligation, enforceable against it in accordance with its terms, subject only to applicable bankruptcy, insolvency or similar laws and general principles of equity.
+
+ Section 14. Further Assurances . Each Credit Party, Administrative Agent, Administrative Agent on behalf of Lender Parties and Secured Swap Counterparty covenants that, as long as this Agreement remains in effect, it will execute and deliver any and all other documents or instruments reasonably requested by the other to give effect to the terms and conditions of this Agreement.
+
+ Section 15. Additional Secured Swap Counterparties . If any Person that is recognized by Administrative Agent as an “Eligible Secured Swap Counterparty” under the Credit Agreement desires to become a “Secured Swap Counterparty” for the purposes of this Agreement and the Security Instruments, then it shall execute and deliver to Administrative
+
+ 17 
+
+ Agent and Borrower a Joinder Supplement. In each case, upon execution and delivery of such Joinder Supplement by such Person, Administrative Agent and Borrower, such Person shall be deemed a Secured Swap Counterparty hereunder as if an original signatory. Joinder Supplements executed pursuant to this Section 15 do not require the signatures or consents of all Creditors party to this Agreement. Promptly after execution of any such Joinder Supplement, the parties thereto will endeavor to send a copy thereof to each other Secured Swap Counterparty, but failure or delay in doing so will not make such Joinder Supplement void or voidable or otherwise affect the rights and duties of the parties hereto. 
+
+ Section 16. Assignment; Agreement Binding on Successors and Assigns . As long as this Agreement remains in effect, Administrative Agent, Lender Parties and Secured Swap Counterparties will not sell, assign or otherwise transfer all or any part of the Credit Obligations or the Swap Obligations, as the case may be, unless such sale, assignment or transfer is made expressly subject to the terms and conditions of this Agreement and, in the case of an assignment or novation of Swap Obligations or assignment of Administrative Agent’s or Administrative Agent’s Rights, the assignee or new party has executed a Joinder Agreement in compliance herewith. In connection with any Refinancing of the Credit Agreement where the administrative agent is no longer Administrative Agent named herein (or an Affiliate thereof) then the new administrative agent shall execute and deliver to Administrative Agent a Joinder Supplement in connection therewith. This Agreement shall inure to the benefit of, and shall be binding upon and enforceable against, Credit Parties, Administrative Agent, each Lender Party and each Secured Swap Counterparty and their respective successors and permitted assigns.
+
+ Section 17. Notice . Unless otherwise provided, any consent, request, notice, or other communication under or in connection with this Agreement must be in writing to be effective and shall be deemed to have been given (a) if by mail, on the third Business Day after it is enclosed in an envelope and properly addressed, stamped, sealed, certified return receipt requested, and deposited in the appropriate official postal service, or (b) if by courier, electronic transmissions, or facsimile transmission, when actually delivered. Any Lender who qualifies as a Notice Lender hereunder may cause Administrative Agent to provide to the parties hereto an address for notice for such Notice Lender and on the providing such address the obligation to provide notice hereunder shall commence until changed by a subsequent notice delivered in accordance with this Section 16, notices for each party are to be directed to:
+
+ For delivery to Initial Secured Swap Counterparty: 
+
+ Cargill, Incorporated
+ 840 West Sam Houston Parkway North, Suite 300
+ Houston, TX 77024
+ Attn: Tyler Smith
+ Tel: (713) 932-2344
+ Email: Tyler_Smith_1@cargill.com 
+
+ 18 
+
+ For delivery to Credit Parties, to the care of Borrower as follows: 
+
+ Warren Resources, Inc.
+ 1114 Avenue of the Americas, 34th Floor
+ New York, NY 10036
+ Attn: Saema Somalya
+ Tel: (212) 697-9660
+ Fax: (212) 697-9466
+ Email: ssomalya@warrenresources.com 
+
+ For delivery to Administrative Agent: 
+
+ Wilmington Trust, National Association
+ 50 South Sixth Street, Suite 1290
+ Minneapolis, MN 55402
+ Attn: Meghan McCauley
+ Tel: (612) 217-5647
+ Fax: (612) 217-5651
+ Email: MMcCauley@WilmingtonTrust.com 
+
+ with a copy to: 
+
+ Lindquist & Vennum LLP
+ 4200 IDS Center
+ 80 South Eight Street
+ Minneapolis, MN 55402
+ Attn: Mark C. Dietzen
+ Tel: (612) 371-2452
+ Fax: (612) 371-3207
+ Email: MDietzen@Lindquist.com 
+
+ Section 18. Amendments . This Agreement may only be waived, amended, modified, or terminated by a written agreement signed by the party against whom enforcement of any such waiver, amendment, modification or termination is sought. However, notwithstanding anything to the contrary in this Agreement or in any of the Principal Agreements, without the written consent of an affected Secured Swap Counterparty, (A) no amendment, modification, termination or consent in respect of this Agreement or the Principal Agreements (or any term used therein) shall be effective if the effect thereof would change the order of application of proceeds of Collateral and other payments set forth in Section 6 as between Secured Swap Counterparties, and (B) no such amendment, modification, termination or consent shall cause the Obligations owed under any Swap Document to cease to be secured on a First Lien, pari passu basis with all other Obligations with respect to Collateral.
+
+ Section 19. Governing Law . This Agreement shall be governed by and construed in accordance the laws of the State of New York.
+
+ 19 
+
+ Section 20. Invalid Provisions . If any part of this Agreement is for any reason found to be unenforceable, all other portions nevertheless remain enforceable. However, if the provision held to be unenforceable is a material part of the Agreement, such unenforceable provision may, to the extent permitted by law, be replaced by a clause or provision judicially construed and interpreted to be as similar in substance and content to the original terms of such provision as the context would reasonably allow, so that such clause or provision would thereafter be enforceable.
+
+ Section 21. Multiple Counterparts . This Agreement may be executed in any number of counterparts with the same effect as if all signatories had signed the same document and will be effective upon the execution of one or more counterparts hereof by each of the parties hereto. In this regard, each of the parties hereto acknowledges that (a) signature pages hereof may be executed and then transmitted by any party hereto by electronic or facsimile transmission, which transmission shall be deemed the equivalent of manual delivery by such party of a complete executed counterpart hereof and (b) a counterpart of this Agreement containing a set of counterpart signature pages reflecting the execution of each party hereto shall be sufficient to reflect the execution of this Agreement by each party hereto. All counterparts will, taken together, constitute one and the same instrument.
+
+ Section 22. JURY WAIVER . EACH OF ADMINISTRATIVE AGENT, ON BEHALF OF LENDERS, SECURED SWAP COUNTERPARTIES AND CREDIT PARTIES HEREBY VOLUNTARILY, KNOWINGLY, IRREVOCABLY AND UNCONDITIONALLY WAIVES ANY RIGHT TO HAVE A JURY PARTICIPATE IN RESOLVING ANY DISPUTE (WHETHER BASED UPON CONTRACT, TORT OR OTHERWISE) AMONG ADMINISTRATIVE AGENT, LENDER PARTIES, SECURED SWAP COUNTERPARTIES AND CREDIT PARTIES (OR ANY OF THEM) ARISING OUT OF OR IN ANY WAY RELATED TO THIS AGREEMENT.
+
+ Section 23. Reinstatement . If at any time any payment of any of the Total Obligations is rescinded or must be restored or returned upon the insolvency, bankruptcy or reorganization of any Credit Party or otherwise, the obligations of Credit Parties, Administrative Agent, each Lender Party and each Secured Swap Counterparty under this Agreement, with respect to that payment, shall be reinstated as though the payment had been due but not made at that time.
+
+ Section 24. Controlling Agreement . To the extent the terms of this Agreement directly conflict with a provision in the Financing Documents or the Swap Documents, the terms of this Agreement shall control. This Agreement shall continue in full force and effect notwithstanding the commencement of any proceeding under the Debtor Relief Law or any other Federal, state or foreign bankruptcy, insolvency, receivership or similar law by or against any Credit Party or any of its Subsidiaries.
+
+ Section 25. Integration . This Agreement, together with all documents and instruments referenced herein, represents the final agreement among Administrative Agent, Lender Parties, Secured Swap Counterparties and Credit Parties with respect to the subject matter hereof and may not be contradicted by evidence of prior, contemporaneous, or subsequent oral agreements by the parties. There are no unwritten oral agreements among the parties.
+
+ 20 
+
+ INITIAL SECURED SWAP COUNTERPARTY: 
+
+ Cargill, Incorporated, acting through its 
+
+ Cargill Risk Management Business Unit 
+
+ By: 
+
+ /s/ Tyler R. Smith 
+
+ Name: 
+
+ Tyler R. Smith 
+
+ Title: 
+
+ Authorized Signer 
+
+ (Signatures continue on following pages) 
+
+ Signature Page to
+ Swap Intercreditor Agreement 
+
+ CREDIT PARTIES : 
+
+ Warren Resources, Inc. 
+
+ By: 
+
+ /s/ Stewart P. Skelly 
+
+ Name: 
+
+ Stewart P. Skelly 
+
+ Title: 
+
+ Vice President and Chief Financial 
+
+ Officer 
+
+ Warren Resources of California, Inc. 
+
+ Warren E&P, Inc. 
+
+ Warren Marcellus LLC 
+
+ By: 
+
+ /s/ Stewart P. Skelly 
+
+ Name: 
+
+ Stewart P. Skelly 
+
+ Title: 
+
+ Vice President and Treasurer 
+
+ (Signatures continue on following pages) 
+
+ Signature Page to
+ Swap Intercreditor Agreement 
+
+ ADMINISTRATIVE AGENT : 
+
+ Wilmington Trust, National Association 
+
+ By: 
+
+ /s/ Meghan H. McCauley 
+
+ Name: 
+
+ Meghan H. McCauley 
+
+ Title: 
+
+ Assistant Vice President 
+
+ Signature Page to
+ Swap Intercreditor Agreement 
+
+ Schedule I 
+
+ Listing of Existing Security Instruments 
+
+ 1. Security Agreement, dated as of May 22, 2015, among Credit Parties and Administrative Agent.
+
+ 2. Pledge Agreement, dated as of May 22, 2015, among Credit Parties and Administrative Agent.
+
+ 3. Guaranty, dated as of May 22, 2015, among Guarantors and Administrative Agent.
+
+ 4. The Deed of Trust, Mortgage, Assignment, Security Agreement, Fixture Filing and Financing Statement, dated as of May 22, 2015, from the Company, Warren California and Warren E&P to Chad Nichols, as trustee for the benefit of the Administrative Agent.
+
+ 5. The Deed of Trust, Mortgage, Assignment, Security Agreement, Fixture Filing and Financing Statement, dated as of May 22, 2015, from the Company and Warren E&P to Chad Nichols, as trustee for the benefit of the Administrative Agent
+
+ 6. The Open-End Mortgage, Assignment, Security Agreement, Fixture Filing and Financing Statement, dated as of May 22, 2015, from Warren Marcellus for the benefit of the Administrative Agent.
+
+ Schedule I - 1 
+
+ Exhibit A 
+
+ JOINDER SUPPLEMENT 
+
+ This Joinder Supplement (this “ Supplement” ), dated as of , is executed by (“ New Secured Swap Counterparty ”), [NAME OF CREDIT PARTIES] (“ Credit Parties” ), and WILMINGTON TRUST, NATIONAL ASSOCIATION, as Administrative Agent (“ Administrative Agent” ).
+
+ All capitalized terms used herein but not defined herein shall have the meanings set forth in the Agreement (as defined below). 
+
+ W I T N E S S E T H: 
+
+ WHEREAS, Credit Parties, Administrative Agent and Cargill, Incorporated, acting through its Cargill Risk Management Business Unit, have heretofore executed and delivered to Administrative Agent that certain Swap Intercreditor Agreement dated as of May 22, 2015 (as from time to time amended, modified, supplemented or restated, the “ Agreement” ), providing for, among other matters, the relative rights and obligations and apportionment of certain collections among Creditors (as defined therein), and the exercise of certain remedies under the Security Instruments (as defined therein); 
+
+ WHEREAS, the Agreement provides that one or more additional Persons may become Secured Swap Counterparties thereunder if each such Person is recognized by Administrative Agent as an “Eligible Secured Swap Counterparty” under the Credit Agreement and desires to become a Secured Swap Counterparty for the purposes of the Agreement and the Security Instruments and executes and delivers a Joinder Supplement as provided in the Agreement; 
+
+ WHEREAS, New Secured Swap Counterparty desires to become a Secured Swap Counterparty under the Agreement; 
+
+ NOW THEREFORE, in consideration of the foregoing and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, New Secured Swap Counterparty, Administrative Agent and Credit Parties hereby agree as follows: 
+
+ 1. Recognition; Approved ISDA. Administrative Agent hereby recognizes New Secured Swap Counterparty as an “Eligible Secured Swap Counterparty” under the Credit Agreement. Concurrently herewith, Administrative Agent is separately approving in writing the ISDA Master Agreement between Credit Parties and New Secured Swap Counterparty as an “Approved ISDA” under the Agreement.(1)
+
+ 2. Agreement to be Bound. New Secured Swap Counterparty hereby agrees to be bound by all of the terms and provisions of the Agreement as a Secured Swap Counterparty thereunder. New Secured Swap Counterparty acknowledges and agrees that the terms of the Agreement shall control over the terms of the Principal Agreements to which New Secured Swap
+
+ (1) BE SURE TO PREPARE SEPARATE APPROVAL LETTER.
+
+ Exhibit A - 1 
+
+ Counterparty is a party, to the extent any conflict exists between the Agreement and such Principal Agreements. 
+
+ 3. Ratification of Agreement; Joinder Supplement Part of Agreement. This Joinder Supplemental shall form a part of the Agreement for all purposes. Except as expressly supplemented hereby, the Agreement is in all respects ratified and confirmed and all the terms, conditions and provisions thereof shall remain in full force and effect.
+
+ 4. Administrative Agent Makes No Representation. Administrative Agent makes no representation as to the validity or sufficiency of the Security Instruments, and New Secured Swap Counterparty acknowledges, consents to, and accepts the disclaimers by, and limitations on the liability of, Administrative Agent that are provided in the Agreement.
+
+ 5. Representations and Warranties of New Secured Swap Counterparty. New Secured Swap Counterparty represents and warrants to the other Creditors that:
+
+ (a) neither the execution and delivery of this Supplement or the Agreement nor its performance of or compliance with the terms and provisions hereof or thereof will conflict with, or result in a breach of the terms, conditions or provisions of, or constitute a default under, any other agreement to which it is now subject; 
+
+ (b) it has all requisite authority to execute, deliver and perform its obligations under this Supplement and the Agreement; and 
+
+ (c) each of this Supplement and the Agreement constitutes its legal, valid, and binding obligation, enforceable against it in accordance with its terms, subject only to applicable bankruptcy, insolvency or similar laws and general principles of equity. 
+
+ 6. Counterparts. The parties may sign any number of copies of this Joinder Supplement, and different parties may sign on different signature pages. Each signed copy shall be an original, but all of them together shall represent the same supplemental agreement.
+
+ 7. Address for Notices. All notices and other communications given to New Secured Swap Counterparty under the Agreement may be given at its address or telecopier number as follows:
+
+ [New Secured Swap Counterparty]
+ [Address]
+ Attention:
+ Telecopier No.: 
+
+ [remainder of page left blank] 
+
+ Exhibit A - 2 
+
+ IN WITNESS WHEREOF, the parties hereto have caused this Joinder Supplement to be duly executed as of the date first above written. 
+
+ NEW SECURED SWAP COUNTERPARTY: 
+
+ [ ] 
+
+ By: 
+
+ Name: 
+
+ Title: 
+
+ CREDIT PARTIES: 
+
+ [NAME OF CREDIT PARTIES] 
+
+ By: 
+
+ Name: 
+
+ Title: 
+
+ ADMINISTRATIVE AGENT: 
+
+ [ ] 
+
+ By: 
+
+ Name: 
+
+ Title: 
+
+ Exhibit A - 3

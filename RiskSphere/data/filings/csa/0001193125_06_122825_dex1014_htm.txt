@@ -1,0 +1,417 @@
+EX-10.14
+ 19
+ dex1014.htm
+ CREDIT SUPPORT ANNEX TO THE ISDA MASTER AGREEMENT
+
+ Credit Support Annex to the ISDA Master Agreement 
+
+ Exhibit 10.14 
+ CREDIT SUPPORT ANNEX 
+ Elections and Variables 
+ between 
+ GOAL CAPITAL FUNDING TRUST
+2006-1 
+ (referred to herein as “Party B”) 
+ and 
+ BARCLAYS BANK PLC 
+ (referred to herein as “Party A”) 
+ dated as of May 25, 2006 
+ Paragraph 13. Elections And Variables 
+
+ (a) 
+ Security Interest For “Obligations” . The term “ Obligations ” as used in this Annex includes the following additional obligations with
+respect to Party A and Party B: None. 
+
+ (b) 
+ Credit Support Obligations . 
+
+ (i) 
+ Delivery Amount, Return Amount, Credit Support Amount, Exposure and Rating Agency Amount. 
+
+ (A) 
+ “ Delivery Amount ” has the meaning specified in Paragraph 3, except that the words “on or promptly following a Valuation Date” shall be substituted
+for the words “upon a demand made by the Secured Party on or promptly following a Valuation Date”. 
+
+ (B) 
+ “ Return Amount ” has the meaning specified in Paragraph 3. 
+
+ (C) 
+ “ Credit Support Amount ” has the meaning specified in Paragraph 3; provided that the words “plus the applicable Rating Agency Amount” shall be added
+after the words “the Secured Party’s Exposure in clause (i) thereof; and provided further that, consistent with Part 1(i) of the Schedule and notwithstanding any other provision of this Annex, calculation of the Credit Support Amount
+(or any portion thereof) shall not commence prior to the Valuation Date (if any) on which Part 1(i) of the Schedule requires the collateralization of Transactions to commence pursuant to this Annex. 
+
+ (D) 
+ “ Exposure ” has the meaning specified in Paragraph 12. 
+
+ (E) 
+ “ Rating Agency Amount ” means with respect to Party A, for any Valuation Date and for each Transaction in which Party A is the Currency Swap Counterparty, the
+highest of the following: 
+ (x) if an S&P Downgrade has occurred and is continuing, then an amount equal to the product of
+the applicable VB and the EURIBOR Floating Rate Payer Currency Amount for the relevant Transaction, where “VB” means the applicable Volatility Buffer (%) from Table 2 (Cross Currency Swaps) of the S&P publication entitled
+“Global Interest Rate and Currency Swaps: Calculating the Collateral Required Amount” dated February 26, 2004, as such publication may be modified or amended from time to time; (y) if a Moody’s Downgrade has occurred and is
+continuing, then an amount equal to the sum of (i) the product of 1.00% and the EURIBOR Floating Rate Payer Currency Amount for the relevant Transaction and (ii) the product of 10 and DVO1, where “DVO1” means the change in the
+Exposure of the relevant Transaction resulting from a one basis point 
+
+ change in the relevant swap curve, as such standards are set forth in Table 4A (First Trigger
+Calculation Amount) of the Moody’s publication entitled “Framework for De-Linking Hedge Counterparty Risks from Global Structured Finance Cashflow Transactions” dated December 6, 2005, as such publication may be modified or
+amended from time to time; or (z) if a Fitch Downgrade has occurred and is continuing, then an amount equal to the product of the applicable VC and the EURIBOR Floating Rate Payer Currency Amount for the relevant Transaction, where
+“VC” means the applicable Volatility Cushion (%) for “USD/EURO (e.v.v.) Cross Currency Swap Interest Rate Swaps” as set forth in Appendix 2 (Volatility Cushions for various Swap Types: Methodology and Amounts) of the Fitch
+publication entitled “Counterparty Risk in Structured Finance Transactions: Swap Criteria” dated September 13, 2004, as such publication may be modified or amended from time to time. 
+
+ (ii) 
+ Eligible Collateral . The following items will qualify as “ Eligible Collateral ” for Party A: 
+
+ Eligible Collateral 
+
+ Party A 
+
+ Valuation 
+ Percentage 
+
+ (A) 
+
+ EUR Cash 
+
+ [X] 
+
+ [TBD] 
+
+ (B) 
+
+ USD Cash 
+
+ [X] 
+
+ [TBD] 
+
+ (C) 
+
+ Sterling Cash 
+
+ [X] 
+
+ [TBD] 
+
+ (D) 
+
+ Treasury Securities with a remaining maturity of 52 weeks or less 
+
+ [X] 
+
+ [TBD] 
+
+ (E) 
+
+ Treasury Securities with a remaining maturity of more than 52 weeks but no more than 3 years 
+
+ [X] 
+
+ [TBD] 
+
+ (F) 
+
+ Treasury Securities with a remaining maturity of more than 3 years weeks but no more than 5 years 
+
+ [X] 
+
+ [TBD] 
+
+ (G) 
+
+ Treasury Securities with a remaining maturity of more than 5 years but no more than 7 years 
+
+ [X] 
+
+ [TBD] 
+
+ (H) 
+
+ Treasury Securities with a remaining maturity of more than 7 years but no more than 10 years 
+
+ [X] 
+
+ [TBD] 
+
+ (I) 
+
+ Treasury Securities with a remaining maturity of more than 10 years but no more than 20 years 
+
+ [X] 
+
+ [TBD] 
+
+ (J) 
+
+ Treasury Securities with a remaining maturity of more than 20 years 
+
+ [X] 
+
+ [TBD] 
+
+ (iii) 
+ Other Eligible Support : Not applicable. 
+
+ (iv) 
+ Thresholds . 
+
+ 2 
+
+ (A) 
+ “ Independent Amount ” means with respect to Party A: zero. 
+
+ (B) 
+ “ Threshold ” means with respect to Party A: zero. 
+
+ (C) 
+ “ Minimum Transfer Amount ” means with respect to Party A and with respect to Party B: $100,000; provided, however, that if such party is a Defaulting Party at
+the time, “Minimum Transfer Amount” shall mean zero with respect to such party. 
+
+ (D) 
+ Rounding . The Delivery Amount and the Return Amount will not be rounded up or down. 
+
+ (c) 
+ Valuation And Timing . 
+
+ (i) 
+ “ Valuation Agent ” means Party A, unless either (A) an Event of Default has occurred and is continuing with respect to Party A, or (B) a Downgrade
+Event has occurred and is continuing and Party A has not yet acted under Part 1(i) to avoid posting collateral, in which case Party B may elect to nominate a third-party Valuation Agent by giving notice of same to Party A. 
+
+ (ii) 
+ “ Valuation Date ” means each New York Banking Day (as defined in the 2000 ISDA Definitions as published by the International Swaps and Derivatives
+Association, Inc. (“ ISDA ”) without regard to any amendment after the date hereof) (the “ ISDA Definitions ”). 
+
+ (iii) 
+ “ Valuation Time ” means the close of business in New York on the New York Banking Day before the Valuation Date or before the date of calculation, as
+applicable, or any time on the Valuation Date or date of calculation, as applicable; provided that the calculations of Value and Exposure will be made as of approximately the same time on the same date. 
+
+ (iv) 
+ “ Notification Time ” means 1:00 p.m., New York time, on a Local Business Day. 
+
+ (d) 
+ Conditions Precedent And Secured Party’s Rights And Remedies . The following Termination Events will be a “ Specified Condition ” for the
+party specified (that party being the Affected Party if the Termination Event occurs with respect to that party): Not Applicable. 
+
+ (e) 
+ Substitution . 
+
+ (i) 
+ “ Substitution Date ” has the meaning specified in Paragraph 4(d)(ii). 
+
+ (ii) 
+ Consent . The Pledgor need not obtain the Secured Party’s consent for any substitution pursuant to Paragraph 4(d). 
+
+ (f) 
+ Dispute Resolution . 
+
+ (i) 
+ “ Resolution Time ” means 1:00 p.m., New York time, on the Local Business Day following the date on which the notice of the dispute is given under Paragraph 5.
+
+ (ii) 
+ Value . For the purpose of Paragraphs 5(i)(C) and 5(ii), the Value of Posted Credit Support or of any Transfer of Eligible Credit Support or Posted Credit Support, as
+the case may be, will be calculated by the Valuation Agent in accordance with standard market practice using third party sources (such as, by way of example only, Bloomberg or Reuters) where available. 
+
+ (iii) 
+ Alternative . The provisions of Paragraph 5 will apply. 
+
+ 3 
+
+ (g) 
+ Holding And Using Posted Collateral . 
+
+ (i) 
+ Eligibility To Hold Posted Collateral; Custodian . Party B and its Custodian will be entitled to hold Posted Collateral pursuant to Paragraph 6(b); provided that the
+following conditions applicable to it are satisfied: 
+
+ (A) 
+ If Party B is a Defaulting Party, it may not hold Posted Collateral, but Posted Collateral may still be held by Party B’s Custodian in accordance with the terms of the
+Indenture. 
+
+ (B) 
+ Posted Collateral may be held only in the following jurisdictions: the United States of America. Initially, the CUSTODIAN for Party B is the Trustee. 
+
+ (ii) 
+ Use Of Posted Collateral . The provisions of Paragraph 6(c) will not apply. 
+
+ (h) 
+ Distributions And Interest Amount . 
+
+ (i) 
+ “Interest Rate” . The “ Interest Rate ” shall be the rate actually earned by the Custodian on Posted Collateral in the form of Cash.
+
+ (i) 
+ Transfer Of Interest Amount . The Transfer of the Interest Amount will be made on the last Local Business Day of each calendar month and on any Local Business Day that
+Posted Collateral in the form of cash in the relevant currency is Transferred to the Pledgor pursuant to Paragraph 3(b). 
+
+ (ii) 
+ Alternative To Interest Amount . The provisions of Paragraph 6(d)(ii) will apply. 
+
+ (iii) 
+ Additional Representation(s) . None. 
+
+ (j) 
+ Other Eligible Support And Other Posted Support . “ Value ” and “ Transfer ” with respect to Other Eligible Support and
+Other Posted Support each means: Not applicable. 
+
+ (k) 
+ Demands And Notices . All demands, specifications and notices to Party A under this Annex will be made to: 
+
+ Barclays Capital 
+
+ 200 Park Avenue 
+
+ New York, New York 10166 
+
+ Attention: NY Collateral 
+
+ E MAIL: Nycollateral@barcap.com 
+
+ Telephone No.: (973) 576-3618 
+
+ and all demands, specifications and notices to Party B under this Annex will be made to: 
+
+ Goal Capital Funding Trust 2006-1 
+
+ c/o Wilmington Trust Company 
+
+ 1100 North Market Street 
+
+ Wilmington, Delaware 19890 
+
+ Telephone: (302) 636-6188 
+
+ Facsimile: (302) 636-4140 
+
+ with a copy to: 
+
+ Goal Capital Funding Trust 2006-1 
+ c/o Goal Financial, LLC 
+
+ Attn: Mr. Seamus Garland 
+
+ 9477 Waples Street, Suite 100 
+
+ San Diego, California 92121 
+ Phone: (800) 869-1538 
+ Facsimile: (858) 452-6648 
+
+ 4 
+
+ ; provided that any demand, specification or notice may be made by telephone
+(“ Telephone Notice ”) between employees of each party if such Telephone Notice is confirmed by a subsequent written instruction (which may be delivered via facsimile or email) by the close of business on the same day that such
+Telephone Notice is given. 
+
+ (l) 
+ Addresses For Transfers . 
+ Party A:
+
+ For Cash: 
+ Barclays Bank PLC,
+NY 
+ ABA #026-002-574 
+ F/O:
+Barclays Swaps & Options Group NY 
+ A/C #: 050019228 
+ Ref: Collateral 
+ For Treasury Securities: 
+ Bank of NYC/BBPLCLDN 
+ ABA#021-000-018
+
+ Party B: 
+ To be provided by
+Party B to Party A if posting of collateral is required pursuant to the Agreement prior to the date on which collateral is required to be posted by Party B. 
+
+ (m) 
+ Other Provisions . 
+
+ (i) 
+ Notwithstanding any other provision in this Agreement to the contrary, no full or partial failure to exercise and no delay in exercising, on the part of Party A or Party B, any
+right, remedy, power or privilege permitted hereunder shall operate in any way as a waiver thereof by such party, including without limitation any failure to exercise or any delay in exercising to any or to the full extent of such party’s
+rights with respect to transfer timing pursuant to Paragraph 4(b), regardless of the frequency of such failure or delay. 
+
+ (ii) 
+ In all cases, in order to facilitate calculation of the Delivery Amount and the Return Amount for a particular Valuation Date in accordance with Paragraph 3 of this Annex:
+
+ (A) 
+ Eligible Collateral; 
+
+ (B) 
+ Exposure and Rating Agency Amount; and 
+
+ (C) 
+ Posted Collateral 
+ shall each be expressed in US Dollars.
+If any of these items are expressed in a currency other than US Dollars, then they shall be converted into US Dollar amounts at the spot exchange rate reasonably determined by the Valuation Agent on that Valuation Date. 
+
+ (iii) 
+ Party A shall pay all costs and expenses (including any related taxes) in respect of the Posted Collateral. 
+
+ 5 
+
+ (iv) 
+ Exposure Verification . The Parties agree that in the event of a Downgrade Event (as defined in the Schedule) relating to an action taken by S&P, the Valuation
+Agent shall verify its calculation of the Secured Party’s Exposure on a weekly basis but shall verify such valuation by seeking two quotations from Reference Market-makers at the end of each quarter. For the avoidance of doubt, the Valuation
+Agent must (i) obtain at least two Market Quotations (as stated above) and (ii) may not obtain the quotations referred to above from the same Reference Market-maker in excess of four times during any 12 month period. Furthermore, the
+Exposure valuations should reflect the higher of two bids from Reference Market-makers that would be eligible and willing to provide the market quotation in the absence of the current provider. The collateral requirement should be based on the
+greater of the internal and external market quotations. In the event the verification procedures set forth above indicate that there is a deficiency in the amount of Eligible Collateral that has been posted to the Secured Party, the Pledgor shall
+post the amount of Eligible Collateral necessary to cure such deficiency to the Secured Party within three Local Business Days. 
+
+ (n) 
+ Agreement As To Single Secured Party And Pledgor . Party A and Party B agree that, notwithstanding anything to the contrary in the recital to this Annex, Paragraph 1(b)
+or Paragraph 2 or the definitions of Paragraph 12, (a) the term “ Secured Party ” as used in this Annex shall mean only Party B, (b) the term “ Pledgor ” as used in this Annex shall mean only
+Party A, (c) only Party A makes the pledge and grant in Paragraph 2, the acknowledgement in the final sentence of Paragraph 8(a) and the representations in paragraph 9 and (d) only Party A will be required to make Transfers of Eligible
+Credit Support hereunder. 
+
+ (o) 
+ Additional Definitions 
+ “ Fitch
+Downgrade ” has the meaning specified in Part 1(i) of the Schedule. 
+ “ Moody’s Downgrade ” has the
+meaning specified in Part 1(i) of the Schedule. 
+ “ Rating Agencies ” shall mean Moody’s Investors Service (and
+any successor or successors thereto), Standard & Poor’s Ratings Services, a division of The McGraw-Hill Companies, Inc. (and any successor or successors thereto), and Fitch, Inc. d/b/a Fitch Ratings (and any successor or successors
+thereto). 
+ “ S&P Downgrade” has the meaning specified in Part 1(i) of the Schedule. 
+ “ Treasury Securities ” means U.S. Dollar-denominated senior debt securities of the United States of America issued by the U.S.
+Treasury Department and backed by the full faith and credit of the United States of America. 
+ IN WITNESS WHEREOF, the parties have executed
+this Credit Support Annex by their duly authorized officers as of the date hereof. 
+
+ BARCLAYS BANK PLC 
+
+ GOAL CAPITAL FUNDING TRUST 2006-1 
+
+ By: 
+
+ Wilmington Trust Company, not in its individual capacity 
+ but solely in its capacity as Delaware Trustee of Goal Capital 
+ Funding Trust 2006-1 
+
+ By: 
+
+ /s/ Justin Wray 
+
+ By: 
+
+ /s/ Joann A. Rozell 
+
+ Name: 
+
+ Justin Wray 
+
+ Name: 
+
+ Joann A. Rozell 
+
+ Title: 
+
+ Director 
+
+ Title: 
+
+ Assistant Vice President 
+
+ Date: May 25, 2006 
+
+ Date: May 25, 2006 
+
+ 6

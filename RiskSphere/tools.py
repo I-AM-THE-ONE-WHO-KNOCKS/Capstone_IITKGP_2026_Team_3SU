@@ -15,10 +15,15 @@ import math
 import json
 
 import agent
+import agents
 import books
 import log
 import market
 import pfe
+import quality
+import stage3
+import stage4
+import stage5
 
 _BOOK = {"rows": None, "error": None}
 
@@ -49,13 +54,13 @@ def _book():
 def _party(counterparty):
     """Resolve a name or id to one marked counterparty dict.
 
-    Raises ValueError when the name is not Meridian, Apex, or Harbor Lane.
+    Raises ValueError when the name is not on the book.
     """
     book = _book()
     cid = books.find_party(book, counterparty) or str(counterparty or "").strip().lower()
     party = books.by_id(book).get(cid)
     if party is None:
-        raise ValueError("Name Meridian, Apex, or Harbor Lane.")
+        raise ValueError("Name a counterparty on the book.")
     return party
 
 
@@ -198,8 +203,123 @@ def regulatory_haircut(asset_class, maturity_bucket="1-5y", rating_bucket="AAA-A
         "maturity_bucket": maturity_bucket if maturity_bucket in books.MATURITIES else "1-5y",
         "rating_bucket": rating_bucket if rating_bucket in books.RATINGS else "AAA-AA-",
         "haircut_pct": pct,
-        "source": "BCBS-IOSCO standardised haircut schedule, Appendix B of d499. Not yet spot-checked against the PDF.",
+        "source": "BCBS-IOSCO standardised haircut schedule, Appendix B of d499. The desk schedule is what the calculator uses.",
     }
+
+
+def check_data_quality():
+    """Run the book check and return the problems. Does not invent a missing value."""
+    report = quality.check()
+    report["tool"] = "check_data_quality"
+    log.trace(f"data check passed={report['passed']} problems={len(report['problems'])}")
+    return report
+
+
+def scenario_pnl(counterparty, scenario):
+    """Scenario profit and loss for one name under a stored shock."""
+    quality.assert_ok()
+    cfg = agent.load_config()
+    spec = (cfg.get("scenarios") or {}).get(scenario)
+    if spec is None:
+        raise ValueError(f"unknown scenario {scenario}")
+    party = _party(counterparty)
+    return stage3.scenario_pnl(party, scenario, spec["shocks"], spec["label"])
+
+
+def initial_margin_proxy(counterparty):
+    """Illustrative initial margin for one name. Not ISDA SIMM."""
+    quality.assert_ok()
+    cfg = agent.load_config()
+    party = _party(counterparty)
+    return stage3.initial_margin_proxy(
+        party,
+        int(cfg.get("im_horizon_days", 10)),
+        float(cfg.get("im_percentile", 0.99)),
+    )
+
+
+def collateral_coverage(counterparty):
+    """Eligible collateral, shortfall, and surplus for one name."""
+    quality.assert_ok()
+    party = _party(counterparty)
+    return stage3.collateral_coverage(party)
+
+
+def expected_loss(counterparty, ead_basis):
+    """Synthetic expected loss. ead_basis is current or pfe."""
+    quality.assert_ok()
+    party = _party(counterparty)
+    if ead_basis == "pfe":
+        pfe_result = check_pfe_limit(counterparty)
+        return stage3.expected_loss(
+            party,
+            pfe_result["peak_pfe_collateralized_usd"],
+            "simulated collateralised potential future exposure, not regulatory EAD",
+        )
+    return stage3.expected_loss(
+        party,
+        party["credit_exposure"],
+        "current exposure, not regulatory EAD",
+    )
+
+
+def search_clauses(query, pile):
+    """Rank one document pile. Does not change the stored terms."""
+    return stage4.search_clauses(query, pile)
+
+
+def propose_term(counterparty, field, value, passage_id):
+    """Write a draft term. The stored agreement is not edited.
+
+    Resolves the name without downloading a price.
+    """
+    cid = books.find_party(books.names_only(), str(counterparty or ""))
+    if not cid:
+        raise ValueError("Name a counterparty on the book.")
+    return stage4.propose_term(cid, field, value, passage_id)
+
+
+def list_alerts():
+    """Breach, shortfall, and stale-price alerts for the whole book."""
+    quality.assert_ok()
+    cfg = agent.load_config()
+    return stage5.list_alerts(_book(), int(cfg.get("stale_after_days", 5)))
+
+
+def draft_report(counterparty, include_pfe=False):
+    """Draft a report for one name. include_pfe also runs the simulation."""
+    quality.assert_ok()
+    cfg = agent.load_config()
+    party = _party(counterparty)
+    pfe_result = check_pfe_limit(counterparty) if include_pfe else None
+    return stage5.draft_report(party, cfg, bool(include_pfe), pfe_result)
+
+
+def draft_margin_notice(counterparty):
+    """Draft a margin notice. It is not sent."""
+    quality.assert_ok()
+    return stage5.draft_margin_notice(_party(counterparty))
+
+
+def draft_stress_book(counterparty=""):
+    """Draft the stored shocks for one name, or for every name when counterparty is blank."""
+    quality.assert_ok()
+    cfg = agent.load_config()
+    book = _book()
+    if counterparty:
+        cid = books.find_party(book, counterparty) or str(counterparty).strip().lower()
+        parties = [row for row in book if row["counterparty_id"] == cid]
+        if not parties:
+            raise ValueError("Name a counterparty on the book.")
+    else:
+        parties = book
+    return stage5.draft_stress_book(parties, cfg.get("scenarios") or {})
+
+
+def draft_dispute(counterparty, their_mtm):
+    """Draft a dispute row against a mark the question already stated."""
+    quality.assert_ok()
+    return stage5.draft_dispute(_party(counterparty), their_mtm)
 
 
 HANDLERS = {
@@ -208,6 +328,41 @@ HANDLERS = {
     "get_market_data": get_market_data,
     "regulatory_haircut": regulatory_haircut,
     "check_pfe_limit": check_pfe_limit,
+    "check_data_quality": check_data_quality,
+    "scenario_pnl": scenario_pnl,
+    "initial_margin_proxy": initial_margin_proxy,
+    "collateral_coverage": collateral_coverage,
+    "expected_loss": expected_loss,
+    "search_clauses": search_clauses,
+    "propose_term": propose_term,
+    "list_alerts": list_alerts,
+    "draft_report": draft_report,
+    "draft_margin_notice": draft_margin_notice,
+    "draft_stress_book": draft_stress_book,
+    "draft_dispute": draft_dispute,
+}
+
+
+# What each tool is doing, for the console line. The agent that owns the
+# tool comes from the roster in agents.py, so ownership lives in one place.
+DOING = {
+    "current_exposure": "today's exposure against the stored limit",
+    "calculate_margin_call": "variation margin from the agreement",
+    "get_market_data": "Yahoo price and one-year volatility",
+    "regulatory_haircut": "one cell of the haircut schedule",
+    "check_pfe_limit": "simulated future exposure against the stored limit",
+    "check_data_quality": "ids, dates, units, and signs",
+    "scenario_pnl": "scenario profit and loss",
+    "initial_margin_proxy": "initial-margin proxy, not SIMM",
+    "collateral_coverage": "eligible value, shortfall, and surplus",
+    "expected_loss": "synthetic expected loss",
+    "search_clauses": "hybrid retrieval over one clause pile",
+    "propose_term": "writing a draft term, book unchanged",
+    "list_alerts": "breaches, shortfalls, and stale prices",
+    "draft_report": "draft report",
+    "draft_margin_notice": "draft margin notice, not sent",
+    "draft_stress_book": "draft stress book",
+    "draft_dispute": "draft dispute row",
 }
 
 
@@ -216,16 +371,21 @@ def run(name, args):
 
     name is a key of HANDLERS. args is the dict from the plan.
     Market data reads ticker. A haircut reads asset_class, maturity_bucket,
-    and rating_bucket. The other tools read counterparty.
+    and rating_bucket. Search reads query and pile. A dispute reads
+    their_mtm. The data check and the alert list take no arguments.
     Logs the call at trace and the JSON result at debug. Raises ValueError
     for an unknown name, and whatever the tool raises on a bad input.
     """
+    who = agents.agent_for(name)
+    log.work(who, DOING.get(name, name))
     log.trace(f"tool in {name} {args}")
     fn = HANDLERS.get(name)
     if fn is None:
         log.error(f"unknown tool {name}")
         raise ValueError(f"unknown tool {name}")
-    if name == "get_market_data":
+    if name in ("check_data_quality", "list_alerts"):
+        result = fn()
+    elif name == "get_market_data":
         result = fn(args.get("ticker"))
     elif name == "regulatory_haircut":
         result = fn(
@@ -233,6 +393,25 @@ def run(name, args):
             args.get("maturity_bucket") or "1-5y",
             args.get("rating_bucket") or "AAA-AA-",
         )
+    elif name == "search_clauses":
+        result = fn(args.get("query") or "", args.get("pile") or "csa")
+    elif name == "scenario_pnl":
+        result = fn(args.get("counterparty"), args.get("scenario"))
+    elif name == "expected_loss":
+        result = fn(args.get("counterparty"), args.get("ead_basis") or "current")
+    elif name == "propose_term":
+        result = fn(
+            args.get("counterparty"),
+            args.get("field"),
+            args.get("value"),
+            args.get("passage_id"),
+        )
+    elif name == "draft_report":
+        result = fn(args.get("counterparty"), bool(args.get("include_pfe")))
+    elif name == "draft_stress_book":
+        result = fn(args.get("counterparty") or "")
+    elif name == "draft_dispute":
+        result = fn(args.get("counterparty"), args.get("their_mtm"))
     else:
         result = fn(args.get("counterparty"))
     log.debug("tool out " + name + " " + json.dumps(result))

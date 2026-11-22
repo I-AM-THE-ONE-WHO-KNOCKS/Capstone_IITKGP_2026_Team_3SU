@@ -12,6 +12,7 @@ future exposure is a separate simulation.
 import csv
 import json
 import math
+import re
 from pathlib import Path
 
 import market
@@ -67,9 +68,14 @@ def haircut_pct(asset_class, maturity_bucket="1-5y", rating_bucket="AAA-AA-"):
     return float(table)
 
 
-def _read_csv(name):
-    """Read one book table as a list of dicts. name is the file under data/."""
-    with (DATA / name).open(newline="") as handle:
+def _read_csv(name, data_dir=None):
+    """Read one book table as a list of dicts.
+
+    name is the file name. data_dir, when set, is a folder of the same
+    six CSVs. The desk book under data/ is used when it is omitted.
+    """
+    base = Path(data_dir) if data_dir else DATA
+    with (base / name).open(newline="") as handle:
         return list(csv.DictReader(handle))
 
 
@@ -113,8 +119,11 @@ def _status(utilization):
     return "OK"
 
 
-def load_book():
+def load_book(data_dir=None):
     """Mark every counterparty and return one dict per name.
+
+    data_dir points at another folder of the same six CSVs, used to mark
+    the larger validation book. The desk book is used when it is omitted.
 
     Reads the sample names, limits, agreement terms, trades, and posted
     collateral, then downloads a Yahoo quote for each symbol. Mark is
@@ -123,14 +132,16 @@ def load_book():
     Today's exposure is max(gross mark - collateral value, 0). The margin
     action is CALL_COUNTERPARTY, RETURN_COLLATERAL, or NO_ACTION.
 
-    Raises if Yahoo fails or a posted asset has no haircut mapping.
+    Raises if Yahoo fails. An asset with no haircut mapping is kept on the
+    line and counts as zero. It is not eligible collateral.
     Does not call the chat model. Does not compute future exposure.
     """
-    names = {row["counterparty_id"]: row for row in _read_csv("counterparties.csv")}
-    limits = {row["counterparty_id"]: _money(row["pfe_limit"]) for row in _read_csv("limits.csv")}
-    terms = {row["counterparty_id"]: row for row in _read_csv("csa_terms.csv")}
-    trades = _read_csv("trades.csv")
-    collateral = _read_csv("collateral.csv")
+    names = {row["counterparty_id"]: row for row in _read_csv("counterparties.csv", data_dir)}
+    limits = {row["counterparty_id"]: _money(row["pfe_limit"]) for row in _read_csv("limits.csv", data_dir)}
+    terms = {row["counterparty_id"]: row for row in _read_csv("csa_terms.csv", data_dir)}
+    trades = _read_csv("trades.csv", data_dir)
+    collateral = _read_csv("collateral.csv", data_dir)
+    credit = {row["counterparty_id"]: row for row in _read_csv("credit.csv", data_dir)}
     quotes = market.fetch_quotes(sorted({row["symbol"] for row in trades}))
 
     book = []
@@ -167,11 +178,21 @@ def load_book():
             if row["counterparty_id"] != cid:
                 continue
             mapped = POSTED.get(row["asset"])
+            amount = _money(row["amount"])
             if mapped is None:
-                raise ValueError(f"no haircut mapping for {row['asset']}")
+                collateral_lines.append({
+                    "asset": row["asset"],
+                    "asset_class": "",
+                    "maturity_bucket": "",
+                    "rating_bucket": "",
+                    "amount": amount,
+                    "haircut_pct": None,
+                    "counted": 0,
+                    "eligible": False,
+                })
+                continue
             asset_class, maturity, rating = mapped
             pct = haircut_pct(asset_class, maturity, rating)
-            amount = _money(row["amount"])
             counted = int(round(amount * (1 - pct / 100)))
             collateral_value += counted
             collateral_lines.append({
@@ -182,6 +203,7 @@ def load_book():
                 "amount": amount,
                 "haircut_pct": pct,
                 "counted": counted,
+                "eligible": True,
             })
 
         credit_support = max(0, gross + independent - threshold)
@@ -231,6 +253,10 @@ def load_book():
             "headroom": limit - exposure,
             "measure": "current_exposure_not_pfe",
             "trades": marked,
+            "pd": float(credit[cid]["pd"]) if cid in credit else None,
+            "lgd": float(credit[cid]["lgd"]) if cid in credit else None,
+            "pd_horizon": credit.get(cid, {}).get("pd_horizon") or "",
+            "pd_source": credit.get(cid, {}).get("source") or "",
         })
     return book
 
@@ -250,17 +276,20 @@ def find_party(book, text):
 
     book may be the marked book or the names-only rows. A match is the id,
     the full name, or the first word of the name, compared in lower case.
-    "Harbor Lane" and "harbor" both return the Harbor id.
+    The first word of the name matches too, so "Apex" returns Apex Capital Derivatives.
     """
     lowered = str(text or "").lower()
     rows = book if book and "name" in book[0] else [
         {"counterparty_id": row["counterparty_id"], "name": row["name"]} for row in names_only()
     ]
     for row in rows:
-        if row["counterparty_id"] in lowered or row["name"].lower() in lowered:
+        if row["counterparty_id"].lower() == lowered.strip():
+            return row["counterparty_id"]
+    for row in rows:
+        if row["counterparty_id"].lower() in lowered or row["name"].lower() in lowered:
             return row["counterparty_id"]
         first = row["name"].split()[0].lower()
-        if first and first in lowered:
+        if first and re.search(rf"\b{re.escape(first)}\b", lowered):
             return row["counterparty_id"]
     return ""
 

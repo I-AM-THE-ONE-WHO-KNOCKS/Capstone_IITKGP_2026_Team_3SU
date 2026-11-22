@@ -1,0 +1,336 @@
+EX-10.1
+ 2
+ a18-13708_1ex10d1.htm
+ EX-10.1
+
+ Exhibit 1 0.1 
+
+ EXECUTION VERSION 
+
+ OMNIBUS AMENDMENT NO. 1 
+
+ AMENDMENT NO. 1 (this “ Amendment ”) dated as of May 15, 2018 among BCSF I, LLC, as borrower (the “ Borrower ”); the lenders under the Credit Agreement referred to below (the “ Lenders ”); GOLDMAN SACHS BANK USA, as administrative agent (in such capacity, the “ Administrative Agent ”); and U.S. BANK NATIONAL ASSOCIATION, as collateral administrator, as collateral custodian and as collateral agent (the “ Collateral Agent ”). 
+
+ The Borrower, the Lenders, the Administrative Agent and the Collateral Agent are parties to the Credit Agreement dated as of October 4, 2017 (as amended, modified and supplemented and in effect from time to time, the “ Credit Agreement ”). The Borrower, the Administrative Agent and the Calculation Agent are parties to the Margining Agreement dated as of October 4, 2017 referred to therein. 
+
+ The parties hereto wish now to amend the Credit Agreement and the Margining Agreement in certain respects, and accordingly, the parties hereto hereby agree as follows: 
+
+ Section 1. Definitions . Except as otherwise defined in this Amendment, terms defined in the Credit Agreement are used herein as defined therein. This Amendment shall constitute a Transaction Document for all purposes of the Credit Agreement and the other Transaction Documents. 
+
+ Section 2. Credit Agreement Amendments . Subject to the satisfaction of the conditions precedent specified in Section 5 below and Section 11.5 of the Credit Agreement, but effective as of the date hereof, the Credit Agreement shall be amended as follows: 
+
+ 2.01. References Generally . References in the Credit Agreement (including references to the Credit Agreement as amended hereby) to “this Agreement” (and indirect references such as “hereunder”, “hereby”, “herein” and “hereof”) shall be deemed to be references to the Credit Agreement as amended hereby. 
+
+ 2.02. Amendments .
+
+ (a) The definition of “Hedge Agreement” in Section 1.1 of the Credit Agreement is hereby restated to read in its entirety as follows:
+
+ ““ Hedge Agreement ” means a Derivative Transaction (a) that in the judgment of the Administrative Agent is a customary foreign exchange derivative product (including a forward agreement, a swap or a cross-currency hedge); (b) that is entered into by a Borrower Entity on market terms as of the related trade date for such transaction; (c) under which a Borrower Entity hedges actual foreign currency risks (including cross-currency risks); (d) under which the timing of payments and deliveries, and their respective currencies, are reasonably designed to match the timing and currencies of expected cash flows on one or more Collateral Obligations (and that is reasonably designed not to require payments by the Borrower Entities of non-USD currencies in amounts exceeding the expected cash flows in those currencies from the related Collateral Obligations); and (e) is not entered into by a Borrower Entity for speculative purposes.” 
+
+ (b) The definition of “Specified Currency” in Section 1.1 of the Credit Agreement is hereby restated to read in its entirety as follows:
+
+ ““ Specified Currency ” means (1) each of AUD, EUR, GBP and USD and (2) such other currencies offered by the Accounts Securities Intermediary as the Borrower and the Administrative Agent may agree in writing with written notice to the Collateral Agent and the 
+
+ Account Securities Intermediary. The “ Specified Currency ” applicable to any obligation, payment or Collateral Obligation means: 
+
+ (a) in respect of any obligation or payment to be made hereunder or under any of the other Transaction Documents or in connection herewith or therewith, the currency in which such obligation or payment is denominated as may be approved by the Collateral Agent; and
+
+ (b) in respect of any Collateral Obligation, the currency (if any) in which such Collateral Obligation is denominated and payable as may be approved by the Collateral Agent.”
+
+ (c) Section 2.8(c) of the Credit Agreement is hereby amended and restated to read in its entirety as follows:
+
+ “(c) Other Amounts . Each payment of principal of the Loans in connection with a Voluntary Prepayment shall be accompanied the related Make-Whole Amount, the amount of accrued interest on the portion of the Loans so prepaid and (if such payment is made other than on the last day of an interest period) any related breakage costs payable under Section 2.13(c). Each Voluntary Commitment Reduction shall be accompanied by payment of the related Minimum Spread Payment, the related Make-Whole Amount and the amount of Commitment Fees accrued on the portion of the Commitments so reduced.”
+
+ (c) Section 5.16 of the Credit Agreement is hereby amended by:
+
+ (1) restating the introductory clause in clause (a) thereof to read in its entirety as follows:
+
+ “(a) So long as no Default or Event of Default shall have occurred and then be continuing, the Borrower Entities may from time to time enter into one or more Hedge Agreements to hedge actual foreign currency exposures of the Borrower Entities (and not for speculative purposes) on Collateral Obligations denominated in Non-USD Currencies, in each case having a notional amount (determined as of the date on which such Hedge Agreements are entered into) up to but not exceeding the Collateral Obligation Notional Amount of such Non-USD Currency Collateral Obligations, provided that (x) the Borrower identifies to the Administrative Agent, at the time each such Hedge Agreement is entered into, the Collateral Obligation or Collateral Obligations being hedged thereby and (y), unless Goldman Sachs Bank USA is the Counterparty:”
+
+ (2) restating clause (2) of the proviso to Section 5.16(a)(y) to read as follows:
+
+ “(2) the Administrative Agent shall have consented in writing to the entry into such Hedge Agreement (which consent the Administrative Agent may withhold in its sole and absolute discretion);”
+
+ (3) adding the following at the end of Section 5.16(a):
+
+ “For the avoidance of doubt, the Borrower and Goldman Sachs Bank USA may enter into Hedge Agreements that do not require the posting of margin (to the extent permitted by applicable law).”; and 
+
+ (4) restating clause (g) thereof to read in its entirety as follows:
+
+ “(g) The Borrower Entities may unwind Hedge Agreements on terms agreed between the Borrower and the applicable Counterparty (each, a “ Hedge Unwind ”) at any time and from time to time to the extent that the Borrower determines that the then
+
+ 2 
+
+ outstanding Hedge Agreements (1) do not provide a commercially reasonable hedge against foreign currency-related exposures of the Borrower Entities or (2) have notional amounts that exceed the Collateral Obligation Notional Amounts of the respective Collateral Obligations then hedged thereby (each of clause (1) and clause (2), a “Hedge Unwind Condition”); and, if the Administrative Agent determines that a Hedge Unwind Condition exists, notifies the Borrower thereof and requests that the Borrower Entities effect Hedge Unwinds to lessen or cure such Hedge Unwind Condition, then the Borrower Entities shall effect such Hedge Unwinds promptly.” 
+
+ (e) The fourth paragraph in Section 6.1 of the Credit Agreement is hereby amended and restated to read in its entirety as follows:
+
+ “The Accounts Securities Intermediary may employ, as subcustodians for any Pledged Obligations (and Interest Proceeds and Principal Proceeds thereon) denominated in a non-USD Specified Currency, subcustodians and other securities depositories, clearing agencies and clearing systems (each, an “ Intermediary ” and, collectively, “ Intermediaries ”). The Accounts Securities Intermediary shall identify on its books as belonging to the applicable Borrower Entity (subject to the lien of U.S. Bank National Association, as Collateral Agent on behalf of the Secured Parties) any of the Pledged Obligations of such Borrower Entity held by an Intermediary. The Accounts Securities Intermediary may hold any such Pledged Obligations (and related Interest Proceeds and Principal Proceeds) with one or more Intermediaries in each case in a single account with such Intermediary that is identified as belonging to the Accounts Securities Intermediary for the benefit of its customers; provided that the records of the Accounts Securities Intermediary with respect to any such Pledged Obligations and related Interest Proceeds and Principal Proceeds which are property of a Borrower Entity maintained in such account shall identify by book-entry those Pledged Obligations and proceeds thereof as belonging to such Borrower Entity. On the Closing Date, the Accounts Securities Intermediary is hereby directed to open sub-accounts of the Collateral Account, the Interest Collection Account and the Principal Collection Account in respect of AUD, EUR and GBP. Upon notice by the Borrower that the Administrative Agent and the Borrower have agreed in writing to a non-USD Specified Currency other than AUD, EUR and GBP, the Collateral Agent and the Accounts Securities Intermediary shall open and are hereby directed to open any necessary accounts or sub-accounts in such currency and, if necessary or advisable, enter into amendments to the Securities Account Control Agreement to perfect the security interest of the Collateral Agent in such other non-USD accounts (or sub-accounts). Neither the Collateral Agent or the Accounts Securities Intermediary shall be required to open any Transaction Account (or receive any Interest Proceeds or Principal Proceeds) in any Non-USD Currencies other than AUD, EUR and GBP.” 
+
+ (f) Section 6.2(b) of the Credit Agreement is hereby amended and restated to read in its entirety as follows:
+
+ “(b) Principal Collection Account . The Borrower shall, prior to the Initial Credit Date, establish at the Accounts Securities Intermediary a segregated trust account in the name “BCSF I, LLC, subject to the lien of U.S. Bank National Association, as Collateral Agent on behalf of the Secured Parties”, which shall be designated as the Principal Collection Account, which shall be held by the Accounts Securities Intermediary in accordance with the Securities Account Control Agreement. Any and all funds at any time on deposit in, or otherwise to the credit of, the Principal Collection Account shall be held in trust by the Collateral Agent for the benefit of the Secured Parties.
+
+ The proceeds of all Loans made hereunder (unless expressly permitted to be otherwise applied in accordance with the terms and conditions of this Agreement), all Principal Proceeds and amounts transferred from the Margin Account pursuant to Section 6.3(c) shall be deposited into the Principal Collection Account. All such funds, together with any Eligible Investments made with such funds, shall be held by the Accounts Securities Intermediary in the Principal Collection Account as part of the Collateral subject to disbursement and withdrawal solely as provided in this 
+
+ 3 
+
+ Section 6.2(b) and Section 6.3(a) below. Any income or other gain realized from Eligible Investments in the Principal Collection Account shall be transferred to the Interest Collection Account and disbursed and withdrawn in accordance with Section 6.2. 
+
+ So long as no Event of Default shall have occurred and be continuing hereunder, upon the receipt of a Borrower Order, the Accounts Securities Intermediary shall reinvest funds on deposit in the Principal Collection Account in Collateral Obligations as permitted under and in accordance with the requirements of Section 8 and such Borrower Order. 
+
+ In addition, the Borrower may, so long as (i) each Collateral Portfolio Requirement would be satisfied on a pro forma basis after giving effect to such transfer, (ii) no Default or Event of Default has occurred or would result therefrom, (iii) there is no Borrowing Base Deficiency at such time and after giving effect thereto and (iv) the Administrative Agent has consented to (which the Administrative Agent may grant or withhold in its sole and absolute judgement), provide a Borrower Order to the Accounts Securities Intermediary to transfer U.S. Dollars on deposit in the Principal Collection Account to the Margin Account in accordance with such Borrower Order (it being understood that funds may not be converted from a non-U.S. Dollar Specified Currency to U.S. Dollars in connection with any such transfer to the Margin Account). 
+
+ To the extent that any Principal Proceeds are received in AUD, EUR or GBP, the Collateral Agent will cause such Principal Proceeds to be deposited in the subaccount of the Principal Collection Account established for such currency (or in such other account as the Collateral Agent may have established to hold such currency for purposes of this Agreement and the other Transaction Documents); provided that, it is understood and agreed that, notwithstanding the establishment of such subaccounts on or prior to the Initial Credit Date, such subaccounts shall not be available for the receipt of Principal Proceeds until such time as the Accounts Securities Intermediary notifies the Borrower and the Collateral Agent that such subaccounts are operational and available to receive such funds (and neither the Account Securities Intermediary nor the Collateral Agent shall have any liability for any failure or delay in the receipt of such funds). On the Determination Date preceding each Payment Date (or at any time at the direction of the Administrative Agent, if an Event of Default has occurred and is continuing), the Collateral Agent shall cause, at the direction of the Investment Manager (or if no such direction is provided by the Administrative Agent, at the direction of the Administrative Agent) all amounts in each Specified Currency in the Principal Collection Account and such subaccounts (and in each other such account) received during the related Due Period to be converted to USD, and shall cause the USD proceeds of such conversion to be deposited in the Principal Collection Account for application on such Payment Date pursuant to the terms and conditions set forth herein. For the avoidance of doubt, Principal Proceeds received during a Due Period and committed to be converted by the related Determination Date as described above shall continue to be treated as having been received in such Due Period, notwithstanding that the settlement of the currency exchange may occur after such Determination Date ( provided that such settlement occurs no later than the Business Day immediately preceding the related Payment Date). Pursuant to a Borrower Order, the Investment Manager may from time to time direct the Collateral Agent to convert any such non-USD amounts into USD and for the proceeds of such conversion to be deposited in the Principal Collection Account for application pursuant to the terms and conditions set forth herein, and at any time, if an Event of Default has occurred and is continuing, the Collateral Agent may (at the direction of the Administrative Agent) convert any or all of such non-USD amounts into USD for application hereunder.” 
+
+ (g) The first sentence of Section 6.3(c) of the Credit Agreement is hereby amended and restated to read in its entirely as follows:
+
+ “The Borrower shall, on or prior to the Initial Credit Date, establish at the Accounts Securities Intermediary a segregated trust account in the name “BCSF I, LLC, subject to the lien of U.S. Bank National Association, as Collateral Agent on behalf of the Secured Parties”, which shall be designated as the Margin Account, which shall be held by the Accounts Securities 
+
+ 4 
+
+ Intermediary in accordance with the Securities Account Control Agreement, into which the Borrower shall deposit cash in U.S. dollars from time to time as required pursuant to the Margining Agreement.” 
+
+ (h) Section 7 of the Credit Agreement is hereby amended by restating paragraphs (a), (b) and (c) thereof to read in their entirety, respectively, as follows:
+
+ “(a) Interest Priority of Payments . On each Payment Date (unless an Event of Default has occurred and is then continuing) the Collateral Agent shall disburse amounts transferred to the Payment Account pursuant to Sections 6.3(a) constituting Interest Proceeds (as set forth on the Valuation Report for such Payment Date) for application (in the currencies in which such payments are denominated) in accordance with the following priorities (the “ Interest Priority of Payments ”):
+
+ (1) to the payment of taxes of any Borrower Entity, if any, and any governmental fee, including all filing, registration and annual return fees payable by them (in each case, excluding any Specified Payment Amounts for such Payment Date);
+
+ (2) to the payment of accrued and unpaid Administrative Expenses constituting fees of the Bank Parties under the Transaction Documents and reimbursement of expenses (including indemnity payments) of the Bank Parties pursuant to the terms of the Transaction Documents; provided that total payments pursuant to this subclause (2) shall not exceed, on any Payment Date, an amount equal to a percentage of the Aggregate Principal Amount of the Collateral Portfolio equal to an annual rate of 0.025% per annum, measured as of the beginning of the Due Period preceding such Payment Date;
+
+ (3) to the payment (in the order set forth in the definition of Administrative Expenses), of (a) first , remaining accrued and unpaid Administrative Expenses (other than indemnity payments) of the Borrower Entities including other amounts payable by the Borrower Entities to the Investment Manager under the Investment Management Agreement (excluding any Successor Management Fees), and to the Bank Parties constituting Administrative Expenses (including indemnity payments) not paid pursuant to subclause (2) above, and (b) second , remaining accrued and unpaid Administrative Expenses of the Borrower Entities constituting indemnity payments; provided that such payments pursuant to this subclause (3) shall not exceed an amount equal on any Payment Date (when taken together with any Administrative Expenses (other than those paid and applied to the cap amount specified in clause (2) above) paid during the period since the preceding Payment Date or, in the case of the First Payment Date, the Initial Credit Date) to the Administrative Expense Cap for such Payment Date;
+
+ (4) to pay any Successor Management Fees to any Successor Investment Manager;
+
+ (5) (a) first , to the payment of Hedge Advance Amounts and interest thereon; and second (b) pari passu , to the payment of accrued and unpaid interest, Commitment Fees, Minimum Spread Payments, Make-Whole Amounts (if any) and other amounts due and payable on the Loans (in each case other than principal of the Loans) and to the payment of any amounts due to any Counterparty under any Hedge Agreement other than amounts due as a result of the termination (or partial termination) of such Hedge Agreement;
+
+ (6) so long as no Default, Event of Default, Collateral Deficit or Borrowing Base Deficiency shall have occurred and then be continuing or would result or increase therefrom, to deposit funds in the Hedge Borrower Collateral Accounts to the extent then required under the terms of the Hedge Agreements;
+
+ 5 
+
+ (7) to the extent (if any) that the aggregate outstanding principal amount of the Loans exceeds the Borrowing Base, to the repayment of principal of the Loans;
+
+ (8) if a Clean-Up Call Event has occurred and is continuing, pari passu to the outstanding principal of the Loans and the other Obligations until the Obligations are repaid in full and to the payment of any amounts due to any Counterparty under any Hedge Agreement pursuant to an early termination (or partial termination) (in each case other than pursuant to a Junior Priority Termination Event) of such Hedge Agreement;
+
+ (9) if a Collateral Deficit exists, to the Margin Account until such Collateral Deficit has been cured;
+
+ (10) to the payment of any amounts due to any Counterparty under any Hedge Agreement pursuant to an early termination (or partial termination) (in each case other than pursuant to a Junior Priority Termination Event) of such Hedge Agreement;
+
+ (11) to the payment, first, pari passu , of any accrued and unpaid fees and expenses of the Bank Parties; second, in the order set forth in the definition of Administrative Expenses, of any accrued and unpaid Administrative Expenses of the Borrower Entities (including, for the avoidance of doubt, (a) indemnities and amounts payable by the Borrower Entities to the Bank Parties and (b) indemnities and amounts payable by the Borrower Entities to the Investment Manager under the Investment Management Agreement (other than any Successor Management Fee)), in each case to the extent not paid pursuant to subclauses (2), (3) and (4) above; and third, to a deposit to the Expense Reserve Account until the amount on deposit therein is equal to the Expense Reserve Amount;
+
+ (12) first, to the payment of any amounts due to any Counterparty under any Hedge Agreement not otherwise paid pursuant to subclause (5), (8) or (10) above; and second to deposit funds in the Hedge Borrower Collateral Accounts to the extent required under the terms of the Hedge Agreements and not otherwise deposited pursuant to subclause (6) above;
+
+ (13) to the payment of the Specified Payment Amounts (if any) for such Payment Date; and
+
+ (14) the balance of Interest Proceeds to the Borrower for distribution to the Equity Holder as a dividend payment thereon or as a final distribution in redemption thereof, as applicable or, if the Investment Manager so directs, to be treated as Designated Principal Proceeds hereunder.
+
+ (b) Principal Priority of Payments . On each Payment Date (unless an Event of Default has occurred and is then continuing), in each case after giving effect to the application of the Interest Priority of Payments on such Payment Date, the Collateral Agent shall disburse amounts transferred to the Payment Account pursuant to Section 6.3(a) constituting Principal Proceeds (as set forth on the Valuation Report for such Payment Date) for application (in the currencies in which such payments are denominated) in accordance with the following priorities (the “ Principal Priority of Payments ”):
+
+ (1) to the payment of the amounts referred to in subclauses (1) through (6) of the Interest Priority of Payments (in the order of priority set forth therein), but only to the extent not paid in full thereunder;
+
+ (2) if such Payment Date is during the Amortization Period, pari passu to the payment of principal of the Loans in an amount equal to the Required Principal
+
+ 6 
+
+ Amortization Amount for such Payment Date and to the payment of any amounts due to any Counterparty under any Hedge Agreement pursuant to an early termination (or partial termination) (in each case other than pursuant to a Junior Priority Termination Event) of such Hedge Agreement; 
+
+ (3) if such Payment Date is on the Maturity Date, pari passu to the payment of principal of the Loans until the Loans are repaid in full and to the payment of any amounts due to any Counterparty under any Hedge Agreement pursuant to an early termination (or partial termination) (in each case other than pursuant to a Junior Priority Termination Event) of such Hedge Agreement;
+
+ (4) to the extent (if any) that the aggregate outstanding principal amount of the Loans exceeds the Borrowing Base, to the repayment of principal of the Loans;
+
+ (5) if a Clean-Up Call Event has occurred and is continuing, pari passu to the outstanding principal of the Loans and the other Obligations until the Obligations are repaid in full and to the payment of any amounts due to any Counterparty under any Hedge Agreement pursuant to an early termination (or partial termination) (in each case other than pursuant to a Junior Priority Termination Event) of such Hedge Agreement;
+
+ (6) if a Collateral Deficit exists, to the Margin Account until such Collateral Deficit has been cured;
+
+ (7) to the payment of any amounts due to any Counterparty under any Hedge Agreement pursuant to an early termination (or partial termination) (in each case other than pursuant to a Junior Priority Termination Event) of such Hedge Agreement;
+
+ (8) if such Payment Date is prior to the Maturity Date, all remaining Principal Proceeds to (as determined by the Investment Manager) (x) the Acquisition of Collateral Obligations or to the Principal Collection Account for investment in Eligible Investments pending Acquisition of Collateral Obligations at a later date, in each case in accordance with this Agreement; (y) to the repayment of the Loans in a Voluntary Prepayment pursuant to Section 2.8; and (z) if the Equity Distribution Test is satisfied, for further application under subclauses (9) through (11) below;
+
+ (9) to the amounts referred to in subclauses (11) and (12) of the Interest Priority of Payments (in the order of priority set forth therein), but only to the extent not paid in full thereunder;
+
+ (10) to the payment of the Specified Payment Amounts (if any) for such Payment Date, in each case to the extent not paid pursuant to the Interest Priority of Payments; and
+
+ (11) to the Borrower for distribution to the Equity Holder as a dividend payment thereon or as a final distribution in redemption thereof, as applicable.
+
+ (c) Enforcement Priority of Payments . If an Event of Default has occurred and is continuing, all Interest Proceeds, Principal Proceeds and any other available funds in the Transaction Accounts will be distributed in the following order of priority (the “ Enforcement Priority of Payments ”):
+
+ (1) to the payment (a) first , of the amounts referred to in subclauses (1) through (4) of the Interest Priority of Payments (in the order of priority set forth therein); and (b) second to the Bank Parties constituting Administrative Expenses (including indemnity payments, but excluding Excluded Payments) not paid pursuant to subclause
+
+ 7 
+
+ (a) above due to the application of the caps set forth in subclauses (2) and (3) of the Interest Priority of Payments; 
+
+ (2) to the payment (a) first , pari passu , of accrued and unpaid interest, Commitment Fees, Minimum Spread Payments, Make-Whole Amounts (if any), Hedge Advance Amounts and interest thereon and other amounts due and payable on the Loans (in each case other than principal of the Loans) and of any amounts due to any Counterparty under any Hedge Agreement other than amounts due as a result of the termination (or partial termination) of such Hedge Agreement, (b) second , pari passu , of principal of the Loans, until the Loans have been repaid in full, and of any amounts due to any Counterparty under any Hedge Agreement pursuant to an early termination (or partial termination) (in each case other than pursuant to a Junior Priority Termination Event) of such Hedge Agreement, (c) third , to the payment of any other Obligations the outstanding, and (d) fourth , to the amounts referred to in subclauses (6) and (10) of the Interest Priority of Payments (in the order of priority set forth therein);
+
+ (3) to the payment of all Extraordinary Expense Amounts (if any) not theretofore paid; and
+
+ (4) the balance of such funds, if any, to the Borrower for distribution to the Equity Holder as a final distribution in redemption thereof, as applicable.”
+
+ Section 3. Margining Agreement Amendments . Subject to the satisfaction of the conditions precedent specified in Section 5 below, but effective as of the date hereof, the Margining Agreement shall be amended as follows: 
+
+ 3.01. References Generally . References in the Margining Agreement (including references to the Margining Agreement as amended hereby) to “this Agreement” (and indirect references such as “hereunder”, “hereby”, “herein” and “hereof”) shall be deemed to be references to the Margining Agreement as amended hereby. 
+
+ 3.02. Amendments .
+
+ (a) The Margining Agreement is hereby amended by removing the definition of “FX Coverage Deficit” therein and adding the following definitions in appropriate alphabetic order in Section 2(d) thereof:
+
+ “ GS/BCSF I ISDA Master Agreement ” means the 1992 ISDA Master Agreement dated March 29, 2018 between Goldman Sachs (in its capacity as a counterparty under the GS/BCSF I ISDA Master Agreement, “ Party A ”) and the Borrower (in its capacity as a counterparty under the GS/BCSF I ISDA Master Agreement, “ Party B ”), together with the Schedule thereto and all confirmations of transactions thereunder. 
+
+ “ GS/BCSF I FX Exposure ” means, for any Valuation Date, the amount, if any, that would be payable to Party A by Party B (expressed as a positive number) or by Party A to Party B (expressed as a negative number) pursuant to Section 6(e)(ii)(2)(A) of the GS/BCSF I ISDA Master Agreement as if all “Transactions” (or “Swap Transactions”) thereunder were being terminated as of the relevant Valuation Time; provided that “Market Quotation” will be determined by the Valuation Agent using its estimates at mid-market of the amounts that would be paid for “Replacement Transactions”. Quoted terms used in this definition have the meanings given to them in the GS/BCSF I ISDA Master Agreement. 
+
+ As used herein: 
+
+ “ Valuation Agent ” means Party A. 
+
+ 8 
+
+ “ Valuation Date ” means each Business Day. 
+
+ “ Valuation Time ” means, as to any Valuation Date, the close of business on the Business Day before the Valuation Date. 
+
+ “ Unhedged Asset ” means, at any time, each Collateral Obligation denominated in a non-USD Specified Currency, unless the Borrower has entered into a Hedge Agreement with respect to such Collateral Obligation in accordance with the terms and conditions set forth in the Credit Agreement. 
+
+ “ Unhedged FX Exposure ” means, for each Unhedged Asset at any time, the product of: 
+
+ (a) the Assigned Price of such Collateral Obligation;
+
+ (b) the excess (if any) of:
+
+ (1) the Initial FX Rate for such Unhedged Asset over 
+
+ (2) the Current FX Rate for such Unhedged Asset at such time; and
+
+ (c) the Asset Amortized Amount of such Unhedged Asset at such time.
+
+ (b) The definition of “Required Amount” in the Margining Agreement is hereby amended and restated to read in its entirety as follows:
+
+ ““ Required Amount ” means, at any time, an amount (in USD) equal to the sum of: 
+
+ (a) for each Collateral Obligation as to which a Value Adjustment Event has occurred at any date (other than BSLs for which the sole Value Adjustment Event is a BSL Price-Triggered VAE), the Asset Price Differential thereof;
+
+ (b) for all Collateral Obligations that are BSLs for which the sole Value Adjustment Events are BSL Price-Triggered VAEs:
+
+ (1) if the aggregate Asset Price Differentials of all such BSLs at such time is less than 10% of the aggregate Borrowing Base Value of all BSLs at such time, zero; and
+
+ (2) if the aggregate Asset Price Differentials of all such BSLs at such time is equal to or in excess of 10% of the aggregate Borrowing Base Value of all BSLs at such time, the aggregate Asset Price Differentials thereof;
+
+ (c) for each Collateral Obligation that does not satisfy the Collateral Obligation Criteria at such time, the product of:
+
+ (1) the Assigned Price of such Collateral Obligation; and
+
+ (2) the Collateral Obligation Notional Amount thereof at such time;
+
+ (d) the GS/BCSF I FX Exposure at such time; and
+
+ (e) for each Unhedged Asset at such time, the Unhedged FX Exposure therefor (if any) at such time,
+
+ provided that the Required Amount on any day shall be reduced (but not below zero) by the amount (the “ Adjusted Borrowing Base Excess ”, if any, on such day) by which the Borrowing
+
+ 9 
+
+ Base (determined, for this purpose, valuing the Collateral Obligations that are the subject of Value Adjustment Events at their respective Revalued Prices, and excluding Collateral Obligations that do not satisfy the Collateral Obligation Criteria at such time) exceeds the aggregate principal amount of Loans then outstanding . 
+
+ For the avoidance of doubt, at no time shall the Required Amount (or any component thereof, other than the GS/BCSF I FX Exposure) be a negative number.” 
+
+ (c) The third paragraph in Section 2(b) of the Margining Agreement is hereby amended and restated to read in its entirety as follows:
+
+ “Without limiting the foregoing, during the Availability Period, upon request from the Borrower so long as no Default or Event of Default shall have occurred and be continuing, if (I) the Borrower requests the Collateral Agent in writing to transfer funds from the Margin Account to the Principal Collection Account and (II) the Lenders consent thereto (which the Lenders may withhold in their sole and absolute discretion), the Collateral Agent shall, at the direction of the Administrative Agent, transfer such funds according. Any such transfer shall also constitute a “Permitted Use” for purposes hereof.” 
+
+ Section 4. Representations and Warranties . The Borrower represents and warrants to the Lenders and the Administrative Agent that (a) the representations and warranties set forth in Section 4 of the Credit Agreement, and in each of the other Transaction Documents, are true and complete on the date hereof as if made on and as of the date hereof (or, if any such representation or warranty is expressly stated to have been made as of a specific date, such representation or warranty shall be true and correct as of such specific date), and as if each reference in said Section 4 to “this Agreement” included reference to this Amendment (it being agreed that it shall be deemed to be an Event of Default under the Credit Agreement if any of the foregoing representations and warranties shall prove to have been incorrect in any material respect when made), and (b) no Default or Event of Default has occurred and is continuing. 
+
+ Section 5. Conditions Precedent; Fees . The amendments set forth in Sections 2 and 3 hereof shall become effective, as of the date hereof, upon the receipt by the Administrative Agent of counterparts of this Amendment executed by the parties hereto. The Borrower agrees to pay all reasonable fees and expenses of Milbank, Tweed, Hadley & McCloy LLP, special New York counsel for the Administrative Agent, incurred in connection with the preparation and execution of this Amendment. 
+
+ Section 6. Confirmation of Collateral Documents . The Borrower (a) confirms its obligations under the Collateral Documents, (b) confirms that its obligations under the Credit Agreement as amended hereby are entitled to the benefits of the pledges and guarantees, as applicable, set forth in the Collateral Documents, (c) confirms that its obligations under the Credit Agreement as amended hereby constitute “Secured Obligations” (as defined in the Collateral Documents) and (d) agrees that the Credit Agreement as amended hereby is the Credit Agreement under and for all purposes of the Collateral Documents. Each party, by its execution of this Amendment, hereby confirms that the Secured Obligations shall remain in full force and effect, and such Secured Obligations shall continue to be entitled to the benefits of the grant set forth in the Collateral Documents. 
+
+ Section 7. Limited Amendment . The amendments set forth in Sections 2 and 3 above shall be effective only in the specific instances described herein and nothing herein shall be deemed to limit or bar any rights or remedies of any Lender, the Administrative Agent or the Collateral Agent or to constitute an amendment or waiver of any other term, provision or condition of any of the Transaction Documents in any other instance than as expressly set forth herein or prejudice any right or remedy that any Lender, the Administrative Agent or the Collateral Agent may now have or may in the future have under any of the Transaction Documents. For the avoidance of doubt and without limiting the generality of the foregoing, the parties agree that no other change, amendment or consent with respect to the terms and provisions of any of the Transaction Documents (including without limitation the Appendices, Exhibits
+
+ 10 
+
+ and Schedules thereto) is intended or contemplated hereby (which terms and provisions remain unchanged and in full force and effect). 
+
+ Section 8. Miscellaneous . This Amendment may be executed in any number of counterparts, all of which taken together shall constitute one and the same amendatory instrument and any of the parties hereto may execute this Amendment by signing any such counterpart. Delivery of a counterpart by electronic transmission shall be effective as delivery of a manually executed counterpart hereof. This Amendment and any right, remedy, obligation, claim, controversy, dispute or cause of action (whether in contract, tort or otherwise) based upon, arising out of or relating to this Amendment shall be governed by, and construed in accordance with, the law of the State of New York without regard to conflicts of law principles that would lead to the application of laws other than the law of the State of New York. Goldman Sachs Bank USA, as Administrative Agent and the sole Lender, hereby directs the Collateral Agent, the Collateral Custodian and the Collateral Administrator to execute and deliver this Amendment. 
+
+ [Signature pages follow.] 
+
+ 11 
+
+ IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed and delivered as of the day and year first above written. 
+
+ BCSF I, LLC, as Borrower 
+
+ By: 
+
+ /s/ Sally F. Dornaus 
+
+ Name: Sally F. Dornaus 
+
+ Title: Managing Director 
+
+ GOLDMAN SACHS BANK USA, as Administrative Agent 
+
+ By: 
+
+ /s/ Thomas Tormey 
+
+ Name: Thomas Tormey 
+
+ Title: Managing Director 
+
+ GOLDMAN SACHS BANK USA, as Lender 
+
+ By: 
+
+ /s/ Thomas Tormey 
+
+ Name: Thomas Tormey 
+
+ Title: Managing Director 
+
+ U.S. BANK NATIONAL ASSOCIATION, as Collateral Administrator 
+
+ By: 
+
+ /s/ Elaine P. Mah 
+
+ Name: Elaine P. Mah 
+
+ Title: Senior Vice President 
+
+ U.S. BANK NATIONAL ASSOCIATION, as Collateral Agent 
+
+ By: 
+
+ /s/ Elaine P. Mah 
+
+ Name: Elaine P. Mah 
+
+ Title: Senior Vice President 
+
+ U.S. BANK NATIONAL ASSOCIATION, as Collateral Custodian 
+
+ By: 
+
+ /s/ Kenneth Brandt 
+
+ Name: Kenneth Brandt 
+
+ Title: Assistant Vice President 
+
+ Bain - Signature page to Omnibus Amendment No. 1 
+
+ ACKNOWLEDGED AND AGREED :
+
+ BAIN CAPITAL SPECIALTY FINANCE, INC., as 
+
+ Investment Manager 
+
+ By: 
+
+ /s/ Sally F. Dornaus 
+
+ Name: Sally F. Dornaus 
+
+ Title: Managing Director 
+
+ Bain - Signature page to Omnibus Amendment No. 1

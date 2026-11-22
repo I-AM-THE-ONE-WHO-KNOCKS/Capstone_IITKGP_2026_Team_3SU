@@ -1,0 +1,914 @@
+EX-99.1
+ 2
+ d213867dex991.htm
+ EX-99.1
+
+ EX-99.1 
+
+ Exhibit 99.1 
+
+ EXECUTION VERSION 
+
+ UBS AG 
+
+ 100 Liverpool Street 
+
+ London EC2M 2RH 
+
+ Documentation: Tel: +44 207 568 0673 
+
+ Fax: +44 207 568 9895/ 9896 
+
+ Date: 
+
+ June 13, 2016 
+
+ To: 
+
+ Tracinda Corporation (“Party B”) 
+
+ Attention: 
+
+ Daniel Taylor 
+
+ From: 
+
+ UBS AG, LONDON BRANCH (“Party A”) 
+
+ Re: 
+
+ Call Option Transaction 
+
+ UBS AG, LONDON BRANCH Ref: BKP352STM4384190 
+
+ The purpose of this communication (this “Confirmation”) is to confirm the terms and conditions of the above referenced transaction entered into
+between Party A and Party B on the Trade Date specified below (the “Transaction”). This communication constitutes a “Confirmation” as referred to in the 1992 ISDA Master Agreement published by the International Swaps and
+Derivatives Association, Inc. (the “ISDA Form”). 
+ The definitions and provisions contained in the 2006 ISDA Definitions (the “2006
+Definitions”) and in the 2002 ISDA Equity Derivatives Definitions (the “Equity Definitions”, and together with the 2006 Definitions, the “Definitions”), in each case as published by the International Swaps and Derivatives
+Association, Inc., are incorporated into this Confirmation. In the event of any inconsistency between the 2006 Definitions and the Equity Definitions, the Equity Definitions will govern. In the event of any inconsistency between either set of
+Definitions and this Confirmation, this Confirmation will govern. 
+ This Confirmation evidences a complete binding agreement between you and us as to the
+terms of the Transaction to which this Confirmation relates. This Confirmation shall supplement, form a part of, and be subject to an agreement in the form of the ISDA Form as if we had executed an agreement in such form (but without any Schedule
+except for the election of U.S. Dollars as the Termination Currency and such other elections and modifications detailed herein referring to the ISDA Form) (the “Agreement”) on the Trade Date. In addition, you and we hereby amend the
+Agreement by making the form of the bilateral form 1994 ISDA Credit Support Annex (to the Schedule to ISDA Agreements Subject to New York Law Only) (the “ISDA Credit Support Annex”) (as amended and supplemented herein) a part of the
+Agreement. In the event of any inconsistency between the provisions of the ISDA Credit Support Annex or the Agreement and this Confirmation, this Confirmation will prevail. For the avoidance of doubt, the Transaction shall be the only transaction
+under the Agreement. 
+ The terms of the Transaction are as follows: 
+
+ General Terms 
+
+ Trade Date: 
+
+ June 13, 2016 (time of execution available upon request) 
+
+ Tranches: 
+
+ This Transaction will be divided into ten (10) individual Tranches, each with the terms set forth in this Confirmation. The payments and deliveries to be made upon settlement of each Tranche will be determined separately for each
+Tranche as if each Tranche were a separate Transaction under the Agreement having the respective Number of Options and Valuation Date set forth in Schedule A to this Confirmation. 
+
+ Option Style: 
+
+ European 
+
+ Option Type: 
+
+ Call 
+
+ Seller: 
+
+ Party B 
+
+ Buyer: 
+
+ Party A 
+
+ Shares: 
+
+ Common stock of MGM Resorts International (the “Issuer”) (Symbol: MGM) 
+
+ Number of Options: 
+
+ For each Tranche, as provided in Schedule A to this Confirmation 
+
+ Multiplier: 
+
+ 1 
+
+ Strike Price: 
+
+ USD23.9363 
+
+ Premium: 
+
+ USD42,400,000 
+
+ Premium Payment Date: 
+
+ Three Currency Business Days after the Trade Date 
+
+ Exchange: 
+
+ New York Stock Exchange 
+
+ Related Exchange(s): 
+
+ All Exchanges 
+
+ Expiration Time: 
+
+ The Valuation Time 
+
+ Expiration Date: 
+
+ The Valuation Date. 
+
+ Automatic Exercise: 
+
+ Applicable 
+
+ Valuation 
+
+ Valuation Time: 
+
+ The Scheduled Closing Time on the Exchange 
+
+ Valuation Date: 
+
+ For each Tranche, as provided in Schedule A to this Confirmation; provided that, if the scheduled Valuation Date for any Tranche is a Disrupted Day, the Valuation Date for such Tranche shall be the first succeeding
+Scheduled Trading Day that is not a Disrupted Day and is not or is not deemed to be a Valuation Date in respect of any other Tranche; provided further that, if such Valuation Date has not occurred pursuant to this clause as of the eighth
+Scheduled Trading Day following the last scheduled Valuation Date for this Transaction, then the Calculation Agent shall have the right to declare such Scheduled Trading Day to be the final Valuation Date, in which case the VWAP Price for that
+eighth Scheduled Trading Day shall be the Calculation Agent’s good faith estimate of the fair market value of a Share as of the Valuation Time on that eighth Scheduled Trading Day or on any subsequent Scheduled Trading Day, as the Calculation
+Agent shall determine using commercially reasonable means. Notwithstanding the foregoing and anything to the contrary in the Equity Definitions, if a Market Disruption Event occurs on any Valuation Date, the Calculation Agent may determine that such
+Valuation Date is a Disrupted Day only in part, in which case the Calculation Agent shall make adjustments to the Number of Options for the relevant Tranche for which such day shall be the Valuation Date and shall designate the Scheduled Trading Day
+determined in the manner described in the immediately preceding sentence as the Valuation Date for the remaining Options for such Tranche. Section 6.6 of the Equity Definitions shall not apply to any Valuation Date. 
+
+ Page 2 of 16 
+
+ Settlement Terms 
+
+ Settlement Method Election: 
+
+ Applicable; provided that a single Settlement Method shall apply for all Tranches 
+
+ Electing Party: 
+
+ Party B 
+
+ Settlement Method Election Date: 
+
+ Five Business Days prior to the Expiration Date of the Tranche with the earliest Expiration Date 
+
+ Default Settlement Method: 
+
+ Physical 
+
+ Settlement Currency: 
+
+ USD 
+
+ Cash Settlement Payment Date: 
+
+ Three Currency Business Days after the Valuation Date 
+
+ Settlement Price: 
+
+ If Cash Settlement is applicable, means the Relevant Price on each Valuation Date 
+
+ Relevant Price: 
+
+ For each Valuation Date, the VWAP Price on such Valuation Date 
+
+ VWAP Price: 
+
+ For any Exchange Business Day, the per-Share volume weighted average price based on transactions executed in the United States as displayed under the heading “Bloomberg VWAP” on Bloomberg page “MGM US
+<equity> AQR” (or any successor thereto) in respect of the period from the scheduled open of trading on the Exchange until the Scheduled Closing Time on such Exchange Business Day or, in the event such price is not so reported on such
+Exchange Business Day for any reason or is erroneous, as determined by the Calculation Agent. Notwithstanding the foregoing, if (i) any Valuation Date is a Disrupted Day only in part and (ii) the Calculation Agent determines that such Valuation Date
+shall be the Valuation Date for fewer than the full Number of Options for the Tranche to which such Valuation Date corresponds, then the VWAP Price for such Expiration Date shall be a volume-weighted average price per Share on such Expiration Date,
+as determined by the Calculation Agent based on such sources as it reasonably deems appropriate, taking into account the nature and duration of the relevant Market Disruption Event. 
+
+ Share Adjustments 
+
+ Method of Adjustment: 
+
+ Calculation Agent Adjustment; provided, however, that (i) Section 11.2(c) of the Equity Definitions is deemed amended by the deletion of
+the words “(provided that no adjustments will be made to account solely for changes in volatility, expected dividends, stock loan rate or liquidity relative to the relevant Share)” and replacing them with the following: “(and, for the
+avoidance of doubt, adjustments may be made to account solely for changes in volatility, expected dividends, stock loan rate or liquidity relative to the relevant Shares)”; (ii) Section 11.2(a) of the Equity Definitions is deemed amended by
+deleting the words “a diluting or concentrative” and replacing them with “an” and adding the following words at the end thereof “or options on such Shares”; (iii) Section 11.2(c) of the Equity Definitions is hereby
+amended by replacing the words “a diluting or concentrative” with “an”; and (iv) Section 11.2(e)(vii) of the Equity Definitions is hereby amended by deleting the words “a diluting or concentrative” and replacing them
+with the word “an” and adding the following words at the end thereof “or options on such Shares”.
+
+ “Extraordinary Dividend” shall mean any cash dividend or distribution paid in respect of the Shares.
+
+ Page 3 of 16 
+
+ Extraordinary Events 
+
+ Consequences of Merger Events 
+
+ Share-for-Share: 
+
+ Modified Calculation Agent Adjustment 
+
+ Share-for-Other: 
+
+ Cancellation and Payment - Calculation Agent Determination 
+
+ Share-for-Combined: 
+
+ Component Adjustment 
+
+ Tender Offer: 
+
+ Applicable 
+
+ Consequences of Tender Offers: 
+
+ Share-for-Share: 
+
+ Modified Calculation Agent Adjustment 
+
+ Share-for-Other: 
+
+ Modified Calculation Agent Adjustment 
+
+ Share-for-Combined: 
+
+ Modified Calculation Agent Adjustment 
+
+ Composition of Combined Consideration: 
+
+ Not Applicable 
+
+ Nationalization, Insolvency or Delisting: 
+
+ Cancellation and Payment - Calculation Agent Determination 
+
+ Limitation on Certain Adjustments: 
+
+ Notwithstanding any provision of the Equity Definitions or this Confirmation to the contrary, no adjustment solely to account for changes in volatility, expected dividends, stock loan rate or liquidity relevant to the Shares or
+to the Transaction as a result of a Potential Adjustment Event or an Extraordinary Event shall increase the Number of Shares for any Tranche. Notwithstanding any provision of the Equity Definitions or this Confirmation to the contrary, if the
+Calculation Agent determines that no such adjustment that it could make in accordance with the preceding sentence will produce a commercially reasonable result, then the Calculation Agent may notify the parties that the consequence of such event
+shall be the termination of the Transaction, in which case “Cancellation and Payment” will be deemed to apply and any payment to be made by one party to the other shall be calculated in accordance with Section 12.7 of the Equity
+Definitions and the Calculation Agent shall determine the amount of such payment as if “Calculation Agent Determination” applied. 
+
+ Additional Disruption Events 
+
+ Change in Law: 
+
+ Applicable; provided that Section 12.9(a)(ii) of the Equity Definitions is hereby amended by (A) adding the words “(including, for the avoidance of doubt and without limitation, the adoption or promulgation of new
+regulations authorized or mandated by existing statute)” after the end of the parenthetical spanning the second and third lines thereof, and (B) adding the words “or hedging,” after the word “performing” in clause (Y)
+thereto. 
+
+ Hedging Disruption: 
+
+ Applicable; provided that: (i) Section 12.9(a)(v) of the Equity Definitions is hereby amended by inserting the following two sentences at the end of such Section: “For the avoidance of doubt, the term “equity
+price risk” shall be deemed to include, but shall not be limited to, stock price and volatility risk. And, for the further avoidance of doubt, any such transactions or assets referred to in phrases (A) or (B) above must be available on
+commercially reasonable pricing terms.”; and (ii) Section 12.9(b)(iii) of the Equity Definitions is hereby amended by inserting in the third line thereof, after the words “to terminate the Transaction”, the words “or a portion of
+the Transaction affected by such Hedging Disruption”. 
+
+ Page 4 of 16 
+
+ Increased Cost of Hedging: 
+
+ Applicable 
+
+ Hedging Party: 
+
+ Party A 
+
+ Increased Cost of Stock Borrow: 
+
+ Applicable 
+
+ Initial Stock Loan Rate: 
+
+ 50 basis points per annum 
+
+ Loss of Stock Borrow: 
+
+ Applicable 
+
+ Maximum Stock Loan Rate: 
+
+ 50 basis points per annum 
+
+ Determining Party: 
+
+ Party A 
+
+ Additional Provisions 
+
+ Calculation Agent: 
+
+ Party A 
+
+ Market Disruption Event: 
+
+ Section 6.3(a) of the Equity Definitions is hereby amended by (x) deleting the words “during the one hour period that ends at the
+relevant Valuation Time, Latest Exercise Time, Knock-in Valuation Time or Knock-out Valuation Time, as the case may be” in clause (ii) thereof and (y) replacing the words “or (iii) an Early Closure.” therein with “(iii) an Early
+Closure or (iv) a Regulatory Disruption.”
+
+ Section 6.3(d) of the Equity
+Definitions is hereby amended by deleting the remainder of the provision following the term “Scheduled Closing Time” in the fourth line thereof.
+
+ Regulatory Disruption: 
+
+ Party A reasonably concludes, in its sole discretion, that it is appropriate with respect to any legal, regulatory or self-regulatory requirements or related policies and procedures (whether or not such requirements, policies or
+procedures are imposed by law or have been voluntarily adopted by Party A), including without limitation in the event of any third-party tender offer, for it to refrain from engaging in market transactions relating to the Shares or to reduce the
+number or size of any such market transactions. 
+
+ Role of Agent: 
+
+ UBS Securities LLC shall act as agent (the “Agent”) for Party A and Party B within the meaning of Rule 15a-6 under the Exchange Act of 1934 in connection with this Transaction. Each party agrees and acknowledges that
+(i) the Agent acts solely as agent on a disclosed basis with respect to the transactions contemplated hereunder, and (ii) the Agent has no obligation, by guaranty, endorsement or otherwise, with respect to the obligations of either Party A or Party
+B hereunder. In this regard, each of Party A and Party B acknowledges and agrees to look solely to the other for performance hereunder, and not to the Agent. Party A is not a member of the Securities Investor Protection Corporation (SIPC). 
+
+ Account Details 
+
+ Account for payments to Party A: 
+
+ UBS AG, London Branch 
+
+ Currency: 
+
+ USD 
+
+ Correspondent Bank: 
+
+ UBS AG, STAMFORD 
+
+ Page 5 of 16 
+
+ Swift Address: 
+
+ UBSWUS33XXX 
+
+ Favour: 
+
+ UBS AG, LONDON BRANCH 
+
+ Swift Address: 
+
+ UBSWGB2L 
+
+ Account No: 
+
+ 101-WA-140007-000 
+
+ Account for payments to Party B: 
+
+ Party B to advise 
+
+ Relationship Between Parties 
+
+ Each party will be deemed to represent to the other party on the date on which it enters into this Transaction that (in the absence of any written agreement
+between the parties which expressly imposes affirmative obligations to the contrary for this Transaction): 
+ (A) Non-Reliance. It is acting for its
+own account, and it has made its own independent decision to enter into this Transaction and as to whether this Transaction is appropriate or proper for it based upon its own judgment and upon advice from such advisers as it has deemed necessary. It
+is not relying on any communication (written or oral) of the other party as investment advice or as a recommendation to enter into this Transaction, it being understood that information and explanations related to the terms and conditions of this
+Transaction will not be considered investment advice or a recommendation to enter into this Transaction. No communication (written or oral) received from the other party will be deemed to be an assurance or guarantee as to the expected results of
+this Transaction. 
+ (B) Assessment And Understanding. It is capable of assessing the merits of and understanding (on its own behalf or through
+independent professional advice), and understands and accepts, the terms, conditions and risks of this Transaction. It is also capable of assuming, and assumes, the risks of this Transaction. 
+
+ (C) Status Of The Parties. The other party is not acting as a fiduciary for or an adviser to it in respect of this Transaction. 
+
+ Non-Reliance: 
+
+ Applicable 
+
+ Agreements and Acknowledgements 
+
+ Regarding Hedging Activities: 
+
+ Applicable 
+
+ Additional Acknowledgements: 
+
+ Applicable 
+
+ Additional Modifications to and Elections under the ISDA Form: 
+
+ A. 
+ Governing Law and Consent to Jurisdiction : 
+ The Transaction will be governed by and construed in
+accordance with the laws of New York (without reference to choice of law doctrine). Solely as between the parties hereto, and relating solely to matters arising concerning this Transaction, each party irrevocably submits to the non-exclusive
+jurisdiction of the courts of the state of New York and the United States District Court located in the Borough of Manhattan in the City of New York, and waives any objection which it may have at any time to the laying of venue of any proceedings
+concerning this Transaction brought in such court, waives any claim that such proceedings have been brought in an inconvenient forum and further waives the right to object that such court does not have jurisdiction over any party. 
+
+ B. 
+ Representations and Warranties : 
+
+ (i) 
+ Party A and Party B each hereby represents, warrants and agrees as follows: 
+
+ (a) 
+ it is duly organized and validly existing under the laws of the jurisdiction of its organization or incorporation and, if relevant under such laws, in good standing; 
+
+ Page 6 of 16 
+
+ (b) 
+ it has the corporate power to execute and deliver this Confirmation and to perform its obligations under this Confirmation and the Transaction evidenced hereby; 
+
+ (c) 
+ such execution, delivery and performance do not violate or conflict with any law applicable to it, any provision of its constitutional documents, any order or judgement of any court or other agency of government binding
+upon it or any material contract binding on or affecting it or any of its assets; 
+
+ (d) 
+ all governmental and other consents that are required to have been obtained by it with respect to this Confirmation and the Transaction evidenced hereby have been obtained and are in full force and effect and all
+material conditions of any such consents have been complied with; 
+
+ (e) 
+ its obligations under this Confirmation and the Transaction evidenced hereby constitute its legal, valid and binding obligations, enforceable in accordance with their respective terms (subject to applicable bankruptcy,
+reorganization, insolvency, moratorium or similar laws affecting creditors’ rights generally and subject, as to enforceability, to equitable principles of general application (regardless of whether enforcement is sought in a proceeding in
+equity or at law)); 
+
+ (f) 
+ it is not required by any applicable law, as modified by the practice of any relevant governmental revenue authority, of any relevant jurisdiction to make any deduction or withholding for or on account of any tax from
+any payment to be made by it to the other party under this Confirmation and the Transaction evidenced hereby; 
+
+ (g) 
+ its payment obligations hereunder rank and will rank at all times at least pari passu in all respects with all of its other unsecured obligations (except for those which are preferred by operation of law);
+
+ (h) 
+ it is entering into this Confirmation and the Transaction evidenced hereby as principal (and not as agent or in any other capacity, fiduciary or otherwise); 
+
+ (i) 
+ each party makes the following representations, warranties and covenants with respect to the Transaction: 
+
+ (I) 
+ each party is entering into the Transaction for its own account as principal, and not with a view to, or for, resale, distribution or fractionalization thereof, in whole or in part; 
+
+ (II) 
+ each party acknowledges its understanding that the offer and sale of the Transaction with the other party is intended to be exempt from registration under the United States Securities Act of 1933, as amended (the
+“Securities Act”), by virtue of Section 4(a)(2) of the Securities Act. In furtherance thereof, each party represents and warrants to the other party that (i) it has the financial ability to bear the economic risk of its
+investment, including a loss of its entire investment, (ii) it is an “accredited investor” as that term is defined under Regulation D under the Securities Act, (iii) it has the knowledge and experience of investing in instruments
+similar to the Transaction as to be capable of evaluating the risks and merits of the Transaction and has, or has had an opportunity to request, such information as it deemed necessary to make such evaluation, and (iv) it has had access to such
+information regarding the Transaction and the other party as it requested; and 
+
+ (III) 
+ each party understands that the Transaction has not been, and is not intended to be, registered under the Securities Act or under the securities laws of certain states and, therefore, cannot be resold, pledged, assigned
+or otherwise disposed of if an exemption from such registration is not available. Neither party is obliged to register the Transaction or to assist the offeree in complying with any exemption from registration under the Securities Act or state
+securities laws; 
+ the representations, warranties and covenants set forth in this clause (i) will be correct and
+complied with in all respects at all times so long as the parties continue to have obligations and duties to each other hereunder as if repeated then, by reference to then existing circumstances; 
+
+ (j) 
+ this Transaction is a “securities contract” as defined in Section 741(7) of the Bankruptcy Code and a “swap agreement” as defined in Section 101(53B) of the Bankruptcy Code, and the parties
+hereto intend that Party A be entitled to the protections afforded by, among other Sections, Sections 362(b)(6), 362(b)(17), 362(b)(27), 362(o), 546(e), 546(g), 546(j), 555, and 560 of the Bankruptcy Code; and 
+
+ Page 7 of 16 
+
+ (k) 
+ the parties intend that this Confirmation constitutes a “binding commitment” as described in the letter dated December 14, 1999 submitted by Robert W. Reeder and Alan L. Beller to Michael Hyatte of the
+staff of the Securities and Exchange Commission (the “Staff”) to which the Staff responded in an interpretative letter dated December 20, 1999 (the “1999 Interpretive Letter”) or a “contract” as described in the
+letter dated November 30, 2011 submitted by Robert T. Plesnarski and Glen A. Rae to Thomas Kim of the Staff to which the Staff responded in an interpretive letter dated December 1, 2011 (the “2011 Interpretive Letter” and,
+together with the 1999 Interpretive Letter, the “Interpretive Letters”). 
+
+ (ii) 
+ Party A hereby further represents, warrants and agrees that Party A will conduct its hedging activity in accordance with the Interpretive Letters, it being understood that Party A will introduce into the public market a
+quantity of securities of the same class equal to the maximum number of Shares deliverable on settlement of this Transaction in a manner consistent with the manner-of-sale conditions described in Rule 144(f) and (g) under the Securities Act.
+
+ (iii) 
+ Party B hereby further represents, warrants and agrees as follows: 
+
+ (a) 
+ Party B is not aware of any material non-public information or unpublished price sensitive information with respect to the Shares that, under applicable securities laws, it would have to disclose before effecting a
+purchase or sale of the Shares; 
+
+ (b) 
+ Party B does not know or have any reason to believe that the Issuer has not complied with the reporting requirements contained in Rule 144(c)(1) under the Securities Act; 
+
+ (c) 
+ on the date hereof, Party B shall file, or shall cause to be filed, in the manner contemplated by Rule 144(h) under the Securities Act, a notice on Form 144 relating to the transactions contemplated hereby in form and
+substance acceptable to Party A; 
+
+ (d) 
+ Party B acknowledges that: 
+
+ (I) 
+ during the term of the Transaction, Party A and its affiliates may buy or sell Shares or other securities or buy or sell options or futures contracts or enter into swaps or other derivative securities in order to
+establish, adjust or unwind its hedge position with respect to the Transaction; 
+
+ (II) 
+ Party A and its affiliates may be active in the market for the Shares other than in connection with hedging activities in relation to this Transaction; 
+
+ (III) 
+ any market activities of Party A and its affiliates with respect to the Shares may affect the market price and volatility of the Shares, as well as the Relevant Price, each in a manner that may be adverse to Party B;
+
+ (e) 
+ Party B is not relying, and has not relied, upon Party A or any of its affiliates with respect to the legal, accounting, tax or other implications of entering into this Transaction. In addition, Party B has conducted
+its own analysis of the legal, accounting, tax and other implications of entering into this Transaction. Counterparty further acknowledges and agrees that neither Party A nor any of its affiliates have acted as its advisor in any capacity in
+connection with this Transaction; 
+
+ (f) 
+ Party B is not, and after giving effect to application of the Premium will not be, required to register as an “investment company” as such term is defined in the Investment Company Act of 1940, as amended;
+
+ (g) 
+ without limiting any representation contained in Section 3(a)(iii) of the Agreement or elsewhere in this Confirmation, Party B represents that the execution, delivery and performance of this Confirmation and any
+other documentation relating to this Confirmation to which it is a party do not violate or conflict with any of the terms or provisions of any stockholders’ agreement, lockup agreement, registration rights agreement or co-sale agreement binding
+on Party B or affecting Party B or any of its assets; 
+
+ (h) 
+ (I) on or prior to the Trade Date, Party B shall deliver to Party A or its designee as Posted Collateral (as
+defined in the ISDA Credit Support Annex) a number of Shares equal to the aggregate Number of Shares for all Tranches, free and clear of all liens, in book-entry form through the facilities of The Depositary Trust Company; (II) with respect to such
+Shares, Party B’s holding period (calculated in accordance with Rule 144(d) under the Securities Act) commenced on February 19, 1988; and (III) such Shares are not, and will not at any time prior to the Expiration Date of the Tranche with
+the latest Expiration Date be, subject to any Transfer Restriction (other than (a) on account of the fact 
+
+ Page 8 of 16 
+
+that Party B is an affiliate of the Issuer for purposes of Rule 144 under the Securities Act or (b) pursuant to applicable gaming regulations), where for such purpose “Transfer
+Restriction” means any condition to or restriction on the ability of the holder thereof to sell, assign or otherwise transfer such Shares or to enforce the provisions thereof or of any document related thereto whether set forth in such Shares
+or in any document related thereto, including without limitation (w) any requirement that any sale, assignment or other transfer or enforcement of such Shares be consented to or approved by any person, including without limitation the Issuer,
+(x) any limitations on the type or status, financial or otherwise, of any purchaser, pledgee, assignee or transferee of such Shares, (y) any requirement of the delivery of any certificate, consent, agreement, opinion of counsel, notice or
+any other document of any person to the Issuer or any registrar or transfer agent for such Shares prior to the sale, pledge, assignment or other transfer or enforcement of such Shares and (z) any registration or qualification requirement or
+prospectus delivery requirement for such Shares pursuant to any federal, state or foreign securities law (including without limitation any such requirement arising under the Securities Act); 
+
+ (i) 
+ from the date that is three months prior to the Trade Date until and including the date that is 60 Scheduled Trading Days after the Trade Date, and during the period from and including the date that is 30 Scheduled
+Trading Days prior to the Expiration Date for the Tranche with the earliest Expiration Date to and including the date that is 30 Scheduled Trading Days after the Expiration Date for the Tranche with the latest Expiration Date, neither Party B nor
+any affiliate of Party B nor any person who would be considered to be the same “person” as Party B or “act[ing] in concert” with Party B (as such terms are used in clauses (a)(2) and (e)(3)(vi) of Rule 144 under the Securities
+Act) has sold or will, without the written consent of Party A, sell, or hedge (through swaps, options, short sales or otherwise) any long position in, any Shares; Party B has not solicited or arranged for the solicitation of, and will not solicit or
+arrange for the solicitation of, orders to buy Shares in anticipation of or in connection with any sales of Shares that Party A (or an affiliate of Party A) may effect in establishing its initial hedge position with respect to the Transaction; Party
+B has not made or arranged for, and will not make or arrange for, any payment to any person in connection with any sales of Shares that Party A (or an affiliate of Party A) may effect in establishing its initial hedge position with respect to the
+Transaction; for the purposes of this clause (i), Shares shall be deemed to include securities convertible into or exchangeable or exercisable for Shares; 
+
+ (j) 
+ Party B will not sell any call option or purchase any put option on any Shares or enter into any substantially similar transaction with respect to Shares, in each case, with an exercise date falling within the period
+from and including the date that is 30 Scheduled Trading Days prior to the Expiration Date for the Tranche with the earliest Expiration Date to and including the date that is 30 Scheduled Trading Days after the Expiration Date for the Tranche with
+the latest Expiration Date; 
+
+ (k) 
+ none of the transactions contemplated herein will violate any corporate policy of the Issuer or other rules or regulations of the Issuer applicable to Party B or its affiliates, including, but not limited to, the
+Issuer’s black-out policy; 
+
+ (l) 
+ Party B is and, after giving effect to the Transaction, will be in compliance with its reporting obligations under Section 16 and Section 13 of the Securities Exchange Act of 1934, as amended (the
+“Exchange Act”), and Party B will provide Party A with a copy of any report filed thereunder in respect of the Transaction promptly upon filing thereof; 
+
+ (m) 
+ Party B owns (as such term is used in Rule 16c-4 under the Exchange Act) a number of Shares (including the Shares pledged pursuant to the ISDA Credit Support Annex), after subtracting the number of Shares to which any
+put equivalent positions (as defined in Rule 16a-1(h) under the Exchange Act) have been established or are maintained by Party B (other than any put equivalent position established as a result of the Transaction), at least equal to the aggregate
+Number of Shares for all Tranches; 
+
+ (n) 
+ Party B shall not become, and shall not take any action that with the passage of time or the satisfaction of conditions would or would reasonably be expected to cause it to become, an “affiliate” of the Issuer
+(as such term is defined in Section 101(2) of Title 11 of the United States Code); 
+
+ (o) 
+ none of Party B, its affiliates or the Issuer has commenced or taken a substantial step or steps to commence a tender offer within the meaning of Rule 14e-3 under the Exchange Act; 
+
+ (p) 
+ none of Party B, its affiliates or the Issuer is on the Trade Date engaged in a distribution, as such term is used in Regulation M under the Exchange Act, of any securities of the Issuer; and 
+
+ Page 9 of 16 
+
+ (q) 
+ Party B shall, upon obtaining knowledge of the occurrence of any event that would, with the giving of notice, the passage of time or the satisfaction of any condition, constitute an Event of Default in respect of which
+it would be the Defaulting Party, a Termination Event in respect of which it would be an Affected Party, a Potential Adjustment Event or an Extraordinary Event (including without limitation an Additional Disruption Event), notify Party A within one
+Scheduled Trading Day of the occurrence of obtaining such knowledge. 
+
+ C. 
+ Limit on Beneficial Ownership : 
+ Notwithstanding any other provisions hereof, Party A may not exercise
+any Option hereunder or be entitled to exercise any right of rehypothecation under the ISDA Credit Support Annex or otherwise be entitled to take delivery of any Shares deliverable hereunder or exercise remedies as described in the ISDA Credit
+Support Annex in respect of Shares constituting Posted Collateral (any such exercise, exercise of rehypothecation rights, delivery or exercise of remedies, a “Share Acquisition”) and Automatic Exercise shall not apply with respect to any
+Option hereunder to the extent (but only to the extent) that, after such Share Acquisition, (i) the Section 16 Percentage would exceed 4.5%, or (ii) the Share Amount would exceed the Applicable Share Limit. Any purported Share
+Acquisition hereunder shall be void and have no effect to the extent (but only to the extent) that, after such Share Acquisition, (i) the Section 16 Percentage would exceed 4.5%, or (ii) the Share Amount would exceed the Applicable
+Share Limit. If any Share Acquisition hereunder is not made, in whole or in part, as a result of this provision, Party B’s obligations in respect of such Share Acquisition shall not be extinguished and Party B shall fulfill such obligations as
+promptly as practicable after, but in no event later than one Business Day after, Party A gives notice to Party B that, after such Share Acquisition, (i) the Section 16 Percentage would not exceed 4.5%, and (ii) the Share Amount would
+not exceed the Applicable Share Limit. “Section 16 Percentage” as of any day is the fraction, expressed as a percentage, (A) the numerator of which is the number of Shares that Party A and each person subject to aggregation of Shares
+with Party A under Section 13 or Section 16 of the Exchange Act and rules promulgated thereunder directly or indirectly beneficially own (as defined under Section 13 or Section 16 of the Exchange Act and rules promulgated
+thereunder) and (B) the denominator of which is the number of Shares outstanding. The “Share Amount” as of any day is the number of Shares that Party A and any person whose ownership position would be aggregated with that of Party A
+(Party A or any such person, a “Party A Person”) under any law, rule, regulation or regulatory order or any organizational documents of the Issuer or any agreement to which Party B is a party that are, in each case, applicable to ownership
+of Shares (“Applicable Restrictions”), owns, beneficially owns, constructively owns, controls, holds the power to vote or otherwise meets a relevant definition of ownership of under any Applicable Restriction, as determined by Party A in
+its reasonable discretion. The “Applicable Share Limit” means a number of Shares equal to (A) the minimum number of Shares that could give rise to reporting or registration obligations or other requirements (including obtaining prior
+approval from any person or entity) of a Party A Person, or would result in an adverse effect on a Party A Person, under any Applicable Restriction, as determined by Party A in its reasonable discretion, minus (B) 1% of the number of
+Shares outstanding. 
+
+ D. 
+ Right to Extend : 
+ Party A may postpone, in whole or in part, any Valuation Date or any other date of
+valuation or delivery with respect to some or all of the relevant Options (in which event the Calculation Agent shall make appropriate adjustments to the Number of Options with respect to one or more Tranches) if Party A determines, in its
+commercially reasonable judgment, that such extension is reasonably necessary or appropriate to preserve Party A’s hedging or hedge unwind activity hereunder in light of existing liquidity conditions or to enable Party A to effect purchases or
+sales of Shares in connection with its hedging, hedge unwind or settlement activity hereunder in a manner that is in compliance with applicable legal, regulatory or self-regulatory requirements, or with related policies and procedures applicable to
+Party A. 
+
+ E. 
+ Indemnification : 
+ In addition to any remedies afforded Party A in connection with the Transaction or
+under this Confirmation, Party B agrees to indemnify and hold harmless Party A and its affiliates and their respective officers, directors, employees, affiliates, advisors, agents and controlling persons (each, an “Indemnified Person”)
+from and against any and all losses, claims, damages, judgments, liabilities and expenses (including reasonable attorney’s fees), joint or several (collectively, “Damages”), to which an Indemnified Person may become subject arising
+out of or in connection with the Transaction and this Confirmation, including without limitation any losses, claims, damages, judgments, liabilities and expenses due, in whole or in part, to any breach of any covenant or representation made by Party
+B in the Agreement and this Confirmation or any claim, litigation, investigation or proceeding relating thereto, regardless of whether any of such Indemnified Persons is a party thereto, and to reimburse, within 30 days, upon written request, each
+of such Indemnified Persons for any reasonable legal or other expenses incurred in connection with investigating, preparing for, providing testimony or other evidence in connection with or defending any of the foregoing; provided that Party B
+shall not have any liability to any Indemnified Person to the extent that such Damages are finally determined by a court of competent jurisdiction to have directly resulted from the gross negligence or willful misconduct of such Indemnified Person
+or breach by Party A of an express provision of this Confirmation (and in such case, such Indemnified Person shall promptly return to Party B any amounts previously expended by Party B hereunder). 
+
+ Page 10 of 16 
+
+ F. 
+ Additional Termination Event : 
+ It shall constitute an Additional Termination Event with respect to which
+the Transaction shall be the sole Affected Transaction, Party B shall be the sole Affected Party and Party A shall be the party entitled to designate an Early Termination Date pursuant to Section 6 of the Agreement if Party B shall at any time
+directly or indirectly own, control or hold with power to vote 18 percent or more of the outstanding voting securities of the Issuer. 
+
+ G. 
+ Specified Entity : 
+ “Specified Entity” means in relation to Party A for the purpose of: 
+
+ Section 5(a)(v), 
+
+ NONE 
+
+ Section 5(a)(vi), 
+
+ NONE 
+
+ Section 5(a)(vii), 
+
+ NONE 
+
+ Section 5(b)(iv), 
+
+ NONE 
+
+ and in relation to Party B for the purpose of: 
+
+ Section 5(a)(v), 
+
+ NONE 
+
+ Section 5(a)(vi), 
+
+ NONE 
+
+ Section 5(a)(vii), 
+
+ NONE 
+
+ Section 5(b)(iv), 
+
+ NONE 
+
+ H. 
+ Cross-Default : 
+ The “Cross Default” provisions of Section 5(a)(vi) of the ISDA Form, as
+modified below, will apply to Party A and to Party B. Section 5(a)(vi) of ISDA Form is hereby amended by the addition of the following at the end thereof: 
+
+ “provided, however, that notwithstanding the foregoing, an Event of Default shall not occur under either (1) or (2) above if, as
+demonstrated to the reasonable satisfaction of the other party, (a) the event or condition referred to in (1) or the failure to pay referred to in (2) is a failure to pay caused by an error or omission of an administrative or
+operational nature; and (b) funds were available to such party to enable it to make the relevant payment when due; and (c) such relevant payment is made within three Business Days following receipt of written notice from an interested
+party of such failure to pay.” 
+ Section 5(a)(vi) of the ISDA Form is hereby further amended by deleting the following text from the seventh line
+“, or becoming capable at such time of being declared”. 
+ “Specified Indebtedness” means any obligation (whether
+present or future, contingent or otherwise, as principal or surety or otherwise) for the payment or repayment of any money. 
+
+ “Threshold Amount” means, with respect to Party A, an amount equal to 2% of shareholders’ equity (howsoever described) of Party
+A as shown on the most recent annual audited financial statements of Party A, and, with respect to Party B or any Specified Entity, an amount equal to USD 10,000,000.00. 
+
+ I. 
+ Payments on Early Termination : 
+ For the purpose of Section 6(e) of the ISDA Form: 
+
+ (i) 
+ Loss will apply. 
+
+ (ii) 
+ The Second Method will apply. 
+
+ Page 11 of 16 
+
+ J. 
+ Credit Support Document : 
+ The Account Control Agreement dated as of June 13, 2016 (the
+“Account Control Agreement”) among Party A, Party B and UBS Securities LLC relating to the Shares is a Credit Support Document under the Agreement. 
+
+ Modifications to the ISDA Credit Support Annex. 
+ The ISDA
+Credit Support Annex is modified and supplemented as set forth below: 
+
+ (a) 
+ The term “Obligations” as used in the ISDA Credit Support Annex means obligations of Party B only under the Transactions described in this Confirmation. 
+
+ (b) 
+ Subparagraph (i) of Paragraph 7 of the ISDA Credit Support Annex is hereby amended by deleting the phrase “and that failure continues for two Local Business Days after notice of that failure is given to that
+party.” 
+
+ (c) 
+ For purposes of this Transaction only, for purposes of Paragraph 13 of the ISDA Credit Support Annex (as defined in this Confirmation): 
+
+ (i) 
+ “ Exposure ” means zero; 
+
+ (ii) 
+ “ Credit Support Amount ” means the Independent Amount; 
+
+ (iii) 
+ “ Independent Amount ” means a number of Shares equal to the Number of Options multiplied by the Option Entitlement; 
+
+ (iv) 
+ “ Eligible Collateral ” means Shares free from Transfer Restrictions, cash and other collateral acceptable to Secured Party; 
+
+ (v) 
+ “ Other Eligible Support ” includes no other items; 
+
+ (vi) 
+ “ Valuation Agent ” means the Secured Party; 
+
+ (vii) 
+ “ Valuation Date ” means the Trade Date and every Exchange Business Day thereafter until the Expiration Date of the Tranche with the latest Expiration Date; and 
+
+ (viii) 
+ “ Distributions ” means all dividends or other distributions with respect to equity securities, regardless of whether the Secured Party has disposed of that Posted Collateral pursuant to Paragraph
+6(c) of the ISDA Credit Support Annex. Distributions will not include any item of property acquired by the Secured Party upon any disposition (other than a disposition pursuant to Paragraph 6(c) of the ISDA Credit Support Annex) or liquidation of
+Posted Collateral, or with respect to Posted Collateral in the form of Cash, any distributions on that collateral, unless otherwise specified herein. 
+
+ Notwithstanding anything to the contrary herein or otherwise, the provisions of Paragraph 3 of the ISDA Credit Support Annex will not apply to
+the Transaction and the provisions of Paragraph 6(c) of the ISDA Credit Support Annex will not apply to Party A. 
+
+ (d) 
+ For purposes of this Transaction only, Party A and Party B agree that, notwithstanding anything to the contrary in the recital to the ISDA Credit Support Annex, Paragraph 1(b) or Paragraph 2 or the definitions in
+Paragraph 12, (1) the term “ Secured Party ” as used in the ISDA Credit Support Annex means only Party A, (2) the term “ Pledgor ” as used in the ISDA Credit Support Annex means only Party B, (3) only
+Party B makes the pledge and grant in Paragraph 2, the acknowledgment in the final sentence of Paragraph 8(a) and the representations in Paragraph 9, (4) only Party B will be required to make Transfers of Eligible Credit Support under the ISDA
+Credit Support Annex, (5) Party B shall not be permitted to exercise the right of substitution set forth in Paragraph 4(d) and (6) the term Posted Collateral includes the Account (as defined in the Account Control Agreement) and all Shares
+and other property from time to time in the Account. Paragraph references in the immediately preceding sentence are to Paragraphs in the ISDA Credit Support Annex. 
+
+ Settlement 
+ This Transaction has been entered into by a
+member of the UBS group (“UBS Party”). For the avoidance of doubt, any payment or delivery obligations of the UBS Party in respect of this Transaction (“Obligations”) may be effected by either UBS Limited or UBS AG, London Branch
+(the “Settlement Agent”). UBS Party has authorised the Settlement Agent to act on its behalf in the same manner and with the same force and effect as UBS Party might or could do. In the event that any Obligations are settled by the
+Settlement Agent (“Settlement”), such Settlement shall be deemed to be settlement of all Obligations hereunder. 
+
+ Page 12 of 16 
+
+ Contact Information for UBS AG, LONDON BRANCH: 
+
+ Payments: 
+
+ Tel: +44 207 568 0092 
+
+ Fax: +44 207 568 9251 
+
+ Documentation: 
+
+ Tel: +44 207 568 0673 
+
+ Fax: +44 207 568 9895/ 9896 
+
+ [ Remainder of page intentionally left blank ] 
+
+ Page 13 of 16 
+
+ By manually signing this Confirmation and returning it to UBS at facsimile (203) 719-0538, Party B hereby
+(a) agrees that it has checked this Confirmation carefully for errors or discrepancies and (b) confirms that this Confirmation correctly sets forth the terms of the agreement between Party A and Party B with respect to the Transaction
+evidenced hereby. 
+
+ Sincerely yours, 
+
+ UBS SECURITIES LLC, 
+
+ Acting as agent for UBS AG, LONDON BRANCH 
+
+ By: 
+
+ /s/ Michael O’Donovan
+
+ Authorized Signatory 
+
+ Michael O’Donovan 
+
+ Managing Director 
+
+ By: 
+
+ /s/ Jack Macfarlane
+
+ Authorized Signatory 
+
+ Jack Macfarlane 
+
+ Director 
+
+ UBS AG, LONDON BRANCH 
+
+ By: 
+
+ /s/ Lee Frankenfield
+
+ Authorized Signatory 
+
+ Lee Frankenfield 
+
+ Managing Director 
+
+ By: 
+
+ /s/ Jack Macfarlane
+
+ Authorized Signatory 
+
+ Jack Macfarlane 
+
+ Director 
+
+ Page 14 of 16 
+
+ Please confirm that the foregoing correctly sets forth the terms of our agreement by executing the copy of this
+Confirmation enclosed for that purpose and returning it to us at your earliest convenience. 
+ Agreed and accepted with effect as of the date first written
+above 
+ for and on behalf of 
+ TRACINDA CORPORATION 
+
+ By: 
+
+ /s/ Daniel Taylor
+
+ Name: 
+
+ Daniel Taylor 
+
+ Title: 
+
+ Executive 
+
+ UBS AG, LONDON BRANCH, 1 Finsbury Avenue, London EC2M 2PP 
+
+ UBS AG is a member of the London Stock Exchange and is regulated in the UK by the Financial Services Authority. 
+
+ Representatives of UBS Limited introduce trades to UBS AG via UBS Limited. 
+
+ Page 15 of 16 
+
+ Schedule A 
+
+ Tranche
+
+ Number of Options
+
+ Valuation Date
+
+ 1.
+
+ 2,000,000 
+
+ February 7, 2017 
+
+ 2.
+
+ 2,000,000 
+
+ February 8, 2017 
+
+ 3.
+
+ 2,000,000 
+
+ February 9, 2017 
+
+ 4.
+
+ 2,000,000 
+
+ February 10, 2017 
+
+ 5.
+
+ 2,000,000 
+
+ February 13, 2017 
+
+ 6.
+
+ 2,000,000 
+
+ February 14, 2017 
+
+ 7.
+
+ 2,000,000 
+
+ February 15, 2017 
+
+ 8.
+
+ 2,000,000 
+
+ February 16, 2017 
+
+ 9.
+
+ 2,000,000 
+
+ February 17, 2017 
+
+ 10.
+
+ 2,000,000 
+
+ February 21, 2017 
+
+ Page 16 of 16

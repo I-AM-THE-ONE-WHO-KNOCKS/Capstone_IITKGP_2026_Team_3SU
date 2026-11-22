@@ -1,0 +1,2694 @@
+EX-99.8
+ 15
+ m998swapdocuments.htm
+ EXHIBIT
+
+ Swap Documents 
+
+ (Multicurrency-Cross Border) 
+
+ ISDA ® 
+
+ International Swap Dealers Association, Inc.
+
+ MASTER AGREEMENT 
+
+ dated as of December 7, 2006
+
+ SLC PRIVATE STUDENT LOAN TRUST 2006-A, 
+
+ a Delaware statutory trust
+
+ and
+
+ GOLDMAN SACHS MITSUI MARINE DERIVATIVE PRODUCTS, L.P., 
+
+ a limited partnership organized under the laws of the State of Delaware
+
+ have entered and/or anticipate entering into one or more transactions (each a "Transaction") that are or will be governed by this Master Agreement, which includes the schedule (the "Schedule"), and the documents and other confirming evidence (each a "Confirmation") exchanged between the parties confirming those Transactions.
+
+ Accordingly, the parties agree as follows:--
+
+ 1. 
+
+ Interpretation 
+
+ (a)
+
+ Definitions. The terms defined in Section 14 and in the Schedule will have the meanings therein specified for the purpose of this Master Agreement.
+
+ (b)
+
+ Inconsistency. In the event of any inconsistency between the provisions of the Schedule and the other provisions of this Master Agreement, the Schedule will prevail. In the event of any inconsistency between the provisions of any Confirmation and this Master Agreement (including the Schedule), such Confirmation will prevail for the purpose of the relevant Transaction.
+
+ (c)
+
+ Single Agreement. All Transactions are entered into in reliance on the fact that this Master Agreement and all Confirmations form a single agreement between the parties (collectively referred to as this "Agreement"), and the parties would not otherwise enter into any Transactions.
+
+ 2. 
+
+ Obligations 
+
+ (a)
+
+ General Conditions. 
+
+ (i) Each party will make each payment or delivery specified in each Confirmation to be made by it, subject to the other provisions of this Agreement.
+
+ (ii) Payments under this Agreement will be made on the due date for value on that date in the place of the account specified in the relevant Confirmation or otherwise pursuant to this Agreement, in freely transferable funds and in the manner customary for payments in the required currency. Where settlement is by delivery (that is, other than by payment), such delivery will be made for receipt on the due date in the manner customary for the relevant obligation unless otherwise specified in the relevant Confirmation or elsewhere in this Agreement.
+
+ (iii) Each obligation of each party under Section 2(a)(i) is subject to (1) the condition precedent that no Event of Default or Potential Event of Default with respect to the other party has occurred and is continuing, (2) the condition precedent that no Early Termination Date in respect of the relevant Transaction has occurred or been effectively designated and (3) each other applicable condition precedent specified in this Agreement.
+
+ value of that which was (or would have been) required to be delivered as of the originally scheduled date
+
+ for delivery, in each case together with (to the extent permitted under applicable law) interest, in the currency of such amounts, from (and including) the date such amounts or obligations were or would have been required to have been paid or performed to (but excluding) such Early Termination Date, at the Applicable Rate. Such amounts of interest will be calculated on the basis of daily compounding and the actual number of days elapsed. The fair market value of any obligation referred to in clause (b) above shall be reasonably determined by the party obliged to make the determination under Section 6(e) or, if each party is so obliged, it shall be the average of the Termination Currency Equivalents of the fair market values reasonably determined by both parties.
+
+ IN WITNESS WHEREOF, the parties have executed this document on the respective dates specified below with effect from the date specified on the first page of this document.
+
+ GOLDMAN SACHS MITSUI MARINE DERIVATIVE PRODUCTS, L.P. 
+
+ SLC PRIVATE STUDENT LOAN TRUST 2006-A 
+
+ By:
+
+ GSMMDPGP, Inc.,
+
+ its General Partner
+
+ By:
+
+ Wilmington Trust Company, not in its individual capacity but solely in its capacity as the Owner Trustee under that certain Amended and Restated Trust Agreement dated as of December 15, 2006 by and among the Owner Trustee and SLC Student Loan Receivables I, Inc.
+
+ By: /s/ John E. Eisenberg ___________________
+
+Name: John E. Eisenberg
+
+Title: Vice President
+
+Date: December __, 2006
+
+ By: _ /s/ J. Christopher Murphy ______________
+
+Name: J. Christopher Murphy
+
+Title: Financial Services Officer
+
+Date: December __, 2006
+
+ SCHEDULE
+
+to the
+
+ISDA Master Agreement 
+
+ dated as of December 7, 2006 
+
+ between 
+
+ GOLDMAN SACHS MITSUI MARINE DERIVATIVE PRODUCTS, L.P. 
+
+ (the “Counterparty”) 
+
+ and 
+
+ SLC PRIVATE STUDENT 
+
+ LOAN TRUST 2006-A 
+
+ (the “Trust”) 
+
+ Part 1. Termination Provisions 
+
+ (a)
+
+ “Specified Entity” means in relation to the Counterparty for the purpose of:
+
+ Section 5(a)(v): 
+
+ Not Applicable
+
+Section 5(a)(vi): 
+
+ Not Applicable
+
+Section 5(a)(vii): 
+
+ Not Applicable
+
+Section 5(b)(iv): 
+
+ Not Applicable
+
+ and in relation to the Trust for the purpose of:
+
+ Section 5(a)(v): 
+
+ Not Applicable
+
+Section 5(a)(vi): 
+
+ Not Applicable
+
+Section 5(a)(vii): 
+
+ Not Applicable
+
+Section 5(b)(iv): 
+
+ Not Applicable
+
+ (b)
+
+ “Specified Transaction” shall have the meaning specified in Section 14 of this Agreement.
+
+ (c)
+
+ Events of Default. 
+
+ (i)
+
+ The only “Events of Defaults” specified in Section 5(a) of this Agreement that apply to the Counterparty are the following:
+
+ Section 5(a)(i) — “ Failure to Pay or Deliver ”;
+
+ Section 5(a)(ii) — “ Breach of Agreement ”;
+
+ Section 5(a)(iii) — “ Credit Support Default ”;
+
+ Section 5(a)(i) — “ Misrepresentation ”;
+
+ Section 5(a)(v) — “ Default under Specified Transaction ”;
+
+ Section 5(a)(vi) — “ Cross-Default ” (as amended below);
+
+ Section 5(a)(vii) — “ Bankruptcy ”; and
+
+ Section 5(a)(viii) — “ Merger Without Assumption ”.
+
+ With respect to the Counterparty only: —
+
+ The “ Cross Default ” provisions of Section 5(a)(vi) will apply to Counterparty, provided that (i) the phrase “or becoming capable at such time of being declared” shall be deleted from clause (1) of such Section 5(a)(vi); and (ii) the following language shall be added to the end thereof: “Notwithstanding the foregoing, a default under subsection (2) hereof shall not constitute an Event of Default if (i) the default was caused solely by error or omission of an administrative or operational nature; (ii) funds were available to enable the party to make the payment when due; and (iii) the payment is made within two Local Business Days of such party’s receipt of written notice of its failure to pay.”
+
+ “Specified Indebtedness” will have the meaning specified in Section 14 of this Agreement, except that such term shall not include obligations in respect of deposits received.
+
+ “Threshold Amount” means, in respect of the Counterparty, an amount equal to $100,000,000 (or its equivalent in other currencies).
+
+ (ii)
+
+ The only “Events of Defaults” specified in Section 5(a) of this Agreement that apply to the Trust are the following:
+
+ Section 5(a)(i) – “ Failure to Pay or Deliver ”;
+
+ Section 5(a)(iii) – “ Credit Support Default ”; will not apply to the Trust except that Section 5(a)(iii)(1) will apply in respect of the Trust’s obligations under Paragraph 3(b) of the Credit Support Annex entered into between the Counterparty and the Trust in relation to this Master Agreement; and
+
+ Section 5(a)(vii) – “Bankruptcy” ; provided that (A) clauses (2), (7) and (9) thereof shall not apply to the Trust; (B) clause (4) thereof shall not apply to the Trust with respect to proceedings or petitions instituted or presented by the Counterparty or any Affiliate of the Counterparty; (C) clause (6) shall not apply to the Trust to the extent that it refers to (i) any appointment that is effected by or contemplated in connection with the Indenture or the Trust Agreement or (ii) any appointment to which the Trust has not become subject; and (D) clause (8) shall not apply to the Trust to the extent that clause (8) relates to clauses of Section 5(a)(vii) that are not applicable to the Trust.
+
+ (d)
+
+ Termination Events. 
+
+ (i)
+
+ The only Termination Events specified in Section 5(b) of this Agreement that apply to the Counterparty are the following:
+
+ Section 5(b)(i) — “ Illegality ”;
+
+ Section 5(b)(ii) — “ Tax Event ”; provided that Section 5(b)(ii) shall be amended by deleting the words “(x) any action taken by a taxing authority, or brought in a court of competent jurisdiction, on or after the date on which a Transaction is entered into (regardless of whether such action is taken or brought with respect to a party to this Agreement) or (y)”; and
+
+ Section 5(b)(iii) — “ Tax Event upon Merger ”; provided that the Counterparty shall not be entitled to designate an Early Termination Date by reason of a Tax Event upon Merger in respect of which the Counterparty is the Affected Party. 
+
+ (ii)
+
+ The only Termination Events specified in Section 5(b) of this Agreement that apply to the Trust are the following:
+
+ Section 5(b)(i) — “Illegality” ;
+
+ Section 5(b)(ii) — “Tax Event”; provided that Section 5(b)(ii) shall be amended by deleting the words “(x) any action taken by a taxing authority, or brought in a court of competent jurisdiction, on or after the date on which a Transaction is entered into (regardless of whether such action is taken or brought with respect to a party to this Agreement) or (y)”; and
+
+ Section 5(b)(iii) — “ Tax Event upon Merger ”; provided that the Counterparty shall not be entitled to designate an Early Termination Date by reason of a Tax Event upon Merger in respect of which the Counterparty is the Affected Party.
+
+ (e)
+
+ The “Automatic Early Termination” provision of Section 6(a) of this Agreement will not apply to the Counterparty and will not apply to the Trust.
+
+ (f)
+
+ Payments on Early Termination. For the purpose of Section 6(e) of this Agreement:–
+
+ (i)
+
+ Market Quotation will apply, provided, however, that in the event of a Counterparty Trigger Event, Part 1(f)(iv) hereof will apply.
+
+ (ii)
+
+ The Second Method will apply.
+
+ (iii)
+
+ The Calculation Agent shall calculate an amount that would be payable to or by the Trust under this Agreement in respect of such Early Termination Date (the “Termination Payment”).
+
+ (iv)
+
+ Notwithstanding anything to the contrary in this Agreement, in the event of a Counterparty Trigger Event, the following provisions shall apply:
+
+ (A)
+
+ The definition of “Market Quotation” shall be deleted in its entirety and replaced with the following:
+
+ “ Market Quotation ” means, with respect to one or more Terminated Transactions, a Firm Offer which is (1) made by a Reference Market-maker that is an Eligible Replacement, (2) for an amount that would be paid to the Trust (expressed as a negative number) or by the Trust (expressed as a positive number) in consideration of an agreement between the Trust and such Reference Market-maker to enter into a transaction (the “ Replacement Transaction ”) that would have the effect of preserving for the Trust the economic equivalent of any payment or delivery (whether the underlying obligation was absolute or contingent and assuming the satisfaction of each applicable condition precedent) by the parties under Section 2(a)(i) in respect of such Terminated Transaction or group of Terminated Transactions that would, but for the occurrence of the relevant Early Termination Date, have been required after that Date, (3) made on the basis that Unpaid Amounts in respect of the Terminated Transaction or group of Transactions are to be excluded but, without limitation, any payment or delivery that would, but for the relevant Early Termination Date, have been required (assuming satisfaction of each applicable condition precedent) after that Early Termination Date is to be included, and (4) made in respect of a Replacement Transaction with commercial terms substantially the same as those of this Agreement (save for the exclusion of provisions relating to Transactions that are not Terminated Transactions). 
+
+ (B)
+
+ The definition of “Settlement Amount” shall be deleted in its entirety and replaced with the following:
+
+ “ Settlement Amount ” means, with respect to any Early Termination Date, an amount (as determined by the Trust) equal to:
+
+ (a)
+
+ If a Market Quotation for the relevant Terminated Transaction or group of Terminated Transactions is accepted by the Trust so as to become legally binding on or before the day falling ten Local Business Days after the day on which the Early Termination Date is designated (or such later day as the Trust may specify in writing to the Counterparty, which in any event will not be later than the Early Termination Date) (such day, the “ Latest Settlement Amount Determination Day ”), the Termination Currency Equivalent of the amount (whether positive or negative) of such Market Quotation; 
+
+ (b)
+
+ If, on the Latest Settlement Amount Determination Day, no Market Quotation for the relevant Terminated Transaction or group of Terminated Transactions has been accepted by the Trust so as to become legally binding and one or more Market Quotations from Approved Replacements have been made and remain capable of becoming legally binding upon acceptance, the Settlement Amount shall equal the Termination Currency Equivalent of the amount (whether positive or negative) of the lowest of such Market Quotations (for the avoidance of doubt, the lowest of such Market Quotations shall be the lowest Market Quotation of such Market Quotations expressed as a positive number or, if any of such Market Quotations is expressed as a negative number, the Market Quotation expressed as a negative number with the largest absolute value); or
+
+ (c)
+
+ If on the Latest Settlement Amount Determination Day, no Market Quotation for the relevant Terminated Transaction or group of Terminated Transactions is accepted by the Trust so as to become legally binding and no Market Quotation from an Approved Replacement remains capable of becoming legally binding upon acceptance, the Trust’s Loss (whether positive or negative and without reference to any Unpaid Amounts) for the relevant Terminated Transaction or group of Terminated Transactions.
+
+ (C)
+
+ For the purpose of paragraph (4) of the definition of “Market Quotation”, the Trust shall determine in its sole discretion, acting in a commercially reasonable manner, whether a Firm Offer is made in respect of a Replacement Transaction with commercial terms substantially the same as those of this Agreement (save for the exclusion of provisions relating to Transactions that are not Terminated Transactions).
+
+ (D)
+
+ The Trust undertakes to use its reasonable efforts to obtain at least one Market Quotation before the Latest Settlement Amount Determination Day. The Trust will be deemed to have discharged its obligations under this paragraph (D) if it requests the Counterparty to obtain Market Quotations, where such request is made in writing within two Local Business Days after the day on which the Early Termination Date is designated. If the Trust requests the Counterparty in writing to obtain Market Quotations, the Counterparty shall use its reasonable efforts to do so before the Latest Settlement Amount Determination Day. Notwithstanding the foregoing, the Counterparty may obtain Market Quotations 
+
+ (E)
+
+ If the Settlement Amount is a negative number, Section 6(e)(i)(3) of this Agreement shall be deleted in its entirety and replaced with the following:
+
+ Second Method and Market Quotation . If Second Method and Market Quotation apply, (1) the Trust shall pay to the Counterparty an amount equal to the absolute value of the Settlement Amount in respect of the Terminated Transactions, (2) the Trust shall pay to the Counterparty the Termination Currency Equivalent of the Unpaid Amounts owing to the Counterparty and (3) the Counterparty shall pay to the Trust the Termination Currency Equivalent of the Unpaid Amounts owing to the Trust; provided that, (i) the amounts payable under (2) and (3) shall be subject to netting in accordance with Section 2(c) of this Agreement and (ii) notwithstanding any other provision of this Agreement, any amount payable by the Counterparty under (3) shall not be netted-off against any amount payable by the Trust under (1).
+
+ (F) 
+
+ At any time on or before the Latest Settlement Amount Determination Day at which two or more Market Quotations from Approved Replacements remain capable of becoming legally binding upon acceptance, the Trust shall be entitled to accept only the lowest of such Market Quotations (for the avoidance of doubt, the lowest of such Market Quotations shall be the lowest Market Quotation of such Market Quotations expressed as a positive number or, if any of such Market Quotations is expressed as a negative number, the Market Quotation expressed as a negative number with the largest absolute value).
+
+ (v)
+
+ To the extent that the Counterparty is required to pay the Termination Payment to the Trust, it will be payable on the day following the day that notice of the amount payable is given to the Counterparty.
+
+ (vi)
+
+ Any Termination Payment payable to the Counterparty will be payable on the first Distribution Date following the date on which the payment would have been payable as determined in accordance with Section 6(d)(ii); provided that if the date on which the payment would have been payable as determined in accordance with Section 6(d)(ii) is a Distribution Date, then the payment will be payable on the date determined in accordance with Section 6(d)(ii).
+
+ (g)
+
+ “Termination Currency” means United States Dollars.
+
+ (h)
+
+ Additional Termination Events: The occurrence of the following event shall constitute an Additional Termination Event:
+
+ An Additional Termination Event shall occur if any of the following events occurs:
+
+ (1)
+
+ Replacement Available. (A) No Relevant Entity (as defined in Part 5 below) is maintaining the Second Trigger Required Ratings and 30 or more Local Business Days have elapsed since the last time any Relevant Entity maintained the Second Trigger Required Ratings and (B) (i) at least one Eligible Replacement (as defined in Part 5 below) has made a Firm Offer (as defined in Part 5(b) below) (which remains capable of becoming legally binding upon acceptance) and/or (ii) at least one entity that maintains the First Trigger Required Ratings and/or the Second Trigger Required Ratings has made a Firm Offer (which remains capable of becoming legally binding upon acceptance by the offeree) to provide an Eligible Guarantee in respect of all of the Counterparty’s present and future obligations under this Agreement; provided, however, that if an entity has only the Second Trigger Required Ratings, such entity shall also post all collateral required by such an entity under the applicable Ratings Criteria in the Credit Support Annex.
+
+ The Counterparty shall be the Affected Party for purposes of this Additional Termination Event and all Transactions entered into hereunder shall be Affected Transactions.
+
+ (2)
+
+ Event of Default Under the Indenture . The principal due in respect of the Notes (as defined in the Indenture) is declared to be due and payable in accordance with the terms of Section 5.2 of the Indenture and the Indenture Trustee has started to sell all or part of the Indenture Trust Estate as a consequence thereof in accordance with Section 5.4 of the Indenture. If this Additional Termination Event occurs, the Trust shall be the sole Affected Party and all Transactions then outstanding between the parties shall be Affected Transactions.
+
+ (3)
+
+ A notice of redemption pursuant to Section 10.1 of the Indenture is issued and has become irrevocable pursuant to the Indenture, in which event the Trust shall be the sole Affected Party and the Early Termination Date shall not occur earlier than the tenth Business Day (as defined in the Indenture) prior to the scheduled Redemption Date (as defined in the Indenture). If this Additional Termination Event occurs, the Trust shall be the sole Affected Party and all Transactions then outstanding between the parties shall be Affected Transactions. 
+
+ (4)
+
+ Breach by Trust of Part 5(g) -- Restrictions on Amendments . If this Additional Termination Event occurs, the Trust shall be the sole Affected Party and all Transactions then outstanding between the parties shall be Affected Transactions.
+
+ (5)
+
+ It shall be an Additional Termination Event, with the Counterparty as the sole Affected Party, if the Sponsor in its sole discretion determines at any time during the period that reports are being filed with respect to the Trust in accordance with the Securities Exchange Act of 1934, as amended (the “Exchange Act”), and the rules and regulations of the Commission under the Exchange Act and the Securities Act of 1933, as amended, that the “aggregate significance percentage” of all derivative instruments provided by the Counterparty and any of its affiliates to the Trust is 8.00% or more, and, within 15 calendar days of such determination and notice from the Sponsor, the Counterparty fails to either, at its option, (i) post collateral satisfactory to the Sponsor and the Depositor in an amount sufficient to reduce the aggregate significance percentage to 7%, pursuant to a Credit Support Annex or similar agreement reasonably satisfactory to the Sponsor and the Depositor, or (ii) at the sole expense of the Counterparty assign this Agreement and all of its obligations hereunder to a substitute counterparty that (A) has agreed to provide any financial or other data required under Regulation AB, (B) has agreed to provide indemnifications relating to such financial or other data substantially in a form acceptable to the Sponsor and the Depositor, (C) satisfies the Rating Agency Condition, (D) is approved by the Sponsor and the Depositor (which approval shall not be unreasonably withheld), and (E) enters into an agreement similar in form to this Agreement. For the avoidance of doubt, unless otherwise specified in this Agreement, the Counterparty shall be under no obligation to provide any such financial or other data, whether in connection with this Termination Event or otherwise. For purposes of this Termination Event, (i) "Commission" shall mean the Securities and Exchange Commission, (ii) "Depositor" shall mean SLC Student Loan Receivables I, Inc., (iii) “Sponsor” shall mean The Student Loan Corporation, and (iv) "Regulation AB" shall mean the Asset Backed Securities Regulation AB, 17 C.F.R. §§229.1100-229.1123, as such may be amended from time to time, and subject to such clarification and interpretation as have been provided by the Commission in the adopting release (Asset-Backed Securities, Securities Act Release No. 33-8518, 70 Fed. Reg. 1,506, 1,531 (Jan. 7, 2005)) or by the staff of the Commission, or as may be provided by the Commission or its staff from time to time.
+
+ Part 2. 
+
+ Tax Representations. 
+
+ (a)
+
+ Payer Representations. For the purpose of Section 3(e) of this Agreement, the Counterparty will make the following representation: None.
+
+ (b)
+
+ Payee Representations. For the purpose of Section 3(f) of this Agreement, the Counterparty and the Trust make the representations specified below, if any:
+
+ (1)
+
+ The Counterparty represents that it is a Delaware limited partnership.
+
+ (2)
+
+ With respect to payments made to the Trust which are not effectively connected to the US: None.
+
+ (c)
+
+ Additional Tax Provisions. 
+
+ (i)
+
+ Gross Up . Section 2(d)(i)(4) shall not apply to the Trust as X, and Section 2(d)(ii) shall not apply to the Trust as Y, in each case such that the Trust shall not be required to pay any additional amounts referred to therein.
+
+ (ii)
+
+ Indemnifiable Tax . The definition of “Indemnifiable Tax” in Section 14 is deleted in its entirety and replaced with the following:
+
+ “ Indemnifiable Tax ” means, in relation to payments by the Counterparty, any Tax and, in relation to payments by the Trust, no Tax. 
+
+ Part 3. 
+
+ Documents to be delivered. 
+
+ (a)
+
+ Tax forms, documents or certificates to be delivered are:
+
+ Party Required to Deliver 
+
+ Form/Document/ Certificate 
+
+ Date by which to be delivered 
+
+ Counterparty and the Trust
+
+ Any form or document (including, in the case of the Counterparty, an executed United States Internal Revenue Service Form W-9 Form W-8ECI Form W-8BEN or other applicable form) required or reasonably requested to allow the other party to make payments under the Agreement without any deduction or withholding for or on account of any Tax, or with such deduction or withholding at a reduced rate.
+
+ Promptly upon reasonable demand by the other party.
+
+ Each party agrees to complete (accurately and in a manner reasonably satisfactory to the other party), execute, arrange for any required certification of, and deliver to the other party or such government or taxing authority as such other party directs, any form, document, or certificate that may be required or reasonably requested in order to allow such other party to make payment under this Agreement without any deduction or withholding for or on the account of any Tax rate, promptly upon the earlier of (i) reasonable demand, (ii) learning that the form, document or certificate is required, or (iii) learning that the form, document or certificate previously provided has become obsolete or incorrect. 
+
+ (b)
+
+ Other Documents to be delivered are:
+
+ Party Required to Deliver 
+
+ Form/Document/ Certificate 
+
+ Date by which to be delivered 
+
+ Covered by Section 3(d) Representation 
+
+ Counterparty
+
+ A power of attorney as to the authority, incumbency and specimen signature of each person authorized to sign this Agreement and any Confirmation hereunder.
+
+ At execution of this Agreement.
+
+ Yes.
+
+ Trust
+
+ Copies of the Indenture, the Trust Agreement, the Notes and the Administration Agreement.
+
+ At execution of this Agreement.
+
+ Yes.
+
+ Trust
+
+ A certificate (or an extract of the list of authorized signatories) as to the authority, incumbency and specimen signature of each person authorized to sign this Agreement and any Confirmation hereunder.
+
+ At execution of this Agreement.
+
+ Yes..
+
+ Counterparty
+
+ An opinion of counsel to such party reasonably satisfactory in form and substance to the other party addressed to other party and the rating agencies which opinion shall address the due authorization and capacity of the Counterparty to enter into the Agreement and the Credit Support Annex.
+
+ At or promptly following the execution of this Agreement.
+
+ No.
+
+ Trust
+
+ An opinion of counsel to such party reasonably satisfactory in form and substance to the other party addressed to the other party, the underwriters of the Notes and the rating agencies.
+
+ At or promptly following the execution of this Agreement.
+
+ No.
+
+ Trust
+
+ Copies of all financial reports sent to the Depository Trust Company by or on behalf of the Indenture Trustee; provided, however that a failure to deliver these documents shall not constitute an Event of Default hereunder.
+
+ Promptly after delivery thereof.
+
+ Yes.
+
+ Trust
+
+ Any and all information reasonably requested by the Counterparty to verify the calculations made by the Calculation Agent under any Transaction.
+
+ As soon as practicable after request by the other party.
+
+ No.
+
+ Counterparty & the Trust
+
+ Letter Agreement among the Counterparty, SLC and SLC Student Loan Receivables I, Inc. relating to indemnification for securities law claims.
+
+ At execution of this Agreement.
+
+ No.
+
+ Counterparty & Trust
+
+ Any Credit Support Document(s) specified in Part 4 of this Schedule.
+
+ Upon execution of this Agreement.
+
+ No.
+
+ Part 4. 
+
+ Miscellaneous. 
+
+ (a)
+
+ Addresses for Notices : For the purpose of Section 12(a) of this Agreement:
+
+ Address for notices or communications to the Counterparty: 
+
+ Address:
+
+ Goldman Sachs Mitsui Marine Derivative Products, L.P.
+
+ 85 Broad Street
+
+New York, New York 10004
+
+ Attention: Swap Administration
+
+Facsimile No.: 212-902-5692
+
+Telephone No.: 212-902-1000
+
+ Address for notices or communications to the Trust:
+
+ (For all purposes)
+
+ Address:
+
+ SLC Private Student Loan Trust 2006-A
+
+c/o Wilmington Trust Company
+
+1100 North Market Street
+
+Wilmington, Delaware 19890-0001
+
+ Attention: Corporate Trust Administration
+
+Facsimile No.: 302-636-4140
+
+Telephone No.: 302-636-6194
+
+ Electronic Messaging System Details: None
+
+ With copies to:
+
+ The Student Loan Corporation
+
+750 Washington Boulevard, 9 th Floor
+
+Stamford, CT 06901
+
+ Attention: Treasurer
+
+Facsimile No.: 203-975-6299
+
+Telephone No.: 203-975-6320
+
+Electronic Messaging System Details: None
+
+ For purposes of notices under Section 5, 6, 7 and 12(b) of this Agreement:
+
+ Address:
+
+ The Student Loan Corporation
+
+750 Washington Boulevard, 9 th Floor
+
+Stamford, CT 06901
+
+ Attention: Treasurer
+
+Facsimile No.: 203-975-6299
+
+Telephone No.: 203-975-6292
+
+ and
+
+ The Student Loan Corporation 
+
+750 Washington Boulevard, 9 th Floor
+
+Stamford, CT 06901
+
+ Attention: CFO
+
+Facsimile No.: 203-975-6299
+
+Telephone No.: 203-975-6112
+
+ (b)
+
+ Process Agent . For the purpose of Section 13(c) of this Agreement:
+
+ The Counterparty appoints as its Process Agent: Not Applicable.
+
+ The Trust appoints as its Process Agent: Not Applicable.
+
+ (c)
+
+ Offices . With respect to the Counterparty, the provisions of Section 10(a) will apply to this Agreement.
+
+ (d)
+
+ Multibranch Party . For the purpose of Section 10(c) of this Agreement:
+
+ The Counterparty is not a Multibranch Party.
+
+ The Trust is not a Multibranch Party.
+
+ (e)
+
+ Calculation Agent . The Calculation Agent is the Counterparty unless an Event of Default applicable to the Counterparty has occurred and is continuing or a Termination Event under this Agreement has occurred and is continuing with respect to which the Counterparty is the sole Affected Party, in which case the Trust shall become the Calculation Agent. The Counterparty hereby consents to and agrees to the delegation by the Trust of all of its obligations as Calculation Agent to the Administrator of the Trust. All determinations and calculations by the Calculation Agent shall be (i) made in good faith and in a commercially reasonable manner and (ii) determined, where applicable, on the basis of then prevailing market rates or prices.
+
+ (f)
+
+ Credit Support Document . Details of any Credit Support Document:
+
+ The Counterparty:
+
+ The Credit Support Annex between the parties hereto annexed hereto which supplements, forms part of, and is subject to, this Agreement.
+
+ The Trust:
+
+ The Credit Support Annex between the parties hereto annexed hereto which supplements, forms part of, and is subject to, this Agreement, solely in respect of the Trust’s obligations under Paragraph 3(b) of the Credit Support Annex.
+
+ (g)
+
+ Credit Support Provider. 
+
+ Credit Support Provider means in relation to the Counterparty: Not Applicable.
+
+ Credit Support Provider means in relation to the Trust: Not Applicable.
+
+ (h)
+
+ Governing Law and Jurisdiction . This Agreement will be governed by and construed in accordance with the laws of the State of New York (without reference to choice of law doctrine) and each party hereby submits to the jurisdiction of the state and federal courts having jurisdiction over the State of New York and the City of New York.
+
+ (i)
+
+ Netting of Payments . Subparagraph (ii) of Section 2(c) of this Agreement will apply to any Transaction under this Agreement.
+
+ (j)
+
+ “Affiliate” will have the meaning specified in Section 14 of this Agreement.
+
+ Part 5. 
+
+ Other Provisions. 
+
+ (a)
+
+ Amendments to the Agreement. 
+
+ (1)
+
+ Section 1(c) of this Agreement is amended by the addition of the words “, any credit support annex from time to time entered into between the Counterparty and the Trust with respect to this Master Agreement” after the words “Master Agreement”.
+
+ (2) 
+
+ Section 3 of this Agreement is hereby amended by inserting the following as Section 3(g) 3(h) and 3(i) which read in their entirety as follows:
+
+ (g) Eligible Contract Participant. Each party represents to the other party (which representation will be deemed to be repeated by each party on each date on which a Transaction is entered into) that it is an “eligible contract participant” as defined in Section 1a(12) (7 U.S.C. Section 1a(12)) of the U.S. Commodity Exchange Act (the “CEA”).
+
+ (h) Qualified Financial Contract, Swap Agreement. In the case of the Counterparty: Without limiting the applicability of any other provision of the U.S. Bankruptcy Code as amended (the “Bankruptcy Code”) (including without limitation Sections 362, 546, 556, and 560 thereof and the applicable definitions in Section 101 thereof), it intends and acknowledges that this Agreement, including all Transactions hereunder, together with the relevant provisions of the Indenture and the Administration Agreement, shall constitute a “swap agreement” as defined in Section 101 of the Bankruptcy Code, that the rights of the parties under Section 6 of this Agreement will constitute contractual rights to liquidate Transactions, that any margin or collateral provided under any margin, collateral, security, or similar agreement related hereto will constitute a “margin payment” as defined in Section 101 of the Bankruptcy Code, and that the parties are entitled to the rights under, and protections afforded by, Sections 362, 546, 556, and 560 of the Bankruptcy Code.
+
+ In the case of the Trust: Without limiting the applicability of any other provision of the U.S. Bankruptcy Code as amended (the “Bankruptcy Code”) (including without limitation Sections 362, 546, 556, and 560 thereof and the applicable definitions in Section 101 thereof, it intends and acknowledges that this Agreement, including all Transactions hereunder, shall constitute a “swap agreement” as defined in Section 101 of the Bankruptcy Code, that the rights of the parties under Section 6 of this Agreement will constitute contractual rights to liquidate Transactions, that any margin or collateral provided under any margin, collateral, security, or similar agreement related hereto will constitute a “margin payment” as defined in Section 101 of the Bankruptcy Code, and that the parties are entitled to the rights under, and protections afforded by, Sections 362, 546, 556, and 560 of the Bankruptcy Code.
+
+ (i) Non-Reliance. Each party represents to the other that (i) it is not relying upon any representations except those expressly set forth in this Agreement or any Confirmation evidencing a Transaction; (ii) it has consulted with its own business, financial, investment, tax, accounting and legal advisors to the extent it has deemed appropriate in connection with its decision to enter into this Agreement and each such Transaction; and (iii) it has independently evaluated the potential financial benefits and risks, the tax and accounting implications and its policies and objectives of this Agreement and each such Transaction, and has independently decided to enter into this Agreement and each such Transaction on the basis of such evaluation. Each party represents to the other that it is not acting as a fiduciary or an advisor for such party in respect of the Transaction and each party is entering into this Agreement as principal and not as agent. Each party represents to the other party that it has entered into this Transaction in reliance upon such tax, accounting, regulatory, legal, and financial advice as it deems necessary and not upon any view expressed by the other party. Each party represents to the other party that it is entering into this Agreement and each Transaction as principal and not as agent of any person.
+
+ (j) Additional Representations of the Trust. The Trust represents to the Counterparty as of the date hereof that:
+
+ (i) With respect to each source of funds to be used by it to enter into such Transactions (each such source being referred to herein as a “source”), the Source is not the assets of any “plan” (as such term is defined in Section 4975 of the Code) subject to Section 4975 of the Code or any “employee benefit plan” (as such term is defined in Section 3(3) of ERISA) subject to Title I of ERISA, or otherwise out of “plan assets” within the meaning of United States Department of Labor regulation Section 2510.3-101, and
+
+ (ii) Each Transaction is intended to be exempt from, or otherwise not subject to regulation under, the Investment Company Act of 1940 and the Trust is exempt from regulation under such Act.
+
+ (iii) The Notes represent the obligations of the Trust only. They do not represent an interest in or obligation of the Counterparty. No recourse may be had by the holders of the Notes against the Counterparty or its assets with respect to the Notes.
+
+ (k) Additional Representations of the Counterparty. The Counterparty represents to the Trust as of the date hereof that:
+
+ (i)
+
+ Pari Passu . Its obligations under this Agreement rank pari passu with all of its other unsecured, unsubordinated obligations except those obligations preferred by operation of law.
+
+ (3)
+
+ Section 6(b)(ii) of this Agreement is hereby amended by inserting, at the end of the first paragraph, the following:
+
+ “, provided that the party seeking to make the transfer to avoid a Termination Event shall deliver to the Trust (in the case of transfers by the Counterparty) and to the Counterparty (in the case of transfer by the Trust) written confirmation from each Rating Agency then rating the Notes that such transfer will not result in the then-current rating on the Notes being withdrawn or downgraded.”
+
+ (4)
+
+ Section 6(e) shall be amended by the deletion of the following sentence: “The amount, if any, payable in respect of an Early Termination Date and determined pursuant to this Section will be subject to any Set-off.”
+
+ (5)
+
+ Section 7 of this Agreement is hereby amended by:
+
+ (i)
+
+ adding in the third line thereof after the word “party,” the words “which consent will not be unreasonably withheld or delayed,”;
+
+ (ii) ; 
+
+ adding in Subparagraph (a) the words “or reorganization, incorporation, reincorporation, or reconstitution into or as,” immediately before the word “another.” and
+
+ (iii)
+
+ adding after Subparagraph (b) thereof the following Subparagraph (c):
+
+ (c)
+
+ it shall be a condition precedent to the effectiveness of any such transfer or assignment of this Agreement and each Transaction hereunder by the Counterparty that each Rating Agency then rating the Notes issue written acknowledgment, that, notwithstanding such transfer or assignment, the then-current rating of the Notes will not be downgraded or withdrawn.
+
+ (6)
+
+ The definition of Local Business Day in Section 14 of this Agreement shall be amended by the addition of the words “or any Credit Support Document” after “Section 2(a)(i)” and the addition of the words “or Credit Support Document” after “Confirmation”.
+
+ (7)
+
+ The definition of “Reference Market-makers” contained in Section 14 of this Agreement is hereby amended by adding in the fourth line thereof after the word “credit” the words “or to enter into transactions similar in nature to Transactions”.
+
+ (b)
+
+ Permitted Security Interest. For purposes of Section 7 of this Agreement, the Counterparty hereby consents to the Permitted Security Interest, subject to the provisions of this paragraph below.
+
+ “ Permitted Security Interest ” means the collateral assignment by the Trust of the Swap Collateral to the Indenture Trustee pursuant to the Indenture. 
+
+ “ Swap Collateral ” means all right, title and interest of the Trust in this Agreement, each Transaction hereunder, and all present and future amounts payable by the Counterparty to the Trust under or in connection with this Agreement or any Transaction governed by this Agreement, whether or not evidenced by a Confirmation, including, without limitation, any transfer or termination of any such Transaction.
+
+ Notwithstanding the grant of the Permitted Security Interest, the Trust shall not be released from any of its obligations under this Agreement or any Transaction, and the Counterparty may exercise its rights and remedies under this Agreement without notice to, or the consent of the Indenture Trustee, except as otherwise expressly provided in this Agreement or in the Indenture with respect to the Counterparty’s right to bring legal proceedings against the Trust or the Indenture Trustee for purposes of enforcing this Agreement against the Trust.
+
+ The Counterparty’s consent to the Permitted Security Interest is expressly limited to the Indenture Trustee for the benefit of the Noteholders under the Indenture, and the Counterparty does not consent to the sale or transfer by the Indenture Trustee of the Swap Collateral to any other person or entity (other than a successor to the Indenture Trustee under the Indenture acting in that capacity), and the manner in which the Indenture Trustee may realize upon the Swap Collateral shall be to declare an Event of Default, Additional Termination Event or designate an Early Termination Date by notice given to the Counterparty pursuant to the provisions of this Schedule and the Agreement.
+
+ The Trust hereby acknowledges that, as a result of the Permitted Security Interest, all rights of the Trust under this Agreement, including any Transaction, have been assigned to the Indenture Trustee pursuant to the Indenture, and notwithstanding any other provision in this Agreement, the Trust may not take any action hereunder to exercise any of such rights without the prior written consent of the Indenture Trustee, including, without limitation, providing any notice under this Agreement, the effect of which would be to cause an Early Termination Date to occur or be deemed to occur. If the Trust gives any notice to the Counterparty for the purposes of exercising any of the Trust’s rights under this Agreement, the Counterparty shall have the option of treating that notice as void unless that notice is signed by the Indenture Trustee acknowledging its consent to the provisions of that notice. The foregoing notwithstanding, nothing herein shall be construed as requiring the consent of the Indenture Trustee for the performance by the Trust of any of its obligations hereunder.
+
+ Except as expressly provided in this Agreement for any Event of Default, Termination Event, or Additional Termination Event, the Counterparty and the Trust may not enter into any agreement to dispose of any Transaction, whether in the form of a termination, unwind, transfer or otherwise without the prior written consent of the Indenture Trustee.
+
+ (c)
+
+ Waiver of Set-Off . Notwithstanding any provision of this Agreement or any other existing or future agreement between the Counterparty and the Trust, each of the Counterparty and the Trust irrevocably waives as to itself any and all rights of counterclaim, set-off, recoupment, whether arising by contract, operation of law or otherwise, provided that nothing herein shall be construed as limiting the provisions contained in Section 2(c) of this Agreement with respect to the netting of the parties’ respective obligations under this Agreement. Specifically, the provision for set-off in the 1st sentence of the preamble to Section 6(e) of this Agreement shall not apply for purposes of any Transaction hereunder.
+
+ (d)
+
+ No Bankruptcy Petition . The Counterparty agrees that it shall not institute against, or join any other person in instituting against, the Trust or SLC Student Loan Receivables I, Inc., any bankruptcy, reorganization, arrangement, insolvency or liquidation proceedings, or other proceedings under any federal or state bankruptcy or similar law. The foregoing shall not limit the rights of the Counterparty to file any claim in, or otherwise take any action with respect to any such proceeding that was instituted against the Trust or SLC Student Loan Receivables I, Inc. by a Person other than the Counterparty.
+
+ (e)
+
+ Limited Recourse to the Trust . Without prejudice to the Counterparty’s rights under Section 5 of this Agreement, all obligations of the Trust shall be payable by it only on each Trust Floating Rate Payment Date, to the extent (i) it has sufficient Available Funds in the Collection Account to make the scheduled payment in accordance with Section 2.8 of the Administration Agreement or (ii) to the extent Available Funds in the Collection Account are insufficient, it has sufficient funds available in the Reserve Account to make the scheduled payment in accordance with Section 2.10 of the Administration Agreement. To the extent such funds are not available or are insufficient for the payment thereof, it shall not constitute a claim against the Trust to the extent of such unavailability or insufficiency until such time as the Trust has assets sufficient to pay such prior deficiency. This paragraph shall survive the termination of this Agreement.
+
+ (f)
+
+ Scope of Obligations of the Trustee . The parties hereto agree that is executed and delivered by the Owner Trustee not individually or personally, in the exercise of the powers and authority conferred and vested in it under the Trust Agreement, (ii) each of the representations, undertakings and agreements herein made on the part of the Trust is made and intended not as personal representations, undertakings and agreements by the Owner Trustee but is made and intended for the purpose of binding only the Trust, (iii) nothing herein contained shall be construed as creating any liability on the part of the Owner Trustee, individually or personally, to perform any covenant either expressed or implied contained herein, all such liability, if any, being expressly waived by the parties hereto and by any Person claiming by, through or under the parties hereto and (iv) under no circumstances shall the Owner Trustee be personally liable for the payment of any indebtedness or expenses of the Trust or be liable for the breach or failure of any obligation, representation, warranty or covenant made or undertaken by the Trust under this Annex or any other related documents as to all of which recourse shall be had solely to the assets of the Trust in accordance with the terms of the Trust Agreement.
+
+ (g)
+
+ Restrictions on Amendments. The Trust shall not enter into any amendment, modification or supplement to the Indenture or any other Basic Document that would materially adversely affect (i) the Counterparty’s ability to enforce or protect its rights or remedies under this Agreement, (ii) the ability of the Trust to timely and fully perform its obligations under this Agreement or (iii) any of the Trust’s obligations under this Agreement or any Basic Document (including priority of payments under the Trust Agreement or the Indenture). Any such amendment, modification or supplement without the Counterparty’s prior written consent shall not be binding on the Counterparty. No amendment, modification, or waiver in respect of this Agreement will be effective unless (A) evidenced by a writing executed by each party hereto, and (B) the Indenture Trustee has acknowledged its consent thereto in writing, to the extent the consent of the Indenture Trustee is required under the terms of the Indenture. Prior to or simultaneous with the execution of any such amendment, the Trust shall obtain a written acknowledgment, or cause a written acknowledgment to be obtained, from each rating agency then rating the Notes, that their then-current rating of the Notes will not be reduced or withdrawn as a result of the amendment.
+
+ (h)
+
+ Consent to Recording . Each party hereby consents to the electronic recording of the telephone conversations of officers, employees or agents of the parties, their Affiliates in connection with this Agreement or any Transaction or potential Transaction.
+
+ (i)
+
+ Waiver of Trial by Jury . Each party irrevocably waives, to the fullest extent permitted by applicable law, any and all right to trial by jury with respect to any legal proceeding arising out of or relating to this Agreement, any Credit Support Document or any Transaction contemplated hereby or thereby. Each party (i) certifies that no representative, agent or attorney of the other party or any Credit Support Provider has represented, expressly or otherwise, that such other party would not, in the event of such a suit, action or proceeding, seek to enforce the foregoing waiver and (ii) acknowledges that it and the other party have been induced to enter into this Agreement and any Transaction and provide for any Credit Support Document, as applicable, by, among other things, the mutual waivers and certifications in this Section.
+
+ (j)
+
+ Severability . If any term, provision, covenant, or condition of this Agreement, or the application thereof to any party or circumstance, shall be held to be invalid or unenforceable (in whole or in part) for any reason, the remaining terms, provisions, covenants, and conditions hereof shall continue in full force and effect as if this Agreement had been executed with the invalid or unenforceable portion eliminated, so long as this Agreement as so modified continues to express, without material change, the original intentions of the parties as to the subject matter of this Agreement and the deletion of such portion of this Agreement will not substantially impair the respective benefits or expectations of the parties; provided , however , that this severability provision shall not be applicable if any provision of Section 2, 5, 6, or 13 (or any definition or provision in Section 14 to the extent it relates to, or is used in or in connection with any such Section) shall be so held to be invalid or unenforceable.
+
+ The parties shall endeavor to engage in good faith negotiations to replace any invalid or unenforceable term, provision, covenant or condition with a valid or enforceable term, provision, covenant or condition, the economic effect of which comes as close as possible to that of the invalid or unenforceable term, provision, covenant or condition.
+
+ (k)
+
+ Required Ratings Downgrade Event . In the event that no Relevant Entity has credit ratings at least equal to the Second Trigger Required Ratings (such event, a “ Required Ratings Downgrade Event ”), then the Counterparty shall, as soon as reasonably practicable and so long as a Required Ratings Downgrade Event is in effect, at its own expense, use commercially reasonable efforts to procure either (A) a Permitted Transfer or (B) an Eligible Guarantee. 
+
+ (l)
+
+ USA PATRIOT Act Notice . The Counterparty hereby notifies the Trust that pursuant to the requirements of the USA Patriot Act (Title III of Pub. L. 107-56 (signed into law October 26, 2001)) (the “ Act ”), it may be required to obtain, verify and record information that identifies the Trust, which information includes the name and address of the Trust and other information that will allow the Counterparty to identify the Trust in accordance with the Act.
+
+ (m)
+
+ Future Assurances . The parties hereto agree to promptly negotiate an amendment to this Schedule and the Credit Support Annex to make herein or therein any changes required to meet any future policies of the Rating Agencies concerning counterparties eligible to provide swaps for AAA-rated securities including but not limited to any policies concerning required collateral types, levels and other collateral delivery mechanics.
+
+ (n)
+
+ No Recourse . The Notes do not represent an interest in or obligation of the Counterparty, and no recourse may be had by the holders of the Notes against the Counterparty or its assets with respect to the Notes and/or this Agreement.
+
+ (o)
+
+ Regarding Counterparty . The Trust acknowledges and agrees that Counterparty has had and will have no involvement in, and, accordingly, accepts no responsibility for: (i) the establishment, structure, or choice of assets of the Trust or any series; (ii) the selection of any person performing services for or acting on behalf of the Trust; (iii) the selection of the Counterparty as a swap provider; (iv) the terms of the Notes or the economic terms of any Transaction entered into with the Trust pursuant to this Agreement; (v) the preparation of or passing on the disclosure and other information contained in any offering circular, prospectus, series supplement, trust deed, or any other agreements or documents used by the Trust or any other party in connection with the marketing and sale of the Notes other than information about the Counterparty provided by the Counterparty to the Trust or the Depositor for use in any such document; (vi) the ongoing operations and administration of the Trust, including the furnishing of any information to the Trust which is not specifically required under this Agreement; or (vii) any other aspect of the Trust’s existence except for those matters specifically identified in this Agreement.
+
+ (n)
+
+ Definitions. 
+
+ (1)
+
+ ISDA Definitions . The definitions and provisions contained in the 2000 ISDA Definitions (as published by the International Swaps and Derivative Association, Inc.), without regard to any revision or subsequent edition thereof, shall be incorporated into this Agreement and each Confirmation except as provided for thereof or in the Confirmation. In the event of any inconsistency between the Definitions and the Agreement or any Confirmation, this Agreement or, as the case may be, such Confirmation shall prevail.
+
+ (2)
+
+ Downgrade Definitions. 
+
+ (A)
+
+ “ Approved Replacement ” means, with respect to a Market Quotation, an entity making such Market Quotation, which entity would satisfy conditions (a), (b), (c) and (e) of the definition of Permitted Transfer (as determined by the Trust in its sole discretion, acting in a commercially reasonable manner) if such entity were a Transferee, as defined in the definition of Permitted Transfer.
+
+ (B)
+
+ “ Counterparty Trigger Event ” means (i) an Event of Default with respect to which the Counterparty is a Defaulting Party, (ii) a Termination Event (other than Illegality or Tax Event) with respect to which the Counterparty is the sole Affected Party or (iii) an Additional Termination Event with respect to which the Counterparty is the sole Affected Party.
+
+ (C)
+
+ “ Eligible Guarantee ” means an unconditional and irrevocable guarantee that is provided by a guarantor as principal debtor rather than surety and is directly enforceable by The Trust, the form and substance of which guarantee is subject to satisfaction of the Rating Agency Condition where either (A) a law firm has given a legal opinion confirming that none of the guarantor’s payments to The Trust under such guarantee will be subject to withholding for tax or (B) such guarantee provides that, in the event that any of such guarantor’s payments to The Trust are subject to withholding for tax, such guarantor is required to pay such additional amount as is necessary to ensure that the net amount actually received by The Trust (free and clear of any withholding tax) will equal the full amount The Trust would have received had no such withholding been required.
+
+ (D)
+
+ “Eligible Guarantor” means an entity that has credit ratings at least equal to the First Trigger Required Ratings.
+
+ (E)
+
+ “ Eligible Replacement ” means an entity (A) with the First Trigger Required Ratings and/or the Second Trigger Required Ratings or (B) whose present and future obligations owing to The Trust are guaranteed pursuant to an Eligible Guarantee provided by a guarantor with the First Trigger Required Ratings and/or the Second Trigger Required Ratings; provided, that any replacement of the Counterparty with an Eligible Replacement is subject to satisfaction of the Rating Agency Condition; provided further, that if an entity has only the Second Trigger Required Ratings, such entity shall also post all collateral required by such an entity under the applicable Ratings Criteria in the Credit Support Annex.
+
+ (F)
+
+ “Firm Offer” means (A) with respect to an Eligible Replacement, a quotation from such Eligible Replacement (i) in an amount equal to the actual amount payable by or to the Trust in consideration of an agreement between the Trust and such Eligible Replacement to replace the Counterparty as the counterparty to this Agreement by way of novation or, if such novation is not possible, an agreement between the Trust and such Eligible Replacement to enter into a Replacement Transaction (assuming that all Transactions hereunder become Terminated Transactions), and (ii) that constitutes an offer by such Eligible Replacement to replace the Counterparty as the counterparty to this Agreement or enter a Replacement Transaction that will become legally binding upon such Eligible Replacement upon acceptance by the Trust, and (B) with respect to an Eligible Guarantor, an offer by such Eligible Guarantor to provide an Eligible Guarantee that will become legally binding upon such Eligible Guarantor upon acceptance by the offeree.
+
+ (G)
+
+ A “ First Trigger Failure Condition ” occurs at any time the Counterparty fails to maintain the First Trigger Required Ratings.
+
+ (H)
+
+ “ First Trigger Required Ratings ” means, with respect to the Counterparty, the guarantor under an Eligible Guarantee or an Eligible Replacement, (A) either (i) where the entity is the subject of a Moody’s Short-term Rating, such entity’s Moody’s Short-term Rating is “Prime-1” and the entity’s long-term, unsecured and unsubordinated debt obligations are rated “A2” or above by Moody’s or (ii) where the entity is not the subject of a Moody’s Short-term Rating, its long-term, unsecured and unsubordinated debt obligations are rated “A1” or above by Moody’s, (B) either (i) the unsecured and unsubordinated short-term debt obligations of the entity are rated "A-1" or above by S&P or (ii) if the entity does not have a short-term rating from S&P, the unsecured long-term senior debt obligations of the Counterparty are rated "A+" or above by S&P and (C) to the extent the entity is rated by Fitch, either (i) the unsecured long-term senior debt obligations of the entity are rated “A” or above by Fitch or (ii) the unsecured and unsubordinated short-term debt obligations of the entity are rated “F1” or above by Fitch.
+
+ (I)
+
+ “ Moody’s Short-term Rating ” means a rating assigned by Moody’s under its short-term rating scale in respect of an entity’s short-term, unsecured and unsubordinated debt obligations.
+
+ (J)
+
+ “ Permitted Transfer ” means a transfer by novation by the Counterparty to a transferee (the “ Transferee ”) of all, but not less than all, of the Counterparty’s rights, liabilities, duties and obligations under this Agreement, with respect to which transfer each of the following conditions is satisfied: (a) the Transferee is an Eligible Replacement that is a recognized dealer in cross-currency swaps, (b) as of the date of such transfer neither the Trust nor the Transferee would be required to withhold or deduct on account of Tax from any payments under this Agreement, (c) an Event of Default or Termination Event would not occur as a result of such transfer, (d) the Trust and the Depositor have consented in writing to the transfer, (e) the transfer would not give rise to a taxable event or any other adverse Tax consequences to the Trust or its interest holders, as determined by the Trust in its sole discretion, (f) pursuant to a written instrument (the “ Transfer Agreement ”), the Transferee acquires and assumes all rights and obligations of the Counterparty under the Agreement and the relevant Transaction, (g) the Trust shall have determined, in its sole discretion, acting in a commercially reasonable manner, that such Transfer Agreement is effective to transfer to the Transferee all, but not less than all, of the Counterparty’s rights and obligations under the Agreement and all relevant Transactions; (h) the Counterparty will be responsible for any costs or expenses incurred in connection with such transfer (including any replacement cost of entering into a replacement transaction); (i) each of the Rating Agencies has been given prior written notice of such transfer and the Rating Agency Condition is satisfied; and (j) such transfer otherwise complies with the terms of the Basic Documents.
+
+ (K)
+
+ “ Rating Agency Condition ” means, with respect to any particular proposed act or omission to act hereunder that the party acting or failing to act must consult with each of the relevant Rating Agencies and receive from each such Rating Agency a prior written confirmation that the proposed action or inaction would not cause a downgrade or withdrawal of the then-current rating of any Notes.
+
+ (L)
+
+ “ Relevant Entities ” means the Counterparty and any guarantor under an Eligible Guarantee in respect of all of the Counterparty’s present and future obligations under this Agreement.
+
+ (M)
+
+ A “ Second Trigger Failure Condition ” occurs at any time the Counterparty fails to maintain the Second Trigger Required Ratings.
+
+ (N)
+
+ “ Second Trigger Required Ratings ” means, with respect to the Counterparty, the guarantor under an Eligible Guarantee or an Eligible Replacement (A) either (i) where the entity is the subject of a Moody’s Short-term Rating, such entity’s Moody’s Short-term Rating is “Prime-2” and the entity’s long-term, unsecured and unsubordinated debt obligations are rated “A3” or above by Moody’s or (ii) where the entity is not the subject of a Moody’s Short-term Rating, its long-term, unsecured and unsubordinated debt obligations are rated “A3” or above by Moody’s, (B) the unsecured, unguaranteed and otherwise unsupported long-term senior debt obligations of the entity are rated "BBB+" or above by S&P, and (C) to the extent the entity is rated by Fitch, either (i) the unsecured long-term senior debt obligations of the entity are rated "BBB+" or above by Fitch or (ii) the unsecured and unsubordinated short-term debt obligations of the entity are rated "F2" or above by Fitch.
+
+ (3)
+
+ Additional Definitions. Unless otherwise defined in this Agreement or in any Confirmation, the terms “ Administration Agreement ”, “ Administrator ”, “ Available Funds ”, “ Basic Documents ”, “ Collection Account ”, “ Cutoff Date ”, “ Fitch ”, “ Indenture ”, “ Indenture Administrator ”, “ Indenture Trust Estate ”, “ Indenture Trustee ”, “ Moody’s ”, “ Notes ”, “ Owner Trustee ”, “ Rating Agency ”, “ Reserve Account ”, “ S&P ”, “ Trust ”, “ Trust Student Loans ” and “ Trust Agreement ” shall have the meanings ascribed to such terms in Exhibit A to that certain Indenture dated as of December 15, 2006 by and among SLC Private Student Loan Trust 2006-A, U.S. Bank National Association, as the indenture trustee, and Citibank, N.A., as the indenture administrator, as the same may be amended, modified, restated or replaced.
+
+ GOLDMAN SACHS MITSUI MARINE DERIVATIVE PRODUCTS, L.P. 
+
+ By: GSMMDPGP, Inc.,
+
+ its General Partner
+
+ By:
+
+ /s/ John E. Eisenberg 
+
+ Name:
+
+ John E. Eisenberg
+
+ Title:
+
+ Vice President
+
+ Date:
+
+ December ___, 2006
+
+ SLC PRIVATE STUDENT LOAN TRUST 2006-A 
+
+ By:
+
+ Wilmington Trust Company, not in its individual capacity but in its capacity as Owner Trustee under that certain Amended and Restated Trust Agreement dated as of December 15, 2006 by and among the Owner Trustee, and SLC Student Loan Receivables I, Inc.
+
+ By:
+
+ /s/ J. Christopher Murphy _________________
+
+ Name:
+
+ J. Christopher Murphy
+
+ Title:
+
+ Financial Services Officer
+
+ Date:
+
+ December ___, 2006
+
+ (Bilateral Form)
+
+ (ISDA Agreements Subject to New York Law Only)
+
+ ISDA Ò 
+
+ International Swaps and Derivatives Association, Inc.
+
+ CREDIT SUPPORT ANNEX 
+
+ to the Schedule to the
+
+ Master Agreement
+
+ dated as of December 7, 2006
+
+ between
+
+ SLC PRIVATE STUDENT LOAN TRUST 2006-A 
+
+ and
+
+ GOLDMAN SACHS MITSUI MARINE DERIVATIVE PRODUCTS, L.P. 
+
+ This Annex supplements, forms part of, and is subject to, the above-referenced Agreement, is part of its Schedule and is a Credit Support Document under this Agreement with respect to each party. 
+
+ Accordingly, the parties agree as follows:
+
+ Paragraph 1. 
+
+ Interpretation 
+
+ (a) 
+
+ Definitions and Inconsistency . Capitalized terms not otherwise defined herein or elsewhere in this Agreement have the meanings specified pursuant to Paragraph 12, and all references in this Annex to Paragraphs are to Paragraphs of this Annex. In the event of any inconsistency between this Annex and the other provisions of this Schedule, this Annex will prevail, and in the event of any inconsistency between Paragraph 13 and the other provisions of this Annex, Paragraph 13 will prevail.
+
+ (b) 
+
+ Secured Party and Pledgor . All references in this Annex to the “Secured Party” will be to either party when acting in that capacity and all corresponding references to the “Pledgor” will be to the other party when acting in that capacity; provided , however , that if Other Posted Support is held by a party to this Annex, all references herein to that party as the Secured Party with respect to that Other Posted Support will be to that party as the beneficiary thereof and will not subject that support or that party as the beneficiary thereof to provisions of law generally relating to security interests and secured parties.
+
+ Paragraph 2. Security Interest 
+
+ Each party, as the Pledgor, hereby pledges to the other party, as the Secured Party, as security for its Obligations, and grants to the Secured Party a first priority continuing security interest in, lien on and right of Set-off against all Posted Collateral Transferred to or received by the Secured Party hereunder. Upon the Transfer by the Secured Party to the Pledgor of Posted Collateral, the security interest and lien granted hereunder on that Posted Collateral will be released immediately and, to the extent possible, without any further action by either party.
+
+ “ Valuation Agent ” has the meaning specified in Paragraph 13.
+
+ “ Valuation Date ” means each date specified in or otherwise determined pursuant to Paragraph 13.
+
+ “ Valuation Percentage ” means, for any item of Eligible Collateral, the percentage specified in Paragraph 13.
+
+ “ Valuation Time ” has the meaning specified in Paragraph 13.
+
+ “ Value ” means for any Valuation Date or other date for which Value is calculated and subject to Paragraph 5 in the case of a dispute, with respect to: 
+
+ (i) 
+
+ Eligible Collateral or Posted Collateral that is:
+
+ (A) 
+
+ Cash, the amount thereof; and
+
+ (B) 
+
+ a security, the bid price obtained by the Valuation Agent multiplied by the applicable Valuation Percentage, if any;
+
+ (ii) 
+
+ Posted Collateral that consists of items that are not specified as Eligible Collateral, zero; and
+
+ (iii) 
+
+ Other Eligible Support and Other Posted Support, as specified in Paragraph 13.
+
+ Elections and Variables 
+
+ to the 1994 Credit Support Annex 
+
+ between 
+
+ GOLDMAN SACHS MITSUI MARINE DERIVATIVE PRODUCTS, L.P. 
+
+ (the “Counterparty”) 
+
+ and 
+
+ SLC PRIVATE STUDENT 
+
+ LOAN TRUST 2006-A 
+
+ (the “Trust”) 
+
+ Paragraph 13. Elections and Variables 
+
+ (a)
+
+ Security Interest for “Obligations”. 
+
+ The term “ Obligations ” as used in this Annex includes the following additional obligations:
+
+ With respect to the Counterparty and the Trust: None.
+
+ With respect to the Trust: None.
+
+ (b)
+
+ Credit Support Obligations. 
+
+ (i)
+
+ Delivery Amount, Return Amount and Credit Support Amount. 
+
+ (A) 
+
+ “ Delivery Amount ” has the meaning specified in Paragraph 3(a), except that the words “upon demand made by the Secured Party on or promptly following a Valuation Date” shall be deleted and replaced with the words “not later than the close of business on each Valuation Date”.
+
+ (B)
+
+ “ Return Amount ” has the meaning specified in Paragraph 3(b).
+
+ (C) 
+
+ “ Credit Support Amount ” has the meaning specified in Paragraph 3; provided , however , that if a Ratings Collateral Trigger has occurred and is continuing, the term “Credit Support Amount” shall have the meaning specified under the relevant definition of Ratings Criteria (as defined below). In circumstances where more than one of the Ratings Criteria applies, the Credit Support Amount shall be calculated by reference to the Ratings Criteria which would result in the Counterparty transferring the greatest amount of Eligible Credit Support.
+
+ (ii)
+
+ Eligible Collateral. The following items will qualify as “ Eligible Collateral ”:
+
+Eligible Collateral
+
+ (A)
+
+ Cash
+
+ (B)
+
+ Fixed-Rate Treasury Securities with a remaining maturity of less than 52 weeks
+
+ (C)
+
+ Fixed-Rate Treasury Securities with a remaining maturity of equal to or more than 52 weeks but no more than 2 years
+
+ (D)
+
+ Fixed-Rate Treasury Securities with a remaining maturity of equal to or more than 2 years but no more than 3 years
+
+ (E)
+
+ Fixed-Rate Treasury Securities with a remaining maturity of equal to or more than 3 years but no more than 5 years
+
+ (F)
+
+ Fixed-Rate Treasury Securities with a remaining maturity of equal to or more than 5 years but no more than 7 years
+
+ (G)
+
+ Fixed-Rate Treasury Securities with a remaining maturity of equal to or more than 7 years but no more than 10 years
+
+ (H)
+
+ Fixed-Rate Treasury Securities with a remaining maturity of equal to or more than 10 years but no more than 20 years
+
+ (I)
+
+ Fixed-Rate Treasury Securities with a remaining maturity of equal to or more than 20 years
+
+ (J)
+
+ Floating-Rate Treasury Securities with any remaining maturity
+
+ (K)
+
+ Fixed-Rate U.S. Agency Notes with a remaining maturity of less than 52 weeks
+
+ (L)
+
+ Fixed-Rate U.S. Agency Notes with a remaining maturity of equal to or more than 52 weeks but no more than 2 years
+
+ (M)
+
+ Fixed-Rate U.S. Agency Notes with a remaining maturity of equal to or more than 2 years but no more than 3 years
+
+ (N)
+
+ Fixed-Rate U.S. Agency Notes with a remaining maturity of equal to or more than 3 years but no more than 5 years
+
+ (O)
+
+ Fixed-Rate U.S. Agency Notes with a remaining maturity of equal to or more than 5 years but no more than 7 years
+
+ (P)
+
+ Fixed-Rate U.S. Agency Notes with a remaining maturity of equal to or more than 7 years but no more than 10 years
+
+ (Q)
+
+ Fixed-Rate U.S. Agency Notes with a remaining maturity of equal to or more than 10 years but no more than 20 years
+
+ (R)
+
+ Fixed-Rate U.S. Agency Notes with a remaining maturity of equal to or more than 20 years
+
+ (S)
+
+ Floating-Rate U.S. Agency Notes with any remaining maturity
+
+ provided that:
+
+ (1) 
+
+ in relation to calculations in connection with the Fitch Criteria, the applicable Valuation Percentage shall be the relevant percentage determined by reference to the table headed "Advance Rates (%)" appearing at the end of Appendix 3 to the Fitch Criteria;
+
+ (2) 
+
+ upon the occurrence of a First Trigger Failure Condition and during the continuation thereof, the applicable Valuation Percentage shall be the relevant percentage set forth as the relevant collateral advance rate in Table A attached hereto;
+
+ (3) 
+
+ upon the occurrence of a Second Trigger Failure Condition and during the continuation thereof, the applicable Valuation Percentage for the Eligible Collateral shall be the relevant percentage set forth as the relevant collateral advance rate in Table B attached hereto;
+
+ (4)
+
+ upon the occurrence of a First Trigger Failure Condition or a Second Trigger Failure Condition and during the continuation thereof, the applicable Valuation Percentage shall be the relevant percentage set forth as the relevant collateral advance rate in Table E attached hereto;
+
+ (5) 
+
+ where the collateral advance rates of the Swap Rating Agencies differ with respect to the same item of Posted Collateral, the lower of the ratings shall apply provided that if a Rating Agency provides no listed advance rate with respect to a particular type of collateral, than the advance rate shall be zero; and
+
+ (6) 
+
+ any Posted Collateral shall be held in the United States.
+
+ (iii) 
+
+ Other Eligible Support . The following items will qualify as “Other Eligible Support” for the party specified: Not applicable.
+
+ (iv) 
+
+ Thresholds .
+
+ (A) 
+
+ “ Independent Amount ” means with respect to the Counterparty and to the Trust: Zero.
+
+ (B)
+
+ “ Threshold ” means with respect to the Counterparty, zero, if (i) a Ratings Collateral Trigger has occurred, and has been continuing (x) for at least 30 days or (y) since this Annex was executed or (ii) a Required Ratings Downgrade Event has occurred and is continuing; otherwise, infinity
+
+ “ Threshold ” means with respect to the Trust: Infinity.
+
+ (C)
+
+ “ Minimum Transfer Amount ” means with respect to the Counterparty: USD $1,000,000; and with respect to the Trust: USD $1,000,000; provided , however , that if a Ratings Collateral Trigger has occurred and is continuing, the Minimum Transfer Amount with respect to the Counterparty shall be USD $100,000 and provided further that if (1) an Event of Default has occurred and is continuing with respect to the Counterparty or (2) an Additional Termination Event has occurred in respect of which the Counterparty is an Affected Party, the Minimum Transfer Amount with respect to the Counterparty shall be zero.
+
+ (D)
+
+ Rounding . The Delivery Amount will be rounded up and the Return Amount will be rounded down to the nearest USD $10,000.
+
+ (v) 
+
+ “ Exposure ” has the meaning specified in Paragraph 12, except that after the word “Agreement” the words “(assuming, for this purpose only, that Part (i)(F)(1) and (i)(F)(4) of the Schedule is deleted)” shall be inserted. 
+
+ (c)
+
+ Valuation and Timing. 
+
+ (i) 
+
+ “ Valuation Agent ” means for purposes of Paragraphs 3 and 5, the Counterparty; unless an Event of Default, Potential Event of Default or a Termination Event has occurred with respect to the Counterparty in which case, the Trust shall be Valuation Agent.
+
+ (ii) 
+
+ “ Valuation Date ” means each Local Business Day that is a New York banking day.
+
+ (iii) 
+
+ “ Valuation Time ” means the close of business in New York on the New York Banking Day immediately preceding the Valuation Date or date of calculation, as applicable; provided that the calculations of Value and Exposure will be made as of approximately the same time on the same date.
+
+ (iv) 
+
+ “ Notification Time ” means 10:00 a.m., New York time, on a Local Business Day.
+
+ (d)
+
+ Conditions Precedent and Secured Party’s Rights and Remedies . The following Termination Events will be a “Specified Condition” for the party specified (that Party being the Affected Party of the Termination Event occurs with respect to that party): Not Applicable.
+
+ (e)
+
+ Substitution .
+
+ (i) 
+
+ “ Substitution Date ” has the meaning specified in Paragraph 4(d)(ii).
+
+ (ii)
+
+ Consent . If specified here as applicable, then the Pledgor must obtain the Secured Party’s consent for any substitution pursuant to Paragraph 4(d): Inapplicable.
+
+ (f)
+
+ Dispute Resolution. 
+
+ (i) 
+
+ “ Resolution Time ” means 1:00 p.m., New York time, on the Local Business Day following the date on which the notice of the dispute is given under Paragraph 5.
+
+ (ii)
+
+ Value . For the purpose of Paragraphs 5(i)(C) and 5(ii), on any date the Value of Posted Credit Support will be calculated as follows:
+
+ (A) 
+
+ With respect to Eligible Collateral consisting of Cash, 100% of such Eligible Collateral; and
+
+ (B)
+
+ With respect to any Treasury Securities or Agency Securities, the sum of (I) (x) the mean of the high bid and low asked prices quoted on such date by any principal market maker for such Securities chosen by the Disputing Party, or (y) if no quotations are available from a principal market maker on such date, the mean of such high bid and low asked prices as of the day, next preceding such date, on which such quotations were available, plus (II) the accrued interest on such Securities (except to the extent Transferred to a party pursuant to any applicable provision of this Agreement or included in the applicable price referred to in (I) of this clause (B)) as of such date, multiplied by the applicable Valuation Percentage.
+
+ Further, if the long-term debt rating of the Counterparty is withdrawn or downgraded to “BBB” or lower by S&P or any successor Rating Agency, the “calculation” of Exposure shall be verified by an external mark-to-market on at least a monthly basis. This external mark must be obtained by an independent third-party, and cannot be verified by the same entity more than four times in any 12-month period. In addition, the external mark-to-market valuations should reflect the higher of two bids from counterparties that would be eligible and willing to provide the swap in the absence of the current provider. Exposure and any required Credit Support Amount should be based on the greater of the internal and external marks, and any deficiencies in the Credit Support Amount must be cured within three days.
+
+ At any time at which the Counterparty or, to the extent applicable, its Credit Support Provider, does not have a long-term debt rating of at least “BBB+” by S&P or any successor Rating Agency, the Valuation Agent shall provide to S&P, not later than the Notification Time on the Local Business Day following each Valuation Date, its calculations of the Secured Party’s Exposure and the S&P Value of any Eligible Credit Support or Posted Credit Support for that Valuation Date. The Valuation Agent shall also provide to S&P any external marks received pursuant to the preceding paragraph.
+
+ (iii)
+
+ Alternative . The provisions of Paragraph 5 will apply.
+
+ (g) 
+
+ Holding and Using Posted Collateral. 
+
+ (i)
+
+ Eligibility to Hold Posted Collateral; Custodian. 
+
+ The Trust and its Custodian will be entitled to hold Posted Collateral pursuant to Paragraph 6(b); provided that the following conditions applicable to it are satisfied:
+
+ (1)
+
+ Posted Collateral may be held only in the following jurisdictions: the United States of America;
+
+ (2)
+
+ Posted Collateral shall at all times be held in a segregated trust account with the corporate trust department of a depository institution organized under the laws of the United States of America or any one of the States or the District of Columbia (or any domestic branch of a foreign bank), having corporate trust powers and acting as trustee for funds deposited in such account, so long as any of the securities of such depository institution have a credit rating from Moody’s, S&P, and, if such institution is rated by Fitch, Fitch, in one of their generic rating categories which signifies investment grade; provided that if such ratings of an appointed depository institution are reduced below such levels, then the depository institution shall be replaced with a depository institution meeting such levels within 30 calendar days; and
+
+ (3)
+
+ The Trust may appoint as Custodian the entity then serving as Trustee or (B) any other entity if such entity (or, to the extent applicable, the parent company or credit support provider) shall have a long-term senior unsecured debt rating by S&P of at least “A” or a short-term senior unsecured debt rating of at least “A-1” by S&P.
+
+ Initially, the Custodian for the Trust is Citibank (South Dakota), National Association, for the benefit of Wilmington Trust Company, as Owner Trustee for the SLC Private Student Loan Trust 2006-A.
+
+ (ii)
+
+ Use of Posted Collateral . The provisions of Paragraph 6(c) will not apply. Notwithstanding the foregoing, the Trust shall be permitted to assign all of its rights to the Posted Collateral to the Indenture Trustee pursuant to the terms of the Indenture as well as to invest any portion of the Posted Collateral consisting of Cash deposited from time to time in the Trust’s Custody Account.
+
+ (h) 
+
+ Distributions and Interest Amount. 
+
+ (i) 
+
+ “ Interest Rate ”. The “Interest Rate” means the Fed Funds Effective Rate on any Posted Collateral consisting of Cash on deposit during the relevant period in the Trust’s Custody Account, expressed as a percentage.
+
+ (ii) 
+
+ Transfer of Interest Amount . The Transfer of the Interest Amount will be made on the first Local Business Day of each calendar month.
+
+ (iii)
+
+ Alternative to Interest Amount . The provisions of Paragraph 6(d)(ii) will apply.
+
+ (i)
+
+ Additional Representation(s) . Not Applicable.
+
+ (j)
+
+ Other Eligible Support and Other Posted Support. “ Value ” and “ Transfer ” with respect to Other Eligible Support and Other Posted Support each means: Not Applicable.
+
+ (k) 
+
+ Demands and Notices 
+
+ All demands, specifications and notices to the Counterparty under this Annex will be made to: 
+
+ Goldman Sachs Mitsui Marine Derivative Products, L.P.
+
+ 85 Broad Street
+
+New York, New York 10004
+
+ Attention: Swaps Operations
+
+ Email: ficc-swaps-collateral@ny.email.com
+
+ and all demands, specifications and notices to the Trust under this Annex will be to: 
+
+ (For all purposes) 
+
+ SLC Private Student Loan Trust 2006-A
+
+ c/o Wilmington Trust Company
+
+1100 North Market Street
+
+Wilmington, Delaware 19890-0001
+
+ Attention: Corporate Trust Administration
+
+Facsimile No.: 302-636-4140
+
+Telephone No.: 302-636-6194
+
+ With copies to: 
+
+ (For all purposes) 
+
+ The Student Loan Corporation
+
+750 Washington Boulevard, 9 th Floor
+
+Stamford, CT 06901
+
+ Attention: Treasurer
+
+Facsimile No.: 203-975-6299
+
+Telephone No.: 203-975-6320
+
+Electronic Messaging System Details: None
+
+ ; provided that any demand, specification or notice may be made by telephone (“ Telephone Notice ”) between employees of each party if such Telephone Notice is confirmed by a subsequent written instruction (which may be delivered via facsimile) by the close of business on the same day that such Telephone Notice is given. 
+
+ (l) 
+
+ Addresses for Transfers . 
+
+ The Counterparty: 
+
+ For Cash:
+
+ To be notified to the Trust prior to any transfer. 
+
+ For Eligible Collateral: 
+
+ Fed Eligible Settlements: 
+
+ To be notified to the Trust prior to any transfer. 
+
+ DTC Eligible Settlements: 
+
+ To be notified to the Trust prior to any transfer. 
+
+ The Trust: 
+
+ To be notified to the Counterparty prior to any transfer. 
+
+ (m) 
+
+ Other Provisions . 
+
+ (i) 
+
+ Modification to Paragraph 2 — Security Interest : The following Paragraph 2 is substituted for Paragraph 2 of this Annex: 
+
+ Paragraph 2. Security Interest. 
+
+ The Pledgor hereby pledges to the Owner Trustee, on behalf of the Secured Party, as security for its Obligations, and grants to the Owner Trustee, on behalf of the Secured Party, a first priority continuing security interest in, lien on and right of Set-Off against all Posted Collateral Transferred to or received by the Owner Trustee, on behalf of the Secured Party hereunder. Upon the Transfer by the Owner Trustee, on behalf of the Secured Party, to the Pledgor of Posted Collateral, the security interest and lien granted hereunder on that Posted Collateral will be released immediately and, to the extent possible, without any further action by either party. 
+
+ (ii) 
+
+ Modification to Paragraph 6(d)(i) — Distributions : Paragraph 6(d)(i) shall be amended the phrase “or is deemed to receive” is hereby deleted. 
+
+ (iii) 
+
+ Modification to Paragraph 7 — Events of Default : Paragraph 7 shall be amended so that the references in Paragraph 7(i), Paragraph 7(ii) and Paragraph 7(iii) to “two Local Business Days”, “five Local Business Days” and “thirty days” respectively, shall instead be replaced by “one Local Business Day”, “three Local Business Days” and “three Local Business Days” respectively, provided further that Paragraph 7(iii) shall not apply to the Trust. 
+
+ (iv) 
+
+ Modification to Paragraph 9 — Representations : The following first clause of Paragraph 9 is substituted for the first clause of Paragraph 9 of this Annex: 
+
+ Paragraph 9. Representations. The Pledgor represents to the Owner Trustee, on behalf of the Secured Party (which representations will be deemed to be repeated as of each date on which it Transfers Eligible Collateral) that: 
+
+ (v) 
+
+ Modifications to Paragraph 12 — Amended Definitions : The following definitions of “Pledgor” and “Secured Party” are substituted for the definitions of those terms contained in Paragraph 12 of this Annex: 
+
+ “ Pledgor ” means the Counterparty, when that party (i) receives a demand for or is required to Transfer Eligible Credit Support under Paragraph 3(a) or (ii) has Transferred Eligible Credit Support under Paragraph 3(a). 
+
+ “ Secured Party ” means the Owner Trustee, on behalf of the Trust, when that party (i) makes a demand for or is entitled to receive Eligible Credit Support under Paragraph 3(a) or (ii) holds or is deemed to hold Posted Credit Support. 
+
+ (vi) 
+
+ Additions to Paragraph 12 — Additional Definitions : The following definitions of “ Agency Notes ”, “ Ratings Criteria ”, “ Ratings Collateral Trigger ”, “ Modified Exposure ”, “ Pricing Sources ”, “ Swap Ratings Agencies ”, and “ Treasury Securities ”, shall be added to Paragraph 12 of this Annex: 
+
+ “ Agency Notes ” means negotiable debt obligations which are issued and/or guaranteed as to both principal and Interest by the Federal Home Loan Mortgage Corporation ("FHLMC"), the Federal National Mortgage Association ("FNMA"),or the Government National Mortgage Association ("GNMA"), including mortgage-backed securities and REMICs (collectively, "Agency Securities"), but excluding interest only securities, principal only securities and residual interests.
+
+ “ Ratings Criteria ” means, the criteria used by S&P (“ S&P Criteria ”), the criteria used by Moody's (“ Moody's Criteria ”) and the criteria used by Fitch as set out in the report by Fitch dated 13 September 2004 and entitled Counterparty Risk in Structured Finance Transactions: Swap Criteria (“ Fitch Criteria ”) for the purposes of determining the amount of Eligible Credit Support the Counterparty is required to transfer hereunder following a First Trigger Failure Condition, with respect to Moody’s or another ratings downgrade, with respect to any other Rating Agency. Where the Counterparty is required to post collateral in accordance with more than one Ratings Criteria, the Counterparty will be required to post collateral in accordance with such Ratings Criteria which produces the highest Delivery Amount and the lowest Return Amount. 
+
+ Fitch Criteria: 
+
+ “ Credit Support Amount ” shall mean, with respect to a Pledgor on a Valuation Date, the sum of (a) the Secured Party’s Exposure as determined by the Counterparty in good faith and (b) 1.05 multiplied by the current aggregate Notional Amount(s) of the outstanding Transactions multiplied by the Volatility Cushion.
+
+ “ Volatility Cushion ” means the percentage specified in Appendix 2 to the Fitch Criteria for a weighted average life that is equal to (or closest to) the weighted average of the weighted average life of each series and class of Notes rated by Fitch. For these purposes, the Valuation Agent shall utilize the weighted average life of each series and class of Notes rated by Fitch in relation to which the Counterparty is the swap counterparty provided by the Administrator (1) an assumed constant prepayment rate of 0.0%, default rate of 0.0% and such assumptions as will reflect the then current expectations of Administrator and/or be based upon such circumstances as Administrator may, in good faith, determine applicable; and, notwithstanding for the avoidance of doubt (1) above, assuming (2) that the Issuer will not redeem the Notes other than on the maturity date in respect of such Notes.
+
+ Moody’s Criteria: 
+
+ “ Credit Support Amount ” shall mean, for the purposes of the Moody's Criteria, with respect to the Counterparty on a Valuation Date the sum of (a) the Counterparty's Exposure as determined by Valuation Agent in good faith plus (b) the applicable Additional Collateral Amount. For such purposes, “Additional Collateral Amount” means the product of (a) the Notional Amount of the Transaction times (b) the percentage determined below:
+
+ (i)
+
+ for each Valuation Date on which (A) no Relevant Entity has ratings equal to or exceeding the First Trigger Required Ratings and (B) more than 30 Local Business Days have elapsed since a Relevant Entity had the First Trigger Required Ratings, the applicable percentage set forth on Table C attached hereto; and
+
+ (ii)
+
+ for each Valuation Date on which (A) no Relevant Entity has ratings equal to or exceeding the Second Trigger Required Rating or (B) 30 or more Local Business Days have elapsed since the last time a Relevant Entity had ratings equal to or exceeding the Second Trigger Required Ratings, the applicable percentage set forth on Table D attached hereto.
+
+ S&P Criteria: 
+
+ “ Credit Support Amount ” shall mean with respect to a Pledgor on a Valuation Date the greater of zero and the sum of: 
+
+ (A) 
+
+ Secured Party Modified Exposure, and 
+
+ (B) 
+
+ 0.10 multiplied by the VB multiplied by the Notional Amount where. 
+
+ VB equals the following: U.S. Dollar
+
+ Eligible Collateral Rating (S&P)
+
+ 5 Years or Less Until to Termination Date
+
+ More than 5 Years but 10 Years or Less until the Termination Date
+
+ More than 10 Years until the Termination Date
+
+ A-2
+
+ 3.25%
+
+ 4.00%
+
+ 4.75%
+
+ A-3
+
+ 4.00%
+
+ 5.00%
+
+ 6.25%
+
+ BB+ or lower
+
+ 4.50%
+
+ 6.75%
+
+ 7.50%
+
+ “ Modified Exposure ” means, for any Valuation Date, an amount equal to the greater of (i) the Secured Party's Exposure for that Valuation Date, (ii) the aggregate amounts of the next scheduled interest payment that is required to be made by the Counterparty pursuant to each Transaction to which the Counterparty and the Trust are party and (iii) one percent of the outstanding Notional Amount of each Transaction outstanding under the Master Agreement.
+
+ “ Ratings Collateral Trigger ” means the occurrence of any of the following events: 
+
+ (i) 
+
+ the short-term debt rating of the Counterparty is withdrawn or downgraded below “A-1” (or where the Counterparty does not have a short-term debt rating, its long-term senior unsecured debt rating is withdrawn or downgraded below “A+”) by S&P or a successor rating agency; 
+
+ (ii) 
+
+ the occurrence with respect to the Counterparty of a First Trigger Failure Condition; or 
+
+ (iii) 
+
+ The short-term debt rating of the Counterparty is withdrawn or downgraded below ‘‘F1’’ by Fitch or any successor Rating Agency. 
+
+ “ Pricing Sources ” means the sources of financial information commonly known as Bloomberg, Bridge Information Services, Data Resources Inc., Interactive Data Services, International Securities Market Association, Merrill Lynch Securities Pricing Service, Muller Data Corporation, Reuters, Wood Gundy, Trepp Pricing, JJ Kenny, S&P and Telerate.
+
+ “ Swap Rating Agencies ” means, as of any date, any of the Rating Agencies then rating the Counterparty or any Relevant Entity
+
+ “ Treasury Securities ” means U.S. Dollar-denominated senior debt securities of the United States of America issued by the U.S. Treasury Department and backed by the full faith and credit of the United States of America.
+
+ (vii) 
+
+ Notwithstanding any other provision in this Agreement to the contrary, no full or partial failure to exercise and no delay in exercising, on the part of the Counterparty or the Trust, any right, remedy, power or privilege permitted hereunder shall operate in any way as a waiver thereof by such party, including without limitation any failure to exercise or any delay in exercising to any or to the full extent of such party’s rights with respect to transfer timing pursuant to Paragraph 4(b), regardless of the frequency of such failure or delay. 
+
+ (viii) 
+
+ In all cases, in order to facilitate calculation of the Delivery Amount and the Return Amount for a particular Valuation Date in accordance with Paragraph 3 of this Annex: 
+
+ (A) 
+
+ Eligible Collateral; 
+
+ (B) 
+
+ Exposure; and 
+
+ (C) 
+
+ Posted Collateral 
+
+ shall each be expressed in US Dollars. If any of these items are expressed in a currency other than US Dollars, then they shall be converted into US Dollar amounts at the spot exchange rate determined by the Valuation Agent on that Valuation Date. 
+
+ (n) 
+
+ Agreement as to Single Secured Party and Pledgor . The Counterparty and the Trust agree that, notwithstanding anything to the contrary in the recital to this Annex, Paragraph 1(b) or Paragraph 2 or the definitions of Paragraph 12, (a) the term “Secured Party” as used in this Annex shall mean only the Trust, (b) the term “Pledgor” as used in this Annex shall mean only the Counterparty, (c) only the Counterparty makes the pledge and grant in Paragraph 2, the acknowledgement in the final sentence of Paragraph 8(a) and the representations in paragraph 9 and (d) only the Counterparty will be required to make Transfers of Eligible Credit Support hereunder. 
+
+ (o) 
+
+ Covenants of the Pledgor . So long as the Agreement is in effect, the Counterparty covenants that it will keep the Posted Collateral free from all security interests or other encumbrances created by the Counterparty, except the security interest created hereunder and any security interests or other encumbrances created by the Trust; and will not sell, transfer, assign, deliver or otherwise dispose of, or grant any option with respect to any Posted Collateral or any interest therein, or create, incur or permit to exist any pledge, lien, mortgage, hypothecation, security interest, charge, option or any other encumbrance with respect to any Posted Collateral or any interest therein, without the prior written consent of the Trust. 
+
+ (p) 
+
+ Costs of Transfer on Exchange . Notwithstanding Paragraph 8, the Pledgor will be responsible for, and will reimburse the Secured Party for, all transfer and other taxes and other costs involved in the transfer of Eligible Credit Support either from the Pledgor to the Secured Party or from the Secured Party to the Pledgor hereto.
+
+ (q)
+
+ Cumulative Rights . The rights, powers and remedies of the Secured Party under this Annex shall be in addition to all rights, powers and remedies given to the Secured Party by the Agreement or by virtue of any statute or rule of law, all of which rights, powers and remedies shall be cumulative and may be exercised successively or concurrently without impairing the rights of the Secured Party in the Posted Collateral created pursuant to this Annex.
+
+ (r)
+
+ Trustee Capacity . It is expressly understood and agreed by the parties hereto that (i) this Annex is executed and delivered by the Owner Trustee not individually or personally, in the exercise of the powers and authority conferred and vested in it under the Trust Agreement, (ii) each of the representations, undertakings and agreements herein made on the part of the Trust is made and intended not as personal representations, undertakings and agreements by the Owner Trustee but is made and intended for the purpose of binding only the Trust, (iii) nothing herein contained shall be construed as creating any liability on the part of the Owner Trustee, individually or personally, to perform any covenant either expressed or implied contained herein, all such liability, if any, being expressly waived by the parties hereto and by any Person claiming by, through or under the parties hereto and (iv) under no circumstances shall the Owner Trustee be personally liable for the payment of any indebtedness or expenses of the Trust or be liable for the breach or failure of any obligation, representation, warranty or covenant made or undertaken by the Trust under this Annex or any other related documents as to all of which recourse shall be had solely to the assets of the Trust in accordance with the terms of the Trust Agreement.
+
+ (s)
+
+ Return of Fungible Securities . In lieu of returning to the Pledgor pursuant to Paragraphs 3(b), 4(d), 5 and 8(d), any Posted Collateral comprising securities the Secured Party may return Equivalent Collateral. “ Equivalent Collateral ” means, with respect to any security constituting Posted Collateral, a security of the same issuer and, as applicable, representing or having the same class, series, maturity, interest rate, principal amount or liquidation value and such other provisions as are necessary for that security and the security constituting Posted Collateral to be treated as equivalent in the market for such securities.
+
+ [REMAINDER OF PAGE LEFT INTENTIONALLY BLANK] 
+
+ IN WITNESS WHEREOF , the parties have executed this Credit Support Annex by their duly authorized officers as of the date hereof. 
+
+ GOLDMAN SACHS MITSUI MARINE DERIVATIVE PRODUCTS, L.P. 
+
+ By: GSMMDPGP, Inc., 
+
+ its General Partner
+
+ By: /s/ John E. Eisenberg 
+
+ Name: John E. Eisenberg
+
+ Title: Vice President
+
+ Date: December ___, 2006 
+
+ SLC PRIVATE STUDENT LOAN TRUST 2006-A 
+
+ By: Wilmington Trust Company, not in its individual capacity but solely in its capacity as Owner Trustee under that certain Amended and Restated Trust Agreement dated as of December 15, 2006 by and among the Owner Trustee and SLC Student Loan Receivables I, Inc. 
+
+ By: _ /s/ J. Christopher Murphy 
+
+ Name: J. Christopher Murphy
+
+ Title: Financial Services Officer
+
+ Date: December ___, 2006 
+
+ Table A 
+
+ Moody’s Table 5C “Valuation Percentages – Where Rated Liabilities are U.S. Dollar Denominated” under the column headed “First Trigger – Posting Frequency – Weekly” 
+
+Eligible Collateral
+
+Counterparty
+
+ Valuation Percentage
+
+ (A)
+
+ Cash
+
+ [X]
+
+ 100.0%
+
+ (B)
+
+ Fixed-Rate Treasury Securities with a remaining maturity of less than 52 weeks
+
+ [X]
+
+ 100.0%
+
+ (C)
+
+ Fixed-Rate Treasury Securities with a remaining maturity of equal to or more than 52 weeks but no more than 2 years
+
+ [X]
+
+ 100.0%
+
+ (D)
+
+ Fixed-Rate Treasury Securities with a remaining maturity of equal to or more than 2 years but no more than 3 years
+
+ [X]
+
+ 100.0%
+
+ (E)
+
+ Fixed-Rate Treasury Securities with a remaining maturity of equal to or more than 3 years but no more than 5 years
+
+ [X]
+
+ 100.0%
+
+ (F)
+
+ Fixed-Rate Treasury Securities with a remaining maturity of equal to or more than 5 years but no more than 7 years
+
+ [X]
+
+ 100.0%
+
+ (G)
+
+ Fixed-Rate Treasury Securities with a remaining maturity of equal to or more than 7 years but no more than 10 years
+
+ [X]
+
+ 100.0%
+
+ (H)
+
+ Fixed-Rate Treasury Securities with a remaining maturity of equal to or more than 10 years but no more than 20 years
+
+ [X]
+
+ 100.0%
+
+ (I)
+
+ Fixed-Rate Treasury Securities with a remaining maturity of equal to or more than 20 years
+
+ [X]
+
+ 100.0%
+
+ (J)
+
+ Floating-Rate Treasury Securities with any remaining maturity
+
+ [X]
+
+ 100.0%
+
+ (K)
+
+ Fixed-Rate U.S. Agency Notes with a remaining maturity of less than 52 weeks
+
+ [X]
+
+ 100.0%
+
+ (L)
+
+ Fixed-Rate U.S. Agency Notes with a remaining maturity of equal to or more than 52 weeks but no more than 2 years
+
+ [X]
+
+ 100.0%
+
+ (M)
+
+ Fixed-Rate U.S. Agency Notes with a remaining maturity of equal to or more than 2 years but no more than 3 years
+
+ [X]
+
+ 100.0%
+
+ (N)
+
+ Fixed-Rate U.S. Agency Notes with a remaining maturity of equal to or more than 3 years but no more than 5 years
+
+ [X]
+
+ 100.0%
+
+ (O)
+
+ Fixed-Rate U.S. Agency Notes with a remaining maturity of equal to or more than 5 years but no more than 7 years
+
+ [X]
+
+ 100.0%
+
+ (P)
+
+ Fixed-Rate U.S. Agency Notes with a remaining maturity of equal to or more than 7 years but no more than 10 years
+
+ [X]
+
+ 100.0%
+
+ (Q)
+
+ Fixed-Rate U.S. Agency Notes with a remaining maturity of equal to or more than 10 years but no more than 20 years
+
+ [X]
+
+ 100.0%
+
+ (R)
+
+ Fixed-Rate U.S. Agency Notes with a remaining maturity of equal to or more than 20 years
+
+ [X]
+
+ 100.0%
+
+ (S)
+
+ Floating-Rate U.S. Agency Notes with any remaining maturity
+
+ [X]
+
+ 100.0%
+
+ Table B 
+
+ Moody’s Table 5C “Valuation Percentages – Where Rated Liabilities are U.S. Dollar Denominated” under the column headed “Second Trigger – Posting Frequency – Weekly” 
+
+Eligible Collateral
+
+Counterparty
+
+ Valuation Percentage
+
+ (A)
+
+ Cash
+
+ [X]
+
+ 100.0%
+
+ (B)
+
+ Fixed-Rate Treasury Securities with a remaining maturity of less than 52 weeks
+
+ [X]
+
+ 100.0%
+
+ (C)
+
+ Fixed-Rate Treasury Securities with a remaining maturity of equal to or more than 52 weeks but no more than 2 years
+
+ [X]
+
+ 99.0%
+
+ (D)
+
+ Fixed-Rate Treasury Securities with a remaining maturity of equal to or more than 2 years but no more than 3 years
+
+ [X]
+
+ 98.0%
+
+ (E)
+
+ Fixed-Rate Treasury Securities with a remaining maturity of equal to or more than 3 years but no more than 5 years
+
+ [X]
+
+ 97.0%
+
+ (F)
+
+ Fixed-Rate Treasury Securities with a remaining maturity of equal to or more than 5 years but no more than 7 years
+
+ [X]
+
+ 95.0%
+
+ (G)
+
+ Fixed-Rate Treasury Securities with a remaining maturity of equal to or more than 7 years but no more than 10 years
+
+ [X]
+
+ 94.0%
+
+ (H)
+
+ Fixed-Rate Treasury Securities with a remaining maturity of equal to or more than 10 years but no more than 20 years
+
+ [X]
+
+ 89.0%
+
+ (I)
+
+ Fixed-Rate Treasury Securities with a remaining maturity of equal to or more than 20 years
+
+ [X]
+
+ 87.0%
+
+ (J)
+
+ Floating-Rate Treasury Securities with any remaining maturity
+
+ [X]
+
+ 99.0%
+
+ (K)
+
+ Fixed-Rate U.S. Agency Notes with a remaining maturity of less than 52 weeks
+
+ [X]
+
+ 99.0%
+
+ (L)
+
+ Fixed-Rate U.S. Agency Notes with a remaining maturity of equal to or more than 52 weeks but no more than 2 years
+
+ [X]
+
+ 98.0%
+
+ (M)
+
+ Fixed-Rate U.S. Agency Notes with a remaining maturity of equal to or more than 2 years but no more than 3 years
+
+ [X]
+
+ 97.0%
+
+ (N)
+
+ Fixed-Rate U.S. Agency Notes with a remaining maturity of equal to or more than 3 years but no more than 5 years
+
+ [X]
+
+ 96.0%
+
+ (O)
+
+ Fixed-Rate U.S. Agency Notes with a remaining maturity of equal to or more than 5 years but no more than 7 years
+
+ [X]
+
+ 94.0%
+
+ (P)
+
+ Fixed-Rate U.S. Agency Notes with a remaining maturity of equal to or more than 7 years but no more than 10 years
+
+ [X]
+
+ 93.0%
+
+ (Q)
+
+ Fixed-Rate U.S. Agency Notes with a remaining maturity of equal to or more than 10 years but no more than 20 years
+
+ [X]
+
+ 88.0%
+
+ (R)
+
+ Fixed-Rate U.S. Agency Notes with a remaining maturity of equal to or more than 20 years
+
+ [X]
+
+ 86.0%
+
+ (S)
+
+ Floating-Rate U.S. Agency Notes with any remaining maturity
+
+ [X]
+
+ 98.0%
+
+ Table C 
+
+ Moody’s First Trigger Factor 
+
+ Remaining
+
+Weighted Average Life 
+
+of Hedge in Years 
+
+ Additional Collateral Amount
+
+Percentage 
+
+ 1 or less
+
+ 2.20%
+
+ More than 1 but not more than 2
+
+ 2.40%
+
+ More than 2 but not more than 3
+
+ 2.60%
+
+ More than 3 but not more than 4
+
+ 2.80%
+
+ More than 4 but not more than 5
+
+ 2.90%
+
+ More than 5 but not more than 6
+
+ 3.10%
+
+ More than 6 but not more than 7
+
+ 3.30%
+
+ More than 7 but not more than 8
+
+ 3.40%
+
+ More than 8 but not more than 9
+
+ 3.60%
+
+ More than 9 but not more than 10
+
+ 3.80%
+
+ More than 10 but not more than 11
+
+ 3.90%
+
+ More than 11 but not more than 12
+
+ 4.00%
+
+ More than 12 but not more than 13
+
+ 4.10%
+
+ More than 13 but not more than 14
+
+ 4.30%
+
+ More than 14 but not more than 15
+
+ 4.40%
+
+ More than 15 but not more than 16
+
+ 4.50%
+
+ More than 16 but not more than 17
+
+ 4.60%
+
+ More than 17 but not more than 18
+
+ 4.80%
+
+ More than 18 but not more than 19
+
+ 4.90%
+
+ More than 19 but not more than 20
+
+ 5.00%
+
+ More than 20 but not more than 21
+
+ 5.00%
+
+ More than 21 but not more than 22
+
+ 5.00%
+
+ More than 22 but not more than 23
+
+ 5.00%
+
+ More than 23 but not more than 24
+
+ 5.00%
+
+ More than 24 but not more than 25
+
+ 5.00%
+
+ More than 25 but not more than 26
+
+ 5.00%
+
+ More than 26 but not more than 27
+
+ 5.00%
+
+ More than 27 but not more than 28
+
+ 5.00%
+
+ More than 28 but not more than 29
+
+ 5.00%
+
+ More than 29
+
+ 5.00%
+
+ Table D 
+
+ Moody’s Second Trigger Factor 
+
+ Remaining
+
+Weighted Average Life 
+
+of Hedge in Years 
+
+ Additional Collateral Amount
+
+Percentage 
+
+ 1 or less
+
+ 7.25%
+
+ More than 1 but not more than 2
+
+ 7.50%
+
+ More than 2 but not more than 3
+
+ 7.70%
+
+ More than 3 but not more than 4
+
+ 8.00%
+
+ More than 4 but not more than 5
+
+ 8.20%
+
+ More than 5 but not more than 6
+
+ 8.40%
+
+ More than 6 but not more than 7
+
+ 8.60%
+
+ More than 7 but not more than 8
+
+ 8.80%
+
+ More than 8 but not more than 9
+
+ 9.00%
+
+ More than 9 but not more than 10
+
+ 9.20%
+
+ More than 10 but not more than 11
+
+ 9.30%
+
+ More than 11 but not more than 12
+
+ 9.50%
+
+ More than 12 but not more than 13
+
+ 9.70%
+
+ More than 13 but not more than 14
+
+ 9.80%
+
+ More than 14 but not more than 15
+
+ 10.00%
+
+ More than 15 but not more than 16
+
+ 10.00%
+
+ More than 16 but not more than 17
+
+ 10.00%
+
+ More than 17 but not more than 18
+
+ 10.00%
+
+ More than 18 but not more than 19
+
+ 10.00%
+
+ More than 19 but not more than 20
+
+ 10.00%
+
+ More than 20 but not more than 21
+
+ 10.00%
+
+ More than 21 but not more than 22
+
+ 10.00%
+
+ More than 22 but not more than 23
+
+ 10.00%
+
+ More than 23 but not more than 24
+
+ 10.00%
+
+ More than 24 but not more than 25
+
+ 10.00%
+
+ More than 25 but not more than 26
+
+ 10.00%
+
+ More than 26 but not more than 27
+
+ 10.00%
+
+ More than 27 but not more than 28
+
+ 10.00%
+
+ More than 28 but not more than 29
+
+ 10.00%
+
+ More than 29
+
+ 10.00%
+
+ Table E 
+
+ ELIGIBLE COLLATERAL
+
+ Eligible Collateral & Valuation Percentages
+
+ S&P 
+
+ Valuation Percentage* 
+
+ (A)
+
+ Cash : U.S. Dollars in depositary account form
+
+ 100%
+
+ (B)
+
+ U.S. Treasury Securities : negotiable debt obligations issued by the U.S. Treasury Department after July 18, 1984 (“ Treasuries ”) having a remaining maturity of up to and not more than 1 year.
+
+ 98.60%
+
+ (C)
+
+ Treasuries having a remaining maturity of greater than 1 year but not more than 2 years.
+
+ 94.6%
+
+ 97.3% 
+
+ (C)
+
+ Treasuries having a remaining maturity of greater than 2 years but not more than 3 years.
+
+ 94.60%
+
+ 96.5% 
+
+ (C)
+
+ Treasuries having a remaining maturity of greater than 3 years but not more than 5 years.
+
+ 93.80%
+
+ (D)
+
+ Treasuries having a remaining maturity of greater than 5 years but not more than 7 years.
+
+ 92%
+
+ (D)
+
+ Treasuries having a remaining maturity of greater than 7 years but not more than 10 years.
+
+ 90.30%
+
+ (E)
+
+ Treasuries having a remaining maturity of greater than 10 years but not more than 20 years.
+
+ 86.90%
+
+ (F)
+
+ Treasuries having a remaining maturity of greater than 20 years but not more than 30 years.
+
+ 84.60%
+
+ (G)
+
+ Agency Securities : negotiable debt obligations of the Federal National Mortgage Association (FNMA), Federal Home Loan Mortgage Corporation (FHLMC), Federal Home Loan Banks (FHLB), Federal Farm Credit Banks (FFCB), Tennessee Valley Authority (TVA) (collectively, “ Agency Securities ”) issued after July 18, 1984 and having a remaining maturity of not more than 1 year.
+
+ 98.0% 
+
+ (H)
+
+ Agency Securities having a remaining maturity of greater than 1 year but not more than 2 years.
+
+ 96.8% 
+
+ (H)
+
+ Agency Securities having a remaining maturity of greater than 2 years but not more than 3 years.
+
+ 96.3% 
+
+ (H)
+
+ Agency Securities having a remaining maturity of greater than 3 years but not more than 5 years.
+
+ 92.6% 
+
+ (I)
+
+ Agency Securities having a remaining maturity of greater than 5 years but not more than 7 years.
+
+ 90.7% 
+
+ (I)
+
+ Agency Securities having a remaining maturity of greater than 7 years but not more than 10 years.
+
+ 87.40%
+
+ (J)
+
+ Agency Securities having a remaining maturity of greater than 10 years but not more than 20 years.
+
+ 81.6% 
+
+ (K)
+
+ Agency Securities having a remaining maturity of greater than 20 years but not more than 30 years.
+
+ 76.00%
+
+ (L)
+
+ FHLMC Certificates . Mortgage-backed pass-through certificates issued by FHLMC evidencing undivided interests or participations in pools of first lien conventional or FHA/VA residential mortgages or deeds of trust, guaranteed by FHLMC, issued after July 18, 1984 and having a remaining maturity of not more than 30 years.
+
+ 86.40%
+
+ (M)
+
+ FNMA Certificates . Mortgage-backed pass-through certificates issued by FNMA evidencing undivided interests in pools of first lien mortgages or deeds of trust on residential properties, guaranteed by FNMA, issued after July 18, 1984 and having a remaining maturity of not more than 30 years.
+
+ 86.40%
+
+ (N)
+
+ GNMA Certificates . Mortgage-backed pass-through certificates issued by private entities, evidencing undivided interests in pools of first lien mortgages or deeds of trust on single family residences, guaranteed by the Government National Mortgage Association (GNMA) with the full faith and credit of the United States, issued after July 18, 1984 and having a remaining maturity of not more than 30 years.
+
+ 86.40%
+
+ (P)
+
+ Commercial Paper . Commercial Paper with a rating of at least P-1 by Moody’s and at least A-1+ by S&P and having a remaining maturity of not more than 30 days.
+
+ 99%
+
+ CONFIRMATION 
+
+ December 7, 2006 
+
+ REF NO. LTAA1706796351.1 / 00666746301
+
+ SLC Private Student Loan Trust 2006-A
+
+ c/o Wilmington Trust Company
+
+ 1100 North Market Street
+
+Wilmington, Delaware 19890-0001
+
+ Attention: Corporate Trust Administration
+
+ Subject: 
+
+ Basis Swap Transaction 
+
+ The purpose of this confirmation is to set forth the terms and conditions of the above referenced basis swap transaction entered into on the Trade Date specified below (the “Swap Transaction”) between Goldman Sachs Mitsui Marine Derivative Products, L.P. (the “Counterparty”) and SLC Private Student Loan Trust 2006-A (the “Trust”). This confirmation constitutes a “Confirmation” as referred to in the Master Agreement specified below. 
+
+ 1. 
+
+ This Confirmation supplements, forms a part of and is subject to the ISDA Master Agreement and Schedule thereto dated as of December 7, 2006 (the “Master Agreement”) between the Counterparty and the Trust. All provisions contained in, or incorporated by reference to, the Master Agreement shall govern this Confirmation except as expressly modified below. In the event of any inconsistency between this Confirmation, the ISDA Definitions, or the Master Agreement, as the case may be, this Confirmation will control for purposes of the Transaction to which this Confirmation relates. 
+
+ 2. 
+
+ The terms of the particular Transaction to which this Confirmation relates are as follows: 
+
+ Counterparties: 
+
+ The Trust and the Counterparty. 
+
+ Trade Date: 
+
+ December 7, 2006. 
+
+ Effective Date: 
+
+ December 15, 2006. 
+
+ Notional Amount: 
+
+ For the initial Calculation Period, the Notional Amount is $2,902,017,628. 
+
+ For each Calculation Period thereafter, the Notional Amount is for each Trust Floating Rate Payment Date and LIBOR Floating Rate Payment Date, as applicable, the notional amount set forth in the following schedule.
+
+ Notional Amount 
+
+ Notional Amount 
+
+ Notional Amount 
+
+ April 2007
+
+ $2,902,017,628 
+
+ October 2010
+
+ $1,686,164,208 
+
+ January 2014
+
+ $796,103,692
+
+ July 2007
+
+ $2,902,017,628 
+
+ January 2011
+
+ $1,602,841,853 
+
+ April 2014
+
+ $446,293,478 
+
+ October 2007
+
+ $2,827,017,628 
+
+ April 2011
+
+ $1,522,270,621 
+
+ July 2014
+
+ $415,888,714 
+
+ January 2008
+
+ $2,777,017,628 
+
+ July 2011
+
+ $1,443,490,328 
+
+ October 2014
+
+ $387,026,359 
+
+ April 2008
+
+ $2,628,558,474 
+
+ October 2011
+
+ $1,367,808,697 
+
+ January 2015
+
+ $359,405,648 
+
+ July 2008
+
+ $2,526,654,566 
+
+ January 2012
+
+ $1,294,932,034
+
+ April 2015
+
+ $277,344,992 
+
+ October 2008
+
+ $2,426,653,415 
+
+ April 2012
+
+ $1,224,566,175 
+
+ July 2015
+
+ $255,901,694 
+
+ January 2009
+
+ $2,328,477,046 
+
+ July 2012
+
+ $1,156,242,879 
+
+ October 2015
+
+ $235,864,751 
+
+ April 2009
+
+ $2,232,475,352 
+
+ October 2012
+
+ $1,090,378,470 
+
+ January 2016
+
+ $216,743,820 
+
+ July 2009
+
+ $2,136,160,900 
+
+ January 2013
+
+ $1,027,156,252 
+
+ April 2016
+
+ $198,352,336 
+
+ October 2009
+
+ $2,041,611,217 
+
+ April 2013
+
+ $966,192,426 
+
+ July 2016
+
+ $180,624,436 
+
+ January 2010
+
+ $1,949,836,531 
+
+ July 2013
+
+ $907,008,461
+
+ October 2016
+
+ $164,512,131 
+
+ April 2010
+
+ $1,860,785,889 
+
+ October 2013
+
+ $850,365,981
+
+ January 2017
+
+ $149,155,469 
+
+ July 2010
+
+ $1,772,609,260 
+
+ Termination Date: 
+
+ The Trust Floating Rate Payment Date in January 2017. 
+
+ TRUST FLOATING RATE PAYMENTS: 
+
+ Trust Floating Rate Payer: 
+
+ The Trust. 
+
+ Trust Floating Rate Period End Dates
+
+ and Trust Floating Rate Reset Dates: 
+
+ Each January 15th, April 15th, July 15th and October 15th during the term hereof, commencing April 15, 2007 and ending on the Termination Date, with No Adjustment for accrual purposes.
+
+ Trust Floating Rate Determination Dates: 
+
+ The most recent Business Day that is at least 30 days prior to each October 1st, January 1st, April 1st and July 1st during the term hereof.
+
+ Trust Floating Rate Payment Date: 
+
+ Each Trust Floating Rate Period End Date, subject to adjustment in accordance with the Following Business Day Convention.
+
+ Trust Floating Rate: 
+
+ Except in the case of the Initial Trust Floating Rate (which is set forth below), the excess, if any, of (i) USD-Prime-H.15 as of the Trust Floating Rate Determination Date over (ii) the Spread. In the event that more than one applicable rate is published, the Trust Floating Rate will be calculated using the highest applicable rate so published.
+
+ Spread: 
+
+ 280.3 basis points (2.803%). 
+
+ Initial Trust Floating Rate: 
+
+ 5.447%. 
+
+ Trust Floating Rate Day Count Fraction: 
+
+ Actual/Actual. 
+
+ Settlement: 
+
+ On each Trust Floating Rate Payment Date, the Trust will pay to the Counterparty an amount (to the extent such amount is positive) equal to: 
+
+ Trust Floating Rate for the previous Trust Floating Rate Reset Date times the Notional Amount in effect for such date times the Trust Floating Rate Day Count Fraction. 
+
+ LIBOR FLOATING RATE PAYMENTS: 
+
+ LIBOR Floating Rate Payer: 
+
+ The Counterparty. 
+
+ LIBOR Floating Rate Period End 
+
+ and LIBOR Reset Dates: 
+
+ Each January 15th, April 15th, July 15th and October 15th during the term hereof, commencing April 15, 2007 and ending on the Termination Date, with No Adjustment for accrual purposes.
+
+ LIBOR Floating Rate: 
+
+ USD-LIBOR-BBA for the Floating Rate Designated Maturity; provided , however , that (i) the term “London Banking Days” shall mean a Business Day in New York and London and (ii) if USD-LIBOR Reference Banks is used as a fallback and quotations are not available, the rate will be the rate in effect for the previous Calculation Period. 
+
+ Notwithstanding the foregoing, if the Spread applicable to the Trust Floating Rate exceeds the Prime Rate on any LIBOR Reset Date, the LIBOR Floating Rate for the related Calculation Period shall be increased by the product of (i) the number of basis points that the Spread so exceeds the Prime Rate as of that date and (ii) a fraction, the numerator of which is 360 and the denominator of which is 365 (or, if any portion of that Calculation Period falls in a leap year, the denominator shall be 366). 
+
+ Representative Amount:
+
+ Not less than USD $1,000,000. 
+
+ LIBOR Floating Rate Designated Maturity: 
+
+ Three (3) months.
+
+ LIBOR Floating Rate Day Count Fraction: 
+
+ Actual/360. 
+
+ LIBOR Floating Rate Payment Date: 
+
+ Early Payment applies — three (3) New York and London Business Days prior to each LIBOR Floating Rate Period End Date.
+
+ Settlement: 
+
+ On each LIBOR Floating Rate Payment Date, the Counterparty will pay to the Trust an amount equal to: 
+
+ LIBOR Floating Rate for the previous LIBOR Floating Rate Reset Date times the Notional Amount in effect for such date times the LIBOR Floating Rate Day Count Fraction. 
+
+ 2. 
+
+ Additional Provisions: 
+
+ (a) 
+
+ Business Days. New York, unless otherwise specified. 
+
+ (b) 
+
+ Calculation Agent. The Counterparty, unless an Event of Default applicable to the Counterparty has occurred and is continuing or a Termination Event under the Master Agreement has occurred and is continuing with respect to which the Counterparty is the sole Affected Party, in which case the Trust shall become the Calculation Agent. The Trust shall delegate its duties as the Calculation Agent to the Administrator, in accordance with the terms of the Schedule.
+
+ (c) 
+
+ Notice of Payment Amounts. The Calculation Agent shall provide notice to the Counterparty and the Trust by at least 1:00 p.m. (New York City time) 1 Business Day prior to the LIBOR Floating Rate Payer Payment Date of whether the Counterparty is required to make a payment and, if so, the amount of such payment together with reasonable details as to how the amounts were calculated pursuant to the aggregate principal balance of the Trust Student Loans. Notwithstanding anything herein to the contrary, if notice is received by the Counterparty after 1:00 p.m. (New York City time) 1 Business Day prior to each such LIBOR Floating Rate Payer Payment Date, the LIBOR Floating Rate Payer Payment Date shall be 1 Business Day after the day such notice is deemed to be received. For purposes hereof, any notice received on any day after 1:00 p.m. and/or any day that is not a Business Day shall be deemed received on the next Business Day. 
+
+ 3. 
+
+ Account Details: 
+
+ Payments to the Counterparty: 
+
+ For the Account of: 
+
+ Goldman Sachs Mitsui Marine Derivative Products, L.P.
+
+ Name of Bank: 
+
+ ABA: 021000021
+
+ JPMorgan Chase 
+
+ City: New York
+
+ A/C No: 9301034733
+
+ Entity Name: GS Mitsui Marine Derivative Products, L.P.
+
+ Payments to the Trust: 
+
+ For the Account of : 
+
+ For the account of: 
+
+ SLC Private Student Loan Trust 2006-A
+
+ Account No.: 
+
+ ABA: 021-000-089
+
+ A/C No.: 3617-2242 
+
+ Ref: SLC 2006-A AC 106258
+
+ For payment inquiries : 
+
+ SLC Private Student Loan Trust 2006-A
+
+ Treasurer
+
+ SLC Receivables I, Inc.
+
+ 750 Washington Blvd 
+
+ Stamford, CT 06901
+
+ Attention: Treasurer
+
+ Facsimile No.: 203-975-6299 
+
+ Telephone No.: 203-975-5061 
+
+ Electronic Messaging System Details: None 
+
+ 4. 
+
+ Offices: 
+
+ (a) 
+
+ The Office of the Counterparty for this Transaction is New York, New York. 
+
+ (b) 
+
+ The Office of the Trust for this Transaction is Wilmington, Delaware. 
+
+ Please confirm that the foregoing correctly sets forth the terms of our agreement by executing the copy of this Confirmation enclosed for that purpose and returning it to us. 
+
+ Very truly yours, 
+
+ GOLDMAN SACHS MITSUI MARINE DERIVATIVE PRODUCTS, L.P. 
+
+ By: 
+
+ GSMMDPGP, Inc.,
+
+ its General Partner
+
+ By: /s/ John E. Eisenberg 
+
+ Name: John E. Eisenberg
+
+ Title: Vice President
+
+ Accepted and confirmed as of the date first written above. 
+
+ SLC PRIVATE STUDENT LOAN TRUST 2006-A 
+
+ By: 
+
+ Wilmington Trust Company, not in its individual capacity but in its capacity as Owner Trustee under that certain Amended and Restated Trust Agreement dated as of December 15, 2006 by and among the Owner Trustee and SLC Student Loan Receivables, Inc.
+
+ By: _ /s/ J. Christopher Murphy _______
+
+ Name: J. Christopher Murphy
+
+ Title: Financial Services Officer

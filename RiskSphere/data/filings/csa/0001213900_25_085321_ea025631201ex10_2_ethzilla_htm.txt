@@ -1,0 +1,711 @@
+EX-10.2
+ 3
+ ea025631201ex10-2_ethzilla.htm
+ PHYSICALLY-SETTLED SPOT AND FORWARD TRANSACTION AGREEMENT BETWEEN CUMBERLAND DRW LLC AND 180 SPV TREASURY VEHICLE I LLC
+
+ Exhibit 10.2 
+
+ Date: 
+ September 8, 2025 
+
+ To: 
+
+ 180 SPV Treasury Vehicle I, LLC (“ Party B ”)
+
+3000 El Camino Real, Bldg. 4, Suite 200
+
+Palto Alto, CA, 94306
+
+ Email: mcandrew@ethzilla.com
+
+ From: 
+
+ Cumberland DRW LLC (“ Party A ”)
+
+540 W. Madison Street, Suite 2500
+
+Chicago, IL, 60661
+
+ Email: apickerill@cumberland.io, dlim@cumberland.io, rstrebel@drwholdings.com,
+rm@cumberland.io
+
+ Re: 
+ Physically-Settled Spot and Forward Transactions 
+
+ Dear Sirs,
+
+ 1. The purpose of this communication (a “ Confirmation ”)
+is to confirm the terms and conditions of the above-referenced Transaction entered into on the Trade Date specified below (the “ Transaction ”)
+between Cumberland DRW LLC (“ CDRW ” or “ Party A ”) and 180 SPV Treasury Vehicle I, LLC (“ 180SPV ”
+or “ Party B ”). This communication constitutes a “Confirmation” as referred to in the ISDA Master Agreement
+specified below.
+
+ The definitions and provisions contained in the
+1998 FX and Currency Option Definitions (the “ FX Definitions ”) and the ISDA Digital Asset Derivatives Definitions (the
+“ Digital Asset Definitions ” and together with the FX Definitions, the “ Definitions ”), in each case
+as published by the International Swaps and Derivatives Association, Inc., are incorporated into this Confirmation. Except where otherwise
+indicated, in the event of any inconsistency between the Digital Asset Definitions and the FX Definitions, the Digital Asset Definitions
+will prevail. In the event of any inconsistency between the Definitions and this Confirmation, this Confirmation will govern.
+
+ This Confirmation evidences a complete and binding
+agreement between us as to the terms of the Transaction to which this Confirmation relates. This Confirmation shall supplement, form part
+of, and be subject to, an agreement (which shall survive the termination of this Transaction) (the “ Agreement ”) in
+the form of the ISDA 2002 Master Agreement (the “ ISDA Form ”) as if, on the Trade Date specified below, we had executed
+the Agreement in such form with CDRW as Party A and 180SPV as Party B, but without any Schedule, except for the following and subject
+to the elections and modifications set forth elsewhere in this Confirmation:
+
+ (a) for all purposes of Section 5(a): 
+
+ (i) with respect to Party A, the term “ Specified Entity ”
+shall not be defined for any purpose; and, 
+
+ (ii) with respect to the Party B, the term “ Specified Entity ”
+shall not be defined for any purpose; 
+
+ (b) the “ Netting of Payments ” provisions of Section
+2(c) of such Agreement will not apply; 
+
+ (c) the “ Automatic Early Termination ” provisions
+of Section 6(a) will not apply to Party A or Party B; 
+
+ (d) the “ Credit Event Upon Merger ” provision
+in Section 5(b)(v) of the Agreement will not apply to Party A or Party B; 
+
+ (e) the Termination Currency is U.S. Dollars (“ USD ”);
+and 
+
+ (f) the Agreement shall be governed by New York law without reference
+to choice of law rules (other than Sections 5-1401 and 5-1402 of the New York General Obligations Law); EACH OF THE PARTIES HEREBY IRREVOCABLY
+WAIVES ANY AND ALL RIGHT TO A TRIAL BY JURY WITH RESPECT TO ANY PROCEEDINGS ARISING OUT OF OR RELATING TO THIS TRANSACTION, TO THE FULLEST
+EXTENT PERMITTED BY LAW 
+
+ (g) This Transaction is subject to the ISDA Credit Support Annex
+(Security Interest—New York Law) dated as of the Trade Date (the “CSA”) between the parties, as set out in Appendix
+1 hereto. 
+
+ Each party represents that it is an “eligible
+contract participant” as defined in Section 1a(18) of the Commodity Exchange Act, as amended.
+
+ The Agreement is a single, separate and distinct
+contract and relates only to the Transaction described in this Confirmation. The Agreement shall not govern any other transactions between
+Party A and Party B and any one or more other transactions between Party A and Party B will be the subject of one or more separate ISDA
+Master Agreements (whether separately executed or deemed to arise by incorporation in the relevant confirmation), either as a single Transaction
+under such separate ISDA Master Agreement or as part of a specified group of Transactions subject to such separate ISDA Master Agreement.
+
+ 2. The terms of the particular Transaction to
+which this Confirmation relates are as follows:
+
+ General Terms: 
+
+ Trade Date: 
+ [●] 
+
+ Effective Date: 
+ [●] 
+
+ Reference Asset: 
+ Ethereum ( “ETH” ) 
+
+ Spot Leg: 
+
+ Buyer: 
+ Party A 
+
+ Seller: 
+ Party B 
+
+ Amount Payable by Party B: 
+ [●] 
+
+ Amount Payable by Party A: 
+ [●] 
+
+ Settlement Date: 
+ [●] 
+
+ Forward Leg: 
+
+ Product Type: 
+ Deliverable Digital Asset Forward 
+
+ Buyer: 
+ Party B 
+
+ Seller: 
+ Party A 
+
+ Amount Payable by Party B: 
+ [●] 
+
+ Amount Payable by Party A: 
+ [●] 
+
+ Settlement Date: 
+ [●] ( three (3) months after the Effective Date, unless otherwise agreed between the Parties in writing 
+
+ Physical Settlement: 
+ Applicable 
+
+ Independent Amount: 
+ Buyer Independent Amount: [●] ETH, to be delivered by Buyer on the Trade Date and held under
+the CSA. The Valuation Percentage for ETH shall be 100%.
+
+Seller Independent Amount: zero 
+
+ 2 
+
+ Settlement Currency: 
+ United States dollars (“ USD” ) 
+
+ Price Source: 
+ as advised by Party A from time to time 
+
+ Price Source Currency: 
+ USD 
+
+ Business Day Convention: 
+ Not applicable 
+
+ Calendar Day Election: 
+ Applicable 
+
+ Disruption Events: 
+
+ Delivery Disruption: 
+ Applicable 
+
+ Price Source Disruption – Price Source Unavailability, Price Source Discontinuance: 
+ Applicable 
+
+ Material Change in Methodology (for fallback/valuation only): 
+ Applicable 
+
+ Hedging Disruption: 
+ Applicable 
+
+ Increased Cost of Hedging: 
+ Applicable 
+
+ Hedging Illegality: 
+ Applicable 
+
+ Price Source Disruption Fallback Order: 
+ (i) Fallback Settlement Price 
+
+(ii) Price Source Termination Event
+
+(iii) Calculation Agent Determination 
+
+ Fork Disruption Event: 
+
+ Fork Disruption Event: 
+ Applicable 
+
+ Fork Determining Party: 
+ Party A 
+
+ Calculation Agent Fork Adjustment: 
+ Applicable 
+
+ Valuation on Termination: 
+ Buyer Termination Value 
+
+ 3 
+
+ Change in Law Disruption Events: 
+
+ Change in Law – Performance Illegality: 
+ Applicable 
+
+ Valuation on Termination: 
+ Disrupted Party Termination Value 
+
+ Additional Provisions: 
+
+ Additional Representation: 
+
+ For the purposes of Section 3 of the Agreement, Party B represents
+and warrants to Party A that: with respect to any ETH it transfers and/or delivers under this Confirmation, it is the lawful owner of
+such ETH with good and marketable title thereto, and it has the absolute right to sell, assign, convey, transfer and/or deliver such ETH.
+Such ETH is free and clear of any and all security interests, liens, pledges, claims (pending or threatened), charges, escrows, encumbrances
+or similar rights.
+
+ Transaction Early Termination: 
+
+ Notwithstanding anything to the contrary in the Credit Support
+Annex, if, at any time prior to the Settlement Date, the price of ETH decreases by 20% or more as determined in good faith by Party A,
+Party A will notify Party B and Party B shall transfer additional Collateral to restore the Buyer Independent Amount to equal not less
+than USD 80,000,000 expressed as ETH. If Party B fails to transfer additional Collateral to satisfy the required Buyer Independent Amount
+within 24 hours from the time such notice is sent by Party A, a Transaction Early Termination will be deemed to have occurred with respect
+to Party B as the Affected Party.
+
+ 3. Calculation Agent: 
+ Party A 
+
+ 4. Account Details: 
+
+ Account for payments or delivery to Party A: will be advised separately
+in writing.
+
+ Account for payments or delivery to Party B: will be advised separately
+in writing.
+
+ 5. Offices: 
+
+ (a) The Office of Party A for the Transaction is Chicago; and
+
+ (b) The Office of Party B for the Transaction is Palto Alto, California
+
+ [signature page follows]
+
+ 4 
+
+ Please confirm by signing below that the foregoing correctly sets forth
+the terms of the agreement between us with respect to any Transaction contemplated by this Confirmation and return to us.
+
+ Yours faithfully,
+
+ Cumberland DRW LLC 
+
+ By: 
+
+ Name: 
+
+ Title: 
+
+ Confirmed as of the date first above written:
+
+ 180 SPV Treasury Vehicle I LLC 
+
+ By: 
+
+ Name: 
+ McAndrew Rudisill 
+
+ Title: 
+ President 
+
+ 5 
+
+ Appendix A 
+
+ (Bilateral Form) 
+ (ISDA Agreements Subject to New York Law Only) 
+
+ ISDA ® 
+
+ International Swaps and Derivatives Association,
+Inc.
+
+ CREDIT SUPPORT ANNEX 
+
+ to the Schedule to the
+
+ 2002 ISDA Master Agreement 
+
+ dated as of September 8, 2025
+
+ between
+
+ Cumberland DRW LLC , 
+
+established as a Limited
+Liability company under the
+
+ laws of Delaware 
+ and 
+ 180 SPV Treasury Vehicle I LLC ,
+
+established as a Limited Liability company with
+
+company number 10269061 under the laws of
+
+Delaware 
+
+ (“ Party A ”) 
+
+ (“ Party B ”) 
+
+ This Annex supplements, forms part of, and is
+subject to, the above referenced Agreement, is part of its Schedule and is a Credit Support Document under the Agreement with respect
+to each party. Capitalized terms used but not otherwise defined herein shall each have the meaning assigned to such term in the Agreement.
+
+ Accordingly, the parties agree as follows:
+
+ Paragraphs 1-12. Incorporation 
+
+ Paragraphs 1 through 12 inclusive of the ISDA
+Credit Support Annex (Bilateral Form) (ISDA Agreements Subject to New York Law Only) published in 1994 by the International Swaps and
+Derivatives Association, Inc. (“ ISDA ”) are incorporated herein by reference and made a part hereof.
+
+ Paragraph 13. Elections and Variables 
+
+ (a) Security Interest for Obligations. The term “ Obligations ” as used
+in this Annex shall have the meaning set forth in Paragraph 12 ( Definitions ). 
+
+ (b) Credit Support Obligations. 
+
+ (i) Delivery Amount, Return Amount and Credit Support Amount. 
+
+ (A) “ Delivery Amount ” has the meaning set forth in Paragraph 3(a) ( Delivery Amount ). 
+
+ (B) “ Return Amount ” has the meaning set forth in Paragraph 3(b) ( Return Amount ). 
+
+ (C) “ Credit Support Amount ” has the meaning set forth in Paragraph 3 ( Credit
+Support Obligations ). 
+
+ 6 
+
+ (ii) Eligible Collateral. The following items will qualify as “ Eligible Collateral ”
+for the party specified: 
+
+ Party A 
+ Party B 
+ Valuation Percentage 
+
+ (A) Cash 
+ X 
+ X 
+ 100% 
+
+ (B) Ethereum (“ ETH ”) 
+ X 
+ X 
+ 85% unless otherwise agreed to by the parties 
+
+ (C) USD Coin (“ USDC ”) 
+ X 
+ X 
+ 100% 
+
+ (D) Any other item agreed upon in writing from time to time by the parties 
+ X 
+ X 
+ As agreed by the parties 
+
+ (iii) Other Eligible Support. The following items will qualify as “ Other Eligible
+Support ”: Not applicable. 
+
+ (iv) Thresholds. 
+
+ (A) “ Independent Amount ” means: 
+
+ (1) with respect to Party A: not applicable; and, 
+
+ (2) with respect to Party B: not applicable unless specified in the relevant Confirmation. 
+
+ (B) “ Threshold ” means: 
+
+ (1) with respect to Party A: infinity; and 
+
+ (2) with respect to Party B: zero, 
+
+ (C) “ Minimum Transfer Amount ” means: 
+
+ (1) with respect to Party A: not applicable; and, 
+
+ (2) with respect to Party B: zero 
+
+ (D) Rounding. The Delivery Amount and the Return Amount will be rounded up and down, respectively,
+to the nearest integral multiple of US$10,000; provided that, if the Credit Support Amount at such time with respect to a party
+as Pledgor is zero, the Return Amount will not be rounded. 
+
+ (c) Valuation and Timing. 
+
+ (i) “ Valuation Agent ” means Party A; provided that, notwithstanding anything
+to the contrary in this Annex, the Valuation Agent shall not be required to notify Party B of any of the Valuation Agent’s calculations
+of Value, Exposure, Delivery Amount or Return Amount under this Annex unless expressly requested to do so in writing by Party B in each
+instance. 
+
+ (ii) “ Valuation Date ” means, as determined by the Valuation Agent. 
+
+ (iii) “ Valuation Time ” means, for purposes of determining Delivery Amount and Return
+Amount, as determined by the Valuation Agent. 
+
+ (iv) “ Notification Time ” means: in respect of each Valuation Date: 10:00 a.m., New
+York time. 
+
+ (v) Transfer Timing . Paragraph 4(b) of this Annex is amended
+by (A) deleting the word “next” in the third line thereof and replacing it with the word “same”; and (B) deleting
+the words “second Local Business Day thereafter” in the fifth line thereof and replacing them with the words “next Local
+Business Day.” 
+
+ 7 
+
+ (d) Conditions Precedent and Secured Party’s Rights and Remedies. The following Termination
+Event(s) will be a “ Specified Condition ” for the party specified (that party being the Affected Party if the
+Termination Event occurs with respect to that party): 
+
+ Party A 
+ Party B 
+
+ (i) Force Majeure Event 
+ [X] 
+ [X] 
+
+ (ii) Illegality 
+ [X] 
+ [X] 
+
+ (iii) Tax Event 
+ [ ] 
+ [ ] 
+
+ (iv) Tax Event Upon Merger 
+ [ ] 
+ [ ] 
+
+ (v) Credit Event Upon Merger 
+ [ ] 
+ [ ] 
+
+ (vi) Additional Termination Events specified in the Schedule to the Agreement 
+ [X] 
+ [X] 
+
+ (e) Substitution. 
+
+ (i) “ Substitution Date ” has the meaning specified in Paragraph 4(d)(ii) of this
+Annex. 
+
+ (ii) Consent. 
+The Pledgor shall obtain the Secured Party’s consent for any substitution pursuant to Paragraph 4(d) ( Substitutions ). 
+
+ (f) Dispute Resolution. 
+
+ (i) “ Resolution Time ” means 1:00 p.m., New York time, on the Local Business Day
+following the date on which the notice is given that gives rise to a dispute under Paragraph 5 ( Dispute Resolution ). 
+
+ (ii) Value. For the purpose of Paragraphs 5(i)(C) and 5(ii), the Value of Posted Collateral or
+of any Transfer of Eligible Collateral or Posted Collateral other than Cash, as the case may be, will be calculated by the Valuation Agent
+in accordance with standard market practice using third-party sources where available, multiplied by the applicable Valuation Percentage. 
+
+ (iii) Alternative. The provisions of Paragraph 5 will apply. 
+
+ (g) Holding and Using Posted Credit Support. 
+
+ (i) Eligibility to Hold Posted Credit Support; Custodians. 
+
+ (A) Party A will be entitled to hold Posted Credit Support itself or through a Custodian pursuant to Paragraph
+6(b) ( Eligibility to Hold Posted Collateral; Custodians ); provided that the following conditions applicable to it are satisfied: 
+
+ (1) Party A is not a Defaulting Party; and 
+
+ (2) Posted Credit Support may only be held in the United States of America. 
+
+ Initially, the “ Custodian ” for Party A shall be: 
+
+ Not applicable. 
+
+ (B) Party B will be entitled to hold Posted Credit Support itself or through a Custodian pursuant to Paragraph
+6(b); provided that the following conditions applicable to it are satisfied: 
+
+ (1) Party B is not a Defaulting Party; and 
+
+ (2) Posted Credit Support may only be held in the United States of America. 
+
+ Initially, the
+ “ Custodian ” for Party B shall be: 
+
+ Not applicable. 
+
+ 8 
+
+ (ii) Use of Posted Collateral. The provisions of Paragraph 6(c) ( Use of Posted Collateral )
+will apply. 
+
+ (iii) Crypto Asset Posted as Collateral . The Pledgor will receive the benefit and ownership of
+any incremental tokens generated as a result of a Hard Fork in the relevant Crypto Asset protocol or an Applicable Airdrop that results
+in a second token (the “ New Token ”) being created only if the following two conditions are met: 
+
+ (A) Market Capitalization : the average market capitalization of the New Token (defined as the total
+value of all New Tokens) on the 30th day following the occurrence the Hard Fork or Applicable Airdrop (calculated as a 30-day average
+on such date) is at least 5% of the average market capitalization of the Posted Collateral comprised of Crypto Assets (defined as the
+total value of the Posted Collateral comprised of Crypto Assets) (calculated as a 30-day average on such date). 
+
+ (B) 24-Hour Trading Volume : the average 24-hour trading volume of the New Token on the 30th day following
+the occurrence the Hard Fork or Applicable Airdrop (calculated as a 30-day average on such date) is at least 1% of the average 24-hour
+trading volume of the Posted Collateral comprised of Crypto Assets (calculated as a 30-day average on such date). 
+
+ For the above calculations, the source
+for the relevant data on the Crypto Asset market capitalization, and 24-Hour trading volume will be blockchain.info or, if blockchain.info
+does not provide the required information, then bitinfocharts.com or, if neither blockchain.info nor bitinfocharts.com provide the required
+information, then coingecko.com and if none of the foregoing data sources provide the required information, the parties shall discuss
+in good faith to agree upon another data source).
+
+ If any New Tokens meet the criteria above
+(such New Tokens, “Qualifying New Tokens”), then, (i) in respect of Posted Collateral comprised of Crypto Assets, the Secured
+Party will have up to 60 days from the Hard Fork or Applicable Airdrop to transfer the Qualifying New Tokens to Pledgor.
+
+ “ Airdrop ” means
+a distribution of a new token or tokens resulting from the ownership of a separate pre-existing token. An “ Applicable Airdrop ”
+is an Airdrop for which the distribution of new tokens can be definitively calculated according to its distribution method, such as a
+pro rata distribution based on the amount of the relevant Crypto Asset held at a specified time. A “Non-Applicable Airdrop”
+is an Airdrop for which the distribution of new tokens cannot be definitively calculated, such as a random distribution, a distribution
+to every wallet of the relevant Crypto Asset, or a distribution that depends on a wallet of the relevant Crypto Asset meeting a threshold
+requirement.
+
+ “ Hard Fork ”
+means a permanent divergence in the relevant Crypto Asset blockchain, that commonly occurs when non-upgraded nodes cannot validate blocks
+created by upgraded nodes that follow newer consensus rules.
+
+ (h) Distributions and Interest Amount. 
+
+ (i) Interest Rate. The “ Interest Rate ” with respect to Eligible Collateral
+in the form of Cash, for any day, will be the rate opposite the caption “Federal Funds (Effective)” for such day as published
+in Federal Reserve Publication H.15 (519) or any successor publication as published by the Board of Governors of the Federal Reserve System
+and is not subject to compounding. 
+
+ (ii) Transfer of Interest Amount. The Transfer of the Interest Amount shall be made as soon as
+practicable but no later than the fifth Local Business Day after the end of the relevant Interest Period. 
+
+ (iii) Definition of Interest Period. The definition of “Interest Period” in Paragraph
+12 shall be deleted and replaced with the following: 
+
+ 9 
+
+ ““Interest Period”
+ means the period from the first day of a calendar month to the last day of such calendar month, each inclusive.”
+
+ (iv) Alternative to Interest Amount. The provisions of Paragraph 6(d)(ii) ( Interest Amount )
+will not apply. 
+
+ (i) Other Eligible Support and Other Posted Support. “Value” and “Transfer” 
+with respect to Other Eligible Support and Other Posted Support each means: Not applicable. 
+
+ (j) Additional Representations. Paragraph 9 ( Representations ) is hereby amended and restated
+in its entirety as follows: 
+
+ “ Paragraph 9. Representations 
+
+ Each party represents to the other party
+(which representations will be deemed to be repeated as of each date on which it, as the Pledgor, Transfers Eligible Credit Support that:
+
+ (i) it has the power to grant a security interest in and lien on
+any Eligible Credit Support it Transfers as the Pledgor and has taken all necessary actions to authorize the granting of that security
+interest and lien; 
+
+ (ii) it is the sole owner of or otherwise has the right to Transfer
+all Eligible Credit Support it Transfers to the Secured Party hereunder, free and clear of any security interest, lien, encumbrance or
+other restrictions other than the security interest and lien granted under Paragraph 2 ( Security Interest ); 
+
+ (iii) upon the Transfer of any Eligible Credit Support to the Secured
+Party under the terms of this Annex, the Secured Party will have a valid and perfected first priority security interest therein (assuming
+that any central clearing corporation or any third-party financial intermediary or other entity not within the control of the Pledgor
+involved in the Transfer of that Eligible Credit Support gives the notices and takes the action required of it under applicable law for
+perfection of that interest); and 
+
+ (iv) the performance by it of its obligations under this Annex will
+not result in the creation of any security interest, lien or other encumbrance on any Posted Credit Support other than the security interest
+and lien granted under Paragraph 2.” 
+
+ (k) Demands and Notices. All demands, specifications and notices under this Annex will be made
+pursuant to Section 12 ( Notices ) of the Agreement; provided that : 
+
+ (i) The address for Party A for such purposes shall be: 
+
+ Cumberland DRW LLC 
+
+ Address: 
+
+ 540 W. Madison St., Suite 2500 
+
+ Chicago, Illinois 60110 
+
+ Attention: 
+
+ Global Head of Treasury 
+
+ E-Mail: 
+
+ margin@drw.com 
+
+ E-Mail: 
+
+ operations@cumberland.io 
+
+ (ii) The address for Party B for such purposes shall be: 
+
+ 180 SPV
+ Treasury Vehicle I, LLC 
+
+ Address: 
+
+ 3000 El Camino
+ Real, Bldg. 4, Suite 200 
+
+ Palo Alto, CA 94306 
+
+ Attention: 
+
+ McAndrew Rudisill 
+
+ Telephone
+ No.: 
+
+ Email: 
+
+ mcandrew@ethzilla.com 
+
+ 10 
+
+ (l) Address for Transfers. 
+
+ (i) Party A: As specified to Party B in writing from time to time. 
+
+ (ii) Party B: As specified to Party A in writing from time to time. 
+
+ (m) Other Provisions. 
+
+ (i) Amendments to Definitions. 
+
+ (A) Local Business Day. The definition of “ Local Business Day ” in
+Paragraph 12 ( Definitions ) of this Annex is hereby amended by deleting the phrase “clause (b)” and replacing it with
+“clause (c)”. 
+
+ (ii) ISDA 2014 Collateral Agreement Negative Interest Protocol. The parties agree that the
+terms of the 2014 Collateral Agreement Negative Interest Protocol published by ISDA on 12 May 2014 (the “ Negative Interest
+Protocol ”) are incorporated into and apply to the Agreement. All capitalized terms used in this Paragraph 13(m)(ii)
+that are not otherwise defined in the Agreement shall be as defined in the Negative Interest Protocol. The parties further agree
+that this Annex shall be a Protocol Covered Collateral Agreement (provided it otherwise satisfies the criteria set out in the definition
+of Protocol Covered Collateral Agreement as set out in the Negative Interest Protocol), this Annex shall be amended as if Party A and
+Party B had adhered to the Negative Interest Protocol, the Implementation Date shall be the date of the Agreement and the references to
+“Adhering Party” in the Negative Interest Protocol shall be construed as referring to Party A and Party B. 
+
+ (iii) US Tax Treatment. Notwithstanding anything in the Agreement to the contrary, the parties
+intend that all pledges and Transfers of Eligible Credit Support (other than Cash) under this Annex be treated as pledges of collateral
+and not sales and purchases for US federal income tax purposes. 
+
+ [Remainder of page intentionally left blank] 
+
+ 11 
+
+ IN WITNESS WHEREOF, 
+the parties hereto have executed this Annex on the respective dates specified below, with effect from the date specified on the first
+page.
+
+ CUMBERLAND
+ DRW LLC 
+
+ 180 SPV Treasury
+ Vehicle I, LLC 
+
+ By: 
+
+ By: 
+
+ Name: 
+
+ Name: 
+ McAndrew Rudisill 
+
+ Title: 
+
+ Title: 
+ President 
+
+ Date: 
+
+ Date: 
+
+ 12

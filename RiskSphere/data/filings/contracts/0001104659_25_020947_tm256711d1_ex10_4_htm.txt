@@ -1,0 +1,877 @@
+EX-10.4
+ 12
+ tm256711d1_ex10-4.htm
+ EXHIBIT 10.4
+
+ Exhibit 10.4 
+
+ ISDA 
+
+ International Swap Dealers Association, Inc.
+
+ SCHEDULE 
+
+ to the 
+
+ Master Agreement 
+
+ dated as of [________]
+
+ between
+
+ [________]
+ (“Party A”) and
+
+ CARVANA
+AUTO RECEIVABLES TRUST 20[ ]–[ ] (“Party B”)
+
+ Part 1.        Termination
+Provisions. 
+
+ (a) The following shall apply: 
+
+ ( i)              Termination
+ by Party A - Events of Default. Notwithstanding the provisions of Section 5(a), the only
+ events which will constitute Events of Default when they occur in relation to Party B will be those
+ events specified in Sections 5(a)(i) (Failure To Pay Or Deliver), and Section 5(a)(vii) (Bankruptcy),
+ provided that with respect to Party B the provisions of Section 5(a)(vii) clauses
+ (2), (7) and (9) will not be applicable as an Event of Default; clause (3) will
+ not apply to Party B to the extent it refers to any assignment, arrangement or composition that is
+ effected by or pursuant to the Indenture; clause (4) will not apply to Party B to the
+ extent that it refers to proceedings or petitions instituted or presented by Party A or any of its
+ Affiliates; clause(6) will not apply to Party B to the extent that it refers to (i) any
+ appointment that is contemplated or effected by the Indenture (as defined herein) or (ii) any appointment
+ that Party B has not become subject to); clause (8) will not apply to Party B to
+ the extent that it applies to Section 5(a)(vii)(2), (4), (6), and (7) (except to the extent
+ that such provisions are not disapplied with respect to Party B). 
+
+ Accordingly, the provisions of Section 5(a)(ii) (Breach
+Of Agreement), the provisions of Section 5(a)(iii) (Credit Support Default) (other than Section 5(a)(iii)(1)), the provisions
+of Section 5(a)(iv) (Misrepresentation), the provisions of Section 5(a)(v) (Default Under Specified Transaction),
+the provisions of Section 5(a)(vi) (Cross Default), the provisions of Section 5(a)(vii) (Bankruptcy) set forth in
+the proviso in the preceding paragraph and the provisions of Section 5(a)(viii) (Merger Without Assumption) will in no circumstances
+be regarded as having given rise to an Event of Default with respect to Party B.
+
+ (ii)             Termination
+ by Party A - Termination Events Notwithstanding the provisions of Section 5(b), and save
+ as otherwise provided herein, the only events which will constitute Termination Events when they occur
+ in relation to Party B will be those events specified in Section 5(b)(i) (Illegality), Section 5(b)(ii) (Tax
+ Event), Section 5(b)(iii) (Tax Event Upon Merger) and Section 5(b)(v) (Additional Termination
+ Event); provided that Party A shall not be entitled to designate an Early Termination Date
+ by reason of a Tax Event Upon Merger in respect of which it is the Affected Party. Accordingly, the provisions
+ of Section 5(b)(iv) (Credit Event Upon Merger) will not be regarded as having given rise to a
+ Termination Event with respect to Party B. 
+
+ Schedule to ISDA Master Agreement 
+
+ (iii)            Termination
+ by Party B - Events of Default and Termination Events . Save as otherwise provided herein,
+ the provisions of Section 5 will apply with respect to Party A without amendment. For purposes
+ of Section 5(a)(vi) (Cross Default), the Threshold Amount applicable to Party A shall be
+ 3% of shareholder equity (excluding deposits). 
+
+ (b) “Specified Entity” none
+ specified in relation to either Party A or Party B. 
+
+ (c) “Specified Transaction” 
+ will have the meaning specified in Section 14 of this Agreement. 
+
+ (d) The “Automatic Early Termination”
+ provision of Section 6(a) of this Agreement will not apply to Party A
+ and will not apply to Party B. 
+
+ (e) Payments on Early Termination. For
+ the purpose of Section 6(e) of this Agreement: 
+
+ Market Quotation will apply and the
+Second Method will apply; [ provided , however , with respect to an early termination in which Party A is the Defaulting
+Party or sole Affected Party in respect of an Additional Termination Event or Tax Event Upon Merger, notwithstanding Section 6
+of this Agreement, the following amendment to this Agreement set forth in paragraphs (i) to (vi) below shall apply:
+
+ (i)             The
+ definition of “Market Quotation” shall be deleted in its entirety and replaced with the following: 
+
+ “ Market Quotation ”
+means, with respect to one or more Terminated Transactions, a Firm Offer which is (1) made by a Reference Market-maker that is an
+Eligible Replacement, (2) for an amount that would be paid to Party B (expressed as a negative number) or by Party B (expressed
+as a positive number) in consideration of an agreement between Party B and such Reference Market-maker to enter into a transaction
+(the “ Replacement Transaction ”) that would have the effect of preserving for such party the economic equivalent of
+any payment or delivery (whether the underlying obligation was absolute or contingent and assuming the satisfaction of each applicable
+condition precedent) by the parties under Section 2(a)(i) in respect of such Terminated Transactions or group of Terminated
+Transactions that would, but for the occurrence of the relevant Early Termination Date, have been required after that Date, (3) made
+on the basis that Unpaid Amounts in respect of the Terminated Transaction or group of Transactions are to be excluded but, without limitation,
+any payment or delivery that would, but for the relevant Early Termination Date, have been required (assuming satisfaction of each applicable
+condition precedent) after that Early Termination Date is to be included and (4) made in respect of a Replacement Transaction with
+commercial terms substantially the same as those of this Agreement (save for the exclusion of provisions relating to Transactions that
+are not Terminated Transactions).”
+
+ 2 Schedule to ISDA Master Agreement 
+
+ (ii)             The
+definition of “Settlement Amount” shall be deleted in its entirety and replaced with the following: 
+
+ “ Settlement Amount ”
+means, with respect to any Early Termination Date, an amount (as determined by Party B) equal to:
+
+ (a)              if,
+ on or prior to such Early Termination Date, a Market Quotation for the relevant Terminated Transaction or group of Terminated Transactions
+ is accepted by Party B so as to become legally binding, the Termination Currency Equivalent of the amount (whether positive or
+ negative) of such Market Quotation; 
+
+ (b)              if,
+ on such Early Termination Date, no Market Quotation for the relevant Terminated Transaction or group of Terminated Transactions is
+ accepted by Party B so as to become legally binding and one or more Market Quotations have been communicated to Party B and
+ remain capable of becoming legally binding upon acceptance by Party B, the Termination Currency Equivalent of the amount (whether
+ positive or negative) of the lowest of such Market Quotations; and 
+
+ (c)              if,
+ on such Early Termination Date, no Market Quotation for the relevant Terminated Transaction or group of Terminated Transactions is
+ accepted by Party B so as to become legally binding and no Market Quotations have been communicated to Party B and remain
+ capable of becoming legally binding upon acceptance by Party B, Party B’s Loss (whether positive or negative and without
+ reference to Unpaid Amounts) for the relevant Terminated Transaction or group of Terminated Transactions. 
+
+ (iii)             For
+ the purpose of sub-paragraph (4) of the definition of Market Quotation, Party B shall determine in its sole discretion, acting
+ in a commercially reasonable manner, whether a Firm Offer is made in respect of a Replacement Transaction with commercial terms substantially
+ the same as those of this Agreement (save for the exclusion of provisions relating to Transactions that are not Terminated Transactions). 
+
+ (iv)            Party B
+ undertakes to use its reasonable efforts to obtain at least one Market Quotation before the Early Termination Date. 
+
+ (v)             If
+ Party B requests Party A in writing to obtain Market Quotations, Party A shall use its reasonable efforts to do so before
+ the Early Termination Date. 
+
+ (vi)            If
+ the Settlement Amount is a negative number, Section 6(e)(i)(3) of this Agreement shall be deleted in its entirety and replaced
+ with the following: 
+
+ “ Second Method and Market
+Quotation” . If Second Method and Market Quotation apply, (1) Party B shall pay to Party A an amount equal
+to the absolute value of the Settlement Amount in respect of the Terminated Transactions, (2) Party B shall pay to Party A
+the Termination Currency Equivalent of the Unpaid Amounts owing to Party A and (3) Party A shall pay to Party B the
+Termination Currency Equivalent of the Unpaid Amounts owing to Party B, provided that, (i) the amounts payable under (2) and
+(3) shall be subject to netting in accordance with Section 2(c) of this Agreement and (ii) notwithstanding any other
+provision of this Agreement, any amount payable by Party A under (3) shall not be netted-off against any amount payable by
+Party B under (1).”] [To be included if Moody’s is rating the transaction]
+
+ 3 Schedule to ISDA Master Agreement 
+
+ (f) “Termination Currency” 
+ means U.S. Dollars. 
+
+ (g) Additional Termination Event will apply.
+ Each of the following events shall constitute an Additional Termination Event hereunder: 
+
+ (i)              Liquidations
+ of Collateral. The following shall constitute an Additional Termination Event in which Party B shall be the sole Affected
+ Party: Any liquidation of the Collateral occurs following an Event of Default under the Indenture or the Notes are otherwise redeemed
+ or prepaid in full other than in connection with an optional purchase of Receivables pursuant to Section 9.01 of the Receivables
+ Purchase Agreement. 
+
+ (ii)              Regulation
+ AB Financial Disclosure . The following shall constitute an Additional Termination Event in which Party A shall be the sole
+ Affected Party: The failure of Party A to materially comply with or materially perform any agreement or undertaking to be complied
+ with or performed by Party A under Part 5(s) of this Schedule. 
+
+ (iii)             [Include
+ relevant rating agency downgrade triggers, as applicable] 
+
+ Part 2.      Tax
+Representations 
+
+ (a) Payer Representations. For the purpose
+ of Section 3(e) of this Agreement, Party A will make the following representation
+ and Party B will make the following representation: 
+
+ It is not required by any applicable
+law, as modified by the practice of any relevant governmental revenue authority, of any Relevant Jurisdiction to make any deduction or
+withholding for or on account of any Tax from any payment (other than interest under Section 2(e), 6(d)(ii) or 6(e) of
+this Agreement) to be made by it to the other party under this Agreement. In making this representation, it may rely on (i) the
+accuracy of any representations made by the other party pursuant to Section 3(f) of this Agreement, (ii) the satisfaction
+of the agreement contained in Section 4(a)(i) or 4(a)(iii) of this Agreement and the accuracy and effectiveness of any
+document provided by the other party pursuant to Section 4(a)(i) or 4(a)(iii) of this Agreement and (iii) the satisfaction
+of the agreement of the other party contained in Section 4(d) of this Agreement, provided that it shall not be a breach of
+this representation where reliance is placed on clause (ii) and the other party does not deliver a form or document under Section 4(a)(iii) of
+this Agreement by reason of material prejudice to its legal or commercial position.
+
+ (b) Payee Representations. For the purpose
+ of Section 3(f) of this Agreement, Party A and Party B will make the
+ representations in (i) and (ii) below. 
+
+ (i) Party A
+ represents that it is a [___________] organized under the laws of [________]. 
+
+ (ii) Party B represents that it is a
+ [Delaware statutory trust] organized or formed under the laws of the [State of Delaware]. 
+
+ 4 Schedule to ISDA Master Agreement 
+
+ Part 3.      Agreement
+to Deliver Documents. 
+
+ For the purpose of Sections 4(a)(i) and
+(ii) of this Agreement, each party agrees to deliver the following documents, as applicable:
+
+ (a) 
+ Tax forms, documents or certificates
+ to be delivered are: 
+
+ Party A and Party B shall
+promptly deliver to the other party (or as directed) any form or document accurately completed and in a manner reasonably satisfactory
+to the other party that may be required or reasonably requested in order to allow the other party to make a payment under a Transaction
+without any deduction or withholding for or on account of any Tax or with such deduction or withholding at a reduced rate, promptly upon
+reasonable demand by the other party.
+
+ (b) 
+ Other documents to be delivered are: 
+
+ Party required
+ to 
+
+deliver document 
+ Form/Document/
+
+ Certificate 
+ Date
+ by which to be 
+
+delivered 
+ Covered
+ by 
+
+Section 3(d)
+
+  Representation of this 
+
+Agreement 
+
+ Party A
+ and Party B 
+ Evidence
+ of the authority of the signatories of this Agreement including specimen signatures of such signatories. 
+ Upon
+ execution of this Agreement. 
+ Yes 
+
+ Party A 
+ An
+ opinion of counsel addressed to Party B in form and substance reasonably acceptable to Party B. 
+ Upon
+ execution of this Agreement. 
+ No 
+
+ Party B 
+ An
+ opinion of Party B’s counsel addressed to Party A in form and substance reasonably acceptable to Party A. 
+ Upon
+ execution of this Agreement. 
+ No 
+
+ Party B 
+ A
+ duly executed certificate of the secretary or assistant secretary of the Owner Trustee of Party B certifying the name and true
+ signature of each person authorized to execute this Agreement and enter into Transactions for Party B. 
+ Upon
+ execution of this Agreement. 
+ Yes 
+
+ 5 Schedule to ISDA Master Agreement 
+
+ Party required
+ to 
+
+ deliver document 
+ Form/Document/
+
+ Certificate 
+ Date by which
+ to be 
+
+ delivered 
+ Covered
+ by 
+
+ Section 3(d)
+
+  Representation of this 
+
+ Agreement 
+
+ Party B 
+ Copies
+ of executed Indenture and Receivables Purchase Agreement. 
+ Upon
+ execution of such Agreements 
+ Yes 
+
+ Party A 
+ Financial
+ data relating to Party A, as required pursuant to Part 5(s) of this Schedule. 
+ As
+ required pursuant to Part 5(s) of this Schedule. 
+ Yes 
+
+ Party A 
+ Executed
+ Indemnification and Disclosure Agreement, among Party A, and Carvana Receivables Depositor LLC relating to Party A’s
+ furnished information for use in the Prospectus and other matters. 
+ Upon
+ or prior to execution of this Agreement 
+ Yes 
+
+ Part 4.       Miscellaneous. 
+
+ (a) 
+ Addresses for Notices. For the purpose of Section 12(a) of
+ this Agreement: 
+
+ Address for notices or communications
+to Party A:
+
+ [____________]
+
+ [____________]
+
+ [____________]
+
+ [____________]
+
+ [____________]
+
+ [____________]
+
+ Address for notices or communications
+to Party B:
+
+ [____________] 
+
+ [____________] 
+
+ [____________]
+
+ [____________]
+
+ [____________]
+
+ With a copy to:
+
+ [____________]
+
+ [____________]
+
+ [____________]
+
+ 6 Schedule to ISDA Master Agreement 
+
+ Attention: [____________]
+
+ With a copy to the Indenture
+Trustee at:
+
+ [____________]
+
+ [____________] 
+
+ [____________]
+
+ [____________]
+
+ (b) 
+ Process Agent. For the purpose
+ of Section 13(c) of this Agreement: 
+
+ Party A
+appoints as its Process Agent          [____________] 
+
+ Party B
+appoints as its Process Agent           Not applicable 
+
+ (c) Notices .
+ Section 12(a) of the Agreement is amended by adding the words in the third
+ line thereof after the phrase “messaging system” and before the “)”
+ the words “; provided, however, any such notice or other communication may be given
+ by facsimile transmission if telex is unavailable, no telex number is supplied by the party
+ providing notice, or if answer back confirmation is not received from the party to whom the
+ telex is sent.” 
+
+ (d) Offices. The provisions of Section 10(a) of
+ this Agreement will apply to this Agreement. 
+
+ (e) 
+ Multibranch Party. For the purpose of Section 10(c) of this Agreement: 
+
+ [Party A is not a Multibranch
+Party.]
+
+ Party B is
+not a Multibranch Party.
+
+ (f) Calculation Agent . The Calculation
+ Agent is Party B, unless otherwise specified in a Confirmation in relation to the relevant
+ Transaction. 
+
+ (g) 
+ Credit Support Document.
+ Details of any Credit Support Document: 
+
+ With respect to Party A: 
+ The Credit Support Annex and any Eligible Guarantee in support of Party A’s obligations
+ under this Agreement 
+
+ With respect to Party B: 
+ Not applicable. 
+
+ (h) 
+ Credit Support Provider. Credit Support Provider means in relation to 
+
+ Party A: 
+ The guarantor under any Eligible Guarantee in support of Party A’s obligations under this
+ Agreement. 
+
+ Party B: 
+ Not applicable. 
+
+ (i) Governing
+ Law. This Agreement will be governed by and construed in accordance with the laws of
+ the State of New York (without reference to choice of laws doctrine except Section 5-1401
+ and Section 5-1402 of the New York General Obligation Law). 
+
+ 7 Schedule to ISDA Master Agreement 
+
+ (j) Netting of Payments. The limitation
+ set forth in Section 2(c)(ii) of this Agreement will apply and therefore the netting
+ in Section 2(c) of this Agreement will be limited to the same Transaction. 
+
+ (k) “Affiliate” will have the
+ meaning specified in Section 14 of this Agreement. 
+
+ (l) No Gross Up by Party B . Section 2(d)(i)(4) is
+ hereby deleted and replaced by the following: 
+
+ “(4)          (A)
+ If Party A is the party so required to deduct or withhold, then Party A shall make such additional
+ payment as is necessary to ensure that the net amount actually received by Party B (free and clear
+ of all Taxes, whether assessed against it or Party B) will equal the full amount Party B would
+ have received had no such deduction or withholding been required; and 
+
+ (B)           if
+ Party B is the party so required to deduct or withhold, then Party B shall make
+ the relevant payment subject to such deduction or withholding and Party B will not be
+ required to gross up. 
+
+ For the avoidance of doubt, the fact
+that any payment is made by Party B subject to the provisions of (B) above shall at no time affect the obligations of Party A
+under (A) above.”
+
+ Part 5.      Other
+Provisions . 
+
+ (a) ISDA Definitions 
+
+ The definitions and provisions contained
+in the 2006 ISDA Definitions (the “2006 Definitions”) as published by the International Swaps and Derivatives Association, Inc.
+are incorporated by reference into this Agreement. The Agreement and each Transaction will be governed by the 2006 Definitions as they
+may be officially amended and supplemented from time to time by ISDA.
+
+ For the sake of clarity, unless otherwise
+specified in this Agreement, the following documents shall govern in the order in which they are listed in the event of any inconsistency
+between any of the documents:
+
+ (i) 
+ the Confirmation; 
+
+ (ii) 
+ the Schedule; 
+
+ (iii) 
+ the 2006 Definitions; and 
+
+ (iv) 
+ the printed form of ISDA Master Agreement. 
+
+ (b) Relationship Between Parties 
+
+ Each party will be deemed to represent
+to the other party on the date on which it enters into a Transaction that (absent a written agreement between the parties that expressly
+imposes affirmative obligations to the contrary for the Transaction):
+
+ (i)              Non-Reliance.
+ It is acting for its own account, and it has made its own independent decisions to enter into that Transaction and as to whether
+ that Transaction is appropriate or proper for it based upon its own judgement and upon advice from such advisors as it has deemed necessary.
+ It is not relying on any communication (written or oral) of the other party as investment advice or as a recommendation to enter into
+ that Transaction; it being understood that information and explanations related to the terms and conditions of a Transaction shall
+ not be considered investment advice or a recommendation to enter into that Transaction. It has not received from the other party any
+ assurance or guarantee as to the expected results of that Transaction. 
+
+ 8 Schedule to ISDA Master Agreement 
+
+ (ii)              Assessment
+ and Understanding. It is capable of assessing the merits of and understanding (on its own behalf or through independent professional
+ advice), and understands and accepts, the terms, conditions and risks of that Transaction. It is also capable of assuming, and assumes,
+ the risks of that Transaction. 
+
+ (iii)             Status
+ of Parties. Each party is acting as principal and not as agent and the other party is not acting as a fiduciary for or as an advisor
+ to it in respect of that Transaction. 
+
+ (iv)            Eligible
+ Contract Participant . It is an “eligible contract participant” as defined in Section 1a(18) of the U.S. Commodity
+ Exchange Act, as amended, 7 U.S.C. Section 1a(18). 
+
+ (v)             ERISA.
+ It continuously represents that it is not (i) an employee benefit plan (an “ ERISA Plan ”) as defined in
+ Section 3(3) of the Employee Retirement Income Security Act of 1974, as amended (“ ERISA ”), subject
+ to Title 1 of ERISA or Section 4975 of the Internal Revenue Code of 1986, as amended, (ii) a person or entity acting on behalf
+ of an ERISA Plan or (iii) a person or entity the assets of which constitute assets of an ERISA Plan.” It will provide notice
+ to the other party in the event that it is aware that it is in breach of any aspect of this representation or is aware that with the
+ passing of time, giving of notice or expiry of any applicable grace period, it will breach this representation. 
+
+ (c) Waiver of Jury Trial . Each party hereby
+ irrevocably waives any and all rights to trial by jury with respect to any legal proceeding
+ arising out of or relating to this Agreement or any Transaction contemplated hereby. 
+
+ (d) Severability . Any provision of
+ this Agreement which is prohibited or unenforceable in any jurisdiction shall, as to such
+ jurisdiction, be ineffective to the extent of such prohibition or unenforceability without
+ invalidating the remaining provisions of the Agreement or affecting the validity or enforceability
+ of such provision in any other jurisdiction unless such severance shall substantially impair
+ the benefits of the remaining portions of this Agreement or changes the reciprocal obligations
+ of the parties. The parties hereto shall endeavour in good faith negotiations to replace
+ the prohibited or unenforceable provision with a valid provision, the economic effect of
+ which comes as close as possible to that of the prohibited or unenforceable provision. 
+
+ (e) Transfers . Notwithstanding the provisions
+ of Section 7: 
+
+ (i) 
+ No transfer by Party A of this Agreement or any interest or obligation in or of Party A under
+ this Agreement shall be effective unless: 
+
+ (A) Party B consents to such transferee; 
+
+ (B) The Rating Agency Condition shall have been
+ satisfied; 
+
+ 9 Schedule to ISDA Master Agreement 
+
+ (C) Party A shall have given Party B,
+ the Servicer and the Indenture Trustee at least twenty days prior written notice of the proposed
+ transfer; and 
+
+ (D) such
+ transfer otherwise complies with the terms of the Indenture and the other Transaction Agreements. 
+
+ (ii)            Except
+ to the extent contemplated by the Indenture, neither this Agreement nor any interest in or under this Agreement may be transferred
+ by Party B to any other entity save with Party A’s prior written consent (such consent not to be unreasonably withheld
+ or delayed). 
+
+ (f) Permitted
+ Security Interest. For purposes of Section 7 of this Agreement, Party A hereby
+ consents to the Permitted Security Interest. 
+
+ “Permitted
+Security Interest” means the pledge and assignment by Party B of the Swap Collateral to the Indenture Trustee pursuant
+to the Indenture, and the granting to the Indenture Trustee of a security interest in the Swap Collateral pursuant to the Indenture.
+
+ “Swap
+Collateral” means all right, title and interest of Party B in this Agreement, each Transaction hereunder, and all
+present and future amounts payable by Party A to Party B under or in connection with this Agreement or any Transaction governed
+by this Agreement, including, without limitation, any transfer or termination of any such Transaction.
+
+ “Indenture
+Trustee” means [_________] or any successor, acting as Indenture Trustee pursuant to the Indenture.
+
+ (g) Absence of Certain Events. Section 3(b) of
+ this Agreement is hereby amended by inserting the parenthetical “(with respect to Party A
+ only)” immediately after the phrase “No Event of Default or”. 
+
+ (h) P ayment on Early Termination . If an
+ Early Termination Date occurs in respect of which Party A is the Defaulting Party or
+ the sole Affected Party with respect to an Additional Termination Event, Party B
+ will not be required to pay any amounts payable to Party A under Section 6(e) in
+ respect of such Early Termination Date, and Party A will not be permitted to set-off
+ in respect of such amounts, until payment in full of all amounts outstanding under the Notes. 
+
+ (i) No Set-Off . Party A and Party B
+ hereby waive any and all right of set-off with respect to any amounts due under this Agreement
+ or any Transaction, provided that nothing herein shall be construed to waive or otherwise
+ limit the netting provisions contained in Sections 2(c) of this Agreement. 
+
+ (j) Indenture.
+ Party B hereby acknowledges that Party A is a secured party under the Indenture
+ with respect to this Agreement, and Party B agrees for the benefit of Party A that
+ it will not amend the Indenture in a manner which materially and adversely affects the rights
+ or obligations of Party A under the Indenture unless Party A shall have consented
+ in writing to such action, if such consent is required pursuant to the Indenture. 
+
+ 10 Schedule to ISDA Master Agreement 
+
+ (k) Limited Recourse . The liability of
+ Party B to Party A hereunder is limited in recourse solely to the amounts payable
+ to Party A from Available Amounts and amounts withdrawn from the Reserve Account in
+ accordance with Section 5.07(b)  of the Receivables Purchase Agreement, in
+ each case, in accordance with the priority of payments set forth in Section 5.06(a)  of
+ the Receivables Purchase Agreement or Section 5.04(b)  of the Indenture,
+ as applicable. The provisions of this paragraph shall survive the termination of this Agreement. 
+
+ (l) No
+Petition . Party A hereby covenants and agrees that prior to the date which is one year (or, if longer, the applicable
+preference period) and one day after payment in full of all obligations of each Bankruptcy Remote Party in respect of all securities
+issued by any Bankruptcy Remote Party (i) it shall not authorize any Bankruptcy Remote Party to commence a voluntary
+winding-up or other voluntary case or other proceeding seeking liquidation, reorganization or other relief with respect to such Bankruptcy
+Remote Party or its debts under any bankruptcy, insolvency or other similar law now or hereafter in effect in any jurisdiction
+or seeking the appointment of an administrator, a trustee, receiver, liquidator, custodian or other similar official with respect to
+such Bankruptcy Remote Party or any substantial part of its property or to consent to any such relief or to the appointment of
+or taking possession by any such official in an involuntary case or other proceeding commenced against such Bankruptcy Remote Party,
+or to make a general assignment for the benefit of any party hereto or any other creditor of such Bankruptcy Remote Party, and (ii) it
+shall not commence or join with any other Person in commencing any proceeding against such Bankruptcy Remote Party under any bankruptcy,
+reorganization, liquidation or insolvency law or statute now or hereafter in effect in any jurisdiction. This section shall survive the
+termination of this Agreement. 
+
+ As used above, “ Bankruptcy
+Remote Party ” means any of Carvana Receivables Depositor LLC and Party B.
+
+ (m) Confirmation.
+ Each party acknowledges and agrees that the Confirmations executed as of the date hereof
+ and designated as Party A [____________] shall be the only Transaction governed
+ by this Agreement (it being understood that, in the event such Confirmations shall be amended
+ (in any respect), such amendment shall not constitute (for purposes of this paragraph) a
+ separate Transaction or a separate Confirmation). Party A and Party B shall not
+ enter into any additional Confirmations or Transactions hereunder. 
+
+ (n) Potential Events of Default . Section 2(a)(iii) is
+ amended by the deletion of the words “or Potential Event of Default”. 
+
+ (o) Limitation
+ of Liability. Notwithstanding anything contained herein to the contrary, in executing
+ this Agreement (including the Schedule, Credit Support Annex and each Confirmation) on behalf
+ of Party B, [____________] (the “ Owner Trustee ”) and the Indenture
+ Trustee are acting solely in its capacity as owner trustee of Party B and indenture
+ trustee, respectively, and not in its individual capacity, and in no event shall either one
+ of them, in their individual capacity, have any liability for the representations, warranties,
+ covenants, agreements or other obligations of Party B hereunder, for which recourse
+ shall be had solely to the assets of Party B, except to the extent of its fraud, breach
+ of trust or willful misconduct. 
+
+ (p) [Insert rating agency downgrade provisions,
+ as applicable] 
+
+ 11 Schedule to ISDA Master Agreement 
+
+ (q) Definitions . 
+
+ (i) Reference
+ is made to that certain Receivables Purchase Agreement dated as of the date hereof (the “ Receivables
+ Purchase Agreement ”) between Carvana, LLC as seller and Carvana Receivables Depositor
+ LLC, as purchaser. Capitalized terms used but not defined in this Agreement or this Schedule
+ will have the meanings ascribed to them in the Receivables Purchase Agreement or, if not
+ defined therein, in the Indenture (as defined below). 
+
+ (ii) As used herein: 
+
+ “ Credit Support Annex ”
+means the 1994 ISDA Credit Support Annex between Party A and Party B dated as of the date hereof.
+
+ “ Depositor ”
+means Carvana Receivables Depositor LLC.
+
+ “ Eligible
+Collateral” has the meaning set forth in the Credit Support Annex.
+
+ “ Eligible
+Guarantee ” means an unconditional and irrevocable guarantee that is provided by a guarantor that has Rated Debt as principal
+debtor rather than surety and is directly enforceable by Party B, the form and substance of which guarantee are subject to
+the Rating Agency Condition, where either (A) a law firm has given a legal opinion confirming that none of the guarantor’s
+payments to Party B under such guarantee will be subject to withholding for tax or (B) such guarantee provides that, in the
+event that any of such guarantor’s payments to Party B are subject to withholding for tax, such guarantor is required to pay
+such additional amount as is necessary to ensure that the net amount actually received by Party B (free and clear of any withholding
+tax) will equal the full amount Party B would have received had no such withholding been required.
+
+ “ Eligible
+Replacement ” means an entity (A)(i) with the [Required Ratings] and that has Rated Debt with respect to [Insert relevant
+rating agencies]that is the subject of a legal opinion given by a law firm confirming that none of its payments to Party B will
+be subject to withholding for tax or (ii) whose present and future obligations owing to Party B are guaranteed pursuant to
+an Eligible Guarantee provided by a guarantor that has Rated Debt with respect to [Insert relevant rating agencies] and with the [Required
+Ratings] and (B) could become a party to this Agreement (or party to an agreement in form and substance satisfactory to Party B,
+the Servicer and the Indenture Trustee) in accordance with Part 5(e) of this Schedule and pursuant to documentation which would
+not be less favorable to Party B than this Agreement.
+
+ “Financial
+Institution“ means a bank, broker/dealer, insurance company, structured investment vehicle or derivative product company.
+
+ “ Free Writing Prospectus ”
+means any free writing prospectus prepared in connection with the public offering of the Notes.
+
+ “Indenture ”
+means that certain Indenture dated as of the date hereof between Party B, as Issuer, and [____________], as Indenture Trustee.
+
+ [ “ KBRA ”
+means Kroll Bond Rating Agency, LLC or its successor.]
+
+ 12 Schedule to ISDA Master Agreement 
+
+ [ “KBRA
+Approved Ratings” means a long-term unsecured and unsubordinated debt rating from KBRA of at least “[ ]” and a
+short-term unsecured and unsubordinated debt rating from KBRA of at least “[ ]”.]
+
+ [ “KBRA
+Required Ratings” means a long-term unsecured and unsubordinated debt rating from KBRA of at least “[ ]”.]
+
+ [“ Moody’s ”
+means Moody’s Investors Service, Inc. or its successor.]
+
+ [“ Moody’s Short-term
+Rating ” means a rating assigned by Moody’s under its short-term rating scale in respect of an entity’s short-term,
+unsecured and unsubordinated debt obligations.]
+
+ “Notes”
+ mean the asset-backed notes issued by Party B under the Indenture.
+
+ “ Preliminary Prospectus ”
+means any preliminary prospectus prepared in connection with the public offering and sale of the Notes.
+
+ “ Prospectus ” means
+any prospectus prepared in connection with the public offering and sale of the Notes.
+
+ [“ Rated
+Debt ” means, with respect to a Relevant Entity, (1) in the case of S&P, (i) if such Relevant Entity is not a
+Financial Institution, S&P assigns (x) a long-term debt rating equal to or higher than “[ ]” to the counterparty,
+or (y) assigns a short-term debt rating equal to or higher than “[ ]” to the counterparty, or (ii) if such Relevant
+Entity is a Financial Institution, S&P assigns (x) a long-term debt rating equal to or higher than “[ ]” to the
+counterparty, or (y) assigns a short-term debt rating equal to or higher than “[ ]” to the counterparty, (2) in
+the case of Moody’s (i) Moody’s assigns (x) a long-term debt rating equal to or higher than “[ ]” to
+the counterparty, and (y) a short-term debt rating equal to or higher than “[ ]” to the counterparty (if the counterparty
+has both long-term and short-term debt ratings), or (ii) Moody’s assigns a long-term debt rating equal to or higher than “[
+]” to the counterparty (if the counterparty only has a long-term debt rating), (3) in the case of KBRA, assigns a
+long-term unsecured and unsubordinated debt rating from KBRA of at least “[ ]” and a short-term unsecured and unsubordinated
+debt rating from KBRA of at least “[ ]” and (4) in the case of DBRS Morningstar, assigns a long-term unsecured and unsubordinated
+debt rating from DBRS Morningstar of at least “[ ]” and a short-term unsecured and unsubordinated debt rating from DBRS Morningstar
+of at least “[ ]”.]
+
+ “ Rating Agencies ”
+means [S&P,] [Moody’s] [KBRA] [and DBRS Morningstar]].
+
+ “Rating
+Agency Condition” means, with respect to any event or circumstance and each Rating Agency, either (a) written confirmation
+(which may be in the form of a letter, press release or other publication, or a change in such Rating Agency’s published ratings
+criteria to this effect) by such Rating Agency that the occurrence of such event or circumstance will not cause it to downgrade, qualify
+or withdraw its rating assigned to any of the Notes or (b) that such Rating Agency shall have been given notice of such event or
+circumstance at least ten days prior to the occurrence of such event or circumstance (or, if ten days’ advance notice is impracticable,
+as much advance notice as is practicable) and such Rating Agency shall not have issued any written notice that the occurrence of such
+event or circumstance will cause it to downgrade, qualify or withdraw its rating assigned to the Notes.
+
+ 13 Schedule to ISDA Master Agreement 
+
+ “ Relevant Entities ”
+means Party A and any guarantor under an Eligible Guarantee in respect of all of Party A’s present and future obligations
+under this Agreement.
+
+ [“ S&P ” means
+S&P Global Ratings, or its successor.]
+
+ “Servicer”
+ means Bridgecrest Credit Company, LLC.
+
+ (r) Amendments . Section 9(b) of
+ this Agreement is hereby amended by inserting the following at the end thereof: 
+
+ it being a further condition to any
+such amendment or modification that the Rating Agency Condition shall have been satisfied.
+
+ (s) Regulation AB Financial Disclosure . 
+
+ Subject to the last two paragraphs
+of this clause, so long as Party B, the Depositor or any of such parties’ Affiliates (collectively, “Carvana” )
+shall file reports in respect of the Notes with the Securities and Exchange Commission (the “ SEC ”) pursuant to Sections 13(a) or
+15(d) of the the Securities Exchange Act of 1934, as amended (the “ Exchange Act ”), Party A agrees to Deliver
+within ten (10) calendar days of receipt of a written request therefor by Party B or the Depositor, such information relating
+to Party A as may be necessary to enable Carvana to comply with any SEC disclosure requirements, including without limitation information
+concerning Party A required by Items 1115 of Regulation AB and Forms 8-K, 10-D and 10-K and any information to be provided pursuant
+to or in accordance with any SEC comments to any of the foregoing; it being understood that Carvana shall not be required to voluntarily
+suspend its reporting obligation with respect to the Notes at any time. To the extent necessary to comply with Regulation AB, Party A
+shall obtain any necessary auditor’s consents related to any financial statements of Party A required to be incorporated by
+reference into any Free Writing Prospectus, Preliminary Prospectus or Prospectus or report filed by Carvana with the SEC and promptly
+to forward to the Depositor any such auditor consents obtained. The information provided, or authorized to be incorporated by reference,
+by Party A pursuant to this provision is referred to as the “ Additional Information .”
+
+ For the purpose of this Part 5(s):
+
+ “ Deliver ” includes
+actual delivery or transmission of information in an EDGAR-compatible format or, in the case of any financial information required to
+be delivered pursuant to Item 1115 of Regulation AB and Forms 8-K, 10-D and 10-K, making such financial information available
+in an EDGAR-compatible format for incorporation by reference to the extent permitted by Regulation AB, together with actual delivery
+of all necessary auditor’s consents.
+
+ “ EDGAR ” means the
+SEC’s Electronic Data Gathering, Analysis and Retrieval system.
+
+ “ Regulation AB ”
+means Subpart 229.1100 – Asset Backed Securities (Regulation AB), 17 C.F.R. §§229.1100-229.1125, as such regulation may
+be amended from time to time, subject to such clarification and interpretation as have been provided by the Commission in the adopting
+release (Asset-Backed Securities, Securities Act Release No. 33-8518. 70 Fed. Reg. 1,506, 1,531 (January 7, 2005); Asset-Backed
+Securities Disclosure and Registration, Securities Act Release No. 33-9638. 79 Fed. Reg. 57184 (September 24, 2014)) or by
+the staff of the Commission, or as may be provided in writing by the Commission or its staff from time to time.
+
+ 14 Schedule to ISDA Master Agreement 
+
+ If
+ at any time during a period that reports are being filed with respect to Party B and the Notes in accordance with the Exchange
+Act and the rules and regulations of the SEC, as reasonably calculated by the Depositor, the “significance percentage”
+of this Agreement for any class of the Notes is [8]% or more, Party A shall within five (5) Local Business Days following receipt
+of request therefor demonstrate to the satisfaction of the the Depositor that it is able to provide the Additional Information required
+under Item 1115(b)(1) of Regulation AB for Party A. If Party A is unable to satisfy the Depositor as to its ability to
+provide such information, Party A shall within five (5) Local Business Days following receipt of request therefor, at the sole
+expense of Party A, without any expense or liability to the Depositor or Party B, either (i) post Eligible Collateral,
+in form, substance and amount satisfactory to the Depositor, or (ii) cause an Eligible Replacement (which satisfies the Rating Agency
+Condition and any other requirements of this Agreement, including the requirement to deliver the indemnification and contribution agreement
+referred to in Part 3(b)) to replace Party A as party to this Agreement that has agreed to Deliver any information, report,
+certification or accountants’ consent when and as required under this Part 5(s) hereof.
+
+ If at any time during a period that
+reports are being filed with respect to Party B and the Notes in accordance with the Exchange Act and the rules and regulations
+of the SEC, as reasonably calculated by the Depositor, the “significance percentage” of this Agreement for any class of the
+Notes is [18]% or more, Party A shall within five (5) Local Business Days following receipt of request therefor demonstrate
+to the satisfaction of the Depositor that it is able to provide the Additional Information required under Item 1115(b)(2) of Regulation
+AB for Party A. If Party A is unable to satisfy the Depositor as to its ability to provide such information, Party A shall
+within five (5) Local Business Days following receipt of request therefor, at the sole expense of Party A, without any expense
+or liability to the Depositor or Party B, cause an Eligible Replacement (which satisfies the Rating Agency Condition and any other
+requirements of this Agreement, including the requirement to deliver the indemnification and contribution agreement referred to in Part 3(b))
+to replace Party A as party to this Agreement that has agreed to Deliver any information, report, certification or accountants’
+consent when and as required under this Part 5(s) hereof.
+
+ [signature pages follow]
+
+ 15 Schedule to ISDA Master Agreement 
+
+ IN
+WITNESS WHEREOF , the parties have executed this Schedule by their duly authorized officers as of the date first above written.
+
+ CARVANA AUTO RECEIVABLES trust 20[ ]–[
+ ] 
+
+ By: 
+ [____________], 
+
+ not in its individual capacity 
+
+ but solely as owner trustee 
+
+ By: 
+
+ Name: 
+
+ Title: 
+
+ [____________] 
+
+ By: 
+
+ Name: 
+
+ Title: 
+
+ S- 1 Carvana Auto Receivables Trust
+ 20[__]-[_]Schedule to
+ ISDA Master Agreement

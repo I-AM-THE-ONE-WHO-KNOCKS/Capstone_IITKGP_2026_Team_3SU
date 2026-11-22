@@ -1,0 +1,227 @@
+EX-10.39
+ 7
+ dhcpfy2018ex1039.htm
+ EXHIBIT 10.39
+
+ Exhibit 
+
+ EXHIBIT 10.39 
+
+ EXECUTION VERSION 
+
+ MARGIN, SETOFF AND NETTING AGREEMENT 
+ THIS MARGIN, SETOFF AND NETTING AGREEMENT, dated as of February 14, 2019 (as amended, restated, supplemented or otherwise modified from time to time, this “ Agreement ”), is made collectively among (i) BARCLAYS BANK PLC (“ Barclays ”), as Administrative Agent (as defined in the Master Refinancing Agreement referred to below) (in such capacity, the “ Administrative Agent ”), for the benefit of Buyer Group (as defined below), (ii) BARCLAYS, as a Repo Buyer (as defined below), (iii) NOMURA CORPORATE FUNDING AMERICAS, LLC (“ Nomura ”), as a Repo Buyer, (iv) BARCLAYS CAPITAL INC. (“ Barclays Capital ”), as an MSFTA Counterparty (as defined below), (v) NOMURA SECURITIES INTERNATIONAL, INC. (“ Nomura Securities ”), as an MSFTA Counterparty, (vi) DITECH FINANCIAL LLC (“ Ditech ”), (vii) REVERSE MORTGAGE SOLUTIONS, INC. (“ RMS ”), and (viii) RMS REO BRC II, LLC (the “ REO Subsidiary ” and, together with Ditech and RMS, the “ Sellers ”), and acknowledged and agreed to by DITECH HOLDING CORPORATION (“ Guarantor ”). 
+ R E C I T A L S: 
+ WHEREAS, on February 11, 2019, the Guarantor, Ditech, RMS and certain of their Affiliates filed the Cases in the Bankruptcy Court (as such terms are defined in the Master Refinancing Agreement); 
+ WHEREAS, in connection with the Cases, the Sellers and certain of their Affiliates propose to refinance and replace in full the facilities contained in the Prepetition Warehouse Facility Agreements (as defined in the Master Refinancing Agreement); 
+ WHEREAS, concurrently with the effectiveness of this Agreement, the Administrative Agent, Guarantor, and the Sellers are entering into that certain Master Refinancing Agreement, dated as of the Effective Date (as defined therein) (as amended, restated, supplemented or otherwise modified from time to time, the “ Master Refinancing Agreement ”), among the Administrative Agent, the Guarantor, the Seller Parties, the Buyers (as defined therein) party thereto from time to time, and the MSFTA Counterparties (as defined therein); 
+ WHEREAS, concurrently with the effectiveness of this Agreement, the Sellers party thereto are entering into the Repurchase Agreements and the MSFTAs (as such terms are defined in the Master Refinancing Agreement); 
+ WHEREAS, from time to time, the Repo Buyers (and/or Administrative Agent on behalf of the Repo Buyers) have engaged and may continue to engage in transactions under the Repurchase Agreements with any Seller; 
+ WHEREAS, from time to time, the MSFTA Counterparties have engaged and may continue to engage in transactions under the MSFTAs with Ditech; and 
+ WHEREAS, as a condition precedent to the effectiveness of the Master Refinancing Agreement and providing the funding contemplated by the Repurchase Agreements and MSFTAs, 
+
+ 2014057.06-NYCSR07A - MSW 
+
+ as applicable, the Administrative Agent, the Repo Buyers and MSFTA Counterparties have required the Sellers to permit netting and setoff rights to the Administrative Agent, for the benefit of the Buyer Group. 
+ NOW, THEREFORE, in consideration of the foregoing premises, to induce the Administrative Agent, the Repo Buyers and the MSFTA Counterparties, as applicable, to enter into the Master Refinancing Agreement, the Repurchase Agreements and the MSFTAs and transactions thereunder, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows: 
+ A G R E E M E N T: 
+ Section 1. Definitions . Unless otherwise defined herein, capitalized terms which are defined in the Master Refinancing Agreement and used herein are so used as so defined. As used herein, the following terms shall have the following meanings (all terms defined in this Section 1 or in other provisions of this Agreement in the singular to have the same meanings when used in the plural and vice versa ). 
+ “ Activity ” shall mean all transactions (including Clearing Transactions), confirmations and agreements under a Repurchase Agreement, an MSFTA or any related Governing Agreement, whenever arising. 
+ “ Administrative Agent ” shall have the meaning set forth in the Preamble. 
+ “ Agreement ” shall have the meaning set forth in the Preamble. 
+ “ Barclays ” shall have the meaning set forth in the Preamble. 
+ “ Barclays Capital ” shall have the meaning set forth in the Preamble. 
+ “ Bankruptcy Code ” shall mean title 11 of the United States Code, 11 U.S.C. § 101, et seq ., as amended from time to time. 
+ “ Buyer Entity ” shall mean, individually, any of the following: (a) the Administrative Agent, (b) Barclays, (c) Barclays Capital, as an MSFTA Counterparty, (d) Nomura, (e) Nomura Securities, as an MSFTA Counterparty, (f) any other Repo Buyer, (g) any other MSFTA Counterparty, and (h) any parent, subsidiary or Affiliate of any of the foregoing. 
+ “ Buyer Group ” shall mean, collectively, (a) the Administrative Agent, (b) Barclays, (c) Barclays Capital, as an MSFTA Counterparty, (d) Nomura, (e) Nomura Securities, as an MSFTA Counterparty, (f) each other Repo Buyer, (g) each other MSFTA Counterparty, and (h) any parent, subsidiary or Affiliate of any of the foregoing, to the extent any of the foregoing are owed any Obligations or are party to any of the Governing Agreements (but not in their capacity as a Buyer under any Indenture). 
+ “ Clearing Transaction ” shall mean all actions, agreements, promises of performance and transactions including, but not limited to, any transaction under or related to a Governing 
+
+ 2 
+ 2014057.06-NYCSR07A - MSW 
+
+ Agreement, relating to the execution, clearance, settlement of transactions in or the maintenance of accounts for the purpose of carrying, holding or financing positions in, securities, loans (including whole mortgage loans and bank debt), currencies, commodities or derivatives, in each case, for a Seller by any Buyer Entity in the Buyer Group and all transactions in which any Buyer Entity in the Buyer Group provides clearing, fixed income clearing, custody or settlement services to or for a Seller (including as prime broker in connection with prime broker transactions or fixed income clearing transactions, or in connection with any give-up, free delivery or unsettled transaction, or when acting as a clearance and/or settlement agent in any clearing system, market, or exchange, domestic or international) or transactions in, or the custody of, cash made in connection with, or in contemplation of, any of the foregoing. 
+ “ Ditech ” shall have the meaning set forth in the Preamble. 
+ “ Effective Date ” shall have the meaning assigned to such term in the Master Refinancing Agreement. 
+ “ Event of Default ” shall have the meaning, with respect to each Governing Agreement, assigned to such term in such Governing Agreement. 
+ “ FDICIA ” shall have the meaning assigned to such term in Section 12. 
+ “ Governing Agreements ” shall mean, collectively, (a) each MSFTA, (b) each Repurchase Agreement, (c) the Master Refinancing Agreement, and (d) the Depositor Equity Pledge Agreement. For the avoidance of doubt, at no time shall any of the following constitute a “Governing Agreement” hereunder: (i) any Prepetition 1L/2L Document, (ii) any Indenture or (iii) any other “Transaction Document” as defined in each Indenture not specified above. 
+ “ Guarantor ” shall have the meaning set forth in the Preamble. 
+ “ Margin ” shall have the meaning assigned to such term in Section 2. 
+ “ Master Refinancing Agreement ” shall have the meaning assigned to such term in the Recitals. 
+ “ Nomura ” shall have the meaning set forth in the Preamble. 
+ “ Nomura Securities ” shall have the meaning set forth in the Preamble. 
+ “ NYUCC ” shall mean the Uniform Commercial Code as adopted in the State of New York as in effect from time to time. The following terms used in this Agreement shall have the same meanings herein as set forth in the NYUCC: “ Account ,” “ Chattel Paper ,” “ Commodity Account ,” “ Commodity Contract ,” “ Deposit Account ,” “ Document ,” “ Financial Asset ,” “ General Intangible ,” “ Instrument ,” “ Investment Property ,” “ Letter-of-Credit Right ,” “ Proceeds ,” “ Securities Account ,” “ Securities Intermediary ,” “ Security ” and “ Security Entitlement .” 
+ “ Obligations ” shall mean, collectively, (a) the “Obligations” (as defined in each of the Repurchase Agreements), (b) the “Secured Obligations” (as defined in each of the MSFTAs), 
+
+ 3 
+ 2014057.06-NYCSR07A - MSW 
+
+ and (c) any other obligations or liabilities of any Seller to any Buyer Entity in the Buyer Group under this Agreement and the Master Refinancing Agreement. For the avoidance of doubt, at no time shall obligations or liabilities under or with respect to any of the following constitute a “Obligations” hereunder: (i) any Prepetition 1L/2L Document, (ii) any Indenture or (iii) any other “Transaction Document” as defined in each Indenture not specified above. 
+ “ Party ” shall mean each Seller and the Buyer Group. 
+ “ Person ” shall mean an individual, corporation, trust, business trust, statutory trust, partnership, limited liability company, joint venture or similar business association. 
+ “ REO Subsidiary ” shall have the meaning set forth in the Preamble. 
+ “ Required Buyers ” shall have the meaning assigned to such term in the Administration Agreement. 
+ “ Repo Buyers ” shall mean, collectively, (a) each “Buyer” under and as defined in the Ditech Repurchase Agreement, (b) each “Purchaser” under and as defined in the RMS Repurchase Agreement and (c) each other Buyer under a Repurchase Agreement. 
+ “ RMS ” shall have the meaning set forth in the Preamble. 
+ “ Sellers ” shall have the meaning set forth in the Preamble. 
+ Section 2. Security Interest . Each Seller hereby grants, collaterally assigns and pledges to the Administrative Agent, for the benefit of each Buyer Entity, as security and margin for the payment and performance of all Obligations of each Seller to any Buyer Entity in the Buyer Group a security interest in all of such Seller’s rights, interests and title, if any, to in or under the following, whether now owned or hereafter acquired, now existing or hereafter created: (a) each Deposit Account, Securities Account or other trust or custodial account maintained for any Seller by or with any Buyer Entity in the Buyer Group pursuant to a Governing Agreement or any related Program Agreement; (b) all property (including Security Entitlements) now or hereafter credited to or held in any such account or otherwise held, or carried by or through, or subject to the control of any Buyer Entity in the Buyer Group or agent thereof in connection with a Governing Agreement whether fully paid or otherwise; (c) all rights under the Governing Agreements and any related Program Agreements, including, without limitation, all rights of any Seller in any obligation of any Buyer Entity in the Buyer Group and all rights of any Seller in or to any Activity in connection with a Governing Agreement or any related Program Agreement; (d) all Accounts, Chattel Paper, Commodity Accounts, Commodity Contracts, Documen t s, General Intangibles, Instruments, Investment Property, Letter-of-Credit Rights and Securities held under or constituting collateral or security under or pursuant to any Governing Agreement or any related Program Agreement (including any “Pledged Collateral” as defined in the Depositor Equity Pledge Agreement); and (e) all Proceeds of or distributions on any of the foregoing (collectively, clauses (a) through (e) (“ Margin ”)). The description of any property that is Margin contained in any Activity is incorporated into this Agreement as if fully set forth herein and constitutes Margin hereunder. In addition to any other provisions, obligations or understandings of the Sellers under any Governing Agreement, or 
+
+ 4 
+ 2014057.06-NYCSR07A - MSW 
+
+ otherwise, each Seller hereby acknowledges and agrees that the foregoing grant is intended to use each Seller’s Margin as security (limited to the Margin pledged by each Seller unless any Seller provides additional recourse in any Governing Agreement or elsewhere) for any Seller’s Obligations. Without limiting the characterization of this Agreement as a master netting agreement, the grant herein is intended to constitute a security agreement or other arrangement or other credit enhancement related to this Agreement and Activities under the Governing Agreements as defined under Sections 101(47)(A)(v), 101(25)(E), 101(38A)(A), (101)(53B)(A)(vi), and 741(7)(A)(xi), 761(4)(J), of the Bankruptcy Code. 
+ Section 3. Margin for All Obligations . Notwithstanding any provision to the contrary contained in any Governing Agreement or related Program Agreement, all Margin pledged by any Seller to any Buyer Entity in the Buyer Group, whether under this Agreement, any other Governing Agreement or any related Program Agreement shall be and shall constitute, to the fullest extent of any rights of each Seller in such assets, Margin pledged by each Seller under and in connection with this Agreement and each other Governing Agreement, to margin and secure all of the Obligations, each Activity, and each Governing Agreement. Each Activity, whenever entered into, shall be deemed amended accordingly. Each Seller and the Buyer Group each acknowledges and agrees that any Buyer Entity as the secured party may hold any Margin as agent or bailee for the Administrative Agent, for the benefit of all of the Buyer Entities in the Buyer Group. 
+ Section 4. Periodic Netting and Setoff . Effective as of the Effective Date and until the termination of all Governing Agreements and payment in full in cash of the Obligations, the Administrative Agent (at the direction of the Required Buyers or otherwise in accordance with the Administration Agreement) shall have the right, for so long as an Event of Default is continuing under any Governing Agreement and subject to Article 6 of the Master Refinancing Agreement, to aggregate, setoff, foreclose and net any Obligations and Activities with any Margin. The parties specifically agree that, for so long as an Event of Default is continuing under any Governing Agreement, netting in respect of two or more Obligations and/or Activities with any Margin may occur upon the election of the Administrative Agent (at the direction of the Required Buyers or otherwise in accordance with the Administration Agreement). This periodic netting process shall be conducted in accordance with the provisions of this Section 4 for all Margin and any or all Obligations and/or Activities. Accordingly, for so long as an Event of Default under any Governing Agreement is continuing and subject to Article 6 of the Master Refinancing Agreement: 
+ (a) If any Seller owes any due and payable Obligation to any Buyer Entity in the Buyer Group, the Administrative Agent (at the direction of the Required Buyers or otherwise in accordance with the Administration Agreement) may, aggregate, setoff, foreclose and net: (i) any Margin pledged by any Seller to Administrative Agent or any Buyer Entity in the Buyer Group or held or carried for any Seller by any Buyer Entity in the Buyer Group; and (ii) any Margin required to be paid or returned by Administrative Agent or any Buyer Entity in the Buyer Group to Seller. 
+ (b) All payments due pursuant to this Section 4 shall be made on the payment date, which shall be no later than the first business day after the netting. All payments shall be made by wire transfer in accordance with the applicable Governing Agreements. 
+
+ 5 
+ 2014057.06-NYCSR07A - MSW 
+
+ (c) Upon making such net payment and/or delivery, and provided that the Margin subject to such Obligations has been returned (if required) properly to the appropriate Buyer Entity in the Buyer Group and that all other obligations of the parties hereto have been satisfied, such Buyer Entity agrees to reflect on its books and records that such netted Obligations have been discharged fully. 
+ (d) The Administrative Agent, on behalf of each Buyer Entity in the Buyer Group, may collect from any Seller any losses, reasonable costs or expenses incurred by any Buyer Entity in the Buyer Group in accordance with the applicable Governing Agreements or hereunder in taking any of the above‑mentioned actions (including commissions (other than commissions payable to any entity belonging to the Buyer Group) and reasonable legal fees and expenses), all of which will be secured by Margin. Any other Buyer Entity in the Buyer Group shall promptly notify the Administrative Agent of any such losses, costs or expenses so incurred. 
+ Section 5. Buyer Entities May Act Through Administrative Agent . Each Buyer Entity in the Buyer Group has designated the Administrative Agent for the purpose of performing any action hereunder. The exculpatory and liability-limiting provisions contained in the Administration Agreement with respect to the Administrative Agent shall also apply in all respects to the Administrative Agent hereunder and under the other Governing Agreements. 
+ Section 6. Remedies . 
+ (a) At any time while an Event of Default under any Governing Agreement is continuing, subject to Article 5 of the Master Refinancing Agreement, the Administrative Agent may exercise any and all rights and remedies of a secured party or otherwise, including, without limitation, the following: (i) immediately sell, without demand or further notice of any kind, at a public or private sale and at such price or prices as Administrative Agent may deem satisfactory any or all Margin hereunder and apply the proceeds thereof to the Obligations and any other amounts owing by a Seller hereunder or (ii) in its sole discretion elect, in lieu of selling all or a portion of such Margin, to give the related Seller credit for such Margin in an amount equal to the market value thereof as determined in the sole good faith discretion of Administrative Agent against the Obligations and any other amounts owing by any Seller hereunder. The proceeds of any disposition of Margin or any credit given for such Margin as contemplated herein shall be applied to such Obligations as determined by Administrative Agent in its sole discretion on behalf of each Buyer Entity, subject to the Administration Agreement. 
+ (b) The remedies set forth herein are available to Administrative Agent and, as applicable, the other Buyer Entities in the Buyer Group, in any such case, for so long as an Event of Default under any Governing Agreement is continuing. None of the rights and remedies of Administrative Agent or any other Buyer Entity shall be exclusive of any other available right or remedy, and each right and remedy shall be cumulative and in addition to any other right or remedy of Administrative Agent or such other Buyer Entity. It is understood that a prior demand or call, or prior notice of the time and place of such sale or purchase, shall not be considered a waiver of the right of Administrative Agent to sell Margin without demand or notice. Each Seller shall remain liable for any and all Obligations it owes to Administrative Agent and the other Buyer Entities in the Buyer Group remaining unpaid or unsatisfied after the application of Margin and the exercise 
+
+ 6 
+ 2014057.06-NYCSR07A - MSW 
+
+ of all rights hereunder. The rights and remedies granted hereby to Administrative Agent and, as applicable, the other Buyer Entities in the Buyer Group are in addition to any rights and remedies under the Governing Agreements and any other DIP Warehouse Facility Agreement. Without limiting the generality of the foregoing, as between the Sellers, on the one hand, and the Buyer Entities in the Buyer Group, on the other hand, nothing herein shall be construed as a requirement that Administrative Agent or any other Buyer Entity in the Buyer Group cause Margin held on account of a particular Obligation to be attributed (in whole or in part) to any other Obligation in determining whether or not Administrative Agent or other Buyer Entity is entitled to make a demand or call upon any Seller for additional securities, monies or other property under any such other Obligation to the extent such requirement does not otherwise expressly exist pursuant to the terms of the applicable Governing Agreement or any other DIP Warehouse Facility Agreement. 
+ Section 7. Appointment as Attorney in Fact . Each Seller hereby covenants that with respect to Margin and the delivery of Margin (a) it shall take such action as is reasonably necessary to cooperate with the Administrative Agent to perfect or preserve its security interest, legal or equitable charge or other mortgage or assignment in the Margin; and (b) on request, each Seller will ratify and confirm any deed, document, act and thing and all transactions that any such attorney-in-fact or agent may do which falls under the scope of this power of attorney. Without limiting the foregoing and in addition to any rights granted to each Buyer Entity in the Buyer Group under the applicable Governing Agreements and any other applicable DIP Warehouse Facility Agreement, each Seller hereby appoints Administrative Agent as such Seller’s agent and attorney in fact to file any financing statements in such Seller’s name and to perform all other acts which any Buyer Entity in the Buyer Group deems appropriate in connection with the provisions of this Agreement. This agency and power of attorney is coupled with an interest and is irrevocable without Administrative Agent’s consent on behalf of each Buyer Entity in the Buyer Group. 
+ Section 8. Recoupment . The rights of each Buyer Entity in the Buyer Group contained herein are in addition to any and all recoupment rights that each Buyer Entity may have at law or in equity against any Seller. 
+ Section 9. Assignment; Modification . This Agreement may not be amended or modified except in a written instrument executed by each of the parties hereto. The rights and obligations of the parties under this Agreement may not be assigned without the prior written consent of the other parties to this Agreement and any purported assignment without such consent shall be null and void; provided that, for so long as an Event of Default under any Governing Agreement is continuing, any Buyer Entity in the Buyer Group may assign its rights hereunder without the prior written consent of the Sellers; provided , further , that any permitted assignee of a Buyer Entity in the Buyer Group shall be subject to and in accordance with the Administration Agreement, and shall be a Buyer Entity hereunder. Subject to the foregoing, this Agreement shall be binding on the parties and their successors and assigns and shall inure to the benefit of the Buyer Entities in the Buyer Group and their respective successors, endorsees, permitted transferees and permitted assigns, until all the Obligations shall have been satisfied by payment in full in cash, all the commitments under the Governing Agreements shall have terminated or expired and the Master Refinancing Agreement shall terminated in accordance with Article 11 thereof. 
+
+ 7 
+ 2014057.06-NYCSR07A - MSW 
+
+ Section 10. Representations, Warranties and Covenants . Each Seller represents and warrants to Administrative Agent and each other Buyer Entity in the Buyer Group as follows as of the Effective Date and as of the date of any transaction under any MSFTA and each Purchase Date (as defined in each Repurchase Agreement) for any Transaction (as defined in each Repurchase Agreement) under any Repurchase Agreement: 
+ (a) it has all requisite power to execute, deliver and perform its obligations under this Agreement; 
+ (b) subject to the entry of the DIP Orders with respect to Ditech and RMS, that this Agreement constitutes the legal, valid and binding obligation of such Seller, enforceable in accordance with its terms, subject (i) as to the enforcement of remedies, to applicable bankruptcy, insolvency and similar laws affecting creditors’ rights generally and (ii) to general principles of equity); 
+ (c) it is entering into this Agreement at arm’s length and not in reliance on any inducement or information other than as set forth in this Agreement; 
+ (d) this Agreement creates a valid, fully perfected security interest in the Margin (having the priority described in the DIP Orders), free and clear of any adverse claims, subject in the case of lien perfection to the execution and delivery of any necessary control agreement(s), filing of applicable UCC financing statements or entry of the Interim DIP Order; 
+ (e) the execution and delivery by such Seller and performance by such Seller of its obligations under this Agreement have been duly authorized by all necessary corporate action on the part of such Seller; 
+ (f) the execution and delivery by such Seller and performance by such Seller of its obligations under this Agreement do not and will not (i) subject to the entry of the DIP Orders with respect to Ditech and RMS, require any authorization, approval, consent, order, filing, or other action except such as has previously been obtained and is in full force and effect, (ii) violate, subject to the entry of the DIP Orders with respect to Ditech and RMS, any provision of applicable law, statue, rule or regulation or any order, writ, injunction or decree of any court or Governmental Authority (as defined in each Repurchase Agreement) applicable to such Seller, (iii) violate any provision of the organizational documents of such Seller, (iv) violate or result in a default under any provision of any indenture, material agreement, bond, note or other similar material instrument to which such Seller is a party or by which such Seller or any of its properties or assets are bound and that is either entered into after the Petition Date or with respect to which such Seller is obligated to comply during the pendency of its Case, (v) violate or result in a default under any provision of the RSA and (vi) result in the creation or imposition of any lien, charge or encumbrance of any nature whatsoever upon any properties or assets of such Seller (other than liens and security interests granted by such Seller pursuant this Agreement or any other DIP Warehouse Facility Agreement); and 
+
+ 8 
+ 2014057.06-NYCSR07A - MSW 
+
+ (g) such Seller will realize a direct economic benefit as a result of the transactions entered into from time to time by the Buyer Entities in the Buyer Group under the Governing Agreements. 
+ Section 11. Uniform Commercial Code Filings . Prior to or concurrently with the execution of this Agreement, each Seller authorizes Administrative Agent to file such Uniform Commercial Code financing statements describing the Margin (or any portion thereof) as collateral, including any continuation statement or termination statement, or any amendment to any such financing statement, as Administrative Agent may require. 
+ Section 12. Intent; Interpretation and Headings . 
+ (a) Each Party intends that this Agreement constitutes a “netting contract” as defined in and subject to Title VI of the U.S. Federal Deposit Insurance Corporation Improvement Act of 1991 (“ FDICIA ”), and each payment entitlement and payment obligation hereunder and under the other Governing Agreements constitutes a “covered contractual payment entitlement” or “covered contractual payment obligation”, respectively, as defined in and subject to FDICIA. 
+ (b) Each Party intends that each payment to be made under this Agreement (including payments by way of setoff or application of collateral) is a “termination value,” “payment amount” or “other transfer obligation” within the meaning of sections 362 and 561 of Title 11 of the Bankruptcy Code and a “margin payment,” “settlement payment” or “transfer” within the meaning of section 546 of the Bankruptcy Code. 
+ (c) Each Party intends that this Agreement constitutes and shall be construed and interpreted as a “master netting agreement” within the meaning of and as such terms are used in Section 561 of the Bankruptcy Code. 
+ (d) Each Party agrees that this Agreement is intended to create mutuality of obligations among the Parties, and as such, this Agreement constitutes a contract which (i) is between all of the Parties and (ii) places each Party in the same right and capacity. 
+ (e) The use of headings and subheadings in this Agreement, and the division of this Agreement into sections and sub sections, are for convenience of reference only and shall not affect the interpretation or construction of this Agreement. 
+ Section 13. Amendment and Ratification of Governing Agreements; Severability . 
+ (a) Each Party agrees that each Governing Agreement is hereby amended to the extent necessary to give effect to this Agreement, including, without limitation, by the deletion of any automatic termination provisions set forth in any of the Governing Agreements and the replacement of each such automatic termination provision with a right of each Buyer Entity in the Buyer Group to terminate such Governing Agreement upon the occurrence of the events giving rise to such automatic termination and by the addition of the address, facsimile number or electronic 
+
+ 9 
+ 2014057.06-NYCSR07A - MSW 
+
+ mail system details at which notices or other communications are to be given under such Governing Agreement of the information set forth herein. 
+ (b) Each Party agrees that if any Governing Agreement does not provide that all transactions under a Governing Agreement are entered into in reliance on the fact that such Governing Agreement and all transactions thereunder form a single agreement, then such Governing Agreement is hereby amended to include such a provision as a statement of the parties’ intent. 
+ (c) The Governing Agreements, as amended by this Agreement, are in all respects ratified and confirmed. 
+ (d) The Parties intend that this Agreement be construed to give full effect to the intent of the Parties with respect to the Margin, netting and setoff contemplated herein. In the event any one or more of the provisions contained in this Agreement should be held invalid, illegal, or unenforceable in any respect under the law of any jurisdiction, then (i) the validity, legality, and enforceability of the remaining provisions under the law of such jurisdiction, and the validity, legality, and enforceability of such provisions and any other provisions under the law of any other jurisdiction, shall not in any way be affected, invalidated or impaired thereby and (ii) the Parties shall endeavor in good faith negotiations to replace the invalid, illegal, or unenforceable provisions or obligations with valid provisions the economic effect of which comes as close as possible to that of the invalid, illegal, or unenforceable provisions or obligation. 
+ (e) In the event that this Agreement is deemed or held to be invalid, illegal, or unenforceable, notwithstanding the intention of the Parties set forth in Section 13(d) , the provisions of this Agreement that amend the Governing Agreements to (i) amend any automatic termination provisions as contemplated by Section 13(a) , (ii) provide that all transactions under a Governing Agreement are entered into in reliance on the fact that such Governing Agreement and all transactions thereunder form a single agreement as contemplated by Section 13(b) , and (iii) change the notice information in each Governing Agreement as contemplated by Section 13(a) shall survive any determination that this Agreement is invalid, illegal, unenforceable, null and void, or without force or effect. 
+ Section 14. Recordings of Communications . Each Buyer Entity in the Buyer Group shall have the right (but not the obligation) from time to time to make or cause to be made tape recordings of communications between its employees and those of any Seller with respect to Obligations. Each Seller consents to the admissibility of such tape recordings in any court, arbitration or other proceedings. Each Seller agrees that a duly authenticated transcript of such a tape recording shall be deemed to be a writing conclusively evidencing the Parties’ agreement. 
+ Section 15. Enforcement Costs and Expenses . The Sellers shall reimburse the Buyer Group for any damages, claims, liabilities, reasonable expenses (including reasonable attorney’s fees), arising out of the enforcement of this Agreement or any other Governing Agreement. 
+ Section 16. No Future Obligations . Notwithstanding anything contained in this Agreement and except only as may be expressly set forth in the Governing Agreements, none of the Parties to this Agreement shall be obligated to enter into any future Obligations, except as 
+
+ 10 
+ 2014057.06-NYCSR07A - MSW 
+
+ required under an applicable Governing Agreement. Each Party agrees that it will deliver such documents and take such action as are reasonably required to implement the terms of this Agreement. 
+ Section 17. GOVERNING LAW . THIS AGREEMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK, WITHOUT REFERENCE TO THE CHOICE OF LAW PROVISIONS THEREOF (OTHER THAN SECTION 5-1401 OF THE NEW YORK GENERAL OBLIGATIONS LAW) AND, TO THE EXTENT APPLICABLE, THE BANKRUPTCY CODE. 
+ Section 18. WAIVER OF JURY TRIAL . EACH PARTY HERETO HEREBY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN RESPECT OF ANY LITIGATION DIRECTLY OR INDIRECTLY ARISING OUT OF, UNDER OR IN CONNECTION WITH THIS AGREEMENT (WHETHER BASED ON CONTRACT, TORT OR ANY OTHER THEORY). EACH PARTY HERETO (I) CERTIFIES THAT NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PARTY HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (II) ACKNOWLEDGES THAT IT AND THE OTHER PARTIES HERETO HAVE BEEN INDUCED TO ENTER INTO THIS AGREEMENT BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS PARAGRAPH. 
+ Section 19. SUBMISSION TO JURISDICTION . EACH PARTY HERETO IRREVOCABLY AND UNCONDITIONALLY AGREES THAT IT WILL NOT COMMENCE ANY ACTION, LITIGATION OR PROCEEDING OF ANY KIND OR DESCRIPTION, WHETHER IN LAW OR EQUITY, WHETHER IN CONTRACT OR TORT OR OTHERWISE, AGAINST THE ADMINISTRATIVE AGENT, ANY BUYER ENTITY IN THE BUYER GROUP OR ANY RELATED PARTY OF ANY OF THE FOREGOING, IN ANY WAY RELATING TO THIS AGREEMENT OR THE TRANSACTIONS RELATING HERETO, IN A FORUM OTHER THAN THE BANKRUPTCY COURT (OR, IF THE BANKRUPTCY COURT DOES NOT HAVE (OR ABSTAINS FROM) JURISDICTION, THE COURTS OF THE STATE OF NEW YORK SITTING IN NEW YORK COUNTY, AND OF THE UNITED STATES DISTRICT COURT OF THE SOUTHERN DISTRICT OF NEW YORK, AND ANY APPELLATE COURT FROM ANY THEREOF, AND EACH OF THE PARTIES HERETO IRREVOCABLY AND UNCONDITIONALLY SUBMITS TO THE JURISDICTION OF SUCH COURTS AND AGREES THAT ALL CLAIMS IN RESPECT OF ANY SUCH ACTION, LITIGATION OR PROCEEDING MAY BE HEARD AND DETERMINED IN SUCH NEW YORK STATE COURT OR, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN THE BANKRUPTCY COURT OR SUCH OTHER FEDERAL COURT. EACH OF THE PARTIES HERETO AGREES THAT A FINAL JUDGMENT IN ANY SUCH ACTION, LITIGATION OR PROCEEDING SHALL BE CONCLUSIVE AND MAY BE ENFORCED IN OTHER JURISDICTIONS BY SUIT ON THE JUDGMENT OR IN ANY OTHER MANNER PROVIDED BY LAW. NOTHING IN THIS AGREEMENT, ANY GOVERNING 
+
+ 11 
+ 2014057.06-NYCSR07A - MSW 
+
+ AGREEMENT OR IN ANY OTHER RELATED AGREEMENT SHALL AFFECT ANY RIGHT THAT THE ADMINISTRATIVE AGENT MAY OTHERWISE HAVE TO BRING ANY ACTION OR PROCEEDING RELATING TO THIS AGREEMENT, ANY GOVERNING AGREEMENT OR IN ANY OTHER RELATED AGREEMENT AGAINST ANY SELLER, ANY AFFILIATE THEREOF OR ANY OF THEIR RESPECTIVE PROPERTIES IN THE COURTS OF ANY JURISDICTION. Each of the parties hereto hereby irrevocably and unconditionally waives, to the fullest extent it may legally and effectively do so, any objection which it may now or hereafter have to the laying of venue of any suit, action or proceeding arising out of or relating to this Agreement in the Bankruptcy Court or any such New York State or federal court referred to above. Each of the parties hereto hereby irrevocably waives, to the fullest extent permitted by law, the defense of an inconvenient forum to the maintenance of such action or proceeding in any such court. 
+ Section 20. Counterparts . This Agreement may be executed in any number of counterparts, all of which taken together shall constitute one and the same instrument, and any of the parties hereto may execute this Agreement by signing any such counterpart. Counterparts may be delivered electronically. 
+ Section 21. Conflict and Savings Clause . In the event that a DIP Warehouse Facility Agreement or an account agreement that is also subject to this Agreement prohibits a Seller from granting a security interest in Margin under this Agreement or prohibits a Seller from providing a right of setoff under this Agreement, then this Agreement shall be deemed to control over such other DIP Warehouse Facility Agreement or account agreement for purposes of preserving the rights of each Buyer Entity in the Buyer Group hereunder. 
+ Section 22. Bankruptcy Non-Petition . The parties hereby agree that they shall not institute against, or join any other person in instituting against, any Buyer Entity in the Buyer Group that is a CP Conduit any bankruptcy, reorganization, arrangement, insolvency or liquidation proceeding, or other proceeding under any federal or state bankruptcy or similar law, for one year and one day after the latest maturing commercial paper note issued by the applicable CP Conduit is paid in full. 
+ Section 23. Limited Recourse . The obligations of each party under this Agreement or any other Governing Agreement are solely the corporate or limited liability company obligations of such party. No recourse shall be had for the payment of any amount owing by any party under this Agreement, or for the payment by any party of any fee in respect hereof or any other obligation or claim of or against such party arising out of or based on this Agreement, against any stockholder, partner, member, employee, officer, director or incorporator or other authorized person of such party. In addition, notwithstanding any other provision of this Agreement, the parties agree that all payment obligations of any Buyer Entity in the Buyer Group that is a CP Conduit under this Agreement shall be limited recourse obligations of such CP Conduit, payable solely from the funds of such CP Conduit available for such purpose in accordance with its commercial paper program documents. Each party waives payment of any amount which such CP Conduit does not pay pursuant to the operation of the preceding sentence until the day which is at least one year and one day after the payment in full of the latest maturing commercial paper note (and waives any 
+
+ 12 
+ 2014057.06-NYCSR07A - MSW 
+
+ “claim” against such CP Conduit within the meaning of Section 101(5) of the Bankruptcy Code or any other debtor relief law for any such insufficiency until such date). 
+ [SIGNATURE PAGE FOLLOWS] 
+
+ 13 
+ 2014057.06-NYCSR07A - MSW 
+
+ IN WITNESS WHEREOF, the undersigned have executed this Margin, Setoff and Netting Agreement as of the date first written above. 
+
+ BARCLAYS BANK PLC, 
+as Administrative Agent 
+ By /s/ Joseph O’ Doherty 
+ Name: Joseph O’ Doherty 
+ Title: Managing Director 
+
+ BARCLAYS BANK PLC, 
+as a Buyer 
+
+ By /s/ Joseph O’ Doherty 
+ Name: Joseph O’ Doherty 
+ Title: Managing Director 
+
+ BARCLAYS CAPITAL INC., 
+as an MSFTA Counterparty 
+
+ By /s/ Joseph O’ Doherty 
+ Name: Joseph O’ Doherty 
+ Title: Managing Director 
+
+ Signature Page to the Margin, Setoff and Netting Agreement 
+
+ NOMURA CORPORATE FUNDING AMERICAS, LLC, as a Buyer 
+
+ By /s/ Vincent Primiano 
+ Name: Vincent Primiano 
+ Title: Managing Director 
+
+ NOMURA SECURITIES INTERNATIONAL, INC., as an MSFTA Counterparty 
+
+ By /s/ Vincent Primiano 
+ Name: Vincent Primiano 
+ Title: Managing Director 
+
+ Signature Page to the Margin, Setoff and Netting Agreement 
+
+ DITECH FINANCIAL LLC, 
+as a Seller 
+ By /s/ Joanna Colaneri 
+ Name: Joanna Colaneri 
+ Title: Senior Vice President and Treasurer 
+
+ REVERSE MORTGAGE SOLUTIONS, INC., 
+as a Seller 
+
+ By /s/ Andrew Dokos 
+ Name: Andrew Dokos 
+ Title: Vice President and Treasurer 
+
+ RMS REO BRC II, LLC, as a Seller 
+
+ By /s/ Andrew Dokos 
+ Name: Andrew Dokos 
+ Title: Vice President and Treasurer 
+
+ Signature Page to the Margin, Setoff and Netting Agreement 
+
+ ACKNOWLEDGED AND AGREED: 
+
+ DITECH HOLDING CORPORATION, 
+as Guarantor 
+
+ By /s/ Joanna Colaneri 
+ Name: Joanna Colaneri 
+ Title: Senior Vice President and Treasurer 
+
+ Signature Page to the Margin, Setoff and Netting Agreement

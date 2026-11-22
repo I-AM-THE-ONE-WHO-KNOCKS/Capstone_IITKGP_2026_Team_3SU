@@ -1,0 +1,7 @@
+counterparty_id,pd,lgd,pd_horizon,source
+CP-001,0.01,0.45,1y,synthetic
+CP-002,0.012,0.4,1y,synthetic
+CP-003,0.008,0.35,1y,synthetic
+CP-004,0.02,0.55,1y,synthetic
+CP-005,0.015,0.5,1y,synthetic
+CP-006,0.006,0.3,1y,synthetic

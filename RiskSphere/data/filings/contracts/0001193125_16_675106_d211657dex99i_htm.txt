@@ -1,0 +1,742 @@
+EX-99.(I)
+ 2
+ d211657dex99i.htm
+ EX-99.(I)
+
+ EX-99.(I) 
+
+ Exhibit I 
+
+ EXECUTION VERSION 
+ PA GRAND
+OPPORTUNITY LIMITED 
+ Commence Chambers, 
+
+ P.O. Box 2208, 
+ Road Town, 
+
+ Tortola, 
+ British Virgin Islands 
+
+ EASE WIN ENTERPRISES LIMITED 
+ P.O.Box 957, Offshore
+Incorporations Centre, 
+ Road Town, Tortola, British Virgin Islands 
+
+ July 29, 2016 
+
+ Re: 
+
+ Corporate Convertible Bond Total Return Swap 
+
+ Dear Sir or Madam, 
+ This
+confirmation amends and restates in its entirety the confirmation between PA GRAND OPPORTUNITY LIMITED (“ Party A ”) and EASE WIN ENTERPRISES LIMITED (“ Party B ”) dated 6 June 2016 and the 2002 ISDA Master
+Agreement arising thereunder. 
+ The purpose of this letter (this “ Confirmation ”) is to confirm the terms and conditions of the swap
+transaction (the “ Transaction ”) entered into between Party A and Party B on the Trade Date specified below. 
+ The definitions and
+provisions contained in the 2006 ISDA Definitions (the “ Definitions ”), as published by the International Swaps and Derivatives Association, Inc., are incorporated by reference into this Confirmation In the event of any inconsistency
+between the Definitions and this Confirmation, this Confirmation will govern. 
+ This Confirmation evidences a complete and binding agreement between Party
+A and Party B (together, the “ Parties ”) as to the terms of the Transaction to which this Confirmation relates. This Confirmation shall supplement, form a part of, and be subject to, an agreement in the form of the 2002 ISDA Master
+Agreement as if the Parties had executed an agreement in such form (but without any Schedule except for (a) the election of the laws of Hong Kong Special Administrative Region as the governing law, (b) the deletion of Section 13(b)(i)
+of the Master Agreement and replacement with the words: “submits to the non-exclusive jurisdiction of the courts of Hong Kong Special Administrative Region”, (c) the election of USD as the Termination Currency, (d) the
+designation of Credit Support Documents in paragraph 3(d) below and (e) the amendments set out in paragraph 5(h) below) on the Trade Date (the “ Deemed ISDA Master Agreement ”). In the event of any inconsistency between the
+provisions of that agreement and this Confirmation, this Confirmation will prevail for purposes of this Transaction. 
+ In this Confirmation, “ Tsang
+Confirmation ” means the confirmation between Rodney Tsang and PA Grand Opportunity Limited dated July 29, 2016 which evidences the terms of a total return swap transaction between those parties (the “ Tsang TRS ”) that
+supplements, forms part of, and is subject to the 2002 ISDA Master Agreement (the “ Tsang ISDA ” entered into between those parties as set out in the Tsang Confirmation (the Tsang TRS and Tsang ISDA together being the “ Tsang
+Master Agreement ”). 
+
+ 1 
+
+ 1. The terms of the particular Transaction to which this Confirmation relates are as follows: 
+
+ Trade Date: 
+
+ The date of the sale and purchase agreement between the Issuer and the initial purchaser of the Bonds relating to the issue of the Bonds (the “Sale and Purchase Agreement” ). 
+
+ Effective Date: 
+
+ The Closing Date (as defined in the Sale and Purchase Agreement), provided that the successful closing of the Sale and Purchase Agreement in accordance with its terms is a condition precedent to the effectiveness of the
+Transaction. 
+
+ Termination Date: 
+
+ The earliest of (a) the earlier of (i) the Scheduled Total Return Amount Payment Date and (ii) the Total Return Amount Postponed Payment Date, (b) the Scheduled Maturity Date of the Bonds, (c) the Full Redemption Date, if any,
+(d) the Put Exercise Date, if any, (e) the Optional Termination Payment Date, if any, on which the Transaction is terminated in whole or (f) the Bond Event Termination Date. 
+
+ Business Days: 
+
+ Hong Kong, New York, the People’s Republic of China 
+
+ Settlement Currency: 
+
+ USD 
+
+ Relevant Jurisdiction: 
+
+ British Virgin Islands and/or such other jurisdiction(s) as agreed between the Parties from time to time 
+
+ Bonds: 
+
+ 2.0% Convertible Bonds Due 2021 as described in the Sale and Purchase Agreement. 
+
+ Issuer: 
+
+ BITAUTO Holdings Limited 
+
+ Scheduled Maturity Date of the Bonds: 
+
+ The fifth anniversary of the Closing Date. 
+
+ Notional Amount: 
+
+ An amount equal to the Transaction Face Amount multiplied by the Initial Price. 
+
+ Transaction Face Amount: 
+
+ USD44,000,000, subject to reduction(s) in the event of any Optional Termination and/or any Partial Redemptions (as determined by the Calculation Agent). 
+
+ 2 
+
+ Full Redemption Date: 
+
+ The date, if any, on which the Issuer pays all holders of the Bonds in the Relevant Jurisdiction (or if there are no holders of Bonds in the Relevant Jurisdiction, the date, if any, on which the Issuer would pay holders of the
+Bonds in the Relevant Jurisdiction assuming there were holders of Bonds in the Relevant Jurisdiction in an aggregate principal amount equal to the Transaction Face Amount) in respect of the entire then-outstanding principal amount of Bonds held by
+such holders in cash (a “Full Redemption” ) in respect of a record date (as specified by the Issuer or in the indenture or other legal instrument governing the Bonds or as otherwise determined by the Calculation Agent) (the
+ “Record Date” ) that occurs during the period extending from and including the Effective Date to but excluding the Termination Date. 
+
+ Full Redemption Amount: 
+
+ The amount of principal actually paid by the Issuer in cash on the Full Redemption Date to holders of the Bonds in the Relevant Jurisdiction (or if there are no holders of Bonds in the Relevant Jurisdiction, that would be paid by
+the Issuer in cash on the Full Redemption Date to holders of the Bonds in the Relevant Jurisdiction assuming there were holders of Bonds in the Relevant Jurisdiction in an aggregate principal amount equal to the Transaction Face Amount) in respect
+of Bonds with an outstanding principal amount equal to the Transaction Face Amount as of the Record Date relating to the Full Redemption Date. 
+
+ Initial Price: 
+
+ 100% 
+
+ 3 
+
+ Final Price: 
+
+ The price per Bond, expressed as a percentage of par, determined by the Calculation Agent as the volume weighted average price, net of all reasonable costs and expenses, at which Party A disposes, acting in good faith and a
+commercially reasonable manner, of the Bonds held by it as a Hedge Position for the Transaction (the “Relevant Bonds” ), during the period of 60 Business Days prior to the Scheduled Total Return Amount Payment Date (the
+ “Disposal Period” ), provided that (i) if Party A is unable, after using its good faith and commercially reasonable efforts, to dispose of some or all of the Relevant Bonds, it will confer with Party B and may exercise its right to
+convert them into shares of the Issuer (the “Relevant Shares” ) and, if it is able, using its good faith and commercially reasonable efforts, to dispose of some or all of the Relevant Shares, it will use the volume weighted average
+price, net of all reasonable costs and expenses, at which it disposes of the Relevant Shares to determine the Final Price (or the relevant portion thereof), (ii) if the Termination Date is an Optional Termination Payment Date on which the
+Transaction is terminated in whole or the Bond Event Termination Date, the Disposal Period shall be reduced to the period between the date of the Optional Termination Notice or the date of the Bond Event (as applicable) and the Termination Date, and
+(iii) pursuant to the section below entitled “Settlement Postponement”, the Disposal Period may be longer. 
+
+ This provision imposes no obligation on Party A to maintain any Hedge Position throughout the duration of the Transaction. 
+
+ If Party A does not own Bonds with an aggregate principal amount equal to the Transaction Face Amount, or Relevant Shares that correspond to such an amount of converted Bonds, at the time the Final Price is to be determined, the
+Final Price will be the higher one of (a) the price determined pursuant to the first paragraph in this “Final Price” section in respect of the Relevant Bonds and/or Relevant Shares that it does hold and (b) the price per Bond expressed as
+a percentage of par as determined by two independent third-party dealers selected by each of Party A and Party B (the “Independent Dealers” ) or, if the Independent Dealers cannot agree the price, as determined by a further
+independent third-party dealer agreed upon by the Independent Dealers. 
+
+ 4 
+
+ If at any other point during the term of the Transaction Party A does not own Bonds in an aggregate principal amount at least equal to the Transaction Face Amount (whether as a result of a disposition, except as specifically
+contemplated hereby for purposes of determining the Final Price, conversion or otherwise, in each case except as agreed with Party B in writing), a principal amount of Bonds in an amount equal to the Transaction Face Amount shall be deemed to be
+outstanding, and the Issuer shall be deemed to have paid, when due, all amounts owing in respect of such Bonds (whether such amounts are payments of interest, amounts due upon maturity or otherwise). 
+
+ Distribution Amounts: 
+
+ Distribution Amounts Payer: 
+
+ The Total Return Amount Payer 
+
+ Distribution Amounts Period: 
+
+ The period that commences on, and includes the Effective Date and ends on, but excludes, the Termination Date. 
+
+ Distribution Amount: 
+
+ Any and all payments or distributions, including, without limitation, interest and coupon payments and consent fees, but excluding Partial Redemption Amounts or Full Redemption Amounts, that are actually made by the Issuer to
+holders of the Bonds in the Relevant Jurisdiction (or if there are no holders of Bonds in the Relevant Jurisdiction, that would be made by the Issuer to holders of the Bonds in the Relevant Jurisdiction assuming there were holders of Bonds in the
+Relevant Jurisdiction in an aggregate principal amount equal to the Transaction Face Amount) in respect of an outstanding principal amount of the Bonds equal to the Transaction Face Amount as of the relevant Record Date and for which the Record Date
+occurs during the Distribution Amounts Period. 
+
+ Cash Distribution Amount: 
+
+ The portion of a Distribution Amount, if any, that consists of cash. 
+
+ 5 
+
+ Non-Cash Distribution Amount: 
+
+ That portion of a Distribution Amount, if any, that consists of property other than cash, including, without limitation, securities or other non-cash assets. 
+
+ Consequences of Cash Distribution
+
+ Amounts:
+
+ The Distribution Amounts Payer shall pay the Fixed Amount Payer the Cash Distribution Amount on the Business Day immediately following the relevant Issuer Distribution Date, notwithstanding the occurrence of the Termination Date
+(unless the Issuer Distribution Date occurs more than six months following the Termination Date, in which case the Cash Distribution Amount will not be paid). 
+
+ Consequences of Non-Cash Distribution 
+
+ Amounts:
+
+ The Calculation Agent shall adjust the terms of the Transaction, effective as of the relevant Issuer Distribution Date, to account for any Non-Cash Distribution Amount. For the avoidance of doubt, any such adjustment shall have the
+effect of preserving the value to the parties of the Transaction prior to giving effect to such Non-Cash Distribution Amount. 
+
+ Issuer Distribution Date: 
+
+ The date on which the Issuer makes any payments or distributions of Distribution Amounts to holders of the Bonds in the Relevant Jurisdiction (or if there are no holders of Bonds in the Relevant Jurisdiction, the date on which the
+Issuer would make such payments or distributions to holders of the Bonds in the Relevant Jurisdiction). 
+
+ Total Return Amount: 
+
+ Settlement Election: 
+
+ Party B may at any time elect, by giving notice to Party A that (i) “Physical Settlement” will apply (ii) “Cash Settlement” will apply or (iii) “Cash and Physical Settlement” will apply, in which case
+such notice will specify the respective portions, expressed as percentages whose sum is 100%, of the Transaction which will be cash settled and physically settled (respectively, the “Cash Percentage” and the “Physical
+Percentage” ). If Party B gives no such notice during the term of the Transaction, “Cash Settlement” shall be deemed to apply. 
+
+ 6 
+
+ Total Return Amount Payer: 
+
+ Party A 
+
+ Payment of the Total
+
+ Return Amount/ Delivery of Bonds:
+
+ (A) Subject to the section below entitled “Settlement Postponement”, if Cash Settlement applies, and:
+
+ (i) the Total Return Amount is positive, the Total Return Amount Payer shall pay such Total Return Amount to the
+Fixed Amount Payer on the Total Return Amount Payment Date; or
+
+ (ii) the Total Return Amount is negative, the Fixed Amount Payer shall pay the absolute value of such Total Return
+Amount to the Total Return Amount Payer on the Total Return Amount Payment Date.
+
+ (B) If Physical Settlement applies: 
+
+ (i) the Total Return Amount Payer shall deliver Bonds with an aggregate face value equal to the Transaction Face
+Amount to the relevant account of the Fixed Amount Payer (as detailed in part 4 of this Confirmation) on the Total Return Amount Payment Date; and
+
+ (ii) the Fixed Amount Payer shall pay to the Total Return Amount Payer the Notional Amount on the Total Return
+Amount Payment Date.
+
+ (C) Subject to the section below entitled “Settlement Postponement”, if Cash and Physical Settlement applies, the payments and deliveries described in paragraphs (A) and (B) above shall be made by the relevant Parties
+on the Total Return Amount Payment Date, provided that (a) for the purposes of the calculations required by paragraph (A) the Transaction Face Amount shall be multiplied by the Cash Percentage and (b) for the purposes of the calculations required by
+paragraph (B) the Transaction Face Amount shall be multiplied by the Physical Percentage. 
+
+ 7 
+
+ Settlement Postponement: 
+
+ If either Cash Settlement or Cash and Physical Settlement applies and Party A determines, in good faith and a commercially reasonable manner, that as of the Scheduled Total Return Amount Payment Date it will have been unable,
+after using its good faith and commercially reasonable efforts, acting in good faith and in a commercially reasonable manner, to dispose of all or part of the Relevant Bonds and/or Relevant Shares as described in the section above entitled
+“Final Price”, Party A may elect to extend the term of the Transaction by giving notice to Party B (a “Postponement Notice” ). 
+
+ Following a Postponement Notice, Party A shall continue to use its good faith and commercially reasonable efforts to dispose of the Relevant Bonds and/or Relevant Shares in order that a Final Price may be determined in respect of
+the relevant portion of the Transaction. If Party A is subsequently able, using its good faith and commercially reasonable efforts, to dispose of the Relevant Bonds and/or Relevant Shares, it shall give further notice to Party B specifying the date
+on which it intends the Transaction to terminate (the “Total Return Amount Postponed Payment Date” ), provided that such date may fall no later than one calendar month following the Scheduled Total Return Amount Payment
+Date. 
+
+ If Party A continues to be unable, using its good faith and commercially reasonable efforts, to dispose of the Relevant Bonds and/or the Relevant Shares, or is able to dispose of part only, it may elect that “Physical
+Settlement” or “Cash and Physical Settlement” with appropriately amended Cash Percentage and Physical Percentage (such that the Physical Percentage will be higher). 
+
+ Total Return Amount Payment Date: 
+
+ The Termination Date. 
+
+ 8 
+
+ Scheduled Total Return Amount: 
+
+ The third anniversary of the Closing Date. 
+
+ Payment Date 
+
+ Total Return Amount: 
+
+ The Total Return Amount shall, except as provided below, be an amount equal to the product of: 
+
+ (a) the Notional Amount as of the Total Return Amount Payment Date;
+and
+
+ (b) the quotient of (1) the Final Price minus the Initial Price; divided
+by (2) the Initial Price.
+
+ If the Total Return Amount Payment Date is the Full Redemption Date, the Put Exercise Date or the Scheduled Maturity Date of the Bonds, the Total Return Amount shall be a cash amount equal to: 
+
+ (i) any amounts of principal actually paid by the Issuer in cash to holders of the Bonds in the Relevant
+Jurisdiction (or if there are no holders of Bonds in the Relevant Jurisdiction, that would be paid by the Issuer in cash to holders of the Bonds in the Relevant Jurisdiction assuming there were holders of Bonds in the Relevant Jurisdiction in an
+aggregate principal amount equal to the Transaction Face Amount) on the Full Redemption Date, the Put Exercise Date or the Scheduled Maturity Date of the Bonds, as applicable, in respect of the Bonds with an outstanding principal amount equal to the
+Transaction Face Amount as of the Record Date relating to the Full Redemption Date, the Put Exercise Date or the Scheduled Maturity Date of the Bonds (prior to giving effect to such principal payment), as applicable, minus 
+
+ (ii) the Initial Price multiplied by the Transaction Face Amount as of the Record Date relating to the Full
+Redemption Date, the Put Exercise Date or the Scheduled Maturity Date of the Bonds (prior to giving effect to such principal payment), as applicable.
+
+ 9 
+
+ Reference Amounts: 
+
+ Reference Amounts Payer: 
+
+ As specified in the Consequences of Cash Partial Redemptions provision below. 
+
+ Reference Amounts Period: 
+
+ The period which commences on, and includes, the Effective Date and ends on, but excludes, the Termination Date. 
+
+ Reference Amount: 
+
+ In respect of any Partial Redemption that consists of cash (in whole or in part), the Reference Amount shall be an amount equal to: 
+
+ (i) the Cash Partial Redemption Amount, minus 
+
+ (ii) the Initial Price multiplied by the amount of the Transaction Face
+Amount to which such Cash Partial Redemption Amount relates (i.e. the portion of such Transaction Face Amount being repaid in cash by the Issuer).
+
+ Reference Amounts Payment
+
+ Dates:
+
+ The Reference Amounts Payer shall pay any Reference Amount to the other party hereto on the Business Day following the related Partial Redemption Date, notwithstanding the occurrence of the Termination Date (unless the Partial
+Redemption Date occurs more than six months following the Termination Date, in which case the Reference Amount will not be paid). 
+
+ Partial Redemption: 
+
+ Any repayment of principal on the Bonds or redemption of the Bonds that corresponds to an outstanding principal amount of the Bonds equal to the Transaction Face Amount as of the Record Date for the Partial Redemption, where (i) the
+Record Date occurs during the Reference Amounts Period, (ii) such repayment or redemption is expected to be made by the Issuer to holders of the Bonds in the Relevant Jurisdiction (or, if there are no holders of the Bonds in the Relevant
+Jurisdiction, would be made), and (iii) such repayment or redemption (a) is all in cash, but is in respect of less than the entire principal amount of the Bonds then outstanding; (b) is comprised partially of cash and partially of securities or
+assets other than cash, and is in respect of all or any portion of, the principal amount of the Bonds then outstanding; or (c) is comprised solely of securities or assets other than cash, and is in respect of all or any portion of, the principal
+amount of the Bonds then outstanding, 
+
+ 10 
+
+ Cash Partial Redemption Amount: 
+
+ The portion (if any) of a Partial Redemption that consists of cash. 
+
+ Non-Cash Partial Redemption
+
+ Amount:
+
+ The portion (if any) of a Partial Redemption that consists of securities or assets other than cash. 
+
+ Partial Redemption Date: 
+
+ The date on which the Issuer makes any Partial Redemption. 
+
+ Consequences of Cash Partial
+
+ Redemptions:
+
+ If the Reference Amount is positive, the Total Return Amount Payer shall pay the related Reference Amount to the Fixed Amount Payer on the relevant Reference Amounts Payment Date. If the Reference Amount is negative, the Fixed
+Amount Payer shall pay the absolute value of the Reference Amount to the Total Return Amount Payer on the relevant Reference Amounts Payment Date. 
+
+ Consequences of Non-Cash Partial 
+
+ Redemptions:
+
+ The Calculation Agent shall adjust the terms of the Transaction, as it deems appropriate, to account for any Non-Cash Partial Redemption(s), subject to the “Non-Cash Distributions and Redemptions Declared Following the Value
+Date” provision of this Confirmation. 
+
+ Fixed Amounts: 
+
+ Fixed Amount Payer: 
+
+ Party B 
+
+ 11 
+
+ Calculation Amount: 
+
+ In respect of any Calculation Period, the Notional Amount as of the first day of such Calculation Period, subject to adjustment to account for any Optional Termination or Partial Redemption that occurs during the Calculation
+Period. 
+
+ Fixed Amount Payer Payment
+
+ Dates:
+
+ (i) the Business Day immediately following each Scheduled Issuer Distribution Date (ii) the Termination Date and (iii) each Reference Amounts Payment Date, if any, that falls earlier than the Scheduled Total Return Amount Payment
+Date. 
+
+ Fixed Rate: 
+
+ 2.0% per annum. 
+
+ Fixed Rate Day Count Fraction: 
+
+ 30/360 
+
+ Scheduled Issuer Distribution Date: 
+
+ Each Issuer Distribution Date that is scheduled to occur pursuant to the terms and conditions of the Bonds. 
+
+ 2. Calculation Agent: Party A. The Calculation Agent shall make all determinations, calculations and adjustments
+required pursuant to this Confirmation in good faith and on a commercially reasonable basis, including, without limitation, with respect to calculations, adjustments and determinations that are made in its sole discretion or otherwise. In the event
+the Calculation Agent makes any calculation, adjustment or determination pursuant to this Confirmation or the Agreement, the Calculation Agent shall as soon as reasonably practicable provide an explanation in reasonable detail of the basis for any
+such determination, adjustment or calculation if requested by Party B (including any quotations, market data or information from external sources used in making such calculation, adjustment or determination, as the case may be). 
+
+ 3. Collateral 
+
+ (a) 
+ Collateral Shares 
+ Party B shall, on or prior to the Closing Date (as defined in the
+Sale and Purchase Agreement), grant, or procure that Proudview Limited (or one of Party B or Proudview Limited’s Affiliates) grant, a security interest satisfactory to Party A (the “ Security Interest ”), securing (i) Party
+B’s obligations under the Transaction and the Deemed ISDA Master Agreement and (ii) Rodney Tsang’s obligations under the Tsang TRS and the Deemed ISDA Master Agreement (as defined in the Tsang Confirmation), over ordinary shares or
+American depositary shares (“ ADSs ”) of the Issuer with a value of not less than USD 60,000,000 as of the Trade Date, such value as determined by the Calculation Agent by multiplying the number of shares or ADSs so secured by the
+official closing price of the Issuer’s ADSs immediately preceding the Trade Date. The provision of such security shall be a condition precedent to the effectiveness of the Transaction. 
+
+ (b) 
+ Personal Guarantee 
+ Party B shall, on or prior to the Closing Date (as defined in the
+Sale and Purchase Agreement), procure that Mr. Bin Li gives a personal guarantee in respect of (i) Party B’s obligations under the Transaction and the Deemed ISDA Master Agreement, and (ii)_ Rodney Tsang’s obligations under the
+Tsang TRS and the Deemed ISDA Master Agreement (as defined in the Tsang Confirmation) (the “ Personal Guarantee ”). The provision of the Personal Guarantee shall be a condition precedent to the effectiveness of the Transaction. 
+
+ 12 
+
+ (c) 
+ Margin Call 
+ If on any Business Day during the term of the Transaction the Calculation
+Agent determines that the VWAP per ADS of the Issuer’s ADSs on the immediately preceding VWAP Trading Day is less than 60% of the conversion price of the Bonds (the “ Conversion Price ”), it shall notify the Parties of this fact
+as promptly as practicable, and Party B shall, upon demand by Party A on such Business Day (a “ First Margin Call ”), pay USD 12,000,000 (a “ First Margin Call Amount ”) to Party A within three Business Days following
+the Business Day on which such demand was made. If, following a First Margin Call, on any Business Day during the term of the Transaction the Calculation Agent determines that the VWAP per ADS of the Issuer’s ADSs on the immediately preceding
+VWAP Trading Day is greater than the Conversion Price, it shall notify the Parties of this fact as promptly as practicable, and Party A shall, upon demand by Party B on such Business Day, pay to Party B, within three Business Days following the
+Business Day on which such demand was made, an amount in USD that is equal to the Collateral Balance immediately prior to the payment of such amount. 
+
+ If on any Business Day during the term of the Transaction the Calculation Agent determines that the VWAP per ADS of the Issuer’s ADSs on
+the immediately preceding VWAP Trading Day is less than 50% of the Conversion Price, it shall notify the Parties of this fact as promptly as practicable, and Party B shall, upon demand by Party A on such Business Day (a “ Second Margin
+Call ”), pay USD 12,000,000 (a “ Second Margin Call Amount ”) to Party A within three Business Days following the Business Day on which such demand was made. If, following a Second Margin Call, on any Business Day during the
+term of the Transaction the Calculation Agent determines that the VWAP per ADS of the Issuer’s ADSs on the immediately preceding VWAP Trading Day is greater than the Trigger Level relating to the First Margin Call, it shall notify the Parties
+of this fact as promptly as practicable, and Party A shall, upon demand by Party B on such Business Day, pay to Party B, within three Business Days following the Business Day on which such demand was made, an amount equal to any Second Margin Call
+Amount actually received by Party A in respect of the previous Second Margin Call. 
+ If on any Business Day during the term of the
+Transaction the Calculation Agent determines that the VWAP per ADS of the Issuer’s ADSs on the immediately preceding VWAP Trading Day is less than 40% of the Conversion Price, it shall notify the Parties of this fact as promptly as practicable,
+and Party B shall, upon demand by Party A on such Business Day (a “ Third Margin Call ”), pay USD 12,000,000 (a “ Third Margin Call Amount ”) to Party A within three Business Days following the Business Day on which
+such demand was made. If, following a Third Margin Call, on any Business Day during the term of the Transaction the Calculation Agent determines that the VWAP per ADS of the Issuer’s ADSs on the immediately preceding VWAP Trading Day is greater
+than the Trigger Level relating to the Second Margin Call, it shall notify the Parties of this fact as promptly as practicable, and Party A shall, upon demand by Party B on such Business Day, pay to Party B within three Business Days following the
+Business Day on which such demand was made an amount equal to any Third Margin Call Amount actually received by Party A in respect of the previous Third Margin Call. 
+
+ If on any Business Day during the term of the Transaction the Calculation Agent determines that the VWAP per ADS of the Issuer’s ADSs on
+the immediately preceding VWAP Trading Day is less than 30% of the Conversion Price, it shall notify the Parties of this fact as promptly as practicable, and Party B shall, upon demand by Party A on such Business Day (a “ Fourth Margin
+Call ”), pay USD 12,000,000 (a “ Fourth Margin Call Amount ”) to Party A within three Business Days following the Business Day on which such demand was made. If, following a Fourth Margin Call, on any Business Day during the
+term of the Transaction the Calculation Agent determines that VWAP per ADS of the Issuer’s ADSs on the immediately preceding VWAP Trading Day is greater than the Trigger Level relating to the Third Margin Call, it shall notify the Parties of
+this fact as promptly as practicable, and Party A shall, upon demand by Party B on such Business Day, pay to Party B within three Business Days following the Business Day on which such demand was made an amount equal to any Fourth Margin Call Amount
+actually received by Party A in respect of the previous Fourth Margin Call. 
+
+ 13 
+
+ If on any Business Day during the term of the Transaction the Calculation Agent determines that
+the VWAP per ADS of the Issuer’s ADSs on the immediately preceding VWAP Trading Day is less than 20% of the Conversion Price, it shall notify the Parties of this fact as promptly as practicable, and Party B shall, upon demand by Party A on such
+Business Day (a “ Fifth Margin Call ”), pay USD 12,000,000 (a “ Fifth Margin Call Amount ”) to Party A within three Business Days after the Business Day on which such demand was made. If, following a Fifth Margin Call,
+on any Business Day during the term of the Transaction the Calculation Agent determines that the VWAP per ADS of the Issuer’s ADSs on the immediately preceding VWAP Trading Day is greater than the Trigger Level relating to the Fourth Margin
+Call, it shall notify the Parties of this fact as promptly as practicable, and Party A shall, upon demand by Party B on such Business Day, pay to Party B within three Business Days following the Business Day on which such demand was made an amount
+equal to any Fifth Margin Call Amount actually received by Party A in respect of the previous Fifth Margin Call. 
+ More than one Margin Call
+may occur on the same Business Day. More than one of each type of Margin Call may occur during the term of the Transaction if following the previous occurrence of that type of Margin Call the relevant Collateral Return Amount has been paid by Party
+A. 
+ On the Termination Date, Party A shall pay to Party B the outstanding Collateral Balance. 
+
+ If an Early Termination Date is designated or deemed to occur as a result of an Event of Default or a Termination Event in respect of this
+Transaction, the Collateral Balance shall be deemed to be an Unpaid Amount due to Party B for the purposes of Section 6(c) of the Deemed ISDA Master Agreement. 
+
+ (d) 
+ Credit Support Documents 
+ The documents evidencing (i) the Security Interest,
+(ii) any custody arrangement relating to the Security Interest and (iii) the Personal Guarantee shall each be Credit Support Documents for the purposes of the Deemed ISDA Master Agreement. 
+
+ 4. 
+ Notice and Account Details: 
+ Any references in this Confirmation to the giving of notice
+shall be construed as references to notice given pursuant to Section 12(a) of the Deemed ISDA Master Agreement using the address details set out below. 
+
+ Notice Details for Party A: 
+ PA
+GRAND OPPORTUNITY LIMITED 
+ Commence Chambers, 
+
+ P.O. Box 2208, 
+ Road Town, 
+
+ Tortola, 
+ British Virgin Islands
+
+ with a copy to: 
+ 15/F, AIA
+Central, Central, Hong Kong 
+ Attention: Jon Lewis/ Herman Fong 
+
+ 14 
+
+ Account Details for Party A:
+
+ As separately advised 
+
+ Notice Details for Party B: 
+
+ EASE WIN ENTERPRISES LIMITED 
+
+ Room 1055, New Century Hotel Office Tower, 
+
+ No. 6 South Capital Stadium Road, 
+
+ Beijing, 100044 
+ The
+People’s Republic of China 
+ Telephone: 8610 68492200 
+
+ Attention: Mr. Bin Li 
+
+ Account Details for Party B: 
+
+ Amount: 
+
+ USD 
+
+ Receiver’s correspondent (F54): 
+
+ UBS AG, Stamford, Connecticut
+
+ (Fedwire: 026007993)
+ (SWIFT Address: UBSWUS33)
+
+ Beneficiary Bank (F57): 
+
+ UBS AG, Hong Kong (Swift: UBSWHKHH)
+
+ (CHIPS UID 136459)
+
+ Beneficiary (F59): 
+
+ Name: EASE WIN ENTERPRISES LIMITED 
+
+ Remittance information (F70): 
+
+ Attention: Joanne Lee x5697 /Wealth Management 
+
+ 5. Additional Provisions: 
+
+ (a) 
+ Swap Termination Fee 
+ Party B shall on the Termination Date pay to Party A an amount
+determined by the Calculation Agent as follows: 
+
+ min [( n +60);1080] 
+
+ × NA × 6.0% 
+
+ 360
+
+ 15 
+
+ Where: 
+
+ n = the actual number of days from and including the Trade Date to and including the Termination Date; and 
+
+ NA = the Notional Amount as of the Trade Date, 
+
+ (the 
+ “ Swap Termination Fee ”). 
+
+ (b) 
+ Party B Optional Early Termination 
+ Party B may at any time from (but excluding) the
+date falling 6 calendar months after the Effective Date elect to terminate the Transaction, in whole or in part, by giving notice orally or in writing (an “ Optional Termination Notice ”) (such termination, an “ Optional
+Termination ”). If an Optional Termination Notice is given later than 4pm Hong Kong time on any Notice Date (as defined below), then that Optional Termination Notice will be deemed delivered on the following Notice Date. Any Optional
+Termination Notice shall specify (a) whether the Transaction is to be terminated in whole or in part and, in the case of a partial termination, the portion of the Transaction Face Amount that is subject to such Optional Termination (the portion
+of the Transaction so terminated, whether in whole or in part, the “ Optional Termination Amount ”) and (b) the Payment Date in respect of the Optional Termination Amount (the “ Optional Termination Payment
+Date ”), which shall fall no earlier than the tenth Business Day following the date on which the relevant Optional Termination Notice is deemed delivered. 
+
+ With respect to any Optional Termination: (i) the Calculation Agent shall determine either (a) if Cash Settlement applies, the
+Distribution Amount(s), the Total Return Amount, the Reference Amount(s), the Fixed Amount and the Swap Termination Fee payable on the Optional Termination Payment Date, or (b) if Physical Settlement applies, the Distribution Amount(s), the
+Notional Amount, the Reference Amount(s), the Fixed Amount and the Swap Termination Fee payable on the Optional Termination Payment Date (the net amount of such amounts being the “ Optional Termination Payment ” in either case
+(a) or (b)) and (in the case of (b) only) the relevant number of Bonds to be delivered, in accordance with the terms of this Confirmation; (ii) the party owing the Optional Termination Payment shall pay such amount to the other party
+on the Optional Termination Payment Date (and the payment of the Optional Termination Payment shall satisfy the Parties’ obligations to pay all the amounts specified in sub-paragraph (i)); and (iii) if applicable, the Total Return Amount
+Payer shall deliver the relevant number of Bonds to the Fixed Amount Payer. 
+ Until the Transaction Face Amount is reduced to zero, more
+than one Optional Termination may be designated. 
+ In the case of an Optional Termination of only part of the Transaction, the Calculation
+Agent will make such adjustments to the Notional Amount, Transaction Face Amount or any other variable relevant to the terms of the Transaction as are appropriate to take account of such partial Optional Termination. 
+
+ (c) 
+ Termination following Bond Event 
+ If during the term of the Transaction a Bond Event
+occurs, the Transaction shall be automatically terminated in whole (such termination, a “ Bond Event Termination ”). 
+
+ 16 
+
+ With respect to any termination following a Bond Event: (i) the Calculation Agent shall
+determine (a) if Cash Settlement applies, the Distribution Amount(s), the Total Return Amount, the Reference Amount(s), the Fixed Amount and the Swap Termination Fee payable in respect of the Bond Event Termination, or (b) if Physical
+Settlement applies, the Distribution Amount(s), the Notional Amount, the Reference Amount(s), the Fixed Amount and the Swap Termination Fee payable in respect of the Bond Event Termination (the net amount of such amounts being the “ Bond
+Event Termination Payment ” in either case (a) or (b)) and (in the case of (b) only) the relevant number of Bonds to be delivered, in accordance with the terms of this Confirmation; (ii) the party owing the Bond Event
+Termination Payment shall pay such amount to the other party on the Bond Event Termination Payment Date (and the payment of the Bond Event Termination Payment shall satisfy the Parties’ obligations to pay all the amounts specified in
+sub-paragraph (i)); and (iii) if applicable, the Total Return Amount Payer shall deliver the relevant number of Bonds to the Fixed Amount Payer on the Bond Event Termination Payment Date. 
+
+ (d) 
+ Adjustments 
+ Following any event relating to the Bonds which the Calculation Agent
+determines has a diluting or concentrative effect on the theoretical value of the Bonds, but which is not (in the determination of the Calculation Agent) adequately accounted for (or accounted for at all) in the terms of the Bonds, the Calculation
+Agent will make such adjustments to the Notional Amount, Transaction Face Amount or any other variable relevant to the terms of the Swap Transaction as are reasonably appropriate to take account of such event. 
+
+ (e) 
+ Non-Cash Distributions and Redemptions Declared during Disposal Period 
+ Notwithstanding
+anything to the contrary herein, if the Record Date for a Non-Cash Distribution Amount or Non-Cash Partial Redemption occurs during the Disposal Period, then in lieu of making adjustments described under the headings “Consequences of Non-Cash
+Distribution Amounts” and “Consequences of Non-Cash Partial Redemptions”, (i) the Calculation Agent shall determine a cash value of the proceeds in the Settlement Currency of the proceeds (the “ Proceeds Value ”)
+that would be received by a holder in the Relevant Jurisdiction of a face amount of the Bonds equal to the Transaction Face Amount, as of the date that such proceeds are distributed to holders of the Bonds in the Relevant Jurisdiction (or if there
+are no holders of Bonds in the Relevant Jurisdiction, as of the date that such proceeds would be distributed to holders of the Bonds in the Relevant Jurisdiction) (the “ Proceeds Distribution Date ”), and (ii) the Total Return
+Amount Payer shall pay the Proceeds Value to the Fixed Amount Payer on the third Business Day following the Proceeds Distribution Date, unless the Proceeds Distribution Date occurs more than six months following the Termination Date, in which case
+the Proceeds Value will not be paid. 
+
+ (f) 
+ Close-out Amount under Deemed ISDA Master Agreement 
+ If an Early Termination Date is
+designated or deemed to occur as a result of an Event of Default or a Termination Event in respect of this Transaction, the Close-out Amount with respect to this Transaction shall be determined by reference to a Final Price calculated on the basis
+of the volume weighted average price at which Party A disposes, acting in good faith and a commercially reasonable manner, of the Relevant Bonds and/or the Relevant Shares following the designation or deemed occurrence of such Early Termination
+Date, provided that if Party A is unable to dispose of some or all of the Relevant Bonds and/or Relevant Shares within a commercially reasonable period of time, the price per Bond in respect of those Relevant Bonds and/or Relevant Shares of which
+Party A is unable to dispose shall be deemed to be zero, all as determined by the Calculation Agent, and Party A shall deliver such Relevant Bonds and/or Relevant Shares to Party B as soon as reasonably practicable following the determination by the
+Calculation Agent that Party A is unable to dispose of such Relevant Bonds and/or Relevant Shares. 
+
+ 17 
+
+ (g) 
+ Out of Pocket Expenses 
+ On the Effective Date, Party B shall pay 50% of the reasonable
+fees and expenses of Linklaters Singapore Pte. Ltd., the counsel of Party A with respect to this Confirmation, the Tsang Confirmation, and any related documentation, provided that Party B shall not be liable for any such fees and expenses in excess
+of US$100,000. 
+ Party B shall pay to Party A on the Total Return Amount Payment Date, an amount in USD to the sum of any transaction
+levies, trading fees, stamp duties and brokerage fees and any other necessary costs and expenses that have been reasonably incurred by Party A in connection with the disposal of its Hedge Position (if any), as determined by the Calculation Agent and
+as notified by Party A to Party B before the Total Return Amount Payment Date. 
+
+ (h) 
+ Additional Representations and Agreements: 
+ The Deemed ISDA Master Agreement is amended
+by the insertion after Section 14 of an additional Section 15, reading in its entirety as follows: 
+ “15. Relationship
+Between Parties. Each party will be deemed to represent to the other party on the date on which it enters into a Transaction that (absent a written agreement between the parties that expressly imposes affirmative obligations to the contrary for that
+Transaction): 
+ (a) Non-Reliance. It is acting for its own account, and it has made its own independent decisions to enter into that
+Transaction and as to whether that Transaction is appropriate or proper for it based upon its own judgment and upon advice from such advisors as it has deemed necessary. It is not relying on any communication (written or oral) of the other party as
+investment advice or as a recommendation to enter into that Transaction, it being understood that information and explanations related to the terms and conditions of a Transaction will not be considered investment advice or a recommendation to enter
+into that Transaction. No communication (written or oral) received from the other party will be deemed to be an assurance or guarantee as to the expected results of that Transaction. 
+
+ (b) Assessment and Understanding. It is capable of assessing the merits of and understanding (on its own behalf or through independent
+professional advice), and understands and accepts, the terms, conditions and risks of that Transaction. It is also capable of assuming, and assumes, the risks of that Transaction. 
+
+ (c) Status of Parties. The other party is not acting as a fiduciary for or an advisor to it in respect of that Transaction.” 
+
+ Party B represents, warrants and covenants to Party A at all times during the term of the Swap Transaction that: 
+
+ 1. Party B was not, on the Trade Date and will not be on the date that any Optional Termination Notice is delivered (regardless of the time of
+such delivery) in possession of material non-public information regarding the Issuer. 
+
+ 18 
+
+ 2. So long as either party has or may have any obligation under the Transaction, each party and
+its Affiliates may deal in the Bonds and may, where permitted, accept deposits from, make loans or otherwise extend credit to, and generally engage in any kind of commercial or investment banking or other business with the Issuer, any Affiliate of
+the Issuer or any other person or entity having obligations relating to the Issuer, and may act with respect to such business in the same manner as each of them would if the Transaction did not exist, regardless of whether any such action might have
+an adverse effect on the Issuer or the position of the other party to the Transaction or otherwise. 
+
+ (i) 
+ Acknowledgements. 
+ Party B acknowledges that entering into the Transaction does not
+constitute the ownership of any Bonds by Party B or any Affiliate or shareholder of Party B, and gives Party B only the contractual rights arising under the terms of the Transaction. The Transaction does not give Party B or any Affiliate or
+shareholder of Party B any voting rights, dispositive or other rights in relation to any securities of the Issuer. 
+ Party A and Party B
+agree to cooperate in good faith and a commercially reasonable manner to preserve the economic benefits to each other of this Transaction. 
+
+ (j) 
+ Defined Terms. 
+ For the purposes of this Confirmation, the following defined terms
+apply. Capitalized terms used but not defined herein shall have the meanings given to them in the Deemed ISDA Master Agreement: 
+
+ “ Bond Event ” means the occurrence of any one or more of the following: 
+
+ (i) the Issuer or any agent thereof announces or publishes information stating that the Issuer will mandatorily redeem (or convert) any of the
+Bonds for (or into) cash, securities or any other assets, or any combination of the foregoing (regardless of whether the Issuer does in fact, so redeem (or convert) such Bonds); 
+
+ (ii) there occurs any event of default (howsoever described in the terms of the Bonds) in respect of the Bonds; 
+
+ (iii) the voluntary or involuntary liquidation, bankruptcy, insolvency, dissolution or winding-up of or any analogous proceeding affecting the
+Issuer; or 
+ (iv) on or after the Trade Date (A) due to the adoption of or any change in any applicable law or regulation (including,
+without limitation, any tax law) or (B) due to the promulgation of or any change in the interpretation by any court, tribunal or regulatory authority with competent jurisdiction of any applicable law or regulation (including any action taken by
+a taxing authority), Party A determines in good faith that (X) it has become illegal for it to hold, acquire or dispose of the Bonds or (Y) it will incur materially increased cost in performing its obligations under the Transaction
+(including, without limitation, due to any increase in tax liability, decrease in tax benefit or other adverse effect on its tax position). 
+
+ “ Bond Event Termination Date ” means, with respect to a Bond Event, the date on which the Bond Event occurs. 
+
+ 19 
+
+ “ Bond Event Termination Payment Date ” means, with respect to a Bond Event, the
+tenth Business Day following the Bond Event Termination Date. 
+ “ Collateral Balance ” means an amount in USD equal to
+(i) the aggregate of all Collateral Delivery Amounts paid by Party B to Party A minus (ii) the aggregate of all Collateral Return Amounts paid by Party A to Party B. 
+
+ “ Collateral Delivery Amount ” means any amount paid by Party B to Party A pursuant to paragraph 3(c). 
+
+ “ Collateral Return Amount ” means any amount paid by Party A to Party B pursuant to paragraph 3(c). 
+
+ “ Hedge Position ” means any purchase, sale, entry into or maintenance of one or more (i) positions or contracts in
+securities, options, futures, derivatives or foreign exchange, (ii) securities loan transactions or (iii) other instruments or arrangements (howsoever described) by a party in order to hedge, individually or on a portfolio basis, a
+Transaction. 
+ “ Margin Call ” means each of a First Margin Call, a Second Margin Call, a Third Margin Call, a Fourth Margin
+Call or a Fifth Margin Call, as the case may be. 
+ “ Notice Date ” means, any Business Day during the period extending from,
+but excluding, the Effective Date to, but excluding, the Termination Date. 
+ “ Put Exercise Date ” means the first Business
+Day on which Party A has the right to exercise its 
+ investor put option in respect of Bonds held as a Hedge Position. 
+
+ “ Trigger Level ” means, in respect of a Margin Call, the percentage of the Conversion Price specified in the definition of such
+Margin Call. 
+ “ VWAP ” of the Issuer’s ADSs means, on any VWAP Trading Day, the per ADS volume-weighted average price
+as displayed under the heading “Bloomberg VWAP” on Bloomberg page BITA <equity> AQR (or any equivalent successor page) in respect of the period from the scheduled open of trading on the principal trading market for the ADSs to the
+scheduled close of trading on such market on a VWAP Trading day, or if such volume-weighted average price is unavailable, the market value of one of the Issuer’s ADSs on such VWAP Trading Day using a volume-weighted method as determined by the
+Calculation Agent. VWAP will be determined without regard to after-hours trading or any other trading outside of the regular trading session trading hours. 
+
+ “ VWAP Trading Day ” means a day during which (i) trading in the Issuer’s ADSs generally occurs on the principal U.S.
+national or regional securities exchange or market on which the Issuer’s ADSs are listed or admitted for trading and (ii) there is no VWAP Market Disruption Event. If the Issuer’s ADSs are not so listed or traded, “ VWAP
+Trading Day ” means a Business Day. 
+ “ VWAP Market Disruption Event ” means (i) a failure by the principal U.S.
+national or regional securities exchange or market on which the Issuer’s ADSs are listed or admitted for trading to open for trading during its regular trading session or (ii) the occurrence or existence prior to 1:00 p.m. (local time on
+such exchange or market) on any day that was scheduled to be a VWAP Trading Day for an aggregate one half-hour period or longer of any suspension or limitation imposed on trading (by reason of movements in price exceeding limits permitted by the
+stock exchange or otherwise) in the ADSs. 
+
+ 20 
+
+ (k) 
+ Service of process 
+
+ (i) 
+ Party B irrevocably appoints The Law Debenture Corporation (H.K.) Limited of Suite 413, Hutchison House, 10 Harcourt Road, Central, Hong Kong to receive, for it and on its behalf, service of process in any Proceedings
+in Hong Kong. Such service shall be deemed completed on delivery to the relevant process agent (whether or not it is forwarded to and received by Party B). If for any reason a process agent ceases to be able to act as such or no longer has an
+address in Hong Kong, as the case may be, Party B irrevocably agrees to appoint a substitute process agent acceptable to Party A, and to deliver to Party A a copy of the new agent’s acceptance of that appointment, within 30 days.
+
+ (ii) 
+ Nothing shall affect the right to serve process in any other manner permitted by law. 
+ Please
+confirm your agreement to be bound by the terms of the foregoing by executing a copy of this Confirmation and returning it to us at 15/F, AIA Central, Central, Hong Kong. 
+
+ [Signature Page to Follow] 
+
+ 21 
+
+ PA GRAND OPPORTUNITY LIMITED 
+
+ EASE WIN ENTERPRISES LIMITED 
+
+ By: /s/ Jon Robert Lewis 
+
+ By: /s/ Bin Li 
+
+ Name: Jon Robert Lewis 
+
+ Name: Bin Li 
+
+ Title: Authorized Signatory 
+
+ Title: Director 
+
+ [Corporate Convertible Bond Total Return Swap – Signature Page]

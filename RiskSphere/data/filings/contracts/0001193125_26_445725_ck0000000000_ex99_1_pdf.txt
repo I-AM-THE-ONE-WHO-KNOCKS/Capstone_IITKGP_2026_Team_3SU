@@ -1,0 +1,1381 @@
+                                                                                                         Execution Version
+
+
+                   MASTER TERMS AND CONDITIONS FOR CALL OPTION TRANSACTIONS
+                           BETWEEN CITIBANK, N.A. AND ECG II SPE II, LLC
+
+          The purpose of this Master Terms and Conditions for Call Option Transactions (including the Annexes
+hereto, the “Master Confirmation”), dated as of October 30, 2026, is to set forth certain terms and conditions for one
+or more call option transactions that ECG II SPE II, LLC (“Counterparty”) will enter into with Citibank, N.A. (“Citi”)
+from time to time. Each such transaction (a “Transaction”) entered into between Citi and Counterparty that is to be
+subject to this Master Confirmation shall be evidenced by a supplemental confirmation substantially in the form of
+Annex A hereto (a “Supplemental Confirmation”), with such modifications thereto as to which Counterparty and Citi
+mutually agree. This Master Confirmation and a Supplemental Confirmation together shall constitute a
+“Confirmation” as referred to in the Agreement specified below.
+
+         1.        The definitions and provisions contained in the 2002 ISDA Equity Derivatives Definitions (the “Equity
+Definitions”), as published by the International Swaps and Derivatives Association, Inc. (“ISDA”), are incorporated into
+this Master Confirmation.
+
+This Master Confirmation and a Supplemental Confirmation evidence a complete binding agreement between Citi and
+Counterparty as to the terms of the Transaction to which this Master Confirmation and such Supplemental Confirmation
+relate. This Master Confirmation and each Supplemental Confirmation form a part of, and are subject to an agreement in
+the form of the ISDA 2002 Master Agreement, as published by ISDA, as if Citi and Counterparty had executed that
+agreement on the date hereof (without any Schedule but with the modifications and elections set forth herein, the
+“Agreement”). All provisions contained in the Agreement govern this Master Confirmation and each Supplemental
+Confirmation except as expressly modified herein or in the related Supplemental Confirmation. For the avoidance of
+doubt, the Transactions under this Master Confirmation shall be the only transactions under the Agreement and shall not
+be subject to any other (existing or deemed) master agreement to which Citi and Counterparty are parties. If there exists
+any ISDA Master Agreement between Citi and Counterparty or any confirmation or other agreement between Citi and
+Counterparty pursuant to which an ISDA Master Agreement is deemed to exist between Citi and Counterparty, then
+notwithstanding anything to the contrary in such ISDA Master Agreement, such confirmation or agreement or any
+other agreement to which Dealer and Counterparty are parties, the Transaction shall not constitute a “Transaction” or
+“Specified Transaction” as defined in any such existing or deemed to be existing ISDA Master Agreement between
+Citi and Counterparty, and the occurrence of an Event of Default, Termination Event or other event under this
+Transaction shall not, by itself, give rise to any right or obligation under such other ISDA Master Agreement or other
+agreement or deemed agreement.
+
+       THIS MASTER CONFIRMATION, EACH SUPPLEMENTAL CONFIRMATION AND THE
+AGREEMENT WILL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE
+STATE OF NEW YORK, WITHOUT REFERENCE TO ITS CHOICE OF LAW DOCTRINE. THE PARTIES
+HERETO IRREVOCABLY SUBMIT TO THE EXCLUSIVE JURISDICTION OF THE COURTS OF THE STATE
+OF NEW YORK AND THE UNITED STATES COURT FOR THE SOUTHERN DISTRICT OF NEW YORK IN
+CONNECTION WITH ALL MATTERS RELATING HERETO AND THERETO OR THE TRANSACTIONS
+CONTEMPLATED HEREBY OR THEREBY AND WAIVE ANY OBJECTION TO THE LAYING OF VENUE
+IN, AND ANY CLAIM OF INCONVENIENT FORUM WITH RESPECT TO, THESE COURTS. NOTHING IN
+THIS PROVISION SHALL PROHIBIT EITHER PARTY FROM BRINGING AN ACTION TO ENFORCE A
+MONEY JUDGMENT IN ANY OTHER JURISDICTION.
+
+          If, in relation to any Transaction to which this Master Confirmation and a Supplemental Confirmation relate,
+there is any inconsistency between the Agreement, this Master Confirmation, such Supplemental Confirmation, and
+the Equity Definitions, the following will prevail for purposes of such Transaction in the order of precedence indicated:
+(i) such Supplemental Confirmation; (ii) this Master Confirmation; (iii) the Equity Definitions; and (iv) the
+Agreement.
+
+          For purposes of the Equity Definitions, each Transaction is a Share Option Transaction. Each party will make
+each payment specified in this Master Confirmation or a Supplemental Confirmation as being payable by such party, not
+later than the due date for value on that date in the place of the account specified below or otherwise specified in writing,
+in freely transferable funds and in a manner customary for payments in the required currency.
+         This Master Confirmation and the Agreement, together with the Supplemental Confirmation relating to a
+Transaction, shall constitute the written agreement between Counterparty and Citi with respect to such Transaction.
+
+         2.       Set forth below are the general terms and conditions related to the call option transactions which,
+together with the terms and conditions set forth in the Supplemental Confirmation (in respect of the related
+Transaction), shall govern such Transaction.
+
+General Terms:
+
+        Trade Date:                       For each Transaction, as set forth in the related Supplemental
+                                          Confirmation.
+
+         Option Style:                    European.
+
+         Option Type:                     Call.
+
+         Seller:                          Counterparty.
+
+        Buyer:                            Citi.
+
+         Shares:                          The Class A Common Stock, par value USD 0.001 per share, of Carvana
+                                          Co. (the “Issuer”) (Exchange symbol “CVNA”), or security entitlements in
+                                          respect thereof.
+
+         Components:                      Each Transaction shall be divided into individual Components, each with
+                                          the terms set forth in this Master Confirmation and the related
+                                          Supplemental Confirmation, and in particular with the Number of Options,
+                                          Strike Prices and Expiration Dates set forth in the related Supplemental
+                                          Confirmation. The payments and deliveries to be made upon settlement of
+                                          each Transaction will be determined separately for each Component as if
+                                          each Component were a separate Transaction under the Agreement.
+
+         Number of Options:               For each Component of a Transaction, as set forth in the related
+                                          Supplemental Confirmation.
+
+         Maximum Number of Shares:        For each Transaction, the Maximum Number of Options (as set forth in the
+                                          related Supplemental Confirmation) multiplied by the Option Entitlement.
+
+         Option Entitlement:              One Share per Option.
+
+         Premium:                         For each Transaction, as set forth in the related Supplemental
+                                          Confirmation.
+
+         Premium Payment Date:             For each Transaction, as set forth in the related Supplemental
+                                           Confirmation.
+
+         Strike Price:                    For each Component, as set forth in the related Supplemental
+                                          Confirmation.
+
+         Exchange:                        The New York Stock Exchange.
+
+         Related Exchange(s):             All Exchanges.
+
+         Clearance System:                The Depository Trust Company.
+
+
+                                                           2
+Procedures for Exercise:
+
+    In respect of any Component:
+
+        Expiration Dates:          As set forth in the related Supplemental Confirmation (or, if such date is
+                                   not a Scheduled Trading Day, the next following Scheduled Trading Day
+                                   that is not already an Expiration Date for another Component under any
+                                   Transaction); provided that, if that date is a Disrupted Day, the Expiration
+                                   Date for such Component shall be the first succeeding Scheduled Trading
+                                   Day that is not a Disrupted Day and that is not or is not deemed to be an
+                                   Expiration Date in respect of any other Component under any Transaction;
+                                   provided, further, that, if the Expiration Date for any Component has not
+                                   occurred pursuant to the preceding proviso as of the Final Disruption Date
+                                   for such Transaction, the Final Disruption Date shall be the Expiration Date
+                                   for such Component (irrespective of whether such day is an Expiration
+                                   Date in respect of any other Component) and the Settlement Price for the
+                                   Final Disruption Date shall be determined by the Calculation Agent in a
+                                   commercially reasonable manner. Notwithstanding the foregoing and
+                                   anything to the contrary in the Equity Definitions, if a Market Disruption
+                                   Event occurs on any Expiration Date, the Calculation Agent may determine
+                                   that such Expiration Date is a Disrupted Day only in part, in which case (i)
+                                   the Calculation Agent shall make adjustments to the Number of Options
+                                   for the relevant Component for which such day shall be the Expiration Date
+                                   and shall designate the Scheduled Trading Day determined in the manner
+                                   described in the immediately preceding sentence as the Expiration Date for
+                                   the remaining Options for such Component, and (ii) the Settlement Price
+                                   for such Disrupted Day shall be determined by the Calculation Agent based
+                                   on transactions in the Shares on such Disrupted Day taking into account
+                                   the nature and duration of such Market Disruption Event on such day.
+                                   Section 3.1(f) of the Equity Definitions shall not apply to any Expiration
+                                   Date and Section 6.6 of the Equity Definitions shall not apply to any
+                                   Valuation Date.
+
+        Valuation Date:            With respect to any Component, the Expiration Date for such Component.
+
+        Final Disruption Date:     For each Transaction, as set forth in the related Supplemental
+                                   Confirmation.
+
+        Market Disruption Event:   The definition of “Market Disruption Event” in Section 6.3(a) of the Equity
+                                   Definitions is hereby amended by replacing the words “at any time during
+                                   the one-hour period that ends at the relevant Valuation Time, Latest
+                                   Exercise Time, Knock-in Valuation Time or Knock-out Valuation Time”
+                                   with the words “at any time on any Scheduled Trading Day that otherwise
+                                   would be an Expiration Date” and replacing the words “or (iii) an Early
+                                   Closure” with “(iii) an Early Closure that the Calculation Agent determines
+                                   is material or (iv) a Regulatory Disruption.”
+
+                                   Section 6.3(d) of the Equity Definitions is hereby amended by deleting the
+                                   remainder of the provision following the term “Scheduled Closing Time”
+                                   in the fourth line thereof.
+
+        Regulatory Disruption:     Any event that Citi, in its commercially reasonable judgment, determines
+                                   makes it reasonably necessary or appropriate with regard to any legal,
+                                   regulatory or self-regulatory requirements or related policies and
+                                                  3
+                                      procedures (whether or not such requirements, policies or procedures are
+                                      imposed by law or have been voluntarily adopted by Citi), as are
+                                      consistently applied by Citi, for Citi to refrain from or decrease any market
+                                      activity in connection with the relevant Transaction. Whenever a
+                                      Regulatory Disruption occurs, Citi shall notify Counterparty of such
+                                      occurrence as soon as reasonably practicable under the circumstances and
+                                      of any Expiration Date(s) affected by it.
+
+Settlement Terms:
+
+   In respect of any Component:
+
+        Settlement Method Election:   Applicable; provided that (i) the same settlement method shall apply to
+                                      each Component of a Transaction and (ii) if the Collateral Shares do not
+                                      consist of a number of Shares in book-entry form in the Clearance System
+                                      that is at least equal to the aggregate Number of Options multiplied by the
+                                      Option Entitlement for all outstanding Components and with respect to
+                                      which the Representation and Agreement set forth in Section 9.11 of the
+                                      Equity Definitions would be true and satisfied as of 4:00 P.M. New York
+                                      City time on the Scheduled Trading Day immediately preceding the first
+                                      Expiration Date for such Transaction, then, unless otherwise agreed by Citi,
+                                      Cash Settlement shall be deemed to apply, notwithstanding any actual or
+                                      deemed election by Counterparty to the contrary.
+
+        Electing Party:               Counterparty.
+
+        Settlement Method Election
+        Date:                         For each Transaction, the date that is ten Scheduled Trading Days before
+                                      the first scheduled Expiration Date for such Transaction.
+
+        Default Settlement Method:    Physical Settlement.
+
+        Option Cash Settlement
+        Amount:                       For each Component of a Transaction to which Cash Settlement is
+                                      applicable, an amount in USD (which may be positive or negative) equal
+                                      to (a) the Number of Options for the related Component multiplied by (b)
+                                      the Option Entitlement for such Component multiplied by (c) the Strike
+                                      Price Differential.
+
+        Settlement Currency:          United States Dollars.
+
+        Settlement Price:             If Cash Settlement is applicable, the volume-weighted average price per
+                                      Share on the relevant Expiration Date, as reasonably determined by the
+                                      Calculation Agent by reference to the Bloomberg Page “CVNA US
+                                      <equity> AQR” (or any successor page thereto); provided that, if such
+                                      price is not so reported for any reason or is, in the Calculation Agent’s
+                                      reasonable discretion, manifestly erroneous, a price determined by the
+                                      Calculation Agent in good faith and a commercially reasonable manner.
+
+                                      If Physical Settlement is applicable, as provided in Section 7.3(c) of the
+                                      Equity Definitions.
+
+        Settlement Date:              For each Component, the date that is one Settlement Cycle immediately
+                                      following the Expiration Date for such Component (or, if such date is not
+
+
+                                                      4
+                                        a Clearance System Business Day, the next following Clearance System
+                                        Business Day).
+
+        Cash Settlement
+        Payment Date:                   For each Component, the date that is one Settlement Cycle immediately
+                                        following the Expiration Date for such Component (or, if such date is not
+                                        a Currency Business Day, the immediately following Currency Business
+                                        Day).
+
+        Excess Dividend Amount:         For the avoidance of doubt, all references to the Excess Dividend Amount
+                                        shall be deleted from Section 8.4(b) and Section 9.2(a)(iii) of the Equity
+                                        Definitions.
+
+Share Adjustments; Dividend Payments:
+
+   In respect of any Component:
+
+        Method of Adjustment:           Calculation Agent Adjustment; provided that the parties agree that open
+                                        market Share repurchases by Issuer through a dealer pursuant to
+                                        accelerated share repurchases, forward contracts or similar transactions
+                                        (including without limitation any discount to average VWAP Prices) that
+                                        are entered into at prevailing market prices and in accordance with
+                                        customary market terms for transactions of such type to repurchase Shares
+                                        shall not be considered Potential Adjustment Events; and provided, further,
+                                        the Equity Definitions shall be amended by replacing the words “diluting
+                                        or concentrative” in Sections 11.2(a), 11.2(c) (in two instances) and
+                                        11.2(e)(vii) with the word “material” and by adding the words “or the
+                                        Transactions” after the words “theoretical value of the relevant Shares” in
+                                        Sections 11.2(a), 11.2(c) and 11.2(e)(vii); provided, further, that
+                                        adjustments may be made to account for changes in volatility, expected
+                                        dividends, stock loan rate and liquidity relative to the relevant Share or the
+                                        Transaction.
+
+        Dividend Payments:              If at any time during the period from, but excluding, the Hedge
+                                        Commencement Date to, and including, the Expiration Date, an ex-
+                                        dividend date for a cash dividend or distribution that the Calculation Agent
+                                        determines is an ordinary cash dividend (an “Ordinary Cash Dividend”)
+                                        occurs with respect to the Shares, Counterparty will make a cash payment
+                                        to Citi, on the date such Ordinary Cash Dividend is paid by the Issuer to
+                                        holders of Shares (whether or not before the final Settlement Date or Cash
+                                        Settlement Payment Date, as applicable), of an amount of cash equal to the
+                                        product of (i) the Gross Dividend Amount per Share of such Ordinary Cash
+                                        Dividend, and (ii) the number of Shares that Citi and/or its affiliates, as
+                                        applicable, theoretically would be short in order to hedge the equity price
+                                        risk of the relevant Component as of the close of the regular trading session
+                                        on the Exchange on the Exchange Business Day immediately preceding the
+                                        ex-dividend date for such Ordinary Cash Dividend (each such amount, a
+                                        “Dividend Payment”).
+
+       Gross Dividend Amount:           With respect to an Ordinary Cash Dividend, an amount equal to the actual
+                                        dividend or distribution per Share before withholding or deduction of taxes
+                                        at the source by or on behalf of any applicable authority having power to
+                                        tax in respect of such dividend and excluding any imputation or other
+                                        credits, refunds or deductions granted by any applicable authority having
+                                        power to tax in respect of such dividend or distribution and any taxes,
+                                        credits, refunds or benefits imposed, withheld, assessed or levied thereon.
+                                                         5
+        Cash Dividend Adjustments:   If at any time during the period from, but excluding, the Hedge
+                                     Commencement Date to, and including, the Expiration Date, an ex-
+                                     dividend date for a cash dividend or distribution (excluding an Ordinary
+                                     Cash Dividend) occurs with respect to the Shares, then the Calculation
+                                     Agent will adjust one or more of the Strike Price, the Number of Options,
+                                     or any other variable relevant to the valuation, settlement, payment or other
+                                     terms of such Component, including requiring Counterparty to make a
+                                     payment to Citi, to reflect the impact of such cash dividend or distribution
+                                     on the theoretical value of such Component.
+
+Extraordinary Events:
+
+        New Shares:                  In the definition of New Shares in Section 12.1(i) of the Equity Definitions,
+                                     (i) the text in clause (i) thereof shall be deleted in its entirety and replaced
+                                     with “publicly quoted, traded or listed on any of the New York Stock
+                                     Exchange, The NASDAQ Global Select Market or The NASDAQ Global
+                                     Market (or their respective successors),” and (ii) the following phrase shall
+                                     be inserted at the end thereof: “and (iii) in the case of a Merger Event, of
+                                     an entity or person that is a corporation organized under the laws of the
+                                     United States, any State thereof or the District of Columbia”.
+
+        Announcement Event:          If (i) an Announcement Date occurs in respect of any event or transaction
+                                     that the Calculation Agent determines is reasonably likely to be completed
+                                     and that, if completed, would constitute a Merger Event (for purposes of
+                                     this and related provisions, the definition of Merger Event shall be read
+                                     with the references therein to “100%” being replaced by “35 %” and
+                                     references to “50%” being replaced by “65%” and without reference to the
+                                     clause beginning immediately following the definition of Reverse Merger
+                                     therein to the end of such definition) or a Tender Offer (it being understood
+                                     that and agreed that in determining whether such transaction is reasonably
+                                     likely to be completed, the Calculation Agent shall take into consideration
+                                     the effect of the relevant announcement on the market for the Shares and/or
+                                     options relating to the Shares and, if such effect is material, shall deem
+                                     such transaction to be reasonably likely to be completed), or other
+                                     acquisition or disposition by Issuer and/or its subsidiaries where the
+                                     aggregate consideration or value exceeds 35 % of the market capitalization
+                                     of Issuer as of the Announcement Date (such other acquisition or
+                                     disposition, a “Significant Transaction”) or (ii) there is a public
+                                     announcement or statement by Issuer of an intention to solicit or enter into,
+                                     or to explore strategic alternatives or other similar undertakings that may
+                                     include, a Merger Event, Tender Offer or Significant Transaction, or any
+                                     subsequent announcement or statement of a change to such intention (the
+                                     occurrence of (i) or (ii), an “Announcement Event”), as determined by the
+                                     Calculation Agent, then the “Consequences of Announcement Event” set
+                                     forth below shall apply in respect of such Announcement Event. For
+                                     purposes of any Transaction, a Significant Transaction shall be an
+                                     Extraordinary Event.
+
+        Announcement Date:           The definition of “Announcement Date” in Section 12.1(l) of the Equity
+                                     Definitions is hereby amended by (i) adding the words “or a Significant
+                                     Transaction” immediately following the words “Merger Event” in the
+                                     second and third lines thereof, (ii) replacing the words “a firm” with the
+                                     word “any” in the second and fourth lines thereof, (iii) replacing the word
+                                     “leads to the” with the words “would, if consummated, lead to a” in the
+                                     third and the fifth lines thereof, (iv) adding after the words “voting shares”
+                                     in the fifth line thereof the words “, voting power or Shares”, (v) inserting
+                                                      6
+                                 the words “by any entity” after the word “announcement” in the second
+                                 and the fourth lines thereof and (vi) inserting the words “, as determined
+                                 by the Calculation Agent, or any subsequent public announcement of a
+                                 change to such transaction or intention (including, without limitation, a
+                                 new announcement, whether or not by the same party, relating to such a
+                                 transaction or intention or the announcement of a withdrawal from, or the
+                                 abandonment or discontinuance of, such a transaction or intention)” at the
+                                 end of each of clauses (i) and (ii) thereof.
+
+Consequences of Announcement
+Event:                       With respect to any Announcement Event, the Calculation Agent shall
+                             determine the economic effect of such Announcement Event on the
+                             theoretical value of each Component of the Transaction (including without
+                             limitation any change in volatility, expected dividends, stock loan rate or
+                             liquidity relevant to the Shares or to the Transaction) (i) on or after the
+                             relevant Announcement Date or other date of announcement and (ii) on the
+                             Expiration Date or any earlier date of termination or cancellation for such
+                             Component and if, in the case of clause (i) or (ii), such economic effect is
+                             material, (x) the Calculation Agent shall adjust the Strike Price to reflect
+                             such economic effect to Citi and determine the effective date of such
+                             adjustment or (y) if the Calculation Agent determines, on or after the
+                             Announcement Date or other date of announcement, that no adjustment it
+                             could make under clause (x) above is likely to produce a commercially
+                             reasonable result, may notify the parties that such Component of the
+                             Transaction will be terminated, in which case the amount payable upon
+                             such termination will be determined by Citi pursuant to the terms of this
+                             Master Confirmation as if such Announcement Event were an
+                             Extraordinary Event to which Cancellation and Payment were applicable.
+                             For the avoidance of doubt, any such adjustment shall be without prejudice
+                             to the application of the provisions set forth in the preceding sentence,
+                             “Consequences of Merger Events” and/or “Consequences of Tender
+                             Offers” with respect to any other Announcement Date in respect of the
+                             same event or transaction, or, if the related Merger Date or Tender Offer
+                             Date occurs on or prior to the Expiration Date or earlier date of termination
+                             or cancellation for such Component, with respect to the related Merger
+                             Event or Tender Offer; provided that any such adjustment shall be taken
+                             into account by the Calculation Agent or the Determining Party, as the case
+                             may be, in determining any subsequent adjustment to the terms of the
+                             Transaction, or in subsequently determining any Cancellation Amount or
+                             an Early Termination Amount, as the case may be, on account of any
+                             related Announcement Date, Merger Event or Tender Offer.
+                             Notwithstanding the foregoing, any adjustment in respect of an
+                             Announcement Event shall take into account any earlier adjustment
+                             relating to the same Announcement Event and shall not be duplicative of
+                             any other adjustment, cancellation or valuation made pursuant to this
+                             Master Confirmation, the Equity Definitions or the Agreement.
+
+Consequences of Merger Events:
+
+    (a) Share-for-Share:         Modified Calculation Agent Adjustment.
+
+    (b) Share-for-Other:         Cancellation and Payment.
+
+    (c) Share-for-Combined:      Component Adjustment.
+
+
+                                                 7
+        Tender Offer:                    Applicable; provided, however, that the definitions of “Tender Offer” and
+                                         “Tender Offer Date” in Section 12.1 of the Equity Definitions are each
+                                         hereby amended by adding after the words “voting shares” the words “,
+                                         voting power or Shares” and by replacing the phrase “greater than 10%”
+                                         with the phrase “greater than 20%”.
+
+        Consequences of Tender Offers:
+
+            (a) Share-for-Share:         Modified Calculation Agent Adjustment.
+
+            (b) Share-for-Other:         Modified Calculation Agent Adjustment.
+
+            (c) Share-for-Combined:      Modified Calculation Agent Adjustment.
+
+        Composition of Combined
+        Consideration:                   Not Applicable; provided that, notwithstanding Sections 12.1 and 12.5(b)
+                                         of the Equity Definitions, to the extent that the composition of the
+                                         consideration for the relevant Shares pursuant to a Tender Offer or Merger
+                                         Event could be determined by a holder of the Shares, the Calculation Agent
+                                         will determine such composition.
+
+        Nationalization, Insolvency
+        or Delisting:                    Cancellation and Payment; provided that, in addition to the provisions of
+                                         Section 12.6(a)(iii) of the Equity Definitions, it shall also constitute a
+                                         Delisting if the Exchange is located in the United States and the Shares are
+                                         not immediately re-listed, re-traded or re-quoted on any of the New York
+                                         Stock Exchange, The NASDAQ Global Select Market or The NASDAQ
+                                         Global Market (or their respective successors); if the Shares are
+                                         immediately re-listed, re-traded or re-quoted on any such exchange or
+                                         quotation system, such exchange or quotation system shall thereafter be
+                                         deemed to be the Exchange and the Calculation Agent shall make any
+                                         adjustments it deems necessary to the terms of the Transaction, as if
+                                         Modified Calculation Agent Adjustment were applicable to such event.
+
+Additional Disruption Events:
+
+        Change in Law:                   Applicable; provided that Section 12.9(a)(ii) of the Equity Definitions is
+                                         hereby amended by (i) replacing the phrase “the interpretation” in the third
+                                         line thereof with the phrase “or announcement or statement of the formal
+                                         or informal interpretation”, (ii) deleting the words “a party to such
+                                         Transaction” in the fifth line thereof and replacing them with the words
+                                         “Citi”, (iii) replacing the word “Shares” with “Hedge Positions” in the sixth
+                                         line thereof, (iv) immediately following the word “Transaction” in clause
+                                         (X) thereof, adding the phrase “in the manner contemplated by the Hedging
+                                         Party on the Trade Date”, (v) deleting the words “it” and “its” in the seventh
+                                         line thereof and replacing them with the words “either party” and “such
+                                         party’s”, respectively, and (vi) adding the words “, or holding, acquiring or
+                                         disposing of Shares or any Hedge Positions relating to,” after the word
+                                         “under” in clause (Y) thereof; provided, further, that to the extent any
+                                         increased cost described in clause (Y) of Section 12.9(a)(ii) of the Equity
+                                         Definitions is of a type also described in Section 12.9(a)(vi) of the Equity
+                                         Definitions, then the consequences provided with respect to “Increased
+                                         Cost of Hedging” in Section 12.9(b)(vi) of the Equity Definitions shall
+                                         apply.
+
+
+                                                          8
+        Insolvency Filing:           Applicable.
+
+        Hedging Disruption:          Applicable; provided that Section 12.9(a)(v) of the Equity Definitions is
+                                     hereby modified by (i) inserting the following words at the end of clause
+                                     (A) thereof: “in the manner contemplated by the Hedging Party on the
+                                     Trade Date” and (ii) inserting the following two phrases at the end of such
+                                     Section:
+
+                                            “For the avoidance of doubt, the term “equity price risk”
+                                            shall be deemed to include, but shall not be limited to, stock
+                                            price and volatility risk. And, for the further avoidance of
+                                            doubt, any such transactions or assets referred to in phrases
+                                            (A) or (B) above must be available on commercially
+                                            reasonable pricing and other terms.”
+
+                                     and; provided, further, that Section 12.9(b)(iii) of the Equity Definitions is
+                                     hereby amended by inserting in the third line thereof, after the words “to
+                                     terminate the Transaction”, the words “or a portion of the Transaction
+                                     affected by such Hedging Disruption”.
+
+        Increased Cost of Hedging:   Not Applicable
+
+        Loss of Stock Borrow:        Applicable; provided that Section 12.9(b)(iv) of the Equity Definitions is
+                                     hereby amended by (A) deleting (1) subsection (A) in its entirety, (2) the
+                                     phrase “or (B)” following subsection (A) and (3) the phrase “, in each case”
+                                     in subsection (B); and (B) replacing the phrase “neither the Non-Hedging
+                                     Party nor the Lending Party lends” with “the Lending Party does not lend”
+                                     in the penultimate sentence.
+
+                Maximum Stock
+                Loan Rate:           For each Transaction, as set forth in the related Supplemental
+                                     Confirmation.
+
+        Increased Cost of
+        Stock Borrow:                Applicable; provided that Section 12.9(b)(v) of the Equity Definitions is
+                                     hereby amended by (A) adding the word “or” immediately before
+                                     subsection “(B)” and deleting the comma at the end of subsection (A); and
+                                     (B)(1) deleting subsection (C) in its entirety, (2) deleting the word “or”
+                                     immediately preceding subsection (C) and (3) replacing in the penultimate
+                                     sentence the words “either party” with “the Hedging Party” and (4) deleting
+                                     clause (X) in the final sentence.
+
+                Initial Stock
+                Loan Rate:           For each Transaction, as set forth in the related Supplemental
+                                     Confirmation.
+
+        Hedging Party:               For all applicable Additional Disruption Events, Citi.
+
+Determining Party:                   For all applicable Extraordinary Events, Citi.
+
+Non-Reliance:                        Applicable.
+
+Agreements and Acknowledgments
+Regarding Hedging Activities:        Applicable.
+
+
+                                                      9
+Additional Acknowledgments:                 Applicable.
+
+
+
+3.       Calculation Agent:
+
+          Citi is the Calculation Agent and shall make all calculations, adjustments and determinations pursuant to a
+Transaction that are not expressed to be the responsibility of an identified party; provided that following the occurrence
+of an Event of Default of the type described in Section 5(a)(vii) of the Agreement with respect to Citi, Counterparty
+shall have the right to designate a nationally recognized third-party dealer in over-the-counter equity derivatives to act
+as the Calculation Agent. All calculations and determinations made by the Calculation Agent shall be made in good
+faith and in a commercially reasonable manner; provided that, upon receipt of written request from Counterparty, the
+Calculation Agent shall promptly provide Counterparty with a written explanation describing in reasonable detail any
+calculation, adjustment or determination made by it (including any quotations, market data or information from
+internal or external sources used in making such calculation, adjustment or determination, as the case may be, but
+without disclosing Citi’s proprietary models or other information that may be proprietary or subject to contractual,
+legal or regulatory obligations to not disclose such information), and shall use commercially reasonable efforts to
+provide such written explanation within five (5) Exchange Business Days from the receipt of such request. Whenever
+Determining Party or Calculation Agent is required or permitted to make a calculation, adjustment or determination
+(for the avoidance of doubt, including but not limited to, any calculation or determination with respect to any amounts,
+including amounts payable upon termination or early termination) pursuant to the terms of the Agreement, this
+Confirmation or the Equity Definitions to take into account the effect of an event or otherwise, the Calculation Agent
+or Determining Party, as the case may be, shall make such calculation, determination or adjustment by reference to
+the effect of such event on Citi assuming that Citi maintains a commercially reasonable Hedge Position in respect of
+the Transaction.
+
+4.       Conditions Precedent: With respect to each Transaction, Citi’s obligations under such Transaction are
+subject to the satisfaction or waiver (such waiver to be in writing) by Citi of the following conditions:
+
+        (a)      The representations and warranties of Counterparty contained herein, in the Agreement (including
+as may be modified herein) and in each Credit Support Document shall be true and correct;
+
+        (b)      Counterparty shall have performed all of the covenants and obligations to be performed by
+Counterparty hereunder, under the Agreement (including as may be modified herein) and under each Credit Support
+Document;
+
+         (c)      Counterparty shall have executed the related Supplemental Confirmation;
+
+          (d)      Counterparty shall have entered into a security agreement with Citi (as amended, modified,
+supplemented, replaced or restated, the “Pledge Agreement”), in form and substance satisfactory to Citi, granting Citi
+a security interest in all of Counterparty’s rights with respect to the Collateral (as defined in the Pledge Agreement)
+to secure the Secured Obligations (as defined in the Pledge Agreement) and shall have delivered to Citi or its collateral
+agent a number of shares or units, as the case may be, of Class B common stock of the Issuer and Class A common
+units of Carvana Group, LLC (the “Units Issuer”) each of a number sufficient to exchange into the Maximum Number
+of Shares for all Transactions (collectively with the proceeds thereof, the “Collateral Shares”) and taken such steps to
+perfect the security interests, in each case in the manner specified in the Pledge Agreement;
+
+          (e)      Counterparty, Citi, Issuer and the Units Issuer shall have entered into an Issuer Acknowledgment
+(as amended, modified, supplemented, replaced or restated, the “Issuer Acknowledgment”), in form and substance
+satisfactory to Citi;
+
+       (f)       Counterparty shall have provided Citi a guarantee of Ernest C. Garcia II (as amended, modified,
+supplemented, replaced or restated, the “Guarantee”), in form and substance satisfactory to Citi; and
+
+
+
+                                                             10
+         (g)      Counterparty shall have amended and restated its constituent documents in a manner satisfactory to
+Citi.
+
+
+
+5.       Additional Representations and Warranties:
+
+          (a)      In connection with this Master Confirmation, each Supplemental Confirmation and each
+Transaction hereunder, each party represents and warrants to the other party on the Trade Date of each Transaction
+that such party is an “accredited investor” as defined in Section 2(a)(15)(ii) of the Securities Act of 1933, as amended
+(the “Securities Act”) and an “eligible contract participant” as such term is defined in the Commodity Exchange Act,
+as amended, by virtue of being a corporation, partnership, proprietorship, organization, trust or other entity that has
+total assets exceeding $10,000,000.
+
+          (b)       The parties intend for this Master Confirmation as supplemented by the relevant Supplemental
+Confirmation to constitute a “Contract” as described in the letter dated December 14, 1999 submitted by Robert W.
+Reeder and Alan. L. Beller to Michael Hyatte of the staff of the Securities and Exchange Commission (the “Staff”) to
+which the Staff responded in an interpretive letter dated December 20, 1999 and the letter dated November 30, 2011
+submitted by Robert T. Plesnarski and Glen A. Rae to Thomas Kim of the Staff to which the Staff responded in an
+interpretive letter dated December 1, 2011 (collectively, the “Interpretive Letters”).
+
+6.       Counterparty Representations, Warranties and Agreements: Counterparty hereby represents and
+warrants to, and agrees with, Citi on the Trade Date for each Transaction (unless another date or dates are specified
+below) as follows:
+
+          (a)     Counterparty is not entering into any Transaction hereunder or taking any action hereunder
+(including any election or deemed election) or in connection herewith “on the basis of” (as defined in Rule 10b5-1(b)
+under the Securities Exchange Act of 1934, as amended (the “Exchange Act”)), and neither Counterparty nor any of
+Counterparty’s affiliates is aware of, any material nonpublic information concerning the Shares or the business,
+operations or prospects of the Issuer. “Material” information for these purposes is any information to which an investor
+would reasonably attach importance in reaching a decision to buy, sell or hold securities of the Issuer. Counterparty
+shall be deemed to make this representation and warranty on the Trade Date for each Transaction, on each day during
+the Hedge Period (if any) for a Transaction, and on any day on which it makes any election in respect of any
+Transaction (including an election of a Settlement Method).
+
+         (b)      Counterparty is not entering into any Transaction or making any election hereunder to create actual
+or apparent trading activity in the Shares (or any security convertible into or exchangeable for Shares) or to raise or
+depress or otherwise manipulate the price of the Shares (or any security convertible into or exchangeable for Shares)
+or otherwise in violation of applicable law.
+
+          (c)      Counterparty understands and will comply with Counterparty’s responsibilities under applicable
+securities laws in connection with each Transaction hereunder including, but not limited to, the provisions of Section
+13 and Section 16 of the Exchange Act.
+
+         (d)       Counterparty (A) has not, during the three months preceding the Trade Date, except as set forth in
+any Form 144 or other notice delivered to Citi prior to the Trade Date, sold any Shares (or security entitlements in
+respect thereof); (B) agrees that Counterparty shall not, without the prior written consent of Citi, sell any Shares (or
+security entitlements in respect thereof) prior to Citi or its affiliates having sold a number of Shares equal to the
+aggregate Number of Options for all Components of the Transaction multiplied by the Option Entitlement in
+accordance with the Interpretive Letters; and (C) will in any event not engage in the foregoing transactions if the
+remaining Rule 144 volume available to Counterparty would be less than the Maximum Number of Shares. For the
+purposes of (A) and (B) hereof; (i) Shares shall be deemed to include securities convertible into or exchangeable or
+exercisable for Shares; (ii) sales shall include hedges (through swaps, options, short sales or otherwise) of any long
+position in the Shares (or security entitlements in respect thereof) and (iii) sales and hedges by Counterparty shall
+
+
+                                                            11
+include those by any person attributable to or aggregated with Counterparty for purposes of Rule 144 under the
+Securities Act (“Rule 144”).
+
+        (e)      On the Trade Date, Counterparty does not know or have any reason to believe that the Issuer has
+not complied with the reporting requirements contained in paragraph (c)(1) of Rule 144.
+
+         (f)      If Counterparty were to sell on the Trade Date a number of Shares equal to the Maximum Number
+of Shares for such Transaction, such sales would comply with the volume limitations set forth in paragraph (e) of Rule
+144.
+
+        (g)       Counterparty shall, on or prior the Trade Date, transmit by mail for filing, in the manner
+contemplated by Rule 144(h), a notice on Form 144 relating to such Transaction contemplated hereby in form and
+substance that Citi has informed Counterparty is acceptable to Citi.
+
+           (h)       Counterparty has not solicited or arranged for the solicitation of, and will not solicit or arrange for
+the solicitation of, orders to buy Shares in anticipation of or in connection with any sales of Shares that Citi or an
+affiliate of Citi effects in the public markets in connection with establishing Citi’s Hedge Position with respect to any
+Transaction.
+
+         (i)     Except as provided herein, Counterparty has not made, will not make, and has not arranged for, any
+payment to any person in connection with any sales of Shares that Citi or an affiliate of Citi effects in the public
+markets in connection with establishing Citi’s Hedge Position with respect to any Transaction.
+
+         (j)     Counterparty’s “holding period” for the Collateral Shares (within the meaning of Rule 144),
+determined in accordance with Rule 144, including any shares to be received upon conversion of the Units pledged as
+Collateral, commenced at least one year prior to the Trade Date.
+
+         (k)       On the Trade Date, Counterparty owns (as such term is used in Rule 16c-4 under the Exchange Act)
+a number of Shares (including the Shares to be received upon conversion of Units pledged to Citi under the Pledge
+Agreement), after subtracting the number of Shares to which any put equivalent positions (as defined in Rule 16a-1(h)
+under the Exchange Act) have been established or are maintained by Counterparty (other than any put equivalent
+position established as a result of a Transaction hereunder), at least equal to the Maximum Number of Shares.
+
+         (l)     Counterparty understands no obligations of Citi to Counterparty hereunder will be entitled to the
+benefit of deposit insurance and that such obligations will not be guaranteed by any affiliate of Citi or any
+governmental agency.
+
+         (m)       Counterparty understands Counterparty’s investments in and liabilities in respect of a Transaction
+hereunder are not readily marketable, and Counterparty is able to bear any loss in connection with such Transaction,
+including the loss of Counterparty’s entire investment in such Transaction.
+
+      (n)   COUNTERPARTY UNDERSTANDS THAT ANY TRANSACTION HEREUNDER IS
+SUBJECT TO COMPLEX RISKS WHICH MAY ARISE WITHOUT WARNING AND MAY AT TIMES BE
+VOLATILE AND THAT LOSSES MAY OCCUR QUICKLY AND IN UNANTICIPATED MAGNITUDE AND IS
+WILLING TO ACCEPT SUCH TERMS AND CONDITIONS AND ASSUME (FINANCIALLY AND
+OTHERWISE) SUCH RISKS.
+
+          (o)      Counterparty is entering into each Transaction hereunder for Counterparty’s own account and not
+with a view to transfer, resale or distribution and understands that such Transaction may involve the purchase or sale
+of a security as defined in the Securities Act and the securities laws of certain states and other jurisdictions, that any
+such security has not been registered under the Securities Act or the securities laws of any state or other jurisdiction
+and, therefore, (except for any pledge to Citi or its affiliates) may not be sold, pledged, hypothecated, transferred or
+otherwise disposed of unless such security is registered under the Securities Act and any applicable state or other
+jurisdiction’s securities law, or an exemption from registration is available.
+
+
+                                                              12
+           (p)       Counterparty is aware and acknowledges that Citi, its affiliates or any entity with which Citi hedges
+any Transaction hereunder may from time to time take positions in instruments that are identical or economically
+related to such Transaction or the Shares or have an investment banking or other commercial relationship with the
+Issuer. In addition, Counterparty acknowledges that the proprietary trading and other activities and transactions of
+Citi, its affiliates or any entity with which Citi hedges any Transaction hereunder, including purchases and sales of
+the Shares in connection with, or in anticipation of, such Transaction, may affect the trading price of the Shares.
+
+         (q)       Counterparty will immediately inform Citi of any changes in the information set forth herein
+occurring prior to the last Settlement Date or Cash Settlement Payment Date of any Transaction hereunder.
+
+         (r)      For the avoidance of doubt, and without limiting any representation contained in Section 3(a)(iii) of
+the Agreement, Counterparty represents that the execution, delivery and performance of this Master Confirmation,
+each Supplemental Confirmation, each Credit Support Document and any other documentation relating to the
+Agreement to which Counterparty or any of its Affiliates is a party do not violate or conflict with, and will not violate
+or conflict with, any of the terms or provisions of any stockholders’ agreement, investment agreement, lock-up
+agreement, standstill agreement, registration rights agreement, confidentiality agreement or other agreement binding
+on Counterparty or its Affiliates or affecting Counterparty, its Affiliates or any of their respective assets (including its
+Shares).
+
+         (s)      No Transaction hereunder shall violate any corporate policy of the Issuer or the Units Issuer
+(including, but not limited to, any window period policy) or other rules or regulations of the Issuer or the Units Issuer
+applicable to Counterparty or any of its Affiliates.
+
+        (t)       Counterparty agrees to execute each properly completed Supplemental Confirmation promptly
+following receipt thereof.
+
+       (u)      Counterparty will promptly notify Citi of the occurrence of an Event of Default under the Agreement
+where Counterparty is the Defaulting Party.
+
+         (v)       Counterparty was not and will not be insolvent at the time any Transaction hereunder was
+consummated, and was not and will not be rendered insolvent as a result thereof. At the time of any payment to or
+for the benefit of Citi, Counterparty did not intend and will not intend to incur, and did not incur and will not incur,
+debts that were beyond the ability of Counterparty to pay as they mature.
+
+         (w)       Counterparty is not and, after giving effect to any Transaction contemplated hereby, will not be
+required to register as an “investment company” as such term is defined in the Investment Company Act of 1940, as
+amended.
+
+          (x)     The assets used in connection with the execution, delivery and performance of the Agreement and
+the Transactions entered into hereunder are not and will not be the assets of (A) an “employee benefit plan” (with the
+meaning of Section 3(3) of the Employee Retirement Income Security Act of 1974, as amended (“ERISA”)) subject
+to Title I of ERISA, (B) a plan described in Section 4975 of the Internal Revenue Code of 1986, as amended (the
+“Code”) to which Section 4975 of the Code applies or (C) an entity whose underlying assets include “plan assets” by
+reason of Department of Labor regulation section 2510.3-101 (as modified by Section 3(42) of ERISA) or otherwise.
+
+7.       Acknowledgments: The parties hereto agree and acknowledge that:
+
+         (a)      Citi is a “financial institution,” “swap participant” and “financial participant” within the meaning of
+Sections 101(22), 101(53C) and 101(22A) of Title 11 of the United States Code (the “Bankruptcy Code”).
+
+          (b)       This Master Confirmation, each Supplemental Confirmation and each Credit Support Document is
+(i) a “securities contract,” as such term is defined in Section 741(7) of the Bankruptcy Code, with respect to which
+each payment and delivery hereunder, thereunder or in connection herewith or therewith is a “termination value,”
+“payment amount” or “other transfer obligation” within the meaning of Section 362 of the Bankruptcy Code and a
+“settlement payment” and “transfer” within the meaning of Section 546 of the Bankruptcy Code, and any cash,
+
+                                                              13
+securities or other property provided as performance assurance, credit support or collateral with respect to each
+Transaction is a “margin payment” and “transfer” within the meaning of Section 546 of the Bankruptcy Code, (ii) a
+“swap agreement,” as such term is defined in Section 101(53B) of the Bankruptcy Code, with respect to which each
+payment and delivery hereunder, thereunder or in connection herewith or therewith is a “termination value,” “payment
+amount” or “other transfer obligation” within the meaning of Section 362 of the Bankruptcy Code and a “transfer,” as
+such term is defined in Section 101(54) of the Bankruptcy Code and a “payment or other transfer of property” within
+the meaning of Sections 362 and 546 of the Bankruptcy Code and constitute “settlement payments” as defined in
+Section 741(8) of the Bankruptcy Code and (iii) a “master netting agreement” and each of the parties thereto is a
+“master netting agreement participant”, each as defined in the Bankruptcy Code.
+
+         (c)       The rights given to Citi under this Master Confirmation, under each Supplemental Confirmation,
+the Agreement and each Credit Support Document upon the occurrence of an Event of Default with respect to the
+other party constitute a “contractual right” to cause the liquidation, termination or acceleration of, and to offset or net
+out termination values, payment amounts and other transfer obligations under or in connection with a “securities
+contract” and a “swap agreement” and a “contractual right” under a security agreement or arrangement forming a part
+of or related to a “securities contract” and a “swap agreement,” as such terms are used in Sections 555, 560, 561,
+362(b)(6) and 362(b)(17) of the Bankruptcy Code.
+
+        (d)      Citi is entitled to the protections afforded by, among other sections, Sections 362(b)(6), 362(b)(17),
+362(b)(27), 362(o), 546(e), 546(g), 546(j), 548(d)(2), 555, 560 and 561 of the Bankruptcy Code.
+
+8.       Miscellaneous:
+
+          (a)       Designation by Citi. Notwithstanding any other provision in this Master Confirmation to the
+contrary requiring or allowing Citi to purchase, sell, receive or deliver any Shares or other securities, or make or
+receive any payment in cash, to or from Counterparty, Citi may designate any of its affiliates to purchase, sell, receive
+or deliver such Shares or other securities, or make or receive such payment in cash, and otherwise to perform Citi’s
+obligations in respect of the Transaction and any such designee may assume such obligations. Citi shall be discharged
+of its obligations to Counterparty solely to the extent of any such performance.
+
+         (b)      Consent to Recording. Each party (i) consents to the recording of the telephone conversations of
+trading and marketing personnel of the parties and their affiliates in connection with the Agreement, this Master
+Confirmation and each Supplemental Confirmation and (ii) agrees to obtain any necessary consent of, and give notice
+of such recording to, such personnel of such party and such party’s affiliates.
+
+         (c)      Severability; Illegality. If compliance by either party with any provision of a Transaction would be
+unenforceable or illegal, (i) the parties shall negotiate in good faith to resolve such unenforceability or illegality in a
+manner that preserves the economic benefits of the transactions contemplated hereby and (ii) the other provisions of
+such Transaction shall not be invalidated, but shall remain in full force and effect as long as such Transaction as so
+modified continues to express, without material change, the original intentions of the parties as to the subject matter
+hereof and will not substantially impair the respective benefits or expectations of the parties.
+
+      (d)    Waiver of Trial by Jury. EACH OF COUNTERPARTY AND CITI HEREBY IRREVOCABLY
+WAIVES (ON SUCH PARTY’S OWN BEHALF AND, TO THE EXTENT PERMITTED BY APPLICABLE LAW,
+ON BEHALF OF SUCH PARTY’S STOCKHOLDERS OR OTHER EQUITY HOLDERS) ALL RIGHT TO TRIAL
+BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM (WHETHER BASED ON CONTRACT,
+TORT OR OTHERWISE) ARISING OUT OF OR RELATING TO THE AGREEMENT, THIS MASTER
+CONFIRMATION, ANY SUPPLEMENTAL CONFIRMATION OR THE TRANSACTIONS CONTEMPLATED
+HEREBY OR THEREBY OR THE ACTIONS OF CITI OR ITS AFFILIATES IN THE NEGOTIATION,
+PERFORMANCE OR ENFORCEMENT HEREOF OR THEREOF.
+
+         (e)        Confidentiality. The parties agree not to issue or release any press release, articles, advertising or
+publicity relating to any Transaction hereunder or mentioning or implying the name of the parties hereto or the subject
+matter hereof, except as may be required by law, regulatory or self-regulatory organization, generally accepted
+accounting principles applicable to such party or as otherwise agreed to by the parties and, in the latter case, only after
+providing the other party, to the extent practical and legally permitted, with an opportunity to review and comment
+                                                             14
+thereon, or except to the extent the terms of such Transaction have already been made public other than as the result
+of a violation of this Section 8(e). Notwithstanding the foregoing, Citi and Counterparty agree that (i) Counterparty
+is not obligated to Citi to keep confidential from any and all persons or otherwise limit the use of any element of Citi’s
+descriptions relating to tax aspects of the Transactions contemplated hereby and any part of the structure necessary to
+understand those tax aspects, and (ii) Citi does not assert any claim of proprietary ownership in respect of such
+descriptions contained herein of the use of any entities, plans or arrangements to give rise to significant U.S. federal
+income tax benefits for Counterparty.
+
+          (f)       Limit on Beneficial Ownership. Notwithstanding anything to the contrary in the Agreement, this
+Master Confirmation or any Supplemental Confirmation, in no event shall Citi exercise any Option hereunder to which
+Physical Settlement applies, or be entitled to receive, or shall be deemed to receive, any Shares in connection with a
+Transaction if, immediately upon giving effect to such receipt of such Shares, (i) Citi’s Beneficial Ownership would
+be equal to or greater than 4.0% of the outstanding Shares, (ii) Citi, or any “affiliate” or “associate” of Citi, would be
+an “interested stockholder” of Issuer, as all such terms are defined in Section 203 of the Delaware General Corporation
+Law or (iii) Citi, Citi Group (as defined below) or any person whose ownership position would be aggregated with
+that of Citi or Citi Group (Citi, Citi Group or any such person, a “Citi Person”) under any federal, state or local laws,
+regulations, regulatory orders or organizational documents or contracts of Issuer that are, in each case, applicable to
+ownership of Shares (“Applicable Restrictions”), owns, beneficially owns, constructively owns, controls, holds the
+power to vote or otherwise meets a relevant definition of ownership in excess of a number of Shares equal to (x) the
+number of Shares that would give rise to reporting or registration obligations or other requirements (including
+obtaining prior approval by a state or federal regulator) of a Citi Person, or could result in an adverse effect on a Citi
+Person, under Applicable Restrictions, as determined by Citi in its reasonable discretion, and with respect to which
+such requirements have not been met or the relevant approval has not been received or that would give rise to any
+consequences under the constitutive documents of Issuer or any contract or agreement to which Issuer is a party, in
+each case minus (y) 1% of the number of Shares outstanding on the date of determination (each of clause (i), (ii) and
+(iii) above, an “Ownership Limitation”). If any delivery owed to Citi hereunder is not made, in whole or in part, as a
+result of an Ownership Limitation, Citi’s right to receive such delivery shall not be extinguished and Counterparty
+shall make such delivery as promptly as practicable after, but in no event later than one Scheduled Trading Day after,
+Citi gives notice to Counterparty that such delivery would not result in any of such Ownership Limitations being
+breached. “Citi’s Beneficial Ownership” means the “beneficial ownership” (within the meaning of Section 13 of the
+Exchange Act and the rules promulgated thereunder (collectively, “Section 13”)) of Shares, without duplication, by
+Citi, together with any of its affiliates or other person subject to aggregation with Citi under Section 13 for purposes
+of “beneficial ownership”, or by any “group” (within the meaning of Section 13) of which Citi is or may be deemed
+to be a part (Citi and any such affiliates, persons and groups, collectively, “Citi Group”) (or, to the extent that, as a
+result of a change in law, regulation or interpretation after the date hereof, the equivalent calculation under, if
+applicable, Section 16 of the Exchange Act and the rules and regulations thereunder results in a higher number, such
+number). Notwithstanding anything in the Agreement, this Master Confirmation or any Supplemental Confirmation
+to the contrary, Citi (or the Citi Affiliate designated by Citi pursuant to Section 8(a) above) shall not become the record
+or beneficial owner, or otherwise have any rights as a holder, of any Shares that Citi (or such affiliate) is not entitled
+to receive at any time pursuant to this Section 8(f), until such time as such Shares are delivered pursuant to this Section
+8(f).
+
+          (g)       Right to Extend. Citi may divide a Component into additional Components and designate the
+Expiration Date and the Number of Options for any Component comprised by such Transaction (and may make
+corresponding adjustments to the Final Disruption Date for the relevant Transaction) if Citi determines, in respect of
+clause (i) below, in its good faith and commercially reasonable discretion or, in respect of clause (ii) below, in its
+reasonable discretion and based on advice of counsel, that such further division is reasonably necessary or advisable
+to (i) preserve Citi’s commercially reasonable hedging or hedge unwind activity hereunder in light of existing liquidity
+conditions or (ii) to enable Citi or one of its affiliates to effect transactions in the Shares in connection with its hedging
+or hedge unwind activity hereunder in a manner that is, including as if Citi or such an affiliate were Issuer or an
+affiliated purchaser of Issuer, in compliance with applicable legal, regulatory or self-regulatory requirements
+applicable to transactions of the type of Transaction or with related policies and procedures adopted by Citi in good
+faith and that are generally applicable in similar situations and applied in a non-discriminatory manner.
+
+       (h)      Electronic Signature. Each party acknowledges and agrees that it may execute this Master
+Confirmation or any Supplemental Confirmation and any variation or amendment to the same, by electronic
+                                                               15
+instrument. Each party agrees that its electronic signature appearing on the document shall have the same effect as a
+handwritten signature and its use of an electronic signature on this Master Confirmation or a Supplemental
+Confirmation shall have the same validity and legal effect as the use of a signature affixed by hand and is made with
+the intention of authenticating this Master Confirmation or a Supplemental Confirmation and evidencing that party’s
+intention to be bound by the terms and conditions contained herein or therein. Each party represents and warrants that
+it has the authority to enter into this Master Confirmation and any Supplemental Confirmation using an electronic
+signature and is not prevented from doing so pursuant to its constitutional documents, corporate authorities, internal
+requirements or otherwise.
+
+9.       Schedule Provisions:
+
+        (a)        Credit Support Documents and Credit Support Provider. Upon execution and delivery thereof, the
+Pledge Agreement and Guarantee will each constitute a Credit Support Document with respect to Counterparty. Ernest
+C. Garcia II shall be a Credit Support Provider with respect to Counterparty.
+
+         (b)      Automatic Early Termination. Automatic Early Termination will not apply to Counterparty or Citi.
+
+         (c)      Additional Schedule Provisions.
+
+                   (i)       “Specified Entity” means (i) in relation to Counterparty for purposes of Sections 5(a)(v),
+         5(a)(vi), 5(a)(vii) and 5(b)(v), none, and (ii) in relation to Citi for purposes of Section 5(a)(v), all Affiliates,
+         and for purposes of Sections 5(a)(vi), 5(a)(vii) and 5(b)(v), none.
+
+                  (ii)      “Specified Transaction” has the meaning set forth in Section 14 of the Agreement.
+
+                   (iii)     The “Cross-Default” provisions of Section 5(a)(vi) will apply to Counterparty and will
+         apply to Citi with a Threshold Amount equal to, with respect to Citi, two percent of the shareholders’ equity
+         of Citi and, with respect to Counterparty, $50,000,000, provided, however, Section 5(a)(vi) of the Agreement
+         is hereby amended by (i) deleting the words “, or becoming capable at such time of being declared,” from
+         the seventh line of Section 5(a)(vi)(1) and (ii) the addition of the following at the end thereof: “provided,
+         however, that notwithstanding the foregoing, an Event of Default shall not occur under either (1) or (2) above
+         if (x) the event or condition referred to in (1) or the failure to pay referred to in (2) is a failure to pay caused
+         by an error or omission of an administrative or operational nature; (y) funds were available to such party to
+         enable it to make the relevant payment when due; and (z) such relevant payment is made within three Local
+         Business Days following receipt of written notices from an interested party of such failure to pay.” “Specified
+         Indebtedness” will have the meaning set forth in Section 14 of the Agreement.
+
+                  (iv)     The “Credit Event Upon Merger” provisions of Section 5(b)(v) will apply to Counterparty
+         and will apply to Citi.
+
+                 (v)      “Multiple Transaction Payment Netting” will not apply for the purpose of Section 2(c) of
+         the Agreement, provided that it will apply with respect to all Transactions under this Master Confirmation.
+
+                 (vi)     The following shall be an Additional Termination Event with respect to which
+         Counterparty shall be the sole Affected Party and all Transactions hereunder shall be Affected Transactions:
+
+                            Any legal proceeding shall have been instituted or any other event shall have occurred or
+                            condition shall exist that in Citi’s good faith, judgment based on the advice of counsel
+                            would result in any agreement of Counterparty hereunder being deemed invalid or of no
+                            binding effect (other than any event for which a remedy is otherwise contemplated pursuant
+                            to Article 11 or Article 12 of the Equity Definitions or pursuant to this Master
+                            Confirmation), including, without limitation, (x) any amendment, waiver or modification
+                            to (i) that certain Fifth Amended and Restated Limited Liability Company Agreement of
+                            the Units Issuer, dated as of October 2, 2020, as amended by that Amendment to Fifth
+                            Amended and Restated Limited Liability Company Agreement of the Units Issuers, dated
+
+                                                              16
+                           as of December 9, 2022, and as further amended by that Second Amendment to Fifth
+                           Amended and Restated Limited Liability Company Agreement of the Units Issuer, dated
+                           as of March 4, 2024, (ii) that certain Exchange Agreement (the “Exchange Agreement”),
+                           dated as of April 27, 2017, by and among the Issuer, Carvana Co. Sub LLC, the Units
+                           Issuer and the holders from time to time of the Class A common units of the Units Issuer
+                           listed on the signature pages thereto, (iii) the Class B common stock of the Issuer, and (iv)
+                           the Class A common units of the Units Issuer, that would prevent Counterparty’s or the
+                           Custodian’s (as defined in the Pledge Agreement) ability to effect an exchange of the Class
+                           B common stock of the Issuer and Class A common units of the Units Issuer constituting
+                           Collateral (as defined in the Pledge Agreement) into Shares in accordance with the Issuer
+                           Acknowledgment and the Exchange Agreement (a “Collateral Exchange”) or (y) the
+                           announcement by any governmental authority or the occurrence of any actual or proposed
+                           change in law or regulation that the Calculation Agent determines would cause the
+                           condition described in Section 2.1(a)(ii)(1) of the Exchange Agreement to be applicable in
+                           connection with any Collateral Exchange.
+
+         (d)     Agreement to Deliver Documents. Counterparty agrees to deliver the following documents, as
+applicable:
+
+
+                                                                                                       Covered by
+                      Party
+                                                                          Date by which to be          Section 3(d)
+                   required to
+                                     Form/Document/Certificate                 delivered              Representation
+                     deliver
+                  Counterparty       Evidence of authority and        Upon or promptly                      Yes
+                                     specimen signatures of           following execution of this
+                                     signatories of Counterparty      Master Confirmation
+                  Counterparty       Resolutions or other             Upon or promptly                      Yes
+                                     documents evidencing             following execution of this
+                                     authority of Counterparty to     Master Confirmation or,
+                                     enter into this Master           with respect to any Credit
+                                     Confirmation, each               Support Document, upon
+                                     Supplemental Confirmation        or promptly following
+                                     and Transaction hereunder        execution of such Credit
+                                     and any Credit Support           Support Document
+                                     Document
+                  Counterparty       Copies of all organizational     Upon or promptly                      Yes
+                                     documents of Counterparty        following execution of this
+                                     and, if applicable, any Credit   Master Confirmation
+                                     Support Provider
+                  Citi and           A correct, completed and         (i) Upon execution of this            No
+                  Counterparty       signed Internal Revenue          Master Confirmation; (ii)
+                                     Service Form W-9.                promptly upon the
+                                                                      reasonable request of the
+                                                                      other party; and (iii)
+                                                                      promptly upon learning
+                                                                      that any such form
+                                                                      previously provided has
+                                                                      become obsolete, incorrect
+                                                                      or invalid.
+
+
+10.      Tax Provisions:
+
+         (a)    Payer Representations: For the purpose of Section 3(e) of this Agreement, Citi and Counterparty
+each hereby make the following representation:
+
+                                                           17
+                   It is not required by any applicable law, as modified by the practice of any relevant governmental
+         revenue authority, of any Relevant Jurisdiction to make any deduction or withholding for or on account of
+         any Tax from any payment (other than interest under Section 9(h) of this Agreement) to be made by it to the
+         other party under this Agreement. In making this representation, it may rely on (i) the accuracy of any
+         representations made by the other party pursuant to Section 3(f) of this Agreement, (ii) the satisfaction of the
+         agreement contained in Section 4(a)(i) or 4(a)(iii) of this Agreement and the accuracy and effectiveness of
+         any document provided by the other party pursuant to Section 4(a)(i) or 4(a)(iii) of this Agreement and (iii)
+         the satisfaction of the agreement of the other party contained in Section 4(d) of this Agreement, except that
+         it will not be a breach of this representation where reliance is placed on clause (ii) above and the other party
+         does not deliver a form or document under Section 4(a)(iii) by reason of material prejudice to its legal or
+         commercial position.
+
+         (b)      Payee Representations. For the purpose of Section 3(f) of the Agreement:
+
+                  (i)      Citi makes the following representations:
+
+                           (A)      Citi is a national banking association organized under the laws of the United States
+                  and its U.S. taxpayer identification number is 13-5266470. It is “exempt” within the meaning of
+                  U.S. Treasury Regulations (the “Regulations”) sections 1.6041-3(p) and 1.6049-4(c) from
+                  information reporting on Form 1099 and backup withholding.
+
+                          (B)      Citi is a “U.S. person” as that term is used in section 1.1441-4(a)(3)(ii) of the
+                  Regulations for U.S. federal income tax purposes.
+
+                  (ii)     Counterparty makes the following representations:
+
+                          (A)      Counterparty is a disregarded entity for U.S. federal income tax purposes wholly-
+         owned by a “U.S. person” as that term is used in section 1.1441-4(a)(3)(ii) of the Regulations for U.S. federal
+         income tax purposes.
+
+        (c)       Foreign Account Tax Compliance Act. The parties agree that the definitions and provisions
+contained in the ISDA 2012 FATCA Protocol as published by the International Swaps and Derivatives Association,
+Inc. on August 15, 2012, as may be amended, supplemented, replaced or superseded from time to time, are
+incorporated into and apply to the Agreement as if set forth in full herein.
+
+         (d)     871(m) Protocol. The parties agree that the definitions and provisions contained in the ISDA 2015
+Section 871(m) Protocol as published by the International Swaps and Derivatives Association, Inc. on November 2,
+2015, as may be amended, supplemented, replaced or superseded from time to time, are incorporated into and apply
+to the Agreement as if set forth in full herein.
+
+11.      U.S. QFC Mandatory Contractual Requirements:
+
+          (a)      Recognition of U.S. Special Resolution Regimes. (i) In the event Citi becomes subject to a
+proceeding under the FDI Act or OLA (together, the “U.S. Special Resolution Regimes”), the transfer of the
+Agreement or any other Relevant Agreement, and any interest and obligation in or under, and any property securing,
+the Agreement or such other Relevant Agreement, from Citi will be effective to the same extent as the transfer would
+be effective under the U.S. Special Resolution Regime if the Agreement or such other Relevant Agreement, and any
+interest and obligation in or under, and any property securing, the Agreement or such other Relevant Agreement, as
+the case may be, were governed by the laws of the United States or a State of the United States. (ii) In the event Citi
+or any Citi Affiliate becomes subject to a proceeding under a U.S. Special Resolution Regime, Default Rights with
+respect to the Agreement or any other Relevant Agreement that may be exercised against Citi are permitted to be
+exercised to no greater extent than such Default Rights could be exercised under such U.S. Special Resolution Regime
+if the Agreement or such other Relevant Agreement as the case may be, were governed by the laws of the United
+States or a State of the United States.
+
+
+                                                            18
+          (b)       Limitation on Exercise of Certain Default Rights Related to a Citi Affiliate’s Entry Into Insolvency
+Proceedings. Notwithstanding anything to the contrary in the Agreement or any other agreement, the parties hereto
+expressly acknowledge and agree that subject to Section 11(c), Counterparty shall not be permitted to exercise any
+Default Right against Citi with respect to the Agreement or any other Relevant Agreement that is related, directly or
+indirectly, to a Citi Affiliate becoming subject to an Insolvency Proceeding.
+
+        (c)       General Creditor Protections. Nothing in Section 11(b) shall restrict the exercise by Counterparty
+of any Default Right against Citi with respect to the Agreement or any other Relevant Agreement that arises as a result
+of:
+
+                  (i)      Citi becoming subject to an Insolvency Proceeding; or
+
+                  (ii)    Citi not satisfying a payment or delivery obligation pursuant to (A) the Agreement or any
+         other Relevant Agreement, or (B) another contract between Citi and Counterparty that gives rise to a Default
+         Right under the Agreement or any other Relevant Agreement.
+
+         (d)      Burden of Proof. After a Citi Affiliate has become subject to an Insolvency Proceeding, if
+Counterparty seeks to exercise any Default Right with respect to the Agreement or any other Relevant Agreement,
+Counterparty shall have the burden of proof, by clear and convincing evidence, that the exercise of such Default Right
+is permitted hereunder or thereunder.
+
+        (e)       Applicability of Section 11(a). The requirements of Section 11(a) apply notwithstanding Sections
+11(b) and (c).
+
+         (f)      General Conditions.
+
+                 (i)       Effective Date. The provisions set forth in Section 11 will come into effect on the date of
+         the Agreement.
+
+                  (ii)     Prior Adherence to the U.S. Protocol. If Citi and Counterparty have adhered to the ISDA
+         U.S. Protocol prior to the date of the Agreement, the terms of the ISDA U.S. Protocol shall be incorporated
+         into and form a part of the Agreement and shall replace the terms of this Section 11. For purposes of
+         incorporating the ISDA U.S. Protocol, Citi shall be deemed to be a Regulated Entity, Counterparty shall be
+         deemed to be an Adhering Party and the Agreement shall be deemed to be a Protocol Covered Agreement.
+
+                  (iii)    Subsequent Adherence to the U.S. Protocol. If, after the date of the Agreement, both Citi
+         and Counterparty shall have become adhering parties to the ISDA U.S. Protocol, the terms of the ISDA U.S.
+         Protocol will supersede and replace this Section 11.
+
+         (g)      Definitions. For the purposes of Section 11, the following definitions apply:
+
+                  “BHC Affiliate” has the same meaning as the term “affiliate” as defined in, and shall be interpreted
+         in accordance with, 12 U.S.C. 1813(w) and 12 U.S.C. 1841(k).
+
+                  “Citi Affiliate” means, with respect to Citi, a BHC Affiliate of Citi.
+
+                   “Credit Enhancement” means, with respect to the Agreement or any other Relevant Agreement, any
+         credit enhancement or other credit support arrangement in support of the obligations of Citi or Counterparty
+         hereunder or thereunder or with respect hereto or thereto, including any guarantee or collateral arrangement
+         (including any pledge, charge, mortgage or other security interest in collateral or title transfer arrangement),
+         trust or similar arrangement, letter of credit, transfer of margin or any similar arrangement.
+
+                 “Default Right” means, with respect to the Agreement (including any Transaction or Confirmation
+         hereunder) or any other Relevant Agreement, any:
+
+
+                                                            19
+                           (i) right of a party, whether contractual or otherwise (including, without limitation, rights
+                 incorporated by reference to any other contract, agreement, or document, and rights afforded by
+                 statute, civil code, regulation, and common law), to liquidate, terminate, cancel, rescind, or
+                 accelerate such agreement or transactions thereunder, set off or net amounts owing in respect thereto
+                 (except rights related to same-day payment netting), exercise remedies in respect of collateral or
+                 other credit support or property related thereto (including the purchase and sale of property), demand
+                 payment or delivery thereunder or in respect thereof (other than a right or operation of a contractual
+                 provision arising solely from a change in the value of collateral or margin or a change in the amount
+                 of an economic exposure), suspend, delay, or defer payment or performance thereunder, or modify
+                 the obligations of a party thereunder, or any similar rights; and
+
+                          (ii) right or contractual provision that alters the amount of collateral or margin that must be
+                 provided with respect to an exposure thereunder, including by altering any initial amount, threshold
+                 amount, variation margin, minimum transfer amount, the margin value of collateral, or any similar
+                 amount, that entitles a party to demand the return of any collateral or margin transferred by it to the
+                 other party or a custodian or that modifies a transferee’s right to reuse collateral or margin (if such
+                 right previously existed), or any similar rights, in each case, other than a right or operation of a
+                 contractual provision arising solely from a change in the value of collateral or margin or a change
+                 in the amount of an economic exposure; but
+
+                          (iii) solely with respect to Section 11(b) does not include any right under a contract that
+                 allows a party to terminate the contract on demand or at its option at a specified time, or from time
+                 to time, without the need to show cause.
+
+                 “FDI Act” means the Federal Deposit Insurance Act and the regulations promulgated thereunder.
+
+              “Insolvency Proceeding” means a receivership, insolvency, liquidation, resolution, or similar
+      proceeding.
+
+               “ISDA U.S. Protocol” means the ISDA 2018 U.S. Resolution Stay Protocol, as published by ISDA
+      on July 31, 2018.
+
+               “OLA” means Title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act and the
+      regulations promulgated thereunder.
+
+                “QFC Stay Rules” means the regulations codified at 12 C.F.R. 252.81–8 (the “Federal Reserve
+      Rule”), 12 C.F.R. 382.1-7 (the “FDIC Rule”) and 12 C.F.R. 47.1-8 (the “OCC Rule”), respectively. All
+      references herein to the specific provisions of the Federal Reserve Rule, the FDICs Rule and the OCC Rule
+      shall be construed, with respect to Citi, to the particular QFC Stay Rule(s) applicable to it.
+
+              “Relevant Agreement” means the Agreement (including all Transactions and Confirmations
+      thereunder) and any Credit Enhancement relating hereto or thereto.
+
+               “State” means any state, commonwealth, territory, or possession of the United States of America,
+      the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana
+      Islands, American Samoa, Guam, or the United States Virgin Islands.
+
+12.   Notices:
+
+      Addresses for notices or
+      communications to Citi:                         Citibank, N.A.
+                                                      388 Greenwich Street, 6th Floor
+                                                      New York, NY 10013
+                                                      Attn: Equity Derivatives, James Heathcote; Grant Mortell
+                                                      Telephone: [_____]
+
+                                                           20
+                                               Email: [_____]
+
+                                               with a copy to:
+
+                                               Citibank, N.A.
+                                               390 Greenwich Street, 3rd Floor
+                                               New York, NY 10013
+                                               Attn: Sean Montgomery – Equity Derivatives Operations
+                                               Telephone: [_____]
+                                               Email: [_____]
+
+      Addresses for notices or
+      communications to Counterparty:          ECG II SPE II, LLC
+                                               1720 Rio Salado Parkway
+                                               Tempe, AZ 85281
+                                               Attn: Ernest C. Garcia II
+                                               Telephone: [_____]
+                                               Email: [_____]
+
+
+13.   Account Details:
+
+      Payments to Citi:                 For any USD payments:
+
+                                               [_____]
+                                               BIC: [_____]
+                                               F/O: [_____]
+                                               Beneficiary: [_____]
+                                               Ref: [_____]
+
+      Payments to Counterparty:                To be advised.
+
+
+
+
+                                                   21
+Please confirm by signing below that the foregoing correctly sets forth the terms of the agreement between Citi and
+Counterparty with respect to any Transaction contemplated by this Master Confirmation and return to us.
+
+
+
+                                                       Yours sincerely,
+
+                                                       CITIBANK, N.A.
+
+                                                       By: /s/ James Heathcote
+                                                          Name: James Heathcote
+                                                          Title: Authorized Representative
+
+
+Confirmed as of the date first above written:
+
+ECG II SPE II, LLC
+
+By: /s/ Ernest C. Garcia II
+ Name: Ernest C. Garcia II
+ Title: President
+
+
+
+
+                                          [Signature Page to Master Confirmation for
+                                                  Call Option Transactions]
+                                                                                                              ANNEX A
+
+
+                                  FORM OF SUPPLEMENTAL CONFIRMATION
+
+Date:            [__________], 20[__]
+
+To:              ECG II SPE II, LLC
+                 1720 Rio Salado Parkway
+                 Tempe, AZ 85281
+                 Attn: Ernest C. Garcia II
+                 Telephone: [_____]
+
+
+From:            Citibank, N.A.
+
+Reference Number:         [   ]
+
+         The purpose of this Supplemental Confirmation is to confirm the terms and conditions of the Transaction
+entered into between Citibank, N.A. (“Citi”) and ECG II SPE II, LLC (“Counterparty”) on the Trade Date specified
+below. This Supplemental Confirmation is a binding contract between Citi and Counterparty as of the relevant Trade
+Date for the Transaction referenced below.
+
+        1.       This Supplemental Confirmation supplements, forms part of, and is subject to the Master Terms and
+                 Conditions for Call Option Transactions dated as of October 30, 2026 between Citi and Counterparty
+                 (as amended and supplemented from time to time, the “Master Confirmation”). All provisions
+                 contained in the Agreement (as modified and as defined in the Master Confirmation) shall govern this
+                 Supplemental Confirmation, except as expressly modified below, and capitalized terms used but not
+                 defined herein shall have the meanings specified in the Master Confirmation.
+
+        2.       The terms of the Transaction to which this Supplemental Confirmation relates are as follows:
+
+ Trade Date:                                      [_________, 20__]
+ Hedge Period:                                    The period commencing on the Hedge Commencement Date and
+                                                  ending on the earlier of (i) the Scheduled Trading Day on which
+                                                  Citi or its affiliates finish establishing Citi’s initial Hedge Positions
+                                                  in respect of the Maximum Number of Options and (ii) the Cutoff
+                                                  Date and (iii) such earlier Scheduled Trading Day as notified by
+                                                  Counterparty to Citi in writing prior to the open of the regular
+                                                  session on the Exchange for such day (such earliest date, the
+                                                  “Hedge Completion Date”). If clause (iii) of this provision applies,
+                                                  Counterparty shall not communicate to Citi the reason for such
+                                                  designation.
+                                                  Promptly following the Hedge Completion Date, Citi shall notify
+                                                  Counterparty of the terms of the Transaction, including: the Hedge
+                                                  Completion Date, the Initial Share Price, the Strike Price, the
+                                                  Premium, the Premium Payment Date and the Number of Options
+                                                  applicable to each Component (if reduced).
+ Hedge Commencement Date:                         The Trade Date
+ Cutoff Date:                                     [_________, 20__]
+ Maximum Number of Options:                       [_____]
+
+
+
+
+                                                    Annex A – 1
+Initial Share Price:                             The volume-weighted average price per Share at which Citi or its
+                                                 affiliates establish Citi’s initial Hedge Positions in respect of the
+                                                 Transaction during the Hedge Period at such time and in such
+                                                 amounts as are determined by Citi in a commercially reasonable
+                                                 manner; provided that Citi shall not establish any Hedge Positions
+                                                 if it would cause the then-Initial Share Price to be lower than the
+                                                 Price Limit.
+Price Limit:                                     USD [       ]
+Number of Options:                               (i) If Citi or its affiliates have established an initial Hedge Position
+                                                 in respect of the Maximum Number of Options, as set forth in the
+                                                 table below; and
+                                                 (ii) Otherwise, notwithstanding the table below, the number of
+                                                 Options for which Citi has established its initial Hedge Positions
+                                                 during the Hedge Period, which number shall be allocated by the
+                                                 Calculation Agent to Components (rounded using a rounding
+                                                 convention determined by the Calculation Agent, with any
+                                                 remainder allocated to the final Component).
+
+Premium:                                         An amount in USD equal to the product of (i) the Number of
+                                                 Options, (ii) the Option Entitlement, (iii) the Initial Share Price and
+                                                 (iv) [__]%.
+Premium Payment Date:                            The second Currency Business Day following the later of the
+                                                 Hedge Completion Date and the date on which all of the conditions
+                                                 specified in Section 4 of the Master Confirmation are satisfied or
+                                                 waived by Citibank.
+Strike Price:                                    An amount in USD equal to [ ]% of the Initial Share Price.
+Final Disruption Date:                           [_________, 20__]
+Maximum Stock Loan Rate:                         [_____] basis points per annum
+Initial Stock Loan Rate:                         [_____] basis points per annum
+
+
+        3.       For each Component of the Transaction and subject to “Number of Options” above, the Number of
+                 Options and the Expiration Date are as set forth below.
+
+                   Component Number      Number of Options                Expiration Date
+                           1                 [           ]                   [          ]
+                           2                 [           ]                   [          ]
+                           3                 [           ]                   [          ]
+                           4                 [           ]                   [          ]
+                           5                 [           ]                   [          ]
+                           6                 [           ]                   [          ]
+                           7                 [           ]                   [          ]
+                           8                 [           ]                   [          ]
+                           9                 [           ]                   [          ]
+                           10                [           ]                   [          ]
+                                                   Annex A – 2
+                               …                   [          ]                  [         ]
+
+
+
+           4.       [For the purposes of the definition of “Expiration Dates” in the Master Confirmation, Components
+                    shall be treated as a single Component.]1
+
+           5.       [The definition of “Settlement Method Election” is hereby deleted in its entirety and replaced with
+                    “Not Applicable”.
+
+           6.       Solely for purposes of the Transaction to which this Supplemental Confirmation relates, upon the
+                    occurrence or effective designation of an Early Termination Date in respect of the Transaction or
+                    the determination of an amount owed following occurrence of an Extraordinary Event that results
+                    in the cancellation or termination of the Transaction pursuant to Article 12 of the Equity Definitions
+                    (any such event, an “Early Termination Event”), if Counterparty would owe any amount to Citi
+                    pursuant to Section 6(d)(ii) and 6(e) of the Agreement or any amount pursuant to Section 12.7 or
+                    12.9 of the Equity Definitions (any such amount, a “Counterparty Payment Amount” and such event
+                    that would so result in Counterparty owing any such amount, a “Counterparty Payment Event”),
+                    then, except to the extent that Citi proceeds to enforce the security created under the Pledge
+                    Agreement and to apply the proceeds of such enforcement to any obligation of Counterparty
+                    hereunder and under the Agreement, on the date on which any Counterparty Payment Amount is
+                    due, in lieu of any payment or delivery of such Counterparty Payment Amount, Citi may elect for
+                    Counterparty to deliver to Citi (and Citi is authorized to transfer from Counterparty to Citi) a number
+                    of Shares (or, if the Shares have been converted into other securities or property in connection with
+                    an Extraordinary Event (“Converted Property”), a number or amount of such securities or property)
+                    with a value equal to the Counterparty Payment Amount, as determined by the Calculation Agent
+                    using a commercially reasonable valuation method. Notwithstanding any provision of the
+                    Agreement, the Equity Definitions or the Master Confirmation to the contrary, in determining any
+                    amount payable upon the occurrence of an Early Termination Date or a cancellation or termination
+                    of the Transaction pursuant to Article 12 of the Equity Definitions, Citi may specify that the party
+                    determining such amount shall use a risk bid price or a closing price, volume-weighted average price
+                    or other market price for the Shares determined by Citi over a commercially reasonable period.]2
+
+
+
+
+1
+    Include for Transactions with multiple Components expiring on a single day.
+2
+    Include if relevant for Transaction.
+                                                      Annex A – 3
+Counterparty hereby agrees (a) to check this Supplemental Confirmation carefully and immediately upon receipt so
+that errors or discrepancies can be promptly identified and rectified and (b) to confirm that the foregoing correctly sets
+forth the terms of the agreement between us with respect to the particular Transaction to which this Supplemental
+Confirmation relates by manually signing this Supplemental Confirmation and providing any other information
+requested herein or in the Master Confirmation and immediately sending an electronic transmission of an executed
+copy to us.
+
+
+
+                                                        Yours sincerely,
+
+                                                        CITIBANK, N.A.
+
+                                                        By:
+                                                           Name:
+                                                            Title: Authorized Representative
+
+
+
+
+Confirmed as of the date first above written:
+
+ECG II SPE II, LLC
+
+By:
+ Name:
+ Title:
+
+
+
+
+                                                       Annex A – 4
+

@@ -1,0 +1,757 @@
+EX-10.1
+ 4
+ ex10-1.htm
+ EX-10.1
+
+ Exhibit 10.1 
+
+ Date: 
+ October
+ 31, 2025 
+
+ To: 
+ VERSES
+ AI Inc. 
+
+ From: 
+ Sorbie
+ Bornholm LP 
+
+ SUBJECT:
+SHARING ARRANGEMENT TRANSACTION 
+
+ This
+communication is to set forth the terms and conditions of the sharing arrangement transactions entered into on the Trade Date referred
+to below (the “Sharing Arrangement Transactions”), between Sorbie Bornholm LP, a limited partnership (“Sorbie”
+or “we”) and VERSES AI Inc., a corporation incorporated under the laws of the Province of British Columbia (“Counterparty”
+or “you”). This communication constitutes a “Confirmation” as referred to in the ISDA Master Agreement specified
+below. 
+
+ This
+Confirmation incorporates the definitions and provisions contained in the 2002 ISDA Equity Derivatives Definitions as published by the
+International Swaps and Derivatives Association, Inc. (the “Equity Definitions”). In the event of any inconsistency between
+the Equity Definitions and this Confirmation, this Confirmation will govern. 
+
+ 1.
+This Confirmation will supplement, form a part of, and be subject to the ISDA Master Agreement dated as of October 31, 2025 between Counterparty
+and Sorbie, including the schedule and the Credit Support Annex thereto, as from time to time amended (the “Master Agreement”).
+All provisions contained in, or incorporated by reference to, the Master Agreement shall govern this Confirmation except as expressly
+modified below. In the event of any inconsistency between the provisions of the Master Agreement and this Confirmation, this Confirmation
+shall prevail for the purpose of each Sharing Arrangement Transaction. In addition, this Confirmation shall itself evidence a complete
+and binding agreement between you and Sorbie as to the terms and conditions of the Sharing Arrangement Transactions to which this Confirmation
+relates. 
+
+ Sorbie
+and Counterparty each represents that entering into the Sharing Arrangement Transactions is authorized and does not violate any laws
+of its jurisdiction of organization or residence or the terms of any agreement to which it is a party. Sorbie and Counterparty each represents
+that (i) it is not relying on the other party in connection with its decision to enter into the Sharing Arrangement Transactions, and
+neither party is acting as an advisor or fiduciary of the other party in connection with the Sharing Arrangement Transactions regardless
+of whether the other party provides it with market information or its views; (ii) it understands the risks of the Sharing Arrangement
+Transactions and any legal, regulatory, tax, accounting and economic consequences resulting therefrom; and (iii) it has determined based
+upon its own judgment and upon any advice received from its own professional advisors as it has deemed necessary to consult that entering
+into the Sharing Arrangement Transactions is appropriate for such party in light of its financial capabilities and objectives. 
+
+ - 1 - 
+
+ 2.
+The Sharing Arrangement Transactions to which this Confirmation relates consist of 11 separate “bullet” transactions (which
+are referred to sequentially as “Transaction 1”, “Transaction 2”, “Transaction 3” and so on through
+“Transaction 11”), with the terms of each Sharing Arrangement Transaction as follows (with respect to each Sharing Arrangement
+Transaction, this Confirmation shall be interpreted as if it were a separate confirmation for such Sharing Arrangement Transaction consisting
+of the specific terms thereof and any general terms to the extent applicable thereto): 
+
+ General
+Terms: 
+
+ Trade
+ Date: 
+ The
+ date of this Confirmation 
+
+ Effective
+ Date: 
+ Knock-in
+ Determination Day 
+
+ Termination
+ Date: 
+ For
+ each Sharing Arrangement Transaction, the Cash Settlement Payment Date under such Transaction. 
+
+ Settlement
+ Date: 
+ The
+ “Settlement Date” for any Sharing Arrangement Transaction shall be the earlier of: (i) the 10th Exchange Business Day
+ immediately following the 11th month after the Trigger Date or (ii) the Applicable Settlement Date (or such later date as may be
+ established under “Deferral” provided below). The “Applicable Settlement Date” for a Sharing Arrangement
+ Transaction shall be (i) an Exchange Business Day determined in accordance with Schedule 1 hereto or (ii) such earlier date as Sorbie
+ and Counterparty may agree, provided that in each case the Applicable Settlement Date for a Sharing Arrangement Transaction shall
+ not be deemed to have occurred unless the Calculation Agent has determined that the Resale Condition and the Trading Condition (each
+ as defined below) has been satisfied on, and for at least 25 days of the 30 consecutive day period preceding, the relevant date specified
+ on Schedule 1 hereto (provided that, if any such condition is not so satisfied, such Applicable Settlement Date shall be subject
+ to deferral as provided under “Other Terms” below). If any Applicable Settlement Date determined pursuant to the foregoing
+ is not an Exchange Business Day, then such date shall be postponed to the first Exchange Business Day thereafter. For each Sharing
+ Arrangement Transaction, the “Applicable Share Amount” means the aggregate number of shares for such Sharing Arrangement
+ Transaction as specified on Schedule 1 hereto. 
+
+ - 2 - 
+
+ Settlement
+ Currency: 
+ CAD
+ (CAD$) 
+
+ Shares: 
+ VERSES
+ AI Inc. Class A Subordinate Voting Shares, ISIN number CA92539Q6040 
+
+ Exchange: 
+ CBOE
+ Canada Inc. (“CBOE”). 
+
+ Related
+ Exchange(s): 
+ Not
+ Applicable 
+
+ Knock-in
+ Event: 
+ Applicable.
+ The “Knock-in Event” shall occur at the time that the disbursements contemplated by Section 2.2(A) and (B) of the Escrow
+ Agreement (as defined in and executed in connection with the Subscription Agreement referred to below) have been completed and the
+ Admission Conditions (as defined in the Escrow Agreement) have been satisfied. 
+
+ Knock-in
+ Determination Day: 
+ The
+ third Business Day after occurrence of the Knock-in Event, but only if the Knock-in Event occurs on or before the Delivery Date (as
+ defined in the Escrow Agreement); provided that the preceding definition supersedes section 1.48 of the Equity Definitions which
+ shall not apply for purposes hereof. 
+
+ Equity
+Amounts 
+
+ Equity
+ Amount Payer:: 
+ Sorbie 
+
+ Equity
+ Amount Receiver: 
+ Counterparty 
+
+ Equity
+ Amounts: 
+ For
+ each Sharing Arrangement Transaction, an amount determined by the Calculation Agent as of the Valuation Time on the Valuation Date
+ equal to the product of the Equity Notional Amount and the Rate of Return (for which, for the avoidance of doubt, the “Multiplier”
+ is one (1)), provided that, (i) if that Equity Amount is a negative number, then the Equity Amount Receiver will owe to the Equity
+ Amount Payer the absolute value of the Equity Amount (the “Absolute Value”) on the relevant Cash Settlement Payment Date
+ and further provided that the Absolute Value shall be netted in accordance with Section 4(c) below; provided further that, if such
+ Absolute Value exceeds the applicable Transfer Amount for the relevant Sharing Arrangement Transaction (as indicated on Schedule
+ 1), which is the amount to be netted under Section 4(c) of this Confirmation, then Counterparty shall remain liable for such excess
+ only to the extent provided below under “Equity Amount Deferral” and (ii) if the Equity Amount is a positive number,
+ such amount will be applied hereunder or remitted to the Equity Amount Receiver on the terms and conditions of this Confirmation. 
+
+ - 3 - 
+
+ Rate
+ of Return: 
+ in
+ respect of each Settlement Date, a rate determined by the Calculation Agent as of the relevant
+ Valuation Date to which the Settlement Date relates on a formula basis as follows: 
+
+ (Final
+ Price – Initial Price/Initial Price)
+
+ *Multiplier (if any) 
+
+ Cash
+ Settlement Payment Date: 
+ For
+ each Sharing Arrangement Transaction, the 5th Currency Business Day following the relevant Settlement Date. 
+
+ Number
+ of Shares: 
+ For
+ each Sharing Arrangement Transaction, a number of Shares equal to the Applicable Share Amount specified for that Sharing Arrangement
+ Transaction in Schedule 1 hereto. 
+
+ Equity
+ Notional Amount: 
+ For
+ each Sharing Arrangement Transaction, the Number of Shares multiplied by the Initial Price 
+
+ Equity
+ Notional Reset: 
+ Inapplicable 
+
+ Type
+ of Return: 
+ Price
+ Return 
+
+ - 4 - 
+
+ Initial
+ Price: 
+ CAD$7.75
+ per Share; provided that (i) if during the 90 day period following the occurrence of the Knock-in Event, Counterparty makes any placing
+ of its Shares at a price per Share below CAD$6.00, then at Counterparty’s (x) the Initial Price shall be increased by an amount
+ equal to CAD$6.00 minus the per Share price of such placing or (y) Counterparty shall issue to Sorbie a number of additional Shares
+ or securities convertible into a number of additional Shares that in the determination of the Calculation Agent, acting reasonably
+ and in good faith, would have an economic effect in favor of Sorbie equivalent to that contemplated by clause (x) above, (ii) if
+ at any time, Counterparty executes or completes a backdoor listing or reverse takeover or merger at a price per Share below CAD$6.00,
+ then the Initial Price shall be increased by an amount equal to CAD$6.00 minus the per Share price of such backdoor listing or reverse
+ takeover or merger and (iii) the Initial Price in effect at any time shall be increased by an amount equal to 50% thereof (which
+ increased price shall then constitute the effective Initial Price) following each issuance by Counterparty of any Shares to or through
+ any other party: in an at-the-market or equity line program or other comparable programme or by conversion, exercise or exchange
+ of any securities convertible into or exercisable or exchangeable for any shares (but not, for the avoidance of doubt, following
+ the issuance by Counterparty of any shares through a standard placing or a rights offering or through a share purchase plan or an
+ employee scheme) that in effect provides for the issuance or sale of Shares at non-fixed, market related prices (including without
+ limitation any such effect that results from any adjustment provisions or other conditions provided for under the terms of the relevant
+ securities, whether or not a conversion, exercise or exchange has occurred based on such adjustment) (it being acknowledged that
+ the foregoing adjustment shall occur each time such an issuance or sale of shares occurs and that, as a result, multiple adjustments
+ may occur under a program or pursuant to a security); and further subject in each case to adjustment under the “Adjustments”
+ provisions set forth below. As each Transaction subject hereto has a single Valuation Date, the parties acknowledge that the Initial
+ Price shall be determined solely as set forth above and not pursuant to Section 5.8 of the Equity Definitions. 
+
+ - 5 - 
+
+ Final
+ Price: 
+ For
+ any Valuation Date, the average of the Relevant Prices for the Averaging Dates relating to that Valuation Date (which average shall
+ be weighted to take account of the relative trading volume for each such Averaging Date). 
+
+ Valuation
+ Time: 
+ The
+ Scheduled Closing Time on the Exchange 
+
+ Valuation
+ Date: 
+ The
+ Exchange Business Day immediately preceding the Settlement Date 
+
+ Averaging
+ Dates: 
+ For
+ any Valuation Date, the twenty (20) Scheduled Trading Days up to and including that Valuation Date 
+
+ Averaging
+ Date Disruption: 
+ Modified
+ Postponement; provided that, notwithstanding anything to the contrary in the Equity Definitions, if a Market Disruption Event occurs
+ on any Averaging Date, the Calculation Agent may postpone the Valuation Date and the Valuation Date for each successive Sharing Arrangement
+ Transaction for so long as such Market Disruption Event continues, provided further that no such Valuation Date shall be postponed
+ beyond the eighth Scheduled Trading Day following the scheduled Valuation Date of the last Sharing Arrangement Transaction and any
+ Valuation Date postponed to such eighth Scheduled Trading Day shall be deemed to occur on that day. The parties further acknowledge
+ that, as a result of any such postponement, the Settlement Date shall be adjusted as contemplated by 6.7(d) of the Equity Definitions. 
+
+ - 6 - 
+
+ Relevant
+ Price: 
+ For
+ each Averaging Date, the volume-weighted average price of the Shares for that date on the Exchange, as determined by the Calculation
+ Agent in a commercially reasonable manner based on (to the extent available) publicly disseminated quotation services. 
+
+ Equity
+ Amount Deferral: 
+ If,
+ for any Sharing Arrangement Transaction, the Equity Amount due from Counterparty to Sorbie exceeds the Transfer Amount for such Sharing
+ Arrangement Transaction (a “Settlement Shortfall”) and, in any subsequent Sharing Arrangement Transaction, the Equity
+ Amount is due from Sorbie to Counterparty, then Counterparty agrees that Sorbie should first apply and setoff such Equity Amount
+ against the aggregate amount of all such Settlement Shortfalls (to the extent not previously setoff under this paragraph) and only
+ remit to Counterparty the portion (if any) of such Equity Amount as remains after all such Settlement Shortfalls have been eliminated
+ by setoff under this paragraph. The foregoing setoff shall be repeated for each Sharing Arrangement Transaction that results in Sorbie
+ owing an Equity Amount to Counterparty at a time when any Settlement Shortfalls (or portions thereof) have yet to be fully eliminated
+ by setoff under this paragraph. However, if after application and setoff of the Equity Amount from the final Sharing Arrangement
+ Transaction hereunder, any Settlement Shortfalls (or portions thereof) have yet to be fully eliminated, then so long as Counterparty
+ has not executed or completed a backdoor listing or reverse takeover or merger and an Event of Default with respect to Counterparty
+ under Section 5(a)(vii) has not occurred, Counterparty shall not have any further obligation to make payment to Sorbie with respect
+ to such remaining amounts; provided that, if Counterparty has executed or completed a backdoor listing or reverse takeover or merger
+ or an Event of Default with respect to Counterparty under Section 5(a)(vii) has occurred, then thereafter Counterparty shall be obligated
+ to pay to Sorbie any and all such remaining amounts immediately following the application and setoff contemplated above. The parties
+ agree that Counterparty shall not be responsible for any delay in making or failure to make any such setoff and, accordingly, any
+ such delay or failure shall not constitute a default, Potential Event of Default or Event of Default with respect to Counterparty.
+ In no event shall any interest accrue on or be due in respect of any Settlement Shortfalls. 
+
+ - 7 - 
+
+ Delivery
+of Value Payment by Counterparty: 
+
+ Value
+ Payment: 
+ CAD$840,000
+ in the form of (i) cash paid by wire transfer of immediately available funds to Sorbie on the Value Payment Delivery Date or (ii)
+ 140,000 Units (as defined in the Subscription Agreement) having an aggregate face value of CAD$840,000 (the “Value Payment”),
+ subject to the following terms. 
+
+ Value
+ Payment Delivery Date: 
+ The
+ Value Payment constitutes a fee due to Sorbie and shall be paid or delivered by Counterparty pursuant to the Subscription Agreement
+ and concurrently with the occurrence of the Knock-in Event (as defined above). 
+
+ In
+ each case, Counterparty shall pay or deliver the Value Payment to Sorbie as and where instructed by Sorbie. 
+
+ Additional
+ Conditions: 
+ It
+ is a condition to the effectiveness of this Transaction that if the Value Payment consists of Units or Convertible Loan Notes, all
+ Shares issuable upon exercise of warrants or conversion Convertible Loan Notes shall have been duly authorized and validly issued
+ by Counterparty and that, at the time such Shares are delivered to Sorbie, be admitted to trading on the Exchange and otherwise satisfy
+ the definition of Unrestricted Shares and the Trading Condition as set forth below. 
+
+ - 8 - 
+
+ Other
+Terms: 
+
+ Resale
+ Condition: 
+ The
+ “Resale Condition” shall be deemed satisfied as of any day with respect to the number of Equity Shares that, as of such
+ day, are then Unrestricted Shares. “Unrestricted Shares” mean, as of any day, Shares that are in electronic, freely transferable
+ form, not evidenced by any share certificates bearing restrictive legends, not subject to any stop transfer order, not adversely
+ affected by a Market Disruption Event relating to the Shares and not subject to any other condition to or restriction on the ability
+ of the holder thereof to sell, assign or otherwise transfer such Shares on the CBOE, including, without limitation, any requirement
+ that such sale, assignment or other transfer be registered or qualified with, or approved or consented to by, any governmental or
+ regulatory body having jurisdiction over such transfer (including any self-regulatory organization or multinational body), any requirement
+ that any sale, assignment or other transfer or enforcement of such Shares be consented to or approved by the issuer thereof or any
+ other obligor thereon, any limitations on the type or status, financial or otherwise, of any purchaser, pledgee, assignee or transferee
+ of such Shares or any requirement to deliver any certificate, consent, agreement, opinion of counsel, notice or any other document
+ of any person to the issuer of, any other obligor on or any registrar or transfer agent for, such Shares, prior to the sale, pledge,
+ assignment or other transfer or enforcement of such Shares. 
+
+ - 9 - 
+
+ “Trading
+ Condition” shall be deemed to be satisfied upon the Counterparty and its Shares obtaining and having in effect a full listing
+ on the CBOE excluding, in each case, any restriction, consent, requirement or interest agreed to or granted by or on behalf of Sorbie. 
+
+ “Equity
+ Shares” mean, as of any day, a number of Shares held by Sorbie and its affiliates equal to (i) the sum of 2,333,334 Shares,
+ the number of Shares included in the Units issued upon exercise of the Warrants (as acquired under the Subscription Agreement) and,
+ if applicable, the number of Shares issued as the Value Payment hereunder (including Shares issuable upon exercise of the Warrants
+ included in such Value Payment) minus (ii) the Aggregate Settled Share Amount; provided that such number of Shares shall be adjusted
+ from time to time by the Calculation Agent as provided in Section 11.2 of the Equity Definitions; provided that this Share amount
+ shall be in addition to and separate from any similar Share amount referred to in any other confirmation between the parties. 
+
+ The
+ “Aggregate Settled Share Amount” means, as of any day, the sum of the Applicable Share Amounts for all Sharing Arrangement
+ Transactions that have settled prior to such day. 
+
+ The
+ “Trigger Date” shall mean the day occurring immediately after the first day as of which the following conditions are
+ satisfied (such first day, the “Conditions Completion Date”): the Admission Condition (as defined in the Escrow Agreement);
+ the Resale Condition with respect to the Applicable Share Amount of the Equity Shares; and the Trading Condition. Counterparty further
+ covenants and agrees that, from and after the Trigger Date until all of Counterparty’s obligations under this Confirmation
+ have been satisfied in full, Counterparty shall cause the foregoing conditions to continue to be satisfied. 
+
+ - 10 - 
+
+ “Offer
+ Period Event” means any period commencing upon the date upon which there is a public announcement via a regulatory or market
+ news service that a “formal take-over bid”, as defined in the Multilateral Instrument 62-104 Take-Over Bids and Issuer
+ Bids (as published by the Canadian Securities Administrators), as such rule may be amended or replaced from time to time, for securities
+ of the Counterparty has commenced. 
+
+ Deferral: 
+ If
+ (a) for more than 5 days during the 30 consecutive day period preceding an Applicable Settlement Date for any Sharing Arrangement
+ Transaction, the Resale Condition or the Trading Condition is not satisfied or (b) an Offer Period Event has occurred and is continuing,
+ then, commencing, in the case of clause (a) above, immediately following such 5th day, and in the case of clause (b) above, upon
+ the occurrence of such Offer Period Event, Sorbie may, at its option, defer the Applicable Settlement Date until such later date
+ as of which both the Resale Condition and Trading Condition have been satisfied or such Offer Period Event has no longer been continuing
+ (as the case may be) for a period of 30 consecutive days; provided that no such deferral shall be continued if it would result in
+ a Settlement Date under any Sharing Arrangement Transaction occurring later than 12 months after the Trigger Date (except as otherwise
+ contemplated in the last sentence of this paragraph). If Sorbie defers any Applicable Settlement Date under this provision, then
+ it may defer each scheduled Applicable Settlement Date for each successive Sharing Arrangement Transaction by an equal number of
+ days and also may defer the Settlement Date determined under clause (i) in the definition thereof set forth above, provided that
+ in no event may the Settlement Date determined under such clause (i) be deferred to a day occurring more than 12 months after the
+ Trigger Date, except that in the case of an Offer Period Event, such Settlement Date under clause (i) may, at Sorbie’s option,
+ be deferred for a period equal to the number of days during which such Offer Period Event continued plus two months. 
+
+ - 11 - 
+
+ Additional
+ Covenant: 
+ Counterparty
+ agrees that, so long as any Sharing Arrangement Transaction subject hereto remains outstanding, it will not (and will not permit
+ any of its affiliates to) provide to Sorbie any material non-public information (“MNPI”) with respect to Counterparty,
+ its subsidiaries or their securities which constitutes price sensitive or inside information for the purposes of any applicable laws
+ of England or Canada. If, notwithstanding the foregoing, any such MNPI is provided to Sorbie, then (i) Counterparty will as promptly
+ as practicable publicly disclose such MNPI and (ii) Sorbie may, until such MNPI has been publicly disclosed, suspend settlements
+ of the Sharing Arrangement Transactions subject hereto, in which case the scheduled Applicable Settlement Dates will be deferred
+ for the period of such suspension. This Additional Covenant shall be in addition to, and not supersede or limit, any other provisions
+ contained in the Escrow Agreement and/or the Subscription Agreement (each as defined in Section 9 below). If Counterparty fails to
+ remedy any breach of this covenant promptly, such failure shall (without limiting Sorbie’s suspension right under the preceding
+ sentence) constitute an Event of Default. 
+
+ - 12 - 
+
+ Settlement
+Terms: 
+
+ Cash
+ Settlement: 
+ Applicable 
+
+ Settlement
+ Currency: 
+ CAD
+ (CAD$) 
+
+ Settlement
+ Method Election: 
+ Not
+ Applicable 
+
+ Default
+ Settlement Method: 
+ Cash
+ Settlement 
+
+ Adjustments: 
+
+ Method
+ of Adjustment: 
+ Calculation
+ Agent Adjustment 
+
+ Extraordinary
+Events: 
+
+ Consequences
+of Merger Events: 
+
+ Share-for-Share: 
+ Calculation
+ Agent Adjustment 
+
+ Share-for-Other: 
+ Calculation
+ Agent Adjustment 
+
+ Share-for-Combined: 
+ Calculation
+ Agent Adjustment 
+
+ Determining
+ Party: 
+ Sorbie,
+ provided that any calculation shall be made in good faith and in a commercially reasonable manner 
+
+ Tender
+ Offer: 
+ Applicable 
+
+ Consequences
+of Tender Offers: 
+
+ Share-for-Share: 
+ Calculation
+ Agent Adjustment 
+
+ Share-for-Other: 
+ Calculation
+ Agent Adjustment 
+
+ Share-for-Combined: 
+ Component
+ Adjustment 
+
+ Determining
+ Party: 
+ Sorbie,
+ provided that any calculation shall be made in good faith and in a commercially reasonable manner 
+
+ Composition
+ of Combined Consideration: 
+ Applicable 
+
+ Nationalization
+ or Insolvency: 
+ Cancellation
+ and Payment 
+
+ Delisting: 
+ The
+ parties acknowledge that the consequences of a Delisting are addressed pursuant to the “Deferral” provision above and
+ the Additional Termination Event provided for below. 
+
+ Determining
+ Party: 
+ Sorbie,
+ provided that any calculation shall be made in good faith and in a commercially reasonable manner 
+
+ - 13 - 
+
+ Additional
+Disruption Events: 
+
+ Change
+ in Law: 
+ Applicable 
+
+ Failure
+ to Deliver: 
+ Applicable 
+
+ Insolvency
+ Filing: 
+ Applicable 
+
+ Determining
+ Party: 
+ Sorbie,
+ provided that any calculation shall be made in good faith and in a commercially reasonable manner 
+
+ Non-Reliance: 
+ Applicable 
+
+ Agreements
+ and Acknowledgments
+
+ Regarding Hedging Activities: 
+ Applicable 
+
+ Additional
+ Acknowledgments: 
+ Applicable 
+
+ 4.
+Credit Support Annex: 
+
+ (a)
+For purposes of Paragraph 11 of the Credit Support Annex to the Master Agreement, the “Independent Amount” for all Sharing
+Arrangement Transactions covered by and subject to this Confirmation shall equal the Remaining Notional Amount. The “Remaining
+Notional Amount” shall equal (i) as of any day prior to the Conditions Completion Date, CAD$14,000,000 and (ii) as of any day from
+and after the Conditions Completion Date, CAD$13,300,000 minus the sum of the Transfer Amounts of all Sharing Arrangement Transactions
+that have settled prior to such day. 
+
+ (b)
+On the Conditions Completion Date, CAD$700,000 shall be released and paid to the Counterparty as contemplated by Clause 3.1(d) of the
+Escrow Agreement. 
+
+ (c)
+Following the Conditions Completion Date, upon a reduction in the Remaining Notional Amount pursuant to the terms hereof, and provided
+all amounts then due and owing to Sorbie hereunder have been paid (or deducted from amounts due and owing to Counterparty in accordance
+with the provisions in this paragraph) and there is no Event of Default or Potential Event of Default then outstanding with respect to
+Counterparty, then Sorbie shall transfer to Counterparty the portion, if any, of the Eligible Credit Support then outstanding under the
+Credit Support Annex that exceeds such Remaining Notional Amount. If any amounts are then due and owing to Sorbie under this Confirmation
+or under any other Transaction subject to the Master Agreement, such amounts shall first be deducted from the amount to be transferred
+to Counterparty and, in such case, Sorbie shall first retain for its own account the amounts owing to it and then transfer to Counterparty
+the amount equal to that reduction in the Remaining Notional Amount less the amount so retained by Sorbie. Sorbie may defer any transfers
+to Counterparty of Eligible Credit Support for so long as any Event of Default or Potential Event of Default is outstanding with respect
+to Counterparty. 
+
+ - 14 - 
+
+ (d)
+Provided the Remaining Notional Amount is reduced on the Applicable Settlement Date of each Sharing Arrangement Transaction as if all
+applicable conditions thereunder are satisfied at all times, there is no Event of Default or Potential Event of Default with respect
+to Counterparty and no other amounts become due to Sorbie that are retained by it from the Eligible Credit Support, then the amount of
+Eligible Credit Support to be transferred to Counterparty each month shall correspond to the Transfer Amount as set forth on Schedule
+1 annexed hereto. 
+
+ (e)
+As provided under the Credit Support Annex, Sorbie holds title to, and has the unrestricted right to use and dispose of, any Eligible
+Credit Support transferred to it thereunder; provided that the foregoing shall not limit Sorbie’s obligation to transfer amounts
+to Counterparty in connection with reductions in the Remaining Notional Amount pursuant to paragraph 4(b) above. 
+
+ (f)
+Regardless of the form in which Sorbie holds any Eligible Credit Support from time to time transferred to it under the Credit Support
+Annex, to the extent Sorbie is required to transfer to Counterparty any amount under the Credit Support Annex it shall transfer such
+amount in the form of cash in an Eligible Currency. If any Eligible Credit Support is held in any other form than cash, any fluctuations
+in the value thereof shall be solely at the risk and for the account of Sorbie and shall not increase or decrease Sorbie’s obligation
+to transfer amounts to Counterparty in connection with reductions in the Remaining Notional Amount pursuant to paragraph 4(b) above. 
+
+ (g)
+It is agreed that, with respect to the Transaction evidenced hereby, the Valuation Date for purposes of the Credit Support Annex shall
+mean the Valuation Date as defined herein and the Escrow Agreement referred to in Paragraph 11(h)(ii) of Credit Support Annex shall be
+the Escrow Agreement referred to in the Subscription Agreement identified in Section 9 below. 
+
+ 5.
+Additional Termination Event: 
+
+ The
+parties agree that, for purposes of the Master Agreement the following shall constitute an “Additional Termination Event”
+(for purposes of this Additional Termination Event, Counterparty shall be the sole Affected Party): 
+
+ (A)
+the Resale Condition or Trading Condition shall not have been satisfied with respect to the Equity Shares for any period of 15 or more
+consecutive Scheduled Trading Days or for an aggregate of 30 or more Scheduled Trading Days (whether or not consecutive). 
+
+ 6.
+Determination of Close-out Amount: The parties agree that, if Sorbie, as the Determining Party, determines a Close-out Amount with respect
+to the Transactions evidenced by this Confirmation, any calculation shall be made in good faith and in a commercially reasonable manner
+and Sorbie may, in a commercially reasonable manner, take account of the value of, or any amounts realized upon the disposition of, any
+Equity Shares, and any loss or cost incurred in connection with the disposition of such Equity Shares may be included (without duplication)
+in determining such Close-out Amount as permitted with respect to the termination and liquidation of a hedge related to such Transactions. 
+
+ - 15 - 
+
+ 7.
+ Calculation Agent: 
+ Sorbie;
+ provided that any calculation shall be made in good faith and in a commercially reasonable manner. 
+
+ 8.
+Account Details: 
+
+ Account
+ for payments to Sorbie: 
+ To
+ be provided. 
+
+ Account
+ for payments to Counterparty: 
+ To
+ be provided. 
+
+ 9.
+Relationship between the parties: 
+
+ Except
+as expressly provided herein, in the Subscription Agreement dated the date of this Confirmation among Sorbie, Sorbie Investments LP and
+Counterparty (the “Subscription Agreement”) or the Escrow Agreement referred therein, each party acknowledges that in connection
+with entering into this Transaction, it has not entered into any agreements, arrangements or understandings with the other party or any
+related entity of such party in relation to timing or manner of any acquisition or disposal of any Shares, the voting rights attaching
+to any Shares or the management of the Counterparty. 
+
+ 10.
+Assignability: Notwithstanding anything herein, or in the Master Agreement, to the contrary, Sorbie may assign all of its rights and
+obligations with respect to any Sharing Arrangement Transaction, together with the related rights and obligations under the Escrow Agreement,
+to any third party with the prior written consent of the Counterparty, which will not be unreasonably withheld. 
+
+ 11.
+Governing Law: the laws of England. 
+
+ [remainder
+of page intentionally left blank] 
+
+ - 16 - 
+
+ Please
+confirm that the foregoing correctly sets forth the terms of our agreement by executing the copy of this Confirmation enclosed for that
+purpose and returning such executed copy to us. 
+
+ Yours
+ sincerely, 
+
+ Sorbie
+ Bornholm LP 
+
+ acting by its General
+ Partner 
+
+ By: /s/
+ Greg Kofford 
+
+ Greg
+ Kofford 
+
+ Director 
+
+ Confirmed as of the
+date first above written: 
+
+ VERSES AI Inc. 
+
+ By: /s/
+ Gabriel René 
+
+ Name: Gabriel
+ René 
+
+ Title: CEO 
+
+ By: /s/
+ James Hendrickson 
+
+ Name: James
+ Hendrickson 
+
+ Title: President
+ & COO 
+
+ - 17 - 
+
+ Schedule
+1 
+
+ Sharing 
+
+ Arrangement 
+
+ Transaction 
+ Applicable
+ Settlement Date (Expressed as a Number of Months after the Trigger Date) 
+ Applicable
+ Share 
+
+ Amount 
+ Transfer
+ Amount (Assuming all Applicable Settlement Dates occur at earliest possible date) 
+
+ Transaction 1 
+ 1 month after Trigger Date 
+ 164,223 
+ CAD$ 1,209,091.00 
+
+ Transaction 2 
+ 2 months after Trigger Date 
+ 164,223 
+ CAD$ 1,209,091.00 
+
+ Transaction 3 
+ 3 months after Trigger Date 
+ 164,223 
+ CAD$ 1,209,091.00 
+
+ Transaction 4 
+ 4 months after Trigger Date 
+ 164,223 
+ CAD$ 1,209,091.00 
+
+ Transaction 5 
+ 5 months after Trigger Date 
+ 164,223 
+ CAD$ 1,209,091.00 
+
+ Transaction 6 
+ 6 months after Trigger Date 
+ 164,223 
+ CAD$ 1,209,091.00 
+
+ Transaction 7 
+ 7 months after Trigger Date 
+ 164,223 
+ CAD$ 1,209,091.00 
+
+ Transaction 8 
+ 8 months after Trigger Date 
+ 164,223 
+ CAD$ 1,209,091.00 
+
+ Transaction 9 
+ 9 months after Trigger Date 
+ 164,223 
+ CAD$ 1,209,091.00 
+
+ Transaction 10 
+ 10 months after Trigger Date 
+ 164,223 
+ CAD$ 1,209,091.00 
+
+ Transaction 11 
+ 11 months after Trigger Date 
+ 164,222 
+ CAD$ 1,209,090.00 
+
+ - 18 -

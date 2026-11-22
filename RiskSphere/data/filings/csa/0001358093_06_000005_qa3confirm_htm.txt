@@ -1,0 +1,672 @@
+EX-10
+ 4
+ qa3confirm.htm
+ EX 10.3
+
+DATE: April 27, 2006
+
+TO: RALI Series 2006-QA3 Trust, acting through Deutsche Bank Trust Company
+ Americas, not in its individual capacity but solely in its capacity as
+ Trustee for the benefit of the RALI Series 2006-QA3 Trust
+
+ EP-MN-WS3D
+ 60 Livingston Avenue
+ St. Paul, MN 55107
+
+ATTENTION: RALI Series 2006-QA3 Trust
+TELEPHONE: (651) 495-3880
+FACSIMILE: (651) 495-8090
+
+CC: Josie Knorr
+FAX: 952-352-0503
+
+FROM: Deutsche Bank AG, New York Branch
+
+FACSIMILE: +44 20 7545 9761
+
+SUBJECT: Interest Rate Swap
+
+REFERENCE NUMBER(S): N469539N
+
+The purpose of this letter agreement (the "Agreement") is to confirm the terms and conditions of the Transaction
+entered into on the Trade Date specified below (the "Transaction") between Deutsche Bank AG, New York Branch
+("DBAG") and RALI Series 2006-QA3 Trust, acting through Deutsche Bank Trust Company Americas, not in its
+individual capacity, but solely as Trustee for the benefit of RALI Series 2006-QA3 Trust ("Counterparty"). This
+letter agreement, which evidences a complete and binding agreement between you and us to enter into the
+Transaction on the terms set forth below, constitutes a "Confirmation" as referred to in the ISDA Form Master
+Agreement (as defined below).
+
+1. This Agreement is subject to and incorporates the 2000 ISDA Definitions (the "Definitions"), as
+published by the International Swaps and Derivatives Association, Inc. ("ISDA"). You and we have agreed to enter
+into this Agreement in lieu of negotiating a Schedule to the 1992 ISDA Master Agreement (Multicurrency--Cross
+Border) form (the "ISDA Form Master Agreement") but, rather, an ISDA Form Master Agreement shall be deemed to
+have been executed by you and us on the Trade Date of the first Transaction entered into between us and the terms
+set forth in Paragraph 3 shall constitute a "Schedule" to the ISDA Form Master Agreement. In the event of any
+inconsistency between the provisions of this Agreement and the Definitions or the ISDA Form Master Agreement,
+this Agreement shall prevail for purposes of the Transaction. Terms used and not otherwise defined herein, in
+the ISDA Form Master Agreement or the Definitions shall have the meanings assigned to them in the Pooling and
+Servicing Agreement, dated as of March 1, 2006, among Residential Accredit Loans, Inc., as Depositor, Residential
+Funding Corporation, as Master Servicer and sponsor, and Deutsche Bank Trust Company Americas, as trustee (the
+"Pooling and Servicing Agreement"). Unless otherwise explicitly stated herein, each reference to a "Section" or
+to a "Section" "of this Agreement" will be construed as a reference to a Section of the 1992 ISDA Form Master
+Agreement.
+
+2. The terms of the particular Transaction to which this Confirmation relates are as follows:
+ Notional Amount: As set forth in Exhibit I, which is attached hereto and incorporated by
+ reference into this Confirmation
+ Trade Date: April 20, 2006
+ Effective Date: May 25, 2006
+ Termination Date: March 25, 2011, subject to adjustment in accordance with the Following
+ Business Day Convention.
+ FIXED AMOUNT:
+ Fixed Rate Payer: Counterparty
+ Fixed Rate Payer Period End The 25th day of each month of each year, commencing June 25, 2006, through
+ Dates: and including the Termination Date, subject to No adjustment in accordance
+ with the Following Business Day Convention.
+ Fixed Rate Payer Payment The 25th day of each month of each year, commencing June 25, 2006, through
+ Dates: and including the Termination Date, subject to adjustment in accordance
+ with the Following Business Day Convention..
+ Fixed Rate: 5.35%
+ Fixed Rate Day 30/360
+ Count Fraction:
+ ADDITIONAL FIXED PAYMENT ON APRIL 24, 2006, DBAG WILL MAKE A PAYMENT TO COUNTERPARTY OF USD 189,000.
+ FLOATING AMOUNTS:
+ Floating Rate Payer: DBAG
+ Floating Rate Payer Period The 25th day of each month of each year, commencing June 25, 2006, through
+ End Dates: and including the Termination Date, subject to adjustment in accordance
+ with the Following Business Day Convention.
+ Floating Rate Payer Payment The 25th day of each month of each year, commencing June 25, 2006, through
+ Dates: and including the Termination Date, subject to adjustment in accordance
+ with the Following Business Day Convention.
+ Floating Rate Option: USD-LIBOR-BBA
+ Floating Rate for the Initial To be determined.
+ Calculation Period:
+ Designated Maturity: One month
+ Floating Rate Day Count Actual/360
+ Fraction:
+ Reset Dates: The first day of each Calculation Period.
+ Compounding: Inapplicable
+ Business Days: New York
+ Business Day Following
+ Convention:
+3. Provisions Deemed Incorporated in a Schedule to the ISDA Form Master Agreement:
+1) The parties agree that subparagraph (ii) of Section 2(c) of the ISDA Form Master Agreement will apply to
+ any Transaction.
+2) TERMINATION PROVISIONS. For purposes of the ISDA Form Master Agreement:
+(a) "SPECIFIED ENTITY" is not applicable to DBAG or Counterparty.
+(b) "SPECIFIED TRANSACTION" is not applicable to DBAG or Counterparty, and, accordingly, Section 5(a)(v) shall
+ not apply to DBAG or Counterparty.
+(c) The "CROSS DEFAULT" provisions of Section 5(a)(vi) shall not apply to DBAG or Counterparty.
+(d) The "CREDIT EVENT UPON MERGER" provisions of Section 5(b)(iv) will not apply to DBAG or Counterparty.
+(e) The "BANKRUPTCY" provision of Section 5(a)(vii)(2) shall not apply to Counterparty.
+(f) The "AUTOMATIC EARLY TERMINATION" provision of Section 6(a) will not apply to DBAG or to Counterparty.
+(g) PAYMENTS ON EARLY TERMINATION. For the purpose of Section 6(e) of the ISDA Form Master Agreement:
+ (i) Market Quotation will apply.
+
+ (ii) The Second Method will apply.
+(h) "TERMINATION CURRENCY" means United States Dollars.
+(i) EVENTS OF DEFAULT. The provisions of Sections 5(a)(ii), 5(a)(iii) and 5(a)(iv) shall not apply to
+ Counterparty. The provisions of Sections 5(a)(ii) and 5(a)(iv) shall not apply to DBAG.
+(j) TAX EVENT. The provisions of Section 2(d)(i)(4) and 2(d)(ii) of the ISDA Form Master Agreement shall not
+ apply to Counterparty, and Counterparty shall not be required to pay any additional amounts referred to
+ therein.
+3) TAX REPRESENTATIONS.
+(a) PAYER REPRESENTATIONS. For the purpose of Section 3(e) of the ISDA Form Master Agreement, each of DBAG and
+ Counterparty will make the following representations:
+ It is not required by any applicable law, as modified by the practice of any relevant governmental revenue
+ authority, of any Relevant Jurisdiction to make any deduction or withholding for or on account of any Tax
+ from any payment (other than interest under Section 2(e), 6(d)(ii) or 6(e) of the ISDA Form Master
+ Agreement) to be made by it to the other party under this Agreement. In making this representation, it may
+ rely on:
+ (i) the accuracy of any representations made by the other party pursuant to Section 3(f) of the ISDA
+ Form Master Agreement;
+ (ii) the satisfaction of the agreement contained in Sections 4(a)(i) or 4(a)(iii) of the ISDA Form
+ Master Agreement and the accuracy and effectiveness of any document provided by the other party pursuant to
+ Sections 4(a)(i) or 4(a)(iii) of the ISDA Form Master Agreement; and
+ (iii) the satisfaction of the agreement of the other party contained in Section 4(d) of the ISDA Form
+ Master Agreement, provided that it shall not be a breach of this representation where reliance is placed on
+ clause (ii) and the other party does not deliver a form or document under Section 4(a)(iii) by reason of
+ material prejudice to its legal or commercial position.
+(b) PAYEE REPRESENTATIONS. For the purpose of Section 3(f) of the ISDA Form Master Agreement, each of DBAG and
+ Counterparty make the following representations.
+ The following representation will apply to DBAG:
+ DBAG is a "foreign person" within the meaning of the applicable U.S. Treasury Regulations concerning
+ information reporting and backup withholding tax (as in effect on January 1, 2001), unless DBAG
+ provides written notice to Counterparty that it is no longer a foreign person. In respect of each
+ Transaction it enters into through an office or discretionary agent in the United States or which
+ otherwise is allocated for United States federal income tax purposes to such United States trade or
+ business, each payment received or to be received by it under such Transaction will be effectively
+ connected with its conduct of a trade or business in the United States.
+ The following representation will apply to Counterparty :
+ Deutsche Bank Trust Company Americas is the Trustee under the Pooling and Servicing Agreement.
+4) DOCUMENTS TO BE DELIVERED. For the purpose of Section 4(a)(i) and 4(a)(iii):
+(a) Tax forms, documents, or certificates to be delivered are:
+PARTY REQUIRED TO DELIVER DOCUMENT FORM/DOCUMENT/ DATE BY WHICH TO BE DELIVERED
+ CERTIFICATE
+DBAG and Counterparty Any document required or reasonably Promptly after the earlier of
+ requested to allow the other party (i) reasonable demand by either
+ to make payments under this party or (ii) learning that such
+ Agreement without any deduction or form or document is required.
+ withholding for or on the account of
+ any Tax or with such deduction or
+ withholding at a reduced rate.
+(b) Other documents to be delivered are:
+PARTY REQUIRED TO DELIVER FORM/DOCUMENT/ DATE BY WHICH TO BE COVERED BY SECTION 3(D)
+DOCUMENT CERTIFICATE DELIVERED REPRESENTATION
+Counterparty Any documents required by Upon the execution and Yes
+ the receiving party to delivery of this Agreement.
+ evidence the authority of
+ the delivering party or
+ its Credit Support
+ Provider, if any, for it
+ to execute and deliver
+ this Agreement and any
+ Credit Support Documents
+ to which it is a party,
+ and to evidence the
+ authority of the
+ delivering party or its
+ Credit Support Provider to
+ perform its obligations
+ under this Agreement
+ and/or Credit Support
+ Document, as the case may
+ be.
+DBAG and Counterparty A certificate of an Upon the execution and Yes
+ authorized officer of the delivery of this Agreement.
+ party, as to the
+ incumbency and authority
+ of the respective officers
+ of the party signing this
+ Agreement.
+DBAG Legal opinion with respect Upon the execution and No
+ to such party and its delivery of this Agreement.
+ Credit Support Provider,
+ if any, for it, reasonably
+ satisfactory in form and
+ substance to the other
+ party relating to the
+ enforceability of the
+ party's obligations under
+ this Agreement.
+DBAG A copy of the most recent Promptly after request by Yes
+ annual report of such the other party.
+ party (only if available)
+ and its Credit Support
+ Provider, if any,
+ containing in all cases
+ audited consolidated
+ financial statements for
+ each fiscal year certified
+ by independent certified
+ public accountants and
+ prepared in accordance
+ with generally accepted
+ accounting principles in
+ the United States or in
+ the country in which such
+ party is organized.
+Counterparty Each other report or other Promptly upon request by Yes
+ document required to be DBAG, or with respect to
+ delivered by or to any particular type of
+ Counterparty under the report or other document as
+ terms of the Pooling and to which DBAG has
+ Servicing Agreement, other previously made request to
+ than those required to be receive all reports or
+ delivered directly by the documents of that type,
+ Trustee to DBAG thereunder. promptly upon delivery or
+ receipt of such report or
+ document by Counterparty.
+5) ADDITIONAL PROVISIONS.
+(a) ADDRESS FOR NOTICES: For the purposes of Section 12(a) of this Agreement:
+ Address for notices or communications to DBAG:
+ All notices to DBAG under Sections 5 or 6 (other than notices under Section 5(a)(i)) shall be sent to:
+
+ Deutsche Bank AG, Head Office
+ Tanusanlage 12
+ 60262 Frankfurt
+ Attention: Legal Department
+
+ Telex No: 411836 or 416731 or 41233
+ Answerback: DBF-D
+
+ All other notices to DBAG shall be sent to:
+ Address: 60 Wall Street
+ New York, New York 10005
+ Attention: Derivative Documentation
+ Facsimile: +44 20 7545 9761
+ Telephone: +44 20 7545 9761
+ E-mail: Derivative.Documentation@db.com
+ (For all purposes)
+
+ with a copy to the Deutsche Bank AG, 60 Wall Street, New York, New York 10005, Attention: General
+ Counsel's Office for any notice given pursuant to Section 5 or 6 of the ISDA Form Master Agreement.
+ Address for notices or communications to Counterparty :
+ Address: RALI Series 2006-QA3 Trust
+ c/o Deutsche Bank Trust Company Americas
+ [please advice]
+ Facsimile: []
+ Telephone: []
+ with a copy to:
+ Address: Residential Funding Corporation
+ 8400 Normandale Lake Blvd., Suite 250
+ Minneapolis, MN 55437
+ Attention: Josie Knorr
+ Facsimile No.: 915-352-0503
+ (For all purposes)
+(b) PROCESS AGENT. For the purpose of Section 13(c):
+ DBAG appoints as its Process Agent: Not Applicable
+ Counterparty appoints as its Process Agent: Not Applicable
+(c) OFFICES. The provisions of Section 10(a) will not apply to this Agreement; neither DBAG nor Counterparty
+ have any Offices other than as set forth in the Notices Section.
+(d) MULTIBRANCH PARTY. For the purpose of Section 10(c) of the ISDA Form Master Agreement:
+ DBAG is not a Multibranch Party.
+ Counterparty is not a Multibranch Party.
+(e) CALCULATION AGENT. The Calculation Agent is DBAG.
+(f) CREDIT SUPPORT DOCUMENT. Initially with respect to DBAG, not applicable; however, if required pursuant to
+ Paragraph 3(5)(u) hereof, a guaranty or a Credit Support Annex satisfactory to Counterparty and the Rating
+ Agencies. With respect to Counterparty, not applicable.
+(g) CREDIT SUPPORT PROVIDER.
+ DBAG: Not Applicable
+ Counterparty : Not Applicable
+(h) GOVERNING LAW. The parties to this Agreement hereby agree that the law of the State of New York shall
+ govern their rights and duties in whole, without regard to the conflict of law principles thereof, other
+ than New York General Obligations Law Sections 5-1401 and 5-1402.
+(i) NON-PETITION. DBAG hereby irrevocably and unconditionally agrees that it will not institute against, or
+ join any other person in instituting against or cause any other person to institute against RALI Series
+ 2006-QA3 Trust, Mortgage Asset-Backed Pass-Through Certificates, Series 2006-QA3, any bankruptcy,
+ reorganization, arrangement, insolvency, or similar proceeding under the laws of the United States, or any
+ other jurisdiction for the non-payment of any amount due hereunder or any other reason until the payment in
+ full of the Certificates (as defined in the Pooling and Servicing Agreement) and the expiration of a period
+ of one year plus ten days (or, if longer, the applicable preference period) following such payment. This
+ provision shall survive the termination of this Agreement.
+(j) SEVERABILITY. If any term, provision, covenant, or condition of this Agreement, or the application thereof
+ to any party or circumstance, shall be held to be invalid or unenforceable (in whole or in part) for any
+ reason, the remaining terms, provisions, covenants, and conditions hereof shall continue in full force and
+ effect as if this Agreement had been executed with the invalid or unenforceable portion eliminated, so long
+ as this Agreement as so modified continues to express, without material change, the original intentions of
+ the parties as to the subject matter of this Agreement and the deletion of such portion of this Agreement
+ will not substantially impair the respective benefits or expectations of the parties.
+ The parties shall endeavor to engage in good faith negotiations to replace any invalid or unenforceable
+ term, provision, covenant or condition with a valid or enforceable term, provision, covenant or condition,
+ the economic effect of which comes as close as possible to that of the invalid or unenforceable term,
+ provision, covenant or condition.
+(k) CONSENT TO RECORDING. Each party hereto consents to the monitoring or recording, at any time and from time
+ to time, by the other party of any and all communications between officers or employees of the parties,
+ waives any further notice of such monitoring or recording, and agrees to notify its officers and employees
+ of such monitoring or recording.
+(l) WAIVER OF JURY TRIAL. Each party to this Agreement respectively waives any right it may have to a trial by
+ jury in respect of any Proceedings relating to this Agreement, any Credit Support Document or any of the
+ transactions contemplated hereby.
+(m) NO SET-OFF. Notwithstanding any provision of this Agreement or any other existing or future agreement,
+ each party irrevocably waives any and all rights it may have to set off, net, recoup or otherwise withhold
+ or suspend or condition payment or performance of any obligation between it and the other party hereunder
+ against any obligation between it and the other party under any other agreements. The provisions for
+ Set-off set forth in Section 6(e) of the ISDA Form Master Agreement shall not apply for purposes of this
+ Transaction.
+(n) This Agreement may be executed in several counterparts, each of which shall be deemed an original but all
+ of which together shall constitute one and the same instrument.
+(o) TRUSTEE LIABILITY LIMITATIONS. It is expressly understood and agreed by the parties hereto that (a) this
+ Agreement is executed and delivered by Deutsche Bank Trust Company Americas ("DBTCA"), not individually or
+ personally but solely as Trustee of Counterparty, in the exercise of the powers and authority conferred and
+ vested in it, it has been directed to enter into this Agreement under the Pooling and Servicing Agreement
+ and that Deutsche Bank Trust Company Americas shall perform its duties and obligations hereunder in
+ accordance with the standard of care set forth in Article VIII of the Pooling and Servicing Agreement, (b)
+ each of the representations, undertakings and agreements herein made on the part of Counterparty is made
+ and intended not as personal representations, undertakings and agreements by Deutsche Bank Trust Company
+ Americas but is made and intended for the purpose of binding only Counterparty, (c) nothing herein
+ contained shall be construed as creating any liability on Deutsche Bank Trust Company Americas,
+ individually or personally, to perform any covenant either expressed or implied contained herein, all such
+ liability, if any, being expressly waived by the parties hereto and by any Person claiming by, through or
+ under the parties hereto, and (d) under no circumstances shall Deutsche Bank Trust Company Americas be
+ personally liable for the payment of any indebtedness or expenses of Counterparty or be liable for the
+ breach or failure of any obligation, representation, warranty or covenant made or undertaken by
+ Counterparty under this Agreement or any other related documents; provided, that nothing in this paragraph
+ shall relieve Deutsche Bank Trust Company Americas from performing its duties and obligations hereunder and
+ under the Pooling and Servicing Agreement in accordance with the standard of care set forth herein and
+ therein.
+(p) DBAG hereby agrees that, notwithstanding any provision of this agreement to the contrary, Counterparty's
+ obligations to pay any amounts owing under this Agreement shall be subject to Section 4.09 of the Pooling
+ and Servicing Agreement and DBAG's right to receive payment of such amounts shall be subject to Section
+ 4.09 of the Pooling and Servicing Agreement.
+(q) "AFFILIATE". Counterparty shall be deemed to not have any Affiliates for purposes of this Agreement,
+ including for purposes of Section 6(b)(ii).
+(r) Section 3 of the ISDA Form Master Agreement is hereby amended by adding at the end thereof the following
+ subsection (g):
+ "(g) Relationship Between Parties.
+
+ Each party represents to the other party on each date when it enters into a Transaction
+ that:--
+
+ (1) Nonreliance. (i) It is not relying on any statement or representation of the other party
+ regarding the Transaction (whether written or oral), other than the representations expressly
+ made in this Agreement or the Confirmation in respect of that Transaction and (ii) it has
+ consulted with its own legal, regulatory, tax, business, investment, financial and accounting
+ advisors to the extent it has deemed necessary, and it has made its own investment, hedging and
+ trading decisions based upon its own judgment and upon any advice from such advisors as it has
+ deemed necessary and not upon any view expressed by the other party.
+ (2) Evaluation and Understanding.
+ (i) It has the capacity to evaluate (internally or through independent professional advice)
+ the Transaction and has made its own decision to enter into the Transaction and, in the case of
+ Counterparty, it has been directed by the Pooling and Servicing Agreement to enter into this
+ Transaction; and
+ (ii) It understands the terms, conditions and risks of the Transaction and is willing and able
+ to accept those terms and conditions and to assume those risks, financially and otherwise.
+ (3) Purpose. It is entering into the Transaction for the purposes of managing its borrowings
+ or investments, hedging its underlying assets or liabilities or in connection with a line of
+ business.
+ (4) Status of Parties. The other party is not acting as agent, fiduciary or advisor for it
+ in respect of the Transaction.
+ (5) Eligible Contract Participant. It is an "eligible contract participant" as such term is
+ defined in Section 35.1(b)(2) of the regulations (17 C.F.R 35) promulgated under, and it
+ constitutes an "eligible contract participant" as such term is defined in Section 1(a)12 of the
+ Commodity Exchange Act, as amended."
+
+(s) The ISDA Form Master Agreement is hereby amended as follows: the word "third" shall be replaced by the
+ word "second" in the third line of Section 5(a)(i) of the ISDA Form Master Agreement.
+(t) TRANSFER, AMENDMENT AND ASSIGNMENT. No transfer, amendment, waiver, supplement, assignment or other
+ modification of this Transaction shall be permitted by either party (other than a change of Counterparty in
+ connection with a change of Trustee in accordance with the Pooling and Servicing Agreement) unless each of
+ Moody's Investors Service, Inc. ("Moody's") and Standard and Poor's, a Division of the McGraw Hill
+ Companies ("S&P"), has been provided prior notice of the same and confirms in writing (including by
+ facsimile transmission) that it will not downgrade, qualify, withdraw or otherwise modify its then-current
+ rating of the RALI Series 2006-QA3 Trust, Mortgage Asset-Backed Pass-Through Certificates, Series 2006-QA3
+ (the "Certificates").
+(u) ADDITIONAL TERMINATION EVENTS. The following Additional Termination Events will apply:
+
+ (a) If a Rating Agency Downgrade has occurred and DBAG has not complied with the provisions of this
+ Paragraph 3(5)(u) set forth below, then an Additional Termination Event shall have occurred with
+ respect to DBAG and DBAG shall be the sole Affected Party with respect to such an Additional
+ Termination Event.
+
+ (b) If Section 4.09, Section 4.02(c)(xxi), or Section 11.10 of the Pooling and Servicing Agreement is
+ changed, amended or modified, or compliance therewith waived, without the written consent of
+ DBAG, then an Additional Termination Event shall have occurred with respect to Counterparty and
+ Counterparty shall be the sole Affected Party with respect to such an Additional Termination
+ Event.
+
+ RATING AGENCY DOWNGRADE If a Ratings Event (as defined below) shall occur and be continuing with respect to
+ DBAG, then DBAG shall (A) within 5 Business Days of such Ratings Event, give notice to Counterparty of the
+ occurrence of such Ratings Event, and (B) use reasonable efforts to transfer (at its own cost) DBAG's
+ rights and obligations hereunder to another party, subject to satisfaction of the Rating Agency Condition
+ (as defined below). Unless such a transfer by DBAG has occurred within 20 Business Days after the
+ occurrence of a Ratings Event, DBAG shall immediately, at its own cost, post Eligible Collateral (as
+ designated in the approved Credit Support Annex), to secure Counterparty's exposure or potential exposure
+ to DBAG, and such Eligible Collateral shall be provided in accordance with a Credit Support Annex to be
+ attached hereto and made a part hereof. The Eligible Collateral to be posted and the Credit Support Annex
+ to be executed and delivered shall be subject to the Rating Agency Condition. Valuation and posting of
+ Eligible Collateral shall be made weekly. Notwithstanding the addition of the Credit Support Annex and the
+ posting of Eligible Collateral, DBAG shall continue to use reasonable efforts to transfer its rights and
+ obligations hereunder to an acceptable third party; provided, however, that DBAG's obligations to find a
+ transferee and to post Eligible Collateral under such Credit Support Annex shall remain in effect only for
+ so long as a Ratings Event is continuing with respect to DBAG. For the purpose hereof, a "Ratings Event"
+ shall occur with respect to DBAG if the long-term and short-term senior unsecured deposit ratings of DBAG
+ cease to be at least A and A-1 by Standard & Poor's Ratings Service ("S&P") and at least A1 and P-1 by
+ Moody's Investors Service, Inc. ("Moody's") and at least A and F1 by Fitch, Inc. ("Fitch"), to the extent
+ such obligations are rated by S&P and Moody's and Fitch (the "Approved Rating Thresholds").
+
+ If a Ratings Withdrawal (as defined below) shall occur and be continuing with respect to DBAG, then DBAG
+ shall within 2 Business Days of such Ratings Withdrawal, (A) give notice to Counterparty of the occurrence
+ of such Ratings Withdrawal, and (B) (i) transfer (at its own cost) DBAG's rights and obligations hereunder
+ to another party, subject to satisfaction of the Rating Agency Condition or (ii) obtain a guaranty of its
+ obligations hereunder from another party, subject to the satisfaction of the Rating Agency Condition, and
+ such guaranty shall remain in effect only for so long as a Ratings Withdrawal is continuing with respect to
+ DBAG. For the purpose hereof, a "Ratings Withdrawal" shall occur with respect to DBAG if the long-term and
+ short-term senior unsecured deposit ratings of DBAG are withdrawn by S&P or cease to be at least A-3 and
+ BBB- by S&P.
+
+ "Rating Agency Condition" means, with respect to any action taken or to be taken, a condition that is
+ satisfied when S&P, Moody's and Fitch have confirmed in writing that such action would not result in the
+ downgrade, qualification (if applicable) or withdrawal of the rating then assigned by such Rating Agency to
+ the Certificates.
+
+(v) ADDITIONAL REPRESENTATIONS. Counterparty represents that: (a) it is directed pursuant to the Pooling and
+ Servicing Agreement to enter into this Transaction (including the Agreement) and to perform its obligations
+ hereunder (and thereunder); (b) the Transaction and the performance of its obligations hereunder (and under
+ the Agreement) do not violate any material obligation of such Party; (c) each of the Pooling and Servicing
+ Agreement and the other transaction documents related thereto (the "Transaction Documents") to which it is
+ a party has been duly authorized, executed and delivered by it; (d) assuming the due authorization,
+ execution and delivery thereof by the other parties thereto, each of the Pooling and Servicing Agreement
+ and the other Transaction Documents to which Counterparty is a party constitutes the legal, valid and
+ binding obligations of Counterparty, enforceable against Counterparty in accordance with the terms thereof,
+ subject to applicable bankruptcy, insolvency and similar laws or legal principles affecting creditors'
+ rights generally; (e) to the best of its knowledge, no event of default (or event which would, with the
+ passage of time or the giving of notice, or both, constitute an event of default) has occurred under any of
+ the Transaction Documents to which Counterparty is a party; and (f) the person executing this Confirmation
+ is duly authorized to execute and deliver it on behalf of Counterparty.
+
+(w) NON-RECOURSE. Notwithstanding any provision herein or in the ISDA Form Master Agreement to the contrary,
+ the obligations of Counterparty hereunder are limited recourse obligations of Counterparty, payable solely
+ from the swap account, in accordance with the terms of the Pooling and Servicing Agreement. In the event
+ that the swap account and the proceeds thereof should be insufficient to satisfy all claims outstanding and
+ following the realization of the swap account and the proceeds thereof, any claims against or obligations
+ of Counterparty under the ISDA Form Master Agreement or any other confirmation thereunder still outstanding
+ shall be extinguished and thereafter not revive.
+
+4. Account Details and PAYMENTS TO DBAG:
+ Settlement Information: DB Trust Co. Americas, New York
+ SWIFT Code: BKTRUS33
+ Favor Of: Deutsche Bank AG, New York
+ Account Number: 01 473 969
+ Reference: N459787N
+
+ PAYMENTS TO COUNTERPARTY :
+ Deutsche Bank Trust Company Americas
+ [please advise]
+
+Counterparty hereby agrees to check this Confirmation and to confirm that the foregoing correctly sets forth the
+terms of the Transaction by signing in the space provided below and returning to DBAG a facsimile of the
+fully-executed Confirmation to +44 22 7545 9761
+
+ [SIGNATURES BEGIN ON FOLLOWING PAGE]
+
+Page 14 of 16
+
+We are very pleased to have executed this Transaction with you and we look forward to completing other
+transactions with you in the near future.
+
+Very truly yours,
+
+DEUTSCHE BANK AG, NEW YORK BRANCH
+
+By: /s/ John Farrell
+ Name: John Farrell
+ Title: Vice President
+
+By: /s/ Mathew Hoff
+ Name: Mathew Hoff
+ Title: Assistant Vice President
+
+AGREED AND ACCEPTED AS OF THE TRADE DATE
+BY: Deutsche Bank Trust Company Americas as Trustee for the benefit of RALI Series 2006-QA3 Trust, Mortgage
+Asset-Backed Pass-Through Certificates, Series 2006-QA3
+
+By: /s/ Barbara Campbell
+ Name: Barbara Campbell
+ Title: Vice President
+
+EXHIBIT I
+
+---------------------------------------- -------------------------------------- --------------------------------------
+FROM AND INCLUDING* TO BUT EXCLUDING* NOTIONAL AMOUNT (USD)
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ Effective Date 6/25/2006 390,470,096.05
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 6/25/2006 7/25/2006 381,166,939.29
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 7/25/2006 8/25/2006 372,085,140.12
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 8/25/2006 9/25/2006 363,219,436.97
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 9/25/2006 10/25/2006 354,564,693.23
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 10/25/2006 11/25/2006 346,115,894.29
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 11/25/2006 12/25/2006 337,868,144.66
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 12/25/2006 1/25/2007 329,816,665.11
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 1/25/2007 2/25/2007 321,956,789.94
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 2/25/2007 3/25/2007 314,283,964.26
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 3/25/2007 4/25/2007 306,793,741.39
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 4/25/2007 5/25/2007 299,481,780.26
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 5/25/2007 6/25/2007 292,343,842.92
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 6/25/2007 7/25/2007 285,375,792.10
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 7/25/2007 8/25/2007 278,573,588.79
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 8/25/2007 9/25/2007 271,933,289.95
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 9/25/2007 10/25/2007 265,451,046.18
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 10/25/2007 11/25/2007 259,123,099.54
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 11/25/2007 12/25/2007 252,945,781.38
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 12/25/2007 1/25/2008 246,915,510.17
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 1/25/2008 2/25/2008 241,028,789.50
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 2/25/2008 3/25/2008 235,282,205.99
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 3/25/2008 4/25/2008 229,672,427.38
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 4/25/2008 5/25/2008 224,196,200.57
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 5/25/2008 6/25/2008 218,850,349.75
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 6/25/2008 7/25/2008 213,631,774.55
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 7/25/2008 8/25/2008 208,537,448.28
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 8/25/2008 9/25/2008 203,564,416.15
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 9/25/2008 10/25/2008 198,709,793.59
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 10/25/2008 11/25/2008 193,970,764.54
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 11/25/2008 12/25/2008 189,344,579.89
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 12/25/2008 1/25/2009 184,828,555.83
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 1/25/2009 2/25/2009 180,420,072.31
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 2/25/2009 3/25/2009 176,116,571.56
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 3/25/2009 4/25/2009 171,915,556.57
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 4/25/2009 5/25/2009 167,814,589.69
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 5/25/2009 6/25/2009 163,811,291.17
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 6/25/2009 7/25/2009 159,903,337.83
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 7/25/2009 8/25/2009 156,088,461.68
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 8/25/2009 9/25/2009 152,364,448.65
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 9/25/2009 10/25/2009 148,729,137.26
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 10/25/2009 11/25/2009 145,180,417.43
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 11/25/2009 12/25/2009 141,716,229.19
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 12/25/2009 1/25/2010 138,334,561.57
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 1/25/2010 2/25/2010 135,033,451.35
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 2/25/2010 3/25/2010 131,810,982.01
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 3/25/2010 4/25/2010 128,665,282.55
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 4/25/2010 5/25/2010 125,594,526.45
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 5/25/2010 6/25/2010 122,596,930.62
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 6/25/2010 7/25/2010 119,670,754.32
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 7/25/2010 8/25/2010 116,814,298.21
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 8/25/2010 9/25/2010 114,025,903.33
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 9/25/2010 10/25/2010 111,303,950.16
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 10/25/2010 11/25/2010 108,606,402.56
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 11/25/2010 12/25/2010 106,013,585.64
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 12/25/2010 1/25/2011 103,482,556.52
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 1/25/2011 2/25/2011 100,665,272.45
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+ 2/25/2011 Termination Date 90,547,446.88
+---------------------------------------- -------------------------------------- --------------------------------------
+---------------------------------------- -------------------------------------- --------------------------------------
+
+---------------------------------------- -------------------------------------- --------------------------------------
+
+* All dates listed above (with the exception of the Effective Date and the Termination Date) are subject to
+adjustment in accordance with the Following Business Day Convention
