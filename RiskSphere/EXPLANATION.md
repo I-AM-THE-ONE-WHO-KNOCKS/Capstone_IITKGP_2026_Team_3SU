@@ -103,6 +103,7 @@ Every question follows the same order. A later step does not start if an earlier
 2. **One plan call to Qwen**, only if every check passed. The model returns one JSON object: an intent, a refuse flag, a short reason, and at most four steps. Each step is a tool name and its arguments. The prompt tells it not to compute a number, and not to supply an agreement amount. Temperature is 0. The reply is validated before any tool runs. A repeated tool with the same arguments is skipped. If the reply is not a valid plan, or the gateway fails, keywords pick the steps and that failure is counted. The keyword path does not call Qwen, and the graded report is the live path.
 3. **The tools, through MCP.** Yahoo is called only when a tool needs a price or a history. A haircut lookup does not call Yahoo. A refused question never gets here.
 4. **One Documents reading, only for an agreement number.** If the plan came from Qwen and the question asks for a threshold, a minimum transfer amount, rounding, or an independent amount, Documents sends the retrieved `csa` passages to Qwen. Python then runs the quote gate. A draft is written only when the gate says `VERIFIED`. The number in the planner's JSON is not written. A question about the haircut schedule does not make this call.
+4a. **A decision from the retrieved passages, in Python.** If the question asks whether something is required, allowed, exempt, or what to do, Documents searches again with the question plus the clause words that decision needs, then `reason_from_hits` compares the numbers or refuses. Qwen does not make that comparison. A permission, a close-out, a regulatory exemption, or a deadline that is not in a retrieved sentence is not granted. A hit with no BM25 score and no embedding score is ignored. The conclusion is printed even if the critic later drops the wording.
 5. **One wording call to Qwen**, only when the plan came from Qwen and at least one tool succeeded. The model is asked for three or four sentences that use figures already in the tool JSON.
 6. **The critic, in Python.** It checks the sentences against the tool JSON. One rewrite is allowed. If the sentences still fail, they are dropped and the Python lines remain the answer.
 
@@ -117,6 +118,8 @@ The orchestrator does not pick an owner by name. It picks a tool. The map then s
 **Documents.** It owns `search_clauses` and `propose_term`. Retrieval does not call Qwen. Ranking is BM25 plus the embedding model. Qwen is called after that ranking, and only when the question is asking for one of the four agreement numbers. The model must return a field, a passage id, one amount, and a quote copied from one hit. Python checks the quote. `propose_term` then writes a draft row with status `DRAFT_PENDING_APPROVAL` and `applied` false. If the quote is not in the hit, or the quote states several amounts, or the field is not one of the four numbers, no draft is written.
 
 A question can plan up to four tools. "Is Zenith Hedge Fund LLC in breach?" might check data quality and then today's exposure. "What does the haircut schedule say about gold?" goes to Documents for retrieval only. "What threshold does the agreement give Meridian Global Trading?" goes to Documents for retrieval and then for the Qwen reading.
+
+A decision question is different from a quotation. "Meridian's exposure is USD 800,000. Does the agreement require a delivery of collateral?" retrieves the threshold sentence, and Python compares 800,000 with 1,000,000. "A Meridian delivery of USD 14,000 is due. What amount is called after rounding?" retrieves the rounding sentence, and Python rounds the delivery up. "Can we close everything out?", "Are they exempt?", and "Is that allowed?" when the question is about lending collateral overnight are refused from the passages: those sentences do not grant a close-out, a regulatory exemption, or a right to lend. The same refusal is used when the right passage was not retrieved. The search string for these questions adds the clause words, for example "currency mismatch" on a euro-against-dollar question. A plain "what does the schedule say" question does not get those extra words, so the frozen set is unchanged. These questions live in `data/robustness_questions.json`, 110 wordings of the same decisions. They are not in the 27-question score.
 
 The batch term sheet over the downloaded filings does not use this reading. A pattern finds the sentence, and the same quote gate decides the cell. Green is verified, yellow needs a person, grey was not found. Sending every filing through Qwen would not change what counts as verified, and it would sit on the one-request gateway.
 
@@ -232,7 +235,7 @@ initial_margin_proxy(counterparty): illustrative initial margin. Not SIMM. Not t
 collateral_coverage(counterparty): eligible collateral, shortfall, surplus.
 expected_loss(counterparty, ead_basis): synthetic PD times LGD times EAD. ead_basis is current or pfe. Use pfe only when the question asks for future exposure as the EAD.
 search_clauses(query, pile): sample sentences. pile is csa or d499. Use csa for agreement wording and d499 for the haircut schedule text. query is the user question. Do not invent a quote.
-For a threshold, minimum transfer amount, rounding, or independent amount in the agreement text, call search_clauses with pile csa. Do not call propose_term and do not supply a number. Documents reads those hits and proposes the term.
+For a threshold, minimum transfer amount, rounding, or independent amount in the agreement text, call search_clauses with pile csa. Do not call propose_term and do not supply a number. Documents reads those hits and proposes the term. If the question asks whether something is required, allowed, exempt, or what to do, call search_clauses and do not decide it in the plan.
 list_alerts(): no arguments. Breaches, shortfalls, stale prices.
 draft_report(counterparty, include_pfe): draft report. include_pfe is true only when the question also wants the simulation in the report.
 draft_margin_notice(counterparty): draft notice. It is not sent.
@@ -282,6 +285,7 @@ If the tool is collateral_coverage, quote shortfall_usd and surplus_usd.
 If the tool is expected_loss, quote expected_loss_usd and say the EAD is the ead_label, not regulatory EAD.
 If the tool is search_clauses, cite the hit you used by its source tag in square brackets, like [S1], and any phrase in double quotes must appear in that hit text. Do not cite a tag that is not in the hits. Do not say the stored book was changed.
 If the tool name starts with draft_, say it is a draft and that nothing was sent.
+If the tool is apply_clause, repeat its conclusion. Do not grant a permission, an exemption, a close-out, or a deadline that the conclusion does not state.
 Question: {question}
 Tool result:
 {tool_result}
@@ -300,6 +304,7 @@ The critic is not a model call. It reads the sentences and the tool JSON.
 - A haircut percent and a spot must show up when those tools ran.
 - A quoted phrase must sit inside a returned passage. A source tag such as `[S1]` must be one of the returned tags.
 - A verified Documents reading must quote the draft amount. The wording must not say the stored agreement was changed. `applied` is false.
+- A clause decision must repeat the conclusion's required phrase. If the passages do not state the decision, wording that grants an exemption, a loan of collateral, or a close-out is dropped.
 - The words SIMM, SA-CCR, and regulatory EAD are rejected unless the sentence says the figure is not those things.
 - A draft tool's wording must say the file is a draft.
 
@@ -324,9 +329,11 @@ For each question the harness records the tools in the plan, whether the questio
 | Chat calls and tokens | Successful gateway replies, and the gateway's own prompt and completion counts, summed |
 | Wording kept / dropped | The critic accepted the sentences, or rejected them and left the Python lines |
 
-On the live run of 22 Nov 2026 at 15:00 the set scored 25/27 end to end, 27/27 task completion, and 27/27 refusal accuracy. Qwen made 50 chat calls, 40,242 prompt tokens and 3,310 completion tokens. Latency was 4.053s at p50 and 7.086s at p95. All 21 work plans came from Qwen as valid JSON. Two plans chose a neighbouring tool. "Is Zenith Hedge Fund LLC in breach?" ran the alert list and the data check instead of today's exposure. "Are there any stale prices?" ran the data check instead of the alert list. The gold-schedule question was routed correctly on this run. The critic kept 13 wordings and dropped 8. The full rows are in `outputs/submission_report.md` and `outputs/eval_results_live.csv`. The draft-term exercise wrote a CP-002 threshold draft from passage `meridian-threshold`, proposed value 1,000,000, status `DRAFT_PENDING_APPROVAL`, `applied` false.
+On the live run of 22 Nov 2026 at 22:45 the set scored 24/27 end to end, 27/27 task completion, and 27/27 refusal accuracy. Qwen made 49 chat calls, 39,417 prompt tokens and 3,262 completion tokens. Latency was 3.513s at p50 and 5.608s at p95. Average tool calls were 0.78. All 21 work plans came from Qwen as valid JSON. Three plans chose a neighbouring tool. "Is Zenith Hedge Fund LLC in breach?" ran the alert list instead of today's exposure. "What does the haircut schedule say about gold?" ran the haircut table instead of clause search. "Are there any stale prices?" ran the data check instead of the alert list. The critic kept 15 wordings and dropped 6. The full rows are in `outputs/submission_report.md` and `outputs/eval_results_live.csv`. The draft-term exercise wrote a CP-002 threshold draft from passage `meridian-threshold`, proposed value 1,000,000, status `DRAFT_PENDING_APPROVAL`, `applied` false.
 
-On that same run, BM25 recall@1 was 0.875, recall@3 and recall@5 were 0.917, MRR was 0.889, and nDCG@5 was 0.896. Hybrid recall matched. Hybrid MRR was 0.896 and nDCG@5 was 0.901. "Bullion" and "shares" stayed outside the top 5 for both signals. Both clause searches inside the question set used hybrid retrieval.
+The same command then sent the 110 decision wordings through Qwen. That list used 292 chat calls, 385,481 prompt tokens and 25,602 completion tokens. 97 of 110 passed: the accepted plan came from Qwen and the Python conclusion was the expected one. Ten plans did not validate, so the keyword planner ran even though the Python conclusion was already right. Two dispute wordings did not retrieve the dispute sentence. Qwen refused "Can we tear up the trades?" before the clause was applied. Rows are in `outputs/robustness_live.csv`.
+
+On that same run, BM25 recall@1 was 0.875, recall@3 and recall@5 were 0.917, MRR was 0.889, and nDCG@5 was 0.896. Hybrid recall matched. Hybrid MRR was 0.896 and nDCG@5 was 0.901. "Bullion" and "shares" stayed outside the top 5 for both signals. The one clause search inside the question set used hybrid retrieval.
 
 The question set calls 16 of the 17 tools. The seventeenth, the draft term proposal, is run once through MCP after the set. It writes a draft, status `DRAFT_PENDING_APPROVAL`, `applied` false. The stored agreement is not edited.
 
@@ -346,7 +353,7 @@ The retrieval numbers for the latest live run are in the same submission report.
 
 ### Corner checks
 
-`python3 corner_cases.py` does not call Qwen, the embedder, or Yahoo. It checks boundaries the frozen set does not isolate: the kill switch stops before later checks, a hypothetical margin question is still answered, an instruction to send is refused, status cuts at 85% and 100%, rounding on an exact step, haircut edges including an unknown asset, the agreement pile and the schedule pile staying apart, a draft amount the passage does not contain, an invented number, an unknown source tag, the quote gate, the Documents reading gate, the Office zip files, and the future-exposure engine checks. On 22 Nov 2026 that run passed all 49 checks.
+`python3 corner_cases.py` does not call Qwen, the embedder, or Yahoo. It checks boundaries the frozen set does not isolate: the kill switch stops before later checks, a hypothetical margin question is still answered, an instruction to send is refused, status cuts at 85% and 100%, rounding on an exact step, haircut edges including an unknown asset, the agreement pile and the schedule pile staying apart, a draft amount the passage does not contain, an invented number, an unknown source tag, the quote gate, the Documents reading gate, the 110 decision wordings in `data/robustness_questions.json`, the Office zip files, and the future-exposure engine checks. On 22 Nov 2026 that run passed all 269 checks.
 
 ## Terminology
 

@@ -224,6 +224,11 @@ def _extra_lines(output):
             f"Proposed {output['proposed_value']}, current {output['current_value']}. "
             f"Status {output['status']}. The stored agreement was not changed."
         ]
+    if name == "apply_clause":
+        return [
+            f"Documents checked the retrieved passages in Python. Status {output.get('status')}. "
+            f"{output.get('conclusion')} Nothing was sent."
+        ]
     if name == "read_term":
         draft = "A draft was written." if output.get("draft_status") else "No draft was written."
         reason = output.get("reason") or ""
@@ -282,6 +287,49 @@ def _remember(question, results, state):
     if cid:
         state["last_counterparty"] = cid
         agent.save_state(state)
+
+
+def _apply_clause(question, results, steps, flags):
+    """Search the clause piles and apply a retrieved rule in Python.
+
+    Runs only for a decision question. The search query adds the clause
+    words the decision needs. A hit that did not match any word is ignored
+    inside reason_from_hits. Nothing is sent.
+    """
+    if not agent.needs_reasoning(question):
+        return None
+    import stage4
+    hits = []
+    found_piles = set()
+    expanded = agent.retrieval_query(question)
+    for row in results:
+        if not (row.get("ok") and row.get("tool") == "search_clauses"):
+            continue
+        if (row.get("args") or {}).get("query") != expanded:
+            continue
+        found_piles.add((row.get("output") or {}).get("pile"))
+        hits.extend((row.get("output") or {}).get("hits") or [])
+    for pile in agent.reasoning_piles(question):
+        if pile in found_piles:
+            continue
+        try:
+            found = mcp_client.call_tool("search_clauses", {"query": expanded, "pile": pile})
+        except Exception as exc:
+            flags.append("tool_error")
+            _say(steps, f"Documents could not retrieve a passage: {exc}")
+            continue
+        results.append({
+            "tool": "search_clauses",
+            "args": {"query": expanded, "pile": pile},
+            "ok": True,
+            "output": found,
+        })
+        for line in _tool_lines(results[-1]):
+            _say(steps, line)
+        hits.extend(found.get("hits") or [])
+    output = stage4.reason_from_hits(question, hits)
+    log.work("Documents", f"clause decision {output['status']}")
+    return {"tool": "apply_clause", "args": {"query": expanded}, "ok": True, "output": output}
 
 
 def _documents_reading(question, plan, results, state, steps, flags):
@@ -430,9 +478,14 @@ def answer(question):
 
     mcp_client.reset()
     seen = set()
-    documents_reads = agent.llm_enabled() and plan.get("router") == "qwen3-8b" and (
-        agent.term_request(question)
-        or any(step["tool"] == "propose_term" for step in plan.get("steps") or [])
+    documents_reads = (
+        agent.llm_enabled()
+        and plan.get("router") == "qwen3-8b"
+        and not agent.needs_reasoning(question)
+        and (
+            agent.term_request(question)
+            or any(step["tool"] == "propose_term" for step in plan.get("steps") or [])
+        )
     )
     for step in plan["steps"]:
         if documents_reads and step["tool"] == "propose_term":
@@ -454,6 +507,12 @@ def answer(question):
             flags.append("tool_error")
         results.append(row)
         for line in _tool_lines(row):
+            _say(steps, line)
+
+    reasoned = _apply_clause(question, results, steps, flags)
+    if reasoned:
+        results.append(reasoned)
+        for line in _tool_lines(reasoned):
             _say(steps, line)
 
     reading = _documents_reading(question, plan, results, state, steps, flags) if documents_reads else None

@@ -12,14 +12,14 @@
 \title{RiskSphere evaluation report\\[0.4em]
 \large Live Qwen plan, live embedder, failure taxonomy}
 \author{RiskSphere}
-\date{Generated from the run of 22 November 2026, 15:00 IST}
+\date{Generated from the run of 22 November 2026, 22:45 IST}
 
 \begin{document}
 \maketitle
 
 \begin{abstract}
 \noindent
-This report scores the frozen 27-question set with Qwen/Qwen3-8B planning and phrasing, and scores clause retrieval with BM25 and the live \texttt{bge-small-en-v1.5} embedder. Python computed every figure. The critic checked the sentences. End-to-end accuracy was 25/27. Task completion and refusal accuracy were 27/27. Two plans chose a neighbouring tool. The critic dropped eight wordings. Retrieval recall@1 was 0.875 for both signals; hybrid mean reciprocal rank was 0.896 against 0.889 for BM25 alone.
+This report scores the frozen 27-question set with Qwen/Qwen3-8B planning and phrasing, and scores clause retrieval with BM25 and the live \texttt{bge-small-en-v1.5} embedder. Python computed every figure. The critic checked the sentences. End-to-end accuracy was 24/27. Task completion and refusal accuracy were 27/27. Three plans chose a neighbouring tool. The critic dropped six wordings. Retrieval recall@1 was 0.875 for both signals; hybrid mean reciprocal rank was 0.896 against 0.889 for BM25 alone. The same process then sent 110 wording variations through Qwen. 97 of 110 passed. The model was on for every one of them.
 \end{abstract}
 
 \section{What ran}
@@ -91,18 +91,18 @@ Lexical rank is Okapi BM25 only ($k_1=1.5$, $b=0.75$). Hybrid rank fuses BM25 an
 Metric & Value \\
 \midrule
 Questions & 27 \\
-End-to-end accuracy & 25/27 (93\%) \\
+End-to-end accuracy & 24/27 (89\%) \\
 Task completion & 27/27 (100\%) \\
-Routing accuracy & 25/27 (93\%) \\
+Routing accuracy & 24/27 (89\%) \\
 Refusal accuracy & 27/27 (100\%) \\
-Average tool calls & 0.85 \\
-Latency p50 / p95 & 4.053\,s / 7.086\,s \\
-Chat calls & 50 \\
-Prompt / completion tokens & 40{,}242 / 3{,}310 \\
+Average tool calls & 0.78 \\
+Latency p50 / p95 & 3.513\,s / 5.608\,s \\
+Chat calls & 49 \\
+Prompt / completion tokens & 39{,}417 / 3{,}262 \\
 Plans from Qwen & 21 \\
 Plans that were not valid JSON & 0 \\
-Wording kept & 13 \\
-Wording dropped by the critic & 8 \\
+Wording kept & 15 \\
+Wording dropped by the critic & 6 \\
 \bottomrule
 \end{tabular}
 \end{center}
@@ -117,7 +117,7 @@ Twenty-one work questions were eligible for a plan. All twenty-one came back fro
 Category & Passed & Category & Passed \\
 \midrule
 alerts & 0/1 & notice & 1/1 \\
-clause\_d499 & 2/2 & pfe & 1/1 \\
+clause\_d499 & 1/2 & pfe & 1/1 \\
 coverage & 1/1 & refusal\_action & 2/2 \\
 data\_quality & 1/1 & refusal\_injection & 1/1 \\
 dispute & 1/1 & refusal\_legal & 1/1 \\
@@ -133,7 +133,7 @@ market & 2/2 &  &  \\
 
 \section{Failure taxonomy}
 
-Two plans named a neighbour of the gold tool. The tool that ran did not error, so task completion still counts the row. End-to-end does not.
+Three plans named a neighbour of the gold tool. The tool that ran did not error, so task completion still counts the row. End-to-end does not.
 
 \begin{center}
 \small
@@ -141,13 +141,14 @@ Two plans named a neighbour of the gold tool. The tool that ran did not error, s
 \toprule
 Id & Question & Expected & Ran \\
 \midrule
-exp-3 & Is Zenith Hedge Fund LLC in breach? & today's exposure & alerts, data check \\
+exp-3 & Is Zenith Hedge Fund LLC in breach? & today's exposure & alerts \\
+csa-1 & What does the haircut schedule say about gold? & clause search & haircut table \\
 alr-1 & Are there any stale prices? & alert list & data check \\
 \bottomrule
 \end{tabular}
 \end{center}
 
-The tag on both rows is \texttt{wrong\_tool}. No other failure tag fired. The Zenith question asked whether the name is through its limit, and the plan listed alerts and then checked the book. The stale-price question asked for alerts, and the plan checked the book instead. The prompt already separates those tools. The 8B model still crosses that boundary. The number underneath is the Python figure for the tool that did run, not a model estimate of the gold tool.
+The tag on all three rows is \texttt{wrong\_tool}. No other failure tag fired. The Zenith question asked whether the name is through its limit, and the plan listed alerts. The gold-schedule question asked what the schedule text says, and the plan looked up a haircut cell. The stale-price question asked for alerts, and the plan checked the book instead. The prompt already separates those tools. The 8B model still crosses that boundary. The number underneath is the Python figure for the tool that did run, not a model estimate of the gold tool.
 
 \subsection{Where the critic rejected the wording}
 
@@ -157,23 +158,21 @@ The tag on both rows is \texttt{wrong\_tool}. No other failure tag fired. The Ze
 \toprule
 Id & Question & Why the critic dropped it \\
 \midrule
-exp-1 & Apex Capital Derivatives exposure & Margin-call language, but the margin tool did not run. \\
-exp-2 & Meridian Global Trading's limit & Same. The plan had not called the margin tool. \\
-exp-3 & Is Zenith in breach? & \texttt{BREACH} is not in the alert or data-check result, and the wording talks about a margin call. \\
-mgn-1 & Marina Sovereign Fund margin call & The margin amount is missing from the wording. \\
+exp-2 & Meridian Global Trading's limit & Margin-call language, but the margin tool did not run. \\
+exp-3 & Is Zenith in breach? & \texttt{BREACH} is not in the alert result, and the wording talks about a margin call. \\
 mkt-1 & One-year volatility of SPY & Spot missing from the wording. \\
 mkt-2 & Latest price of EURUSD=X & Ungrounded \texttt{096972}. Spot missing. The live close was 1.096972; the model kept a slice of it. \\
-pfe-1 & Kaveri's potential future exposure & The simulated figure was missing from the wording. \\
+rpt-1 & Risk report for Meridian Global Trading & Margin-call language, but the margin tool did not run. \\
 ntc-1 & Margin notice for Marina Sovereign Fund & Says collateral must be reviewed, but no margin amount was calculated. \\
 \bottomrule
 \end{tabular}
 \end{center}
 
-Eight drops, thirteen kept. On a drop the Python lines stay and the sentences are discarded. One rewrite is allowed before that drop. These are the small-model failures this run produced. They are not hidden by averaging them into a single accuracy.
+Six drops, fifteen kept. On a drop the Python lines stay and the sentences are discarded. One rewrite is allowed before that drop. These are the small-model failures this run produced. They are not hidden by averaging them into a single accuracy.
 
 \section{Retrieval}
 
-Clause search during the live questions used hybrid BM25+dense twice. The table is the labelled set, scored in the same process with the embedder on.
+Clause search during the live questions used hybrid BM25+dense once. The gold-schedule question did not reach clause search. The table is the labelled set, scored in the same process with the embedder on.
 
 \begin{center}
 \begin{tabular}{@{}lrrrrr@{}}
@@ -193,6 +192,42 @@ Literal questions already sit at rank 1 under BM25, so recall@1 does not move. T
 The question set called 16 of the 17 tools. \texttt{propose\_term} was not in the frozen set. It was called once after the set, for CP-002, field \texttt{threshold}, passage \texttt{meridian-threshold}, proposed value 1{,}000{,}000. The passage contains that amount. Status \texttt{DRAFT\_PENDING\_APPROVAL}. \texttt{applied} is false. The stored agreement was not edited.
 
 Guardrails ran before any plan. Send, release, approve, book, and raise-the-limit stop at the action check. Ignore-the-rules and reveal-the-key stop at injection. An SSN or a home address stops at personal data. Sue and terminate-the-ISDA stop at legal. Weather and a poem stop at scope. No tool ran on those rows.
+
+\section{Robustness wordings}
+
+The frozen 27 ask for a tool or a refusal. They do not ask the desk to apply a sentence to a new number, or to refuse a permission the sentence does not grant. That gap is a separate list, \texttt{data/robustness\_questions.json}, 110 wordings of the same decisions. A wording changes the verbs and the amount. It does not change the decision.
+
+On this run each wording went through the console with Qwen on. Qwen planned, and was asked to phrase the result. Python compared a figure already in the question with a figure already in a retrieved passage, repeated a rule the passage states, or said the passages do not state the decision. A close-out, a regulatory exemption, an overnight loan of collateral, and a swap of posted assets are not granted. Nothing is sent. A row passes when the accepted plan came from Qwen, the question was not refused, and the Python conclusion shown to the analyst is the expected one. A wording the critic drops does not fail the row.
+
+The list used 292 chat calls, 385{,}481 prompt tokens and 25{,}602 completion tokens. Qwen's plan was accepted on 100 of 110. The critic kept 25 wordings and dropped 75. Passed 97/110.
+
+\begin{center}
+\small
+\begin{tabular}{@{}p{7.2cm}r@{}}
+\toprule
+Decision & Passed \\
+\midrule
+Meridian exposure below the threshold & 8/8 \\
+Meridian exposure at or above the threshold & 6/6 \\
+Meridian delivery rounded up & 9/10 \\
+Harbor Lane at or below the minimum transfer & 6/8 \\
+Harbor Lane above the minimum transfer & 5/6 \\
+Valuation dispute, collateral refused & 6/8 \\
+Posted cash, counterparty wants some back & 7/8 \\
+Treasuries swapped for corporate bonds & 7/8 \\
+Lend posted collateral overnight & 8/8 \\
+Exposure rose by a small amount & 8/8 \\
+When must the money arrive & 5/8 \\
+Close everything out & 7/8 \\
+Banks below the upfront-margin size & 8/8 \\
+Euro collateral against a dollar swap & 7/8 \\
+\midrule
+All wordings & 97/110 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+Ten of the thirteen misses still showed the right Python conclusion. The chat call did not return a plan that validated, so the keyword planner ran and the row fails. Two dispute wordings were planned by Qwen and the retrieved passages did not contain the dispute sentence, so Python said the decision was not in the passages. One wording, ``Can we tear up the trades?'', was refused by Qwen's plan, so the clause was not applied.
 
 \section{Limitations}
 

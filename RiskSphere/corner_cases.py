@@ -236,6 +236,28 @@ def test_documents_reading_gate():
     check("a threshold question is a term reading", agent.term_request("What threshold does the agreement give Meridian?"))
 
 
+def test_clause_decisions():
+    """A retrieved clause is applied only when it states the decision."""
+    import retrieval
+    from books import clause_rows
+    cases = json.loads((Path(__file__).resolve().parent / "data" / "robustness_questions.json").read_text())
+    rows = clause_rows()
+    for case in cases:
+        question = case["question"]
+        refused = agent.prefilter(question)["stop"]
+        check(f"not refused: {question[:32]}", not refused, refused or "")
+        hits = []
+        for pile in agent.reasoning_piles(question):
+            pool = [row for row in rows if row.get("pile") == pile]
+            hits.extend(retrieval.retrieve(agent.retrieval_query(question), pool, top=3, dense_fn=None)["hits"])
+        result = stage4.reason_from_hits(question, hits)
+        check(
+            f"decision: {question[:32]}",
+            result["status"] == case["expect"] and case["must_say"] in result["conclusion"].lower(),
+            f"{result['status']} {result['conclusion'][:140]}",
+        )
+
+
 def test_office_files_open():
     """The workbook and the notice are real Office zip files."""
     import office
@@ -268,6 +290,7 @@ def main():
     test_critic_catches_invention()
     test_quote_gate()
     test_documents_reading_gate()
+    test_clause_decisions()
     test_office_files_open()
     test_pfe_engine_checks()
     print(f"\n{len(FAILURES)} failed" if FAILURES else "\nall corners passed")
