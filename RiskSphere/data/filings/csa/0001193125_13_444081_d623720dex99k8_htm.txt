@@ -1,0 +1,1051 @@
+EX-99.K.8
+ 14
+ d623720dex99k8.htm
+ EX-99.K.8
+
+ EX-99.K.8 
+
+ Exhibit (k)(8) 
+
+ UBS AG
+ 100 Liverpool Street
+ London
+EC2M 2RH
+ Tel. +44-20-7567
+ 8000
+
+ Date: 
+
+ May 23, 2013 (amended and restated as of June 6, 2013) 
+
+ To 
+
+ CM Finance LLC (“ Counterparty ”) 
+
+ Attention: 
+
+ Stephon Barnes, Christopher E. Jansen and Michael C. Mauer 
+
+ Fax No: 
+
+ (212) 380-5915 
+
+ From: 
+
+ UBS AG, London Branch (“ UBS ”) 
+
+ Re: 
+
+ Total Return Swap Transaction 
+
+ UBS Reference Number: 
+
+ 85138421 
+
+ Ladies and Gentlemen: 
+ The
+purpose of this letter agreement is to set forth the terms and conditions of the Transaction entered into between UBS AG, London Branch (“ UBS ”) and CM Finance LLC (“ Counterparty ”), a limited liability
+company formed under the law of the State of Maryland, on the Trade Date specified below (the “ Transaction ”). This letter constitutes a “Confirmation” as referred to in the Master Agreement specified below. 
+
+ The definitions and provisions contained in the 2006 ISDA Definitions (the “ Definitions ”), as published by the International Swaps and
+Derivatives Association, Inc., are incorporated into this Confirmation. In the event of any inconsistency between the Definitions and this Confirmation, this Confirmation shall govern. Capitalized terms used but not defined in this Confirmation have
+the meanings assigned to them in Annex A. Capitalized terms used but not defined in this Confirmation or in Annex A have the meanings assigned to them in the Definitions. 
+
+ With effect from the Amendment Effective Date specified below, this Confirmation amends and restates the prior Confirmation dated May 23, 2013 (without
+regard to any subsequent amendments thereto, the “ Original Confirmation ”) relating to the Transactions described herein, which Original Confirmation (with respect to the period from and after the Amendment Effective Date) is hereby
+superseded and shall be of no further force or effect. 
+ 1. A GREEMENT 
+
+ This Confirmation supplements, forms a part of and is subject to, the ISDA Master Agreement (Multicurrency–Cross Border) dated as of May 20, 2013 (as
+amended, supplemented and otherwise modified and in effect from time to time, the “ Master Agreement ”), between UBS and Counterparty. All provisions contained in the Master Agreement govern this Confirmation except as
+expressly modified below. 
+
+ Page 1 
+
+ 2. T ERMS OF T RANSACTION 
+
+ The terms of the particular Transaction to which this Confirmation relates are as follows: 
+
+ General Terms: 
+
+ Amendment Effective Date
+
+ June 6, 2013 
+
+ Trade Date:
+
+ May 23, 2013 
+
+ Effective Date:
+
+ May 23, 2013 
+
+ Scheduled Termination Date:
+
+ May 23, 2016 
+
+ Termination Date:
+
+ The earlier of (i) the Scheduled Termination Date with respect to the Transaction and (ii) the Obligation Termination Date. The obligations of the parties to make payments required to be made hereunder shall survive the
+Termination Date. 
+
+ Obligation Termination Date:
+
+ In relation to any Terminated Obligation, the related Termination Settlement Date. 
+
+ Reference Entity:
+
+ CM Finance SPV Ltd., an exempted company incorporated with limited liability under the law of the Cayman Islands. 
+
+ Reference Obligation:
+
+ All of the Class A Notes issued from time to time by the Reference Entity under the Reference Obligation Indenture that are not Pledged Notes. 
+
+ Pledged Notes:
+
+ All of the Class A Notes issued by the Reference Entity under the Reference Obligation Indenture that are held by the Counterparty on the Effective Date. 
+
+ Reference Obligation Indenture:
+
+ The Indenture dated as of May 23, 2013 between the Reference Entity and State Street Bank and Trust Company, as trustee, as amended, supplemented and otherwise modified and in effect from time to time. 
+
+ Notional Amount:
+
+ The outstanding principal amount of the Reference Obligation (determined after giving effect to any reduction in the principal amount thereof pursuant to the terms of the Reference Obligation Indenture). 
+
+ In relation to a Terminated Obligation, the principal amount of the related Reference Obligation that is the subject of such termination. 
+
+ Portfolio Asset:
+
+ Each “Portfolio Asset” under and as defined in the Reference Obligation Indenture. 
+
+ Page 2 
+
+ Portfolio:
+
+ At any time, all Portfolio Assets held by the Reference Entity at such time. 
+
+ Purchase Price:
+
+ As defined in the Reference Obligation Indenture. 
+
+ Purchase Amount:
+
+ In relation to any Portfolio Asset that is not a Delayed Draw Loan and any date of determination, the product of the Purchase Price and the Par Amount. 
+
+ In relation to any Portfolio Asset that is a Delayed Draw Loan and any date of determination, the product of the Purchase Price and the Commitment Amount. 
+
+ Par Amount:
+
+ In relation to any Portfolio Asset, the outstanding principal amount of such Portfolio Asset (as the same may be increased in the case of a Delayed Draw Loan pursuant to any amount drawn in respect of such Delayed Draw Loan). The
+Par Amount of any Delayed Draw Loan on any date shall include the aggregate stated face amount of all letters of credit, bankers’ acceptances and other similar instruments issued in respect of such Delayed Draw Loan to the extent that the
+holder of such Delayed Draw Loan is obligated to extend credit in respect of any drawing or other similar payment thereunder. 
+
+ Commitment Amount:
+
+ In relation to any Portfolio Asset that is a Delayed Draw Loan as of any date of determination, the maximum outstanding principal amount of such Portfolio Asset that a registered holder of the amount of such Portfolio Asset held
+by the Reference Entity would on such date be obligated to fund (including all amounts previously funded and outstanding, whether or not such amounts, if repaid, may be reborrowed). 
+
+ Portfolio Asset Obligor:
+
+ In relation to any Portfolio Asset, the borrower or issuer of the Portfolio. Asset set forth in, and identified as the “Obligor” in, the Relevant Source. In addition, “Portfolio Asset Obligor”, unless the
+context otherwise requires, shall also refer to any guarantor of or other obligor on the Portfolio Asset. 
+
+ Business Day:
+
+ New York, Boston, London and TARGET. 
+
+ Business Day Convention:
+
+ Following (which shall, other than with respect to the definition of “Monthly Period”, apply to any date specified herein for the making of any payment or determination or the taking of any action which falls on a day
+that is not a Business Day). 
+
+ Page 3 
+
+ Payment Date:
+
+ Nine Business Days after the end of each Monthly Period. 
+
+ Monthly Period:
+
+ Each period from, and including, the 15th calendar day of each calendar month (each, a Monthly Date) to, but excluding, the next following Monthly Date, except that (a) the initial Monthly Period will commence on,
+and include, the Effective Date and will end on, but exclude, the 15th day of June, 2013 and (b) the final Monthly Period will end on, but exclude, the date on which all of the Reference Obligations are paid in full. 
+
+ Calculation Agent:
+
+ UBS. Except as otherwise expressly provided herein, the Calculation Agent shall make all determinations, calculations and adjustments required pursuant to this Confirmation in good faith and in any commercially reasonable
+manner. 
+
+ Calculation Agent City:
+
+ New York 
+
+ Payments by Counterparty 
+
+ Counterparty First Floating Amounts: 
+
+ First Floating Amount Payer:
+
+ Counterparty 
+
+ First Floating Amount:
+
+ In relation to any First Floating Rate Payer Payment Date, the sum of the product of (a) the First Floating Rate Payer Calculation Amount for such First Floating Rate Payer Payment Date multiplied by (b) the Floating Rate
+Option during the related First Floating Rate Payer Calculation Period plus the Spread multiplied by (c) the Floating Rate Day Count Fraction. 
+
+ First Floating Rate Payer
+Calculation Amount: 
+
+ In relation to any First Floating Rate Payer Payment Date, the daily average of the Notional Amount during the related First Floating Rate Payer Calculation Period. 
+
+ First Floating Rate Payer
+
+ Calculation Period:
+
+ Each First Floating Monthly Period, except that (a) the initial First Floating Rate Payer Calculation Period will commence on, and include, the Effective Date and (b) the final First Floating Rate Payer Calculation Period will
+end on, but exclude, the final Obligation Termination Date. 
+
+ First Floating Rate
+
+ Payer Payment Dates:
+
+ Each UBS Fixed Amount Payment Date. 
+
+ Page 4 
+
+ First Floating Monthly Period:
+
+ Each period from, and including, a First Floating Rate Payer Payment Date to, but excluding, the next following First Floating Rate Payer Payment Date, except that (a) the initial First Floating Monthly Period will commence on,
+and include, the Effective Date will end on, but exclude the First Floating Rate Payer Payment Date that occurs in June, 2013 and (b) the final First Floating Monthly Period will end on, but exclude, the date on which all of the Reference Obligation
+is paid in full. 
+
+ Floating Rate Option:
+
+ USD-LIBOR-BBA, provided that the Floating Rate Option for initial First Floating Rate Payer Calculation Period shall be 0.19528%. 
+
+ Designated Maturity:
+
+ One month 
+
+ Spread:
+
+ (a) With respect to the First Floating Amount in relation to each of (i) the First Floating Rate Payer Payment Date occurring in June 2013 and (ii) the First Floating Rate Payer Payment Date occurring in July 2013:
+1.63%. 
+
+ (b) With respect to the First Floating Amount in relation to the First Floating Rate Payer Payment Date occurring in August 2013: 1.97%. 
+
+ (c) With respect to the First Floating Amount in relation to the First Floating Rate Payer Payment Date occurring in September 2013 and each First Floating Rate Payer Payment Date thereafter: 2.85% 
+
+ Floating Rate Day
+
+ Count Fraction:
+
+ Actual/360 
+
+ Reset Dates:
+
+ As set forth in “Designated Maturity” above 
+
+ Compounding:
+
+ Inapplicable 
+
+ Counterparty Second Floating Amounts: 
+
+ Second Floating Amount Payer:
+
+ Counterparty 
+
+ Second Floating Amount:
+
+ In relation to any Terminated Obligation, Capital Depreciation, if any. 
+
+ Second Floating Rate
+
+ Payer Payment Dates:
+
+ Each Total Return Payment Date. 
+
+ Page 5 
+
+ Payments by UBS: 
+
+ UBS Fixed Amounts: 
+
+ Fixed Amount Payer:
+
+ UBS 
+
+ Fixed Amount:
+
+ The Interest and Fee Amount for the related Fixed Amount Payer Calculation Period. 
+
+ Fixed Amount Payer Calculation Periods:
+
+ Each Monthly Period; provided that (a) the initial Fixed Amount Payer Calculation Period shall commence on and include the Effective Date and (b) the final Fixed Amount Payer Calculation Period shall end on, but exclude,
+the final Obligation Termination Date. 
+
+ UBS Fixed Amount Payment Dates:
+
+ The Payment Date following the last day of any Fixed Amount Payer Calculation Period. 
+
+ UBS Floating Amounts: 
+
+ Floating Amount Payer:
+
+ UBS 
+
+ Floating Amount:
+
+ In relation to any Terminated Obligation, Capital Appreciation, if any. 
+
+ Floating Rate Payer Payment Dates:
+
+ Each Total Return Payment Date. 
+
+ 3. A CCELERATED T ERMINATION . 
+
+ Collateral Default 
+ (a) If (i) Counterparty defaults in
+the performance of any of its obligations under Clause 9 in respect of the Transfer by Counterparty as Pledgor of any Eligible Credit Support or (ii) the Reference Entity increases the outstanding principal amount of the Reference Obligations at any
+time after the Effective Date pursuant to Section 2.13 of the Reference Obligation Indenture, then UBS will have the right but not the obligation to terminate the Transaction in whole (but not in part); provided that (A) in the case of
+sub-clause (i), UBS may deliver the relevant Accelerated Termination Notice (as defined below) at any time on or prior to the final Termination Trade Date and (B) in the case of sub-clause (ii), UBS must deliver the relevant Accelerated Termination
+Notice (as defined below) within five Business Days of UBS receiving notice of the relevant increase in order to exercise such termination right. UBS can exercise this termination right by delivering a termination notice to Counterparty (an
+“ Accelerated Termination Notice ” for purposes of this Clause 3(a)). Such Accelerated Termination Notice shall specify the final Termination Trade Date and the proposed Termination Settlement Date. Upon the termination of the
+Transaction pursuant to this Clause 3(a), Counterparty shall pay an additional amount to UBS equal to the applicable Breakage Costs on the Obligation Termination Date (which payment obligation of Counterparty shall survive the termination of the
+Transaction). 
+
+ Page 6 
+
+ Effect of Designation of Early Termination Date 
+
+ (b) If there occurs or is effectively designated an Early Termination Date under the Master Agreement, then (i) notwithstanding any contrary or otherwise
+inconsistent provision of the Master Agreement, the provisions set forth in Section 6(e) of the Master Agreement shall not apply to the Transaction and the amount of all payments in respect of each Terminated Obligation shall not be an amount
+determined in accordance with Section 6(e) of the Master Agreement but shall instead be the Counterparty Second Floating Amount or UBS Floating Amount (as the case may be) determined in accordance with Clause 4 (subject, in the case of Clause
+4(a), to the limitations set forth therein with respect to Counterparty relying on such provision), together with any Counterparty First Floating Amount, any UBS Fixed Amount and Breakage Costs (if any) determined in accordance with this
+Confirmation and subject to netting under the Master Agreement, (ii) the party that designated such Early Termination Date (or the Non-Defaulting Party in the case of an automatic designation) will promptly deliver a notice (an
+“ Accelerated Termination Notice ” for purposes of this Clause 3(b)) to the other party (which Accelerated Termination Notice shall specify the final Termination Trade Date and the proposed Termination Settlement Date and may
+form part of any notice designating such Early Termination Date) and (iii) the amount, if any, payable in respect of such Early Termination Date will be determined in accordance with this Confirmation based upon the delivery of such Accelerated
+Termination Notice. Notwithstanding the foregoing, upon the termination of the Transaction pursuant to this Clause 3(b) other than as a result of an Event of Default or Termination Event with respect to which UBS is the Defaulting Party or an
+Affected Party, Counterparty shall pay an additional amount to UBS equal to the applicable Breakage Costs on the Obligation Termination Date (which payment obligation of Counterparty shall survive the termination of the Transaction); provided
+ that Counterparty shall not be required to pay any Breakage Costs in the event of termination of the Transaction as a result of (i) an Additional Termination Event pursuant to Clause 3(c)(i) if the related “Event of Default” (as
+defined in the Reference Obligation Indenture) is a direct result of any action or omission by Party A or any of its Affiliates or (ii) an Additional Termination Event pursuant to Clause 3(c)(ii). 
+
+ Additional Termination Events 
+ (c) Each of the following
+shall constitute an Additional Termination Event under the Master Agreement with respect to which Counterparty is the sole Affected Party and all Transactions entered into under this Confirmation shall constitute Affected Transactions: 
+
+ (i) 
+ the occurrence of an “Event of Default” under (and as defined in) the Reference Obligation Indenture (provided that, for purposes of this Confirmation and the Master Agreement, the determination of whether an
+“Event of Default” (as so defined) has occurred with respect to any amount due and payable on the Reference Obligation on the stated maturity thereof shall be made (x) without giving effect to the first sentence of Section 2.7(g)
+of the Reference Obligation Indenture and (y) without giving effect to any grace period in Section 5.1(a) or Section 5.1(b)(i) of the Reference Obligation Indenture); and 
+
+ (ii) 
+ if and for so long as any UBS Holder holds any part of the Reference Obligation as a hedge for the Transaction, either (A) the ownership by such UBS Holder of the Reference Obligation (or any portion thereof) or
+(B) the compliance by such UBS Holder with its obligations under the Reference Obligation Indenture or under the Reference Obligation would violate any law, rule or regulation of any governmental, regulatory or judicial authority applicable to
+such UBS Holder. 
+
+ Page 7 
+
+ 4. F INAL P RICE D ETERMINATION . 
+
+ Following the termination of the Transaction (i) pursuant to Clause 3 or (ii) by reason of the occurrence of the Scheduled Termination Date (other
+than in connection with a Repayment), the Final Price for each Terminated Obligation will be determined in accordance with this Clause 4. 
+ (a) If any UBS
+Holder holds the Reference Obligation as a hedge for such Terminated Obligation, subject to sub-clauses (i), (ii) and (iii) below, Counterparty may identify an Approved Dealer that has submitted a Firm Bid to acquire the Reference
+Obligation from UBS or any such Affiliate, in each case by giving notice of such Firm Bid to UBS. Such notice must be given no later than 10 a.m. (New York time) on the applicable Termination Trade Date. So long as (i) any sale by UBS or such
+Affiliate of the Reference Obligation or applicable portion thereof to such Approved Dealer (as applicable) is (A) not prohibited under applicable law or regulation and (B) substantially in accordance with the then-current market practice
+in the principal market for, and transfer restrictions with respect to, the Reference Obligation (as determined by the Calculation Agent) and at prevailing market price, (ii) all payment and collateral delivery obligations of Counterparty have
+otherwise been satisfied when due under this Confirmation and the Master Agreement and (iii) no Event of Default or Additional Termination Event has occurred or is continuing with respect to Counterparty, in each case on the date Counterparty
+delivers such notice, (x) if a retransfer is necessary in order for UBS to be able to unwind its hedge position (or the applicable portion thereof) and accept such Firm Bid, UBS or such Affiliate shall take, on or promptly following the
+Termination Trade Date all actions within its reasonable control necessary to cause such retransfer of the Reference Obligation to UBS or such Affiliate, (y) subject (only where such retransfer is necessary for UBS to unwind its hedge position
+(or the applicable portion thereof) and accept such Firm Bid) to such retransfer of the Reference Obligation having occurred in accordance with UBS’ instructions, UBS or such Affiliate shall accept such Firm Bid and transfer the Reference
+Obligation or portion thereof to such Approved Dealer and (z) the net cash proceeds received by UBS or such Affiliate from the sale of the Reference Obligation or portion thereof (exclusive of accrued interest and capitalized interest), net of
+the related Costs of Assignment, shall be the “Final Price” for the relevant Reference Obligation or portion thereof. In the event that such transfer of the Reference Obligation or portion thereof to such Approved Dealer does not occur
+(I) as a result of a breach by UBS of its obligations under this Section 4(a), the Final Price for the Terminated Obligation shall be determined based on the Firm Bid provided by such Approved Dealer or (II) other than as a result of a
+breach by UBS of its obligations under this Section 4(a), the Final Price for the Terminated Obligation shall be determined pursuant to Section 4(b) below. 
+
+ (b) If the Final Price for the Terminated Obligation is not determined in accordance with clause (a) above, then the Calculation Agent shall attempt to
+obtain Firm Bids for the Terminated Obligation with respect to the applicable Termination Trade Date from three or more Dealers. The Calculation Agent will give Counterparty notice of its intention to obtain Firm Bids pursuant to this Clause 4 (such
+notice to be given telephonically and via electronic mail) not later than 5:00 p.m. New York time on the date three Business Days prior to the bid submission deadline as shall be specified by the Calculation Agent in each of its requests for Firm
+Bids for the Terminated Obligation with respect to the applicable Termination Trade Date. By notice to UBS not later than such bid submission deadline, Counterparty may, but shall not be obligated to, designate any Dealer to provide a Firm Bid (and
+the Calculation Agent will seek a Firm Bid from such Dealer if so designated by Counterparty on a timely basis). 
+ In seeking to obtain a Firm Bid from any
+Dealer, the Calculation Agent will deliver to such Dealer the following information: (1) a copy of the Reference Obligation Indenture (and each Transaction Document referred to (and as defined) therein); and (2) a copy of each Monthly
+Report delivered under (and as defined in) the Reference Obligation Indenture within the last 12 months. Such Dealers must provide the Calculation Agent with a Firm Bid within one Business Day of the Calculation Agent’s
+
+ Page 8 
+
+request for such Firm Bid in order for the Calculation Agent to consider such Firm Bid in its determinations of the Final Price under this Clause 4(b). In seeking to obtain a Firm Bid from any
+Dealer, the Calculation Agent will, to the extent practicable, afford such Dealer with an opportunity, to the extent requested by such Dealer, to ask questions of, and receive information from, the persons or entities responsible for the management
+of the Reference Entity. 
+ UBS may, but is not obligated to, sell or cause the sale of any portion of a Terminated Obligation to any Dealer that provides a
+Firm Bid for purposes of this Clause 4(b). 
+ If the Calculation Agent is able to obtain at least one Firm Bid or combination of Firm Bids for all of the
+Notional Amount allocable to a Terminated Obligation, the Final Price for such Terminated Obligation shall be determined by reference to the highest such Firm Bid or combination of Firm Bids received by the Calculation Agent within one Business Day
+of its request therefor. If no Firm Bids are obtained as provided above in this Clause 4 for all or a portion of a Terminated Obligation, the Final Price shall be deemed to be zero with respect to each portion of such Terminated Obligation for which
+no Firm Bid was obtained. The Calculation Agent will conduct the bid process in accordance with the procedures set forth in this Clause 4 and otherwise in a commercially reasonable manner. 
+
+ Notwithstanding anything to the contrary herein, 
+
+ (i) 
+ the Calculation Agent shall be entitled to disregard any Firm Bid submitted by a Dealer if, in the Calculation Agent’s commercially reasonable judgment, (x) such Dealer is ineligible to accept assignment or
+transfer of the relevant Terminated Obligation or portion thereof, as applicable, substantially in accordance with the then-current market practice in the principal market for such Terminated Obligation, as determined by the Calculation Agent, or
+(y) such Dealer would not, through the exercise of its commercially reasonable efforts, be able to obtain any consent required under any agreement or instrument governing or otherwise relating to such Terminated Obligation to the assignment or
+transfer of such Terminated Obligation or portion thereof, as applicable, to it; and 
+
+ (ii) 
+ if the Calculation Agent determines that the highest Firm Bid obtained in connection with the applicable Termination Trade Date is not bona fide due to (x) the bankruptcy or insolvency of the bidder or
+(y) the inability, failure or refusal (or reasonably expected inability, failure or refusal) of the bidder to settle the purchase of such Terminated Obligation or portion thereof, as applicable, or otherwise settle transactions in the relevant
+market or perform its obligations generally, that Firm Bid shall be disregarded. 
+ If the highest Firm Bid for any portion of such Terminated
+Obligation is disregarded pursuant to this paragraph, then (i) if there is at least one other available Firm Bid for such portion, the “ Final Price ” shall be the next highest Firm Bid and (ii) if there are no other
+available Firm Bids for such portion, the Calculation Agent shall have no obligation to obtain further bids, and the applicable “ Final Price ” for the portion which was so disregarded shall be deemed to be zero. 
+
+ If UBS transfers, or causes the transfer of, a Terminated Obligation to the Dealer or Dealers providing the highest Firm Bid or combination of Firm Bids, the
+net cash proceeds received from the sale of such Terminated Obligation (which sale shall be scheduled to settle no later than the Relevant Settlement Date), exclusive of accrued interest and capitalized interest and net of any Costs of Assignment,
+shall be the “ Final Price ” for such Terminated Obligation (or the portion thereof that is sold). 
+
+ Page 9 
+
+ If UBS determines, in its sole discretion, not to sell or cause the sale of any portion of such Terminated
+Obligation to the entity or entities providing the highest Firm Bid or combination of Firm Bids, the “ Final Price ” for such unsold portion shall be equal to such highest Firm Bid (or combination of Firm Bids) multiplied by
+the portion of the Notional Amount allocable to such Terminated Obligation (or the respective portions of the Notional Amount to which such Firm Bids relate). The Calculation Agent may perform any of its duties under this Clause 4(b) through any
+Affiliate designated by it, but no such designation shall relieve the Calculation Agent of its duties under this Clause 4(b). 
+ (c) In the event that
+(i) the Final Price for all or any part of the Terminated Obligation is deemed to be zero pursuant to the foregoing and (ii) any UBS Holders holds the Reference Obligation as a hedge for such Terminated Obligation, UBS and Counterparty
+will make commercially reasonable efforts to accomplish the assignment or other transfer to Counterparty (free of payment by Counterparty other than Costs of Assignment incurred by UBS or any of its Affiliates in effecting the transfer and provided
+that all other payment and collateral delivery obligations of Counterparty are otherwise fulfilled under the Master Agreement at the time of such transfer) of the relevant Terminated Obligation (or the relevant portion thereof) for which the Final
+Price is deemed to be zero; provided, that UBS shall not be liable for any losses related to any delay in or failure of such assignment beyond its control. Counterparty shall reimburse UBS for all Costs of Assignment incurred by UBS in effecting the
+transfer promptly following UBS’ demand therefor. 
+ 5. [R ESERVED ] 
+
+ 6. A DJUSTMENTS . 
+ If the Reference
+Obligation or any portion thereof is irreversibly converted or exchanged into or for any securities, obligations or other assets or property (“ Exchange Consideration ”), or any payment on the Reference Obligation is paid in
+the form of any Exchange Consideration that is not cash, thereafter such Exchange Consideration will constitute the Reference Obligation or portion thereof and, after consultation with the parties, the Calculation Agent shall, after consultation
+with the parties, adjust the terms of the Transaction as the Calculation Agent determines appropriate to preserve the theoretical value of the Transaction to the parties immediately prior to such exchange or, if such exchange results in a change in
+value, the proportionate post-exchange value, and determine the effective date of such adjustments. 
+ 7. R EPRESENTATIONS ,
+W ARRANTIES AND A GREEMENTS . 
+ (a) Each party hereby agrees as follows, so long as either party has or may
+have any obligation under the Transaction. 
+
+ (i) 
+ Non-Reliance . It is acting for its own account, and it has made its own independent decisions to enter into the Transaction and as to whether the Transaction is appropriate or proper for it based upon its own
+judgment and upon advice from such advisors as it has deemed necessary. It is not relying on any communication (written or oral) of the other party as investment advice or as a recommendation to enter into the Transaction; it being understood that
+information and explanations related to the terms and conditions of the Transaction shall not be considered investment advice or a recommendation to enter into the Transaction. It has not received from the other party any assurance or guarantee as
+to the expected results of the Transaction; 
+
+ (ii) 
+ Evaluation and Understanding . It is capable of evaluating and understanding (on its own behalf or through independent professional advice), and understands and accepts, the terms, conditions and risks of the
+Transaction. It is also capable of assuming, and assumes, the financial and other risks of the Transaction; 
+
+ Page 10 
+
+ (iii) 
+ Status of Parties . The other party is not acting as a fiduciary or an advisor for it in respect of the Transaction; 
+
+ (iv) 
+ Reliance on its Own Advisors . Without limiting the generality of the foregoing, in making its decision to enter into, and thereafter to maintain, administer or terminate, the Transaction, it will not rely on any
+communication from the other party as, and it has not received any representation or other communication from the other party constituting, legal, accounting, business or tax advice, and it will consult its own legal, accounting, business and tax
+advisors concerning the consequences of the Transaction; and 
+
+ (v) 
+ U.S. Tax Treatment. In connection with the Transaction, it will, for U.S. Federal income tax purposes (and to the extent permitted by law, state and local income tax purposes): (w) treat the Counterparty as
+having retained beneficial ownership of all of the economic benefits and burdens of ownership of the Reference Obligation, the Pledged Notes and each Portfolio Asset at all times during the pendency of the Transaction (except after a default by
+either party) and all payments made in respect of the Reference Obligation and the Pledged Notes as having been made directly to the Counterparty; (x) treat the Transaction (including the Credit Support Annex to the Transaction, but excluding
+any Separate Transaction), taken together with the issuance of the Reference Obligation to the UBS Holder, as a single loan of USD 76,500,000 from UBS to the Counterparty secured by the Reference Obligation and the Pledged Notes, maturing on the
+Scheduled Termination Date and which is not a contingent debt instrument described in Treas. Regs. Section 1.1275-4; (y) treat the Counterparty First Floating Amounts as interest paid on an obligation issued in registered form to a U.S.
+person (within the meaning of Section 7701(a)(30) of the Code) in respect of the loan described in clause (x); and (z) not treat the issuance of the Reference Obligation to the UBS Holder as creating a partnership or otherwise as an equity
+interest in the Reference Entity. The parties agree to file all tax forms, returns and withholding certificates (including, without limiting the foregoing, U.S. Internal Revenue Service Form 1099 and any withholding certificates required to be
+provided pursuant to the Schedule to the Master Agreement) consistent with this treatment, and the Counterparty agrees to provide copies of all withholding tax certificates relating to the Reference Obligation and the Portfolio Assets reasonably
+requested by the trustee under the Reference Obligation Indenture. 
+ References in this Clause 7(a) to “the other party” shall, in
+the case of UBS and where the context so allows, include references to any Affiliate of UBS. 
+ (b) Each party acknowledges and agrees that, so long as
+either party has or may have any obligation under the Transaction: 
+
+ (i) 
+ the Transaction does not create any direct or indirect obligation of the Reference Entity or any Portfolio Asset Obligor or any direct or indirect participation in the Reference Obligation, any Portfolio Asset or any
+other obligation of the Reference Entity or any Portfolio Asset Obligor; 
+
+ (ii) 
+ each party and its Affiliates may deal in the Reference Obligation and any Portfolio Asset and may accept deposits from, make loans or otherwise extend credit to, and generally engage in any kind of commercial or
+investment banking or other business with the Reference Entity, any Portfolio Asset Obligor or any Affiliate of the Reference Entity or any Portfolio Asset Obligor, any other person or entity having obligations relating to the Reference Entity or
+any Portfolio Asset Obligor and may act with respect to such business in the same manner as if the Transaction did not exist and may originate, purchase, sell, hold or trade, and may exercise consensual or remedial rights in respect of, obligations,
+securities or other financial instruments of, issued by or linked to the Reference Entity or any Portfolio Asset Obligor, regardless of whether any such action might have an adverse effect on the Reference Entity or any Portfolio Asset Obligor, the
+value of the Reference Obligation or any Portfolio Asset or the position of the other party to the Transaction or otherwise; 
+
+ Page 11 
+
+ (iii) 
+ with respect to information regarding the Reference Entity, any Portfolio Asset Obligor or any Affiliate of the Reference Entity or any Portfolio Asset Obligor that is or may be material in the context of the
+Transaction: 
+ (A) each party and its Affiliates and the Calculation Agent may, whether by virtue of the types of
+relationships described herein or otherwise, at the date hereof or at any time hereafter, be in possession of information regarding the Reference Entity, any Portfolio Asset Obligor or any Affiliate of the Reference Entity or any Portfolio Asset
+Obligor that is or may be material in the context of the Transaction and that may or may not be publicly available or known to the other party. In addition, this Confirmation does not create any obligation on the part of such party and its
+Affiliates to disclose to the other party any such relationship or information (whether or not confidential); 
+ (B) Counterparty understands
+that UBS and its Affiliates are engaged in a wide range of financial services and businesses, including investment management, financing, securities trading, corporate and investment banking and research (such services and businesses are
+collectively referred to in this Clause 7(b)(iii) as “ Activities ”) and may engage in the Activities with or on behalf of one or more of the Reference Entity, the Portfolio Asset Obligors and their respective Affiliates.
+Furthermore, UBS or its Affiliates may, in undertaking the Activities, engage in trading in financial products or undertake other investment businesses for its own account or on behalf of others (including one or more of the Reference Entity, the
+Portfolio Asset Obligors and their respective Affiliates and including holding, for its own account or on behalf of others, equity, debt and similar positions in one or more of the Reference Entity, the Portfolio Asset Obligors and their respective
+Affiliates), including trading in or holding long, short or derivative positions in securities, loans or other financial products of one or more of the Reference Entity, the Portfolio Asset Obligors and their respective Affiliates. Counterparty
+understands and agrees that in engaging in the Activities, (x) UBS or its Affiliates may now or in the future have interests or take actions that may conflict with the interests of Counterparty and (y) officers and employees of UBS or its
+Affiliates (including those responsible for negotiating the Transaction) may currently have and later may receive or otherwise obtain information concerning one or more of the Reference Entity, the Portfolio Asset Obligors and their respective
+Affiliates (including information concerning mergers, acquisitions, divestitures, restructurings, defaults under material agreements, creditors’ rights proceedings or other matters that may affect the value of the Reference Obligation or any
+Portfolio Asset or the ability of the Reference Entity or any Portfolio Asset Obligor to perform its obligations thereunder), which information may not be available to Counterparty and may be material to a decision to enter into the Transaction (the
+“ Excluded Information ”). Counterparty acknowledges that it has determined to enter into the Transaction notwithstanding its lack of knowledge of the Excluded Information. Counterparty agrees that neither UBS nor any of its
+Affiliates shall have any liability to Counterparty, and Counterparty waives and releases any claims that it might have against UBS or its Affiliates, whether under applicable securities laws or otherwise, with respect to the nondisclosure of the
+Excluded Information in connection with this Confirmation or the Transaction; provided that the Excluded Information shall not and does not affect the truth or accuracy of UBS’s representations or warranties in the Master Agreement or
+this Confirmation; 
+
+ Page 12 
+
+ (C) Counterparty confirms that it (i) is a sophisticated entity with respect to the
+obligations of the type of the Reference Obligation and the Portfolio Assets, (ii) has adequate information concerning the business and financial condition of the Reference Entity and each Portfolio Asset Obligor to make an informed decision
+regarding its entry into this Confirmation and the Transaction, (iii) possesses (individually or through its Affiliates) such knowledge and experience in financial and business matters that it is capable, without reliance on UBS or its
+Affiliates, of evaluating the merits and risks (including tax, legal, regulatory, credit, accounting and other financial matters) of entering into this Confirmation and the Transaction and is financially able to bear such risks, (iv) has such
+knowledge and experience, and has entered into other transactions of a similar economic nature, so as to be aware of the risks and uncertainties inherent in the assumption of rights and obligations of the type contemplated in this Confirmation and
+the Transaction, and (v) has determined that entering into this Confirmation and the Transaction hereunder is suitable and appropriate for it; 
+
+ (D) Counterparty acknowledges that (i) it is solely responsible for making its own independent appraisal and investigation of all risks
+arising under or in connection with this Confirmation and the Transaction, (ii) that it has, independently and without reliance upon UBS or its Affiliates, made its own appraisal and investigation of all risks associated with, and its own
+credit analysis and decision to enter into, this Confirmation and the Transaction based on such documents and information, as it has deemed appropriate and (iii) it will, independently and without reliance upon UBS or its Affiliates, continue
+to be solely responsible for making its own appraisal and investigation of all risks arising under or in connection with, and its own credit analysis and decision to take or not take action under, this Confirmation and the Transaction, based on such
+documents and information as it shall from time to time deem appropriate which may include, in each case, any or all of the following (it being understood that neither UBS nor any of its Affiliates is responsible for or has made any representation
+or warranty with respect to any such matters or information): (x) the financial condition, status and capitalization of the Reference Entity or any Portfolio Asset Obligor; (y) the legality, validity, effectiveness, adequacy or
+enforceability of any agreement, arrangement or document entered into, made or executed in anticipation of, under or in connection with the Reference Obligation or any Portfolio Asset; or (z) the adequacy, accuracy and/or completeness of
+(A) any document in the form approved by the Reference Entity or any Portfolio Asset Obligor concerning the Reference Entity or such Portfolio Asset Obligor (or any of their respective subsidiaries) which, at the request of the Reference Entity
+or such Portfolio Asset Obligor and on its behalf, was prepared in relation to the syndication of the Reference Obligation or any Portfolio Asset or other obligations of the Reference Entity or any Portfolio Asset Obligor and which may or may not
+have been distributed by the arranger(s) of such obligations to selected financial institutions (an “ Information Memorandum ”) and (B) any other information concerning the Reference Entity or any Portfolio Asset Obligor
+delivered by UBS or its Affiliates under or in connection with this Confirmation, the Transaction or any other agreement, arrangement or document entered into, made or executed in anticipation of, under or in connection with the Reference Obligation
+or any Portfolio Asset; and 
+ (E) Counterparty agrees that none of (i) the Master Agreement, (ii) the receipt by UBS or its
+Affiliates of any information (including Excluded Information) concerning one or more of the Reference Entity, the Portfolio Asset Obligors and their respective Affiliates (including information concerning the value of the Reference Obligation or
+any Portfolio Asset or the ability of the Reference Entity or any Portfolio Asset Obligor to perform their respective obligations thereunder) nor (iii) any other matter, shall give rise to any fiduciary or other similar duties (including
+without limitation any duty of trust or confidence) owing by UBS or its Affiliates to Counterparty including any such duty that would prevent or restrict UBS or its Affiliates from acting on behalf of customers (including the Reference Entity, the
+Portfolio Asset Obligors and their respective Affiliates) or for its own account; 
+
+ Page 13 
+
+ (iv) 
+ neither UBS nor any of its Affiliates shall be under any obligation to hedge the Transaction or to own or hold the Reference Obligation or any Portfolio Asset as a result of the Transaction, and UBS and its Affiliates
+may establish, maintain, modify, terminate or re-establish any hedge position or any methodology for hedging at any time without regard to Counterparty. Any such purchases, sales or other transactions will be at the sole discretion of UBS and its
+Affiliates, and Counterparty acknowledges that such transactions may affect the market price of the Reference Obligation and/or the Portfolio Assets. Counterparty acknowledges and agrees that it is not relying on any representation, warranty or
+statement by UBS or any of its Affiliates as to whether, at what times, in what manner or by what method UBS or any of its Affiliates may engage in any hedging activities; 
+
+ (v) 
+ notwithstanding any other provision in this Confirmation or any other document, UBS and Counterparty (and each employee, representative, or other agent of UBS or Counterparty) may each disclose to any and all persons,
+without limitation of any kind, the U.S. tax treatment and U.S. tax structure of the transaction and all materials of any kind (including opinions or other tax analyses) that are provided to them relating to such U.S. tax treatment and U.S. tax
+structure (as those terms are used in Treasury Regulations under Sections 6011, 6111 and 6112 of the Code), other than any information for which nondisclosure is reasonably necessary in order to comply with applicable securities laws. To the extent
+not inconsistent with the previous sentence, UBS and Counterparty will each keep confidential (except as required by law) all information unless the other party has consented in writing to the disclosure of such information. In the event of a
+disclosure with respect to the U.S. tax treatment and U.S. tax structure of this Transaction, the person making the disclosure may disclose all information relevant to an understanding of the U.S. tax treatment and U.S. tax structure of this
+Transaction, but such person may not disclose the identity of the Counterparty, any Reference Entity or any Portfolio Asset; and 
+
+ (vi) 
+ if UBS chooses to hold (either directly or indirectly) the Reference Obligation as a result of the Transaction, UBS may deal with the Reference Obligation as if the Transaction did not exist (and, without limiting the
+generality of the foregoing, UBS shall have no duty to Counterparty with respect to any such direct or indirect ownership of the Reference Obligation). 
+
+ (c) 
+ Each of the parties hereby represents that, on the date on which the Transaction is entered into hereunder: 
+
+ (i) 
+ it is entering into the Transaction for investment, financial intermediation, hedging or other commercial purposes; 
+
+ (ii) 
+ (x) it is an “eligible contract participant” as defined in the U.S. Commodity Exchange Act, as amended (the “ CEA ”), (y) the Master Agreement and each Transaction are subject to
+individual negotiation by each party, and (z) neither the Master Agreement nor the Transaction will be executed or traded on a “trading facility” within the meaning of Section 1a(33) of the CEA; and 
+
+ (iii) 
+ (A) the Master Agreement (including the Credit Support Annex) and each Transaction entered into under this Confirmation is a “swap agreement” within the meaning given to such term under
+Section 101(53B) of the United States Bankruptcy Code of 1978, as amended (the “ Bankruptcy Code ”) and (B) it is a “swap participant” within the meaning given to such term under Section 101(53C)
+of the Bankruptcy Code. 
+
+ Page 14 
+
+ (d) 
+ Counterparty hereby represents to UBS that: 
+
+ (i) 
+ its investments in and liabilities in respect of the Transaction, which it understands is not readily marketable, is not disproportionate to its net worth, and it is able to bear any loss in connection with the
+Transaction, including the loss of its entire investment in the Transaction; 
+
+ (ii) 
+ it understands no obligations of UBS to it hereunder will be entitled to the benefit of deposit insurance and that such obligations will not be guaranteed by any Affiliate of UBS or any governmental agency;
+
+ (iii) 
+ it has elected to treat the Reference Entity as an entity disregarded from its owner for United States Federal income tax purposes; 
+
+ (iv) 
+ it can receive all payments on each Portfolio Asset included in the Portfolio without U.S. Federal withholding tax and the relevant Reference Entity or any subsidiary thereof holding a Portfolio Asset, as applicable,
+can (except to the extent otherwise disclosed with respect to the Portfolio Asset prior to the related Trade Date (as defined in the Reference Obligation Indenture)) receive all such payments without foreign withholding tax (which representation,
+subject to any such exception, shall also be made for purposes of Section 3(f) of the Master Agreement); 
+
+ (v) 
+ it has delivered an applicable United States Internal Revenue Service form W-9 (or successor form) with respect to withholding tax required to be delivered by it pursuant to Part 3 of the Schedule to the Master
+Agreement (and this representation will also be deemed made pursuant to Section 3(f) of the Master Agreement); 
+
+ (vi) 
+ it is not, for U.S. Federal income tax purposes, a tax exempt organization for purposes of Section 514 of the U.S. Internal Revenue Code of 1986, as amended, and, unless any such organization that invests in
+Counterparty does so only indirectly through an entity that is not transparent for U.S. Federal income tax purposes, there is disclosure to such organization that such organizations may recognize unrelated business taxable income; 
+
+ (vii) 
+ it has obtained tax advice from its auditors or external legal counsel, in either case of recognized standing in relation to U.S. Federal income tax matters, that considered the U.S. tax treatment of the Transaction to
+which this Confirmation relates; and 
+
+ (viii) 
+ it has obtained its own advice as to the proper tax characterization of the transaction in all jurisdictions, including for the avoidance of doubt the United States, and is not relying on UBS or its advisors in respect
+of such matters in any respect. 
+
+ (e) 
+ UBS hereby represents to Counterparty that 
+
+ (i) 
+ UBS will provide to the Counterparty and the Reference Entity a valid Form W-9 provided by UBS Securities LLC and attached to a valid Form W-8IMY (or successor thereto), that the Counterparty and the Reference Entity
+may reliably associate all payments to be made by either of them pursuant to the Transaction with such forms, and therefore may treat all such payments under the Transaction as made to a U.S. person within the meaning of Treas. Regs.
+
+Section 1.1441-1(d)(4); 
+
+ (ii) 
+ the Transaction to which this Confirmation relates is entered into by UBS through an office located within the United States, or U.S. personnel of UBS materially participated in this Transaction for U.S. Federal income
+tax purposes and UBS is acting solely as an agent of UBS Securities LLC, a person that is a “U.S. person” as that term is defined under IRC Section 7701(a)(30); 
+
+ Page 15 
+
+ (iii) 
+ except to the extent necessary to enable UBS to exercise any of its rights under Paragraph 6(c) of the Credit Support Annex, that UBS is under no legal or contractual obligation to treat the Reference Obligation issued
+to it, any Pledged Notes pledged under the Credit Support Annex or any Portfolio Asset as legally or beneficially owned by any person other than the Counterparty; and 
+
+ (iv) 
+ that UBS has obtained its own advice as to the proper tax characterization of the transaction in all jurisdictions, including for the avoidance of doubt the United States, and is not relying on the Counterparty or its
+advisors in respect of such matters in any respect. 
+ (f) Except for disclosure authorized pursuant to Clause 7(b)(v), Counterparty agrees to
+be bound by the confidentiality provisions of the Reference Obligation Indenture (and of each credit or loan agreement governing each Portfolio Asset) with respect to all information and documentation in relation to the Reference Entity or any
+Portfolio Asset Obligor or the Reference Obligation or any Portfolio Asset delivered to Counterparty hereunder. Counterparty acknowledges that such information may include material non-public information concerning one or more of the Reference
+Entity, the Portfolio Asset Obligors and their respective securities and agrees to use such information in accordance with applicable law, including Federal and State securities laws. In addition, Counterparty agrees to keep confidential any
+internal rating supplied by UBS to Counterparty with respect to any Portfolio Asset. 
+ (g) Notwithstanding anything in the Master Agreement to the
+contrary, UBS will not be required to pay any additional amount under Section 2(d)(i) of the Master Agreement in respect of any deduction or withholding for or on account of any Tax in relation to any payment under the Transaction. If UBS is
+required by any applicable law, as modified by the practice of any relevant governmental revenue authority, to make any deduction or withholding for or on account of any Tax in relation to any payment under the Transaction and UBS does not so deduct
+or withhold, then Section 2(d)(ii) of the Master Agreement shall be applicable. 
+ (h) If an “Event of Default” under (and as defined in) the
+Reference Obligation Indenture occurs, then UBS may give notice to Counterparty (so long as such event is continuing on the date of such notice) that UBS, in its capacity as Valuation Agent under (and as defined in) the Reference Obligation
+Indenture, has elected to exercise exclusively on behalf of the Reference Entity and each subsidiary thereof all rights of the Reference Entity to purchase and dispose of, and to exercise all voting and other consensual rights with respect to, and
+to make all other determinations and decisions with respect to the ownership of, the Portfolio Assets held or to be acquired by the Reference Entity, pursuant to Section 12.1(c) of the Reference Obligation Indenture. 
+
+ 8. A DJUSTMENTS R ELATING TO C ERTAIN U NPAID OR 
+R ESCINDED P AYMENTS . 
+ (a) If (i) UBS makes any payment to Counterparty as provided under Clause 2 and the
+corresponding Interest and Fee Amount is not paid (in whole or in part) when due or (ii) any Interest and Fee Amount in respect of the Reference Obligation is required to be returned (in whole or in part) by a holder of the Reference Obligation
+(including, without limitation, the UBS Holder) to the applicable Reference Entity or paid to any other person or entity or is otherwise rescinded pursuant to any bankruptcy or insolvency law or any other applicable law, then (i) each payment
+obligation under the Transaction related to such payment shall be recomputed by the Calculation Agent as if such unpaid or returned amount had not been paid and (ii) Counterparty will pay to UBS, within five Business Days following receipt of
+notice from UBS, such amount (or portion thereof) so not paid or so required to be returned, paid or otherwise rescinded. If such returned, paid or otherwise rescinded amount is subsequently paid, UBS shall pay such amount (subject to Clause 8(c))
+to Counterparty within five Business Days after the date of such subsequent payment. 
+
+ Page 16 
+
+ (b) [reserved] 
+
+ (c) Amounts payable pursuant to this Clause 8 shall be subject to adjustment by the Calculation Agent in good faith and on a commercially reasonable basis, as
+agreed by UBS and Counterparty, in order to preserve for the parties the intended economic risks and benefits of the relevant Transaction; provided that (i) no amounts in respect of interest shall be payable by either party on any adjusted
+amount and (ii) the Calculation Agent in performing the calculations pursuant to this Clause 8 will assume that no interest has accrued on any adjusted amount. 
+
+ (d) The payment obligations of UBS and Counterparty pursuant to this Clause 8 shall survive the termination of the Transaction. 
+
+ 9. C REDIT S UPPORT . 
+
+ Notwithstanding anything in the Credit Support Annex (the “ Credit Support Annex ”) to the Schedule to the Master Agreement to the
+contrary, the following collateral terms shall apply to the Transaction to which this Confirmation relates. Capitalized terms used in this Clause 9 but not otherwise defined in this Confirmation have the respective meanings given to such terms in
+the Credit Support Annex. In the event of any conflict between the Credit Support Annex and these “Collateral Provisions”, these “Collateral Provisions” shall prevail. 
+
+ (a) Counterparty shall Transfer Eligible Collateral to UBS pursuant to the terms of the Credit Support Annex between UBS and Counterparty, as amended hereby.
+For purposes of said Credit Support Annex, the Independent Amount applicable to Counterparty in respect of the Transaction to which this Confirmation relates shall, on any Valuation Date, be equal to the aggregate Value of the Pledged Notes, and
+Counterparty’s obligations to transfer collateral to UBS in respect of such Independent Amount shall at all times be satisfied by the Pledged Notes being Transferred to UBS in accordance with the terms of the Credit Support Annex. 
+
+ (b) The definition of Exposure in Paragraph 12 of the Credit Support Annex is hereby amended and restated in its entirety to read: 
+
+ UBS’s “ Exposure ” as Secured Party for all of the Transactions entered into hereunder and any Valuation Date or other date
+for which Exposure is calculated shall mean the excess, if any, of the Net Collateral Value Deficit over the Variation Margin Threshold on such date. 
+ (c)
+The “ Minimum Transfer Amount ” with respect to Counterparty as of any Valuation Date shall be U.S.$100,000; provided that the Minimum Transfer Amount for Counterparty shall be zero (1) for purposes of determining
+any Delivery Amount required to be Transferred by Counterparty in respect of any Independent Amount and (2) at any time when an Event of Default, Potential Event of Default, Termination Event or event which with the giving of notice or lapse of
+time would (absent the cure thereof during any applicable grace period) constitute a Termination Event has occurred and is continuing with respect to which Counterparty is (or would be) the Defaulting Party or Affected Party. 
+
+ (d) Solely for purposes of the first demand (and not any subsequent demand) made by UBS as Secured Party for any Transfer of Eligible Credit Support by
+Counterparty in respect of a Delivery Amount (or the applicable portion thereof) that is due to an increase in the Exposure of UBS as Secured Party (and not, for the avoidance of doubt, the Transfer of the Pledged Notes in satisfaction of
+Counterparty’s obligations 
+
+ Page 17 
+
+in respect of the Independent Amount) made or deemed made by UBS pursuant to Clause 9(a) above), Paragraph 4(b) of the Credit Support Annex shall be amended by (i) replacing the words
+“next Local Business Day” with “tenth Local Business Day thereafter” and (ii) replacing the words “second Local Business Day thereafter” with “eleventh Local Business Day thereafter”. UBS shall make no
+further demand for the Transfer of Eligible Credit Support by Counterparty in respect of a Delivery Amount (or the applicable portion thereof) that is due to an increase in UBS’ Exposure until such tenth or eleventh (as applicable) Local
+Business Day period has expired, whereupon the Transfer timing provisions of Paragraph 4(b) shall apply as set forth in the Credit Support Annex without regard to the provisions of this Clause 9(d). 
+
+ (e) Notwithstanding anything to the contrary herein or in the Credit Support Annex, (i) the Threshold with respect to UBS shall be infinity, (ii) in
+no event shall Counterparty have any positive Exposure as a Secured Party to UBS with respect to the Transaction to which this Confirmation relates and (iii) accordingly, (A) Counterparty shall be the only “Pledgor” and UBS shall
+be the only “Secured Party” for all purposes of the Credit Support Annex and (B) only the Counterparty makes the pledge and grant in Paragraph 2 of the Credit Support Annex, the acknowledgment in the final sentence of Paragraph 8(a)
+of the Credit Support Annex and the representations in Paragraph 9 of the Credit Support Annex. 
+ (f) In no event shall Counterparty’s Credit Support
+Amount as Pledgor be less than the Independent Amount for the Transaction to which this Confirmation relates. Accordingly, in no event shall the Pledged Notes be Transferred to Counterparty until the Termination Date. 
+
+ (g) UBS shall be the sole Valuation Agent for purposes of the Transaction to which this Confirmation relates and each Business Day shall be a Valuation Date.
+
+ (h) Notwithstanding anything in this Confirmation to the contrary, for purposes of determining the portion of the Exposure that is attributable to a
+Portfolio Asset (or portion thereof) that is being sold or has been repaid, the Par Amount of such Portfolio Asset shall not be reduced to reflect such sale or repayment until the Business Day next succeeding the settlement date of such sale or the
+date on which such repayment occurs, as the case may be. In addition, if the Reference Entity sells any Portfolio Asset and the settlement date for such sale occurs after the date customary for settlement substantially in accordance with the
+then-current market practice in the principal market for such Portfolio Asset (as determined by the Calculation Agent), then Unrealized Capital Appreciation and Unrealized Capital Depreciation will continue to vary until the actual settlement date
+(and, for this purpose, each of Unrealized Capital Appreciation and Unrealized Capital Depreciation with respect to such Portfolio Asset shall be determined until such date of actual settlement as if no sale price had been established until the date
+of settlement of the relevant sale). 
+ (i) The provisions of Paragraph 5 of the Credit Support Annex shall be superseded and replaced in their entirety by
+Counterparty’s dispute rights with respect to the Current Price of any Portfolio Asset as set forth in the definition of “Current Price”. 
+
+ Page 18 
+
+ 10. N OTICE AND A CCOUNT D ETAILS . 
+
+ Notices to UBS: 
+ UBS AG, London Branch
+
+ Structured Funding 
+ Attn:
+Ben Stewart 
+ 1285 Avenue of the Americas 
+
+ New York, NY 10019-6064 
+ Tel:
+(203) 719-1611 
+ E-mail: OL-Cyrus-TRS@ubs.com 
+
+ With copies to: 
+ E-mail:
+DL-IR-STM-TEAM@ubs.com 
+ E-mail: SH-OTC-Credit-Setts@ubs.com 
+
+ E-mail: OL-CTM@ubs.com 
+ Notices to
+Counterparty: 
+ CM Finance LLC 
+
+ 399 Park Avenue, 39 th Floor 
+
+ New York, NY 10022 
+ Attention:
+Stephon Barnes, Christopher E. Jansen and Michael C. Mauer 
+ Tel: (212) 380-5904 
+
+ Email: cjansen@cyruscapital.com , mmauer@cyruscapital.com and ops@cyruscapital.com 
+
+ Payments to UBS: 
+ Favour: UBS AG,
+Stamford Branch Swift Address: UBSWUS33XXX 
+ Further Credit To: UBS AG, London Branch 
+
+ Swift Address: UBSWGB2LXXX 
+
+ Account No: 101-WA-140007-000 
+ Payments to
+Counterparty: 
+ Bank: JPMorgan Chase New York, NY 
+
+ ABA: 021-000-021 
+ Account of:
+GOLDMAN SACHS & CO., NEW YORK 
+ A/C #: 066642426 
+
+ FFC Account Name: CM Finance LLC 
+
+ FFC Account #: 002-49512-5 
+ 11.
+O FFICES . 
+
+ (a) 
+ The Office of UBS for the Transaction: 
+ London 
+
+ (b) 
+ The Office of Counterparty for the Transaction: 
+ None 
+
+ Page 19 
+
+ 12. S ETTLEMENT 
+
+ The Transaction hereunder is being entered into by a member of the UBS group (“UBS Party”). For the avoidance of doubt, any payment or delivery
+obligations of the UBS Party in respect of the Transaction may be effected by any of UBS Limited or UBS AG, London Branch or UBS Securities LLC (the “Settlement Agent”). UBS Party has authorized the Settlement Agent to act on its behalf in
+the same manner and with the same force and effect as UBS Party might or could do in connection with any such payment or delivery obligation. 
+
+ - signature page follows - 
+
+ Page 20 
+
+ Please confirm that the foregoing correctly sets forth the terms of our agreement by having a duly authorized
+officer of Counterparty execute this Confirmation and return the same by facsimile to the attention of the individual at UBS indicated on the first page hereof. 
+
+ Yours faithfully 
+ For and on Behalf of 
+
+ UBS AG, London Branch 
+
+ By: 
+
+ /s/ Richard K. Smith 
+
+ By: 
+
+ /s/ Yosmala Sasamura 
+
+ Name: Richard K. Smith
+
+ Name: Yosmala Sasamura
+
+ Title: Authorized Signatory
+
+ Title: Authorized Signatory
+
+ Confirmation – Signature Page 
+
+ Acknowledged and agreed by CM Finance LLC as of the date specified above. 
+
+ CM FINANCE LLC, 
+ as TRS Counterparty 
+
+ By: CM Investment Partners, LP, as Manager 
+
+ By: 
+
+ /s/ Christopher E. Jansen 
+
+ Name: Christopher E. Jansen
+ Title:
+Co Chief Investment Officer
+
+ Confirmation – Signature Page 
+
+ ANNEX A 
+
+ ADDITIONAL DEFINITIONS 
+
+ “ Affiliate ”, for purposes of this Confirmation only, has the meaning given to such term in Rule 405 under the Securities Act of 1933,
+as amended. 
+ “ Approved Dealer ” means (a) any entity listed in Annex B hereto and (b) if an entity listed in Annex B
+hereto is not the principal banking or securities Affiliate within a financial holding company group, the principal banking or securities Affiliate of such listed entity within such financial holding company group; provided that (i) UBS
+may at any time, upon written notice to Counterparty, delete any name listed in such Annex so long as such deletion is consistent with the general application of its internal credit and risk policies with respect to such Approved Dealer (and not
+designed to circumvent the rights of Counterparty hereunder) and (ii) the parties may, at any time, agree in writing to add or remove an Approved Dealer to or from Annex B. 
+
+ “ Breakage Cost Calculation Period ” means, with respect to any termination of the Transaction following the delivery of an Accelerated
+Termination Notice pursuant to Clause 3(a) or 3(b), each period from, and including, one Breakage Cost Hypothetical Payment Date to, but excluding, the next following Breakage Cost Hypothetical Payment Date, except that (a) the initial Breakage
+Cost Calculation Period will commence on, and include, the Obligation Termination Date, and (b) the final Breakage Cost Calculation Period will end on, but exclude, May 23, 2014. 
+
+ “ Breakage Cost Hypothetical Payment Date ” means, with respect to any termination of the Transaction following the delivery of an
+Accelerated Termination Notice pursuant to Clause 3(a) or 3(b), (a) each Payment Date, commencing on the first Payment Date following the date on which such Accelerated Termination Notice is delivered, and (b) the Scheduled Termination
+Date. 
+ “ Breakage Costs ” means, with respect to any termination of the Transaction following the delivery of an Accelerated
+Termination Notice pursuant to Clause 3(a) or 3(b), an amount equal to the sum, determined with respect to each Breakage Cost Calculation Period occurring after the date on which such Accelerated Termination Notice is delivered, of the product of
+the following: 
+ (a) USD 76,500,000, 
+ (b) the Floating Rate
+Day Count Fraction (determined based on the actual number of days in such Breakage Cost Calculation Period), and 
+ (c) the Spread, 
+
+ discounted from the Breakage Cost Hypothetical Payment Date occurring immediately following the end of such Breakage Cost Calculation Period to the Obligation
+Termination Date; provided that such present value shall be determined using the discount factor implied by the mid-point between the forward bid and offered side LIBOR curves for fixed-for-floating LIBOR swaps of the relevant tenors. 
+
+ “ Capital Appreciation ” and “ Capital Depreciation ” mean, for any Total Return Payment Date, the amount
+determined according to the following formula for the applicable Terminated Obligation: 
+ Final Price – Applicable Notional Amount 
+
+ Page A-1 
+
+ where 
+
+ “ Final Price ” means, with respect to any Terminated Obligation, the amount determined pursuant to Clause 4, and 
+
+ “ Applicable Notional Amount ” means the Notional Amount (determined immediately prior to the applicable Termination
+Trade Date) allocable to such Terminated Obligation. 
+ If such amount is positive, such amount is “ Capital Appreciation ” and if
+such amount is negative, the absolute value of such amount is “ Capital Depreciation ”. 
+ “ Code ” means the
+U.S. Internal Revenue Code of 1986, as amended. 
+ “ Collateral Management Agreement ” has the meaning given to such term in the
+Reference Obligation Indenture. 
+ “ Costs of Assignment ” means, in the case of any Terminated Obligation or Portfolio Asset, the sum
+of (a) any costs of any purchase, exchange, sale, transfer or assignment transaction with respect to such Terminated Obligation or Portfolio Asset paid by a person or entity effecting such transaction (including any UBS Holder) under the terms
+of such Terminated Obligation or Portfolio Asset or otherwise actually imposed on such person or entity by any applicable trustee, administrative agent, registrar, borrower or obligor incurred in connection with any such transaction with respect to
+such Terminated Obligation or Portfolio Asset (including, without limitation, any amounts reimbursable by such person or entity in respect of any tax or other governmental charge incurred with respect thereto), (b) any reasonable expenses that
+are incurred by such person or entity in connection with any such transaction and (c) any reasonable administrative, legal or accounting fees, costs and expenses (including, without limitation, any fees and expenses of the trustee of or outside
+counsel to the Reference Entity) that are incurred by such person or entity in connection with any such transaction. 
+ “ Current
+Price ” means, with respect to each Portfolio Asset on any date of determination, the determination by the Valuation Agent’s loan trading desk of the net cash proceeds that would be received from the sale on such date of
+determination of such Portfolio Asset, exclusive of accrued interest and capitalized interest and net of the related expected Costs of Assignment. If, with respect to any date of determination, Counterparty, acting in a commercially reasonable
+manner and in good faith, disputes any such original determination of the Current Price of any Portfolio Asset by the Valuation Agent, then Counterparty may, no later than two New York Business Hours after the notice of such determination is given
+to Counterparty, designate at least one Dealer to provide to the Valuation Agent, within such two New York Business Hour period, a Firm Bid to purchase each such Portfolio Asset (with a quotation amount equal to the Par Amount or (in the case of a
+Delayed Draw Loan) Commitment Amount). Such Firm Bid (or the highest Firm Bid, if more than one) timely received in accordance with the foregoing will be the Current Price of the relevant Portfolio Asset with respect to the relevant date of
+determination. If no such Firm Bid is timely received in accordance with the foregoing, the Current Price of the relevant Portfolio Asset will be the original determination thereof by the Valuation Agent. For the avoidance of doubt, any
+determination of any amount herein (other than any portion of such amount that represents an undisputed amount) consequent upon the determination of a Current Price subject to dispute as provided above shall be delayed until the deadline for the
+provision of Firm Bid(s) (or, if applicable, any such valuation) to the Valuation Agent as aforesaid. The “Current Price” shall be (i) expressed as a percentage of (A) in the case of a Portfolio Asset that is not a Delayed Draw
+Loan, the Par Amount or (B) in the case of a Portfolio Asset that is a Delayed Draw Loan, the Commitment Amount and (ii) determined exclusive of accrued interest and capitalized interest. 
+
+ Page A-2 
+
+ “ Dealer ” means (a) any entity (other than the Calculation Agent or any of its
+Affiliates) designated by the Calculation Agent or its designated Affiliate in its sole discretion as a “Dealer” for the purposes of this Confirmation and (b) to the extent designated by Counterparty as provided in Clause 4(b) or
+pursuant to the definition of “Current Price”, either (i) any Approved Dealer or (ii) any other entity approved in advance by UBS, such approval not to be unreasonably withheld or delayed (it being agreed that UBS may reasonably
+withhold its approval based on the credit standing and its risk assessment of such entity); provided that the Calculation Agent or any Affiliate thereof may be a Dealer if more than one Dealer is designated pursuant to Clause 4. 
+
+ “ Defaulted Portfolio Asset ” means any Portfolio Asset as to which (a) there has occurred a default as to the payment of principal
+and/or interest (without regard to any notice requirement or grace period; provided that any capitalization of interest that is permitted under the terms of the relevant Underlying Instrument shall not constitute a default for purposes of the
+foregoing), (b) such Portfolio Asset is a Participation Interest with respect to which the relevant Selling Institution has defaulted in any respect in the performance of any of its payment obligations under such Participation Interest or
+(c) such Portfolio Asset is a Participation Interest in a loan that would, if such loan were a Portfolio Asset, constitute a “Defaulted Portfolio Asset”; provided that, in each of the cases set forth in clauses (a) through
+(c) above, such Portfolio Asset will only constitute a “Defaulted Portfolio Asset” for so long as such default has not been cured or waived. 
+
+ “ Delayed-Draw Loan ” has the meaning given to such term in the Reference Obligation Indenture. 
+
+ “ Firm Bid ” means, (a) with respect to a Terminated Obligation, a good and irrevocable bid for value to purchase all of such
+Terminated Obligation, expressed as a percentage of the portion of the Notional Amount allocable to such Terminated Obligation and exclusive of accrued interest and capitalized interest, for scheduled settlement no later than the Relevant Settlement
+Date, submitted by (i) in the case of a Firm Bid obtained for purposes of Clause 4(a), an Approved Dealer specified by Counterparty in its sole discretion or (ii) in the case of a Firm Bid obtained for purposes of Clause 4(b), a Dealer
+specified by the Calculation Agent in its sole discretion (or, to the extent permitted by Clause 4(b), Counterparty), in each case as of a time during regular business hours in New York City and (b) with respect to a Portfolio Asset and any
+dispute with respect to the determination of the Current Price thereof, a good and irrevocable bid for value to purchase the Par Amount or (in the case of a Delayed Draw Loan) Commitment Amount of such Portfolio Asset, expressed as a percentage and
+exclusive of accrued interest and capitalized interest, for scheduled settlement within the standard settlement cycle for such Portfolio Asset (with such cycle commencing on the applicable date of submission), submitted by a Dealer specified by the
+Calculation Agent in its sole discretion (or, to the extent permitted by Clause 4(b), Counterparty), in each case as of a time during regular business hours in New York City. 
+
+ “ Insolvency Event ” has the meaning given to such term in the Reference Obligation Indenture. 
+
+ “ Interest and Fee Amount ” means, for any Fixed Amount Payer Calculation Period, the aggregate amount of interest (including, without
+limitation, interest breakage costs, deferred or capitalized interest and interest thereon), fees (including, without limitation, amendment, consent, tender, facility and other similar fees) and other amounts (other than in respect of principal
+repayments) actually paid with respect to the Reference Obligation (after deduction of any withholding taxes for which the relevant Reference Entity is not obligated to reimburse holders of the Reference Obligation, if applicable) during such Fixed
+Amount Payer Calculation Period; provided that Interest and Fee Amounts shall not include any amounts that accrue prior to the Effective Date or that accrue on or after the Obligation Termination Date. 
+
+ Page A-3 
+
+ “ Net Collateral Value ” means, on any date of determination, the excess, if any, of
+(a) the sum of (i) the Total Asset Amount on such date plus (ii) the aggregate Value of all Posted Collateral held by UBS or its Custodian on such date (excluding any Pledged Notes) plus (iii) the Net Unrealized Capital
+Appreciation on such date over (b) the sum of (i) the principal amount of the Reference Obligation outstanding on such date plus (ii) the Net Unrealized Capital Depreciation on such date. 
+
+ “ Net Collateral Value Deficit ” means, on any date of determination, the excess, if any, of (a) the aggregate principal amount of
+Pledged Notes held by the Counterparty that are outstanding on such date over (b) the Net Collateral Value on such date. 
+ “ Net Unrealized
+Capital Appreciation ” means, with respect to all Portfolio Assets in the Portfolio (other than Non-Approved Portfolio Assets, Zero Value Participation Interests and Defaulted Portfolio Assets) and any date of determination, the greater
+of (a) zero and (b) an amount equal to: 
+ (i) the sum, with respect to each such Portfolio Asset in the Portfolio of which the Current Price is
+greater than the Purchase Price of such Portfolio Asset, of (A) such Current Price minus such Purchase Price multiplied by (B) (1) in the case of a Portfolio Asset that is not a Delayed Draw Loan, the Par Amount of such Portfolio Asset or
+(2) in the case of a Portfolio Asset that is a Delayed Draw Loan, the Commitment Amount of such Portfolio Asset, minus 
+ (ii) the sum, with respect to
+each such Portfolio Asset in the Portfolio of which the Current Price of such Portfolio Asset is less than the Purchase Price of such Portfolio Asset, of (A) such Purchase Price minus such Current Price multiplied by (B) (1) in the case of a
+Portfolio Asset that is not a Delayed Draw Loan, the Par Amount of such Portfolio Asset or (2) in the case of a Portfolio Asset that is a Delayed Draw Loan, the Commitment Amount of such Portfolio Asset; 
+
+ provided that, for the purposes of computing the Net Unrealized Capital Appreciation, any such Portfolio Asset that is sold or repaid will be deemed to
+continue to be outstanding in an amount equal to its Par Amount (or in the case of a Delayed Draw Loan, Commitment Amount) until (but excluding) the date of settlement of such sale or the date of such repayment. 
+
+ “ Net Unrealized Capital Depreciation ” means, with respect to all Portfolio Assets in the Portfolio (other than Non-Approved Portfolio
+Assets, Zero Value Participation Interests and Defaulted Portfolio Assets) and any date of determination, the greater of (a) zero and (b) an amount equal to: 
+
+ (i) the sum, with respect to each such Portfolio Asset in the Portfolio of which the Current Price of such Portfolio Asset is less than the Purchase Price of
+such Portfolio Asset, of (A) such Purchase Price minus such Current Price multiplied by (B) (1) in the case of a Portfolio Asset that is not a Delayed Draw Loan, the Par Amount of such Portfolio Asset or (2) in the case of a Portfolio
+Asset that is a Delayed Draw Loan, the Commitment Amount of such Portfolio Asset, minus 
+ (ii) the sum, with respect to each such Portfolio Asset in the
+Portfolio of which the Current Price is greater than the Purchase Price of such Portfolio Asset, of (A) such Current Price minus such Purchase Price multiplied by (B) (1) in the case of a Portfolio Asset that is not a Delayed Draw
+Loan, the Par Amount of such Portfolio Asset or (2) in the case of a Portfolio Asset that is a Delayed Draw Loan, the Commitment Amount of such Portfolio Asset; 
+
+ provided that, for the purposes of computing the Net Unrealized Capital Depreciation, any such Portfolio Asset that is sold or repaid will be deemed to
+continue to be outstanding in an amount equal to its Par Amount (or in the case of a Delayed Draw Loan, Commitment Amount) until (but excluding) the date of settlement of such sale or the date of such repayment. 
+
+ Page A-4 
+
+ “ New York Business Hour ” means any one-hour period that occurs during the period from
+9:00 a.m. (New York time) to 6:00 p.m. (New York time) on any day on which commercial banks are open for business in New York City; provided that if a period is expressed as an amount of New York Business Hours and insufficient New York Business
+Hours exist prior to 6:00 p.m. (New York time) on the relevant day following the commencement of such period, such period shall be deemed to continue on the next succeeding day on which commercial banks are open for business in New York City until
+the relevant period of New York Business Hours has expired. 
+ “ Non-Approved Portfolio Asset ” means any Portfolio Asset which UBS
+has not approved in writing by notice to Counterparty on or prior to the settlement date of the acquisition thereof by the Reference Entity. 
+
+ “ Notes ” means the Class A Notes issued from time to time by the Reference Entity under the Reference Obligation Indenture. 
+
+ “ Participation Interest ” has the meaning given to such term in the Reference Obligation Indenture. 
+
+ “ Relevant Settlement Date ” means the date customary for settlement substantially in accordance with the then-current market practice
+in the principal market for the relevant Reference Obligation (as determined by the Calculation Agent with reference to the relevant Termination Trade Date). 
+
+ “ Relevant Source ” means (a) in the case of an initial Portfolio Asset, the agreement specified as such in Schedule 1 to the
+Reference Obligation Indenture, and (b) otherwise, the indenture, credit agreement, loan agreement or other agreement governing such Portfolio Asset. 
+
+ “ Sale Amount ” means, with respect to any Portfolio Asset that is the subject of a binding commitment of the Reference Entity to sell
+such Portfolio Asset, the anticipated net cash proceeds that will be received by the Reference Entity from the sale of such Portfolio Asset, exclusive of accrued interest and capitalized interest and net of any Costs of Assignment. 
+
+ “ Selling Institution ” has the meaning given to such term in the Reference Obligation Indenture. 
+
+ “ Terminated Obligation ” means the Reference Obligation terminated pursuant to Clause 3. 
+
+ “ Termination Settlement Date ” means, for any Terminated Obligation, (a) if the Final Price is determined by reference to the
+actual sale of a Terminated Obligation pursuant to Clause 4, the date of settlement of such sale and (b) otherwise, the Relevant Settlement Date. 
+
+ “ Termination Trade Date ” means, with respect to any Terminated Obligation, (a) where an Approved Dealer identified by
+Counterparty is acquiring the Reference Obligation or applicable portion thereof from UBS or its Affiliate pursuant to Section 4(a), the Termination Trade Date specified in the applicable Accelerated Termination Notice, or (b) otherwise
+the bid submission deadline as shall be set forth in each of UBS’ requests issued pursuant to Section 4(b) for Firm Bids for the Notional Amount allocable to such Terminated Obligation that are the basis for determining the Final Price of
+such Terminated Obligation. 
+ “ Total Asset Amount ” means, on any date of determination by the Valuation Agent, an amount equal to
+the sum of (a) the aggregate Purchase Amount of all Portfolio Assets in the Portfolio (other than Non-Approved Portfolio Assets, Zero Value Participation Interests and Defaulted Portfolio Assets) on such date; plus (b) the aggregate amount
+of all cash, and the aggregate cost of purchase of all “Eligible Investments” (as defined in the Reference Obligation Indenture), held by the Reference Entity on such date. 
+
+ Page A-5 
+
+ “ Total Return Payment Date ” means, with respect to any Terminated Obligation, the
+Obligation Termination Date in respect of such Terminated Obligation. 
+ “ UBS Holder ” means, if UBS or an Affiliate of UBS holds the
+Reference Obligation or any portion thereof as a result of the Transaction, UBS or such Affiliate, as appropriate. 
+ “ Underlying
+Instrument ’ means the indenture, credit agreement or other agreement pursuant to which a Portfolio Asset has been issued or created and each other agreement that governs the terms of or secures the obligations represented by such
+Portfolio Asset or of which the holders of such Portfolio Asset are the beneficiaries. 
+ “ Variation Margin Threshold ” means, on any
+date of determination, an amount equal to 9% of the aggregate principal amount of the Notes then outstanding (after giving effect to any repayment on such date); provided that the Variation Margin Threshold shall be zero while any “Event
+of Default” under (and as defined in) the Reference Obligation Indenture shall have occurred and be continuing. 
+ “ Zero Value Participation
+Interest ” means any Participation Interest included in the Portfolio Assets that (a) has not been elevated to a loan directly held and registered in the name of the Reference Entity within 90 days of the Effective Date or
+(b) is acquired by the Reference Entity at any time after the Effective Date. 
+
+ Page A-6 
+
+ ANNEX B 
+
+ APPROVED DEALERS 
+ Bank of America
+Securities LLC 
+ Barclays Bank plc 
+ BNP Paribas 
+
+ Cantor Fitzgerald 
+ Castle Oak 
+
+ CIBC World Markets, Inc. 
+ Citibank, N .A. 
+
+ Credit Agricole Cheuveux North America, Inc. 
+ Credit Suisse First
+Boston LLC 
+ Deutsche Bank Securities Inc. 
+ Goldman
+Sachs & Co. 
+ Guggenheim 
+ Global Hunter 
+
+ Jefferies & Company Inc. 
+ JPMorgan Chase Bank, N.A. 
+
+ Macquarie 
+ Miller Tabak Roberts Securities, LLC 
+
+ Morgan Stanley & Co. 
+ Nomura 
+
+ RBC Capital Markets Corp. 
+ SG Americas Securities LLC 
+
+ Sterne, Age & Leach, Inc. 
+ The Royal Bank of Scotland
+plc. 
+ UBS AG 
+ Wachovia Capital Markets LLC 
+
+ Page B-1

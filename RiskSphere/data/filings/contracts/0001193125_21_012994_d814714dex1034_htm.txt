@@ -1,0 +1,2125 @@
+EX-10.34
+ 74
+ d814714dex1034.htm
+ EX-10.34
+
+ EX-10.34 
+
+ Exhibit 10.34 
+
+ CERTAIN IDENTIFIED INFORMATION HAS BEEN EXCLUDED FROM THE EXHIBIT BECAUSE IT IS BOTH NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO
+THE REGISTRANT IF PUBLICLY DISCLOSED. [***] INDICATES THAT INFORMATION HAS BEEN REDACTED 
+ EXECUTION VERSION 
+
+ MORTGAGE LOAN PARTICIPATION PURCHASE
+AND SALE AGREEMENT 
+ between 
+
+ LOANDEPOT.COM, LLC 
+ Seller 
+
+ and 
+ BARCLAYS BANK PLC 
+
+ Purchaser and Agent 
+ Dated
+August 25, 2020 
+
+ TABLE OF CONTENTS 
+
+ Page 
+
+ Section 1.
+
+ Definitions 
+
+ 2 
+
+ Section 2.
+
+ Procedures for Purchases of Participation Certificates 
+
+ 22 
+
+ Section 3.
+
+ Takeout Commitments 
+
+ 24 
+
+ Section 4.
+
+ Completion Fee 
+
+ 25 
+
+ Section 5.
+
+ Issuance of Securities 
+
+ 26 
+
+ Section 6.
+
+ Servicing of the Mortgage Loans; Servicer Termination; Backup Servicer 
+
+ 28 
+
+ Section 7.
+
+ Transfers of Participation Certificates and Securities by Purchaser 
+
+ 32 
+
+ Section 8.
+
+ Record Title to Mortgage Loans; Intent of Parties; Security Interest 
+
+ 33 
+
+ Section 9.
+
+ Representations and Warranties 
+
+ 34 
+
+ Section 10.
+
+ Covenants of Seller 
+
+ 37 
+
+ Section 11.
+
+ Term 
+
+ 41 
+
+ Section 12.
+
+ Set-Off 
+
+ 41 
+
+ Section 13.
+
+ Indemnification 
+
+ 42 
+
+ Section 14.
+
+ Exclusive Benefit of Parties; Assignment 
+
+ 42 
+
+ Section 15.
+
+ Amendments; Waivers; Cumulative Rights 
+
+ 43 
+
+ Section 16.
+
+ Execution in Counterparts 
+
+ 43 
+
+ Section 17.
+
+ Effect of Invalidity of Provisions 
+
+ 43 
+
+ Section 18.
+
+ Governing Law; Waiver of Jury Trial; Consent to Jurisdiction and Venue; Service of Process 
+
+ 43 
+
+ Section 19.
+
+ Notices 
+
+ 44 
+
+ Section 20.
+
+ Entire Agreement 
+
+ 44 
+
+ Section 21.
+
+ Costs of Enforcement 
+
+ 44 
+
+ Section 22.
+
+ Securities Contract; Netting Agreement 
+
+ 45 
+
+ Section 23.
+
+ Consent to Service 
+
+ 45 
+
+ Section 24.
+
+ Construction 
+
+ 45 
+
+ - i - 
+
+ Section 25.
+
+ Further Assurances 
+
+ 45 
+
+ Section 26.
+
+ Due Diligence 
+
+ 46 
+
+ Section 27.
+
+ Confidentiality 
+
+ 46 
+
+ Section 28.
+
+ Contractual Recognition of Bail-In. 
+
+ 47 
+
+ Section 29.
+
+ USA Patriot Act; OFAC and Anti-Terrorism. 
+
+ 48 
+
+ Section 30.
+
+ Contractual Recognition of UK Stay In Resolution 
+
+ 49 
+
+ Section 31.
+
+ Notice Regarding Client Money Rules 
+
+ 49 
+
+ Section 32.
+
+ Effect of Benchmark Transition Event 
+
+ 49 
+
+ EXHIBITS 
+
+ Exhibit A 
+
+ Participation Certificate 
+
+ Exhibit B 
+
+ Trade Assignment 
+
+ Exhibit C 
+
+ Reserved 
+
+ Exhibit D 
+
+ Warehouse Lender’s Release 
+
+ Exhibit E 
+
+ Assignment 
+
+ Exhibit F 
+
+ Form of Confirmation 
+
+ Annex A 
+
+ Purchaser Notices/Agent Notices/Seller Notices 
+
+ - ii - 
+
+ MORTGAGE LOAN PARTICIPATION PURCHASE AND SALE AGREEMENT 
+
+ This is a MORTGAGE LOAN PARTICIPATION PURCHASE AND SALE AGREEMENT (“ Agreement ”), dated as of August 25, 2020, between
+Barclays Bank PLC, as administrative agent (“ Agent ”) and purchaser (“ Purchaser ”) and loanDepot.com, LLC, as Seller (“ Seller ”). 
+
+ PRELIMINARY STATEMENT 
+ Seller
+desires to sell to Purchaser from time to time all of Seller’s beneficial right, title and interest in and to designated pools of fully amortizing first lien residential Mortgage Loans eligible in the aggregate to back Securities, and the
+servicing rights relating thereto, with the terms described in related Takeout Commitments, each in the form of a 100% undivided beneficial ownership interest evidenced by a Participation Certificate. 
+
+ Purchaser desires and may, in its sole discretion, purchase such Participation Certificates from Seller in accordance with the terms and
+conditions set forth in this Agreement. Seller, subject to the terms hereof, will cause (a) the Related Mortgage Loans to back a Security issued by Seller and guaranteed by the Applicable Agency, and (b) Delivery of such Security by the
+Applicable Agency to Purchaser or its designee in exchange for the Related Participation Certificate, which Security will be purchased by a Takeout Investor. 
+
+ Purchaser’s willingness to purchase any Participation Certificate evidencing a beneficial interest in the Related Mortgage Loans and the
+servicing rights related thereto is at the sole discretion of Purchaser and based on Purchaser’s expectation, in reliance upon Seller’s representations and warranties herein, that (a) such Mortgage Loans in the aggregate, constitute a
+pool or pools of mortgage loans that are eligible to back a Security, (b) such Mortgage Loans are sufficient for Seller to issue and the Applicable Agency to guarantee the Security, (c) such Security will be issued in the amount and with
+the terms described in the related Takeout Commitment, (d) Purchaser’s broker-dealer affiliate, Barclays Capital Inc. (“ BCI ”) will receive Delivery of such Security on the specified Anticipated Delivery Date on behalf of
+Purchaser, and (e) such Security will be purchased by the related Takeout Investor. 
+ The amount of the Purchase Price and the
+Completion Fee to be paid by Purchaser to Seller with respect to each Participation Certificate will be calculated on the expectation of Purchaser, based upon the representations and warranties of Seller herein, that Purchaser or BCI, on behalf of
+Purchaser, will receive Delivery of the Security to be backed by the Related Mortgage Loans on the specified Anticipated Delivery Date, that failure to receive such Delivery will result in a material decrease in the market value of the Participation
+Certificate and the Related Mortgage Loans considered as a whole and that the related Takeout Investor will purchase the Security from Purchaser or BCI, on behalf of Purchaser. During the period from the purchase of a Participation Certificate to
+Delivery of the related Security, Purchaser expects to rely entirely upon Seller (or its designated subservicer) to subservice the Related Mortgage Loans for the benefit of Purchaser, it being acknowledged that the continued effectiveness of
+Seller’s (or such subservicer’s) Approvals during such period constitutes an essential factor in the calculation by Agent of the Purchase Price and the Completion Fee paid to Seller for the Related Participation Certificate and that loss
+of such Approvals by Seller would result in a material decrease in the market value of the Participation Certificate and the Related Mortgage Loans considered as a whole. 
+
+ In consideration of the mutual promises and agreements herein contained the receipt and
+sufficiency of which are hereby acknowledged, the parties hereto as follows: 
+ Section 1. Definitions. 
+
+ Capitalized terms used but not defined herein shall have the meanings set forth in the Custodial Agreement or the Master Repurchase Agreement,
+each as defined below. As used in this Agreement, the following terms shall have the following meanings: 
+ “ 30+ Day Delinquent
+Mortgage Loan ” means any Mortgage Loan that, as of any determination date, using the MBA Methodology, is thirty (30) or more days delinquent (inclusive of any grace period). 
+
+ “ Accepted Servicing Practices ” means with respect to any Mortgage Loan, those accepted, customary and prudent mortgage
+servicing practices (including collection procedures) of prudent mortgage banking institutions that service mortgage loans of the same type as the Mortgage Loans in the jurisdiction where the related Mortgaged Property is located, and which are in
+accordance with the requirements of each Agency Program, applicable law, FHA regulations and VA regulations, if applicable, and the requirements of any private mortgage insurer so that the FHA insurance, VA guarantee or any other applicable
+insurance or guarantee in respect of any Mortgage Loan is not voided or reduced. 
+ “ Adjustable Rate Mortgage Loan ” means a
+Mortgage Loan that provides for the adjustment of the Mortgage Interest Rate payable in respect thereto. 
+ “ Affiliate ”
+means, with respect to any specified Person, any other Person controlling or controlled by or under common control with such specified Person. For the purposes of this definition, “control” means the power to direct the management and
+policies of such Person, directly or indirectly, whether through the ownership of voting securities, by contract or otherwise and the terms “controlling,” “controlled by” and “under common control with” have meanings
+correlative to the meaning of “control.” Notwithstanding the foregoing, none of Offerpad Home Loans, LLC, MTH Mortgage, LLC, MSC Mortgage, LLC, TRI Pointe Connect, LLC, Day One Mortgage, LLC, CUSA Affordable Housing, LLC, Commercial Agency
+USA, LLC, LD Escrow, Inc., any joint venture formed by Seller after the date hereof, LD Investment Holdings, Inc., Parthenon Investors IV, LP, Parthenon Capital Partners Fund II, LP, Parthenon loanDepot Partners, LP, Trilogy Mortgage Holdings, Inc.,
+Parthenon Investors III, L.P., PCap Associates, Parthenon Capital Partners Fund, L.P., JLSA, LLC and Anthony Hsieh and his immediate family members and his family trusts shall be considered an Affiliate for purposes of this Agreement or any other
+Program Document. 
+ “ Agency ” means Freddie Mac, Fannie Mae or Ginnie Mae, as applicable. 
+
+ “ Agency Guide ” means the Freddie Mac Guide, the Fannie Mae Guide, or the Ginnie Mae Guide, as applicable. 
+
+ - 2 - 
+
+ “ Agency Mortgage Loans ” means Fannie Mae Mortgage Loans, Freddie Mac
+Mortgage Loans, and Ginnie Mae Mortgage Loans. For the avoidance of doubt, the term “Agency Mortgage Loans” does not include Agency Scratch and Dent Mortgage Loans. 
+
+ “ Agency Program ” means the Freddie Mac Program, the Fannie Mae Program, or the Ginnie Mae Program, as applicable. 
+
+ “ Agency Scratch and Dent Mortgage Loan ” means a first lien Mortgage Loan originated by Seller and intended to be originated
+in accordance with the criteria of Fannie Mae, Freddie Mac or Ginnie Mae, as applicable, except such Mortgage Loan is not eligible for sale to or pooling with the Agency. 
+
+ “ Agent ” means Barclays Bank PLC and its successors in interest, as administrative agent for Purchaser and any additional
+purchasers that may become a party hereto. 
+ “ Aggregate EPF Purchase Price ” means, as of any date of determination, an
+amount equal to the aggregate Purchase Price for all Participation Certificates then owned by Purchaser and subject to the terms of this Agreement. 
+
+ “ Aggregate MRA Purchase Price ” means as of any date of determination, an amount equal to the aggregate Purchase Price (as
+defined in the Master Repurchase Agreement) for all Purchased Assets (as defined in the Master Repurchase Agreement) then subject to Transactions under the Master Repurchase Agreement. 
+
+ “ Anticipated Delivery Date ” means, with respect to a Security, the date specified in the related Form HUD 11705 (Schedule of
+Subscribers), Fannie Mae Form 2014 (Delivery Schedule) or Freddie Mac Form 939 (Settlement and Information Multiple Registration Form), as applicable, on which it is anticipated that Delivery of the Security by the Applicable Agency will be made,
+which date shall occur no more than thirty (30) days following the related Purchase Date. 
+ “ Applicable Agency ” means
+Ginnie Mae, Fannie Mae, or Freddie Mac, as applicable. 
+ “ Applicable Margin ” has the meaning assigned thereto in the
+Pricing Side Letter. 
+ “ Appraised Value ” means the value set forth in an appraisal made in connection with the origination
+of the related Mortgage Loan as the value of the Mortgaged Property. 
+ “ Approvals ” means with respect to Seller, the
+approvals obtained from the Applicable Agency or HUD in designation of Seller as a Ginnie Mae-approved issuer, an FHA-approved mortgagee, a VA-approved lender, a Fannie Mae-approved lender or a Freddie Mac-approved Seller/Servicer, as applicable, in good standing. 
+
+ “ Assignee ” shall have the meaning assigned thereto in Section 7 . 
+
+ - 3 - 
+
+ “ Assignment of Mortgage ” means, with respect to any Mortgage, an assignment
+of the Mortgage, notice of transfer or equivalent instrument in recordable form, sufficient under the laws of the jurisdiction wherein the related Mortgaged Property is located to reflect the assignment of the Mortgage to Purchaser. 
+
+ “ ATR Rules ” means the “ability to repay” rules specified in the federal Truth-in-Lending Act as amended pursuant to rulemaking authority provided under the federal Dodd-Frank Act which require lenders to make a reasonable, good-faith determination that a Mortgagor has an ability
+to repay the loan as determined by the following eight (8) underwriting factors: (i) current or reasonably expected income or assets (other than the value of the property that secures the loan) that the Mortgagor will rely on to repay the
+loan, (ii) current employment status (if the originator relies on employment income when assessing the Mortgagor’s ability to repay), (iii) monthly mortgage payment for the loan, (iv) monthly payment on any simultaneous loans secured
+by the same property, (v) monthly payments for property taxes and required insurance, and certain other costs related to the property such as homeowners association fees or ground rent, (vi) debts, alimony, and child-support obligations,
+(vii) monthly debt-to-income ratio or residual income, calculated using the total of all of the mortgage and nonmortgage obligations listed above, as a ratio of
+gross monthly income and (viii) credit history. 
+ “ Bail-In Action ” means the
+exercise by the Bank of England (or any successor resolution authority) of any write-down or conversion power existing from time to time (including, without limitation, any power to amend or alter the maturity of eligible liabilities of an
+institution under resolution or amend the amount of interest payable under such eligible liabilities or the date on which interest becomes payable, including by suspending payment for a temporary period and together with any power to terminate and
+value transactions) under, and exercised in compliance with, any laws, regulations, rules or requirements in effect in the United Kingdom relating to the transposition of the European Banking Recovery and Resolution Directive as amended from time to
+time, including but not limited to, the Banking Act 2009 as amended from time to time, and the instruments, rules and standards created thereunder, pursuant to which Purchaser’s obligations (or those of Purchaser’s affiliates) can be
+reduced (including to zero), canceled or converted into shares, other securities, or other obligations of Purchaser or any other person. 
+
+ “ Bank ” means (i) Deustche Bank National Trust Company and its successors and permitted assigns or (ii) such other
+bank as may be mutually acceptable to the Seller and the Purchaser. 
+ “ Bankruptcy Code ” means 11 U.S.C. §§ 101
+ et seq. , as amended from time to time. 
+ “ Benchmark Replacement ” means the sum of: (a) the alternate
+benchmark rate (which may be a SOFR-Based Rate) that has been selected by the Agent and the Seller giving due consideration to (i) any selection or recommendation of a replacement rate or the mechanism for determining such a rate by the
+Relevant Governmental Body or (ii) any evolving or then-prevailing market convention for determining a rate of interest as a replacement to LIBOR for U.S. dollar-denominated syndicated credit facilities and (b) the Benchmark Replacement
+Adjustment; provided that, if the Benchmark Replacement as so determined would be less than zero, the Benchmark Replacement will be deemed to be zero for the purposes of this Agreement; provided further that any such Benchmark Replacement shall be
+administratively feasible as determined by the Agent in its reasonable discretion. 
+
+ - 4 - 
+
+ “ Benchmark Replacement Adjustment ” means, with respect to any replacement
+of LIBOR with an Unadjusted Benchmark Replacement for each applicable Accrual Period, the spread adjustment, or method for calculating or determining such spread adjustment, (which may be a positive or negative value or zero) that has been selected
+by the Agent and the Seller giving due consideration to (i) any selection or recommendation of a spread adjustment, or method for calculating or determining such spread adjustment, for the replacement of LIBOR with the applicable Unadjusted
+Benchmark Replacement by the Relevant Governmental Body or (ii) any evolving or then-prevailing market convention for determining a spread adjustment, or method for calculating or determining such spread adjustment, for the replacement of LIBOR
+with the applicable Unadjusted Benchmark Replacement for U.S. dollar-denominated syndicated credit facilities at such time. 
+
+ “ Benchmark Replacement Conforming Changes ” means, with respect to any Benchmark Replacement, any technical, administrative or
+operational changes (including changes to the definition of “Accrual Period,” timing and frequency of determining rates and making payments of interest and other administrative matters) that the Agent decides may be appropriate to reflect
+the adoption and implementation of such Benchmark Replacement and to permit the administration thereof by the Agent in a manner substantially consistent with market practice (or, if the Agent decides that adoption of any portion of such market
+practice is not administratively feasible or if the Agent determines that no market practice for the administration of the Benchmark Replacement exists, in such other manner of administration as the Agent decides is reasonably necessary in
+connection with the administration of this Agreement). 
+ “ Benchmark Replacement Date ” means the earlier to occur of the
+following events with respect to LIBOR: 
+ (1) in the case of clause (a) or (b) of the definition of “Benchmark
+Transition Event,” the later of (a) the date of the public statement or publication of information referenced therein and (b) the date on which the administrator of LIBOR permanently or indefinitely ceases to provide LIBOR; or 
+
+ (2) in the case of clause (c) of the definition of “Benchmark Transition Event,” the date of the public
+statement or publication of information referenced therein. 
+ “ Benchmark Transition Event ” means the occurrence of one or
+more of the following events with respect to LIBOR: 
+ (a) a public statement or publication of information by or on behalf
+of the administrator of LIBOR announcing that such administrator has ceased or will cease to provide LIBOR, permanently or indefinitely, provided that, at the time of such statement or publication, there is no successor administrator that will
+continue to provide LIBOR; 
+
+ - 5 - 
+
+ (b) a public statement or publication of information by the regulatory
+supervisor for the administrator of LIBOR, the U.S. Federal Reserve System, an insolvency official with jurisdiction over the administrator for LIBOR, a resolution authority with jurisdiction over the administrator for LIBOR or a court or an entity
+with similar insolvency or resolution authority over the administrator for LIBOR, which states that the administrator of LIBOR has ceased or will cease to provide LIBOR permanently or indefinitely, provided that, at the time of such statement or
+publication, there is no successor administrator that will continue to provide LIBOR; or 
+ (c) a public statement or
+publication of information by the regulatory supervisor for the administrator of LIBOR announcing that LIBOR is no longer representative. 
+
+ “ Benchmark Transition Start Date ” means (a) in the case of a Benchmark Transition Event, the earlier of (i) the
+applicable Benchmark Replacement Date and (ii) if such Benchmark Transition Event is a public statement or publication of information of a prospective event, the 90th day prior to the expected date of such event as of such public statement or
+publication of information (or if the expected date of such prospective event is fewer than 90 days after such statement or publication, the date of such statement or publication) and (b) in the case of an Early
+ Opt-in Election, the date specified by the Agent by notice to the Seller, the Agent (in the case of such notice by the Purchaser) and the Purchaser. 
+
+ “ Benchmark Unavailability Period ” means, if a Benchmark Transition Event and its related Benchmark Replacement Date have
+occurred with respect to LIBOR and solely to the extent that LIBOR has not been replaced with a Benchmark Replacement, the period (x) beginning at the time that such Benchmark Replacement Date has occurred if, at such time, no Benchmark
+Replacement has replaced LIBOR for all purposes hereunder in accordance with the Section titled “Effect of Benchmark Transition Event” and (y) ending at the time that a Benchmark Replacement has replaced LIBOR for all purposes
+hereunder pursuant to the Section titled “Effect of Benchmark Transition Event.” 
+ “ Business Day ” means any day
+other than (i) a Saturday or Sunday, or (ii) a day upon which the New York Stock Exchange or the Federal Reserve Bank of New York is closed. 
+
+ “ Change in Control ” means (a) the acquisition by any Person, or two (2) or more Persons acting in concert, of
+beneficial ownership (within the meaning of Rule 13d-3 of the Securities and Exchange Commission under the Securities Exchange Act of 1934, as amended) of outstanding shares of voting stock (or equivalent
+equity interests) of Seller at any time if, after giving effect to such acquisition, Parthenon Investors III, L.P., PCap Associates, Parthenon Capital Partners Fund, L.P., JLSA, LLC, Parthenon Investors IV, LP, Parthenon Capital Partners Fund II,
+LP, Parthenon loanDepot Partners, LP, Trilogy Mortgage Holdings, Inc. and Anthony Hsieh and his immediate family members and his family trusts, do not together own and control, directly or indirectly, more than fifty percent (50%) of the outstanding
+voting equity interests of Seller, (b) the sale, transfer, or other disposition of all or substantially all of Seller’s assets (excluding any such action taken in connection with any securitization transaction or routine sales of Mortgage
+Loans) or (c) the consummation of a merger or consolidation of Seller with or into another entity or any other corporate reorganization, if more than 50% of the combined voting power of the continuing or surviving entity’s equity
+outstanding immediately after such merger, consolidation or such other reorganization is owned by persons who were not equityholders of the Seller immediately prior to such merger, consolidation or other reorganization. 
+
+ - 6 - 
+
+ “ Client Money Distribution Rules ” has the meaning assigned thereto in
+Section 31(b) hereof. 
+ “ Client Money Rules ” has the meaning assigned thereto in Section 31(a) hereof. 
+
+ “ Collateral ” has the meaning assigned thereto in Section 8(c) . 
+
+ “ Completion Fee ” means, with respect to each Participation Certificate, an amount equal to the Discount plus the Net Carry
+Adjustment, less any reduction pursuant to Section 5(b) , which amount shall be payable to Seller by Purchaser in two installments as provided in Section 4(a) , the Initial Completion Fee Installment
+and the Final Completion Fee Installment, as compensation to Seller for its services in connection with the issuance of the related Security and performance of its obligations under this Agreement. 
+
+ “ Compounded SOFR ” means the compounded average of SOFRs for the applicable month, with the rate, or methodology for this
+rate, and conventions for this rate (which may include compounding in arrears with a lookback and/or suspension period as a mechanism to determine the interest amount payable prior to the end of each Accrual Period) being established by the Agent in
+accordance with: 
+ (a) the rate, or methodology for this rate, and conventions for this rate selected or recommended by the Relevant
+Governmental Body for determining compounded SOFR; or 
+ (b) if, and to the extent that, the Agent determines that Compounded SOFR cannot be
+determined in accordance with clause (a) above, then the rate, or methodology for this rate, and conventions for this rate that the Agent determines in its reasonable discretion are substantially consistent with any evolving or then-prevailing
+market convention for determining compounded SOFR for U.S. dollar-denominated syndicated credit facilities at such time; 
+ provided that if
+the Agent decides that any such rate, methodology or convention determined in accordance with clause (a) or clause (b) above is not administratively feasible for the Agent, then Compounded SOFR will be deemed unable to be determined for
+purposes of the definition of “Benchmark Replacement.” 
+ “ Confirmation ” means a written confirmation of
+Purchaser’s intent to purchase a Participation Certificate, which written confirmation shall be substantially in the form attached hereto as Exhibit F . 
+
+ “ Custodial Account ” has the meaning ascribed thereto in the Custodial Account Control Agreement. 
+
+ - 7 - 
+
+ “ Custodial Account Control Agreement ” means the Custodial Account Control
+Agreement, dated of even date herewith, among Seller, Purchaser and Bank entered into in connection with this Agreement, as amended, supplemented or otherwise modified from time to time. 
+
+ “ Custodial Agreement ” means that certain Custodial and Disbursement Agreement, dated as of August 25, 2020, among
+Seller, Purchaser, Agent, Disbursement Agent and Custodian, entered into in connection with this Agreement and the Master Repurchase Agreement, as the same may be amended, modified or supplemented from time to time. 
+
+ “ Custodian ” means Deutsche Bank National Trust Company, and its successors and permitted assigns, or such other entity as
+mutually agreed upon by Agent and Seller. 
+ “ Daily Completion Fee Reduction Amount ” shall have the meaning assigned
+thereto in the Pricing Side Letter. 
+ “ Defective Mortgage Loan ” means, with respect to a Participation Certificate, a
+Related Mortgage Loan that is not in Strict Compliance with the Ginnie Mae Program, Fannie Mae Program, or Freddie Mac Program, as applicable. 
+
+ “ Delinquent ” means, with respect to any Mortgage Loan, that a monthly payment due thereon is not made by the close of
+business on the Due Date. 
+ “ Delivery ” means the later to occur of (a) the issuance of the related Security and
+(b) the transfer of all of the right, title and ownership interest in that Security to Purchaser or its designee. 
+
+ “ Disbursement Agent ” means Deutsche Bank National Trust Company and its successors and permitted assigns, or such other
+entity as mutually agreed upon by Agent and Seller. 
+ “ Discount ” has the meaning set forth in the Pricing Side Letter.
+
+ “ Due Date ” means the day of the month on which the Monthly Payment is due on a Mortgage Loan, exclusive of any days of
+grace. 
+ “ Due Diligence Review Amount ” has the meaning set forth in the MRA Pricing Side Letter. 
+
+ “ Early Opt-in Election ” means the occurrence of: 
+
+ (1) (i) a determination by the Agent or (ii) a notification by the Purchaser to the Agent (with a copy to the Seller)
+that the Purchaser have determined that U.S. dollar-denominated syndicated or bilateral credit facilities being executed at such time, or that include language similar to that contained in this Section titled “Effect of Benchmark Transition
+Event,” are being executed or amended, as applicable, to incorporate or adopt a new benchmark interest rate to replace LIBOR, and 
+
+ - 8 - 
+
+ (2) (i) the election by the Agent or (ii) the election by the
+Purchaser to declare that an Early Opt-in Election has occurred and the provision, as applicable, by the Agent of written notice of such election to the Seller and the Purchaser or by the Purchaser of written
+notice of such election to the Agent. 
+ “ Effective Date ” shall have the meaning assigned thereto in the Master Repurchase
+Agreement. 
+ “ Electronic Agent ” shall have the meaning assigned thereto in Section 2 of the
+Electronic Tracking Agreement. 
+ “ Electronic Tracking Agreement ” means one or more Electronic Tracking Agreements with
+respect to (x) the tracking of changes in the ownership, mortgage servicers and servicing rights ownership of Purchased Mortgage Loans held on the MERS System, and (y) the tracking of the Control of eNotes held on the MERS eRegistry, each
+in a form acceptable to Agent. 
+ “ Electronic Transmission ” means the delivery of information in an electronic format
+acceptable to the applicable recipient thereof. An Electronic Transmission shall be considered written notice for all purposes hereof (except when a request or notice by its terms requires execution). 
+
+ “ Eligible Mortgage Loan ” means a Mortgage Loan that (i) satisfies each of the representations and warranties in
+ Exhibit B to the Master Repurchase Agreement in all material respects, (ii) if such Mortgage Loan is (a) a Fannie Mae Mortgage Loan, a Freddie Mac Mortgage Loan, or a Ginnie Mae Mortgage Loan, it is in Strict Compliance with the
+eligibility requirements of the Ginnie Mae Program, Fannie Mae Program or Freddie Mac Program, as applicable, (b) a Jumbo Mortgage Loan, (iii) with respect to all Mortgage Loans other than Wet-Ink 
+Mortgage Loans, contains all required documents in the Mortgage File without exceptions unless otherwise waived by Purchaser or permitted pursuant to the terms of this Agreement or the Custodial and Disbursement Agreement, and (iv) satisfies
+the Additional Eligible Loan Criteria. 
+ “ eMortgage Loan ” means a Mortgage Loan with respect to which there is an eNote
+and as to which some or all of the other documents comprising the related Mortgage File may be created electronically and not by traditional paper documentation with a pen and ink signature. 
+
+ “ eNote ” means, with respect to any eMortgage Loan, the electronically created and stored Mortgage Note that is a Transferable
+Record. 
+ “ E-Sign ” means the federal Electronic Signatures in Global and National
+Commerce Act, as amended from time to time. 
+
+ - 9 - 
+
+ “ Escrow Agreement ” means that certain Fourth Amended and Restated Escrow
+Agreement, dated as of August 16, 2016, as amended through that certain Amendment No. 7 and Joinder to Fourth Amended and Restated Escrow Agreement, dated as of the date hereof, by and among Seller, Purchaser and the other parties thereto,
+as the same may be amended, supplemented or otherwise modified from time to time. 
+ “ Escrow Payments ” means, with respect
+to a Mortgage Loan, the amounts constituting ground rents, taxes, assessments, water charges, sewer rents, municipal charges, mortgage insurance premiums, fire and hazard insurance premiums, condominium charges and other payments as may be required
+to be escrowed by the Mortgagor with the Mortgagee pursuant to the terms of the Mortgage or any other document. 
+
+ “ Event of Insolvency ” means, with respect to any Person, 
+
+ (i) the filing of a voluntary petition (or the consent by such Person to the filing of any such petition against it),
+commencing, or authorizing the commencement of any case or proceeding under any bankruptcy, insolvency, reorganization, liquidation, dissolution or similar law relating to the protection of creditors, or suffering any such petition or proceeding to
+be commenced by another; or such Person shall consent or seek to the appointment of or taking possession by a custodian, receiver, conservator, trustee, liquidator, sequestrator or similar official of such Person, or for any substantial part of its
+Property, or any general assignment for the benefit of creditors; 
+ (ii) a proceeding shall have been instituted against
+such Person under any bankruptcy, reorganization, arrangement, insolvency, readjustment of debt, dissolution, moratorium, delinquency or liquidation law of any jurisdiction, whether now or subsequently in effect, or a custodian, receiver,
+conservator, liquidator, trustee, sequestrator or similar official for such Person or such Person’s Property (as a debtor or creditor protection procedure) is appointed by any Governmental Authority having the jurisdiction to do so or takes
+possession of such Property and any such proceeding is not stayed or dismissed within sixty (60) days of filing; 
+
+ (iii) that such Person or any Affiliate shall become insolvent as such term is defined in Section 101(32)(A) of the
+Bankruptcy Code; 
+ (iv) that such Person shall (a) admit in writing its inability to pay or discharge its debts or
+obligations generally as they become due or mature, (b) admit in writing its inability to, or intention not to, perform any of its material obligations, or (c) generally fail to pay any of its debts or obligations as they become due or
+mature; or 
+ (v) any Governmental Authority shall have seized or appropriated, or assumed custody or control of, all or any
+substantial part of the Property of such Person, or shall have taken any action to displace the management of such Person. 
+
+ “ Fannie Mae ” means the Federal National Mortgage Association or any successor thereto. 
+
+ “ Fannie Mae Guide ” means the Fannie Mae MBS Selling and Servicing Guide, as such Guide may hereafter from time to time be
+amended. 
+
+ - 10 - 
+
+ “ Fannie Mae Mortgage Loan ” means, with respect to any Fannie Mae
+Participation Certificate or any Fannie Mae Security, a mortgage loan that is in Strict Compliance on the related Purchase Date with the eligibility requirements specified for the applicable Fannie Mae Program described in the Fannie Mae Guide. 
+
+ “ Fannie Mae Participation Certificate ” means, with respect to the Fannie Mae Program, a certificate, substantially in the
+form of Exhibit A , authenticated by Custodian, evidencing the 100% undivided beneficial ownership interest in the Fannie Mae Mortgage Loans set forth on Fannie Mae Form 2005 (Schedule of Mortgages). 
+
+ “ Fannie Mae Program ” means the Fannie Mae Guaranteed Mortgage-Backed Securities Programs, as described in the Fannie Mae
+Guide. 
+ “ Fannie Mae Security ” means an ownership interest in a pool of Fannie Mae Mortgage Loans, evidenced by a
+book-entry account in a depository institution having book-entry accounts at the Federal Reserve Bank of New York, issued and guaranteed, with respect to timely payment of interest and ultimate payment of principal, by Fannie Mae and backed by a
+pool of Fannie Mae Mortgage Loans, in substantially the principal amount and with substantially the other terms as specified with respect to such Fannie Mae Security in the related Takeout Commitment, if any. 
+
+ “ FCA ” means the United Kingdom Financial Conduct Authority. 
+
+ “ FDIA ” means Title 12 United States Code, Section 1811 et seq. , as amended from time to time. 
+
+ “ FDIC ” means the Federal Deposit Insurance Corporation or any successor thereto. 
+
+ “ FHA ” means the Federal Housing Administration, an agency within HUD, or any successor thereto, and including the Federal
+Housing Commissioner and the Secretary of Housing and Urban Development where appropriate under the FHA regulations. 
+ “ FHA 203k
+Loan ” means a Mortgage Loan that is eligible for FHA’s 203(k) loan program. 
+ “ FICO Score ” means the credit
+score of the Mortgagor provided by Fair, Isaac & Company, Inc. or such other organization providing credit scores on or immediately prior to the origination of a Mortgage Loan. 
+
+ “ Final Completion Fee Installment ” means the amount equal to the difference between the Completion Fee and the Initial
+Completion Fee Installment. 
+ “ Final Purchase Price Installment ” means the amount equal to the difference between the
+Trade Principal and the Initial Purchase Price Installment. 
+ “ First-Lien State Bond Loans ” means a State Bond Loan with
+respect to which the Mortgage represents a first lien on the related Mortgaged Property. 
+
+ - 11 - 
+
+ “ Freddie Mac ” means the Federal Home Loan Mortgage Corporation, and its
+successors in interest. 
+ “ Freddie Mac as Custodian ” means, with respect to Freddie Mac Participation Certificates, the
+circumstances in which Seller elects to appoint Freddie Mac (as opposed to some other third party as permitted by the Freddie Mac Guide) as Custodian for the Freddie Mac Mortgage Loans subject to the Freddie Mac Participation Certificates to be
+purchased by Purchaser hereunder. 
+ “ Freddie Mac Guide ” means the Freddie Mac Sellers’ and Servicers’ Guide, as
+such Guide may hereafter from time to time be amended. 
+ “ Freddie Mac Mortgage Loan ” means, with respect to any Freddie
+Mac Participation Certificate or any Freddie Mac Security, a mortgage loan that is in Strict Compliance on the related Purchase Date with the eligibility requirements specified for the applicable Freddie Mac Program described in the Freddie Mac
+Guide. 
+ “ Freddie Mac Participation Certificate ” means, with respect to the Freddie Mac Program, a certificate,
+substantially in the form of Exhibit A , issued by Seller and authenticated by Custodian, evidencing the 100% undivided beneficial ownership interest in the Freddie Mac Mortgage Loans that are either (a) set forth on a copy of the Freddie
+Mac Form 1034 (Fixed-Rate Custodial Certification Schedule) attached to such Participation Certificate or (b) identified on a computer tape compatible with Selling System as belonging to the mortgage loan pool described in such Participation
+Certificate. 
+ “ Freddie Mac Program ” means the Freddie Mac Home Mortgage Guarantor Program or the Freddie Mac FHA/VA Home
+Mortgage Guarantor Program, as described in the Freddie Mac Guide. 
+ “ Freddie Mac Security ” means a modified pass-through
+mortgage-backed participation certificate, evidenced by a book-entry account in a depository institution having book-entry accounts at the Federal Reserve Bank of New York, issued and guaranteed, with respect to timely payment of interest and
+ultimate payment of principal, by Freddie Mac and backed by a pool of Freddie Mac Mortgage Loans, in substantially the principal amount and with substantially the other terms as specified with respect to such Freddie Mac Security in the related
+Takeout Commitment, if any. 
+ “ GAAP ” means generally accepted accounting principles as in effect from time to time in the
+United States of America. 
+ “ Ginnie Mae ” means the Government National Mortgage Association and its successors in
+interest, a wholly-owned corporate instrumentality of the government of the United States of America. 
+ “ Ginnie Mae Guide ”
+means the Ginnie Mae Mortgage-Backed Securities Guide, as such Guide may hereafter from time to time be amended. 
+
+ - 12 - 
+
+ “ Ginnie Mae Mortgage Loan ” means, with respect to any Ginnie Mae
+Participation Certificate or any Ginnie Mae Security, a mortgage loan that is in Strict Compliance on the related Purchase Date with the eligibility requirements specified for the applicable Ginnie Mae Program in the applicable Ginnie Mae Guide.
+
+ “ Ginnie Mae Participation Certificate ” means, with respect to the Ginnie Mae Program, a certificate, substantially in
+the form of Exhibit A , issued by Seller and authenticated by Custodian, evidencing the 100% undivided beneficial ownership interest in the Ginnie Mae Mortgage Loans set forth on the Form HUD 11706 (Schedule of Pooled Mortgages). 
+
+ “ Ginnie Mae Program ” means the Ginnie Mae Mortgage-Backed Securities Programs, as described in the Ginnie Mae Guide. 
+
+ “ Ginnie Mae Security ” means a fully-modified pass-through mortgage-backed certificate guaranteed by Ginnie Mae, evidenced by
+a book-entry account in a depository institution having book-entry accounts at the Federal Reserve Bank of New York and backed by a pool of Ginnie Mae Mortgage Loans, in substantially the principal amount and with substantially the other terms as
+specified with respect to such Ginnie Mae Security in the related Takeout Commitment. 
+ “ Governmental Authority ” means any
+nation or government, any state or other political subdivision, agency or instrumentality thereof, or any entity exercising executive, legislative, judicial, regulatory or administrative functions of or pertaining to government and any court or
+arbitrator having jurisdiction over Seller. 
+ “ High Cost Mortgage Loan ” means a Mortgage Loan that is (a) subject to,
+covered by or in violation of the provisions of the Homeownership and Equity Protection Act of 1994, as amended, (b) a “high cost,” “covered,” “threshold,” “abusive,” “predatory” or “high
+risk” mortgage loan under any federal, state or local law, or any similarly classified loan using different terminology under any law imposing heightened regulation, scrutiny or additional legal liability for residential mortgage loans having
+high interest rates, points and/or fees, or any other state or other regulation providing assignee liability to holders of such mortgage loans, (c) subject to or in violation of any such or comparable federal, state or local statutes or
+regulations, or (d) a “High Cost Loan” or “Covered Loan,” as applicable, as such terms are defined in the current version of the Standard & Poor’s
+LEVELS ® Glossary Revised, Appendix E. 
+ “ HUD ” means the
+Department of Housing and Urban Development, or any federal agency or official thereof which may from time to time succeed to the functions thereof with regard to FHA mortgage insurance. The term “HUD,” for purposes of this Agreement, is
+also deemed to include subdivisions thereof such as the FHA and Ginnie Mae. 
+ “ Indebtedness ” has the meaning assigned
+thereto in the MRA Pricing Side Letter. 
+ “ Initial Completion Fee Installment ” shall have the meaning assigned thereto the
+Pricing Side Letter. 
+ “ Initial Purchase Price Installment ” means, with respect to any Participation Certificate, the
+excess of the related Trade Principal over the Discount. 
+
+ - 13 - 
+
+ “ Intercreditor Agreement ” means that certain Fourth Amended and Restated
+Intercreditor Agreement, dated as of August 16, 2016, as amended through that certain Amendment No. 7 and Joinder to Fourth Amended and Restated Intercreditor Agreement, dated as of the date hereof, by and among Seller, Purchaser and the
+other parties thereto, as the same may be amended, supplemented or otherwise modified from time to time. 
+ “ Issuance Date ”
+means, with respect to a Security, the first day of the month in which the Security is issued. 
+ “ Joint Securities Account Control
+Agreement ” means that certain Fourth Amended and Restated Joint Securities Account Control Agreement, dated as of August 16, 2016, as amended through that certain Amendment No. 7 and Joinder to Fourth Amended and Restated Joint
+Securities Account Control Agreement, dated as of the date hereof, by and among Seller, Purchaser and the other parties thereto, as the same may be amended, supplemented or otherwise modified from time to time. 
+
+ “ Jumbo Mortgage Loan ” means a first lien Mortgage Loan which (i) conforms with all requirements of Seller’s
+underwriting guidelines, which are subject to Purchaser’s approval in its sole good faith discretion, as the same may be amended, supplemented or otherwise modified from time to time and (ii) has the benefit of the safe harbor from
+liability under the ATR Rules or a rebuttable presumption for such liability. 
+ “ LIBOR ” means for each day, the rate
+(adjusted for statutory reserve requirements for eurocurrency liabilities) for eurodollar deposits for a period equal to one month appearing on Bloomberg Screen US 0001M Page or if such rate ceases to appear on Bloomberg Screen US 0001M Page, or any
+other service providing comparable rate quotations at approximately 11:00 a.m., London time, on the applicable date of determination, or such interpolated rate as determined by the Agent. 
+
+ “ Lien ” means any mortgage, deed of trust, lien, claim, pledge, charge, security interest or similar encumbrance. 
+
+ “ Loan-to-Value Ratio ” means, as of any date
+of determination, the fraction, expressed as a percentage, the numerator of which is the principal balance of the related Mortgage Loan at such date and the denominator of which is the lesser of (a) the Appraised Value of the Mortgaged Property
+at the origination or, if no appraisal was required, the “AUS estimated value,” of such Mortgage Loan, and (b) if the Mortgaged Property was purchased within twelve (12) months of the origination of the Mortgage Loan, the
+purchase price of the related Mortgaged Property. 
+ “ Losses ” means any and all claims, damages, losses, liabilities and
+all other reasonable and documented expenses including out-of-pocket expenses (including, without limitation, reasonable fees and expenses of outside counsel) imposed
+on, incurred by or asserted against any Person specified. 
+
+ - 14 - 
+
+ “ Master Netting Agreement ” means that certain Global Netting and Security
+Agreement, dated as of August 25, 2020, among Purchaser, Seller, and certain Affiliates of Purchaser, entered into in connection with this Agreement and the Master Repurchase Agreement, as the same shall be amended, supplemented or otherwise
+modified from time to time. 
+ “ Master Repurchase Agreement ” means that certain Master Repurchase Agreement, dated as of
+the date hereof, by and among Purchaser, Agent and Seller, as the same shall be amended, supplemented or otherwise modified from time to time. 
+
+ “ Material Adverse Change ” means, with respect to a Person, any material adverse change in the business, financial condition,
+operations or Property of such Person including the insolvency of such Person or its Parent Company, if applicable. 
+ “ Material
+Adverse Effect ” means (a) a Material Adverse Change with respect to Seller or any of its Affiliates that is a party to any Program Document; (b) a material impairment of the ability of Seller or Servicer or any of their respective
+Affiliates that is a party to any Program Document to perform under any Program Document to which it is a party; (c) a material adverse effect upon the legality, validity, binding effect or enforceability of any Program Document against Seller
+or any of its Affiliates that is a party to any Program Document; (d) a material adverse effect on the Market Value of the Purchased Assets, taken as a whole; or (e) a material adverse effect on the Approvals of Seller. 
+
+ “ Maturity Date ” has the meaning assigned thereto in the MRA Pricing Side Letter. 
+
+ “ Maximum Aggregate Purchase Price ” has the meaning assigned thereto in the MRA Pricing Side Letter. 
+
+ “ MERS ” means Mortgage Electronic Registration Systems, Inc., a Delaware corporation, or any successor in interest thereto.
+
+ “ MERS Designated Mortgage Loan ” means any Mortgage Loan as to which the related Mortgage or Assignment of Mortgage, has
+been recorded in the name of MERS, as agent for the holder from time to time of the Mortgage Note. 
+ “ MERS System ” means
+the system of recording transfers of mortgages electronically maintained by MERS. 
+ “ MIN ” means the mortgage
+identification number of Mortgage Loans registered with MERS on the MERS System. 
+ “ Modified Loan ” means an Eligible
+Mortgage Loan that (a) is insured by FHA or guaranteed by the VA, (b) (1) was purchased out of a Ginnie Mae Security or from a third-party whole loan investor solely as a result of modifications to such Eligible Mortgage Loan, or
+(2) was purchased out of a Ginnie Mae Security or from a third-party whole loan investor as a result of delinquent mortgage payments, but, without any loan modifications, subsequently became reperforming and (c) is a Ginnie Mae Mortgage
+Loan. 
+
+ - 15 - 
+
+ “ Monthly Payment ” means the scheduled monthly payment of principal and
+interest on a Mortgage Loan as adjusted in accordance with changes in the Mortgage Interest Rate pursuant to the provisions of the Mortgage Note for an Adjustable Rate Mortgage Loan. 
+
+ “ Mortgage ” means a mortgage, deed of trust or other security instrument, securing a Mortgage Note. 
+
+ “ Mortgage File ” has the meaning assigned thereto in the Custodial Agreement. 
+
+ “ Mortgage Loan ” means a Ginnie Mae Mortgage Loan, a Fannie Mae Mortgage Loan, a Freddie Mac Mortgage Loan, a Jumbo Mortgage
+Loan, an Agency Scratch and Dent Mortgage Loan, an FHA 203k Loan, or a Modified Loan. 
+ “ Mortgage Interest Rate ” means,
+with respect to each Mortgage Loan, the annual rate at which interest accrues on such Mortgage Loan from time to time in accordance with the provisions of the related Mortgage Note. 
+
+ “ Mortgage Note ” means a promissory note or other evidence of indebtedness of the obligor thereunder, evidencing a Mortgage
+Loan, and secured by the related Mortgage. 
+ “ Mortgaged Property ” means the real property (or leasehold estate, if
+applicable) securing repayment of the debt evidenced by a Mortgage Note. 
+ “ Mortgagee ” means the record holder of a
+Mortgage Note secured by a Mortgage. 
+ “ Mortgagor ” means the obligor or obligors on a Mortgage Note, including any person
+who has assumed or guaranteed the obligations of the obligor thereunder. 
+ “ MRA Collection Account Control Agreement ”
+means that certain Collection Account Control Agreement, dated as of the date hereof, among Seller, Purchaser and the Bank entered into in connection with the Master Repurchase Agreement, as the same shall be amended, supplemented or otherwise
+modified from time to time. 
+ “ MRA Pricing Side Letter ” means that certain Master Repurchase Agreement Pricing Side
+Letter, dated as of the date hereof, between Seller and Purchaser, entered into in connection with this Agreement, as the same may be amended, modified or supplemented from time to time. 
+
+ “ MRA Program Documents ” means the Master Repurchase Agreement, the MRA Pricing Side Letter, the MRA Collection Account
+Control Agreement, any assignment of Hedge Instrument, the Electronic Tracking Agreement, the Master Netting Agreement, the Escrow Agreement, the Intercreditor Agreement, the Joint Securities Account Control Agreement, and all other agreements,
+documents and instruments entered into by Seller on the one hand, and Purchaser or one of its Affiliates (or Custodian on its behalf) and/or Agent or one of its Affiliates on the other, in connection therewith with respect to the Transactions
+contemplated thereunder and all amendments, restatements, modifications or supplements thereto. 
+
+ - 16 - 
+
+ “ Negative Amortization ” means the portion of interest accrued at the
+Mortgage Interest Rate in any month which exceeds the Monthly Payment on the related Mortgage Loan for such month and which, pursuant to the terms of the Mortgage Note, is added to the principal balance of such Mortgage Loan. 
+
+ “ Net Carry Adjustment ” means an amount (which may be a negative number) equal to (a) the difference between (i) the
+product of (A) the rate of interest to be borne by the related Security multiplied by the aggregate principal amount of the Related Mortgage Loans evidenced by the related Participation Certificate, and (B) the number of days in the period
+beginning on the Issuance Date of such Security, but excluding the related Settlement Date, and (ii) the product of (A) the daily application of the applicable Transaction Rate to the Purchase Price, and (B) the number of days in the
+period beginning on the date of the purchase of the related Participation Certificate under this Agreement, but excluding the related Settlement Date, (b) divided by 360. 
+
+ “ Non-First-Lien State Bond Loans ” means a State Bond Loan that is not a First-Lien
+State Bond Loan.” 
+ “ Non-QM Mortgage Loan ” means either (a) a Mortgage
+Loan which does not have the benefit of the safe harbor from liability under the ATR Rules or a rebuttable presumption for such liability or (b) a Mortgage Loan secured by a one-to four-family residential
+investor property, which in either case was underwritten and originated in accordance with underwriting guidelines reasonably acceptable to Purchaser. 
+
+ “ Non-Utilization Fee ” shall have the meaning assigned thereto in the MRA Pricing Side
+Letter. 
+ “ Obligor ” means a Person obligated to make payments pursuant to a Contract; provided , that in the event
+that any payments in respect of a Contract are made by any other Person, such other Person shall also be deemed to be an Obligor. 
+
+ “ OFAC ” means the Office of Foreign Assets Control of the United States Department of Treasury. 
+
+ “ OFAC Lists ” has the meaning ascribed to it in Section 29(a). 
+
+ “ Other Agreement ” means any (i) warehouse, credit, repurchase, line of credit, financing or hedging agreements or other
+similar agreement relating to any Indebtedness in an amount greater than $[***] between Seller or any of its Affiliates or Subsidiaries, on the one hand, and any Person, on the other hand, or (ii) warehouse, credit, repurchase, line of credit,
+financing or hedging agreements or other agreement relating to any Indebtedness (including, without limitation, the Program Documents and the EPF Program Documents) in any amount entered into between Seller or any of its Affiliates or Subsidiaries,
+on the one hand, and Purchaser or any of its Affiliates, on the other hand. 
+ “ OTS ” means Office of Thrift Supervision or
+any successor thereto. 
+
+ - 17 - 
+
+ “ Pass Through Rate ” means with respect to a Security, the rate of interest
+to be borne by such Security, which rate or rates shall be set forth in the related Confirmation. 
+ “ Parent Company ” means
+a corporation or other entity owning at least 50% of the membership interests of Seller. 
+ “ Participation Certificate ”
+means a Ginnie Mae Participation Certificate, a Fannie Mae Participation Certificate or a Freddie Mac Participation Certificate, as applicable. 
+
+ “ Person ” means any legal person, including any individual, corporation, partnership, association, joint stock company, trust,
+limited liability company, unincorporated organization, governmental entity or other entity of similar nature. 
+ “ Pricing Side
+Letter ” means the Pricing Side Letter, dated as of even date herewith, between Seller and Purchaser entered into in connection with this Agreement, as amended, supplemented or otherwise modified from time to time. 
+
+ “ Program Documents ” means this Agreement, the Pricing Side Letter, the Custodial Agreement, the Custodial Account Control
+Agreement, the Master Netting Agreement, the Participation Certificates, the MRA Program Documents, any intercreditor agreement, and all other agreements, entered into by Seller on the one hand, and Purchaser (or Custodian on its behalf) and/or
+Agent or one of its Affiliates on the other, in connection herewith or therewith with respect to the transactions contemplated hereunder or thereunder and all amendments, restatements, modifications or supplements thereto. 
+
+ “ Property ” means any right or interest in or to property of any kind whatsoever, whether real, personal or mixed and whether
+tangible or intangible. 
+ “ Purchase Date ” means, with respect to a Participation Certificate, the date on which such
+Participation Certificate is purchased by Purchaser. 
+ “ Purchase Price ” has the meaning assigned thereto in the Pricing
+Side Letter. 
+ “ Purchaser’s Wire Instructions ” shall have the meaning assigned thereto in the Pricing Side Letter.
+
+ “ Purchaser ” has the meaning set forth in the preamble hereof. 
+
+ “ Related Mortgage Loan ” means a Mortgage Loan in which a Participation Certificate evidences the 100% undivided beneficial
+ownership interest. 
+ “ Related Participation Certificate ” means the Participation Certificate relating to a pool of
+Mortgage Loans. 
+ “ Relevant Governmental Body ” means the Federal Reserve Board and/or the Federal Reserve Bank of New
+York, or a committee officially endorsed or convened by the Federal Reserve Board and/or the Federal Reserve Bank of New York or any successor thereto. 
+
+ - 18 - 
+
+ “ Request for Release and Receipt ” means the Request for Release and Receipt
+set forth as Annex 5 to the Custodial Agreement. 
+ “ Responsible Officer ” means (i) as to any Person, the chief
+executive officer or, with respect to financial matters, the chief financial officer of such Person and (ii) as to Seller, Chief Executive Officer, Chief Financial Officer or Treasurer. 
+
+ “ Restricted Mortgage Loan ” means (i) a “Manufactured Home Loan,” “Graduated Payment Loan,”
+“Buydown Loan,” “Project Loan,” “Construction Loan” or “HECM Loan,” each as defined in the applicable Agency Guide, (ii) a 30+ Day Delinquent Mortgage Loan, (iii) a Mortgage Loan for which the
+related Escrow Payments have not been made by the next succeeding Due Date, or (iv) a High Cost Mortgage Loan. 
+
+ “ SEC ” means the Securities Exchange Commission or any successor thereto. 
+
+ “ Security ” means a Ginnie Mae Security, a Fannie Mae Security or a Freddie Mac Security, as applicable. 
+
+ “ Security Issuance Failure ” means failure of the Security to be issued for any reason whatsoever by the Anticipated Delivery
+Date. 
+ “ Security Settlement Fee ” shall have the meaning assigned thereto in the Pricing Side Letter. 
+
+ “ Selling System ” means the Freddie Mac automated system by which sellers and servicers of mortgage loans to Freddie Mac
+transfer mortgage summary and record data or mortgage accounting and servicing information from their computer system or service bureau to Freddie Mac, as more fully described in the Freddie Mac Guide. 
+
+ “ Servicer Side Letter ” has the meaning assigned thereto in the Master Repurchase Agreement. 
+
+ “ Servicing File ” means with respect to each Mortgage Loan, the file retained by Seller or its designee consisting of all
+documents that are customarily retained by servicers that service mortgage loans substantially similar to such Mortgage Loan, which would include copies of the Mortgage File, all documents necessary to document and service the Mortgage Loans and any
+and all documents required to be delivered in connection with any transfer of servicing pursuant to the Program Documents. 
+
+ “ Servicing Records ” means, with respect to a Related Mortgage Loan, the related servicing records, including but not limited
+to any and all servicing agreements, files, documents, records, data bases, computer tapes, copies of computer tapes, proof of insurance coverage, insurance policies, appraisals, other closing documentation, payment history records, and any other
+records relating to or evidencing the servicing of such Related Mortgage Loan. 
+ “ Servicing Term ” shall have the meaning
+assigned thereto in Section 6(a) . 
+
+ - 19 - 
+
+ “ Servicing Termination Events ” shall have the meaning assigned thereto in
+ Section 6(e) . 
+ “ Settlement Date ” means the date specified in a Takeout Commitment upon which
+the related Security is scheduled to be delivered to the specified Takeout Investor on a “delivery versus payment” basis. 
+
+ “ SOFR ” with respect to any day means the secured overnight financing rate published for such day by the Federal Reserve Bank
+of New York, as the administrator of the benchmark, (or a successor administrator) on the Federal Reserve Bank of New York’s Website. 
+
+ “ SOFR-Based Rate ” means SOFR, Compounded SOFR or Term SOFR. 
+
+ “ Strict Compliance ” means compliance of Seller and the Related Mortgage Loans with the requirements of the Agency Guide as
+amended by any agreements between Seller or a Takeout Investor, on the one hand, and the Applicable Agency, on the other hand, sufficient to enable Seller to issue and to service and Ginnie Mae to guarantee or Fannie Mae or Freddie Mac to issue and
+guarantee a Security. 
+ “ Subsidiary ” means, with respect to any Person, any corporation, partnership or other entity of
+which at least a majority of the securities or other ownership interests having by the terms thereof ordinary voting power to elect a majority of the board of directors or other persons performing similar functions of such corporation, partnership
+or other entity (irrespective of whether or not at the time securities or other ownership interests of any other class or classes of such corporation, partnership or other entity shall have or might have voting power by reason of the happening of
+any contingency) is at the time directly or indirectly owned or controlled by such Person or one or more Subsidiaries of such Person or by such Person and one or more Subsidiaries of such Person. Notwithstanding the foregoing, none of Offerpad Home
+Loans, LLC, MTH Mortgage, LLC, MSC Mortgage, LLC, TRI Pointe Connect, LLC, Day One Mortgage, LLC, CUSA Affordable Housing, LLC, Commercial Agency USA, LLC, LD Escrow, Inc. or any joint venture formed by Seller after the date hereof, shall be
+considered a Subsidiary for purposes of this Agreement or any other Program Document. 
+ “ Successor Servicer ” means an
+entity with the necessary Approvals, as the circumstances may require, and designated by Purchaser, in conformity with Section 6(f) , to replace Seller as issuer and subservicer, mortgagee or seller/servicer of the Related
+Mortgage Loans or the Securities related thereto. 
+ “ Takeout Commitment ” means (i) a trade confirmation (which may be
+delivered electronically) from the related Takeout Investor to Seller confirming the details of a forward trade between the Takeout Investor and Seller with respect to one or more Securities relating to a Participation Certificate, which trade
+confirmation shall be enforceable and in full force and effect, and shall be validly and effectively assigned to BCI pursuant to a Trade Assignment, and relate to pools of Related Mortgage Loans that satisfy the “good delivery standards”
+of the Securities Industry and Financial Markets Association as set forth in the Securities Industry and Financial Markets Association Uniform Practices Manual, as amended from time to time or (ii) a commitment of Seller (a) to swap one or
+more identified Related Mortgage Loans with a Takeout Investor that is an Agency for a Security and (b) to sell the related Security or Takeout MBS to a Takeout Investor. 
+
+ - 20 - 
+
+ “ Takeout Investor ” means (x) for
+ non-Jumbo Mortgage Loans, any of (i) Barclays Capital, Inc., or any successor thereto, (ii) any member of the Mortgage Backed Securities Division of the Fixed Income Clearing Corporation, unless such
+member is disapproved by Agent in its reasonable discretion or (iii) any other Person listed on Exhibit J to the Master Repurchase Agreement, which may be updated from time with the consent of the Agent (such consent not to be unreasonably
+withheld) by delivery of an updated Exhibit J to the Master Repurchase Agreement and (y) for Jumbo Mortgage Loans, either (i) Barclays Bank PLC or (ii) any other Person listed on Exhibit J to the Master Repurchase Agreement, which may
+be updated from time with the consent of the Agent (such consent not to be unreasonably withheld) by delivery of an updated Exhibit J to the Master Repurchase Agreement. 
+
+ “ Termination Date ” means the earliest to occur of (i) the Maturity Date, (ii) the termination of the Master
+Repurchase Agreement, or (iii) at the option of Purchaser, the occurrence of a Servicing Termination Event under this Agreement after the expiration of any applicable grace period. 
+
+ “ Term SOFR ” means the forward-looking term rate based on SOFR that has been selected or recommended by the Relevant
+Governmental Body. 
+ “ Trade Assignment ” means a letter substantially in the form of Exhibit B .
+
+ “ Trade Price ” means the price (expressed as a percentage of the initial principal amount of the Security), as specified
+in the related Takeout Commitment at which the related Takeout Investor is obligated to purchase such Security as specified in such Takeout Commitment. 
+
+ “ Trade Principal ” means an amount equal to the product of (a) the Trade Price and (b) the initial principal amount
+of the related Security, as specified in the related Takeout Commitment. 
+ “ Transaction Fee ” shall have the meaning
+assigned thereto in the MRA Pricing Side Letter. 
+ “ Transaction Rate ” shall have the meaning assigned thereto in the
+Pricing Side Letter. 
+ “ Unsecured Term Loan ” shall have the meaning assigned thereto in the Master Repurchase Agreement.
+
+ “ VA ” means the United States Department of Veterans Affairs or any successor thereto. 
+
+ “ Warehouse Lender ” means any lender providing financing to Seller for the purpose of warehousing, originating or purchasing a
+Mortgage Loan, which lender has a security interest in such Mortgage Loan to be purchased by Purchaser. 
+
+ - 21 - 
+
+ “ Warehouse Lender’s Release ” means a letter, in the form of Exhibit D,
+from a Warehouse Lender to Purchaser, unconditionally releasing all of Warehouse Lender’s right, title and interest in certain Mortgage Loans identified therein upon payment to the Warehouse Lender. 
+
+ Section 2. Procedures for Purchases of Participation Certificates . 
+
+ (a) Purchaser may, in its sole discretion from time to time until the Termination Date, but shall have no obligation to, purchase one or more
+Participation Certificates from Seller; provided , that the sum of (i) the Aggregate MRA Purchase Price and (ii) the Aggregate EPF Purchase Price shall not exceed, as of any date of determination, the Maximum Aggregate
+Purchase Price. In connection with Purchaser’s purchase of any such Participation Certificate, Seller, on behalf of Purchaser, shall arrange for the Delivery to BCI of a Security backed by the Related Mortgage Loans, which Security shall be
+subject to a Takeout Commitment. The purchase of any Participation Certificate shall be subject to the receipt by Purchaser of the items listed in Section 2(f) and ( g) from Seller, in form and substance
+satisfactory to Agent. In accordance with the provisions of the Electronic Tracking Agreement, the Seller shall, at its sole cost and expense, (1) cause each Related Mortgage Loan with respect to which a Participation Certificate is to be sold
+to the Purchaser on a Purchase Date, the Mortgage for which is recorded in the name of MERS, to be designated a MERS Mortgage Loan and (2) cause the Purchaser to be designated an “associated member” (as defined in the Electronic
+Tracking Agreement) with respect to each such MERS Mortgage Loan. Notwithstanding the satisfaction of the conditions specified in this Section 2(a) or anything else herein or in any other Program Document to the contrary,
+Purchaser is not obligated to purchase any Participation Certificate offered to it hereunder. 
+ (b) If Purchaser elects to purchase any
+Participation Certificate, the parties shall execute a Confirmation with respect to such Participation Certificate reflecting the agreed-upon terms of the transaction, and shall pay to Seller, on the Purchase Date, the amount of the Initial Purchase
+Price Installment for such Participation Certificate upon receipt of a duly executed and properly completed original Participation Certificate. Effective upon execution and delivery of such Participation Certificate to Purchaser, Seller hereby
+assigns to Purchaser all of Seller’s right, title and interest in and to, and control over, such Participation Certificate and a 100% undivided beneficial interest in the Related Mortgage Loans. In the event that Purchaser does not transmit the
+Initial Purchase Price Installment, (i) any Participation Certificate delivered by Custodian to Purchaser in anticipation of such purchase shall automatically be null and void and Purchaser shall promptly return it to Seller,
+(ii) Purchaser will not deliver the applicable Trade Assignment to the applicable Takeout Investor (or, if already delivered, will revoke it) or consummate the transactions contemplated in the applicable Trade Assignment and (iii) to the
+extent that Purchaser shall nevertheless receive the Security backed by the Related Mortgage Loans prior to the Participation Certificate becoming null and void as provided in clause (i) above, Purchaser shall take all reasonable actions
+necessary to ensure that such Security shall be delivered in accordance with delivery instructions provided by Seller. 
+ (c) The terms and
+conditions of the purchase of each Participation Certificate shall be as set forth in this Agreement. Each Participation Certificate shall be deemed to incorporate, and Seller shall be deemed to make as of the applicable dates specified in
+ Section 9 , for the benefit of Purchaser and each Assignee of such Participation Certificate, the representations and warranties set forth in Section 9 . 
+
+ - 22 - 
+
+ (d) Purchaser shall provide a Confirmation to Seller on or before the Purchase Date or as
+soon as practicable after the Purchase Date. In the event of any conflict between the terms of a Confirmation and this Agreement, the Confirmation shall prevail. 
+
+ (e) For the avoidance of any doubt, it is hereby understood and agreed that Purchaser’s purchase of the beneficial ownership interest in
+and to Related Mortgage Loans, as evidenced by a Participation Certificate, shall include a beneficial ownership interest in and to all of the servicing rights relating to such Mortgage Loans. 
+
+ (f) On or prior to the Effective Date, except as otherwise specified below, Purchaser shall have received the following, in form and substance
+reasonably satisfactory to Purchaser and Agent and duly executed by each party thereto (as applicable): 
+ (i) Each of the
+Program Documents duly executed and delivered by the parties thereto and being in full force and effect, free of any modification, breach or waiver; 
+
+ (ii) A copy of an officer’s certificate in a form reasonably satisfactory to Purchaser, together with (1) the
+certificate of formation of Seller and any amendments thereto, certified by the Secretary of State of Seller’s state of formation, (2) a copy of Seller’s operating agreement, together with any amendments thereto, (3) a copy of
+the duly authorized corporate resolutions, authorizing Seller to enter into this Agreement and the other Program Documents to which it is a party, and authorizing one or more of Seller’s officers to execute the documents related to this
+Agreement and the other Program Documents to which it is a party; 
+ (iii) No later than three (3) Business Days after
+the Effective Date, an opinion of Seller’s counsel as to such matters as Purchaser or Agent may reasonably request (including, without limitation, a non-contravention, enforceability and corporate opinion
+with respect to Seller; an opinion with respect to the inapplicability of the Investment Company Act to Seller), each in form and substance reasonably acceptable to Purchaser and Agent; and 
+
+ (iv) No later than ten (10) Business Days after the Effective Date, an opinion of Seller’s counsel that the relevant
+provisions of this Agreement constitute a “securities contract” within the meaning of the Bankruptcy Code and that none of the transactions contemplated hereunder constitute an avoidable transfer under Section 546(f) of the Bankruptcy
+Code, in form and substance reasonably acceptable to Purchaser and Agent; and 
+ (v) Evidence that all other actions
+necessary or, in the opinion of Agent, desirable to perfect and protect Purchaser’s interest in the Related Mortgage Loans and other Collateral have been taken, including, without limitation, duly filed Uniform Commercial Code financing
+statements on Form UCC1. 
+
+ - 23 - 
+
+ (g) In addition to those items listed in Section 2(a) and (b) ,
+prior to each Purchase Date, the following shall have occurred: 
+ (i) Seller shall have paid to Purchaser: 
+
+ (A) all accrued and unpaid fees and expenses owed to Purchaser that have been invoiced in accordance with the Program Documents
+in U.S. dollars, in immediately available funds, without deduction, setoff or counterclaim; and 
+ (B) the Security
+Settlement Fee for the related Participation Certificate as required under Section 2 of the Pricing Side Letter in U.S. dollars, in immediately available funds, without deduction, setoff or counterclaim; provided that Purchaser may, in its sole
+discretion, net any unpaid Security Settlement Fee from the proceeds of any Purchase Price paid by Purchaser to Seller. 
+
+ (ii) The fully completed, executed and authenticated Participation Certificate together with the certifications of the
+Custodian provided by Section 2 of the Custodial Agreement or, with respect to a Security, such Security shall have been delivered to the Purchaser; 
+
+ (iii) A Trade Assignment (unless Purchaser is the Takeout Investor), fully completed and duly executed by Seller and the
+related Takeout Investor, together with either (a) a copy of a Takeout Commitment with respect to the Security to be backed by the Related Mortgage Loans evidenced by such Participation Certificate or (b) a letter from Seller confirming
+the details of such Takeout Commitment shall have been delivered to Purchaser; 
+ (iv) A letter from any warehouse lender
+having a security interest in the Related Mortgage Loans, substantially in the form of Exhibit D , addressed to Purchaser, releasing any and all right, title and interest in such Related Mortgage Loans shall have been delivered to Purchaser;
+
+ (v) All representations and warranties made by Seller in this Agreement are true and correct in all material respects; and
+
+ (vi) No Servicing Termination Event has occurred and is continuing. 
+
+ Section 3. Takeout Commitments . 
+
+ Seller hereby assigns to BCI, free of any security interest, lien, claim or encumbrance of any kind, Seller’s rights under each Takeout
+Commitment to deliver the Security specified therein to the related Takeout Investor and to receive the purchase price therefor from such Takeout Investor. Subject to Purchaser’s rights hereunder, Purchaser agrees that it will cause BCI to
+satisfy the obligation under the Takeout Commitment to deliver the Security to the Takeout Investor on the Settlement Date specified therein. Seller understands that, as a result of this Section 3 and each Trade Assignment,
+BCI will succeed to the rights and obligations of 
+
+ - 24 - 
+
+Seller with respect to each Takeout Commitment subject to a Trade Assignment, and that in satisfying each such Takeout Commitment, BCI will stand in the shoes of Seller and, consequently, will be
+acting as a non-dealer in exercising its rights and fulfilling its obligations assigned pursuant to this Section 3 and each Trade Assignment. Each Trade Assignment delivered by Seller
+to Purchaser shall be delivered by Seller in a timely manner sufficient to enable BCI to facilitate the settlement of the related trade on the trade date in accordance with Chapter 8 of the Securities Industry and Financial Markets
+Association’s Uniform Practices for the Clearance and Settlement of Mortgage Backed Securities and other Related Securities, as amended from time to time. 
+
+ Section 4. Completion Fee . 
+
+ (a) Subject to the terms of this Agreement, Purchaser shall pay to Seller the Completion Fee for each Participation Certificate that Purchaser
+elects to purchase hereunder as follows: (i) the Initial Completion Fee Installment shall be paid on the date of Delivery of the related Security and (ii) the Final Completion Fee Installment shall be paid on the later to occur of the
+Settlement Date of the related Security and the date of receipt by BCI of the Trade Price with respect to such related Security. 
+ (b)
+Except as otherwise provided in this Section 4 and in Section 5(b) , and subject to Purchaser’s right of set-off set forth in
+ Section 12 , the Completion Fee owed by Purchaser with respect to a Participation Certificate, if any, shall be paid by Purchaser to Seller in full by not later than the Settlement Date of the related Security in accordance
+with the following wire instructions: 
+
+ Wire Transfer Field 
+
+ Description 
+
+ ABA Number 
+
+ 121000248 
+
+ Bank Name 
+
+ Wells Fargo Bank, N.A. 
+
+ Bank Address, City, State 
+
+ 420 Montgomery Street
+ San Francisco, CA
+94104
+ (regardless of where the account is located)
+
+ BIC (SWIFT Routing) 
+
+ [***] 
+
+ Beneficiary Account Number 
+
+ [***] 
+
+ Beneficiary Name 
+
+ LD MBS 
+
+ Amount of Wire 
+
+ Optional 
+
+ Originator to Beneficiary information (any additional information that you want to note within the wire). 
+
+ For International Transfer Only 
+
+ International [***] 
+
+ CHIPS Participant Only 
+
+ [***] 
+
+ - 25 - 
+
+ (c) Upon exercise by Purchaser of its remedies under Section 6(f) ,
+Purchaser’s obligation to pay and Seller’s right to receive any portion of the Completion Fee relating to such Related Mortgage Loans shall automatically be canceled and become null and void; provided , that such cancellation
+shall in no way relieve Seller or otherwise affect the obligation of Seller to indemnify and hold Purchaser and Agent harmless as specified in Section 13 . At no time shall Seller have any beneficial interest in the
+servicing rights with respect to Related Mortgage Loans while the related Participation Certificate is outstanding. 
+ (d) If a Participation
+Certificate is purchased by Purchaser after the first day of the month in which the Settlement Date occurs, Purchaser shall also pay to Seller on the date of Delivery to Purchaser of the Security backed by the related Mortgage Loans an amount equal
+to the accrued interest on the related Security at the rate specified in the related Takeout Commitment from the first day of such month to and including the day immediately preceding the date Purchaser purchased such Participation Certificate. If a
+Participation Certificate is purchased by Purchaser in the month prior to the month in which the Settlement Date occurs, the Completion Fee shall be reduced by an amount equal to all interest payments which accrue on such Participation Certificate
+during the period from the date of purchase of such Participation Certificate through and including the last day of the month prior to the month in which such Settlement Date occurs. 
+
+ Section 5. Issuance of Securities . 
+
+ (a) (i) In connection with the purchase of a Participation Certificate, Seller shall instruct (and, if Seller fails to instruct, then
+Agent may instruct) Custodian to deliver to the Applicable Agency, the documents listed in Annex 19-A , 19-B or
+ 19-C of the Custodial Agreement, as applicable, in respect of the Related Mortgage Loans, in the manner and at the time set forth in the Custodial Agreement. Seller shall thereafter promptly deliver to
+the Applicable Agency any and all additional documents requested by the Applicable Agency to enable the Applicable Agency to make Delivery to Purchaser of a Security backed by such Mortgage Loans on the related Anticipated Delivery Date. Seller
+shall not revoke such instructions to Custodian and shall not revoke its instructions to the Applicable Agency to make Delivery to Purchaser or its designee of a Security backed by such Mortgage Loans. The Delivery to Purchaser of a Security shall
+be made in accordance with the following delivery instructions: 
+ Fed Book Entry Securities (MBS) 
+
+ ABA: [***] 
+ Bank of NYC/BCMBS
+
+ (ii) Seller shall notify Purchaser, not later than 12:00 noon, Eastern Time, on the second (2 nd ) Business Day prior to the applicable Settlement Date (a) of the amount of any change in the principal amount of the Mortgage Loans backing each such Security related to such Settlement Date
+and (b) with respect to Freddie Mac Securities, the Freddie Mac mortgage loan pool number applicable to each Security to which such Settlement Date relates. Upon Delivery of such Security to BCI or its designee, Purchaser shall cease to have
+any interest under such Participation Certificate and in exchange shall have a 100% ownership interest in the related Security. It is understood and agreed that for so long as Seller is subservicing Related Mortgage Loans, Seller shall retain only
+record title to the Mortgages (and not an equitable interest) in all such Mortgage Loans (other than MERS Designated Mortgage Loans) for the sole purpose of subservicing such Mortgage Loans on a servicing-released basis. 
+
+ - 26 - 
+
+ (b) If Delivery of a Security backed by the Mortgage Loans evidenced by a Participation
+Certificate purchased hereunder has not occurred by 12:00 noon (Eastern Time) on the related Settlement Date as a result of a Security Issuance Failure or otherwise, then subject to the exercise by Purchaser of its rights set forth in
+ Section 4(c) , the Completion Fee relating to such Participation Certificate shall be reduced on each day during the period from the Settlement Date to (but not including) the earlier of (x) the date of Delivery of such
+Security, and (y) the date of satisfaction of the obligations of Seller pursuant to the exercise by Purchaser of any remedial election authorized by this Section 5 , by an amount equal to the Daily Completion Fee
+Reduction Amount. The Completion Fee (reduced by the applicable Daily Completion Fee Reduction Amounts) relating to such Participation Certificate, if any, shall not be payable until the end of the period specified in the preceding sentence. 
+
+ (c) If a breach by Seller of this Agreement results in any Related Mortgage Loan being a Defective Mortgage Loan on the Purchase Date of the
+related Participation Certificate to Purchaser, Agent in its sole discretion may require that Seller, upon receipt of notice from Purchaser or Agent of its exercise of such right, to either (x) immediately repurchase Purchaser’s beneficial
+ownership interest in such Defective Mortgage Loan by remitting to Purchaser the allocable amount paid by Purchaser for such beneficial interest plus accrued interest at the rate specified in the related Mortgage Note on the principal amount thereof
+from the date of Purchaser’s purchase of such Participation Certificate to the date of such repurchase together with any Losses suffered by Purchaser relating to such repurchase (including, without limitation, any Losses incurred by Purchaser
+resulting from adjustments to the trade required by the Takeout Investor), or (y) deliver to Custodian a Mortgage Loan eligible to back such Security in exchange for such Defective Mortgage Loan, which newly delivered Mortgage Loan shall be in
+all respects acceptable to Agent in Agent’s reasonable discretion, and such newly delivered Mortgage Loan will thereupon become one of the Related Mortgage Loans relating to the Participation Certificate. If the aggregate principal balance of
+any Mortgage Loans that are accepted by Purchaser pursuant to clause (y) of the immediately preceding sentence is less than the aggregate principal balance of any Defective Mortgage Loan that is being replaced by such Mortgage Loan, Seller
+shall remit with such Mortgage Loan to Purchaser an amount equal to the difference between the aggregate principal balance of the new Mortgage Loan accepted by Purchaser and the aggregate principal balance of the Defective Mortgage Loan being
+replaced thereby plus accrued interest on such Defective Mortgage Loan at the rate specified in the related Mortgage Note on the principal amount thereof from the Purchase Date of Purchaser’s purchase of such Participation Certificate to the
+date of substitution. 
+ (d) If any Related Mortgage Loan becomes thirty (30) days or more Delinquent with respect to the first
+scheduled monthly payment due Purchaser after the date on which such Related Mortgage Loan was originated and prior to the Anticipated Delivery Date, Seller shall repurchase the beneficial interest in such Related Mortgage Loan as if it were a
+Defective Mortgage Loan upon direction by Agent given no later than one hundred twenty (120) days after the Purchase Date. 
+ (e) No
+exercise by Purchaser or Agent of their respective rights under this Section 5 shall relieve Seller of responsibility or liability for any breach of this Agreement. 
+
+ - 27 - 
+
+ Section 6. Servicing of the Mortgage Loans; Servicer Termination; Backup
+Servicer . 
+ (a) Upon payment of the Initial Purchase Price Installment with respect to a Participation Certificate and so long as
+such Participation Certificate remains outstanding (subject to Section 4 ), Purchaser shall own a 100% undivided beneficial interest in the servicing rights related to the Related Mortgage Loans, including the Mortgage File
+related to such Related Mortgage Loans. Seller and Purchaser each agrees and acknowledges that a 100% undivided beneficial interest in Related Mortgage Loans shall be sold to Purchaser on a servicing released basis, and that Purchaser is engaging
+and hereby does engage Seller (or a subservicer designated by Seller) to provide subservicing of each Related Mortgage Loan for the benefit of Purchaser (and any other registered holder of the related Participation Certificate) for each transaction
+for a term of thirty (30) days from the related Purchase Date (subject to the termination rights provided in this Agreement, including, without limitation, Section 6(f) of this Agreement), which term may be extended in
+writing by Purchaser, in its sole discretion, for additional thirty (30) day periods (each, a “ Servicing Term ”). If such Servicing Term is not extended by Purchaser or if Purchaser has terminated Seller as a result of a
+Servicing Termination Event, Seller shall transfer such servicing to Purchaser or its designee at no cost or expense to Purchaser as provided in Section 6(g) of this Agreement. Seller shall hold or cause to be held all
+Escrow Payments collected with respect to the Related Mortgage Loans in segregated accounts for the sole benefit of the Mortgagors and shall apply the same for the purposes for which such funds were collected. If Seller should discover that, for any
+reason whatsoever, it has failed to perform fully its servicing obligations in any material respect with respect to the Related Mortgage Loans, Seller shall promptly notify Purchaser. The parties hereto acknowledge and agree that as of the Effective
+Date, Seller may delegate its obligations hereunder to subservice any or all of the Related Mortgage Loans to Cenlar FSB. 
+ For so long as
+a Participation Certificate is outstanding, Seller shall neither assign, encumber or pledge its right to servicing compensation hereunder or its obligation to subservice the Related Mortgage Loans in whole or in part, nor delegate its rights or
+duties under this Agreement (other than to a subservicer (including, without limitation, Cenlar FSB)) without the prior written consent of Agent, the granting of which consent shall be in the sole discretion of Agent. Seller hereby acknowledges and
+agrees that (i) Purchaser is entering into this Agreement in reliance upon Seller’s representations as to the adequacy of its financial standing, servicing facilities, personnel, records, procedures, reputation and integrity, and the
+continuance thereof; and (ii) Seller’s engagement hereunder to provide mortgage servicing for the benefit of Purchaser (and any other registered holder of the Participation Certificate) is intended by the parties to be a “personal
+service contract” and Seller is hereunder intended by the parties to be an “independent contractor”. 
+ (b) (i) Seller
+(or a subservicer designated by Seller (including, without limitation, Cenlar FSB)) shall subservice and administer the Related Mortgage Loans relating to a Participation Certificate on behalf of Purchaser in accordance with Accepted Servicing
+Practices. Seller shall have no right to modify or alter the terms of any Related Mortgage Loan or consent to the modification or alteration of the terms of any Related Mortgage Loan except in Strict Compliance with the related Agency Program.
+Seller (or a subservicer designated by Seller (including, without limitation, Cenlar FSB)) shall at all times maintain accurate and complete records of its servicing of the Related Mortgage Loans, and Agent may, at any time during
+
+ - 28 - 
+
+Seller’s business hours on reasonable notice, examine and make copies of such Servicing Records. Seller agrees that Purchaser is the 100% beneficial owner of all Servicing Records relating
+to the Related Mortgage Loans. Seller covenants to hold or cause any designated subservicer to hold such Servicing Records for the benefit of Purchaser and to safeguard such Servicing Records and to deliver them promptly to Agent or its designee
+(including the Custodian) at Agent’s request or otherwise as required by operation of this Section 6 . 
+
+ (ii) If Delivery of a Security is not made to Purchaser on or before the Anticipated Delivery Date, Seller (or a subservicer
+designated by Seller (including, without limitation, Cenlar FSB)) shall deliver to Purchaser, upon reasonable request by Purchaser, reports regarding the status of those Related Mortgage Loans for which a Security has not yet been issued, which
+reports shall include, but shall not be limited to, a description of those Related Mortgage Loans thirty (30) days or more Delinquent, and such other circumstances with respect to any Related Mortgage Loans (whether or not such Related Mortgage
+Loans are included in the foregoing list) that could materially adversely affect any of such Related Mortgage Loans, Purchaser’s beneficial interest in such Related Mortgage Loans or the collateral securing any of such Related Mortgage Loans.
+Seller (or a subservicer designated by Seller (including, without limitation, Cenlar FSB)) shall deliver such a report to Purchaser upon such request of Purchaser until (i) Delivery of the related Security to Purchaser or (ii) the exercise
+by Purchaser of any remedial election pursuant to Section 5 . In no event shall Seller delegate any of its subservicing duties hereunder (other than to Cenlar FSB) to any other Person without first obtaining the prior
+written consent of Purchaser. 
+ (iii) Upon the request of Purchaser or Agent from time to time, Seller shall furnish to
+Purchaser and Agent reports in form and scope satisfactory to Agent, setting forth (i) data regarding the performance of the individual Related Mortgage Loans, (ii) a summary report of all Related Mortgage Loans serviced by the Seller and
+originated pursuant to an Agency Guide, HUD and/or FHA guidelines (on a portfolio basis), in each case, for the immediately preceding month, including, without limitation, all collections, delinquencies, defaults, defects, claim rates, losses and
+recoveries, and (iii) any other information reasonably requested by Purchaser or Agent. 
+ (c) Seller, as servicer, shall establish and
+maintain the “Custodial Account” with Bank entitled “loanDepot.com, LLC Custodial Account, for the benefit of Barclays Bank PLC and its assignees.” The Custodial Account shall be subject to the terms and conditions of the
+Custodial Account Control Agreement. Following the occurrence and during the continuance of an Event of Default, Seller shall deposit or cause to be deposited into such account in the form received within two (2) Business Days of receipt
+thereof, with any necessary endorsements, all collections received in respect of the Related Mortgage Loans relating to Participation Certificates purchased by Purchaser hereunder. 
+
+ (d) Upon the occurrence and continuance of an Event of Default, amounts deposited in the Custodial Account with respect to any Related Mortgage
+Loan relating to Participation Certificates purchased by Purchaser hereunder shall be held in trust for the benefit of Purchaser and shall be released only as follows: 
+
+ - 29 - 
+
+ (i) Except as otherwise provided in
+ Section 6(d)(ii) , upon either (x) the Settlement Date (unless there is a Securities Issuance Failure) or (y) if earlier, on the date required by the applicable Agency Guide, amounts deposited in the Custodial
+Account shall be released to Seller. Notwithstanding the foregoing, all amounts relating to Participation Certificates purchased by Purchaser hereunder and deposited in the Custodial Account shall be released to Seller upon the Settlement Date of
+the related Security (unless there is a Securities Issuance Failure) only if, and to the extent that, the amounts due and payable to Purchaser hereunder have been set-off against the Purchase Price for the
+Related Participation Certificate or the Completion Fee. The amounts paid to Seller (if any) pursuant to this Section 6(d)(i) shall constitute Seller’s sole compensation for subservicing the Related Mortgage Loans as
+provided in this Section 6 . 
+ (ii) If Successor Servicer takes delivery of such Mortgage Loans
+either under the circumstances set forth in Section 6(f) or otherwise, all amounts deposited in the Custodial Account shall be paid to Purchaser promptly upon such delivery. 
+
+ (iii) If a Security is not issued solely as a result of a Security Issuance Failure during the month in which the related
+Settlement Date occurs, in any period thereafter during which Seller remains as subservicer, all amounts deposited in the Custodial Account shall be released only in accordance with the Agent’s written instructions. 
+
+ (e) Purchaser (or any other registered holder of the Related Participation Certificate) shall be entitled to effect termination of
+Seller’s subservicing rights and obligations respecting the affected Related Mortgage Loans in the event any of the following circumstances or events (“ Servicing Termination Events ”) occur and are continuing: 
+
+ (i) any failure by Seller to remit to Purchaser (or other registered holder of the Participation Certificate) when due any
+payment required to be made under the terms of this Agreement or such Participation Certificate and such failure is not cured within three (3) Business Days of the earlier of (x) Seller’s receipt of written notice from Purchaser of
+such breach or (y) the date on which Seller obtains notice or knowledge of the facts giving rise to such breach; or 
+
+ (ii) failure by Seller duly to observe, perform or comply with any material term, condition, covenant or agreement set forth in
+this Agreement or in the Custodial Agreement which continues unremedied for a period of five (5) Business Days of the earlier of (x) Seller’s receipt of written notice from Purchaser, Agent or Custodian of such breach or (y) the
+date on which Seller obtains notice or knowledge of the facts giving rise to such breach; or 
+ (iii) any representation or
+warranty made by Seller (or any of Seller’s officers) in the Program Documents, including, but not limited to, all documents related to this Agreement, shall have been incorrect or untrue in any material respect when made or repeated or deemed
+by the terms thereof to have been incorrect or untrue in any material respect when made or repeated (other than the representations or warranties in Section 9(b) and 9(c) related to the representations and warranties
+in Exhibit B of the Master Repurchase Agreement); or 
+
+ - 30 - 
+
+ (iv) an Event of Insolvency with respect to Seller or any of its Affiliates;
+or 
+ (v) Seller ceases to meet the qualifications to maintain all requisite Approvals, such Approvals are revoked or such
+Approvals are materially modified; or 
+ (vi) [Reserved]; or 
+
+ (vii) Seller fails to operate or conduct its business operations or any material portion thereof in the ordinary course; or
+
+ (viii) Seller ceases to be a member of MERS in good standing and has not been reinstated within fifteen (15) calendar
+days following receipt of notice or knowledge thereof; or 
+ (ix) an Event of Default (as defined in the Other Agreement)
+shall have occurred and be continuing beyond any applicable cure period under any Other Agreement to which Seller or any of its Affiliates or Subsidiaries is a party; or 
+
+ (x) [Reserved]; or 
+
+ (xi) in the event of a Security Issuance Failure, which continues unremedied for a period of two (2) Business Days; or
+
+ (xii) a Change in Control of Seller shall have occurred that has not been approved by Agent. 
+
+ (f) Purchaser, in its sole discretion, may terminate Seller’s rights and obligations as subservicer of the affected Related Mortgage
+Loans and require Seller to deliver the related Servicing Records to Purchaser or its designee upon the occurrence of (i) a Servicing Termination Event or (ii) Seller’s failure to comply with any of its obligations set forth in
+ Section 5(c) or (d) , by delivering written notice to Seller requiring such termination. Such termination shall be effective upon Seller’s receipt of such written notice; provided , that Seller’s
+subservicing rights shall be terminated immediately upon the occurrence of any event described in Section 6(e)(iv) , regardless of whether notice of such event shall have been given to or by Purchaser or Seller. Upon any
+such termination, all authority and power of Seller respecting its rights to subservice and duties under this Agreement relating thereto, shall pass to and be vested in the Successor Servicer appointed by Purchaser and Purchaser is hereby authorized
+and empowered to transfer such rights to subservice the Related Mortgage Loans for such price and on such terms and conditions as Purchaser shall reasonably determine; provided , that to the extent the Applicable Agency proceeds to
+issue a Security with respect to the Related Mortgage Loans, Purchaser shall convey the servicing rights and the rights to subservice such Related Mortgage Loans in accordance with such Applicable Agency’s instructions. Seller shall promptly
+take such actions and furnish to Purchaser such documents that Purchaser deems necessary or appropriate to enable Purchaser to obtain a Security backed by such Related Mortgage Loans or 
+
+ - 31 - 
+
+to enforce such Related Mortgage Loans, as appropriate, and shall perform all acts and take all actions so that the Related Mortgage Loans and all files and documents relating to such Related
+Mortgage Loans held by Seller, together with all escrow amounts relating to such Related Mortgage Loans, are delivered to Successor Servicer, including but not limited to preparing, executing and delivering to the Successor Servicer any and all
+documents and other instruments, placing in the Successor Servicer’s possession all Servicing Records pertaining to such Related Mortgage Loans and doing or causing to be done, all at Seller’s sole expense. To the extent that the approval
+of the Applicable Agency is required for any such sale or transfer, Seller shall fully cooperate with Purchaser to obtain such approval. All amounts paid by any purchaser of such rights to service or subservice the Related Mortgage Loans shall be
+the property of Purchaser. The subservicing rights required to be delivered to Successor Servicer in accordance with this Section 6(f) shall be delivered free of any servicing rights in favor of Seller or any third party
+(other than Purchaser) and free of any title, interest, lien, encumbrance or claim of any kind of Seller other than record title to the Mortgages relating to the Related Mortgage Loans. No exercise by Purchaser of its rights under this
+ Section 6(f) shall relieve Seller of responsibility or liability for any breach of this Agreement. 
+ (g) With
+respect to the Servicing Files and the physical and contractual servicing of each Mortgage Loan to the extent in the possession of Seller, Seller shall deliver such Servicing Files and the physical and contractual servicing to Purchaser or its
+designee upon the expiration of the Servicing Term (unless such Servicing Term is renewed by Purchaser) or the termination of the Seller as subservicer pursuant to this Section 6 . Seller’s transfer of the servicing
+rights, Servicing Files and the physical and contractual servicing under this Section 6(g) shall be in accordance with customary standards in the industry including the transfer of the gross amount of all escrows held for
+the related Mortgagors (without reduction for unreimbursed advances or “negative escrows”). 
+ (h) The Agent, in its sole
+discretion, may appoint a backup servicer at any time during the term of this Agreement. In such event, Seller shall commence monthly delivery to such backup servicer of the servicing information required to be delivered to Purchaser pursuant to
+ Section 6(b)(ii) and any other information reasonably requested by backup servicer, all in a format that is reasonably acceptable to such backup servicer. Solely in the event that such backup servicer is appointed by Agent
+as a result of the occurrence and continuation of an Event of Default, Seller shall pay all costs and expenses of such backup servicer, including, but not limited to all fees of such backup servicer in connection with the processing of such
+information and the maintenance of a servicing file with respect to the Related Mortgage Loans. Seller shall cooperate fully with such backup servicer in the event of a transfer of servicing hereunder and will provide such backup servicer with all
+documents and information necessary for such backup servicer to assume the servicing of the Related Mortgage Loans. 
+ Section 7.
+ Transfers of Participation Certificates and Securities by Purchaser . Purchaser may, in its sole discretion and without the consent of Seller, sell, assign or otherwise transfer all of its right, title and interest or grant a security interest
+in any Participation Certificate, any Mortgage Note, Mortgage and Assignment of Mortgage related to such Participation Certificate and the related servicing rights, each Security in respect thereof of which Delivery is made to Purchaser and all
+rights of Purchaser under this Agreement (including, but not limited to, the Custodial Account) in respect of such Participation Certificate, 
+
+ - 32 - 
+
+any such Mortgage Note, Mortgage, Assignment of Mortgage and such Security, to any person (an “ Assignee ”), all at no cost to Seller, subject only to an obligation on the part of
+the Assignee to deliver each such Security to the Takeout Investor or to Purchaser to permit Purchaser or its designee to make delivery thereof to the Takeout Investor. In the event Purchaser engages in an assignment of a Participation Certificate
+and the related servicing rights as provided in this Section 7 , (i) the Purchaser’s obligations under this Agreement shall remain unchanged, (ii) the Purchaser shall remain solely responsible to the other parties
+hereto for the performance of such obligations, and (iii) Seller shall continue to deal solely and directly with Purchaser in connection with Purchaser’s rights and obligations under this Agreement. 
+
+ Without limitation of the foregoing, an assignment of a Participation Certificate and the related servicing rights to an Assignee, as
+described in this Section 7 , shall be effective upon delivery of the Participation Certificate to the Assignee or its designee, together with a duly executed Assignment substantially in the form of
+ Exhibit E (with a copy to Seller). 
+ Section 8. Record Title to Mortgage Loans; Intent of Parties;
+Security Interest . 
+ (a) From and after the issuance and delivery of the Related Participation Certificate, and subject to the remedies
+of Purchaser in Section 5 , Seller (or its designated subservicer) as subservicer shall remain the last named payee or endorsee of each Mortgage Note related to a Related Mortgage Loan and the mortgagee or assignee of record
+of each Mortgage related to a Related Mortgage Loan (except with respect to any MERS Designated Mortgage Loan) and shall retain only record title to the Mortgages (and not an equitable interest) in the Related Mortgage Loan, all for the benefit of
+Purchaser for the sole purpose of facilitating the subservicing of such Related Mortgage Loan and the issuance of a Security backed by such Related Mortgage Loan. Where Seller has appointed Freddie Mac as Custodian, the parties hereto acknowledge
+that the Mortgage Notes related to a Participation Certificate acquired hereunder have been deposited with Freddie Mac to facilitate the issuance of Freddie Mac Securities with respect thereto and that prior to such issuance Freddie Mac is holding
+such Mortgage Notes as Custodian for Purchaser. 
+ (b) Seller shall maintain a complete set of books and records for each Related Mortgage
+Loan which shall be clearly marked to reflect the beneficial ownership interest in each Related Mortgage Loan of the holder of the Related Participation Certificate. Seller shall notify MERS of the beneficial ownership interest of Purchaser in each
+MERS Designated Mortgage Loan through the MORNET system or any other comparable system acceptable to MERS. 
+ (c) Purchaser and Seller
+confirm that the transactions contemplated herein are intended to be sales of the Participation Certificates by Seller to Purchaser rather than borrowings secured by the Participation Certificates. In the event, for any reason, any transaction is
+construed by any court or regulatory authority as a borrowing rather than as a sale, Seller and Purchaser intend that Purchaser or its Assignee, as the case may be, shall have a perfected first priority security interest in the Participation
+Certificates, and all of Seller’s interest in all of the servicing rights with respect to the Related Mortgage Loans, the Custodial Account and all amounts on deposit therein, the Related Mortgage Loans subject to each Participation
+Certificate, all documents, records (including Servicing Records), instruments and data evidencing the Related Mortgage Loans and the servicing thereof, the Securities to be issued as contemplated 
+
+ - 33 - 
+
+hereunder, all principal and interest collected thereon and all proceeds thereof, the Takeout Commitments and the proceeds of any and all of the foregoing (collectively, the
+“ Collateral ”), free and clear of adverse claims. In furtherance thereof, Seller hereby grants to Purchaser (as defined in the introductory paragraph of this Agreement) a first priority security interest in and lien upon the
+Collateral, free and clear of adverse claims. In such event, this Agreement shall constitute a security agreement, the Custodian shall be deemed to be an independent custodian for purposes of perfection of the security interest herein granted to
+Purchaser, and Purchaser or each such Assignee shall have all of the rights of a secured party under applicable law. 
+ Upon request of
+Purchaser, Seller shall prepare and deliver to MERS an Assignment of Mortgage from MERS to Purchaser or its designee. Upon due execution by MERS, Seller shall cause such Assignment of Mortgage to be recorded in the public land records upon request
+of Purchaser. 
+ Section 9. Representations and Warranties . 
+
+ (a) Seller hereby represents and warrants to Purchaser and Agent as of the date hereof and with respect to the Related Mortgage Loans as of the
+date of each issuance and delivery of a Participation Certificate that: 
+ (i) Seller will not be rendered insolvent by any
+transaction contemplated by this Agreement and, after giving effect to each such transaction, Seller will not be left with an unreasonably small amount of capital with which to engage in its business. Seller does not intend to incur, nor believes
+that it has incurred, debts beyond its ability to pay such debts as they mature. Seller is not contemplating the commencement of insolvency, bankruptcy, liquidation or consolidation proceedings or the appointment of a receiver, liquidator,
+conservator, trustee or similar official in respect of Seller or any of its assets; 
+ (ii) The consideration received by
+Seller upon the sale of each Participation Certificate, taken as a whole, will constitute reasonably equivalent value and fair consideration for the beneficial ownership interest in the Mortgage Loans evidenced by that Participation Certificate;
+
+ (iii) Seller is duly organized, validly existing and in good standing under the laws of the jurisdiction of its
+organization, and it has qualified to do business in each jurisdiction in which it is legally required to do so. Seller has the power and authority under its certificate of formation, operating agreement and applicable law to enter into this
+Agreement and the Custodial Agreement and to perform all acts contemplated hereby and thereby or in connection herewith and therewith; this Agreement, the Custodial Agreement, the Pricing Side Letter, the Custodial Account Control Agreement and the
+transactions contemplated hereby and thereby have been duly authorized by all necessary action and do not require any additional approvals or consents or other action by, or any notice to or filing with, any Person other than any that have
+heretofore been obtained, given or made; 
+
+ - 34 - 
+
+ (iv) The consummation of the transactions contemplated by this Agreement and
+the Program Documents are in the ordinary course of business of Seller and will not conflict with, result in the breach of or violate any provision of the certificate of formation or operating agreement of Seller or result in the breach of any
+provision of, or conflict with or constitute a default under or result in the acceleration of any obligation under, any material agreement, indenture, loan or credit agreement or other instrument to which Seller, the Related Mortgage Loans or any of
+Seller’s Property is or may be subject to, or result in the violation of any law, rule, regulation, order, judgment or decree to which Seller, the Related Mortgage Loans or Seller’s Property is or may be subject. Without limiting the
+generality of the foregoing, the consummation of the transactions contemplated herein or therein will not violate any policy, regulation or guideline of the FHA or VA or result in the voiding or reduction of the FHA insurance, VA guarantee or any
+other insurance or guarantee in respect of any Mortgage Loan, or otherwise render such Mortgage Loans, individually or in the aggregate, ineligible (pursuant to the applicable Agency Guide or otherwise) for inclusion in a pool of mortgages
+supporting a Security, and such FHA insurance or VA guarantee is in full force and effect or shall be in full force and effect as required by the applicable Agency Guide; 
+
+ (v) No practice, procedure or policy employed by Seller in the conduct of its businesses violates any law, regulation,
+judgment, agreement, regulatory consent, order or decree applicable to it which, if enforced, would result in a Material Adverse Effect; 
+
+ (vi) This Agreement, the Custodial Agreement and every other Program Document to be executed by Seller is the legal, valid,
+binding and subsisting obligations of Seller, enforceable in accordance with their respective terms, except that (A) the enforceability thereof may be limited by bankruptcy, insolvency, moratorium, receivership and other similar laws relating
+to creditors’ rights generally and (B) the remedy of specific performance and injunctive and other forms of equitable relief may be subject to equitable defenses and to the discretion of the court before which any proceeding therefor may
+be brought; 
+ (vii) No consent, license, approval or authorization from, or registration, filing or declaration with, any
+regulatory body, administrative agency or other governmental instrumentality, nor any consent, approval, waiver or notification of any creditor, lessor or other non-governmental Person, is required in
+connection with the execution, delivery and performance by Seller of this Agreement or any other Program Document to which it is a party, other than any that have heretofore been obtained, given or made; 
+
+ (viii) Seller has not sold, assigned, transferred, pledged or hypothecated any interest in any Participation Certificate or
+Related Mortgage Loan to any person other than any sale, assignment, transfer, pledge or hypothecation that is released in conjunction with the sale to Purchaser pursuant to the Master Repurchase Agreement or hereunder, and upon delivery of a
+Participation Certificate to Purchaser, Purchaser will be the sole owner thereof, free and clear of any lien, claim or encumbrance other than those arising under this Agreement; 
+
+ - 35 - 
+
+ (ix) Neither this Agreement nor any representations and warranties or
+information relating to Seller that Seller has delivered or caused to be delivered to Purchaser, including, but not limited to, all documents related to this Agreement, the Custodial Agreement or Seller’s financial statements, contains any
+untrue statement of a material fact or when taken as a whole omits to state a material fact necessary to make the statements made therein or herein in light of the circumstances under which they were made, not misleading. Since the furnishing of
+such documents or information, to Seller’s knowledge, there has been no change, nor any development or event involving a prospective change that would render any of such documents or information untrue or misleading in any material respect,
+unless Seller delivered such other documents or information informing Purchaser or Agent of such change; 
+ (x) Except as
+disclosed to the Agent, no action, suit, proceeding or investigation, at law or in equity, or before or by any court, public board or body pending or, to Seller’s knowledge, threatened against or affecting Seller (or, to Seller’s
+knowledge, any basis therefor) wherein an unfavorable decision, ruling or finding would adversely affect the validity or enforceability of this Agreement, the Custodial Agreement or could adversely affect Seller’s ability to carry out its
+obligations hereunder; 
+ (xi) Seller has all requisite Approvals; 
+
+ (xii) The Custodian is not an Affiliate of Seller; 
+
+ (xiii) The Bank is not an Affiliate of Seller; 
+
+ (xiv) The Agreement and the other Program Documents, any other document contemplated hereby or thereby and each transaction
+have not been entered into fraudulently by Seller hereunder, or with the intent to hinder, delay or defraud any creditor or Purchaser; and 
+
+ (xv) [Reserved]; 
+
+ (xvi) [Reserved]; 
+
+ (xvii) [Reserved; 
+
+ (xviii) As of the date of this Agreement, Seller is an approved FHA, VA, RD, Ginnie Mae, Fannie Mae and/or Freddie Mac seller,
+mortgagee and/or servicer and is in good standing with these agencies. 
+ (xix) For so long as such Unsecured Term Loan is
+outstanding, Seller is not in breach of any representation, warranty, covenant, or other provision of the Unsecured Term Loan related to the delinquency of Ginnie Mae mortgage loans. 
+
+ - 36 - 
+
+ (b) Seller hereby represents and warrants to Purchaser and Agent with respect to each
+Related Mortgage Loan, as of the Purchase Date for the Related Participation Certificate that each of the representations and warranties set forth on Exhibit B to the Master Repurchase Agreement is true and accurate. 
+
+ The representations and warranties of Seller in this Section 9 are unaffected by and supersede any provision in any
+endorsement of any Related Mortgage Loan or in any assignment with respect to such Mortgage Loan to the effect that such endorsement or assignment is without recourse or without representation or warranty. 
+
+ Section 10. Covenants of Seller . Seller hereby covenants and agrees with Purchaser and Agent as of the date hereof and for so long
+as any Participation Certificate remains outstanding as follows: 
+ (a) Seller shall keep or cause to be kept in reasonable detail books and
+records setting forth an account of its assets and business and, as applicable, shall clearly reflect therein the transfer of Seller’s beneficial right, title and interest in and to the Related Mortgage Loans. 
+
+ (b) Seller shall deliver to Purchaser and Agent: 
+
+ (i) Within ninety (90) days after the end of each fiscal year of Seller, the consolidated audited balance sheets of Seller
+and its consolidated Subsidiaries, which will be in conformity with GAAP, and the related consolidated audited statements of income and changes in equity showing the financial condition of Seller and its consolidated Subsidiaries as of the close of
+such fiscal year and the results of operations during such year, and consolidated audited statements of cash flows, as of the close of such fiscal year, setting forth, in each case, in comparative form the corresponding figures for the preceding
+year. The foregoing consolidated financial statements are to be reported on by, and to carry the unqualified report (in a form substantially similar to the form of financial statements attached to the Master Repurchase Agreement as Exhibit J ,
+or in a form otherwise acceptable to Purchaser and Agent) of, an independent public accountant of national standing acceptable to Purchaser and Agent, which shall include KPMG LLP, PricewaterhouseCoopers LLP, Deloitte LLP, BDO USA, LLP,
+Ernst & Young, and any other similarly situated independent public account; 
+ (ii) Within forty-five (45) days
+after the end of each of the first three fiscal quarters of each fiscal year of Seller, consolidated unaudited balance sheets and consolidated statements of income and changes in equity, (in a form substantially similar to the form of financial
+statements attached to the Master Repurchase Agreement as Exhibit K , or in a form otherwise acceptable to Purchaser and Agent), showing the financial condition and results of operations of Seller and its consolidated Subsidiaries, each
+on a consolidated basis as of the end of each such quarter and for the then elapsed portion of the fiscal year, setting forth, in each case, in comparative form the corresponding figures for the corresponding periods of the preceding fiscal year,
+certified by a financial officer of Seller who is qualified to make such certification as presenting fairly the financial position and results of operations of Seller and its consolidated Subsidiaries and as having been prepared in accordance with
+GAAP consistently applied, in each case, subject to normal year-end audit adjustments; 
+
+ - 37 - 
+
+ (iii) As soon as is practicable, but in any event within thirty
+(30) days after the end of each of the first two months of a fiscal quarter, consolidated unaudited balance sheets and consolidated statements of income and changes in equity (in a form substantially similar to the form of financial statements
+attached to the Master Repurchase Agreement as Exhibit K , or in a form otherwise acceptable to Purchaser and Agent) showing the financial condition and results of operations of Seller and its consolidated Subsidiaries on a consolidated basis
+as of the end of each such month and for the then elapsed portion of the fiscal year, setting forth, in each case, in comparative form the corresponding figures for the corresponding month of the preceding fiscal year, certified by a financial
+officer of Seller who is qualified to make such certification as presenting fairly the financial position and results of operations of Seller and its consolidated Subsidiaries and as having been prepared in accordance with GAAP consistently applied,
+in each case, subject to normal year-end audit adjustments; 
+
+ (iv) [Reserved]; 
+
+ (v) Promptly upon any Responsible Officer becoming aware of the commencement of, or any determination in, any material dispute,
+litigation, investigation, proceeding, sanctions or suspension between Seller, on the one hand, and any Governmental Authority or any other Person, on the other (other than any investigation or proceeding conducted in the ordinary course of business
+by a state licensing authority) that is reasonably likely to have a Material Adverse Effect; 
+ (vi) Promptly upon becoming
+available, copies of all financial statements, reports, notices and proxy statements sent by its Parent Company, Seller or any of Seller’s consolidated Subsidiaries in a general mailing to their respective stockholders and of all reports and
+other material (including copies of all registration statements under the Securities Act of 1933, as amended) filed by any of them with any securities exchange or with the SEC or any governmental authority succeeding to any or all of the functions
+of the SEC; 
+ (vii) [Reserved]; 
+
+ (viii) Such supplements to the aforementioned documents and such other information regarding the operations, business, affairs
+and financial condition of its Parent Company, Seller or any of Seller’s consolidated Subsidiaries as Purchaser or Agent may reasonably request; 
+
+ (ix) [Reserved]; 
+
+ (x) [Reserved]; 
+
+ (xi) To the extent not otherwise prohibited from disclosing, promptly upon a Responsible Officer becoming aware thereof, any
+penalties, sanctions or charges levied, or reasonably threatened in writing to be levied, against Seller or any change, or 
+
+ - 38 - 
+
+change threatened in writing, in Approval status against Seller by any Applicable Agency, or any supervisory or regulatory Governmental Authority (including, but not limited to HUD, FHA and VA)
+supervising or regulating the origination or servicing of mortgage loans by, or the issuer status of, Seller (which, in the event of a Governmental Authority, could reasonably be expected to have a Material Adverse Effect). 
+
+ Seller’s obligation to deliver any report or other document under this Section 10(b) shall be
+deemed to have been satisfied if, and as of the date, such report or other document is filed with the SEC pursuant to the SEC’s Electronic Data Gathering & Analysis Recovery system. 
+
+ (c) Neither Seller nor any Affiliate thereof will acquire at any time any Participation Certificate or any other economic interest in or
+obligation with respect to any Related Mortgage Loan except for the subservicing rights relating thereto and record title to the Mortgage relating to any Related Mortgage Loan. 
+
+ (d) Seller shall take all commercially reasonable actions necessary or, in the reasonable opinion of Purchaser, desirable, to preserve the
+Related Mortgage Loans and other Collateral so that they remain subject to a first priority perfected security interest hereunder and deliver evidence that such actions have been taken, including, without limitation, duly completed and filed Uniform
+Commercial Code financing statements on Form UCC1. 
+ (e) Seller will not be rendered insolvent by, any sale of a Participation Certificate
+to Purchaser. 
+ (f) Seller will not sell any Participation Certificate to Purchaser with any intent to hinder, delay or defraud any of
+Seller’s creditors. 
+ (g) Seller shall take all reasonably necessary actions to maintain its Approvals at all times during the term of
+this Agreement. If, for any reason, Seller ceases to maintain any such Approval, Seller shall so notify Purchaser and Agent within two (2) Business Days. 
+
+ (h) Seller shall (i) maintain all licenses, permits or other approvals necessary for Seller to conduct its business and to perform its
+obligations under the Program Documents, (ii) remain in good standing to the extent required under, and comply in all material respects with, all laws of each state in which it conducts business or any Mortgaged Property is located, and
+(iii) conduct its business strictly in accordance with applicable law. 
+ (i) Seller shall, upon request of Purchaser or Agent, promptly
+execute and deliver to Purchaser all such other and further documents and instruments of transfer, conveyance and assignment, and shall take such other action as Purchaser or Agent may require to more effectively transfer, convey, assign to and vest
+in Purchaser and to put Purchaser in possession of the property to be transferred, conveyed, assigned and delivered hereunder and otherwise to carry out more effectively the intent of the provisions under this Agreement. 
+
+ - 39 - 
+
+ (j) The Seller is a member of MERS in good standing and current in the payment of all fees
+and assessments imposed by MERS, and has complied with all rules and procedures of MERS. In connection with the assignment of any Related Mortgage Loan registered on the MERS System, the Seller agrees that it will, at the Seller’s own cost and
+expense, promptly cause the MERS System to indicate that such Mortgage Loan has been transferred to the Purchaser in accordance with the terms of the Master Repurchase Agreement by including in MERS’ computer files (a) the code in the
+field which identifies the specific owner of the Mortgage Loans and (b) the code in the field “Pool Field” which identifies the series in which such Mortgage Loans were sold. The Seller further agrees that it will not alter codes
+referenced in this paragraph with respect to any Mortgage Loan at any time that such Mortgage Loan is subject to the Master Repurchase Agreement, and the Seller shall retain its membership in MERS at all times during the term of this Agreement. For
+eMortgage Loans, Seller shall comply in all material respects with all rules and procedures in connection with the maintenance of the related eNotes on the MERS eRegistry for so long as such Related Mortgage Loans are so registered. 
+
+ (k) Seller will permit Purchaser, Agent or their respective agents or designees to perform due diligence reviews on the Related Mortgage Loans
+subject to each Participation Certificate purchased hereunder up to the Due Diligence Review Amount within the thirty (30) days following the related Purchase Date. Seller shall cooperate in all respects with such diligence and shall provide
+Purchaser, Agent or their respective agents or designees who are bound by confidentiality requirements with all loan files and other information (including, without limitation, Seller’s quality control procedures and results) reasonably
+requested by Purchaser, Agent or their respective agents or designees and shall bear all costs and expenses associated with such due diligence. 
+
+ (l) Except as permitted herein or in the Master Repurchase Agreement, Seller shall not sell, assign, transfer or otherwise dispose of, or grant
+any option with respect to, or pledge, hypothecate or grant a security interest in, or Lien on or otherwise encumber (except pursuant to the Program Documents) any of the Related Mortgage Loans or any interest therein, provided that this
+ Section 10(l) shall not prevent any of the following: any contribution, sale, assignment, transfer or conveyance of Related Mortgage Loans in accordance with the Program Documents and any forward purchase commitment or
+other type of take out commitment for the Related Mortgage Loans (without vesting rights in the related purchasers as against Purchaser). 
+
+ (m) Seller shall comply with the financial covenants set forth in Section 15(g)(ii) of the Master Repurchase
+Agreement and Section 4 of the Pricing Side Letter. 
+ (n) Seller shall (i) at all times maintain copies of
+relevant portions of all final written Applicable Agency audits, examinations, evaluations, monitoring reviews and reports of its origination and servicing operations (including those prepared on a contract basis for any such agency) in which there
+are material adverse findings, including without limitation notices of defaults, notices of termination of approved status, notices of imposition of supervisory agreements or interim servicing agreements, and notices of probation, suspension, or non-renewal, and all necessary approvals from each Applicable Agency. Seller shall (x) disclose to Agent any portion of such information that is not confidential, (y) notify Agent of any material event in
+a level of specificity that would not violate the confidentiality requirements and (z) promptly seek permission to disclose the information from the necessary parties and shall provide Agent such information to the extent of such permission.
+
+ - 40 - 
+
+ (o) [Reserved]. 
+
+ (p) Seller shall timely pay to Purchaser all reasonable fees and documented out of pocket expenses required to be paid by Seller hereunder and
+under any other Program Document to Purchaser in immediately available funds, and without deduction, set-off or counterclaim in accordance with Purchaser’s Wire Instructions. 
+
+ Section 11. Term . This Agreement shall continue in effect until terminated as to future transactions on the Termination Date;
+ provided , that no termination will affect the obligations hereunder as to any of the Participation Certificates then outstanding hereunder or any Security not yet delivered to the related Takeout Investor. Seller’s obligations to
+indemnify Purchaser and Agent pursuant to this Agreement and the other Program Documents shall survive the termination hereof. 
+
+ Section 12. Set-Off . In addition to any rights and remedies of Purchaser hereunder and at
+law, upon the occurrence and continuation of a default hereunder or under any of the Program Documents, Purchaser and its Affiliates shall have the right, without prior notice to Seller, any such notice being expressly waived by Seller to the extent
+permitted by applicable law, upon any amount becoming due and payable (whether at the stated maturity, by acceleration or otherwise) by Seller hereunder, under the Mortgage Loan Participation Purchase and Sale Agreement or under any other warehouse,
+repurchase, or mortgage servicing rights facility or related trade line entered into between Seller, on the one hand, and Purchaser or any of its Affiliates, on the other hand, to set-off and appropriate and
+apply against such amount any and all Property and deposits (general or special, time or demand, provisional or final), in any currency, or any other credits, indebtedness or claims, in any currency, or any other collateral (in the case of
+collateral not in the form of cash or such other marketable or negotiable form, by selling such collateral in a recognized market therefor or as otherwise permitted by law or as may be in accordance with custom, usage or trade practice), in each
+case, whether direct or indirect, absolute or contingent, matured or unmatured, at any time held or owing by Purchaser or any Affiliate thereof to or for the credit or the account of Seller except and to the extent that any of the same are held by
+Seller for the account of another Person. Upon the occurrence of a default hereunder or under any of the Program Documents, Purchaser may also set-off cash and all other sums or obligations owed by Purchaser
+or its Affiliates to Seller or its Affiliates (whether under this Agreement, under the Mortgage Loan Participation Purchase and Sale Agreement or under any other warehouse, repurchase, or mortgage servicing rights facility or related trade line
+entered into between Seller, on the one hand, and Purchaser or any of its Affiliates, on the other hand) against all of Seller’s obligations to Purchaser or its Affiliates (whether under this Agreement, under the Mortgage Loan Participation
+Purchase and Sale Agreement or under any other warehouse, repurchase, or mortgage servicing rights facility or related trade line entered into between Seller, on the one hand, and Purchaser or any of its Affiliates, on the other hand), whether or
+not such obligations are then due. The exercise of any such right of set-off shall be without prejudice to Purchaser’s or its Affiliate’s right to recover any deficiency. Purchaser agrees to promptly
+notify Seller after any such set-off and application made by Purchaser; provided that the failure to give such notice shall not affect the validity of such
+ set-off and application. 
+
+ - 41 - 
+
+ Section 13. Indemnification . Seller shall indemnify and hold Purchaser and Agent
+harmless against any and all Losses (including, without limitation, Losses incurred by Purchaser on account of fees paid by Purchaser to the Applicable Agency to cause the Securities to be issued or any Losses in connection with any indemnification
+by Purchaser of the Applicable Agency) resulting from, relating to or otherwise arising in connection with the breach by Seller of any representation, warranty or covenant in this Agreement (including, without limitation, any failure to perform
+servicing obligations). Without prejudice to the survival of any other agreement of Seller hereunder, the covenants and obligations of Seller contained in this Section 13 shall survive the termination of this Agreement.
+
+ Section 14. Exclusive Benefit of Parties; Assignment . This Agreement is for the exclusive benefit of the parties hereto and
+their respective successors and assigns and shall not be deemed to give any legal or equitable right to any other person, including any Takeout Investor or the Custodian. In addition to the rights of Purchaser as provided in
+ Section 7 , subject to the consent of the Seller (such consent not to be unreasonably withheld) and at no cost or expense to the Seller, each of Purchaser and Agent may, in its sole election, assign or participate all or a
+portion of its rights and obligations under this Agreement and the Program Documents with a counterparty of Purchaser’s or Agent’s choice. Purchaser or Agent shall notify Seller of any such assignment and participation and shall maintain,
+for review by Seller upon written request, a register of assignees and participants and a copy of any executed assignment and acceptance by Purchaser or Agent and assignee (“ Assignment and Acceptance ”), specifying the percentage or
+portion of such rights and obligations assigned. The Seller agrees that, for any such permitted assignment, Seller will cooperate with the prompt execution and delivery of documents reasonably necessary for such assignment process to the extent that
+Seller incurs no cost or expense that is not paid by the Purchaser or Agent, as applicable. Upon such assignment, (a) such assignee shall be a party hereto and to each Program Document to the extent of the percentage or portion set forth in the
+Assignment and Acceptance, and shall succeed to the applicable rights and obligations of Purchaser or Agent hereunder, and (b) Purchaser or Agent shall, to the extent that such rights and obligations have been so assigned by it to either
+(i) an Affiliate of Purchaser or Agent which assumes the obligations of Purchaser or Agent hereunder or (ii) to another Person which assumes the obligations of Purchaser or Agent hereunder, be released from their obligations hereunder
+accruing thereafter and under the Program Documents. 
+ Purchaser and Agent may distribute to any prospective assignee, participant or
+pledgee any document or other information delivered to Purchaser by Seller subject to the confidentiality restrictions contained in Section 27 hereof; accordingly, such prospective assignee, participant or pledgee shall be
+required to agree to confidentiality provisions similar to those set forth in Section 27 . 
+ The Program Documents
+and the Seller’s rights and obligations thereunder are not assignable by Seller without the prior written consent of Purchaser and Agent. Any Person into which Seller may be merged or consolidated, or any corporation resulting from any merger,
+conversion or consolidation to which Seller shall be a party, or any Person succeeding to the business of Seller, shall be the successor of Seller hereunder, without the execution or filing of any paper or any further act on the part of any of the
+parties hereto, anything herein to the contrary notwithstanding. 
+
+ - 42 - 
+
+ Section 15. Amendments; Waivers; Cumulative Rights . No amendment or waiver of
+any provision of this Agreement nor any consent to any failure to comply herewith or therewith shall in any event be effective unless the same shall be in writing and signed by Seller, Purchaser and Agent, and then such amendment, waiver or consent
+shall be effective only in the specific instance and for the specific purpose for which given. 
+ Section 16. Execution in
+Counterparts . This Agreement may be executed in any number of counterparts, all of which shall constitute one and the same instrument, and any party hereto may execute this Agreement by signing and delivering one or more counterparts. The
+parties intend that faxed signatures and electronically imaged signatures such as .pdf files shall constitute original signatures and are binding on all parties. The original documents shall be promptly delivered, if requested. The parties agree
+that this Agreement, any addendum, exhibit or amendment hereto or any other document necessary for the consummation of the transactions contemplated by this Agreement may be accepted, executed or agreed to through the use of an electronic signature
+in accordance with E-Sign, UETA and any applicable state law. Any document accepted, executed or agreed to in conformity with such laws will be binding on all parties hereto to the same extent as if it were
+physically executed and each party hereby consents to the use of any secure third party electronic signature capture service with appropriate document access tracking, electronic signature tracking and document retention as may be reasonably chosen
+by a signatory hereto, including but not limited to DocuSign. 
+ Section 17. Effect of Invalidity of Provisions . In case any one
+or more of the provisions contained in this Agreement should be or become invalid, illegal or unenforceable in any respect, the validity, legality and enforceability of the remaining provisions contained herein or therein shall in no way be
+affected, prejudiced or disturbed thereby. 
+ Section 18. Governing Law; Waiver of Jury Trial; Consent to Jurisdiction and
+Venue; Service of P rocess . This Agreement shall be binding and inure to the benefit of the parties hereto and their respective successors and assigns. THIS AGREEMENT SHALL BE CONSTRUED IN ACCORDANCE WITH, AND GOVERNED BY, THE LAWS OF THE
+STATE OF NEW YORK, WITHOUT GIVING EFFECT TO THE CONFLICT OF LAWS PRINCIPLES THEREOF (EXCEPT FOR SECTION 5-1401 AND SECTION 5-1402 OF THE NEW YORK GENERAL OBLIGATIONS
+LAW). 
+ EACH OF SELLER, PURCHASER AND AGENT HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY AND ALL
+RIGHTS TO TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT, THE PROGRAM DOCUMENTS OR ANY OF THE TRANSACTIONS CONTEMPLATED HEREBY OR THEREBY. EACH OF SELLER, PURCHASER AND AGENT HEREBY IRREVOCABLY AND
+UNCONDITIONALLY CONSENTS, ON BEHALF OF ITSELF AND ITS PROPERTY, TO THE NON-EXCLUSIVE JURISDICTION OF ANY COURT OF THE STATE OF NEW YORK, OR IN THE UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF NEW
+YORK, IN ANY ACTION OR PROCEEDING ARISING OUT OF OR RELATING TO THE PROGRAM DOCUMENTS IN ANY ACTION OR PROCEEDING. EACH OF SELLER, PURCHASER AND AGENT HEREBY SUBMITS TO, AND WAIVES ANY OBJECTION IT MAY HAVE TO,
+ NON-EXCLUSIVE PERSONAL JURISDICTION AND VENUE IN THE COURTS OF THE STATE OF NEW YORK AND THE UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF NEW YORK, WITH RESPECT TO ANY DISPUTES ARISING
+
+ - 43 - 
+
+OUT OF OR RELATING TO THE PROGRAM DOCUMENTS. EACH OF SELLER, PURCHASER AND AGENT HEREBY IRREVOCABLY CONSENTS TO THE SERVICE OF A SUMMONS AND COMPLAINT AND OTHER PROCESS IN ANY ACTION, CLAIM OR
+PROCEEDING BROUGHT BY ANOTHER PARTY IN CONNECTION WITH THIS AGREEMENT OR THE OTHER PROGRAM DOCUMENTS, ANY RIGHTS OR OBLIGATIONS HEREUNDER OR THEREUNDER, OR THE PERFORMANCE OF SUCH RIGHTS AND OBLIGATIONS, ON BEHALF OF ITSELF OR ITS PROPERTY, IN THE
+MANNER SPECIFIED IN THIS SECTION 31 AND TO SUCH PARTY’S REGISTERED AGENT OR SUCH OTHER ADDRESS AS SUCH PARTY SHALL HAVE PROVIDED IN WRITING TO THE OTHER PARTIES HERETO. NOTHING IN THIS SECTION 31 SHALL AFFECT THE RIGHT OF ANY PARTY HERETO TO
+(I) SERVE LEGAL PROCESS IN ANY OTHER MANNER PERMITTED BY APPLICABLE LAW, OR (II) BRING ANY ACTION OR PROCEEDING AGAINST ANY OTHER PARTY OR ITS PROPERTIES IN THE COURTS OF ANY OTHER JURISDICTIONS. 
+
+ Section 19. Notices . Any notices, consents, elections, directions and other communications given under this Agreement shall be in
+writing and shall be deemed to have been duly given when telecopied or delivered by overnight courier to, personally delivered to, or on the third day following the placing thereof in the mail, first class postage prepaid to, the parties hereto at
+the related address set forth in Annex A or to such other address as either party shall give notice to the other party pursuant to this Section. Notices to any Assignee shall be given to such address as the Assignee shall provide to Seller in
+writing. 
+ Section 20. Entire Agreement . This Agreement, the Participation Certificates, the Custodial Agreement and the other
+Program Documents contain the entire agreement between the parties hereto with respect to the subject matter hereof, and supersede all prior and contemporaneous agreements between them, oral or written, of any nature whatsoever with respect to the
+subject matter hereof. 
+ Section 21. Costs of Enforcement . (a) In addition to any other indemnity specified in this Agreement,
+Seller agrees to pay as and when billed by Purchaser or Agent all of the reasonable out-of-pocket costs and expenses incurred by Purchaser and Agent in connection with
+the development, preparation, and execution of, and any amendment, supplement or modification to, and enforcement of this Agreement, any other related document or any other documents prepared in connection herewith or therewith. 
+
+ (b) If Seller fails to pay when due any costs, expenses or other amounts payable by it under this Agreement, including, without limitation,
+reasonable fees and expenses of counsel and indemnities, such amount may be paid on behalf of Seller by Purchaser or Agent, in its sole discretion and Seller shall remain liable for any such payments by Purchaser or Agent, as applicable. No such
+payment by Purchaser or Agent shall be deemed a waiver of any of Purchaser’s or Agent’s respective rights under this Agreement. 
+
+ (c) In addition to any other indemnity specified in this Agreement, in the event of a breach by Seller of this Agreement, the Custodial
+Agreement, a Participation Certificate or a Takeout Commitment, Seller agrees to pay the reasonable attorneys’ fees and expenses of Purchaser, Agent and/or any Assignee incurred as a consequence of such breach. 
+
+ - 44 - 
+
+ Section 22. Securities Contract; Netting Agreement . 
+
+ (a) Seller, Purchaser and Agent recognize that each sale of a Participation Certificate (including the related servicing rights) under this
+Agreement is a “securities contract” and a “master netting agreement” as those terms are defined in Section 741 and Section 101(38A)(A) of the Bankruptcy Code, respectively, and a “qualified financial
+contract” as that term is defined in the FDIA. Seller and Purchaser further recognize that the beneficial interest in the Related Mortgage Loans evidenced by a Participation Certificate shall constitute an “interest in a mortgage
+loan” as that term is used in Section and 741(7)(A)(i) of Bankruptcy Code. 
+ (b) It is understood that the Purchaser shall have
+the right to liquidate, terminate and accelerate, or exercise any other remedies permitted upon the occurrence of any Servicing Termination Event, and that such liquidation, termination and acceleration rights constitute contractual rights to
+liquidate, terminate and accelerate the transactions under a “securities contract” and a “master netting agreement” as described in Section 555 and Section 561 of the Bankruptcy Code, respectively, and a
+“qualified financial contract” as described Section 1821(e)(8)(A)(i) of the FDIA. 
+ (c) The parties hereto agree and
+acknowledge that if a party hereto is an “insured depository institution,” as such term is defined in the FDIA, then each transaction hereunder is a “qualified financial contract,” as that term is defined in the FDIA and any
+rules, orders or policy statements thereunder (except insofar as the type of assets subject to such transaction would render such definition inapplicable). 
+
+ (d) It is understood that this Agreement constitutes a “netting contract” as defined in and subject to Title IV of the Federal
+Deposit Insurance Corporation Improvement Act of 1991 (“ FDICIA ”) and each payment entitlement and payment obligation hereunder shall constitute a “covered contractual payment entitlement” or “covered contractual
+payment obligation,” respectively, as defined in and subject to FDICIA. 
+ Section 23. Consent to Service . Each party
+irrevocably consents to the service of process by registered or certified mail, postage prepaid, to it at its address provided pursuant to Section 19 . 
+
+ Section 24. Construction . The headings in this Agreement are for convenience only and are not intended to influence its
+construction. References to Sections, Exhibits and Annexes in this Agreement are to the Sections of and Exhibits and Annexes to this Agreement. The Exhibits and Annexes are part of this Agreement. In this Agreement, the singular includes the plural,
+the plural the singular, and the words “and” and “or” are used in the conjunctive or disjunctive as the sense and circumstances may require. 
+
+ Section 25. Further Assurances . Seller, Purchaser and Agent each agree to execute and deliver to the other such reasonable and
+appropriate additional documents, instruments or agreements as may be necessary or appropriate to effectuate the purposes of this Agreement. 
+
+ - 45 - 
+
+ Section 26. Due Diligence . Purchaser, Agent or any of their respective agents,
+representatives or permitted assigns shall have the right, upon reasonable prior notice and during normal business hours, subject to Section 10(k), no more than one time during any 12-month period (unless
+a Servicer Termination Event has occurred and is continuing, in which case the foregoing limitation of one examination during any 12-month period shall not be applicable), to conduct on-site inspection and perform continuing on-site due diligence reviews of (x) Seller, including, without limitation, for the purpose of verifying compliance with the
+representations, warranties and covenants made under the Program Documents, (y) the Servicing File and (z) the Related Mortgage Loans. Seller agrees promptly to provide Purchaser, Agent and their respective agents with access to, copies of
+and extracts from any and all documents, records, agreements, instruments or information (including, without limitation, any of the foregoing in computer data banks and computer software systems) relating to Seller’s respective business,
+operations, servicing, financial condition, performance of their obligations under the Program Documents, the documents contained in the Servicing Files or the Related Mortgage Loans or assets proposed to be sold hereunder in the possession, or
+under the control, of Seller. In addition, Seller shall also make available to Purchaser and/or Agent, upon reasonable prior notice and during normal business hours no more than one time during any 12-month 
+period (unless a Servicer Termination Event has occurred and is continuing, in which case the foregoing limitation of one examination during any 12-month period shall not be applicable), a knowledgeable
+financial or accounting officer of Seller for the purpose of answering questions respecting the Related Mortgage Loans. Without limiting the generality of the foregoing, Seller acknowledges that Purchaser shall enter into transactions with Seller
+based solely upon the information provided by Seller to Purchaser and/or Agent and the representations, warranties and covenants contained herein, and that Purchaser and/or Agent, at its option, shall have the right at any time to conduct itself or
+through its agents, or require Seller to conduct quality reviews and underwriting compliance reviews of the individual Related Mortgage Loans at the expense of Seller. Any such diligence conducted by Purchaser and/or Agent shall not reduce or limit
+the Seller’s representations, warranties and covenants set forth herein. Seller agrees to reimburse Purchaser and/or Agent for all reasonable out-of-pocket due
+diligence costs and expenses incurred with one examination during any 12-month period (or in connection with any additional examinations conducted following the occurrence and continuation of Servicer
+Termination Event) shall not be applicable) pursuant to this Section 26. 
+ Section 27. Confidentiality . Seller, Purchaser
+and Agent each hereby acknowledge and agree that all written or computer-readable information provided by one party to the other in connection with the Program Documents or the transactions contemplated thereby, including without limitation,
+Seller’s Mortgagor information in the possession of Purchaser (the “ Confidential Terms ”) shall be kept confidential and shall not be divulged to any party without the prior written consent of such other party except for
+(i) disclosure to Seller’s direct and indirect parent companies, directors, attorneys, auditors, taxing authorities, equity holders, representatives, investors, lenders, officers, employees, agents or accountants, provided that such
+parties likewise agree to be bound by this covenant of confidentiality, or are otherwise subject to confidentiality restrictions, (ii) with prior (if feasible) written notice to Purchaser, disclosure required by law, rule, regulation or order
+of a court or other regulatory body, (iii) with prior (if feasible) written notice to Purchaser, (iv) any disclosures or filing required under SEC or state securities’ laws; provided that in the case of clause (iv), Seller shall not
+file the Pricing Side Letter. Notwithstanding any provision herein to the contrary, Seller may provide copies of the Program Documents (other than the Pricing Side Letter) and relevant excerpts (but not specific pricing information) from the Pricing
+Side Letter to the Seller’s other Creditors (to the extent required by such other Creditors). Notwithstanding anything herein to the contrary, except as 
+
+ - 46 - 
+
+reasonably necessary to comply with applicable securities laws, each party (and each employee, representative, or other agent of each party) may disclose to any and all persons, without
+limitation of any kind, the tax treatment and tax structure of the transaction and all materials of any kind (including opinions or other tax analyses) that are provided to it relating to such tax treatment and tax structure. For this purpose, tax
+treatment and tax structure shall not include (i) the identity of any existing or future party (or any Affiliate of such party) to this Agreement or (ii) any specific pricing information or other commercial terms, including the amount of
+any fees, expenses, rates or payments arising in connection with the transactions contemplated by this Agreement. 
+ Purchaser and Agent
+each agree that it will not purchase, sell or trade any class of security of the Seller on the basis of any material nonpublic information that is included in the Confidential Terms in violation of U.S. securities laws. 
+
+ Notwithstanding anything in this Agreement to the contrary, Seller, Purchaser and Agent shall comply with all applicable local, state and
+federal laws, including, without limitation, all privacy and data protection law, rules and regulations that are applicable to the Related Mortgage Loans, the Participation Certificates and any applicable terms of this Agreement, including
+information relating to any Mortgage Loan that is not related to a Participation Certificate purchased hereunder and information relating to any other Mortgage Loans of Seller that is delivered to Purchaser or Agent by another lender under an
+intercreditor agreement or other agreement (the “ Confidential Information ”). Seller, Purchaser and Agent understand that the Confidential Information may contain “nonpublic personal information”, as that term is defined in
+Section 509(4) of the Gramm-Leach-Bliley Act (the “ GLB Act ”), and each agrees to maintain such nonpublic personal information that it receives hereunder in accordance with the GLB Act and other applicable federal and state
+privacy laws. Seller, Purchaser and Agent shall each implement such physical and other security measures as shall be necessary to (a) ensure the security and confidentiality of the “nonpublic personal information” of the
+“customers” and “consumers” (as those terms are defined in the GLB Act) of the Mortgagors, (b) protect against any threats or hazards to the security and integrity of such nonpublic personal information, and (c) protect
+against any unauthorized access to or use of such nonpublic personal information. Seller, Purchaser and Agent shall notify the other party immediately following discovery of any breach or compromise of the security, confidentiality, or integrity of
+the nonpublic personal information of any Mortgagor by providing notice directly to the other party. 
+ Section 28. Contractual
+Recognition of Bail-In. 
+ Seller acknowledges and agrees that notwithstanding any other term of this Agreement
+or any other agreement, arrangement or understanding with us, any of our liabilities, as the Bank of England (or any successor resolution authority) may determine, arising under or in connection with this Agreement may be subject to Bail-In Action and Seller accepts to be bound by the effect of: 
+ (a) any
+ Bail-In Action in relation to such liability, including (without limitation): 
+
+ - 47 - 
+
+ (i) a reduction, in full or in part, of any amount due in respect of any such liability;
+
+ (ii) a conversion of all, or part of, any such liability into shares or other instruments of ownership that may be issued to, or
+conferred on, Seller; and 
+ (iii) a cancellation of any such liability; and 
+
+ (b) a variation of any term of this Agreement to the extent necessary to give effect to Bail-In Action
+in relation to any such liability. 
+ Section 29. USA Patriot Act; OFAC and Anti-Terrorism . 
+
+ Each of Purchaser and Agent hereby notifies the Seller that pursuant to the requirements of the USA PATRIOT Improvement and Reauthorization
+Act, Title III of Pub. L. 109-177 (signed into law March 9, 2009) (the “ Act ”), it is required to obtain, verify, and record information that identifies Seller, which information includes
+the name and address of Seller and other information that will allow Purchaser and Agent, as applicable, to identify the Seller in accordance with the Act. Accordingly, the Seller hereby represents and warrants to Purchaser and Agent, and shall on
+and as of the Purchase Date for any Transaction and on and as of each date thereafter through and including the related Settlement Date be deemed to represent and warrant to Purchaser and Agent that: 
+
+ (a) (i) Neither the Seller nor the Parent Company nor, to the Seller’s actual knowledge, any director, officer, or
+employee of the Seller or any of its subsidiaries, or any originator of Collateral, is named on the list of Specifically Designated Nationals maintained by OFAC or any similar list issued by OFAC (collectively, the “ OFAC Lists ”) or
+is located, organized, or resident in a country or territory that is, or whose government is, the target of sanctions imposed by OFAC; and (ii) no Person on the OFAC Lists owns, directly or indirectly, or otherwise controls, the Seller or the
+Parent Company. 
+ (b) (i) Seller will not knowingly conduct business with or engage in any transaction with any Obligor
+that the Seller or any originator of Collateral knows, after reasonable due diligence, that, (x) is named on any of the OFAC Lists or is located, organized, or resident in a country or territory that is, or whose government currently is, the
+target of countrywide sanctions imposed by OFAC; (y) is owned, directly or indirectly, or otherwise controlled, by a Person named on any OFAC List; (ii) if the Seller obtains actual knowledge, after reasonable due diligence, that any
+Obligor is named on any of the OFAC Lists or that any Person named on an OFAC List owns, directly or indirectly, or otherwise controls the Obligor or the Seller, as applicable, Seller will give prompt written notice to Purchaser and Agent of such
+fact or facts; and (iii) the Seller will (x) comply at all times with the requirements of the Economic and Trade Sanctions and Anti-Terrorism Laws applicable to any transactions, dealings or other actions relating to this Agreement, except
+to the extent such non-compliance does not result in a violation of applicable law by any of Purchaser or Agent and (y) will, upon Purchaser’s or Agent’s reasonable request from time to time
+during the term of this Agreement, deliver a certification confirming its compliance with the covenants set forth in this Section 29 . 
+
+ - 48 - 
+
+ Section 30. Contractual Recognition of UK Stay In Resolution . 
+
+ (a) Where a resolution measure is taken in relation to any BRRD undertaking or any member of the same group as that BRRD undertaking and that
+BRRD undertaking or any member of the same group as that BRRD undertaking is a party to this Agreement (any such party to this Agreement being an “ Affected Party ”), each other party to this Agreement agrees that it shall only be
+entitled to exercise any termination right under this Agreement against the Affected Party to the extent that it would be entitled to do so under the Special Resolution Regime if this Agreement were governed by the laws of any part of the United
+Kingdom. 
+ (b) For the purpose of this Section 30 “resolution measure” means a ‘crisis prevention
+measure’, ‘crisis management measure’ or ‘recognised third-country resolution action’, each with the meaning given in the “PRA Rulebook: CRR Firms and Non-Authorised Persons: Stay
+in Resolution Instrument 2015”, as may be amended from time to time (the “ PRA Contractual Stay Rules ”), provided, however, that ‘crisis prevention measure’ shall be interpreted in the manner outlined in Rule 2.3 of
+the PRA Contractual Stay Rules ; “BRRD undertaking”, “group”, “Special Resolution Regime” and “termination right” have the respective meanings given in the PRA Contractual Stay Rules. 
+
+ Section 31. Notice Regarding Client Money Rules . 
+
+ (a) The Purchaser, as a CRD credit institution (as such term is defined in the rules of the FCA), holds all money received and held by it
+hereunder as banker and not as trustee. Accordingly, money that is received and held by Purchaser from Seller will not be held in accordance with the provisions of the FCA’s Client Asset Sourcebook relating to client money (the “ Client
+Money Rules ”) and will not be subject to the statutory trust provided for under the Client Money Rules. 
+ (b) In particular, the
+Purchaser shall not segregate money received by it from Seller from the Purchaser money and the Purchaser shall not be liable to account to Seller for any profits made by the Purchaser use as banker of such cash and upon failure of the Purchaser,
+the client money distribution rules within the Client Asset Sourcebook (the “ Client Money Distribution Rules ”) will not apply to these sums and so Seller will not be entitled to share in any distribution under the Client Money
+Distribution Rules. 
+ Section 32. Effect of Benchmark Transition Event . 
+
+ (a) Notwithstanding anything to the contrary herein or in any other Program Document, upon the occurrence of a Benchmark Transition Event or an
+Early Opt-in Election, as applicable, the Agent and the Seller may amend this Agreement to replace LIBOR with a Benchmark Replacement. Any such amendment with respect to a Benchmark Transition Event will
+become effective at 5:00 p.m. on the fifth (5th) Business Day after the Agent has posted such proposed amendment to the Purchaser and the Seller. Any such amendment with respect to an Early Opt-in Election
+will become effective on the date that the Purchaser has delivered to the Agent written notice that the Purchaser accepts such amendment. No replacement of LIBOR with a Benchmark Replacement pursuant to this Section titled “Effect of Benchmark
+Transition Event” will occur prior to the applicable Benchmark Transition Start Date. 
+
+ - 49 - 
+
+ (b) In connection with the implementation of a Benchmark Replacement, the Agent will have
+the right to make Benchmark Replacement Conforming Changes from time to time and, notwithstanding anything to the contrary herein or in any other Program Document, any amendments implementing such Benchmark Replacement Conforming Changes will become
+effective without any further action or consent of any other party to this Agreement. 
+ (c) The Agent will promptly notify the Seller and
+the Purchaser of (i) any occurrence of a Benchmark Transition Event or an Early Opt-in Election, as applicable, and its related Benchmark Replacement Date and Benchmark Transition Start Date,
+(ii) the implementation of any Benchmark Replacement, (iii) the effectiveness of any Benchmark Replacement Conforming Changes and (iv) the commencement or conclusion of any Benchmark Unavailability Period. 
+
+ (d) Any determination, decision or election that may be made by the Agent or Purchaser pursuant to this Section titled “Effect of
+Benchmark Transition Event,” including any determination with respect to a tenor, rate or adjustment or of the occurrence or non-occurrence of an event, circumstance or date and any decision to take or
+refrain from taking any action, will be conclusive and binding absent manifest error and may be made in its or their sole discretion and without consent from any other party hereto, except, in each case, as expressly required pursuant to this
+Section titled “Effect of Benchmark Transition Event.” 
+ (e) Upon the Seller’s receipt of notice of the commencement of a
+Benchmark Unavailability Period and until such Benchmark Unavailability Period ends, the Seller shall apply an alternate benchmark rate (which may be a SOFR-Based Rate) that has been mutually agreed upon by the Agent and the Seller. 
+
+ - 50 - 
+
+ IN WITNESS WHEREOF, Purchaser, Agent and Seller have duly executed this Agreement as of the
+date and year set forth on the cover page hereof. 
+
+ BARCLAYS BANK PLC 
+
+ By: 
+
+ Name: 
+
+ Title: 
+
+ LOANDEPOT.COM, LLC 
+
+ By: 
+
+ Name: 
+
+ Title: 
+
+ Acknowledged and Agreed with respect to Section 3: 
+
+ BARCLAYS CAPITAL INC. 
+
+ By: 
+
+ Name: 
+
+ Title: 
+
+ Mortgage Loan Participation Purchase and Sale Agreement Signature Page 
+
+ Exhibit A 
+
+ PARTICIPATION CERTIFICATE 
+ POOL NO. (or Freddie
+Mac CONTRACT NO.): 
+ This participation certificate evidences a one hundred percent (100%) undivided beneficial ownership interest in
+(including the right to receive the payments of principal of and interest on) the Mortgage Loans (the “ Participation Certificate ”) identified: 
+
+ (Check Box) 
+
+ ☐ 
+
+ (a) 
+
+ Form HUD 11706 (Schedule of Pooled Mortgages); 
+
+ ☐ 
+
+ (b) 
+
+ Fannie Mae Form 2005 (Schedule of Mortgages); or 
+
+ ☐ 
+
+ (c) 
+
+ Freddie Mac Form 1034 (Fixed-Rate Custodial Certification Schedule) or Selling System computer tape. 
+
+ This Participation Certificate has been sold to Purchaser (as defined herein) pursuant to the terms of
+that certain Mortgage Loan Participation Purchase and Sale Agreement, dated August 25, 2020 (the “ Agreement ”) between loanDepot.com, LLC, as seller (the “ Seller ”), and Barclays Bank PLC, as purchaser (the
+“ Purchaser ”) and as agent (the “ Agent ”). Capitalized terms used but not defined herein shall have the meanings set forth in the Agreement, the terms of which are hereby incorporated by reference and made a part of
+this Participation Certificate. 
+ Upon Delivery of the related Security to Purchaser or its Assignee, Purchaser’s beneficial ownership
+interest in the Mortgage Loans evidenced in this Participation Certificate shall terminate in exchange for such Security, and this Participation Certificate shall be void and of no further effect. 
+
+ Purchaser and Seller confirm that the transaction contemplated herein pursuant to the Agreement is intended to be a sale of this Participation
+Certificate by Seller to Purchaser rather than borrowings secured by this Participation Certificate. In the event, for any reason, this transaction is construed by any court or regulatory authority as a borrowing rather than as a sale, Seller and
+Purchaser intend that Purchaser shall have a perfected first priority security interest in this Participation Certificate and all of Seller’s interest in all of the servicing rights with respect to the above-described Mortgage Loans
+(“Mortgage Loan Pool”); the Custodial Account and all amounts on deposit therein; all documents, records (including Servicing Records), instruments and data evidencing the Mortgage Loan Pool and the servicing thereof; all principal and
+interest collected thereon and all proceeds thereof; the Takeout Commitments related to the Participation Certificate; and the proceeds of any and all of the foregoing (all of the foregoing property, collectively, the “Collateral”), free
+and clear of adverse claims. In furtherance thereof, Seller hereby grants to Purchaser a first priority security interest in and lien upon the Collateral, free and clear of adverse claims. 
+
+ A-1 
+
+ This Participation Certificate may be amended only by a written agreement between Seller,
+Purchaser and Agent. 
+
+ LOANDEPOT.COM, LLC 
+
+ By: 
+
+ Its: 
+
+ Date: 
+
+ A-2 
+
+ AGGREGATE PRINCIPAL BALANCES OF THE MORTGAGE LOANS (GIVING EFFECT TO PAYMENTS MADE AS OF _______, ____):
+$_____________________ 
+
+ Hereby authenticated by Deutsche Bank National Trust Company pursuant to the Custodial Agreement (May not be applicable for Freddie Mac) 
+
+ By: 
+
+ Its: 
+
+ Date: 
+
+ A-3 
+
+ Exhibit B 
+
+ TRADE ASSIGNMENT 
+ __________ (“ Takeout
+Investor ”) 
+ (Address) 
+ Attention : 
+
+ Fax No.: 
+
+ Ladies and Gentlemen: 
+ Attached hereto is a
+correct and complete copy of your confirmation of commitment (the “ Commitment ”), trade-dated _________ __, ____, to purchase $______ of __% ___ year, 
+
+ (Check Box) 
+
+ ☐ 
+
+ Government National Mortgage Association; 
+
+ ☐ 
+
+ Federal National Mortgage Association; or 
+
+ ☐ 
+
+ Federal Home Loan Mortgage Corporation. 
+
+ mortgage-backed pass-through securities (“ Securities ”) at a purchase price of ___________ from
+_________ on (insert Settlement Date). Our intention is to assign $_____ of this Commitment’s full amount, which assignment shall be effective and shall be fully enforceable by the assignee on the Settlement Date. This is to confirm that
+(i) the form of this assignment conforms to the SIFMA guidelines, (ii) the Commitment is in full force and effect, (iii) effective as of the Settlement Date, the Commitment is hereby assigned to Barclays Capital Inc.
+(“ BCI ”), whose acceptance of such assignment is indicated below, (iv) you will accept delivery of such Securities directly from BCI, (v) you will pay BCI for such Securities, (vi) effective as of the Settlement Date
+and provided the Securities have been issued, BCI is obligated to make delivery of such Securities to you in accordance with the attached Commitment and (vii) effective as of the Settlement Date and provided the Securities have been issued, you
+have released Seller from its obligation to deliver the Securities to you under the Commitment. Payment will be made “delivery versus payment (DVP)” to BCI in immediately available funds. 
+
+ Please acknowledge your acceptance of the foregoing by countersigning below and delivering an executed copy of this Trade Assignment to
+_______________ at fax # (___) ___-____. Notification of incorrect information or rejection of this Trade Assignment or any questions regarding this Trade Assignment should be immediately made to [_____]. 
+
+ B-1 
+
+ Very truly yours,
+
+ loanDepot.com, LLC
+
+ By:
+ Title:
+
+ Date:
+
+ Acknowledged and agreed to : 
+
+ BARCLAYS CAPITAL INC. 
+
+ By: 
+
+ Title: 
+
+ Date: 
+
+ Provided the Securities have been issued, notice of delivery and confirmation of receipt will be the obligations of Barclays.
+
+ Acknowledged and agreed to : 
+
+ [TAKEOUT INVESTOR] 
+
+ By: 
+
+ Title: 
+
+ Date: 
+
+ B-2 
+
+ Exhibit C 
+
+ RESERVED 
+
+ C-1 
+
+ Exhibit D 
+
+ WAREHOUSE LENDER’S RELEASE 
+ Barclays Bank
+PLC 
+ 745 7th Avenue, 4th Floor 
+ New York, New York 10019 
+
+ Attention: 
+ Ladies and Gentlemen: 
+
+ Capitalized terms used herein but not defined herein shall have the meanings ascribed to such terms in the Custodial Agreement, dated as of
+August 25, 2020, among Barclays Bank PLC, loanDepot.com, LLC and Deutsche Bank National Trust Company. 
+ We hereby release all right,
+interest or claim of any kind, including any security interest or lien, with respect to the mortgage loans referenced in the attached schedule (Ginnie Mae/Fannie Mae/Freddie Mac Pool/Contract #__________), such release to be effective automatically
+without any further action by any party, upon payment, in one or more installments, from Barclays Bank PLC, in accordance with the Wire Instructions in effect on the date of such payment, in immediately available funds, of an aggregate amount equal
+to the product of A multiplied by B (such product being rounded to the nearest $0.01) multiplied by C.* 
+
+ Very truly yours, 
+
+ [WAREHOUSE LENDER] 
+
+ *A = weighted average Trade Price (expressed as a percentage of the initial aggregate principal balance of the Mortgage Loans)
+
+ B = principal amount of the Mortgage Loans
+ backing the
+Security
+ C = 1 minus the Discount
+
+ D-1 
+
+ Exhibit E 
+
+ ASSIGNMENT 
+ FOR VALUE RECEIVED the undersigned
+hereby sell(s) and assign(s) and transfer(s) unto 
+ (Please print or typewrite name and address, including postal zip code of assignee) 
+
+ an undivided Participation Interest Equal to % of the beneficial interest in the Mortgage Loans relating to the within Participation
+Certificate, Pool No. (Freddie Mac Contract No.) , Pass-Through Rate , Discount and hereby authorize(s)
+the transfer of registration of such interest to assignee. 
+
+ [Assignor] 
+
+ By: 
+
+ Name: 
+
+ Title: 
+
+ Dated: ________________ 
+
+ E-1 
+
+ Exhibit F 
+
+ FORM OF CONFIRMATION 
+
+ TO: 
+ loanDepot.com, LLC 
+
+ 26642 Towne Centre Drive 
+
+ Foothill Ranch, California 92610 
+
+ Attention: Sheila Mayes, SVP, Treasury 
+
+ email: smayes@loandepot.com 
+
+ Attention: Patrick Flanagan, Chief Financial Officer 
+
+ email: pflanagan@loandepot.com 
+
+ Attention: Peter Macdonald, General Counsel 
+
+ email: pmacdonald@loandepot.com 
+ DATE:
+
+ RE: 
+ Confirmation of Purchase of a beneficial interest in 
+
+ Mortgage Loans relating to a Participation Certificate 
+
+ Barclays Bank PLC (“ Purchaser ” and “ Agent ”) is pleased to confirm its agreement to purchase and your
+agreement to sell a 100% undivided, beneficial interest in the Mortgage Loans relating to a Participation Certificate relating to the pool number (or Freddie Mac Contract Number) referred to herein, pursuant to the Mortgage Loan Participation
+Purchase and Sale Agreement, dated as of August 25, 2020 (the “ Agreement ”), between Purchaser, Agent and Seller, under the following terms and conditions. 
+
+ Pool No. (or Freddie Mac Contract No.) 
+
+ Applicable Agency 
+
+ Purchase Date 
+
+ Anticipated Delivery Date 
+
+ Settlement Date 
+
+ Trade Price 
+
+ Purchase Price: 
+
+ Initial Purchase Price Installment 
+
+ Final Purchase Price Installment 
+
+ Face Amount of the Security_________________________ 
+
+ Pass Through Rate 
+
+ [Other information TBD] 
+
+ F-1 
+
+ Capitalized terms used and not otherwise defined herein shall have the meanings ascribed in the Agreement.
+
+ Very truly yours, 
+
+ BARCLAYS BANK PLC 
+
+ By: 
+
+ Name: 
+
+ Title: 
+
+ Agreed to by: 
+
+ LOANDEPOT.COM, LLC 
+
+ By: 
+
+ Name: 
+
+ Title: 
+
+ F-2 
+
+ Annex A 
+
+ PURCHASER NOTICES 
+
+ Name: 
+
+ Barclays Bank PLC 
+
+ Address: 
+
+ 745 7th Avenue, 4th Floor
+ New York, New York
+10019
+
+ Telephone: 
+
+ (212) 412-3266 
+
+ Telecopy: 
+
+ (212) 412-6846 
+
+ with a copy to: 
+
+ Barclays Capital – Operations
+ 1301 Sixth
+Ave, 8th Floor
+ New York, NY 10019
+ Attention: Roger
+Billotto
+ Email: roger.billotto@barclays.com
+
+ AGENT NOTICES 
+
+ Name: 
+
+ Barclays Bank PLC 
+
+ Address: 
+
+ 745 7th Avenue, 4th Floor
+ New York, New York
+10019
+
+ Telephone: 
+
+ (212) 412-3266 
+
+ Telecopy: 
+
+ (212) 412-6846 
+
+ Annex A-1 
+
+ SELLER NOTICES 
+
+ Name: 
+
+ loanDepot.com, LLC 
+
+ Address: 
+
+ 26642 Towne Centre Drive
+ Foothill Ranch,
+California 92610
+ Attention: Sheila Mayes, SVP, Treasury
+
+ Email: smayes@loandepot.com 
+
+ Telephone: 
+
+ (949)575-5481 
+
+ with copies to: 
+
+ loanDepot.com, LLC
+ 26642 Towne Centre Drive
+
+ Foothill Ranch, California 92610
+ Attention: Patrick Flanagan,
+Chief Financial Officer
+ email: pflanagan@loandepot.com 
+
+ Attention: Peter Macdonald, General Counsel
+ email:
+ pmacdonald@loandepot.com 
+
+ For purposes of service of process: 
+
+ National Registered Agents, Inc.
+ 818 West
+Seventh Street, Suite 930
+ Los Angeles, California 90017
+
+ Annex A-2

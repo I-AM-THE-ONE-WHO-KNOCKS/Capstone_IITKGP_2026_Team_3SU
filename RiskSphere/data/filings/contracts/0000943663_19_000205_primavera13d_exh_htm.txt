@@ -1,0 +1,613 @@
+EX-99.2
+ 2
+ primavera13d-exh.htm
+
+ [Exhibit]
+
+ [FORM OF] MASTER CONFIRMATION FOR WARRANT FORWARD SALE TRANSACTIONS
+
+ This master confirmation (this “ Master Confirmation ”), dated as of [__________], is intended to set forth certain terms and conditions for warrant
+ forward sale transactions that may be entered into between [_____________] (“ Dealer ”) and Pollos Upside L.P., a Delaware limited partnership (“ Counterparty ”) from time to time with respect to the Warrant(s) (as defined below) (each, a “ Transaction ”). 
+
+ This Master Confirmation, taken alone, is neither a commitment by either party to enter into any Transaction nor evidence of a Transaction. Each such Transaction entered into between Dealer and Counterparty that is subject to this Master
+ Confirmation shall be evidenced by a written supplemental confirmation substantially in the form of Exhibit A hereto, with such modifications thereto as to which the parties mutually agree in writing (a “ Supplemental Confirmation ”). 
+ This Master Confirmation and each Supplemental Confirmation shall constitute a “Confirmation” as referred to in the Agreement specified below.
+
+ The definitions and provisions contained in the 2002 ISDA Equity Derivatives Definitions (the “ Equity Definitions ”), as published by the International Swaps and
+ Derivatives Association, Inc., are incorporated into this Master Confirmation. For purposes of the Equity Definitions, each Transaction hereunder is a Share Forward Transaction. Notwithstanding the foregoing, the parties agree that each Transaction
+ shall constitute a forward sale of the applicable Warrant(s) (as defined herein).
+
+ 1. This Master Confirmation and a Supplemental Confirmation
+ evidence a complete binding agreement between Dealer and Counterparty as to the terms of each Transaction to which this Master Confirmation, such Supplemental Confirmation relates. This Master Confirmation and each Supplemental Confirmation shall
+ supplement, form a part of, and be subject to an agreement in the form of the ISDA 2002 Master Agreement (the “ Agreement ”) as if Counterparty and Dealer had executed an agreement in such form (but without any Schedule except for (i) the
+ election of New York law (without reference to its choice of laws doctrine other than Title 14 of Article 5 of the New York General Obligations Law) as the governing law, (ii) “Specified Indebtedness” had the meaning specified in Section 14 of the
+ Agreement, and (iii) the election that the “Cross Default” provisions of Section 5(a)(vi) shall apply to Counterparty, with a “Threshold Amount” of USD [__] million.
+
+ If, in relation to any Transaction to which this Master Confirmation and a Supplemental Confirmation relate, there is any inconsistency between the Agreement, this Master
+ Confirmation and such Supplemental Confirmation, and the Equity Definitions, the following will prevail for purposes of such Transaction in the order of precedence indicated as follows: (i) such Supplemental Confirmation; (ii) this Master
+ Confirmation; (iii) the Equity Definitions; and (iv) the Agreement.
+
+ 2. Set forth below are the terms and conditions that, together
+ with the terms and conditions set forth in the Supplemental Confirmation relating to any Transaction, shall govern such Transaction:
+
+ General Terms: 
+
+ Trade Date: 
+
+ For each Transaction, as set forth in the related Supplemental Confirmation.
+
+ Effective Date: 
+
+ For each Transaction, the first Scheduled Trading Day after the date on which all conditions precedents specified in Section 3 are satisfied.
+
+ Seller: 
+
+ Counterparty
+
+ Buyer: 
+
+ Dealer
+
+ Issuer: 
+
+ Yum China Holdings, Inc.
+
+ Shares: 
+
+ Common stock, par value $0.01 per share, of the Issuer (Ticker: YUMC).
+
+ Warrant(s): 
+
+ For each Transaction, as specified in the related Supplemental Confirmation.
+
+ Number of Shares: 
+
+ As of any date, the aggregate number of “Warrant Shares”, as defined in each Warrant, issuable upon the exercise of each Warrant as of such date (determined in the aggregate as if the exercise price under each Warrant could be paid in
+ cash).
+
+ Forward Price: 
+
+ As of any date, the “Exercise Price”, as defined in the Warrant(s), as of such date.
+
+ Prepayment: 
+
+ Applicable.
+
+ Variable Obligation: 
+
+ Not Applicable.
+
+ Prepayment Amount: 
+
+ For each Transaction, as set forth in the related Supplemental Confirmation.
+
+ Prepayment Date: 
+
+ The second Currency Business Day following the Trade Date.
+
+ Exchange: 
+
+ The New York Stock Exchange.
+
+ Related Exchanges: 
+
+ All Exchanges.
+
+ Valuation: 
+
+ Valuation Time: 
+
+ 8:00 p.m. (local time in New York City).
+
+ Valuation Date: 
+
+ The earliest to occur of (i) October 28, 2021 (or, if October 28 is not a Shanghai Business Day, the second Shanghai Business Day immediately preceding October 28), (ii) any date Dealer provides a written notice to Counterparty that a
+ Hedging Disruption has occurred and (iii) any date occurring on or after the date that is six months following the Trade Date for the relevant Transaction and prior to October 27, 2021 that Dealer may specify by not less than [__]
+ calendar days’ prior written notice (provided that, if such date is prior to one year following the Trade Date for the relevant transaction, the requirements of clause (c) of Rule 144 are satisfied as of the date so specified).
+
+ Shanghai Business Day: 
+
+ Any day other than a Saturday, Sunday or a day on which banking institutions are generally authorized or required by law to close in Shanghai, China.
+
+ Settlement Terms: 
+
+ Settlement Method Election: 
+
+ Applicable as between Physical Settlement and Net Share Settlement as described herein; provided that Physical Settlement shall apply if Dealer provides a written notice to Counterparty that a
+ Hedging Disruption has occurred as described in “Valuation Date”.
+
+ Electing Party: 
+
+ Counterparty.
+
+ Notice of Default Settlement
+
+ Method:
+
+ Counterparty may, at any time from time to time, on any Exchange Business Day prior to the 30th Scheduled Trading Day prior to the Valuation Date, elect to change the Default Settlement Method by providing [__] Scheduled Trading Days’
+ advance notice to Dealer; provided that Counterparty may change the Default Settlement Method only if Counterparty represents and warrants to Dealer in writing on the relevant notice date that, as
+ of such date, Counterparty is not aware of any material non-public information regarding the Issuer or the Shares.
+
+ Default Settlement Method: 
+
+ Initially, Physical Settlement, subject to Counterparty’s right to change the Default Settlement Method as described in “Notice of Default Settlement Method”.
+
+ Valuation and Settlement Terms if Physical Settlement applies: 
+
+ Physical Settlement: 
+
+ If applicable, and notwithstanding Section 9.2(a) of the Equity Definitions, Physical Settlement means that on or prior to the Settlement Date Dealer will deliver to Issuer in accordance with the Issuer Agreement a duly completed
+ “Notice of Settlement” (as defined in the Issuer Agreement) in order to effect the transfer on the books and records of Issuer of the Warrant(s) to Dealer by 1:00 a.m. New York time on the Settlement Date. Such transfer and delivery shall
+ be free of any lien, charge claim or other encumbrances and any Transfer Restrictions, other than Existing Transfer Restrictions, and without any payment from Dealer to Counterparty of any Settlement Price or otherwise, and such transfer
+ shall fully satisfy Counterparty’s delivery obligations under the Transaction.
+
+ Settlement Date: 
+
+ The Shanghai Business Day immediately following the Valuation Date.
+
+ Valuation and Settlement Terms if Net Share Settlement applies: 
+
+ Averaging Dates: 
+
+ For each Transaction, each “Trading Day”, as defined in the Warrant(s), of the 20 “Trading Day” period immediately preceding the Valuation Date.
+
+ Averaging Date Disruption: 
+
+ Not Applicable.
+
+ Regulatory Disruption Event: 
+
+ In the event that Dealer reasonably concludes in good faith and upon the advice of counsel that it is appropriate with respect to any legal, regulatory or self-regulatory requirements or related policies and procedures (whether or not
+ such requirements, policies or procedures are imposed by law or have been voluntarily adopted by Dealer (provided that any such requirements, policies or procedures are generally applicable to transactions of this nature and related to
+ compliance with applicable laws for Dealer and applied hereto in a non-discriminatory manner and in a consistent manner to similarly affected transactions generally)) for it to refrain from, decrease or otherwise materially alter any
+ market activity on any Averaging Date (a “ Regulatory Disruption ”), Dealer may provide a written notice to Counterparty and may make a commercially reasonable adjustment to any one or more of the Forward Price, the Number of Shares
+ and any other variable relevant to the exercise, settlement or payment for the Transaction to account for the economic effect of such Regulatory Disruption. Dealer shall promptly notify Counterparty upon exercising its rights pursuant to
+ this provision and shall subsequently notify Counterparty in writing on the day Dealer reasonably believes in good faith and upon the advice of counsel that it may resume its market activity. Dealer shall not be required to communicate
+ to Counterparty the reason for Dealer’s exercise of its rights pursuant to this provision if Dealer reasonably determines in good faith and upon the advice of counsel that disclosing such reason may result in a violation of any legal,
+ regulatory, or self-regulatory requirements or related policies and procedures (whether or not such requirements, policies or procedures are imposed by law or have been voluntarily adopted by Dealer).
+
+ Settlement Currency: 
+
+ USD.
+
+ Net Share Settlement: 
+
+ If applicable, Counterparty shall deliver to Dealer on the Net Share Settlement Date a number of Shares (rounded down to the nearest whole number) equal to the product of (i) the Number of Shares, and (ii) the “Cashless Exercise Ratio”
+ (as defined in the Warrant(s)) as of the related Valuation Date and pay to Dealer the Fractional Share Amount, if any; provided that Section 9.11 of the Equity Definitions will be applicable,
+ except that all references in such provisions to “Physically-settled” shall be read as references to “Net Share Settled.”
+
+ Net Share Settlement Date: 
+
+ The date that is the third Clearance System Business Day following the Valuation Date.
+
+ Warrant Exercise: 
+
+ In connection with any Net Share Settlement, Dealer shall deliver a “Notice of Exercise”, as defined in the Warrant(s), in respect of each Warrant, and direct the Custodian to exercise each Warrant on behalf of Counterparty pursuant to
+ Section 3(i) of the Warrant(s) with an “exercise date” in respect of each such “Notice of Exercise” designated as the Valuation Date.
+
+ Adjustments: 
+
+ Potential Adjustment Event: 
+
+ Notwithstanding Section 11.2(e) of the Equity Definitions, a “Potential Adjustment Event” means an occurrence of any event or condition, as set forth in any Dilution Adjustment Provision, that would result in an adjustment under a
+ Warrant.
+
+ Dilution Adjustment Provisions: 
+
+ Sections 12(i), (ii), (iii), (iv) and (v) of the Warrant(s).
+
+ Method of Adjustment: 
+
+ Calculation Agent Adjustment, which means that, notwithstanding Section 11.2(c) of the Equity Definitions, following each adjustment to the exercise, settlement, payment or other terms of a Warrant as a result of the occurrence of any
+ Potential Adjustment Event, the Calculation Agent shall make a corresponding adjustment to any one or more of the Forward Price, Number of Shares and any other variable relevant to the settlement or payment for the Transaction, which
+ adjustment will be effective as of the date determined by the Calculation Agent to be the effective date of the corresponding adjustment made under such Warrant.
+
+ Extraordinary Events: 
+
+ Merger Events: 
+
+ Notwithstanding anything to the contrary in the Equity Definitions, “Merger Event” shall be not applicable.
+
+ Tender Offer: 
+
+ Not Applicable
+
+ Nationalization, Insolvency
+
+ and Delisting: 
+
+ Notwithstanding anything to the contrary in the Equity Definitions, Nationalization, Insolvency and Delisting shall be not applicable, and Section 12.6 of the Equity Definitions is hereby deleted.
+
+ Additional Disruption Events: 
+
+ Change in Law: 
+
+ Applicable; provided that Section 12.9(a)(ii) of the Equity Definitions is hereby amended by (i) replacing the parenthetical beginning after the word “regulation” in the second line thereof with the phrase “(including, for the
+ avoidance of doubt and without limitation, (x) any tax law or (y) adoption or promulgation of new regulations authorized or mandated by existing statute)”, (ii) replacing the phrase “the interpretation” in the third line thereof with the
+ phrase “or public announcement of the formal or informal interpretation”, (iii) adding the phrase “and/or Hedge Position” after the word “Shares” in clause (X) thereof and (iv) by immediately following the word “Transaction” in clause (X)
+ thereof, adding the phrase “in the manner contemplated by the Hedging Party on the Trade Date”.
+
+ Failure to Deliver: 
+
+ Not Applicable.
+
+ Insolvency Filing: 
+
+ Applicable
+
+ Hedging Party: 
+
+ For all applicable Additional Disruption Events, Dealer.
+
+ Determining Party: 
+
+ For all applicable Extraordinary Events, Dealer.
+
+ Non-Reliance: 
+
+ Applicable
+
+ Agreements and
+
+ Acknowledgments
+
+ Regarding Hedging Activities: 
+
+ Applicable
+
+ Additional Acknowledgments: Applicable
+
+ Calculation Agent: 
+
+ Dealer; provided that if at any time an Event of Default under Section 5(a)(vii) of the Agreement has occurred and is continuing with respect to Dealer, then Counterparty shall appoint an
+ independent leading dealer in the U.S. equity derivatives market to act as Calculation Agent (“ Substitute Calculation Agent ”). All calculations and determinations made by the Substitute Calculation Agent shall be made in good
+ faith and in a commercially reasonable manner. Upon a reasonable request from Counterparty, the Calculation Agent shall provide Counterparty with a written explanation describing in reasonable detail any calculation, adjustment or
+ determination made by the Calculation Agent, and shall use commercially reasonable efforts to provide such written explanation within five Business Days from the receipt of such request unless otherwise agreed with Counterparty (including
+ any market data or information from internal sources used in arriving at such calculation, adjustment or determination, but without disclosing the Calculation Agent’s proprietary models or confidential information).
+
+ Credit Support Documents: With
+
+ respect to Counterparty, the Pledge Agreement (the “ Pledge Agreement ”), dated as of the date hereof, between Counterparty and Dealer.
+
+ Issuer Agreement: 
+
+ The agreement, dated as of the date hereof, by and among Counterparty, the Issuer and Dealer.
+
+ 3. Conditions . (1) Notwithstanding anything to the contrary
+ in this Master Confirmation or the Agreement, the effectiveness of this Master Confirmation and any Transaction under this Master Confirmation (including, for the avoidance of doubt, payment of the Prepayment Amount in respect thereof) shall be
+ subject to the following conditions precedent:
+
+ (a) All representations and agreements of Counterparty contained in this Master
+ Confirmation, the Agreement and any other Credit Support Document shall be true and correct as of the Trade Date for such Transaction;
+
+ (b) Each of the Credit Support Documents and the Issuer Agreement shall have been
+ executed and delivered to Dealer; and
+
+ (c) No Event of Default or Potential Event of Default (in either case with respect
+ to which Counterparty is or would be the Defaulting Party) or Termination Event (with respect to which Counterparty is an Affected Party) shall have occurred on or prior to such Trade Date.
+
+ (2) Notwithstanding anything to the contrary in
+ this Master Confirmation or the Agreement, the effectiveness of this Master Confirmation and any Transaction under this Master Confirmation (including, for the avoidance of doubt, payment of the Prepayment Amount in respect thereof) shall be subject
+ to the following conditions subsequent: The Collateral (as defined in the Pledge Agreement) shall have been delivered to [___________], as custodian, pursuant to the terms of the Pledge Agreement on or prior to the Collateral Delivery Date (as
+ specified in the relevant Supplemental Confirmation).
+
+ 4. Representations and Agreements . Counterparty hereby
+ represents and warrants to, and agrees with, Dealer on the Trade Date of any Transaction under this Master Confirmation:
+
+ (a) The Warrant(s) are and upon any exercise by
+ Dealer of its remedies hereunder will be, and the “Warrant Shares” (as defined in each Warrant) issuable upon “Cashless Exercise” (as defined in the Warrant(s)) of each Warrant by Dealer (i) following Physical Settlement or (ii) in connection with
+ its rights and remedies under Pledge Agreement will be, free of any Transfer Restrictions, other than Existing Transfer Restrictions (each as defined below) (and, for the avoidance of doubt and without limitation of the foregoing, in the case of any
+ Warrant included in the Collateral, such Warrant was acquired by Counterparty from the Issuer, for which Counterparty made payment of the full purchase price, within the meaning of Rule 144(d)(1)(iii) under the Securities Act of 1933, as amended (the
+ “ Securities Act ”), and the “holding period” of Counterparty for such Warrant, determined in accordance with Rule 144 under the Securities Act (“ Rule 144 ”), commenced no later than the date one year prior to such Trade Date). “ Existing
+
+ Transfer Restrictions ” means Transfer Restrictions existing with respect to any securities solely by virtue of the fact that Counterparty may be an “affiliate” of the Issuer (as such term is defined in Rule 144 under the Securities Act) and,
+ solely with respect to the Warrant(s) (but not the Warrant Shares) solely by virtue of the fact that each Warrant may be a “restricted security” within the meaning of Rule 144.
+
+ (b) Counterparty is entering into any
+ Transaction hereunder (A) not “on the basis of” (as defined in Rule 10b5-1(b) under the Securities Exchange Act of 1934, as amended (the “ Exchange Act ”), or in possession of, any material nonpublic information concerning the Shares or the
+ Issuer and (B) in good faith and not as part of a plan or scheme to evade compliance with the federal securities laws. “Material” information for these purposes is any information to which an investor would reasonably attach importance in reaching a
+ decision to buy, sell or hold securities of the Issuer.
+
+ (c) Counterparty is not entering into such
+ Transaction to create actual or apparent trading activity in the Shares (or any security convertible into or exchangeable for Shares) or to raise or depress or otherwise manipulate the price of the Shares (or any security convertible into or
+ exchangeable for Shares).
+
+ (d) Counterparty is currently, and in the past
+ has been, in compliance with its reporting obligations under Sections 13 and 16 of the Exchange Act and will comply with Counterparty’s responsibilities under applicable securities laws in connection with such Transactions including, but not limited
+ to, the provisions of Rule 144 and the filing requirements (to the extent applicable) of Sections 13 and 16 of the Exchange Act. Counterparty shall provide a draft of any such filing in connection with such Transaction to Dealer and provide Dealer
+ with a reasonable opportunity to comment thereon.
+
+ (e) Neither Counterparty, nor any other
+ “person” associated with Counterparty within the meaning of paragraph (a)(2) of Rule 144 under the Securities Act (each such other person, an “ Associated Person ”), has any reason to believe that the Issuer has not complied with the reporting
+ requirements as outlined in Rule 144(c).
+
+ (f) During the three months immediately
+ preceding such Trade Date, neither Counterparty nor any affiliate of Counterparty nor any person who would be considered to be the same “person” as Counterparty or “act[ing] in concert” with Counterparty (as such terms are used in clauses (a)(2) and
+ (e)(3)(vi) of Rule 144 under the Securities Act) has sold or will, without the written consent of Dealer, sell or hedge (through swaps, options, short sales or otherwise) any long position in, any Shares. Counterparty has not solicited or arranged
+ for the solicitation of, and will not solicit or arrange for the solicitation of, orders to buy Shares in anticipation of or in connection with any sales of Shares that Dealer (or any affiliate of Dealer) may effect in establishing Dealer’s initial
+ Hedge Positions. Except as provided herein, Counterparty has not made or arranged for, and will not make or arrange for, any payment to any person in connection with any sales of Shares that Dealer (or any affiliate of Dealer) may effect in
+ establishing its initial Hedge Positions with respect to such Transaction. For the purposes of this paragraph, Shares shall be deemed to include securities convertible into or exchangeable or exercisable for Shares.
+
+ (g) Counterparty is not and, after giving
+ effect to such Transactions contemplated hereby will not be required to, register as an “investment company” as such term is defined in the Investment Company Act of 1940, as amended.
+
+ (h) Counterparty (A) is capable of evaluating
+ investment risks independently, both in general and with regard to all transactions and investment strategies involving a security or securities; (B) will exercise independent judgment in evaluating the recommendations of any broker-dealer or its
+ associated persons, unless it has otherwise notified the broker-dealer in writing; and (C) has total assets of at least USD 50,000,000 as of such Trade Date.
+
+ (i) Counterparty understands that no
+ obligations of Dealer to Counterparty hereunder will be entitled to the benefit of deposit insurance and that such obligations will not be guaranteed by any affiliate of Dealer or any governmental agency.
+
+ (j) The offer and sale of such Transaction to
+ it is intended to be exempt from registration under the Securities Act by virtue of Section 4(a)(2) thereof. Accordingly, Counterparty represents and warrants that (i) it has the financial ability to bear the economic risk of its investment in the
+ Transaction, (ii) it is an “accredited investor” as that term is defined in Regulation D under the Securities Act or a “qualified institutional buyer” as defined in Rule 144A under the Securities Act, (iii) it is not entering into such Transaction
+ with a view to the distribution or resale thereof in violation of applicable law, and (iv) the disposition of such Transaction is restricted under this Master Confirmation, the Agreement, the Securities Act and state securities laws.
+
+ (k) Counterparty shall, upon obtaining
+ knowledge of the occurrence of any event that would, with the giving of notice, the passage of time or the satisfaction of any condition, constitute an Event of Default with respect to Counterparty, a Potential Event of Default with respect to
+ Counterparty, or a Termination Event in respect of which it is an Affected Party, notify Dealer within one Scheduled Trading Day of its obtaining knowledge of such occurrence.
+
+ (l) Counterparty is an “eligible contract
+ participant” as defined in Section 1a(18) of the United States Commodity Exchange Act, as amended.
+
+ (m) None of the transactions contemplated
+ hereby (including, without limitation, (A) any purchases or sales of Shares in connection with Dealer’s (or any of its Affiliates’) reasonably expected hedging or hedge unwind activities with respect to such Transaction, (B) the settlement of such
+ Transaction and (C) the transfer of, and pledge of a security interest in, any collateral pursuant to the Pledge Agreement) will violate or conflict with, or result in a breach of, or constitute a default under (whether as a result of its
+ characterization as a derivative product or otherwise) (1) any corporate policy of Issuer or other rules or regulations of Issuer applicable to Counterparty, including, but not limited to, Issuer’s window period policy, (2) any agreement or
+ instrument to which Counterparty is a party or to which it is subject, or (3) any statute, rule or regulation applicable to, or any order of any court or governmental agency with jurisdiction over Counterparty’s assets or properties.
+
+ (n) During the term of such Transaction,
+ Counterparty agrees and acknowledges that any waiver, amendment, or other modification of the terms of any Warrant and/or any election under any Warrant may only be made in consultation with, and with the express
+ prior written consent, of Dealer. Furthermore, Counterparty will promptly, and no later than one Scheduled Trading Day after receipt thereof, deliver a copy of any notice delivered by the Issuer in respect of any Warrant to Dealer.
+
+ (o) During the term of such Transaction,
+ Counterparty will not exercise any of its rights or privileges under any Warrant except at the written instruction of Dealer, and Counterparty hereby agrees to exercise any of its rights and privileges under each Warrant if and as instructed to do so
+ by Dealer, subject to applicable securities laws.
+
+ 5. Additional Termination Events . The following events shall constitute Additional Termination Events with respect to which the Transactions hereunder shall be the sole Affected Transactions, Counterparty shall be the sole Affected Party and
+ Dealer shall be the party entitled to designate an Early Termination Date pursuant to Section 6 of the Agreement:
+
+ (a) Net Share Settlement is applicable and
+ eight consecutive Averaging Dates are Disrupted Days (as defined in the Equity Definitions); and
+
+ (b) the receipt by Counterparty of any notice
+ from the Issuer of a “Business Combination” (as defined in the Warrant(s)) where all outstanding Shares are exchanged solely for cash consideration pursuant to Section 13 of the Warrant(s).
+
+ 6. Agreements and Acknowledgments .
+
+ (a) The parties hereto intend for:
+
+ (i) Each Transaction
+ hereunder to be a “securities contract” and a “swap agreement” as defined in the Bankruptcy Code, and the parties hereto are entitled to the protections afforded by, among other sections, sections 362(b)(6), 362(b)(17), 362(o), 546, 555, 560 and 561
+ of the Bankruptcy Code.
+
+ (ii) A party’s right to
+ liquidate, terminate or accelerate any Transaction and to exercise any other remedies upon the occurrence of any Event of Default or Termination Event under the Agreement with respect to the other party to constitute a “contractual right” within the
+ meaning of the Bankruptcy Code.
+
+ (iii) All transfers of cash,
+ securities or other property under or in connection with any Transaction are “settlement payments” and “transfers” made “by or to (or for the benefit of)” a “master netting agreement participant”, a “financial institution”, a “financial participant”
+ or a “swap participant” (each as defined in the Bankruptcy Code) within the meaning of Sections 546(e), 546(f), 546(g) and 546(j) of the Bankruptcy Code.
+
+ (iv) Any cash, securities or
+ other property provided as performance assurance, credit support or collateral with respect to a Transaction to constitute “margin payments” and “transfers” made “by or to (or for the benefit of)” a “master netting agreement participant”, a
+ “financial institution”, a “financial participant” or a “swap participant” (each as defined in the Bankruptcy Code) within the meaning of Sections 546(e), 546(f), 546(g) and 546(j) of the Bankruptcy Code.
+
+ (v) All obligations under or
+ in connection with any Transaction represent obligations in respect of “termination values”, “payment amounts” or “other transfer obligations” within the meaning of Sections 362, 560 and 561 of the Bankruptcy Code.
+
+ (b) The parties intend that this Master
+ Confirmation constitute a “binding commitment” and a “contract” as described in the letter dated December 14, 1999 submitted by Robert W. Reeder and Alan L. Beller to Michael Hyatte of the staff (the “ Staff ”) of the Securities and Exchange
+ commission (the “ SEC ”) to which the Staff responded in an interpretative letter dated December 20, 1999 or a “contract” as described in the letter dated November 30, 2011 submitted by Robert T. Plesnarski and Glen A. Rae to Thomas Kim of the
+ Staff to which the Staff responded in an interpretive letter dated December 1, 2011.
+
+ (c) Dealer agrees with Counterparty that it or
+ an affiliate of Dealer that is registered as a broker and a dealer with the SEC and is a “market maker” or a “block positioner,” as such terms are used in Rule 144 under the Securities Act, with respect to the Shares shall, as promptly as practicable
+ consistent with market conditions, introduce into the public market a quantity of securities of the same class as the Shares equal to the Number of Shares minus the number of securities of such class sold in
+ connection with Dealer’s initial Hedge Position.
+
+ (d) Counterparty is aware and acknowledges that
+ Dealer, its affiliates or any entity with which Dealer hedges any Transaction hereunder may from time to time take positions in instruments that are identical or economically related to such Transaction or the Shares or have an investment banking or
+ other commercial relationship with the Issuer. In addition, Counterparty acknowledges that the proprietary trading and other activities and transactions of Dealer, its affiliates or any entity with which Dealer hedges any Transaction hereunder,
+ including purchases and sales of the Shares in connection with, or in anticipation of, such Transaction, may affect the trading price of the Shares.
+
+ 7. Netting and Setoff . If
+
+ on any date amounts of any prepayment amount, any settlement obligations or any payment or delivery obligations would otherwise be payable by each party to the other with respect to any Transaction hereunder or any amount (an “ Early Termination
+ Amount ”) payable to one party (the “ Payee ”) by the other party (the “ Payer ”) under Section 6(e) of the Agreement would be payable with respect to such Transaction or any other transactions between the parties, such amounts shall
+ be reduced, automatically satisfied, discharged and offset against any other amounts (“ Other Amounts ”) payable by the Payee to the Payer (whether or not arising under the Agreement, matured or contingent and irrespective of the currency, place
+ of payment or place of booking of the obligation). To the extent that any Other Amounts are so discharged or offset, those Other Amounts will be discharged promptly and in all respects. A party taking advantage of its rights under this Section 7
+ will give notice to the other party of any discharge or set-off effected under this Section 7. For this purpose, either the Early Termination Amount or the Other Amounts (or the relevant portion of such amounts) may be converted by such party into
+ the currency in which the other is denominated at the rate of exchange at which such party would be able, in good faith and using commercially reasonable procedures, to purchase the relevant amount of such currency. If an obligation is
+ unascertained, such party may in good faith estimate that obligation and set off in respect of the estimate, subject to the relevant party accounting to the other when the obligation is ascertained. Nothing in this Section 7 will be effective to
+ create a charge or other security interest. This Section 7 will be without prejudice and in addition to any right of set-off, offset, combination of accounts, lien, right of retention or withholding or similar right or requirement to which any party
+ is at any time otherwise entitled or subject (whether by operation of law, contract or otherwise).
+
+ 8. Other Provisions .
+
+ (a) Designation . Notwithstanding any
+ provision of the Agreement to the contrary, Dealer shall be entitled to designate any of its affiliates to purchase, sell, receive or deliver shares or other securities and otherwise to perform Dealer’s obligations in respect of any Transaction
+ hereunder, and any such designee may assume such obligations without the written consent of Counterparty; provided that Dealer shall be discharged of its obligations to Counterparty solely to the extent of
+ any such performance.
+
+ (b) Transfer . Notwithstanding anything
+ to the contrary herein or in the Agreement, no transfer may be made pursuant to Section 7 of the Agreement without the prior written consent of the other party (such consent not to be arbitrarily or unreasonably withheld or delayed; provided that the parties agree that the withholding of any consent with respect to any transfer will not be considered arbitrary or unreasonable if such transfer would require consent pursuant to sub-clause (i)
+ or (ii) below), unless (i) the transfer will not be treated as a taxable exchange for U.S. federal income tax purposes; (ii) on the next succeeding Scheduled Payment Date, the non-transferring party will neither: (x) be required to pay, nor is there
+ a substantial likelihood that it would be required to pay, an additional amount in respect of an Indemnifiable Tax under Section 2(d)(i)(4) of the Agreement (except in respect of interest under Section 9(h)) nor (y) receive a payment, nor is there a
+ substantial likelihood that it would receive a payment, from which an amount has been deducted or withheld for or on account of any Indemnifiable Tax in respect of which the other party is not required to pay an additional amount (other than by
+ reason of Section 2(d)(i)(4)(A) or (B) of the Agreement), in either case as a result of such transfer; and (iii) in respect of a transfer by Counterparty, (x) the transferee shall be a “Warrantholder” under each Warrant for the relevant Transaction
+ and (y) Dealer shall be reasonably satisfied that it is able to onboard and transact with the transferee in compliance with all relevant legal, regulatory or self-regulatory requirements or related policies and procedures (whether or not such
+ requirements, policies or procedures are imposed by law or have been voluntarily adopted by Dealer) and perform to Dealer’s satisfaction its standard “on boarding” process (including, without limitation, “know your customer” or anti money laundering
+ processes) with respect to the transferee.
+
+ (c) Governing Law . THIS MASTER
+ CONFIRMATION, ANY SUPPLEMENTAL CONFIRMATION WILL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK (WITHOUT REFERENCE TO ITS CHOICE OF LAWS DOCTRINE OTHER THAN TITLE 14 OF ARTICLE 5 OF THE NEW YORK GENERAL OBLIGATIONS
+ LAW). THE PARTIES HERETO IRREVOCABLY SUBMIT TO THE EXCLUSIVE JURISDICTION OF THE COURTS OF THE STATE OF NEW YORK AND THE UNITED STATES COURT FOR THE SOUTHERN DISTRICT OF NEW YORK IN CONNECTION WITH ALL MATTERS RELATING HERETO AND WAIVE ANY OBJECTION
+ TO THE LAYING OF VENUE IN, AND ANY CLAIM OF INCONVENIENT FORUM WITH RESPECT TO, THESE COURTS. THE PARTIES HERETO WAIVES PERSONAL SERVICE UPON THEM AND CONSENTS TO SERVICE OF PROCESS OUT OF SAID COURTS BY MAILING A COPY THEREOF TO IT BY REGISTERED OR
+ CERTIFIED MAIL.
+
+ (d) Waiver of Trial by Jury . EACH OF
+ COUNTERPARTY AND DEALER HEREBY IRREVOCABLY WAIVES (ON SUCH PARTY’S OWN BEHALF AND, TO THE EXTENT PERMITTED BY APPLICABLE LAW, ON BEHALF OF SUCH PARTY’S STOCKHOLDERS) ALL RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM (WHETHER BASED
+ ON CONTRACT, TORT OR OTHERWISE) ARISING OUT OF OR RELATING TO THIS MASTER CONFIRMATION, A SUPPLEMENTAL CONFIRMATION, OR THE ACTIONS OF DEALER OR ITS AFFILIATES IN THE NEGOTIATION, PERFORMANCE OR ENFORCEMENT HEREOF.
+
+ (e) Confidentiality . Dealer and
+ Counterparty agree that (i) Counterparty is not obligated to Dealer to keep confidential from any and all persons or otherwise limit the use of any element of Dealer’s descriptions relating to tax aspects of the Transactions hereunder and any part of
+ the structure necessary to understand those tax aspects, and (ii) Dealer does not assert any claim of proprietary ownership in respect of such descriptions contained herein of the use of any entities, plans or arrangements to give rise to significant
+ U.S. federal income tax benefits for Counterparty.
+
+ (f) 
+
+ Notices .
+
+ If to Dealer: [________]
+
+ If to Counterparty: [________]
+
+ (g) Accounts for Payment .
+
+ To Dealer: 
+
+ To be provided by Dealer.
+
+ To Counterparty: To be provided by
+ Counterparty.
+
+ (h) Accounts for delivery of Shares . 
+ Unless otherwise directed in writing, any Shares to be delivered hereunder shall be delivered as follows:
+
+ To Dealer: To be provided by Dealer.
+
+ (i) Tax Representations .
+
+ (i) Payer Representations. For the purpose of
+ Section 3(e) of the Agreement, Dealer will make the following representation and Counterparty will make the following representation:
+
+ [_____________]
+
+ (ii) Payee Representations. For the purpose of
+ Section 3(f) of the Agreement, Dealer and Counterparty make the representations specified below, if any:
+
+ [_____________]
+
+ (j) Tax Forms . For purposes of Sections
+ 4(a)(i) and 4(a)(ii) of the Agreement, each party agrees to deliver the following documents:
+
+ Party required to deliver document
+
+ Form/Document/Certificate
+
+ Date by which to be delivered
+
+ Dealer
+
+ An executed United States Internal Revenue Service Form W-8BEN, Form W-8BEN-E, Form W-8ECI, Form W-8EXP and/or Form W-8IMY, as applicable (or any successor thereto).
+
+ Promptly upon (i) execution of this Master Confirmation, (ii) reasonable demand by the other party and (iii) learning that any form previously provided by the other party
+ has become obsolete or incorrect.
+
+ Counterparty
+
+ A correct, complete and executed United States Internal Revenue Service Form W-9 (or any successor thereto).
+
+ Promptly upon (i) execution of this Master Confirmation, (ii) reasonable demand by the other party and (iii) learning that any form previously provided by the other party
+ has become obsolete or incorrect.
+
+ (k) 871(m) Protocol .
+ The parties agree that the definitions and provisions contained in the ISDA 2015 Section 871(m) Protocol, as published by the International Swaps and Derivatives Association, Inc., on November 2, 2015 shall apply to the Agreement as if the parties
+ had adhered to the 871(m) Protocol as of the effective date of the Agreement.
+
+ (l) Withholding Tax
+ imposed on payments to non-US counterparties under the United States Foreign Account Tax Compliance Act . “Tax” as used in Part 8(j)(i) of this Master Confirmation (Payer Tax Representation) and “Indemnifiable Tax” as defined in Section 14 of
+ the Agreement shall not include any U.S. federal withholding tax imposed or collected pursuant to Sections 1471 through 1474 of the Code, any current or future regulations or official interpretations thereof, any agreement entered into pursuant to
+ Section 1471(b) of the Code, or any fiscal or regulatory legislation, rules or practices adopted pursuant to any intergovernmental agreement entered into in connection with the implementation of such Sections of the Code (a “FATCA Withholding
+ Tax”). For the avoidance of doubt, a FATCA Withholding Tax is a Tax the deduction or withholding of which is required by applicable law for the purposes of Section 2(d) of the Agreement.
+
+ 9. [ Insert QFC Stay Provisions / Dealer Boilerplate] . 
+
+ Counterparty hereby agrees (a) to check this Master Confirmation carefully and immediately upon receipt so that errors or discrepancies can be promptly identified and rectified
+ and (b) to confirm that the foregoing correctly sets forth the terms of the agreement between us with respect to each particular Transaction to which this Master Confirmation relates by manually signing the Master Confirmation and providing any other
+ information requested herein and immediately sending a facsimile transmission of an executed copy to Dealer.
+
+ Yours sincerely,
+
+ [________________]
+
+ By: __________________________
+
+ Name 
+
+ Confirmed as of the date first above written:
+
+ POLLOS UPSIDE L.P.,
+
+ ______________________________________
+
+ By:
+
+ Title:
+
+ EXHIBIT A
+
+ FORM OF SUPPLEMENTAL CONFIRMATION
+
+ SUPPLEMENTAL CONFIRMATION
+
+ Date: _________________
+
+ To: Pollos Upside L.P. (“ Counterparty ”)
+
+ From: [________________] (“ Dealer ”)
+
+ Re: Warrant Forward Sale Transaction
+
+ Ladies and Gentlemen:
+
+ The purpose of this communication is to set forth the terms and conditions of the referenced Transaction entered into on the Trade Date specified below (the “ Transaction ”)
+
+ between Counterparty and Dealer.
+
+ 1. This Supplemental Confirmation supplements,
+ forms a part of, and is subject to the Master Confirmation, dated as of [______________], between Counterparty and Dealer (as amended or modified, the “ Master Confirmation ”). Capitalized terms but not otherwise defined herein shall have the
+ meanings ascribed to them in the Master Confirmation.
+
+ 2. The terms of the Transaction to which this
+ Supplemental Confirmation relates are as follows:
+
+ Trade Date:
+
+ [ ]
+
+ Warrant(s):
+
+ The Warrant No[s]. [__], [__], and [__], each originally issued on January 9, 2017 and reissued on [_____], executed by the Issuer and Counterparty, as amended from time
+ to time
+
+ Prepayment Amount:
+
+ Collateral Delivery Date:
+
+ USD[______________]
+
+ [ ]
+
+ Counterparty hereby agrees (a) to check this Supplemental Confirmation carefully and immediately upon receipt so that errors or discrepancies can be promptly identified and
+ rectified and (b) to confirm that the foregoing correctly sets forth the terms of the agreement between us with respect to each particular Transaction to which this Supplemental Confirmation relates by manually signing this Supplemental Confirmation
+ and providing any other information requested herein or in the Master Confirmation and immediately sending a facsimile transmission of an executed copy to Dealer.
+
+ Yours sincerely,
+
+ [________________]
+
+ By: __________________________
+
+ Name 
+
+ Confirmed as of the date first above written:
+
+ POLLOS UPSIDE L.P.
+
+ ______________________________________
+
+ By:
+
+ Title:

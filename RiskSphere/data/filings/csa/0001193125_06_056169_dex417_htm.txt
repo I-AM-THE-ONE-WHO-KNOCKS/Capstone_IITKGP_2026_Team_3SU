@@ -1,0 +1,391 @@
+EX-4.17
+ 10
+ dex417.htm
+ ISDA CREDIT SUPPORT ANNEX - LEHMAN BROTHERS
+
+ ISDA Credit Support Annex - Lehman Brothers 
+
+ Exhibit 4.17 
+
+ International Swaps and Derivatives Association, Inc. 
+ CREDIT SUPPORT ANNEX 
+ to the Schedule
+to the 
+ Master Agreement 
+ dated as of May 10, 2005 
+ between 
+
+ LEHMAN BROTHERS SPECIAL FINANCING INC. 
+
+ ACCREDITED HOME LENDERS, INC. 
+
+ (“Party A”) 
+
+ (“Party B”) 
+
+ This Annex supplements, forms part of, and is subject to, the above-referenced Agreement, is part of its Schedule
+and is a Credit Support Document under this Agreement with respect to each party. 
+ Accordingly, the parties agree as
+follows: 
+ Paragraph 1. Interpretation 
+ (a)
+ Definitions and Inconsistency . Capitalized terms not otherwise defined herein or elsewhere in this Agreement have the meanings specified pursuant to Paragraph 12, and all references in this Annex to Paragraphs are to Paragraphs of this
+Annex. In the event of any inconsistency between this Annex and the other provisions of this Schedule, this Annex will prevail and in the event of any inconsistency between Paragraph 13 and the other provisions of this Annex, Paragraph 13 will
+prevail. 
+ (b) Secured Party and Pledgor . All references in this Annex to the “Secured Party” will be to either party when acting in
+that capacity and all corresponding references to the “Pledgor” will be to the other party when acting in that capacity; provided, however , that if Other Posted Support is held by a party to this Annex, all references herein to that
+party as the Secured Party with respect to that Other Posted Support will be to that party as the beneficiary thereof and will not subject that support or that party as the beneficiary thereof to provisions of law generally relating to security
+interests and secured parties. 
+ Paragraph 2. Security Interest 
+ Each party, as the Pledgor, hereby pledges to the other party, as the Secured Party, as security for its Obligations, and grants to the Secured Party a first priority continuing security interest in, lien on and right of Set-off against all
+Posted Collateral Transferred to or received by the Secured Party hereunder. Upon the Transfer by the Secured Party to the Pledgor of Posted Collateral, the security interest and lien granted hereunder on that Posted Collateral will be released
+immediately and, to the extent possible, without further action by either party. 
+ Copyright © 1994 by International Swaps and Derivatives Association, Inc. 
+
+ CREDIT SUPPORT ANNEX 
+ Elections and Variables 
+ dated as of May 10, 2005 
+ between 
+ LEHMAN BROTHERS SPECIAL FINANCING
+INC. 
+ (hereinafter referred to as either “Party A” or “Secured Party”) 
+ and 
+ ACCREDITED HOME LENDERS, INC.
+
+ (hereinafter referred to as either “Party B” or “Pledgor”) 
+ Paragraph 13. Elections and Variables 
+
+ (a) 
+ Security Interest for “Obligations”. The term “Obligations” as used in this Annex includes the following additional obligations: None.
+
+ (b) 
+ Credit Support Obligations. 
+
+ (i) 
+ Delivery Amount, Return Amount and Credit Support Amount 
+
+ (1) 
+ “Delivery Amount ” has the meaning specified in Paragraph 3(a). 
+
+ (2) 
+ “Return Amount ” has the meaning specified in Paragraph 3(b). 
+
+ (3) 
+ “Credit Support Amount ” has the meaning specified in Paragraph 3; provided, however, that in the event that the sum of the Independent Amounts applicable to Pledgor
+exceed zero, the Credit Support Amount will not be less than the sum of all Independent Amounts applicable to the Pledgor. 
+
+ (ii) 
+ Eligible Collateral. The following items will qualify as “Eligible Collateral” for the party specified: 
+
+ Party B 
+
+ Valuation
+Percentage 
+
+ (1) 
+
+ Cash, in the form of USD. 
+
+ x 
+
+ 100 
+ % 
+
+ (2) 
+
+ negotiable debt obligations issued by the U.S. Treasury Department having a maturity at issuance of not more than one year. 
+
+ x 
+
+ 99 
+ % 
+
+ (3) 
+
+ negotiable debt obligations issued by the U.S. Treasury Department having a maturity at issuance of more than one year but not more than ten years. 
+
+ x 
+
+ 98 
+ % 
+
+ (4) 
+
+ negotiable debt obligations issued by the U.S. Treasury Department having a maturity at issuance of more than ten years. 
+
+ x 
+
+ 97 
+ % 
+
+ (5) 
+
+ negotiable debt obligations which are fully guaranteed as to both principal and interest by the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation that are
+ not pass-through, multi-class or multi- branch securities or paying interest only or principal only. 
+
+ x 
+
+ 95 
+ % 
+
+ (6) 
+
+ Other securities acceptable to the secured party: None, unless otherwise specified in the relevant Confirmation. 
+
+ x 
+
+ As determined
+by Valuation
+Agent 
+
+ 11 
+
+ (iii) 
+ Other Eligible Support . The following items will qualify as “Other Eligible Support ” for the party specified: Mortgage Loans that satisfy the Eligibility
+Criteria with a Valuation Percentage to be determined by the Valuation Agent in its sole discretion. Such Other Eligible Support is hereby subject to the security interest granted pursuant to Paragraph 2 hereof. 
+
+ (iv) 
+ Thresholds. 
+
+ (1) 
+ “Independent Amount” shall mean with respect to Party B, all Hedges and shall not be subject to Minimum Transfer Amount. 
+ “Hedge” shall mean the rights (but not the obligations) of Party B with respect to any transaction now existing or hereinafter entered
+into between Party B (or any Credit Support Provider of such party) and any counterparty which is an option of any type, swaption, rate swap transaction, basis swap, forward rate transaction, equity swap, foreign exchange transaction, cap
+transaction, floor transaction, collar transaction, currency swap transaction, repurchase agreement, reverse repurchase agreement, total return swap, credit default swap or any similar transaction or other financial instrument or interest (including
+any option with respect to any of these transactions), that relate to the Mortgage Loans, including without limitation those listed on a schedule delivered by Party B to Party A as amended from time to time. 
+ “Specialist Account” shall mean the account(s) held at R.J. O’Brien. 
+
+ (2) 
+ “Threshold” means, with respect to Party A, infinite; with respect to Party B shall be USD 50,000; provided that, if an Event of Default or Additional
+Termination Event has occurred and is continuing with respect to Party B, then the Threshold with respect to Party B shall be zero. 
+
+ (3) 
+ “Minimum Transfer Amount” means, with respect to a party, USD 250,000; provided that, notwithstanding anything to the contrary contained herein, the Minimum
+Transfer Amount shall not apply to the Independent Amount, and provided further that, if an Event of Default or Additional Termination Event has occurred and is continuing with respect to Party B, then the Minimum Transfer Amount with respect
+to Party B shall be zero. 
+
+ (4) 
+ Rounding. The Delivery Amount and the Return Amount shall be rounded up and down respectively to the nearest integral multiple of USD 1,000. 
+
+ (c) 
+ Valuation and Timing. 
+
+ (i) 
+ “Valuation Agent” means Party A. 
+
+ (ii) 
+ “Valuation Date” means any Local Business Day. 
+
+ (iii) 
+ “Valuation Time ” means the close of business in the location where the relevant product is traded, provided that the calculations of Value and Exposure will be made
+as of approximately the same time on the same date. 
+
+ (iv) 
+ “Notification Time” means by 1:00 p.m., New York time, on a Local Business Day. 
+
+ (d) 
+ Conditions Precedent and Secured Party’s Rights and Remedies. The following Termination Event(s) will be a “Specified Condition” for the party specified (that
+party being the Affected Party if the Termination Event occurs with respect to that party): 
+
+ Party B 
+
+ Illegality 
+
+ x 
+
+ Tax Event 
+
+ x 
+
+ Tax Event Upon Merger 
+
+ x 
+
+ Credit Event Upon Merger 
+
+ x 
+
+ Additional Termination Event(s): as set forth in Part 1 (h) 
+
+ x 
+
+ 12 
+
+ (e) 
+ Substitution. 
+
+ (i) 
+ “Substitution Date” has the meaning specified in Paragraph 4(d)(ii). 
+
+ (ii) 
+ Consent. The Pledgor need not obtain the Secured Party's consent for any substitution pursuant to 
+ Paragraph 4(d). 
+
+ (f) 
+ Dispute Resolution 
+
+ (i) 
+ “Resolution Time ” means 1:00 p.m., New York time, on the Local Business Day following the date on which notice is given that gives rise to a dispute.
+
+ (ii) 
+ Value. For the purpose of Paragraph 5(i)(c) and 5(ii), the Value of Posted Credit Support other than Cash will be calculated as follows: 
+ With respect to any Eligible Collateral in the form of securities listed in Paragraph 13(b)(ii) (referred to herein as “Collateral Obligations”)
+the sum of (1) (x) the bid price quoted on such date by a principal market maker for such Collateral Obligations selected by the Valuation Agent, or (y) if no such quotation is available from a principal market maker for such date,
+such bid price as of the day, next preceding such date, on which such quotation was available, in either case multiplied by the applicable Valuation Percentage, plus (2) the accrued interest on such Collateral Obligations (except to the extent
+Transferred to a party pursuant to any applicable section of this Agreement or included in the applicable price referred to in (1) of this clause) as of such date. 
+
+ (iii) 
+ Alternative. Paragraph 5 will apply with the following modification. Paragraph 5 is hereby amended by adding in the sixth line the words “the disputed amount and”
+before the words “the undisputed amount”. 
+
+ (g) 
+ Holding and Using Posted Collateral . 
+
+ (i) 
+ Eligibility to Hold Posted Collateral; Custodians. 
+ Party A and/or its Custodian or Collateral Agent will be entitled to hold Posted Collateral pursuant to Paragraph 6(b), provided that the following conditions applicable to it are satisfied: 
+
+ (1) 
+ Party A is not a Defaulting Party. 
+
+ (2) 
+ The Custodian or Collateral Agent, if any, is a wholly owned, direct or indirect, subsidiary of Lehman Brothers Holdings Inc. or a bank or trust company located in the United States
+or having a branch in the United States having total assets of at least USD 1 billion. 
+ Initially, the Custodian for
+Party A is: Not applicable. 
+ Initially, the Collateral Agent for Party A is Lehman Brothers Special Financing Inc. and, thereafter, its
+successors as appointed under the Collateral Agency and Intercreditor Agreement, dated as of the date hereof, as amended from time to time. 
+
+ (ii) 
+ Use of Posted Collateral. The provisions of Paragraph 6(c) will apply to Party A. 
+
+ (h) 
+ Distributions and Interest Amount. 
+
+ (i) 
+ Interest Rate. Subject to subparagraph (iii) below, the Interest Rate will be the Federal Funds Rate. “Federal Funds Rate” means the rate per annum equal to
+the overnight Federal Funds Rate for each day Cash is held by the Secured Party as reported in Federal Reserve Publication H.15-519. 
+
+ (ii) 
+ Transfer of Interest Amount. Except as set forth in subparagraph (iii) below, the Transfer of the Interest Amount will be made on the first Local Business Day of each
+calendar month and on any Local Business Day that Posted Collateral in the form of Cash is Transferred to the Pledgor pursuant to Paragraph 3(b). The Interest Amount will constitute Posted Collateral and will be subject to the security interest
+granted under Paragraph 2. 
+
+ (iii) 
+ Alternative to Interest Amount. Paragraph 6(d)(ii) will apply. 
+
+ 13 
+
+ (i) 
+ Additional Representation(s). Not applicable. 
+
+ (j) 
+ “Other Eligible Support and Other Posted Support.” 
+
+ (i) 
+ “Value” with respect to Other Eligible Support and Other Posted Support means: As determined by the Valuation Agent in its sole discretion.
+
+ (ii) 
+ “Transfer” with respect to Other Eligible Support and Other Posted Support means: As determined by the Valuation Agent in its sole discretion.
+
+ (k) 
+ Demands and Notices. All demands, specifications and notices made by a party to this Annex will be made pursuant to Section 12 (Notices) of this Agreement unless
+otherwise notified from time to time. 
+
+ (l) 
+ Addresses for Transfers. 
+ Party A: As agreed
+between the parties from time to time. 
+ Party B: As agreed between the parties from time to time. 
+
+ (m) 
+ Other Provisions. 
+
+ (i) 
+ No Disposition. Without the prior written consent of Secured Party, Pledgor agrees that it will not sell, assign, transfer, exchange or otherwise dispose of, or grant any
+option with respect to, Posted Collateral, nor will it create, incur or permit to exist any pledge, lien, mortgage, hypothecation, security interest, charge, option or any other encumbrance with respect to any of the Posted Collateral, or any
+interest therein, or any proceeds thereof, except for the lien and security interest provided for by this Annex. 
+
+ (ii) 
+ Agreement as to Single Secured Party and Pledgor. Party A and Party B agree that, notwithstanding anything to the contrary in the recital to this Annex, Paragraph 1(b) or
+Paragraph 2 or the definitions in Paragraph 12, (a) the term “Secured Party” as used in this Annex means only Party A, (b) the term “Pledgor” as used in this Annex means only Party B, (c) only Party B
+makes the pledge and grant in Paragraph 2, the acknowledgment in the final sentence of Paragraph 8(a) and the representations in Paragraph 9 and (d) only Party B will be required to make transfers of Eligible Credit Support hereunder.
+
+ (iii) 
+ This Credit Support Annex is a Security Agreement under the New York UCC. 
+
+ (iv) 
+ Specialist Account. Party B shall not grant any security interest in, grant “control” (as such term is defined in Article 8 of the applicable Uniform Commercial
+Code) of, or permit to exist any adverse claim on, the Specialist Account without the prior written consent of Party A. 
+
+ (v) 
+ Certain Amendment. Paragraph 2 shall be further amended by adding the words “and Other Posted Support” after each reference to the words “Posted
+Collateral” in the third and fourth lines. For purposes of Paragraph 2 hereof, Hedges shall be deemed to be included in the definition of Posted Collateral. 
+
+ (vi) 
+ Grace Period . Clause (i) of Paragraph 7 is hereby amended by deleting the words “two Local Business Days” and substituting therefore “one Local
+Business Day”. 
+
+ (vii) 
+ The definition of “Exposure” is this Annex hereby amended as follows: 
+ “ Exposure ” means, for any Valuation Date or other date of determination, the greater of (i) the excess of the Outstanding Purchase Price over the sum of (A) the Current Market Value and
+(B) the Market Value Reserve Available Amount and (ii) zero. 
+ “ Current Market Value ” means, for any date of
+determination, the current market value of Mortgage Loans owned by the Issuer as determined by Party A in its sole and absolute discretion multiplied by 98%. For the avoidance of doubt, (i) the market value of any Mortgage Loan that
+(A) has become 60 days delinquent shall be zero, (ii) to the extent that the aggregate Outstanding Purchase Prices of ICU-4 Loans (other than 90 Day ICU-4 Loans) exceeds the greater of (A) 5% 
+
+ 14 
+
+ of the aggregate Outstanding Purchase Prices of the Mortgage Loans owned by the Issuer at such time and (B) $25,000,000, the current market value of the
+ICU-4 Loans (other than the 90 Day ICU-4 Loans) in excess of such limit shall be zero, and (iii) the market value of any 90 Day ICU-4 Loan shall be zero. 
+ “90 Day ICU-4 Loan” means any ICU-4 Loan that has been owned by the Issuer for 90 days since it became an ICU-4 Loan. 
+ “ICU-4 Loan” means any Mortgage Loan owned by the Issuer that is not a Defaulted Loan or Delinquent Loan that has not been sold by the Issuer after four attempts by the Servicer to sell such Mortgage
+Loan or otherwise is included on Party B’s internal ICU-4 report in accordance with the Servicer’s customary servicing procedures. 
+
+ (viii) 
+ Party B shall, at any time and from time to time during regular business hours, as requested by Party A upon two Business Days’ notice, permit Party A, or its agents or
+representatives, (A) to examine and make copies of and take abstracts from all books, records and documents including computer tapes and disks relating to the Mortgage Loans owned by the Issuer, including the Loan Documents and (B) to
+visit the offices and properties of Party B for the purpose of examining such materials described in clause (A), and to discuss matters relating to the Mortgage Loans with any of the officers, directors, employees or independent public accountants
+of Party B having knowledge of such matters at the expense of Party B, provided that if no Early Accumulation Event, Extended Note Amortization Event or has occurred, the Servicer shall only be required to pay out-of-pocket expenses not in excess of
+$100,000 during any calendar year. 
+
+ (ix) 
+ Capitalized terms used herein and not otherwise defined shall have the meanings signed to such terms in the Security Agreement, dated as of the date hereof between Carmel Mountain
+Funding Trust , as Issuer, and Deutsche Bank Trust Company Americas, as Collateral Agent, as amended from time to time. 
+
+ 15 
+
+ The parties executing this Credit Support Annex have executed the Master Agreement and have agreed as to
+the contents of this Credit Support Annex. 
+
+ LEHMAN BROTHERS SPECIAL FINANCING INC. 
+ (Party A) 
+
+ ACCREDITED HOME LENDERS, INC. 
+ (Party B) 
+
+ By: 
+
+ /s/ Illegible 
+
+ By: 
+
+ /s/ Melissa G. Dant 
+
+ Name: 
+
+ Name: 
+
+ Melissa G. Dant 
+
+ Title: 
+
+ Title: 
+
+ Senior Secondary Market s Counsel, AVP & Ass’t Sec’y 
+
+ Date: 
+
+ Date: 
+
+ 7

@@ -336,6 +336,7 @@ def validate(cfg):
 
     seed = int(cfg.get("pfe_seed", 7))
     q = cfg.get("pfe_quantile", 0.95)
+    log.work("PFE", f"engine checks, {paths} paths")
     log.trace(f"pfe checks start paths={paths} steps={steps}")
     long = simulate(trade(1, steps), 0, 0, 0, 10, paths, seed, steps, q)
     short = simulate(trade(-1, steps), 0, 0, 0, 10, paths, seed, steps, q)
@@ -419,8 +420,10 @@ def validate(cfg):
     for line in lines:
         log.debug("pfe check " + line)
     if passed:
+        log.work("PFE", "engine checks passed")
         log.trace("pfe checks passed")
     else:
+        log.work("PFE", "engine checks failed")
         log.error("pfe checks failed")
     return passed, lines
 

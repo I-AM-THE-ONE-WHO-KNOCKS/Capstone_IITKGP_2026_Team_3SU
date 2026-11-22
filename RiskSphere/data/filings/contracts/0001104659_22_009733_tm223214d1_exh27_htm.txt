@@ -1,0 +1,642 @@
+EX-99.(H)(27)
+ 28
+ tm223214d1_exh27.htm
+ AMENDED AND RESTATED REIMBURSEMENT AND SECURITY AGREEMENT BETWEEN THE TRUST AND STATE STREET
+
+ Exhibit (h)(27) 
+
+ AMENDED AND RESTATED REIMBURSEMENT AND SECURITY
+AGREEMENT 
+
+ This Reimbursement and Security
+Agreement, dated December 1, 2021 (this “ Agreement ”), is made by and between State Street Bank and Trust Company
+(“ State Street ”), a Massachusetts trust company with a place of business at State Street Financial Center, One Lincoln
+Street, Boston, Massachusetts 02111, and each of the entities listed on Schedule A hereto and, in the case of a registered investment
+company, each of the portfolios listed on Schedule A and any portfolio of such registered investment company that is not listed on Schedule
+A but that may engage in the transactions described below after the date of this Agreement and that agrees to be bound by this Agreement
+by entering into a joinder agreement in substantially the form of Annex I attached hereto (collectively, the “Clients” and
+each, a “ Client ”). This Agreement replaces and supersedes in its entirety that certain Reimbursement and Security Agreement
+dated September 14, 2017 between the Clients and State Street.
+
+ Each
+Client is a custodial customer of State Street and has requested the assistance of State Street in connection with transactions
+in Qualifying Government Securities (as defined below) to be effected from time to time through the Fixed Income Clearing Corporation
+(“ FICC ”). Each Client understands that State Street is willing to provide such assistance, conditioned upon the undertakings
+of Client set forth below.
+
+ 1.               Reimbursement . 
+
+ (a)             As
+used in this Agreement, the term “ Qualifying Government Securities ” means securities that are the direct obligations
+of, or are fully guaranteed as to principal and interest by, the United States and securities of United States government sponsored enterprises,
+agencies, or entities, including those securities issued by the Federal National Mortgage Association and Federal Home Loan Mortgage
+Corporation, commonly known as “Fannie Mae” and “Freddie Mac.” 
+
+ (b)             In
+order to induce State Street to (i) sponsor the membership of Client as a sponsored member of FICC, (ii) act as processing agent
+on behalf of Client and as principal as a counterparty to Client in effecting reverse repurchase transactions (i.e. reverse repurchase
+transactions from State Street’s perspective, whereby State Street receives securities from, and delivers funds to, Client in accordance
+with the terms of the relevant agreements between Client and State Street) (“ Reverse Repurchase Transactions ”) and
+repurchase transactions (i.e. repurchase transactions from State Street’s perspective, whereby State Street receives funds from,
+and delivers securities to, Client in accordance with the terms of the relevant agreements between Client and State Street) (“ Repurchase
+Transactions ”) in Qualifying Government Securities utilizing the matching and clearing facilities of FICC (collectively, Reverse
+Repurchase Transactions and Repurchase Transactions, both prior to and following novation to FICC, the “ Transactions ”)
+and (iii) issue to FICC a guaranty (the “ Guaranty ”) of the full payment and performance by Client of its obligations
+under the Transactions, each Client hereby agrees: 
+
+ (A)            to
+reimburse State Street promptly upon demand for: (1) any and all payments and securities deliveries made by State Street to FICC
+pursuant to the Guaranty; (2) any and all payments and securities deliveries made by State Street to FICC pursuant to the Rules of
+FICC as a result of the failure by Client to deliver securities or pay funds when due to FICC (the “Charges”), but only to
+the extent such failure results directly from the acts or omissions of Client; and (3) any and all expenses incurred by State Street
+in now or hereafter honoring demands for payment or delivery of securities under the Guaranty or for payment of the Charges, and 
+
+ (B)             to
+pay to State Street any amounts owing by Client to State Street under this Agreement 
+
+ (all such amounts referred to in clauses (A) and
+(B) being herein referred to, collectively, as the “ Obligations ”).
+
+ (c)             State
+Street may, but is not required to, make a demand for reimbursement or payment under this Agreement by submitting a Transfer Message
+for a Transfer Against Payment over the Federal Reserve’s Fedwire Securities Service. If Client is the securities seller
+under any Transaction, a Transfer Message instructing the transfer to Client of securities sold under the Transaction against payment
+of a specified sum will constitute a demand for reimbursement or payment in the amount of the specified sum. If, for any reason,
+Client fails or is otherwise unable to satisfy the terms of the Transfer Against Payment before the close of operations of the federal
+book entry system on the same business day that the Transfer Message was sent, the failure will constitute a failure of Client to reimburse
+or pay State Street promptly upon demand, and State Street will be entitled to exercise any rights or remedies under this Agreement and
+applicable law. This subsection does not limit State Street’s right to make a demand for reimbursement or payment by any
+other method or otherwise limit Client’s obligation to satisfy a demand promptly. 
+
+ 2.               Grant
+of Security Interest . 
+
+ (a)             As
+used in this Agreement, the term “ Collateral ” means (i) for any Reverse Repurchase Transaction, the funds received
+or to be received by Client in connection with the Transaction and credited to any deposit account maintained by Client with State Street
+and any deposit account claims relating thereto, (ii) for any Repurchase Transaction, the securities received or to be received
+by Client in connection with the Transaction and credited to any securities account maintained by Client with State Street and any securities
+entitlements relating thereto, and (iii) for any Transaction, (A) any proceeds of any Collateral referred to in the foregoing
+clause (i) or (ii), including any and all new, substituted or additional securities issued by reason of any distribution, reclassification,
+readjustment, merger or other change declared by or made in the capital structure of any of the issuers of securities constituting Collateral
+or issued by reason of the exercise of subscriptions, warrants or other rights or options issued in connection with the ownership of
+securities constituting Collateral, and (B) any funds paid or securities delivered to State Street in settling any Transaction pursuant
+to Section 4(b). A “ securities account ” includes the designation by State Street on its books and records that
+securities in a customer omnibus account or any interests therein are for the benefit of Client. 
+
+ (b)             In
+order to secure the payment and performance of the Obligations, each Client hereby grants State Street a security interest in the Collateral. 
+
+ 2 
+
+ (c)             Except
+for (i) the withdrawal of funds received under Reverse Repurchase Transactions at a time when Client is not in default on any of
+the Obligations, or (ii) as permitted in Section 4(a), Client will not withdraw any Collateral held in any securities account
+or deposit account if Client has any unsatisfied obligations due to FICC or if Client has incurred any Obligations, whether or not due. 
+
+ (d)              The
+Obligations will not be secured by any financial assets of a Client to the extent that the financial assets are margin stock, as defined
+in Regulation U (12 CFR 221), and the “negative pledge” in Section 5(b) and the prohibition against withdrawal in
+Section 2(c) will not apply to such assets. This paragraph limits security for only the Obligations and is not intended to limit
+or affect any security interests, liens or encumbrances that State Street may have with respect to any assets of a Client securing any
+other obligations of Client to State Street. 
+
+ 3.               Subrogation
+and Netting Rights . 
+
+ (a)             Upon
+any payment or performance by State Street under the Guaranty, State Street shall succeed by subrogation to all of the rights of FICC
+as against a Client to the extent of the payment or performance. Such right of subrogation is in addition to and not in derogation of
+all other rights and remedies of State Street under or with respect to this Agreement. 
+
+ (b)             If
+at any time there are any Obligations due and owing by a Client to State Street, including after giving effect to State Street’s
+subrogation, and State Street owes any obligations to Client in respect of the Transactions, the amounts and values owed by Client and
+State Street will, through setoff, recoupment or the exercise of secured party remedies, be netted to determine a single amount or value
+owed by the one to the other. 
+
+ 4.               Processing
+Agent for Transactions, Etc . 
+
+ (a)              A
+Client will execute all Transactions with FICC in accordance with the rules of FICC through State Street as processing agent for
+Client. Client will not transfer any funds or securities to FICC except upon the basis of payment versus delivery of such securities or
+funds, as the case may be. 
+
+ (b)             In
+connection with settling any Transaction, State Street may at any time and from time to time, in its sole and absolute discretion, elect
+to deliver to FICC, on behalf of a Client, any securities owed by Client to FICC, whether or not Client has in securities accounts sufficient
+securities to settle the Transaction. 
+
+ (c)             In
+connection with entering into or settling on a Client’s behalf any Transaction, State Street may at any time and from time to time,
+in its sole and absolute discretion, elect to advance to Client: 
+
+ (i)              funds
+in an amount up to the purchase price of the securities purchased by Client from State Street in connection with a Transaction; 
+
+ 3 
+
+ (ii)             the
+amount of the funds to be received by Client from FICC in a Transaction before delivering to FICC the securities held on behalf of Client
+at State Street and required to be delivered to FICC by Client in the Transaction; or 
+
+ (iii)            by
+delivery to FICC for the benefit of Client the amount of the funds required to be delivered by Client to FICC in connection with the Transaction
+and receive from FICC any securities required to be delivered by FICC to Client in the Transaction, without having received from Client,
+or Client having available on deposit with State Street, the amount of the funds required to satisfy the obligation to FICC. 
+
+ Until a Client has reimbursed State Street for
+any advances under this Section, State Street may repledge any securities held on behalf of Client in connection with the Transaction
+to the Federal Reserve Bank of Boston for the account of State Street. If State Street does so, State Street will indemnify Client
+against any loss, cost or expense sustained or incurred by Client resulting solely and directly from the failure of State Street to timely
+deliver Client’s securities to FICC in the Transaction if Client is a cash provider or to timely deliver securities to Client following
+the settlement of a Transaction if Client is a securities collateral provider.
+
+ 5.               Representations,
+Warranties and Covenants of Client . Each Client also represents, warrants and acknowledges to and covenants with State Street as follows: 
+
+ (a)             Client
+is duly authorized to execute and deliver this Agreement, to enter into the Transactions and to perform its obligations hereunder and
+thereunder and has taken all necessary action to authorize such execution, delivery and performance, and the execution, delivery and
+performance of this Agreement and the Transactions will not violate any law, ordinance, charter, by-law or rule applicable to it
+or any agreement by which it is bound or by which any of its assets are affected. 
+
+ (b)             Client
+is the securities account entitlement holder or, as the case may be, deposit account customer of the Collateral free and clear of all
+security interests, liens and encumbrances. Client will defend the same against the claims and demands of all persons other than State
+Street. Client will not pledge, mortgage or create or suffer to exist a lien, security interest or other encumbrance in the Collateral
+in favor of any person other than State Street. 
+
+ (c)             For
+each securities account maintained for Client with State Street with respect to any Collateral, State Street is acting as Client’s
+securities intermediary and, accordingly, State Street has control of the securities entitlements in the securities account by reason
+of Sections 8-106(e) and 9-106 of the Uniform Commercial Code of the State of New York as in effect from time to time (the “ NYUCC ”).
+For each deposit account maintained with State Street with respect to any Collateral, State Street is acting as Client’s bank and,
+accordingly, State Street has control of the funds in the deposit account by reason of Section 9-104(a)(1) of the NYUCC. 
+
+ 6.               Default
+and Remedies . 
+
+ (a)             If
+a Client fails to pay or perform any of the Obligations, the failure will constitute an “Event of Default” under and as defined
+in the Master Repurchase Agreement between Client and State Street and a default under this Agreement. Following the default, State Street
+shall have in any jurisdiction where enforcement under the Master Repurchase Agreement or this Agreement is sought, in addition to all
+other rights and remedies, the rights and remedies under the Master Repurchase Agreement and of a secured creditor under the NYUCC including,
+without limitation, the right to sell or otherwise dispose of, realize upon, set off or apply the Collateral to satisfy Obligations. 
+
+ 4 
+
+ (b)             Without
+prejudice to Section 6(a), if a Client fails timely to deliver cash or securities to State Street or fails to pay to State Street
+the amount of any Obligations when due, State Street may cancel the novation of any Transaction and may submit to FICC on behalf of Client
+any instructions that State Street considers necessary or advisable to effect the cancellation. 
+
+ 7.               Expenses .
+A Client will pay all expenses (including reasonable fees and disbursements of counsel) paid or incurred by State Street in connection
+with the enforcement of the Obligations or in connection with any bankruptcy, reorganization, insolvency or similar proceeding involving
+Client. 
+
+ 8.               Interest .
+Any amounts owing to State Street under this Agreement will bear interest, payable on demand, at a rate per annum equal to the Prime Rate,
+as published in The Wall Street Journal , in effect from time to time. Interest will accrue on reimbursement obligations commencing
+on the date that State Street makes any payment under the Guaranty or otherwise on behalf of a Client with respect to the Transactions
+until such amount is paid in full in cash. Interest on the same terms will likewise be payable on the value of any securities delivered
+by State Street under the Guaranty or otherwise on behalf of Client with respect to the Transactions until the securities are delivered
+by Client to State Street or their value is paid in full in cash to State Street. 
+
+ 9.               Waivers,
+Etc. State Street may exercise its rights with respect to the Collateral without resorting or regard to other collateral or sources
+of repayment or reimbursement. State Street shall not be deemed to have waived any of its rights upon or under the Obligations or to the
+Collateral unless such waiver shall be in writing and signed by State Street. No delay or omission on the part of State Street in exercising
+any right shall operate as a waiver of such right or any other right. A waiver on any one occasion shall not be construed as a bar to
+or waiver of any right on any future occasion. All rights and remedies of State Street with respect to the Obligations or the Collateral,
+whether evidenced hereby or by any instrument or papers, shall be cumulative and may be exercised separately or concurrently. 
+
+ 10.             Governing
+Law . This Agreement and all rights and obligations hereunder shall be construed in accordance with, and governed by, the laws of the
+State of New York excluding any conflict of laws rules that would require the application of the laws of any other jurisdiction. 
+
+ 11.             WAIVER
+OF JURY TRIAL . EACH CLIENT HEREBY KNOWINGLY, VOLUNTARILY AND INTENTIONALLY WAIVES THE RIGHT TO A TRIAL BY JURY IN RESPECT OF ANY
+CLAIM OR COUNTERCLAIM BASED HEREON, ARISING OUT OF, UNDER OR IN CONNECTION WITH THIS AGREEMENT OR ENFORCEMENT OF THIS AGREEMENT, AND
+AGREES THAT IT WILL NOT SEEK TO CONSOLIDATE ANY SUCH ACTION WITH ANY OTHER ACTION IN WHICH A JURY TRIAL CANNOT BE OR HAS NOT BEEN WAIVED. 
+
+ 5 
+
+ 12.             Non-Recourse
+to Trustees, etc. of a Massachusetts Business Trust . Any other provision of this Agreement to the contrary notwithstanding, any
+liability of a Client that is organized as a Massachusetts business trust under this Agreement shall be discharged only out of the assets
+of Client, and no shareholder, officer, director or trustee of Client shall be liable with respect thereto. 
+
+ 13.             Agreement
+with each Client . This Agreement is an agreement entered into by and between State Street and each Client that is a party hereto
+and is expressly not an agreement among all such Clients that have entered into this Agreement. The rights and obligations set forth
+in this Agreement shall accrue to, and burden, each Client severally and not jointly to all Clients. 
+
+ 14.             Master
+Netting Agreement, Etc . The Agreement constitutes (a) a “master netting agreement” as defined in 11 U.S.C. §
+101(38A), a “master agreement” as referred to 12 U.S.C. § 1821(e)(8)(D) and 12 U.S.C. § 5390(c)(8)(D), and
+a “netting contract” as defined in 12 U.S.C. § 4402(14) and (b) a “security agreement or arrangement or other
+credit enhancement” under such sections. 
+
+ 15.             Opt-In
+to U.S. Special Resolution Regimes. 
+
+ ( a) 
+As used in this Section:
+
+ “Affiliate” 
+has the meaning given in section 2(k) of the Bank Holding Company Act (12 U.S.C. 1841(k)) and section 225.2(a) of the Board's
+Regulation Y (12 CFR 225.2(a)).
+
+ “ Default
+Right ” means any:
+
+ (i) Right of
+a party, whether contractual or otherwise (including, without limitation, rights incorporated by reference to any other contract, agreement,
+or document, and rights afforded by statute, civil code, regulation, and common law), to liquidate, terminate, cancel, rescind, or accelerate
+such agreement or transactions thereunder, set off or net amounts owing in respect thereto (except rights related to same-day payment
+netting), exercise remedies in respect of collateral or other credit support or property related thereto (including the purchase and sale
+of property), demand payment or delivery thereunder or in respect thereof (other than a right or operation of a contractual provision
+arising solely from a change in the value of collateral or margin or a change in the amount of an economic exposure), suspend, delay,
+or defer payment or performance thereunder, or modify the obligations of a party thereunder, or any similar rights; and
+
+ 6 
+
+ (ii) Right or
+contractual provision that alters the amount of collateral or margin that must be provided with respect to an exposure thereunder, including
+by altering any initial amount, threshold amount, variation margin, minimum transfer amount, the margin value of collateral, or any similar
+amount, that entitles a party to demand the return of any collateral or margin transferred by it to the other party or a custodian or
+that modifies a transferee's right to reuse collateral or margin (if such right previously existed), or any similar rights, in each case,
+other than a right or operation of a contractual provision arising solely from a change in the value of collateral or margin or a change
+in the amount of an economic exposure.
+
+ “U.S.
+Special Resolution Regime” means the Federal Deposit Insurance Act (12 U.S.C. 1811–1835a) and regulations promulgated
+thereunder and Title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5381–5394) and regulations promulgated
+thereunder.
+
+ (b) In the event State Street becomes
+subject to a proceeding under a U.S. Special Resolution Regime, the transfer of this Agreement (and any interest and obligation in or
+under, and any property securing, this Agreement) from State Street will be effective to the same extent as the transfer would be effective
+under the U.S. Special Resolution Regime; and
+
+ (c) In the event State Street or
+an Affiliate of State Street becomes subject to a proceeding under a U.S. Special Resolution Regime, Default Rights with respect to this
+Agreement that may be exercised against State Street are permitted to be exercised to no greater extent than the Default Rights could
+be exercised under the U.S. Special Resolution Regime.
+
+ 7 
+
+ IN
+WITNESS WHEREOF , Client and State Street have executed this Reimbursement and Security Agreement as of the date first set forth
+above.
+
+ MassMutual Select Funds, 
+
+ MassMutual Premier Funds, 
+
+ MassMutual Advantage Funds, 
+
+ MML Series Investment Fund, 
+
+ MML Series Investment Fund II, 
+
+ each on behalf of its series/portfolios listed on Schedule A hereto 
+
+ By: 
+ /s/ Renee Hitchcock 
+
+ Name: 
+ Renee Hitchcock 
+
+ Title: 
+ CFO and Treasurer 
+
+ of each Entity listed on 
+
+ Schedule A hereto 
+
+ STATE STREET BANK AND TRUST COMPANY 
+
+ By: 
+ /s/ Kevin Murphy 
+
+ Name: Kevin Murphy 
+
+ Title: Managing Director 
+
+ 8 
+
+ SCHEDULE A 
+
+         Type of 
+ State
+of 
+
+ Name of Company 
+   Organization 
+ Organization 
+
+ MassMutual Select Funds 
+ Business Trust 
+ Massachusetts 
+
+ MassMutual Premier Funds 
+ Business Trust 
+ Massachusetts 
+
+ MassMutual Advantage Funds 
+ Business Trust 
+ Massachusetts 
+
+ MML Series Investment Fund 
+ Business Trust 
+ Massachusetts 
+
+ MML Series Investment Fund II 
+ Business 
+ Trust Massachusetts 
+
+ For Registered Investment Companies:
+
+ Names of Series/Portfolios of Each Registered Investment Company 
+
+ MassMutual Select Funds 
+
+ MassMutual Blue Chip Growth Fund 
+
+ MassMutual Diversified Value Fund                                                             
+
+ MassMutual Equity Opportunities Fund 
+
+ MassMutual Fundamental Growth Fund                                                                             
+
+ MassMutual Fundamental Value Fund                                                          
+
+ MassMutual Growth Opportunities Fund 
+
+ MassMutual Mid Cap Growth Fund 
+
+ MassMutual Mid Cap Value Fund                                                                 
+
+ MassMutual Overseas Fund                                                                           
+
+ MassMutual Small Cap Growth Equity Fund                                                
+
+ MassMutual Small Cap Value Equity Fund                                                                          
+
+ MassMutual Small Company Value Fund                                                                                 
+
+ MassMutual Strategic Bond Fund                                                                  
+
+ MassMutual Total Return Bond Fund 
+
+ MassMutual Select BlackRock Global Allocation Fund 
+
+ MM MSCI EAFE ® International Index Fund 
+
+ MM Russell 2000 ® Small Cap Index Fund 
+
+ MM S&P 500 ® Index Fund                                                                
+
+ MM S&P ® Mid Cap Index Fund 
+
+ MassMutual 20/80 Allocation Fund 
+
+ MassMutual 40/60 Allocation Fund 
+
+ MassMutual 60/40 Allocation Fund 
+
+ MassMutual 80/20 Allocation Fund 
+
+ MassMutual RetireSMART SM by JPMorgan 2020 Fund 
+
+ MassMutual RetireSMART SM by JPMorgan 2025 Fund 
+
+ MassMutual RetireSMART SM by JPMorgan 2030 Fund 
+
+ MassMutual RetireSMART SM by JPMorgan 2035 Fund 
+
+ MassMutual RetireSMART SM by JPMorgan 2040 Fund 
+
+ MassMutual RetireSMART SM by JPMorgan 2045 Fund 
+
+ 9 
+
+ MassMutual RetireSMART SM by JPMorgan 2050 Fund 
+
+ MassMutual RetireSMART SM by JPMorgan 2055 Fund 
+
+ MassMutual RetireSMART SM by JPMorgan 2060 Fund 
+
+ MassMutual RetireSMART SM by JPMorgan In Retirement Fund 
+
+ MM Equity Asset Fund 
+
+ MassMutual Select T. Rowe Price Retirement 2005 Fund 
+
+ MassMutual Select T. Rowe Price Retirement 2010 Fund 
+
+ MassMutual Select T. Rowe Price Retirement 2015 Fund 
+
+ MassMutual Select T. Rowe Price Retirement 2020 Fund 
+
+ MassMutual Select T. Rowe Price Retirement 2025 Fund 
+
+ MassMutual Select T. Rowe Price Retirement 2030 Fund 
+
+ MassMutual Select T. Rowe Price Retirement 2035 Fund 
+
+ MassMutual Select T. Rowe Price Retirement 2040 Fund 
+
+ MassMutual Select T. Rowe Price Retirement 2045 Fund 
+
+ MassMutual Select T. Rowe Price Retirement 2050 Fund 
+
+ MassMutual Select T. Rowe Price Retirement 2055 Fund 
+
+ MassMutual Select T. Rowe Price Retirement 2060 Fund 
+
+ MassMutual Select T. Rowe Price Retirement Balanced Fund 
+
+ MassMutual Select T. Rowe Price Bond Asset Fund 
+
+ MassMutual Select T. Rowe Price Emerging Markets Bond Fund 
+
+ MassMutual Select T. Rowe Price International Equity Fund 
+
+ MassMutual Select T. Rowe Price Large Cap Blend Fund 
+
+ MassMutual Select T. Rowe Price Limited Duration Inflation Focused Bond Fund 
+
+ MassMutual Select T. Rowe Price Real Assets Fund 
+
+ MassMutual Select T. Rowe Price Small and Mid Cap Blend Fund 
+
+ MassMutual Select T. Rowe Price U.S. Treasury Long-Term Index Fund 
+
+ MassMutual Premier Funds 
+
+ MassMutual Balanced Fund                                                                         
+
+ MassMutual Core Bond Fund                                                                       
+
+ MassMutual Disciplined Growth Fund                                                         
+
+ MassMutual Disciplined Value Fund                                                            
+
+ MassMutual Diversified Bond Fund                                                                 
+
+ MassMutual Global Fund                                                                             
+
+ MassMutual High Yield Fund                                                                      
+
+ MassMutual Inflation-Protected and Income Fund                                      
+
+ MassMutual International Equity Fund                                                                         
+
+ MassMutual Main Street Fund                                                                                         
+
+ MassMutual Short-Duration Bond Fund                                                                              
+
+ MassMutual Small Cap Opportunities Fund                                          
+
+ MassMutual Strategic Emerging Markets Fund                                        
+
+ MassMutual U.S. Government Money Market Fund                                                                                                     
+
+ MassMutual Advantage Funds 
+
+ MassMutual Emerging Markets Debt Blended Total Return Fund 
+
+ MassMutual Global Credit Income Opportunities Fund 
+
+ MassMutual Global Emerging Markets Equity Fund 
+
+ MassMutual Global Floating Rate Fund 
+
+ 10 
+
+ MML Series Investment Fund 
+
+ MML Aggressive Allocation Fund                                                                            
+
+ MML American Funds Core Allocation Fund                                                        
+
+ MML American Funds Growth Fund                                                                      
+
+ MML American Funds International Fund                                                              
+
+ MML Balanced Allocation Fund                                                                                
+
+ MML Blue Chip Growth Fund                                                                                    
+
+ MML Conservative Allocation Fund                                                                          
+
+ MML Equity Income Fund                                                                                          
+
+ MML Equity Index Fund    
+
+ MML Focused Equity Fund 
+
+ MML Foreign Fund                                                                                                     
+
+ MML Fundamental Equity Fund 
+
+ MML Fundamental Value Fund 
+
+ MML Global Fund                                                                                                     
+
+ MML Growth Allocation Fund 
+
+ MML Growth & Income Fund                                                                                     
+
+ MML Income & Growth Fund                                                                                         
+
+ MML International Equity Fund 
+
+ MML Large Cap Growth Fund                                                                                    
+
+ MML Managed Volatility Fund                                                                                       
+
+ MML Mid Cap Growth Fund                                                                                       
+
+ MML Mid Cap Value Fund                                                                                          
+
+ MML Moderate Allocation Fund                                                                                 
+
+ MML Small Cap Growth Equity Fund                                                                         
+
+ MML Small Company Value Fund 
+
+ MML Small/Mid Cap Value Fund                                                                               
+
+ MML Total Return Bond Fund 
+
+ MML Series Investment Fund II 
+
+ MML Blend Fund                                                                                                     
+
+ MML Dynamic Bond Fund 
+
+ MML Equity Fund                                                                                                        
+
+ MML Equity Momentum Fund 
+
+ MML Equity Rotation Fund 
+
+ MML High Yield Fund                                                                                                 
+
+ MML Inflation-Protected and Income Fund   
+
+ MML iShares ® 60/40 Allocation Fund 
+
+ MML iShares ® 80/20 Allocation Fund 
+
+ MML Managed Bond Fund                                                                                          
+
+ MML Short-Duration Bond Fund                                                                                 
+
+ MML Small Cap Equity Fund                                                                               
+
+ MML Special Situations Fund 
+
+ MML Strategic Emerging Markets Fund                                                               
+
+ MML U.S. Government Money Market Fund                                                                                           
+
+ 11 
+
+ ANNEX I 
+
+ INVESTMENT COMPANY PORTFOLIO JOINDER AGREEMENT 
+
+ The undersigned hereby agrees to become a party to, and to be bound
+by all of the provisions of, the Reimbursement and Security Agreement, dated _______________, _______, by and between State Street Bank
+and Trust Company, a Massachusetts trust company with a place of business at State Street Financial Center, One Lincoln Street, Boston,
+Massachusetts 02111, and the registered investment company of which the undersigned is a portfolio.
+
+ [NAME OF PORTFOLIO] 
+
+ By: 
+
+ Name: 
+
+ Title: 
+ [President/Vice President/Treasurer] 
+
+ of Investment Company 
+
+ Accepted as of ______________, ________: 
+
+ STATE STREET BANK AND TRUST COMPANY 
+
+ By: 
+
+ Name: 
+
+ Title: 
+
+ 12

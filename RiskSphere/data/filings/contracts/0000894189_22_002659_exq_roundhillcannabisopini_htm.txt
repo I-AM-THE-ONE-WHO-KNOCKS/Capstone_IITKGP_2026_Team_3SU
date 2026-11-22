@@ -1,0 +1,612 @@
+EX-99.(Q)
+ 5
+ exq-roundhillcannabisopini.htm
+ OPINIONS OF DERIVATIVES AND CANNABIS COMPANIES
+
+ Document 
+
+ Seyfarth Shaw LLP 
+ 975 F Street, N.W. 
+ Washington, DC 20004 
+ (202) 463-2400 
+ fax (202) 828-5393 
+ www.seyfarth.com 
+
+ April 13, 2022 
+
+ Roundhill Financial Inc. 
+ 54 W. 14th Street, Floor 2 
+ New York, NY 10011 
+ Attn.: Mr Sean Poyntz 
+
+ Re: Opinions with Respect to the Execution of Derivatives 
+ and Purchase of Cannabis Company Securities 
+ Ladies and Gentlemen: 
+ Roundhill Financial Inc. (the “Advisor”), together with Exchange Traded Concepts, LLC (“Sub-Advisor”), advises Roundhill Cannabis ETF (the “Fund”), a series of Listed Funds Trust (the “Trust”), an exchange-traded fund regulated under the Investment Company Act of 1940 (the “1940 Act”). The Fund is subject to the oversight of the Board of Trustees of the Trust (the “Board”). The Advisor retained Seyfarth Shaw LLP for purposes of rendering this opinion for the benefit of the Fund and for its beneficial owners or beneficiaries. 
+ The Advisor has asked us whether: (a) the Fund’s investment in securities issued by Cannabis Companies, 1 and (b) the Fund’s execution of one or more TRS’s (as defined below) by the Fund would violate the laws of the United States and state laws, and, whether the Fund and its beneficial owners would incur liability arising out of any such violation. 2 
+ Based upon our analysis and for purposes of this letter, the only applicable federal laws are (i) the Controlled Substances Act, 21 U.S.C. § 801, et seq. (the “CSA”), (ii) the Money Laundering Control Act, 18 U.S.C. § 1956, et seq., as amended (the “MCA”), and (iii) the Securities Exchange Act of 1934, 15 U.S.C. § 78a et seq., as 
+
+ 1 For purposes of this letter and the opinions rendered by it, a “Cannabis Company” is a company engaged in the legal cultivation, production, marketing and/or distribution of cannabis, including industrial hemp, and products for medical or non-medical purposes. 
+ 2 For purposes of this letter and the opinions rendered in it, we make certain assumptions including, for example, our assumption that each TRS (a term which we define on the following page) references equity issued by a single Cannabis Company which is engaged in the legal cultivation of cannabis, as we describe in more detail in the pages that follow. We further describe Cannabis Companies in the Factual Background of this letter. 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 2 
+
+ amended (“1934 Act,” including as amended by the Dodd-Frank Wall Street Reform and Consumer Protection Act, “Dodd-Frank” 3 and for purposes of this letter and collectively with the regulations promulgated thereunder, the foregoing applicable laws in (i), (ii) and (iii) are collectively referred to herein as the “Applicable Federal Law”). 
+ As described more fully below, our opinion is that the Fund and its beneficial owners will not violate the CSA and MCA due to the Fund’s purchase of securities of Cannabis Companies, which participate in the cannabis industry in full compliance with U.S. federal and state law. We are also of the opinion that, assuming full compliance with state law by each TRS Company referenced in a total return swap (“ TRS ”) (for the reasons stated in this letter, we do not focus on state law and as we state in footnote 32, we are aware of no federal investigation of any such Cannabis Company or any TRS Company): (i) the TRS Documentation (as defined below) should create legal, valid and binding obligations under New York law with respect to the Fund and each of its counterparties to the TRS’s; (ii) the TRS should not be rendered unenforceable due to a violation of the CSA; (iii) the Fund should not have ownership, pursuant to Rule 13d-3 promulgated under the 1934 Act, with respect to a TRS Company upon the execution and settlement of the TRS; (iv) as the only structure of the TRS analyzed in this letter has, as its Reference Asset, a single security, the TRS, which is, for purposes of this letter not a TRS referencing an index, is likely a security-based swap regulated by the Securities and Exchange Commission (“SEC”) under its rules and the 1934 Act (as amended by Dodd-Frank), and as we state in this letter, we are of the opinion that such Reference Asset ( i.e ., a Cannabis Company), by itself, would not likely render the TRS unenforceable under the 1934 Act (as amended by Dodd-Frank) and the SEC rules promulgated thereunder; and (v) the Fund and its beneficial owners should incur no regulatory exposure or regulatory liability solely because a court of competent jurisdiction in the future holds that a TRS violates Applicable Federal Law, and, in the event that the federal government declares at some future time that the TRS violates the CSA, the Fund (and/or any of its TRS counterparties) can terminate the TRS on a no-fault basis, and use mid-market values calculated pursuant to Section 6(e) of the ISDA Master Agreement (as defined herein). These opinions are being provided for inclusion with the Fund’s Registration Statement filed on Form N-1A (the “Registration Statement”). Our opinions are subject to the assumptions, qualifications and limitations set forth herein as of the date of this opinion letter. 
+ Our opinions are expressed herein solely with respect to Applicable Federal Law and are based on these laws as in effect on the date hereof and not the law of any other 
+
+ 3 When we refer in this letter to “Dodd-Frank,” we are referring to the Dodd-Frank Wall Street Reform and Consumer Protection Act generally and in particular, The Wall Street Transparency and Accountability Act, which is Title VII of Dodd-Frank, and which generally became effective, subject to rulemaking, on July 16, 2010, Public Law 111-203, 124 Stat. 1376. Title VII of Dodd-Frank amended the 1934 Act and the Commodity Exchange Act, ch. 545, 49 Stat. 1491, enacted on June 15, 1936, as amended (“CEA”), by defining “swap,” 7 U.S.C. 1a(47)(E)(i), and “Security-Based Swap,” as such term is defined in Section 3(a)(68) of the 1934 Act. 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 3 
+
+ jurisdiction. Our opinions expressed below are based upon Applicable Federal Law and rely upon the law, as amended and now in effect, and in all respects are subject to and may be limited by future legislation, regulations, guidance, formal and informal interpretations and/or case law. The opinions expressed herein represent our reasonable professional judgment as to the matters of law addressed herein, based upon the facts presented or assumed, and are not a guarantee that a court or regulator will reach any particular result. 
+ In connection with this opinion letter, we have examined and relied upon the originals, or copies certified or otherwise identified to our satisfaction, of such records, documents, certificates, agreements, and other instruments as in our judgment are necessary or appropriate to enable us to render the opinion expressed below. As to certain factual matters, we have relied upon certificates of officers of the Advisor and have not sought to independently verify such matters. For the purposes of this opinion letter, the Advisor supplied us with a list of companies in which the Fund may invest as of the date of this letter, and we have not confirmed full compliance with applicable state law by such companies but assume such compliance for purposes of reaching conclusions and rendering the opinions in this letter. Our opinions also assume that the Fund will invest in securities and that the Fund will execute the TRS in full compliance with its publicly disclosed investment guidelines, with respect to which we do not opine, and we do not evaluate or opine with respect to the Fund’s compliance with law or regulation other than as expressly stated in this letter. 
+ We have examined certain publicly available information regarding the companies in which the Advisor informs us that the Fund intends to invest, or, with respect to the Fund, will reference in one or more TRS’s, as of the date of this opinion letter. We have examined what has been made available to us with respect to the various business relationships/interests of the target investments to determine if their businesses violate Applicable Federal Law by assessing if they are engaged in the growth, cultivation and/or sale of cannabis in the United States. In this regard, we have solely reviewed publicly available filings available through the SEC. The following opinions solely rely upon the review of the information available in the public resources noted above in this paragraph. We have not reviewed the target investments with respect to their compliance with the laws of any country or other jurisdiction except as noted above in this paragraph. 
+ This opinion letter is limited to the matters stated herein, and no opinion is implied or may be inferred beyond the matters expressly stated. This opinion letter is given as of the date hereof, and we expressly disclaim any obligation to update or supplement our opinions contained herein to reflect any facts or circumstances that may hereafter come to our attention or any changes in laws or regulations or reported decisions that may hereafter occur or be published. Unless otherwise stated, when we use the term “invest” (or derivations thereof, e.g. , “investment”) in this letter, we mean 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 4 
+
+ the execution of a “security-based swap,” as such term is defined in Section 3(a)(68) of the 1934 Act. 
+ We express no opinion as to the law of any other jurisdiction that may be applicable to the subject matter hereof. We are not rendering any opinion as to compliance with any federal, state, or local law, rule or regulation relating to securities, or to the sale or issuance thereof except with respect to the TRS if characterized as a security-based swap as we state herein. 
+ FACTUAL BACKGROUND FOR OPINION 
+ Description of the Principal Investment Strategy of the Fund 
+ The principal investment strategy of the Fund, as presently stated in its Registration Statement or as otherwise represented to us by the Advisor, is as follows: 
+ Overview 
+ • The Fund is an actively managed investment vehicle which will seek to achieve its investment objective by investing primarily in exchange-listed equity securities and TRS’s intended to provide exposure to the cannabis and hemp ecosystem, as follows: 
+ • Equity Securities . At least eighty percent (80%) of the net assets of the Fund, plus permitted borrowing for investment purposes, will be invested in equity securities, including common stock and depositary receipts, of companies and real estate investment trusts (“REITs”) that derive at least fifty percent (50%) of their net revenue from, or invest a majority of their assets in, the cannabis and hemp ecosystem and in derivatives that have economic characteristics similar to such securities (as discussed in more detail under “Total Return Swaps” below). We understand that the terms “marijuana” and “cannabis” are used interchangeably throughout the Registration Statement and refer to products derived from the cannabis plant, including cannabinoids, which are the chemical compounds secreted by cannabis plant. Companies in the cannabis and hemp ecosystem are those involved in the production, distribution and marketing of cannabis and hemp and products derived therefrom and will be engaged in operating a Cannabis Business in the Cannabis Industry (terms which we also define below), provided that the Fund will not invest directly in any Cannabis Company that grows, produces, distributes or sells cannabis or products derived from cannabis in a country, state, province, locality or other political subdivision where this activity is illegal under applicable law. 
+ ◦ “Cannabis Business” is defined to include: (i) cultivating, producing, marketing or distributing cannabis, including industrial hemp 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 5 
+
+ (“Cannabis”); (ii) producing, marketing or distributing products containing Cannabis-derived products, (iii) producing, processing, marketing, transporting or distributing prescription drugs, supplements, or food products that include Cannabis-derived products; or (iv) providing products or services designed for, or used by, companies in the Cannabis industry, including technology, real estate or financial services. 
+ ◦ “Cannabis Industry” means 
+ • The industry which exists in the United States and in Canada in which a variety of sectors operate in agriculture, biotechnology, pharmaceuticals, real estate, retail, and finance realms and engage in one or more of the following legitimate business operations: 
+ • Production and/or distribution of cannabis-related and/or hemp-related products, including those for medical (including research and development) and therapeutic uses; 
+ • Business to business providers for the cannabis and hemp ecosystem, including technology, agricultural technology, real estate, financing, and commercial services companies; and/or 
+ • Business to consumer providers for the cannabis industry, including technology and media, consumption devices/mechanisms, and retailing companies. 
+ ◦ The equity securities to be purchased by the Fund will be the equity of Cannabis Companies ( e.g ., common stock and/or depositary receipts). 
+ • Total Return Swaps . The Fund will also execute and settle OTC financial derivatives, in particular total return swaps (and in this letter we refer to it as the “TRS” and collectively, the “TRS’s”) having economic characteristics similar to the Fund’s investment in the securities of Cannabis Companies. The Fund will execute one or more TRS’s for the purpose of achieving the approximate economic equivalent of the purchase of equity securities of Cannabis Companies. 
+ ◦ As described in greater detail in the pages that follow, for purposes of this letter and for the legal opinions within it, in the case of the TRS’s executed by the Fund, we understand that each such TRS will reference and provide exposure to a single Cannabis Company, 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 6 
+
+ and such Cannabis Company is, we assume for purposes of this letter, in full compliance with applicable laws of the state and local jurisdictions within which such Cannabis Company operates. 
+ • The investment mandate of the Fund therefore contemplates the purchase of the equity of Cannabis Companies and the execution of TRS’s in a manner that results in exposure to Cannabis Companies; however, the Fund will not invest directly in or hold ownership in any companies and will not reference in any TRS a company that engages in cannabis-related business unless such business is permitted by national and local laws of the relevant jurisdiction, including U.S. federal and state (including local) laws. 
+ • The Advisor intends to use qualitative factors, such as publicly available company filings, publicly available research, and press releases, to identify a universe of Cannabis Companies by determining a company’s thematic relevance to the cannabis and hemp ecosystem. Based on its analysis, each Cannabis Company selected for the Fund will be assigned a weight that generally will be on a modified market capitalization basis, to seek to create a portfolio that reflects companies that contribute to the cannabis and hemp ecosystem through a variety of cannabis-related products and services. 
+ • The Fund may invest in securities issued by small, medium and large capitalization companies operating in both emerging, frontier, and developed market countries. The Fund may purchase equity securities that trade on U.S. or non-U.S. securities exchanges and American Depositary Receipts (“ADRs”) or Global Depositary Receipts (“GDRs”). The Fund may invest in both equity and mortgage REITs. 
+ • As of the date of this opinion letter, the Fund expects to concentrate at least 25% of its investments in the pharmaceuticals, biotechnology & life sciences industry group as defined by the Global Industry Classification (GICS ® ) or other similar categorization scheme. This level of exposure may change over time and in response to changes in the cannabis and hemp ecosystem. The Fund is classified as a “non-diversified” investment company under the 1940 Act. 
+ • Subject to the oversight of the Board, the Advisor has discretion to manage on an intra-day and daily basis the portfolio of securities and multiple TRS’s, each referencing a different Cannabis Company, within the investment objectives and policies of the Fund. 
+ We understand that the investment strategy of the Fund may include the purchase or execution of other financial products ( e.g. , short-term instruments in liquid markets such as, for example, investment in commercial paper and/or 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 7 
+
+ repurchase agreements collateralized by U.S. government securities); however, such investments are outside of the scope of this letter, which focuses on the purchase of the securities of Cannabis Companies and the execution and settlement of TRS’s referencing TRS Companies 
+ • Total Return Swaps . The Fund will also execute and settle OTC financial derivatives, in particular total return swaps (and in this letter we refer to it as the “TRS” and collectively, the “TRS’s”) having economic characteristics similar to the Fund’s investment in the securities of Cannabis Companies. The Fund will execute one or more TRS’s for the purpose of achieving the approximate economic equivalent of the purchase of equity securities of Cannabis Companies. 
+ ◦ As described in greater detail in the pages that follow, for purposes of this letter and for the legal opinions within it, in the case of the TRS’s executed by the Fund, we understand that each such TRS will reference and provide exposure to a single Cannabis Company, and such Cannabis Company is, we assume for purposes of this letter, in full compliance with applicable laws of the state and local jurisdictions within which such Cannabis Company operates. 
+ • The investment mandate of the Fund therefore contemplates the purchase of the equity of Cannabis Companies and the execution of TRS’s in a manner that results in exposure to Cannabis Companies; however, the Fund will not invest directly in or hold ownership in any companies and will not reference in any TRS a company that engages in cannabis-related business unless such business is permitted by national and local laws of the relevant jurisdiction, including U.S. federal and state (including local) laws. 
+ • The Advisor intends to use qualitative factors, such as publicly available company filings, publicly available research, and press releases, to identify a universe of Cannabis Companies by determining a company’s thematic relevance to the cannabis and hemp ecosystem. Based on its analysis, each Cannabis Company selected for the Fund will be assigned a weight that generally will be on a modified market capitalization basis, to seek to create a portfolio that reflects companies that contribute to the cannabis and hemp ecosystem through a variety of cannabis-related products and services. 
+ • The Fund may invest in securities issued by small, medium and large capitalization companies operating in both emerging, frontier, and developed market countries. The Fund may purchase equity securities that trade on U.S. or non-U.S. securities exchanges and American Depositary Receipts (“ADRs”) or 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 8 
+
+ Global Depositary Receipts (“GDRs”). The Fund may invest in both equity and mortgage REITs. 
+ • As of the date of this opinion letter, the Fund expects to concentrate at least 25% of its investments in the pharmaceuticals, biotechnology & life sciences industry group as defined by the Global Industry Classification (GICS ® ) or other similar categorization scheme. This level of exposure may change over time and in response to changes in the cannabis and hemp ecosystem. The Fund is classified as a “non-diversified” investment company under the 1940 Act. 
+ • Subject to the oversight of the Board, the Advisor has discretion to manage on an intra-day and daily basis the portfolio of securities and multiple TRS’s, each referencing a different Cannabis Company, within the investment objectives and policies of the Fund. 
+ We understand that the investment strategy of the Fund may include the purchase or execution of other financial products ( e.g. , short-term instruments in liquid markets such as, for example, investment in commercial paper and/or repurchase agreements collateralized by U.S. government securities); however, such investments are outside of the scope of this letter, which focuses on the purchase of the securities of Cannabis Companies and the execution and settlement of TRS’s referencing TRS Companies. 
+ Total Return Swaps 
+ • Total return swaps, including the TRS’s, are financial instruments in the form of bilateral contracts executed by parties in the over-the-counter (“OTC”), privately negotiated derivatives market. The Fund contemplates that the OTC derivatives documentation, including confirmations for each TRS, will evidence a portfolio of TRS’s and that each TRS in that portfolio will reference a single Cannabis Company. The derivatives documentation evidencing each TRS permits the Fund to dynamically manage each TRS in such a way as to subject the TRS under its terms to rebalancings, substituting in a different Cannabis Company as the Reference Asset or terminate or otherwise adjust the TRS due to market or other conditions including in response to, for example, redemptions or purchases by the Fund, at the direction of the Advisor (and the Sub-Advisor). Each TRS will mature and settle at maturity on a cash basis only (a process which is known in the industry as “financial settlement” or “cash settlement”). 
+ • Generally, investment vehicles regulated by the 1940 Act may enter into one or more OTC swaps with respect to, or referencing one security, or more than one security, currency, commodity or futures contract, or a single company (or “name”), a basket of companies of assets, an index of companies or other index or asset(s). 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 9 
+
+ • In a total return swap such as the TRS, the total return payee, or buyer receives from the total return payor, for a fee, a periodic, variable return equal to the total return of a specified entity, the appreciation of one or more securities, a basket of multiple securities, or other asset or other reference obligation with respect to the swap, over a specified period of time. In this way, one party, the total return payee or receiver, is to receive a value representing the appreciation of whatever is referenced in the swap (in this case, an equity) and so that derivative derives its value from the referenced asset(s). The party receiving a payment representing the appreciation of the referenced asset(s) in return pays its counterparty, typically a swap dealer, either a fixed, or sometimes variable stream of payments (typically based on short term interest rates coupled with a spread to account for the credit profile of the total return payee) and a separate payment or payments representing the de preciation of the referenced asset or assets. 
+ • For purposes of this opinion letter and notwithstanding any other provision in it, we assume that the Fund will enter into a portfolio of TRS’s and with the background provided here, we will evaluate whether each such TRS is an enforceable, bilateral contract under the law we have defined near the beginning of this opinion letter as “Applicable Federal Law.” 
+ • The TRS will be evidenced by TRS Documentation, which provides, inter alia , for the dynamic, or active management of the reference portfolio so that the Number of Shares (capitalized TRS terms are as defined in the TRS Documentation) in respect of any Share Swap Transaction, the Number of Basket Units in respect of any Basket Swap Transaction may be increased or decreased from time to time (the Advisor represents to us that this may be as frequently as on a daily basis) by agreement of the Fund and its counterparty on any Adjustment Effective Date, as provided in a relevant Daily Activity Supplement. Each increase or decrease in the Number of Shares or Number of Basket Units (collectively, as relevant, the “Number of Reference Assets”) is referred to in the TRS Documentation as an “Increase Tranche” or a “Decrease Tranche”, respectively (either, a “Tranche”). The TRS counterparty to the Fund, as Calculation Agent (and Valuation Agent with respect to collateral supporting the TRS) will mark-to-market the reference portfolio on a daily basis. Collateral supporting obligations will be subject to a bilateral Credit Support Annex contemplating margin calls by either party, with the assets of the Fund being held by the custodian of the Fund, U.S. Bank, in compliance with the Investment Company Act of 1940, 15 U.S.C. Section 80-1 et seq, as amended (“1940 Act”). We assume for purposes of this letter that the Fund is and will be in compliance with the 1940 Act rules, including those regarding custody, promulgated by the SEC under the 1940 Act, and the 1940 Act. the Fund contemplates that each TRS may be subject to frequent (as often as daily) adjustment in response to, for example, redemptions or purchases by 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 10 
+
+ the Fund, at the direction of the Advisor (and any permitted sub-advisors). As we state above, it is our understanding that each TRS will be cash settled at expiry. 
+ Detailed information on exchange traded securities utilized by the Fund 
+ The Fund will directly invest in companies that list their securities on exchanges that require compliance with all laws, rules and regulations applicable to their business, including U.S. federal laws. The current exchanges identified by the Fund that meet these requirements are the New York Stock Exchange (“NYSE”) NYSE American, Nasdaq Stock Market (“Nasdaq”), TSX Exchange, (“TSX”), TSX Venture Exchange (“TSX Venture”), Australian Securities Exchange (“ASX”) and Tel Aviv Stock Exchange (“TASE”). 
+ The NYSE and NASDAQ are national securities exchanges that are registered with the SEC under Section 6 of the Securities Exchange Act of 1934. Before a company ’ s securities can trade on a U.S. exchange, the company must register that class of securities with the SEC under Section 12(b) of the Exchange Act. 
+ Further information on each of these exchanges is as follows: 
+ NYSE and NYSE American 
+ The NYSE is one of the largest equities marketplaces in the world. The NYSE acquired the American Stock Exchange in 2008 (now known as NYSE American or NYSE MKT). The NYSE MKT is open to listing companies involved in the cannabis industry who are involved in biotech (AbbVie: ABBV); investment in the industry outside of United States (Compass Diversified Holdings: CODI; ETFMG Alternative Harvest ETF: MJ); the agricultural sector (Scott’s Miracle Grow Co.: SMG); and the real estate sector (Innovative Industrial Properties, Inc.: IIPR). United States based companies that “touch the plant” ( i.e ., those that grow or distribute cannabis) are not eligible to list at this time. Canadian and other non-U.S. companies whose cannabis related activities are legal in their home jurisdiction are eligible to list if they meet the exchange ’ s listing requirements, such as number of shareholders, earnings and stock price. The NYSE governs listing requirements and continued listing requirements. Listing issuers must comply with their agreements with the NYSE and SEC requirements in all material respect. 
+ Further, NYSE Regulation (“NYSER”) is responsible for monitoring activities on the NYSE’s equities, options, and bonds markets – i.e. , the New York Stock Exchange LLC (equities and bonds), NYSE Arca, Inc. (equities and options), NYSE American LLC (equities and options) and NYSE National, Inc. (equities), and NYSE Chicago, Inc. (equities) (collectively, the “NYSE Exchanges”) – and for addressing non-compliance with the NYSE Exchanges’ rules and federal securities laws. NYSER enforces both the 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 11 
+
+ NYSE Exchanges’ and their members’ compliance with NYSE Exchange rules and applicable federal securities requirements. It also monitors and enforces listed companies’ compliance with applicable listing standards of the NYSE Exchanges. By performing these duties, NYSER supports the NYSE Exchanges’ efforts to promote just and equitable principles of trade, encourage free and open markets, and protect investors and the public interest. Many of these regulatory functions are performed directly by NYSER; others are performed by FINRA or other self-regulatory organizations pursuant to a regulatory services agreement, national market system plans, or other arrangements. 
+ NASDAQ 
+ The Nasdaq Stock Market requires the companies listing on its exchange to comply with U.S. federal laws. The following paragraph below is from its website under FAQ: 
+ In determining whether to initially list a company or continue a company ’ s listing when it changes its business activities, Nasdaq does not make subjective or value judgements about the business the company operates. However, Nasdaq cannot initially list or continue the listing of a company whose current or planned activities are in violation of U.S. federal law or the law in a jurisdiction where the company operates. In assessing the legality of a company ’ s activity, Nasdaq largely relies on the risk factors and other disclosures made in the company ’ s filings with the Securities and Exchange Commission, although Nasdaq may also request additional information from the company where necessary. 4 
+ TSX 
+ The TSX is the 8th largest exchange in the world by market capitalization. On October 16, 2017, the TSX issued Staff Notice 51-352 (the “Staff Notice”) 5 regarding listed companies engaged in the marijuana business, whether directly or indirectly, in the United States. The Staff Notice states the general requirements that the business of applicants or listed issuers “will be conducted (i) with integrity and in the best interests of the issuer’s security holders and the investing public, and (ii) in compliance with the rules and regulations of TSX and all regulatory bodies having jurisdiction.” Due to the significant number of inquiries received regarding entities engaging in activities related to the cultivation, distribution or possession of marijuana in the U.S. (“Subject Entities”), TSX issued the Staff Notice to provide clarity regarding the application of the requirements to applicants and listed issuers in the marijuana sector. The Staff Notice notes that although a number of U.S. states have legalized the cultivation, distribution or 
+
+ 4 Available at https://listingcenter.nasdaq.com/Material_Search.aspx?cid=34&mcd=LQ (Identification No. 1474). 
+ 5 See Staff Notice 51-352 dated October 16, 2017 available at https://decisia.lexum.com/tsx/sn/en/item/454533/index.do. 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 12 
+
+ possession of marijuana subject to various conditions, marijuana remains a Schedule I drug under the CSA. More specifically, it is illegal under U.S. federal law to cultivate, distribute or possess marijuana, and financial transactions involving proceeds generated by, or intended to promote, marijuana-related business activities in the U.S. may form the basis for prosecution under applicable U.S. federal money-laundering legislation. 
+ The Staff Notice states that as part of TSX ’ s standard continued listing review of listed issuers, TSX selects issuers for in depth reviews based on their continuous disclosure records. As required by the TSX manual, each listed issuer is required to disclose material information regarding its business and affairs. As part of its continued listing review of listed issuers in the marijuana sector, TSX contacted listed issuers at the end of 2017 for a more comprehensive review of their marijuana-related activities (if any) in the U.S. If a listed company engages in activities that are contrary to TSX requirements, the TSX has the discretion to initiate delisting review of that company. 
+ On February 8, 2018, the TSX issued Staff Notice 51-352 (Revised) (the “Revised Staff Notice”) 6 to provide specific disclosure expectations for Subject Entities in U.S. states where such activity is legal under state law. In furtherance of that purpose, the Revised Staff Notice sets forth a table of the specific disclosure it expects. This includes, for example, discussing the risk of enforcement action based on statements and other available guidance made by federal authorities or prosecutors, outlining U.S. state regulation in which the Subject Entity operates, and confirming how the Subject Entity complies with applicable licensing requirements and the regulatory framework enacted by the applicable U.S. state. The Revised Staff Notice goes on to add that Subject Entities are expected to updated disclosures based on government policy changes or amended guidance. 
+ TSX Venture 
+ In determining whether to list entities with U.S. marijuana-related activities, each Canadian stock exchange applies its own listing requirements as outlined in its rules, including rules related to compliance with applicable laws. The TSX Venture Exchange mostly contains small-cap Canadian stocks. TSX Venture provided a Notice to Issuers bulletin dated October 16, 2017 (the “Bulletin”) 7 that specifically addressed business activities related to marijuana in the United States. The Bulletin clarified its requirements to list and to continue listing on its exchange. The Bulletin states the general requirements “that (i) the business of applicants or listed issuers will be conducted with integrity and in the best interests of the issuer’s security holders, and (ii) applicants or listed issuers will comply with all laws, rules and regulations applicable to their business 
+
+ 6 See Staff Notice 51-352 dated February 8, 2018 available at https://www.osc.ca/sites/default/files/pdfs/irps/csa_20180208_51-352_marijuana-related-activities.pdf 
+ 7 See Notice to Issuers bulletin dated October 16, 2017 available at https://www.tsx.com/resource/en/1609 . 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 13 
+
+ or undertaking.” These requirements apply to all applicants and listed issuers. Due to the “significant number of inquiries received regarding entities engaging in activities related to the cultivation, distribution or possession of marijuana in the United States”, TSX Venture issued the Bulletin to provide clarity regarding the application of the requirements to applicants and listed issuers in the marijuana sector. The Bulletin notes that although a number of U.S. states have legalized the cultivation, distribution, or possession of marijuana to various degrees and subject to various conditions, marijuana remains a Schedule I drug under the CSA and cannabis financial transactions are prohibited under the MCA. 
+ According to the Bulletin, companies listed on TSX Venture with ongoing business activities that violate United States federal law regarding marijuana do not comply with the requirements of TSX Venture. These business activities may include, among other things: 
+ (i) direct or indirect ownership of, or investment in, Subject Entities; (ii) commercial interests or arrangements with Subject Entities that are similar in substance to ownership of, or investment in, Subject Entities; (iii) providing services or products that are specifically designed for, or targeted at, Subject Entities; or (iv) commercial interests or arrangements with entities engaging in the business activities described in (iii). 
+ The Bulletin states that, as part of TSX Venture ’ s standard continued listing review of listed issuers, TSX Venture selects issuers for in depth reviews based on their continuous disclosure records. As required by the TSX Venture manual, each listed issuer is required to disclose material information regarding its business and affairs. As part of its continued listing review of listed issuers in the marijuana sector, TSX Venture contacted listed issuers at the end of 2017 for a more comprehensive review of their marijuana-related activities (if any) in the United States. If a listed company engages in activities that are contrary to TSX Venture ’ s requirements, TSX Venture has the discretion to initiate a delisting review of that company. 
+ ASX 
+ The ASX is Australia's primary securities exchange. In October 2017, ASX provided additional clarification to its listing requirements specific to cannabis companies as follows: 
+ ASX also notes that the legal status of medical cannabis businesses in the US presently is subject to uncertainty under US federal law. An applicant seeking to list a US medical cannabis business will need to satisfy ASX that its business can be lawfully carried on in the US (under both Federal and State law) before ASX will admit it to the official list. 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 14 
+
+ TASE and Israel Generally 
+ Medical marijuana for certain conditions has been legal in Israel since the early 1990’s, and since 2017, despite remaining illegal, recreational cannabis has been in the process of decriminalization. 8 Moreover, Israel recently has authorized the export of locally grown cannabis to other countries. 9 
+ The Tel Aviv Stock Exchange ("TASE") is Israel's only public stock exchange. 10 Only eight companies have been licensed in Israel to cultivate and distribute medical cannabis, and only one of those, InterCure's Ltd., is publicly listed on the TASE. 11 Other licensed Israeli cannabis companies are exploring IPOs on North American exchanges, 12 or are already listed there. 13 Still other companies involved in Israeli cannabis (but which are not licensed to cultivate or distribute) are listed on the TASE. 14 The TASE also lists at least one cannabis-based mutual fund, ALN Cannabis. 15 Despite all of this activity, however, the TASE does not have rules or regulations addressing whether listed companies must comply with U.S. federal law. For this reason, and in order to comply with its principal investment strategy as outlined above, the Fund may only purchase the securities of a company listed on the Tel Aviv Stock Exchange if it survives the Special Situation Review and is found to be in compliance with U.S. federal law. This opinion does not cover other Israeli exchanges. 
+
+ 8 13 Bar Peleg, Explained Marijuana Decriminalization Goes Into Effect in Israel. What Does That Mean?, available at https://www.haaretz.com/israel-news/.premium-marijuana-decriminalization-goes-into-effect-in-israel-what-does-that-mean-1.7069271; Samuel Osborne, Israel’s parliament unanimously votes to progress cannabis decriminalization, available at https://www.independent.co.uk/news/world/middle-east/israel-marijuana-legal-decriminalise-knesset-cannabis-weed-illegal-drugs-a8246161.html. 
+ 9 Sara Brittany Somerset, Israel Decriminalizes Adult Use Cannabis During CannaTech Conference In Tel Aviv, available at https://www.forbes.com/sites/sarabrittanysomerset/2019/04/05/israel-decriminalizes-adult-use-cannabis-during-cannatech-conference-in-tel-aviv/#7665aac15dff; Maayan Jaffe-Hoffman, High Hopes for the Holy Land, available at https://www.jpost.com/Magazine/High-hopes-for-the-Holy-Land-585002. 
+ 10 See About the Tel Aviv Stock Exchange, available at https://info.tase.co.il/eng/about_tase/corporate/pages/tel_aviv_stock_exchange.aspx. 
+ 11 Press Release, InterCure’s Management Opened the Trading session This Morning celebrating the addition to TASE Indices, available at https://info.tase.co.il/Eng/about_tase/news/2018/Pages/PR_20181031.aspx. 
+
+ 12 Canndoc proposes to go public through acquisition by a SPAC with a listing on Nasdaq. See NCV Newswire, Israeli Cannabis Company Canndoc to Go Public via SPAC, available at https://www.newcannabisventures.com/israeli-cannabis-company-canndoc-to-go-public-via-spac/. Breath of Life International sought an IPO on the TSX in 2019. See Investing.com, Israeli Cannabis Company Breath of Life to Launch Toronto IPO, available at https://finance.yahoo.com/news/israeli-cannabis-company-breath-life-134000679.html. It subsequently elected to defer the IPO until market conditions improved. See Kristine Owram, Israeli Pot Firm Breath of Life Delays IPO Until Market Improves , available at https://www.bloomberg.com/news/articles/2019-10-07/israeli-pot-firm-breath-of-life-delays-ipo-until-market-improves. 
+ 13 18 Kalytera Therapeutics is listed on the TSXV. See Listing on TSXV website, available at https://tmxmatrix.com/company/KLY. 
+ 14 TASE, 2018 Annual Review at p. 12, available at https://info.tase.co.il/Eng/Lists/gen_res/0133_annual_review/2018_annual_review_eng.pdf. 
+ 15 See ALN Cannabis TASE Listing Page, available at https://info.tase.co.il/eng/General/trustfund/Pages/fundmaindata.aspx?FundID=05127568 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 15 
+
+ We next proceed with our legal analysis and the opinions which we render in this letter, first in Parts I, II and III, insofar as the Fund’s purchase of securities is concerned, and finally in Part IV, insofar as the execution and settlement of TRS’s is concerned. 
+ LEGAL ANALYSIS 
+ Beyond the limits of investing in companies listed on exchanges described above, we analyzed the potential criminal exposure to the Fund and its beneficial owners solely under Applicable Federal Law in connection with the Fund ’ s proposed investment in the Cannabis Companies. 16 The legal landscape in the cannabis industry is rapidly changing, and enforcement priorities for prosecutors, investigators, and regulators are difficult (if not impossible) to predict, may be influenced by political considerations (and thus a moving target), and may lack consistent application, all of which are beyond the scope of this opinion. 
+ Subject to the considerations set forth in the preceding paragraph, based on our review of the case law and other authorities, we note the following: 
+ • Federal prosecutors have considerable discretion to pursue potential cannabis-related offenses under U.S. criminal laws. To date, the matters filed by prosecutors have been focused on growers, producers, and distributors within the U.S. that have violated federal law and/or the state and local laws where they are located. 17 
+ • We have reviewed examples of U.S. exchange listed companies that have invested or are investing in cannabis companies, and, to date, we have not found public records showing corresponding action by the U.S. Department of Justice (the “DOJ”). 18 Indeed, in May 2020, Constellation Brands, Inc., a New York-based Fortune 500 company that is publicly traded on the New York Stock Exchange, increased its investment from 9.9% to 38.6% of the issued and outstanding common shares of Canopy Growth Corporation, a Canadian producer and exporter of cannabis listed on the NYSE. 
+
+ 16 For purposes of this opinion, we do not assess potential regulatory issues with the SEC, the Financial Industry Regulatory Authority (“FINRA”), the Financial Crimes Enforcement Network (“FinCen”), or foreign authorities. 
+ 17 See , e.g. , Superseding Indictment, U.S. v. Hoang , Case No. 3:17-cr-70, 2017 WL 9855203 (S.D. Iowa); Press Release, U.S. Dep’t of Justice, California Realtor Sentenced to Prison for Filing a False Tax Return - Did Not Report Over $1 million In Income From Marijuana Distribution Business (Nov. 2, 2018), available at https://www.justice.gov/opa/pr/california-realtor-sentenced-prison-filing-false-tax-return; Press Release, U.S. Dep’t of Justice, Washington, D.C. Post Office Manager and Two Letter Carriers Found Guilty of Bribery and Conspiracy to Distribute Marijuana (Jul. 24, 2017), available at https://www.justice.gov/opa/pr/washington-dc-post-office-manager-and-two-letter-carriers-found-guilty-bribery-and-conspiracy. 
+ 18 This does not mean that no action may be brought in the future or that no confidential investigation is proceeding in the status quo, it simply means that we have not found evidence of the same through publicly available resources that we reviewed as noted above. See also footnote 32. 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 16 
+
+ • We have reviewed two open-end investment companies registered under the Investment Company Act of 1940, as amended (the “1940 Act”) with principal investment strategies of investing in Cannabis Companies (as such term is defined herein). First, the ETFMG Alternative Harvest ETF, which is publicly traded on NYSE Arca, Inc., has as its principal investment strategy to invest in “exchange-listed common stock (or corresponding ADRs) or GDRs of companies across the globe, including U.S. companies, that (i) are engaged in the legal cultivation of cannabis, including industrial hemp, or the legal production, marketing or distribution of cannabis, including industrial hemp and products for medical or nonmedical purposes (“Cannabis Companies”); (ii) engage in the lawful creation, marketing or distribution of prescription drugs that utilize cannabinoids as an active ingredient (“Pharmaceutical Companies”); (iii) trade tobacco or produce tobacco products, such as cigarettes, cigars or electronic cigarettes; (iv) produce cigarette and cigar components, such as cigarette paper and filters; or (v) engage in the creation, production and distribution of fertilizers, plant foods, pesticides or growing equipment to be used in the cultivation of cannabis or tobacco.” 19 the Fund may invest in ETFMG Alternative Harvest ETF. Second, is the American Growth Fund Series Two, which has as its principal investment strategy to invest in a “portfolio which is made up primarily of common stocks involved in the legal cannabis business.” 20 
+ • In addition, we have reviewed examples of other investment companies registered under the 1940 Act with investments in cannabis companies. The Vanguard Developed Markets Index Fund held, at the very least, each of the following cannabis companies as of August 31, 2021: Aurora Cannabis Inc., Cronos Group Inc., and Canopy Growth Corp. 
+ • Notwithstanding the above, there could be a risk of criminal exposure for aiding and abetting liability under the CSA. The CSA generally proscribes the manufacture and/or production of controlled substances, such as cannabis. Liability here would be determined based on whether (i) the CSA applies to conduct occurring entirely in another country, such as Canada or Australia, and (ii) whether investment in the Cannabis Companies would constitute an underlying violation of law, particularly where the proposed investment criteria proscribes investment in the securities of companies that manufacture and/or produce cannabis and the proposed investments contemplate the purchase of securities on secondary markets in Canada and Australia. We have not found 
+
+ 19 ETFMG Alternative Harvest ETF’s Summary Prospectus dated January 29, 2021, available on the SEC’s EDGAR database at https://www.sec.gov/Archives/edgar/data/0001467831/000121390021005017/s130101_485bpos.htm. 
+ 20 American Growth Fund Series Two’s Summary Prospectus dated November 30, 2019 available on the SEC’s EDGAR database at https://www.sec.gov/Archives/edgar/data/5138/000000513819000027/series2n1a.htm. 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 17 
+
+ case law or other guidance suggesting an extension of enforcement of the CSA in the manner outlined above as to any of the Cannabis Companies. 
+ Our opinion focuses on Applicable Federal Law and based on the current status of state laws regarding marijuana, it is our view that Applicable Federal Law is more stringent. Therefore, it is our opinion that, if the Fund complies with Applicable Federal Law, the Fund will meet state law standards because the Fund will not be investing in companies engaged in the cultivation, distribution or possession of marijuana in the U.S. 
+ I. FEDERAL LAW 
+ A. Executing Federal Laws 
+ Congress gives federal agencies significant authority in executing federal laws, including the DEA, the law enforcement arm of the federal government primarily responsible for enforcing the CSA. 21 Further, federal prosecutors have wide latitude in determining when, who, how and even whether to prosecute for alleged violations of federal criminal law. 22 In our legal system, “the decision whether or not to prosecute, and what charge to file or bring before a grand jury, generally rests entirely in [the prosecutor’s] discretion.” 23 “This broad discretion ... is particularly ill-suited to judicial review.” 24 That discretion extends to, for example, the decision to prosecute a matter, the selection of charges, whether to enter into a plea agreement, and participation in sentencing. 25 
+ With respect to business organizations, such as the Fund, the United States Justice Manual provides the following guidelines to prosecutors to promote the reasoned exercise of discretion: 26 
+
+ 21 See 21 U.S.C § 811. Parenthetically we note that Cannabis Companies may relate to the “cannabis” or “marijuana” (terms that are used interchangeably) side of the industry, or the “hemp” side of the industry. Botanically, hemp and marijuana/cannabis come from the same species of plant, Cannabis sativa, but from different varieties or “cultivars” that have been bred for different uses. In fact, hemp and marijuana/cannabis are genetically distinct forms of the plant that differ by their use, chemical makeup, and differing cultivation practices. While “marijuana/cannabis” generally refers to the psychotropic drug that is high in delta-9-tetrahydrocannabinol (“THC”) content, growers cultivate low-THC hemp for use in the production of products, including foods and beverages, personal care products, nutritional supplements, fabrics, textiles, paper, construction materials, and other manufactured goods. Since December 2018, hemp is not specifically illegal under the CSA, though it remains subject to considerable regulation and may be illegal under state law in some states. 
+ 22 Oyler v. Boles , 368 U.S. 448 (1962). 
+ 23 Bordenkircher v. Hayes , 434 U.S. 357, 364 (1978). 
+ 24 Wayte v. United States , 470 U.S. 598, 607 (1985). 
+ 25 See United States Justice Manual at § 9-27.110, available at https://www.justice.gov/jm/jm-9-27000-principles-federal-prosecution#9-27.110. 
+ 26 United States Justice Manual at §§ 9-28.300, 9-28.400, 9-28.500, 9-28.600, 9-28.700, 9-28.800, 9-28.900, 9-28.1000, 9-28.1100, 9-28.1200, and 9-28.1300, available at https://www.justice.gov/jm/jm-9-28000-principles-federal-prosecution-business-organizations. 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 18 
+
+ • The nature and seriousness of the offense, including the risk of harm to the public, and applicable policies and priorities, if any, governing the prosecution of business organizations for particular categories of crime; 
+ • The pervasiveness of wrongdoing within the business organization, including the complicity in, or the condoning of, the wrongdoing by management; 
+ • The business organization’s history of similar misconduct, including prior criminal, civil, and regulatory enforcement actions against it; 
+ • The business organization’s identification of individuals responsible for the misconduct and production of misconduct information; 
+ • The existence, effectiveness, and enforcement of the business organization’s pre-existing compliance program; 
+ • The business organization’s timely and voluntary disclosure of wrongdoing; 
+ • The business organization’s remedial actions, including any efforts to implement an effective corporate compliance program or to improve an existing one, to replace responsible management, to discipline or terminate wrongdoers, to pay restitution, and to discipline wrongdoers; 
+ • Collateral consequences, including whether there is disproportionate harm to shareholders, pension holders, employees, and others not proven personally culpable, as well as impact on the public arising from the prosecution; 
+ • The adequacy of remedies such as civil or regulatory enforcement actions; and 
+ • The adequacy of the prosecution of individuals responsible for the business organization’s malfeasance. 
+ B. DOJ Position on Enforcement of Federal Marijuana Laws 
+ During the Obama administration, Deputy Attorney General David Ogden and Deputy Attorney General James Cole released several memoranda that addressed federal enforcement priorities regarding the CSA. These memoranda were intended to adapt the federal government ’ s position on marijuana as states legalized the drug for medical purposes. 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 19 
+
+ Most notably, in 2013, Deputy Attorney General Cole released a memorandum 27 (the “Cole Memo”) that reiterated the DOJ’s commitment to enforcing the CSA, but that directed law enforcement and prosecutors only to focus on conduct that implicated the following: 
+ • Preventing the distribution of marijuana to minors; 
+ • Preventing revenue from the sale of marijuana from going to criminal enterprises, gangs, and cartels; 
+ • Preventing the diversion of marijuana from states where it is legal under state law in some form to other states; 
+ • Preventing state-authorized marijuana activity from being used as a cover or pretext for the trafficking of other illegal drugs or other illegal activity; 
+ • Preventing violence and the use of firearms in the cultivation and distribution of marijuana; 
+ • Preventing drugged driving and the exacerbation of other adverse public health consequences associated with marijuana use; 
+ • Preventing the growing of marijuana on public lands and the attendant public safety and environmental dangers posed by marijuana production on public lands; and 
+ • Preventing marijuana possession or use on federal property. 
+ The Cole Memo further conditioned this guidance on the existence of a state regulatory scheme that provides “robust controls and procedures [which are] effective in practice,” in which case “enforcement of state law by state and local law enforcement and regulatory bodies should remain the primary means of addressing marijuana-related activity.” Taken together, the Cole Memo and other related memoranda provided that the federal government would give some leeway to states’ control over medical marijuana use and production for medical purposes. Importantly, though, the Cole Memo did not have the force of law, but only reflected a policy subject to change at any time. 
+ In January 2018, Attorney General Jeff Sessions issued a new memorandum (the “Sessions Memo”) repealing the policy statements in the Cole Memo: “Given the Department’s well-established general principles, previous nationwide guidance specific 
+
+ 27 Memorandum from James Cole, U.S. Deputy Attorney General, on Guidance Regarding Marijuana Enforcement (Aug. 29, 2013) available at https://www.justice.gov/iso/opa/resources/3052013829132756857467.pdf. 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 20 
+
+ to marijuana enforcement is unnecessary and is rescinded, effective immediately.” 28 The Sessions Memo reinforces the prosecutorial discretion to pursue penalties for marijuana cultivation, distribution, and possession under Applicable Federal Law for financial transactions. 29 
+ The Sessions Memo provides that the federal government may pursue action against violations of federal law related to marijuana. To the extent that they have done so, it appears that federal prosecutors have focused on growers and producers within the states, rather than investors. 30 
+ Moreover, there are multiple U.S. exchange-listed companies that either are investing in Canadian cannabis companies, or are Canadian cannabis companies themselves, such as Tilray Inc., a cannabis research, cultivation, processing, and distribution firm traded on NASDAQ. Similarly, we have not identified any public reports concerning any DOJ action with respect to the increase by Constellation Brands, Inc., a New York-based Fortune 500 company that is publicly traded on the New York Stock Exchange, of its investment in Canopy Growth Corporation, a Canadian producer and exporter of cannabis listed on the NYSE 31 from 9.9% to 38.6% of the issued and outstanding common shares of Canopy Growth Corporation. 
+ Further, the SEC appears to have scrutinized the registration statements and other disclosure documents made by Cannabis Companies that are listed on U.S. exchanges. For instance, the SEC requested changes to Tilray ’ s public disclosure documents, including increased disclosures regarding the company ’ s capital structure 
+
+ 28 Memorandum from Jeffrey Sessions, U.S. Attorney General, on Marijuana Enforcement , (Jan. 4, 2018) available at https://www.justice.gov/opa/press-release/file/1022196/download. 
+ 29 During confirmation hearings before the Senate Judiciary Committee for appointment as Attorney General, in February, 2021, new Attorney General Merrick Garland responded to questioning by Senator Cory Booker as follows: “It does not seem to me a useful use of limited resources that we have, to be pursuing prosecutions in states that have legalized and that are regulating the use of marijuana, either medically or otherwise. I don’t think that’s a useful use.” See https://mjbizdaily.com/attorney-general-nominee-merrick-garland-signals-friendlier-marijuana-stance/. In subsequent written responses to the Senate Judiciary Committee, Attorney General Garland stated that he did not think it worth the department’s time to pursue prosecutions “of those who are complying with the laws in states that have legalized and are effectively regulating marijuana.” See https://www.rollcall.com/2021/03/01/senate-judiciary-sends-garland-nomination-to-the-floor/ . Separate and apart from these pronouncements, Congress has withheld funding to the DOJ (pursuant to the Rohrabacher-Blumenauer Amendment to federal spending bills) to prosecute state-compliant business in the medical marijuana space since 2014. 
+ 30 See, e.g. , Superseding Indictment, U.S. v. Hoang , Case No. 3:17-cr-70, 2017 WL 9855203 (S.D. Iowa) (criminal charges filed against growers, not investors, related to marijuana production and/or distribution within the states). 
+ 31 Constellation Brands increases stake in Canopy Growth , (May. 2020), available at https://www.beveragedaily.com/Article/2020/05/05/Constellation-Brands-increases-stake-in-Canopy-Growth-Corp. 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 21 
+
+ and risks associated with operating in the cannabis industry, such as compliance with U.S. laws and potential market volatility. 32 
+ Finally, we have found nothing in the publicly available resources noted above that suggests that any of the Cannabis Companies being considered for investment are engaged in any cannabis touching business in the U.S. except to the extent that they are either registered with the DEA specifically for the purpose of handling marijuana for lawful research and development of cannabis or cannabinoid-related products or, to the extent that they are handling hemp, that such activities comply with applicable laws. Moreover, we have found no publicly reported civil, criminal or regulatory proceedings against any of the Cannabis Companies for a violation of the CSA and/or MCA. 33 This opinion is only based upon and limited to that publicly available information available from the SEC. 
+ Based on the foregoing and the Fund’s representations that it will only invest in certain exchange traded securities compliant with U.S. federal law, we believe the Fund would not violate the CSA or be subject to DOJ marijuana enforcement. 
+ II. THE CSA 
+ Under Section 841(a) of the CSA, it is unlawful for a person to knowingly or intentionally “manufacture, distribute, or dispense, or possess with intent to manufacture, distribute, or dispense, a controlled substance . . . .” 34 The statute defines “manufacture” as the production, preparation, propagation, compounding, or processing of a drug or other substance, either directly or indirectly or by extraction, and includes any packaging or repackaging of such substance, except as complying with applicable state law. 35 In addition, Section 846 of the CSA prohibits conspiring to commit 
+
+ 32 See Letter from Sec. & Exch, Comm’n to Brendan Kennedy, President and CEO of Tilray, Inc. (Apr. 17, 2018), available at https://www.sec.gov/Archives/edgar/data/1731348/000000000018011638/filename1.pdf; 
+ see also Securities and Exchange Commission, Investor Alert: Marijuana Investments and Fraud (Sep. 9, 2018), available at https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/investor-12 (the SEC appears to be concerned with ensuring that investors are aware of market volatility and concerns about potentially fraudulent disclosures). 
+ 33 Our review yielded, as of the date hereof, no publicly-available indicator of a current DOJ or DEA investigation involving the TRS Companies (as such term is defined in Part IV of this letter) or any of the Cannabis Companies whose equity securities may be purchased by the Fund. The statements and opinions in this letter pertain to Applicable Law and to relevant proceedings made known or available to the public; this letter is based entirely on publicly available research, data and information. We are aware that the DEA issued a subpoena to the Bureau of Cannabis Control of California in connection with the DEA’s investigation of three cannabis companies purportedly operating within the law of the State of California, but the names of the three companies are not publicly available as of the date of this letter. See United States of America v. The Bureau of Cannabis Control (Case No. 3:20-cv-01375)(Dist. Ct. SD). Accordingly, we assume for purposes of this letter that the three companies are not Cannabis Companies or TRS Companies. 
+ 34 21 U.S.C. § 841(a)(1). 
+ 35 21 U.S.C. § 802(15). 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 22 
+
+ substantive offenses under the Act, and provides that any individual who attempts or conspires to commit a violation of the CSA will be subject to the same penalties as the underlying offense. 36 
+ Based purely on the plain language of the Fund’s Registration Statement (including the Statements of Additional Information) and the proposed investments, including our analysis of their businesses as derived from the publicly available resources noted above, none of these businesses appear to be involved in the growth, manufacture, processing or sale of cannabis in the U.S. According to the Fund’s Registration Statement, the Fund is also not preparing or otherwise seeking to distribute the marijuana itself in the U.S. Instead, the Registration Statement reflects that the proposed investment activity would only include purchasing securities — on the secondary market on an exchange that requires compliance with national and local laws, including U.S. federal law — of companies that are permitted by national and local laws of the relevant jurisdiction, including U.S. federal and state laws. 
+ Based on the foregoing, it is our opinion that the Fund would not have direct liability under Section 841(a) or Section 846 of the CSA because it will not be investing in any business that is in the business of growing, manufacturing, processing or selling marijuana in the U.S. 
+ III. COMPLYING WITH FEDERAL MONEY LAUNDERING LAWS 
+ In addition to complying with the CSA, the Fund must also comply with federal money laundering laws. Section 1956 of the MCA provides that (i) “[w]hoever, knowing that the property involved in a financial transaction represents the proceeds of some form of unlawful activity, conducts or attempts to conduct such a financial transaction which in fact involves the proceeds of specified unlawful activity… with the intent to promote the carrying on of specified unlawful activity… 37 ” or (ii) “[w]hoever transports, transmits, or transfers, or attempts to transport, transmit, or transfer a monetary instrument or Fund from a place in the United States to or through a place outside the United States or to a place in the United States from or through a place outside the United States…with the intent to promote the carrying on of specified unlawful activity…” 38 is in violation of federal law. 
+ Based on the foregoing, in our opinion the Fund ’ s investment activity should not constitute an offense under Section 1961(1) ( i.e ., obtaining proceeds from an unlawful activities) because the Fund’s investments are in exchange-listed companies that require compliance with U.S. federal laws in addition to the laws of their respective jurisdictions. 
+
+ 36 21 U.S.C. § 846. 
+ 37 18 U.S.C. § 1956(a)(1)-(A)(i). 
+ 38 18 U.S.C. § 1956 (a)(2)-(A). 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 23 
+
+ IV. TOTAL RETURN SWAPS 
+ It is our understanding that the Fund’s investment strategy incorporates one derivative, an OTC derivative (which will be executed and settled by and between two parties, the Fund and its counterparty, in the OTC (and not the exchange-traded, centrally cleared) market), which we have described as a TRS. Accordingly, in this letter, the opinions relating to OTC derivatives apply only to the TRS’s executed by the Fund. When we write in this letter that “the Fund executes” a “TRS,” “the TRS,” or “the TRS’s,” we are referring to the Fund, and the execution of the TRS’s by the Fund and its counterparty or counterparties to the TRS, in a manner which we describe in greater detail in the pages that follow. 
+ We have been asked to opine with respect to the enforceability of the TRS’s to be executed and settled by the Fund. For purposes of our analysis and with respect to the opinions relating to the TRS’s, we assume that: (a) the Fund will be executing one or more TRS’s with counterparties; (b) the TRS’s to be executed by the Fund will each reference a single Cannabis Company operating in compliance with applicable state law that permits those operations (a “TRS Company”); and (c) all TRS’s which are the subject of this letter will be cash settled ( i.e ., financially settled and not settled in a way which contemplates the delivery of anything other than cash). 
+ It is our understanding and a fundamental assumption of this letter that the Fund will not (a) invest directly in any Cannabis Company that grows, produces, distributes, or sells cannabis or products derived from cannabis in a country, state, province, locality or other political subdivision where this activity is illegal under applicable law; or (b) execute any TRS (or any other OTC derivative or exchange traded derivative) which references any Cannabis Company that grows, produces, distributes, or sells cannabis or products derived from cannabis in a country, state, province, locality or other political subdivision where this activity is illegal under applicable law. 
+ In this context, we have considered the enforceability of the legal documentation governing the TRS’s under principles of contract law as well as the CSA and the 1934 Act (as amended by Dodd-Frank) and regulations promulgated thereunder by the SEC. 
+ TRS payments in cash are received by the counterparty to the Fund under the terms of the TRS. The TRS payments do not result in ownership of stock in a Cannabis Company by the Fund or its TRS counterparties because the TRS’s are to be cash settled. In addition, the Fund’s payments are not used for the purchase or cultivation of marijuana or related supplies and do not facilitate distribution or contribute to the growth of a Cannabis Company in any way. Instead, all TRS payments are directed by the TRS documentation to be made to a party to the TRS as part of what we view as a lawful bargain: the Fund pays a TRS counterparty a fee (like a premium in an insurance contract) for the TRS and incurs the risk that the share value of each Cannabis 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 24 
+
+ Company (that is, the Reference Assets in the reference portfolio) in the TRS depreciates (because if such share value does depreciate, then the Fund is obligated under TRS terms to pay the counterparty a value representing that depreciation), in exchange for a cash payment by the TRS counterparty to the Fund representing the appreciation and total return of each referenced stock or fund interest. The payments by the Fund in the case of the TRS do not result in the purchase of any Cannabis Company stock. 
+ The TRS and the Controlled Substances Act 
+ We are aware of no guidance, regulation, or formal or informal prohibition by the DOJ or any federal regulator (including derivatives regulators in the United States ( e.g. , the SEC and CFTC)) with respect to a derivative referencing a Cannabis Company or a derivative referencing an investment vehicle investing in a Cannabis Company. We are also aware of no reported decision by a court or other tribunal as to whether a derivative referencing a Cannabis Company (whether operating with or outside of a state license, permission or mandate) is legal --or illegal. 
+ The TRS is not a transaction or an activity which is expressly prohibited by the CSA (and we assume for purposes of this letter that the Cannabis Company referenced in the TRS is not undertaking criminal or other activities which would trigger federal action under the guidelines established in the Cole Memo , such as funneling proceeds from the sale of marijuana to criminal enterprises, distributing contraband to gangs or cartels or other activities which are expressly prohibited by the CSA). 39 
+ In the absence of on-point regulatory or other guidance, we have considered other commercial and contractual arrangements entered into by cannabis companies, such as insurance policies. The insurance contract has for decades been compared to a derivative and vice-versa. 40 We are aware of state insurance commissioners approving the issuance of insurance policies undertaking risks relating to lawful state cannabis businesses. For instance, the California Cannabis Control Board submitted proposed regulations to the California Office of Administrative Law in December 2018 establishing minimum general liability coverage for distributors. 41 Former California Insurance Commissioner Dave Jones lobbied California's admitted insurers to begin serving the cannabis industry 42 and was ultimately successful in persuading admitted insurance carriers ( i.e ., carriers authorized to do business in California by the Secretary of State) 
+
+ 39 See supra , footnote 21 and Parts I through III of this letter 
+ 40 See, e.g ., Risk, Speculation, and OTC Derivatives at 2-3. 
+ 41 CAL. CODE REGS. tit. 16, §5308 (2019). 
+ 42 https://www.natlawreview.com/article/california-s-insurance-commissioner-encourages-admitted-carriers-to-insure-cannabis 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 25 
+
+ to provide a cannabis insurance product, 43 including Golden Bear Insurance Company, 44 North River Insurance Company, United States Fire Insurance Company, White Pine Insurance Company, 45 Continental Heritage Insurance Company 46 and California Mutual Insurance Company. 47 
+ For the sake of completeness, we note that a federal court in Hawaii 48 held that an insured individual growing cannabis for personal use in compliance with state law could not recover under her homeowner’s policy because the federal public policy against cannabis trumps the express terms of an insurance policy; however, a federal court in Colorado refused to follow that court in Hawaii, and refused to absolve a property insurance carrier of its coverage obligation when the property insurance policy was written for a state-legal cannabis business, because the policy was written specifically to provide coverage for the insured's state-legal marijuana business. 49 
+ For purposes of evaluating the TRS’s in the context of the CSA, we considered the federal judiciary’s upholding of contracts 50 including those evidencing payment obligations albeit in the insurance context. The upholding of contracts in the insurance context is helpful guidance for evaluating the enforceability of the TRS’s. As with the 
+
+ 43 https://www.horstcounsel.com/single-post/2017/10/02/Admitted-Carriers-Offer-Some-Benefits-Some-Dangers-for-Cannabis-Industry 
+ 44 http://www.insurance.ca.gov/0400-news/0100-press-releases/archives/release119-17.cfm; https://www.goldenbear.com/news/how-to-cover-the-cannabis-sector-from-a-broker-whos-deep-in-the-weeds/ 
+ 45 http://www.insurance.ca.gov/0400-news/0100-press-releases/2018/release088-18.cfm 
+ 46 http://www.insurance.ca.gov/0400-news/0100-press-releases/2018/release055-18.cfm 
+ 47 http://www.insurance.ca.gov/0400-news/0100-press-releases/2018/release046-18.cfm 
+ 48 Tracy v. USAA Cas. Ins. Co. , No. 11-00487 LEK-KSC, 2012 WL 928186, at *13 (D.Haw. Mar. 16, 2012). 
+ 49 Green Earth Wellness Ctr., LLC v. Atain Specialty Ins. Co ., 163 F. Supp. 3d 821, 833-34 (D. Colo. 2016)(“ Green Earth Wellness Center ”). 
+ 50 We note that when we refer in this paragraph to “the federal judiciary,” we refer primarily to the federal district court in Green Earth Wellness Center , and federal courts’ decisions subsequent to Green Earth Wellness Center ( see, e.g ., Greenwood v. Green Leaf Lab LLC, 2017 U.S. Dist. LEXIS 125143 (2017); In re Way to Grow, Inc. , 597 B.R. 111, 2018 Bankr. LEXIS 4142 (2018); see also In re Malul , 614 B.R. 699, 2020 Bankr. LEXIS , 68 Bankr. Ct. Dec. (LRP) 147)(2020)(“At oral argument, Malul attacked the relevance of Green Earth Wellness on two grounds. First, Malul argued Green Earth Wellness is inapplicable because it was evaluating the legality of state insurance laws, not necessarily federal drug laws. Second, Malul argued the insurance policy in Green Earth Wellness is a different situation to a declaratory judgment or breach of fiduciary duty claim, because there is an underlying equity interest at stake in the latter. The Court agrees [that] the facts of Green Earth Wellness are distinguishable in these respects, but it is not clear whether, or how, those factual differentiators mediate a different result. Rather, the operative decision point in Green Earth Wellness was Judge Krieger's careful distinction between ordering the insurer to pay for damages to specific items ( i.e. , marijuana plants) and merely ordering compliance with the contract, which could be accomplished without reference to the existence of any marijuana asset.”). We also note that at least one federal court has declined to invalidate an insurance contract (where an insurer underwrites a cannabis company in compliance with state law) on the grounds that the contract contravenes public policy; the federal district court in Green Earth Wellness Center refused to invalidate the insurance contact at issue in that case on public policy grounds “in light of several additional years evidencing a continued erosion of any clear and consistent federal public policy in this area” and on that basis the federal district court “declines [insurer] Atain’s indirect invitation to declare the [insurance] Policy void on public policy grounds.” See Green Earth Wellness Center, 163 F.Supp.3d at 834-35. We finally note that it appears that federal prosecutors have focused on growers and producers within the states, rather than investors, see also Superseding Indictment, U.S. v. Hoang , Case No. 3:17-cr-70, 2017 WL 9855203 (S.D. Iowa) (criminal charges filed against growers, not investors, related to marijuana production and/or distribution within the states). 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 26 
+
+ purchase of securities, for the reasons and based on the law which we cite, the Fund’s proposed execution of a TRS should not trigger action by the DOJ or federal prosecutors under the CSA and so for our conclusions concerning the TRS, we incorporate by reference all legal and factual analyses as well as representations made to us and assumptions made in the parts of this letter preceding this Part IV (regarding the Fund’s purchases of securities), as we reach the conclusion that under the CSA, the DOJ and federal prosecutors should not pursue any action with respect to the TRS’s to be executed by the Fund. 
+ We do not opine with respect to economic losses which beneficial owners of the Fund may incur due to adverse moves in, or depreciation of Cannabis Company equity and resulting TRS performance; if such equity experiences adverse moves that causes a decline in the Fund’s net assets, the terms of the applicable TRS Documentation may permit the counterparty to the Fund executing a TRS to immediately call for additional credit support (i.e., collateral or, as defined in TRS Documentation, “Eligible Collateral”) or close out the TRS. While we address the TRS Documentation, a term which we define and discuss next in this letter, we do not opine with respect to the value of the Fund or with respect to the performance of the Fund investment strategy. 
+ Enforceability of TRS Documentation 51 
+ In connection with this letter, its analysis and resulting TRS-related conclusions and opinions, we have examined the following (collectively, the “TRS Documentation”), each of which is governed by New York law pursuant to the election of the parties to the TRS Documentation: 
+ ▪ SDA Master Agreement by and between Nomura Global Financial Products Inc. (“Dealer”) and the Fund, effective as of April 13, 2022, and a guaranty of the obligations of the Dealer (collectively, the “ISDA Master Agreement”); 
+ ▪ Schedule to the ISDA Master Agreement by and between Dealer and the Fund, effective as of April 13, 2022 (“ISDA Schedule”); 
+ ▪ Credit Support Annex to the ISDA Schedule by and between Dealer and the Fund, effective as of April 13, 2022; 
+ ▪ Account Control Agreement among U.S. Bank National Association (as custodian of the Fund), the Fund and Dealer effective as of April 13, 2022; and 
+
+ 51 In the analysis and with respect to the conclusions and opinions relating to TRS documentation, when we refer to legal documentation, we refer to the legal documentation that the Fund executes. 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 27 
+
+ ▪ Master Swap Confirmation by and between Dealer and the Fund, effective as of April 13, 2022, together with sample Trade Activity Reports and other deliverables referenced therein. 
+ In rendering legal opinions in Part IV of this letter, we make and rely on certain assumptions concerning the TRS Documentation, including that such representations are accurate and the following assumptions. We assume that each of the terms and conditions of the TRS Documentation, as presented to us, are presently and would remain in final form without material variation or modification. We further assume that each party referenced in the TRS Documentation has legal capacity, authority and has fulfilled all legal prerequisites with respect to the execution, delivery and full and timely performance of obligations set forth or contemplated by the TRS Documentation. We assume for the purpose of this letter that each party to the TRS Documentation will fully and timely perform all of its applicable, respective obligations and undertakings under the TRS Documentation and we further assume that each party to the TRS Documentation is in full compliance with all applicable state and federal law, including but not limited to Applicable Federal Law and therefore we limit this opinion letter and the analysis within it only to the first two full paragraphs on page two of this letter. 
+ We further assume for purposes of our analysis, conclusions and opinions that each party to the TRS Documentation: (i) represents and warrants to the other, with respect to each TRS evidenced by the TRS Documentation that each such party is not entering into the TRS to avoid, prevent or to circumvent or do anything that is contrary to any Applicable Federal Law including statutory law, regulations or case law relating to the vesting of beneficial ownership and those applicable to shareholder disclosure; (ii) does not intend to engage, and in fact does not in any way engage in any fraudulent, deceptive or manipulative act or practice; and (iii) is in full compliance with the Exchange Act, and CEA, each as amended by Dodd-Frank, 52 and the 1940 Act, with respect to the legal issues which are outside of the scope of this letter ( e.g., reporting obligations, diversification and custody rules) and each fully executes and delivers the TRS Documentation. 
+
+ 52 We recognize that the Fund under the 1934 Act may be obligated to report its TRS’s to a security-based swap data repository and to comply with portfolio reconciliation or other obligations which are not directly related to the focus of this opinion letter, and so for purposes of this letter we assume that the Fund and its TRS counterparties are in compliance with those requirements. We also recognize that the Fund and/or the TRS counterparty to each such fund may be obligated to comply with other law which is not central to, referenced in and is therefore outside of the scope of this letter, including the Internal Revenue Code, Regulation T of the Federal Reserve Board, and the rules and regulations, and there are also 1940 Act custody, diversification, leverage and other requirements with respect to which the Fund must comply. the Fund and its performance are governed primarily by the 1940 Act, with respect to which the SEC promulgates regulations effectuating the 1940 Act, including most recently, Rule 18f-4, which generally became effective on February 19, 2021. We gather that the SEC is permitting 1940 Act investment vehicles (including the Fund) to come into compliance with new Rule 18f-4 during an eighteen-month transition period, commencing on February 19, 2021 and ending on August 19, 2022 (at which point compliance with Rule 18f-4 is required in all respects), and today we assume for purposes of issuing this letter that the Fund is both today, and will in the future continue to be, in compliance with existing SEC rules, as applicable to the Fund as of the date hereof. 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 28 
+
+ We also note that in the event that the TRS is at some later date declared illegal under the CSA, the Fund (and indirectly its beneficial owners’) losses would be determined by “break provisions” that enable the parties to the TRS to close-out an existing TRS and to the extent possible, restore the parties economically to a position immediately before a federal department or other federal authority declared the TRS illegal under the CSA (or other law). Within the TRS Documentation is a provision that stipulates that a termination event will occur if it becomes unlawful under any applicable law for a party to make or to receive payments with respect to a transaction, or to perform any material provision of the ISDA Master Agreement (which governs the TRS and any other “Transaction” under the terms of the ISDA Master Agreement); this “Illegality” provision is anticipatory in nature and has (after currency crises in and around 1998) become integrated into the 2002 form of ISDA Master Agreement on which the TRS is based, so that this provision contemplates that a termination of the TRS would occur if, at some later date after (TRS) execution, it would be unlawful to make or receive a payment in the future. 
+ Therefore, important to our legal analysis of the enforceability of the TRS Documentation (and the manner in which losses and gains are calculated on termination by the Fund or its counterparties) is this “Illegality” feature of the ISDA Master Agreement and Schedule contemplating a government decree making a payment of a derivative illegal, such as was the case on August 17, 1998, when the Russian government (in dealing with a widespread economic and currency crisis of its own) 53 imposed a moratorium on payments called for in many OTC currency derivatives referencing the Ruble. 
+ We consider the August 17, 1998 Russian decree to be, in fact, something of a precedent for helping us evaluate potential monetary liability of the Fund and its beneficial owners under the CSA; in that circumstance, with the “Illegality” feature of the ISDA Master Agreement (published in 2002 and included in the TRS Documentation), 54 the Fund: should incur no regulatory exposure or regulatory liability solely because a court of competent jurisdiction in the future holds that the TRS violates the CSA or the 1934 Act; and the TRS could be terminated on a no-fault basis with the Fund and its TRS counterparties using mid-market values calculated pursuant Section 6(e) of the ISDA Master Agreement (this may result in the Fund each --or both-- sustaining 
+
+ 53 On August 17, 1998, in the face of a rapidly deteriorating economic situation, the Russian government defaulted on its Ruble-denominated securities, the Russian Central Bank stopped its support of the Ruble and a temporary moratorium was imposed on certain hard currency payments. Russia imposed a 90-day moratorium on various hard currency transactions connected with the movement of capital. These actions resulted in an immediate and severe devaluation of the ruble and a sharp increase in the rate of inflation; a dramatic decline in the prices of Russian debt and equity securities; and an inability of Russian issuers to raise Fund in the international capital markets and the OTC derivatives market was likewise affected. See Statement of the Government of the Russian Federation and the Central Bank of the Russian Federation (August 17, 1998), https://web.archive.org/web/20150131090423/http://www.cbr.ru/eng/press/JOINT.htm, accessed on June 30, 2020. 
+ 54 See Section 6(e) of the ISDA Master Agreement (as opposed to the earlier 1992 version of the ISDA Master Agreement). 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 29 
+
+ monetary loss or gain on the TRS, but we believe there would in that instance not be resulting regulatory exposure for the termination in the absence of a federal prohibition on the TRS at the point of execution of that OTC derivative). 55 
+ In the absence of any government prohibition of the TRS structure and the TRS Companies referenced within it, the TRS Documentation should create legal, valid and binding obligations under New York law with respect to the Fund and its TRS counterparties. 
+ Because of the dynamic, bespoke nature of the TRS and the regulatory implications from its design and management, it is important for purposes of the analysis leading to the rendering of opinions to first describe with greater particularity the manner in which the regulator ( i.e ., the SEC or the Commodity Futures Trading Commission, or the “CFTC,” and each of its respective regulatory regimes) for the TRS is identified under Dodd-Frank (and pursuant to its amendment of the CEA and 1934 Act); this depends on the Reference Assets (reference portfolio of the Fund) of the TRS. 
+ The upshot is that if the reference portfolio consists of a single security (such as the equity of a Cannabis Company), a single loan or a narrow-based group or index of securities, then under current U.S. law, the regulator of the TRS is the SEC and the federal law which applies to the TRS is the 1934 Act (not the CEA, the Commodity Exchange Act), as amended by Dodd-Frank and SEC rules (as opposed to the CEA and CFTC rules), with respect to the TRS, promulgated thereunder. 
+ On the other hand, if the reference portfolio consists of more than one security, more than one loan, a broad-based index or basket of securities (or any combination thereof), then under current U.S. law, the regulator of the TRS is the CFTC; so if the CFTC regulates TRS’s executed by the Fund, then those funds would be subject to both the SEC and its rules insofar as the two funds and their operation are concerned and the CFTC insofar as the TRS is concerned. In that case, the CFTC and the CEA (not the 1934 Act), as amended by Dodd-Frank, and CFTC rules and guidance is the statutory basis and regulatory regime governing the TRS. Given this complexity and for our purposes, in this letter, we assume that the only TRS that is to be executed is one that references either a single Cannabis Company; so, for all purposes, the TRS (and TRS’s) which are the subject of the opinions in this letter would be regulated by the SEC. The following discussion brings this and the paragraph immediately above this paragraph into sharper focus. 
+ Applicable Derivatives Law 
+
+ 55 Under the effective terms of the TRS Documentation, if the TRS, after it is executed but before the end of the term or maturity for the transaction if the U.S. government (or even a state) declares the TRS to be illegal, then, at the end of a waiting period, the Fund or the TRS counterparty can terminate the TRS on a no-fault basis and use mid-market values calculated pursuant Section 6(e)(ii)(3) of the ISDA Master Agreement. 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 30 
+
+ Total return swaps in the U.S. have been regulated by a still relatively new and comprehensive body of law, including a federal statute and implementing rules -- for about a decade. 
+ In 2010, Congress passed and President Obama signed into law Dodd-Frank, which established for the first time in America a comprehensive framework for regulating OTC (privately negotiated) derivatives, OTC derivative markets and utilities -- and the financial products executed within and by them, including those products with the basic structure of the TRS. 
+ Before 2010, one of the primary culprits in the Great Recession of 2008 was the near complete confusion and improper identification with respect to the regulator with authority to regulate an OTC derivative 56 and this is no longer the case, so today the TRS is subject to a clearly-defined and predicable regulatory regime, which we discuss next, but the federal regulator and its regulatory regime is determined by the design and management of the TRS, as described on this page and the pages that follow. 
+ Under Dodd-Frank, regulatory authority is divided between the SEC and the CFTC or the Commodity Futures Trading Commission; Dodd-Frank mandated that the CFTC and SEC issue definitions for purposes of guiding market participants such as the Fund, so that it is more clear (as compared to the years prior to 2010) which regulator has jurisdiction over an OTC derivative. 57 
+ After Dodd-Frank and with the benefit of clarifying regulations from both the CFTC and SEC, federal law assigns the SEC the authority to regulate “security-based swaps,” which are broadly defined as OTC derivatives, including swaps, based on (1) a single security or (2) a loan or (3) a narrow-based group or index of securities or (4) events relating to a single issuer or issuers of securities in a narrow-based group or index. 
+ Total return swaps on a single security, loan or narrow-based security index are security-based swaps regulated by the SEC, its rules, the 1934 Act and Dodd-Frank. 
+
+ 56 See generally , Gordon F. Peery, The Post-Reform Guide to Derivatives and Futures (Wiley 2012), at 30 (hereinafter “ Guide to Derivatives ”). 
+ 57 The regulators’ rules were proposed, refined and published in “Further Definition of ‘Swap,’ ‘Security-Based Swap,’ and ‘Security-Based Swap Agreement’; Mixed Swaps; Security-Based Swap Agreement Recordkeeping,” 77 Fed. Reg. 48208 (August 13, 2012)(“ Swap Definitions ”). Mixed swaps are swaps that after Dodd-Frank and the aforementioned regulations are within the jurisdiction of both the SEC and CFTC and these typically include a security and a commodity such as a swap based on a currency ( i.e ., a commodity) and an equity ( i.e. , a security); the breadth and reach of the mixed swap definition is intended to be narrow and to close gaps in the OTC derivatives regulations post Dodd-Frank. 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 31 
+
+ Total return swaps based on more than one security, more than one loan, or on a broad-based security index are “swaps” regulated by the CFTC, its rules, the CEA and Dodd Frank. 
+ The SEC and the CFTC also in rare cases, not relevant here, share jurisdiction over “mixed swaps,” and the regulations of the SEC for security-based swaps, and the CFTC for swaps, are completely different, separate and apart from each other. 
+ This means that derivative execution, documentation, settlement, reporting and recordkeeping requirements for security-based swaps (regulated by the SEC) and swaps (regulated by the CFTC) are completely different. 
+ The easiest way to understand whether a derivative is regulated by the SEC or CFTC is to focus on the subject, or “reference” or “reference obligation” (in the case of the TRS, the Reference Assets and reference portfolio) of the derivative, which is the asset, event or other thing from which the financial product derives its value. If the subject of the derivative is a commodity ( e.g ., gold), or a basket of securities (or broad based index) then that derivative is a swap regulated by the CFTC. 
+ If the derivative is a loan or a single security or a narrow-based index, then that derivative is likely 58 a security-based swap regulated by the SEC. 
+ For our purposes, the TRS is regulated by the SEC if the subject of the TRS is the security (equity or debt (or loan)) of a single company or a narrow-based security index; otherwise, the TRS is a “swap” regulated by the CFTC. 
+ A narrow-based security index, generally, with exceptions, 59 is an index of securities that meets one of the following four requirements (1) it has nine or fewer components; (2) one component comprises more than 30 percent of the index weighting; (3) the five highest weighted components comprise more than 60 percent of the index weighting, or (4) the lowest weighted components comprising in the aggregate 25 percent of the index’s weighting have an aggregate dollar value of average daily volume over a six-month period of less than $50 million ($30 million if there are at least 15 component securities). 
+ OTC derivatives which are not security-based swaps generally fall into the category of a “swap,” a regulatory term which is meant to include all other (non-security-based swap) derivatives executed OTC, including an option, or a swap, 
+
+ 58 An option on a single equity is technically (again with limited exceptions) a “security” also regulated by the SEC. A security-based swap is also a “security” regulated by the SEC. 
+ 59 The legal definition of narrow-based security interest, in the context of a swap, in Section 1a(25) of the CEA or Commodity Exchange Act, 7 USC 1a(25), contains several exceptions. 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 32 
+
+ on a basket of securities. A “swap,” as defined by the CFTC, entails “the exchange of one asset or liability for a similar asset or liability for the purpose of lengthening or shortening maturities, or otherwise shifting risks. This may entail selling one securities issue and buying another in foreign currency; it may entail buying a currency on the spot market and simultaneously selling it forward. Swaps also may involve exchanging income flows; for example, exchanging the fixed rate coupon stream of a bond for a variable rate payment stream, or vice versa, while not swapping the principal component of the bond. Swaps are generally traded over-the-counter.” 60 
+ Section 721(a) of Dodd-Frank added Section 1a(47) to the Commodity Exchange Act (7 U.S.C. § 1a(47)) to bring total return swaps under the regulatory jurisdiction of the CFTC if those swaps reference a broadly-based index or a basket of companies (as opposed to, in this case, a single TRS Company consisting of a Cannabis Company in compliance with state law). Whereas the TRS Documentation is governed by state law ( i.e. , the laws of the State of New York), the TRS itself is an OTC derivative now subject to federal law. 61 
+ The TRS’s now before us are dynamically managed, which is to say that a portfolio manager “constructs” the derivative before execution and then has the right --and indeed it is contemplated that such right will be executed frequently, which is to say on a daily basis -- to change the Cannabis Company on which the TRS is based (in the case of the TRS’s to be executed by the Fund). From a regulatory standpoint, dynamic management of a TRS does not change the classification or regulator of the TRS; the Swap Definitions provide that the classification of an OTC derivative under Title VII of Dodd Frank is determined prior to its execution and then the product will retain its initial characterization throughout its life with the same regulator retaining jurisdiction from execution to expiry (and even if a narrow-based index becomes a broad-based index referenced in the same TRS, or vice versa, the regulator and derivative characterization as a swap or security-based swap remains the same over the life of the derivative). 
+ After the passage of Dodd-Frank in 2010, and implementing regulations under that act, a TRS based on a broad-based index of TRS Companies and a TRS referencing two or more TRS Companies likewise would be an OTC derivative (a “swap”) regulated by the CFTC pursuant to its regulations. The SEC regulates most 
+
+ 60 See CFTC Glossary, available at https://www.cftc.gov/LearnAndProtect/EducationCenter/CFTCGlossary/glossary_s.html and accessed on March 19, 2021. 
+ 61 “Title VII [of Dodd Frank] defines ‘security-based swap’ as a swap that is based on a narrow-based security index, a single security or a loan [or] the occurrence, nonoccurrence or the extent of the occurrence of an event relating to a single issuer of a security or the issuers of securities in a narrow-based security index. An option on a security is not a security-based swap unless the security is restricted under the 1934 Act.” Guide to Derivatives at 141. The focus of this letter, as expressed in summary form on page 2, is a set of opinions as to the enforceability of the TRS and other financial products executed, purchased and owned, whether beneficially or not, by the Fund and not compliance with all aspects of Applicable Federal Law and such compliance is outside of the scope of this letter. 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 33 
+
+ equity options as well as, for purposes of this letter, the TRS’s, each of which is based on a “single name,” or one TRS Company (or a single, narrow-based security index). Dodd-Frank also added Section 3(a)(68) to the Exchange Act, which defines “security-based swap”; accordingly, for a TRS based on the equity of a single TRS Company, the U.S. regulator is the SEC. For the reasons stated above and just as we believe that the DOJ and federal prosecutors should not pursue any action with respect to the TRS, we see no SEC guidance today that points to a conclusion that a TRS would be rendered invalid by the SEC (or the CFTC). 
+ Extent of Ownership of a Cannabis Company 
+ We summarized at the outset of this Part IV the cash-settlement, non-ownership aspects of the TRS. The Fund obtains nothing other than cash as a settlement at TRS maturity, and is obligated to do nothing, other than to make and to receive cash payments. In the absence of the right to vote, the absence of intent to prevent vesting or absence of intent to evade ownership obligations or ability or desire to dispose shares of the underlying cannabis security, we do not believe that the TRS’s at issue here confer ownership interest in any underlying Cannabis Company. Additionally, we do not believe that the Fund would have a reporting obligation from a purely cash-settled TRS (and we believe that the Fund is not attempting to avoid obligations of ownership by executing TRS’s; we are aware of no facts provided to us by the Advisor that the Fund, when executing a TRS, is doing so with the intent to avoid obligations of ownership by executing TRS’s which are by their nature designed to synthetically replicate ownership of Cannabis Companies). 62 As the case law and regulatory guidance is not settled with respect to total return swaps generally, we reference the following authorities that lead us to the conclusions and to the opinions found at the conclusion of this Part IV: 
+ • Although a long position under an equity swap would generally not be treated as beneficial ownership of the underlying security under Rule 13d-3 under the Exchange Act, as the “long” party would not typically have the right to vote or dispose of the underlying shares, 
+
+ 62 See CSX Corp. v. The Children’s Investment Fund Management , 562 F.Supp.2d 511 (S.D.N.Y 2008), aff’d, 292 F. App’x 133 (2d Cir. 2008) (Second Circuit Court of Appeals unable to reach agreement on whether party executing TRS is a beneficial owner), 654 F.3d 276 (2d Cir. 2011)(“This case comes to us raising issues concerning a contractual arrangement known as a ‘cash-settled total return equity swap agreement’ although our disposition at this stage of the appeal touches only tangentially on such issues”.)(deciding only issues pertaining to a “group” violation of Section 13(d)(3)(“CSX”)); see also 2 Edward F. Greene et al., U.S. Regulation of the International Securities and Derivatives Markets § 14.02[2][a] (9th Ed 2008)(“Greene”); Arnold S. Jacobs, The Williams Act - Tender Offers and Stock Accumulations § 2.12 (2009)(“Jacobs”); James P. Smith & Corinne Levy, ‘CSX’: Second Circuit Upholds Denial of Injunctive Relief, N.Y.L.J., Sept. 26, 2008, at 4. We view the legal and other authorities as helpful in our analysis and the facts in CSX to be distinguishable because whereas the total return swap in CSX resulted in an effort to elect candidates to the board of directors of CSX, the TRS now before us is cash-settled with no exercise of any right other than the right to receive a cash payment. 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 34 
+
+ Schedule 13D (but not Schedule 13G) requires the disclosure by a reporting person of contracts involving the relevant shares. 63 
+ • A person who is a party to a cash-settled swap does not beneficially own the securities subject to the swap if he or she (or a corporate entity) does not have the right to vote or to sell those securities either pursuant to the swap’s contractual terms or pursuant to another understanding or arrangement with the counterparty to the swap. Thus, a party to a cash-settled swap not possessing such voting or dispositive power has no Section 13(d) reporting duty, no matter how large a percent of the stock is the subject of the cash-settled swap. 64 
+ • The Division of Corporation Finance within the SEC believes that interpreting an investor’s beneficial ownership under Rule 13d-3 to include shares used in a counter-party’s hedge, absent unusual circumstances, would be novel and would create significant uncertainties for investors who have used equity swaps in accordance with accepted market practices understood to be based on reasonably well-settled law. 65 
+ The TRS ’ s to be executed by the Fund are, as noted above, security-based swaps regulated by the SEC and as the TRS ’ s are cash-settled with no TRS term calling for TRS Company ownership by the Fund, the Fund should not have ownership or reporting obligations under the 1934 Act. As we have also noted, the underlying securities on which the TRS ’ s to be executed by the Fund will be based are companies with business activities conducted within the bounds of applicable local and state law, but not necessarily the CSA. 
+ TRS Opinions 
+ Based on the relevant facts pertaining to the TRS’s as described in this Part IV of our letter, and subject to the TRS-specific qualifications, exceptions and limitations discussed below and the scope of this letter, we conclude, having due regard for legal considerations set forth herein, that, for purposes of the 1934 Act (as amended by Dodd-Frank) OR the CEA (also as amended by Dodd-Frank) and the CSA and with respect to only the TRS and assuming full compliance with state law by the Cannabis Company referenced in the TRS (for the reasons stated in this letter, we do not focus on 
+
+ 63 Greene et. al ., supra footnote 61, §1.02[2][a] n.26. 
+ 64 Jacobs, supra footnote 61, § 12.12. 
+ 65 Letter from Brian V. Breheny, Deputy Director, Division of Corporation Finance, SEC, to Judge Lewis A. Kaplan, United States District Judge, Southern District of New York (June 4, 2008), available at http://www.givsondunn.com/publications/Documents/CSX-BrianBrehenyLtrtoJudgeKaplan.pdf. 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 35 
+
+ state law and as we state in this letter, we are aware of no federal investigation of any such Cannabis Company): 
+ • The TRS Documentation (as defined below) should create legal, valid and binding obligations under New York law; 
+ • The TRS should not be rendered unenforceable due to a violation of the CSA; 
+ • The Fund should not have ownership, pursuant to Rule 13d-3 promulgated under the 1934 Act, with respect to the Cannabis Company referenced in TRS’s; 
+ • As each TRS has (as the extent of its Reference Assets and reference portfolio) a single security, the TRS is a security-based swap regulated and governed by the SEC, its rules, the 1934 Act and Dodd-Frank and such Reference Asset or portfolio, by itself, would not likely render the TRS unenforceable under the 1934 Act as amended by Dodd-Frank and the SEC rules promulgated thereunder; 
+ • The Fund and its beneficial owners should incur no regulatory exposure or regulatory liability solely because a court of competent jurisdiction in the future holds that the TRS’s, if characterized as security-based swaps, violate the CSA or the 1934 Act, as amended by Dodd-Frank, and in the event that the federal government declares at some future time that the TRS’s violate the CSA and/or the 1934 Act, as amended, the Fund can terminate the TRS on a no-fault basis and use mid-market values calculated pursuant Section 6(e) of the ISDA Master Agreement. 
+ The foregoing opinions are rendered at a “should” level of confidence, which involves a greater degree of certainty than a “more likely than not” opinion. However, the foregoing opinions and this letter are not stated and rendered with unqualified guarantees with airtight certainty for two reasons: 
+ • First, there is a void of on-point regulatory guidance by U.S. derivatives regulators ( i.e., the CFTC and SEC) with respect to OTC and exchange-traded derivatives referencing Cannabis Companies (including those companies, including, we assume for purposes of this letter, the TRS Companies, operating in compliance with state law) and (a) such regulators are currently evaluating the legality and enforceability of derivatives with the same or similar structure and legal documentation as the TRS’s before us and the regulators are basing their review on specific facts and new, to-be-proposed regulation and guidance which are not known to us as of the date hereof; and (b) exchanges and clearinghouses evaluating the legality of derivatives referencing hemp and/or cannabis companies are currently awaiting U.S. regulatory guidance on the application of 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 36 
+
+ the CSA and facts, legal issues and processes which are not known to us as of the date of this letter. 
+ • Secondly, we have not investigated (x) the TRS Companies to determine whether those companies are in compliance with all applicable law including state law; (y) the operational aspects of the Fund including but not limited to its performance of TRS Documentation obligations, responses to margin calls and/or other requests from the Fund’s counterparties in each TRS; (z) the compliance of the Fund with respect to the 1934 Act (we assume that the TRS is a security-based swap), 1940 Act diversification and other federal requirements which are or in the future may be applicable to the Fund. 
+ Accordingly, there can be no assurance that the SEC, the CFTC or other state and federal regulators of the TRS (or any one or more aspects of the derivative), as well as the DOJ and other departments, agencies or regulators, would agree with our legal analysis, conclusions and opinions and would not successfully challenge this letter or would not prevail if any challenge were litigated or if a regulatory enforcement action would take place. In light of the unavoidable realities and facts, including those referenced in (a) through (c) and (x) through (z) on the previous page, and, although this opinion represents our considered legal judgment, this has no binding effect and, therefore, there can be no assurance that the SEC, CFTC or other U.S. or state regulator, department or agency will not be able to successfully challenge the TRS’s on grounds of enforceability or any of the conclusions reached by us in this letter. We do not express any opinion with respect to the law of any jurisdiction outside of the United States, conflict of law principles or law, the rules of any derivatives exchange or clearinghouse, the internal policies of any party to the TRS or custodian or bank which may be involved in the performance of the TRS. The opinions concerning the TRS’s are delivered subject to this understanding and we are under no obligation to monitor the law or body of regulation to update this letter. Our opinion is subject to and is limited by the effects of bankruptcy, insolvency, reorganization, receivership, moratorium and similar laws including but not limited to state fraudulent transfer and conveyance laws, judicially developed doctrines in this area, general principles of equity including doctrines requiring consideration of the impracticability or impossibility or frustration of purpose relieving performance at the time of attempted enforcement as well as other rights, remedies and waivers contained in the TRS Documentation and any ancillary documents, schedules, instruments, side letters or other materials referenced therein. 
+ Our opinions with respect to the TRS are limited to the facts, matters and law expressly set forth herein and no opinion may be inferred or implied beyond what is expressly stated in this letter. Our TRS-related opinions are for the benefit of the Fund and its beneficial owners and may not be relied upon by any other person or entity without the express written consent of Seyfarth Shaw LLP. 
+
+ Legal Opinion prepared for 
+ Roundhill Financial Inc. 
+ with respect to 
+ Roundhill Cannabis ETF 
+ April 13, 2022 
+ Page 37 
+
+ We hereby consent to the filing of this opinion as an exhibit to the Fund’s Registration Statement on Form N-1A, including any amendments and supplements thereto. In giving such consent, we do not hereby admit that we are within the category of persons whose consent is required under Section 7 of the Securities Act, or the rules and regulations of the SEC thereunder. 
+ Sincerely yours, 
+ /s/ Seyfarth Shaw LLP

@@ -1,0 +1,686 @@
+EX-99.3
+ 5
+ ex99-3.txt
+ MASTER AGREEMENT
+
+ Exhibit 99.3
+
+ MASTER CROSS-PRODUCT NETTING, SETOFF, AND SECURITY AGREEMENT
+
+This Master Cross-Product Netting, Setoff, and Security Agreement (this
+"AGREEMENT") is made and entered into effective as of March 14, 2001 by, between
+and among The New Power Company, a Delaware corporation ("NEWPOWER"), Enron
+North America Corp., a Delaware corporation ("ENA"), and Enron Energy Services,
+Inc., a Delaware corporation ("EES," and together with ENA, collectively, the
+"ENRON PARTIES").
+
+ RECITALS
+
+ENA and NewPower are parties to that certain Enfolio(R) Master Firm
+Purchase/Sale Agreement, effective as of January 1, 2000 (as assigned to
+NewPower and together with all confirmations, annexes, appendices, and exhibits
+thereto and transactions thereunder, the "ENA-NEWPOWER ENFOLIO(R) MASTER
+AGREEMENT"), between ENA and Columbia Energy Services Corporation ("CES"), which
+was assigned by CES to NewPower (as amended, modified and assigned to NewPower
+pursuant to that certain Asset Purchase Agreement, dated June 29, 2000 (the
+"ASSET PURCHASE AGREEMENT").
+
+ENA and NewPower are parties to that certain ISDA Master Agreement, dated as of
+August 10, 2000 (together with all confirmations, annexes, appendices, and
+exhibits thereto and transactions thereunder, the "ENA-NEWPOWER ISDA MASTER
+AGREEMENT").
+
+NewPower Holdings, Inc., a Delaware corporation ("HOLDINGS") (f/k/a TNPC, Inc.,
+f/k/a EMW Energy Services Corp.) is the guarantor under that certain guaranty,
+dated as of March 14, 2001 (the "HOLDINGS GUARANTY", annexed hereto as Exhibit
+"A"), pursuant to which Holdings irrevocably and unconditionally guarantees,
+subject to the limitations specified therein, the obligations of NewPower under
+this Agreement and the Underlying Master Agreements in an aggregate amount up to
+$20 million, such Holdings Guaranty to be delivered by NewPower to the Enron
+Parties within 10 Business Days of the date hereof.
+
+Enron Corp., an Oregon corporation ("ENRON") is the guarantor under that certain
+guaranty, dated as of March 14, 2001 (the "ENRON GUARANTY", annexed hereto as
+Exhibit "B"), pursuant to which Enron irrevocably and unconditionally
+guarantees, subject to the limitations specified therein, the obligations of the
+Enron Parties under this Agreement and the underlying Master Agreements in an
+aggregate amount up to $105 million, such Enron Guaranty to be delivered by the
+Enron Parties to NewPower within 10 Business Days of the date hereof.
+
+EES and Holdings are parties to that certain Master Purchase & Sales Agreement,
+effective as of January 6, 2000 between EES and Holdings, which was assigned by
+Holdings to NewPower pursuant to that certain Assignment and Consent, dated as
+of March 1, 2001 (the "ASSIGNMENT AGREEMENT") between Holdings, NewPower and EES
+(as so assigned, together with all confirmations, annexes, appendices,
+amendments, and exhibits thereto and transactions thereunder, the "EES-NEWPOWER
+MASTER GAS AGREEMENT").
+
+EES and Holdings are parties to that certain Master Energy Purchase & Sale
+Agreement, effective as of January 6, 2000 between EES and Holdings, which was
+assigned by Holdings to NewPower pursuant to the Assignment Agreement (as so
+assigned, together with all
+
+confirmations, annexes, appendices, amendments, and exhibits thereto and
+transactions thereunder, the "EES-NEWPOWER MASTER POWER AGREEMENT").
+
+ The ENA-NewPower Enfolio(R) Master Agreement, the ENA-NewPower ISDA Master
+Agreement, the EES-NewPower Master Gas Agreement, and the EES-NewPower Master
+Power Agreement are referred to herein, collectively, as the "UNDERLYING MASTER
+Agreements", and each individually, as an "UNDERLYING MASTER AGREEMENT".
+
+Each Enron Party desires now to provide in this Agreement for its right to
+terminate, liquidate, net, setoff, and apply Collateral upon a Default by
+NewPower under any one or more of the Underlying Master Agreements as herein
+specified, including, without limitation, by permitting each and every Enron
+Party to terminate, liquidate, net, setoff, and apply Collateral across all of
+the Underlying Master Agreements and to treat the Underlying Master Agreements
+as a single agreement for such purposes, whether or not the Obligations arising
+under the Underlying Master Agreements are in connection with (a) cash settled
+Transactions or physically settled Transactions or (b) securities, forward
+contracts, commodities contracts, repurchase agreements, or swap agreements.
+NewPower desires now to provide in this Agreement for its right to terminate,
+liquidate, net, setoff, and apply Collateral upon a Default by any Enron Party
+under any one or more of the Underlying Master Agreements as herein specified,
+including, without limitation, by permitting NewPower to terminate, liquidate,
+net, setoff, and apply Collateral across all of the Underlying Master Agreements
+and to treat the Underlying Master Agreements as a single agreement for such
+purposes, whether or not the Obligations arising under the Underlying Master
+Agreements are in connection with (a) cash settled Transactions or physically
+settled Transactions or (b) securities, forward contracts, commodities
+contracts, repurchase agreements, or swap agreements.
+
+ NOW THEREFORE, for and in consideration of the mutual agreements herein
+made and other good and valuable consideration, the receipt and sufficiency of
+which are hereby acknowledged, including, without limitation, certain amendments
+to the Underlying Master Agreements, the Parties agree as follows:
+
+ 1. DEFINITIONS. (a) Defined terms used or incorporated by reference in
+this Agreement and not otherwise defined herein have the same meanings in this
+Agreement as given to them by the respective Underlying Master Agreement. In the
+event of any conflict or inconsistency between a term defined herein and in any
+of the Underlying Master Agreements, such term as used in this Agreement shall
+govern and have the meaning ascribed to it in this Agreement.
+
+ (b) The following terms used in this Agreement are defined as follows:
+
+ "BUSINESS DAY" means a day on which commercial banks and foreign exchange
+markets settle payments and are open for general business in the location of the
+head office of each Party.
+
+ "CODE" means the United States Bankruptcy Code, 11 U.S.C.ss.ss.101-1330.
+
+ "COLLATERAL" has the meaning set forth in Section 6.
+
+ 2
+
+ "COVENANT COMPLIANCE CERTIFICATE" has the meaning set forth in section
+7(c).
+
+ "CREDIT RATING" means with respect to an entity, on any date of
+determination, the respective ratings then assigned to such entity's unsecured,
+senior long-term debt or depository obligations (not supported by third-party
+credit enhancement) by S&P, Moody's or other specified rating agency or agencies
+as may be agreed to by the Parties.
+
+ "DEBT" has the meaning set forth in Section 101 of the Code.
+
+ "DEFAULT" has the meaning set forth in Section 2.
+
+ "DEFAULTING PARTY" means an Enron Party when a Default has occurred with
+respect to any Enron Party ("DEFAULTING ENRON PARTY), and NewPower when a
+Default has occurred with respect to NewPower ("DEFAULTING NEWPOWER").
+
+ "ENRON AFFILIATES" means each Enron Party and each of its now and
+hereafter existing affiliates.
+
+ "EXPOSURE THRESHOLD" means for each Party, the respective amount
+designated for such Party in Section 6(g).
+
+ "FINAL SETTLEMENT AMOUNT" has the meaning set forth in Section 4.
+
+ "GAAP" means generally accepted accounting principles established by the
+Financial Accounting Standards Board.
+
+ "GUARANTIES" means, collectively, the Holdings Guaranty and the Enron
+Guaranty.
+
+ "LETTER OF CREDIT" means an irrevocable, transferable standby letter of
+credit, in a form acceptable to the beneficiary thereof, issued by a United
+States commercial bank or a foreign bank with a United States branch, with such
+bank having a credit rating of "A-" or higher from S&P or "A3" or higher from
+Moody's.
+
+ "MATERIAL ADVERSE CHANGE" means (a) with respect to NewPower, either that
+(i) the NewPower Affiliates hold, on a consolidated basis, unencumbered cash,
+cash equivalents and/or marketable securities less debt, surety bonds, letters
+of credit and an amount equal to obligations claimable against guarantees issued
+by Holdings in an aggregate amount of less than $100,000,000 or (ii) the
+aggregate value of all of the NewPower Affiliates' tangible assets on a
+consolidated basis exceeds the aggregate value of all of their liabilities on a
+consolidated basis by an amount of less than $300,000,000, in both cases
+determined in accordance with GAAP, and (b) with respect to the Enron Parties,
+either that (i) Enron is assigned a Credit Rating below "BBB-" by S&P or below
+"Baa3" by Moody's or (ii) Enron fails to have a Credit Rating.
+
+ 3
+
+ "MOODY'S" means Moody's Investor Services, Inc. or a successor (if any).
+
+ "NEWPOWER AFFILIATES" means NewPower and each of its now and hereafter
+existing affiliates.
+
+ "NON-DEFAULTING PARTY" means any Enron Party when a Default has occurred
+with respect to NewPower, and NewPower when a Default has occurred with respect
+to any Enron Party.
+
+ "OBLIGATION" or "OBLIGATIONS" means each and every obligation or liability
+NewPower owes to any Enron Party or any Enron Party owes to NewPower, whether
+financial or physical including, without limitation, payment and delivery
+obligations, each and every obligation or requirement under an Underlying Master
+Agreement, a Transaction, or hereunder, any Debt, any obligation arising under a
+guarantee, with respect to an Underlying Master Agreement that NewPower has
+provided to any Enron Party or than any Enron Party has provided to NewPower,
+and each and every obligation or requirement under any Transaction, Underlying
+Master Agreement, or this Agreement to maintain or deliver Collateral with
+respect thereto (whether or not performance is due) or in connection with a
+guarantee, or acceleration, cancellation, termination, or liquidation of a
+guarantee, whether arising under an Underlying Master Agreement, this Agreement,
+heretofore, or hereafter and whether fixed, matured, unmatured, liquidated,
+unliquidated, or contingent.
+
+ "PARTY" means NewPower, on the one hand, or ENA, and/or EES, on the other
+hand, as the context indicates.
+
+ "S&P" means Standard & Poor's, a division of the McGraw-Hill Companies, or
+a successor (if any).
+
+ "SETTLEMENT AMOUNT" means, in respect of any Underlying Master Agreement,
+the net amount that is due and payable by one Party to the other Party upon (A)
+such agreement having been accelerated, terminated, liquidated, or cancelled in
+accordance with the terms of the Underlying Master Agreement (including by way
+of automatic early termination), (B) the resulting Obligations of each Party
+having been determined in accordance with the terms of the Underlying Master
+Agreement, and (C) in accordance with the applicable Underlying Master
+Agreement, those Obligations having been netted and reduced by the exercise of
+rights to apply margin or other credit support delivered under or held in
+connection with such agreement.
+
+ "TRANSACTION" or "TRANSACTIONS" means each and every trade, transaction,
+or other open contractual commitment, between any Enron Party and NewPower
+arising under the Underlying Master Agreements.
+
+ "UNDERLYING MASTER AGREEMENTS CLOSE-OUT" has the meaning set forth in
+Section 2.
+
+2. DEFAULT AND REMEDIES. (a) Each of the occurrence of (i) a default, event of
+default, or other event on the basis of which a Party has the contractual right
+to accelerate, terminate (including
+
+ 4
+
+automatic early termination), liquidate, or cancel all Transactions under any of
+the Underlying Master Agreements and such Party exercises its contractual right
+to accelerate, terminate, liquidate, or cancel all Transactions under such
+agreement, (ii) any representation or warranty made or repeated by a Party
+hereunder proves to have been incorrect or misleading in any material respect
+when made or repeated, (iii) a Party being in violation of a covenant made
+hereunder, or (iv) a Party's failure to comply with Collateral requirements
+under Section 6(g) hereof, constitutes a "DEFAULT" under this Agreement without
+regard to any cure periods or conditions relating to the giving of notice or the
+passage of time provided for in any of the Underlying Master Agreements;
+provided, the failure to provide a Covenant Compliance Certificate as specified
+in Section 7(c) of this Agreement shall constitute a Default hereunder only if
+such failure is not remedied on or before two Business Days after written notice
+of such failure is provided to NewPower.
+
+ (b) Upon the occurrence and continuance of a Default, the Non-defaulting
+Party may, by not more than 20 days notice to the Defaulting Party specifying
+the relevant Default (i) consider and declare the Defaulting Party in default of
+all of the Underlying Master Agreements and all Transactions thereunder and by
+designating a date not earlier than the date such notice is effective but not
+later than the date that is 10 days after the date such notice is effective,
+accelerate, cancel, terminate, and liquidate, or otherwise close-out all
+Transactions as of such designated date; (ii) setoff, net, and/or recoup the
+Non-defaulting Party's Obligations to the Defaulting Party against each
+Defaulting Party's Obligations to the Non-defaulting; (iii) retain any
+Collateral; (iv) with respect to a Defaulting Party, withhold payment and
+performance of the Non-defaulting Party's Obligations to the Defaulting Party to
+pay, secure, setoff against, net, and/or recoup any Defaulting Party's
+Obligations to the Non-defaulting; (v) foreclose, collect, sell, or otherwise
+liquidate any Collateral in any order and at any time, and apply the proceeds
+thereof to satisfy a Defaulting Party's Obligation to any Non-defaulting Party;
+(vi) convert any Obligation from one currency into another currency as set forth
+in Section 5; and/or (vii) take any other action permitted by law or in equity
+or by any Transaction necessary or appropriate to protect, preserve, or enforce
+its rights or to reduce any risk of loss or delay. Any one or more of the
+foregoing acts shall be referred to herein as the "UNDERLYING MASTER AGREEMENTS
+CLOSE-OUT."
+
+ (c) Any requirements under the Underlying Master Agreements for
+accelerating, terminating, liquidating, canceling, or otherwise closing-out
+Transactions thereunder are hereby amended and shall be satisfied by compliance
+with the notice provisions set forth in Sections 2(b) and 12 of this Agreement.
+If a Default occurs and the Non-defaulting Party does not elect to cause the
+Underlying Master Agreements Close-Out, each Party shall retain its rights and
+obligations under each Underlying Master Agreement with respect thereto.
+
+ 3. SETOFF. Upon (a) the occurrence and continuance of a Default in respect
+of a Defaulting Party and (b) the Non-defaulting Party's exercise of the
+Underlying Master Agreements Close-Out, the Non-defaulting Party may, without
+prior notice, setoff (including by set-off, offset, combination of accounts,
+retention, or withholding across or within each or all of the Underlying Master
+Agreements) any sum, amount, or Obligation (whether physically or financially
+
+ 5
+
+settled, matured or unmatured) owed by any Non-defaulting Party to any
+Defaulting Party against any sum, amount, or Obligation (whether physically or
+financially settled, matured or unmatured) owed by any Defaulting Party to any
+Non-defaulting Party. The foregoing is in addition to, and not in limitation of,
+any other right or remedy available to the Non-defaulting Party (including any
+right of setoff, offset, combination of accounts, deduction, counterclaim,
+retention, or withholding), whether arising by agreement, (including, without
+limitation, any of the Underlying Master Agreements or the Guaranties and with
+particularity, rights therein with respect to the Parties to this Agreement and
+their affiliates), applicable law, equity, or otherwise.
+
+ 4. SETTLEMENT. Upon (a) the occurrence and continuation of a Default and
+(b) the Non-defaulting Party's exercise of the Underlying Master Agreements
+Close-Out, the Settlement Amount under each of the Underlying Master Agreements
+shall be determined in accordance with the terms of such agreement as if a
+Default has occurred, giving the Non-defaulting Party the right to accelerate,
+terminate and liquidate the Transactions under each Underlying Master Agreement
+in accordance with the terms of each such agreement and, upon such
+determination, all Settlement Amounts shall be netted and reduced by the
+exercise of rights to apply margin or other credit support delivered under or
+held in connection therewith and pursuant to all rights granted in this
+Agreement (the "FINAL SETTLEMENT AMOUNT"); provided, if a Settlement Amount has
+been setoff in whole or in part, such Settlement Amount, to the extent of such
+setoff, shall be deemed to have been discharged and no longer due under the
+relevant Underlying Master Agreement. Upon determination of the Final Settlement
+Amount the Non-defaulting Party shall provide the Defaulting Party with a
+statement showing in reasonable detail the calculation of the Final Settlement
+Amount (including all relevant quotations with respect to the Transactions). The
+Final Settlement Amount shall be payable by the Party from whom such payment is
+due on the third Business Day after the statement is provided. In the event of a
+dispute as to the Final Settlement Amount payable by a Party, such Party shall,
+within the time proscribed herein, pay the undisputed amount of the Final
+Settlement Amount. The Parties shall in good faith seek to resolve such disputed
+amount of the Final Settlement Amount without delay. If the Parties are unable
+to resolve the disputed amount of the Final Settlement Amount within 10 days,
+the matter shall be submitted to arbitration in accordance with Section 16
+hereof. The Final Settlement Amount shall bear interest at the highest rate
+provided for in any of the Underlying Master Agreements; provided, such rate
+shall not exceed the maximum non-usurious interest rate, if any, that at any
+time or from time to time may be contracted for, taken reserved, charged, or
+received thereon under any applicable law.
+
+ 5. CURRENCY. In order to effect the provisions of this Agreement, any
+amounts subject hereto may be converted into another currency specified in any
+of the Underlying Master Agreements at the rate of exchange at which the Party
+so converting, acting in a reasonable manner and in good faith, would be able to
+purchase the relevant amount of the currency being converted; provided, amounts
+shall not be converted into a currency that is specified in fewer than fifty
+percent (50%) of the Transactions at the time of such conversion.
+
+ 6. SECURITY INTEREST AND LIEN; LETTERS OF CREDIT; EXPOSURE THRESHOLDS. (a)
+Each Enron Party hereby grants to NewPower a continuing security interest in and
+assigns (notwithstanding any limitation in any of the Underlying Master
+Agreements) to NewPower (i) all securities, monies, or other property now or
+hereafter held or carried by NewPower in any
+
+ 6
+
+accounts of any Enron Party or otherwise held or subject to the control or
+dominion of NewPower or any agent thereof (including any margin posted) under
+this Agreement or the Underlying Master Agreements, (ii) any rights any Enron
+Party has in any Obligations of NewPower arising under this Agreement or the
+Underlying Master Agreements, and (iii) all proceeds of or distributions on any
+of the foregoing.
+
+ (b) NewPower hereby grants to each Enron Party a continuing security
+interest in and assigns (notwithstanding any limitation in any of the Underlying
+Master Agreements) to each Enron Party (i) all securities, monies, or other
+property now or hereafter held or carried by any Enron Party in any accounts of
+NewPower or otherwise held or subject to the control or dominion of any Enron
+Party or any agent thereof (including any margin posted) under this Agreement or
+the Underlying Master Agreements, (ii) any rights NewPower has in any
+Obligations of any Enron Party arising under this Agreement or the Underlying
+Master Agreements, and (iii) all proceeds of or distributions on any of the
+foregoing.
+
+ All property set forth in the foregoing paragraphs (a) and (b), and all
+Letters of Credit, are referred to herein as "COLLATERAL."
+
+ (c) All Collateral pledged by any Party in connection with a particular
+Transaction or Transactions shall secure first its Obligations under that
+Transaction or those Transactions, and second its Obligations under all other
+Transactions. In furtherance of the foregoing, any Underlying Master Agreements
+more particularly describing any property that is Collateral is hereby
+incorporated by reference herein as if fully set forth herein.
+
+ (d) Each Enron Party agrees to act as the agent and bailee of each other
+Enron Party in respect of the Collateral and shall hold any Collateral both as
+secured party and as agent and bailee of each other Enron Party as a secured
+party. NewPower hereby irrevocably appoints each Enron Party severally to be its
+attorney in the name of and on behalf and as the act and deed of NewPower or
+otherwise under a power coupled with an interest to execute, sign, seal, and
+deliver any documents which each Enron Party may require for perfecting its
+security interest in the Collateral or upon the occurrence of a Default vesting
+the Collateral in each Enron Party or its nominees or any purchaser, and
+otherwise generally to sign, seal, deliver, and otherwise perfect any such legal
+or other charge or assignment and all documents, and to do all such acts and
+things as may be required for the full exercise of the powers hereby conferred,
+including filing any financing statements and charges, and upon the occurrence
+of a Default, any sale, lease, realization, or other disposition of the
+Collateral or the enforcement of any of the Enron Parties' rights hereunder or
+otherwise.
+
+ (e) Each Enron Party hereby irrevocably appoints NewPower to be its
+attorney in the name of and on behalf and as the act and deed of such Enron
+Party or otherwise under a power coupled with an interest to execute, sign,
+seal, and deliver any documents which NewPower may require for perfecting its
+security interest in the Collateral or upon the occurrence of a Default vesting
+the Collateral in NewPower or its nominees or any purchaser, and otherwise
+generally to sign, seal, deliver, and otherwise perfect any such legal or other
+charge or assignment and all documents, and to do all such acts and things as
+may be required for the full
+
+ 7
+
+exercise of the powers hereby conferred, including filing any financing
+statements and charges, and upon the occurrence of a Default, any sale, lease,
+realization, or other disposition of the Collateral or the enforcement of
+NewPower's rights hereunder or otherwise.
+
+ (f) Notwithstanding any provisions of any of the Underlying Master
+Agreements, all Letters of Credit permitted as credit support thereunder issued
+for the account of NewPower shall name each Enron Party as a beneficiary thereof
+and shall provide for the joint and several right of each beneficiary to draw
+thereon. The Parties agree and covenant to each other to forthwith and without
+delay cause the amendment or reestablishment of all Letters of Credit issued for
+its account pursuant to the Underlying Master Agreements in accordance with the
+foregoing criteria.
+
+ (g) Each Party to an Underlying Master Agreement agrees that the
+provisions thereof are hereby amended to replace the determination of separate
+Collateral requirements under each Underlying Master Agreement with the
+determination of an aggregate net Collateral requirement under all Underlying
+Master Agreements on the basis of the provisions of this Agreement. The exposure
+thresholds applicable to Collateral requirements however defined or set forth in
+the Underlying Master Agreements shall not apply and the following Exposure
+Thresholds shall apply to the aggregate exposure under all of the Underlying
+Master Agreements: with respect to the Enron Parties, an aggregate amount equal
+to U.S.$100,000,000, and, with respect to NewPower, an aggregate amount equal to
+U.S.$15,000,000; provided, the Exposure Threshold with respect to a Party shall
+be zero upon the occurrence and during the continuance of, with respect to such
+Party, a Material Adverse Change or upon the occurrence of a Default.
+Notwithstanding the fact that other of the Underlying Master Agreements may
+provide otherwise, the evaluation of aggregate exposures and the Collateral
+requirements (including as to type and amount) under this Agreement shall occur
+in accordance with the provisions, criteria, and timing for such purpose, set
+forth in the Credit Support Annex to the ENA-NewPower ISDA Master Agreement
+("Credit Support Annex") including such provisions, criteria and timing
+applicable to "Transfer Timing" set forth in Paragraph 4(b) thereof and "Events
+of Default" set forth in Paragraph 7 thereof; provided, however, that (i) the
+Exposure Thresholds set forth above with respect to each Party shall apply to
+this Agreement and shall be treated in the same manner as "Threshold" is treated
+in Paragraph 3 of the Credit Support Annex (including with respect to the
+application and effect of "Exposure" in such Paragraph 3 of the Credit Support
+Annex) (and including the applicable provisions of Paragraph 13 of the Credit
+Support Annex) and (ii) the Letter of Credit provisions and any form for a
+Letter of Credit for the account of NewPower are hereby conformed to (A) require
+the names of each Enron Party to be stated as beneficiaries of the Letter of
+Credit, and (B) allow such beneficiaries individually, jointly, or severally to
+draw on such Letter of Credit upon any Default hereunder by NewPower, all in a
+manner satisfactory to the Enron Parties.
+
+ 7. REPRESENTATIONS AND WARRANTIES; COVENANTS. (a) Each Party represents
+and warrants to the other that (i) it is duly authorized to execute and deliver
+this Agreement and to perform its obligations hereunder and has taken all
+necessary actions to authorize such execution, delivery, and performance, (ii)
+the person signing this Agreement on its behalf is
+
+ 8
+
+duly authorized to do so on its behalf, and (iii) this Agreement constitutes its
+legal, valid, and binding obligation, enforceable against it in accordance with
+its terms, subject to applicable bankruptcy, reorganization, insolvency,
+conservatorship, receivership, moratorium, or other similar laws affecting
+creditors' rights generally and subject, as to enforceability, to equitable
+principles of general application (regardless of whether enforcement is sought
+in a proceeding in equity or at law). Each Party represents and warrants to the
+other that it has not assigned, transferred, created, or permitted to exist any
+lien or other encumbrance on, or otherwise disposed of, or purported to assign,
+transfer, create, or permit to exist any lien or other encumbrance on, or
+otherwise dispose of, any of its rights to any amounts that may be owed to it
+under any of the Underlying Master Agreements to any third party.
+
+ (b) Each Party covenants to the other that so long as this Agreement is in
+effect, it will not assign, transfer, create, or permit to exist any lien or
+other encumbrance on, or otherwise dispose of, any of its rights to any amounts
+that may be owed to it under any of the Underlying Master Agreements, to any
+third party.
+
+ (c) NewPower covenants that within five (5) Business Days after receiving
+a request from Enron in accordance with the provisions of Section 12, it shall
+deliver to Enron a certificate of a responsible officer of Holdings (a "COVENANT
+COMPLIANCE CERTIFICATE") certifying that a Material Adverse Change with respect
+to NewPower does not then exist. The Covenant Compliance Certificate shall be
+substantially in the form attached hereto as Exhibit "C" and shall, among other
+requirements specified therein, state in Attachment 1 Item III the then-current
+amount claimable against Holdings under guaranties issued by Holdings. In the
+event NewPower delivers a Covenant Compliance Certificate that does not show the
+amounts claimable against Holdings under such guaranties, then in such case, the
+amount claimable against Holdings under such guaranties shall be deemed to be
+the full face amount of such guaranties, and the existence of a Material Adverse
+Change with respect to NewPower shall be determined accordingly.
+
+ 8. INTERPRETATION AND HEADINGS. The Parties intend that this Agreement
+constitutes and should be deemed to be a "master netting agreement" and that the
+Parties are and should be deemed to be "master netting agreement participants"
+within the meaning of and as such terms are used in any law, rule, regulation,
+statute or order applicable to the Parties' rights herein, whether now or
+hereafter enacted or made applicable. The use of headings and subheadings in
+this Agreement, and the division of this Agreement into sections and
+sub-sections, are for convenience of reference only and shall not affect the
+interpretation or construction of this Agreement.
+
+ 9. GOVERNING LAW. The rights of the Parties under this Agreement shall be
+in addition to, and not in limitation or exclusion of, any other rights that
+they may have (whether by agreement, operation of law, or otherwise). This
+Agreement shall be governed by, and construed in accordance with the laws of the
+jurisdiction specified in the Underlying Master Agreements; provided, in the
+event of any inconsistency as to the governing law under any of the Underlying
+Master Agreements, this Agreement shall be construed in accordance with the
+substantive law of the State of New York (without reference to its choice of law
+doctrine).
+
+ 9
+
+ 10. JURISDICTION. Any provisions in the Underlying Master Agreements
+regarding jurisdiction, waiver of immunity, waiver of trial by jury, and process
+shall apply to this Agreement in the same manner and to the same extent as if
+such references were contained in this Agreement.
+
+ 11. ASSIGNMENT. Any assignment or other transfer of an Underlying Master
+Agreement and Transactions subject thereto, whether by any permitted
+consolidation or amalgamation with, merger with or into, or transfer of
+substantially all of its assets to, another entity, or as otherwise permitted
+pursuant to the terms of an Underlying Master Agreement, by any Enron Party to
+any Enron Affiliate, or by NewPower to a NewPower Affiliate, shall be made
+subject to this Agreement and provide that such assignee or other transferee
+executes this Agreement as a condition to the effectiveness of any such
+assignment or other transfer. Other than as provided in the preceding sentence,
+this Agreement shall not be assigned (whether by way of security or otherwise)
+by any Enron Party or NewPower without the prior written consent of the
+non-assigning Party pROVIDED, HOWEVER, that (a) if an assignment is to an
+affiliate that has equal or greater financial capability, such consent shall not
+be unreasonably withheld and (b) if an assignment is to an unaffiliated
+third-party, such consent may be given or withheld in the sole discretion of the
+non-assigning Party. Any purported assignment or other transfer that is not in
+compliance herewith shall be void.
+
+ 12. NOTICES. (a) Any and all notices, statements, demands, or other
+communications hereunder shall be given by a Party to the other Party by
+telephone, mail, facsimile, e-mail, electronic message, or messenger, to the
+individuals and at the facsimile numbers, e-mail addresses or other locations as
+appropriate and as set forth in the Underlying Master Agreements and as set
+forth in Section 12(b) below. In the event there is an inconsistency in the
+notice provisions of the Underlying Master Agreements, notice that is in
+substantial compliance with such provision in any of the Underlying Master
+Agreements shall be effective notice hereunder provided that such notice also
+complies with Section 12(b) below. Any notice, statement, demand, or other
+communication hereunder will be deemed delivered on the day and at the time on
+which it is received or, if not received, on the day and at the time on which
+its delivery was in good faith attempted; provided, any notice given by a Party
+to the other Party by telephone shall be deemed delivered only if (i) such
+notice is followed by written confirmation thereof, and (ii) at least one of the
+other means of providing notice that are specifically listed above has
+simultaneously been attempted in good faith by the notifying Party.
+
+ (b) In addition to the notice provisions set forth in Section 12(a) above,
+notice under this Agreement shall be effective only if also given as follows:
+
+If to NewPower: Address: One Manhattanville Road
+ Purchase, N.Y. 10577
+ Telephone: (914) 697-2668
+ Facsimile: (914) 687-2462
+ Attention: Managing Director, Law and Government Affairs
+
+ 10
+
+If to ENA: Enron North America Corp.
+ 1400 Smith Street
+ Houston, Texas 77002
+ Telephone: (713) 853-3300
+ Facsimile: (713) 646-4816
+ Attention: Director, Documentation Department
+
+ with copies to:
+
+ Enron North America Corp.
+ 1400 Smith Street
+ Houston, Texas 77002
+ Telephone: (713) 853-3300
+ Facsimile: (713) 646-4818
+ Attention: Assistant General Counsel, Trading Group
+
+ and
+
+ Enron Corp
+ 1400 Smith Street
+ Houston, Texas 77002
+ Telephone: (713) 853-6161
+ Facsimile: (713) 646-2534
+ Attention: Corporate Secretary
+
+If to EES: Enron Energy Services, Inc.
+ Telephone: (713) 853-7413
+ Facsimile: (713) 646-2379
+ Attention: General Counsel
+
+ 13. CONFLICTS AND INCONSISTENCIES. In the event of any conflict or
+inconsistency between this Agreement and any of the Underlying Master Agreements
+concerning the matters set forth in this Agreement, the provisions of this
+Agreement shall govern.
+
+ 14. CONTINUATION OF MASTER AGREEMENTS AND SEVERABILITY. (a) Except as
+amended by this Agreement, the Underlying Master Agreements shall remain in full
+force and effect. Subject to Section 14(b), in the event any one or more of the
+provisions contained in this Agreement should be held invalid, illegal, or
+unenforceable in any respect under the law of any jurisdiction, the validity,
+legality, and enforceability of the remaining provisions under the law of such
+jurisdiction, and the validity, legality, and enforceability of such provisions
+and any other provisions under the law of any other jurisdiction, shall not in
+any way be affected or impaired thereby.
+
+ 11
+
+ (b) If either Sections 2 or 3 hereof is deemed or held to be
+invalid, illegal, or unenforceable, this Agreement shall be deemed to be null
+and void in its entirety and without any further force or effect.
+
+ 15. NO WAIVER. A failure or delay in exercising any right, power, or
+privilege in respect of the Underlying Master Agreements or this Agreement will
+not be presumed to operate as a waiver of that right, power, or privilege, and a
+single or partial exercise of any right, power, or privilege will not be
+presumed to preclude any subsequent or further exercise of that right, power, or
+privilege, or the exercise of any other right, power, or privilege.
+
+ 16. ARBITRATION. Any claim, counterclaim, demand, cause of action,
+dispute, and controversy arising out of or relating to this Agreement or the
+relationship established by this Agreement, any provision hereof, the alleged
+breach thereof, or in any way relating to the subject matter of this Agreement,
+involving the Parties and/or their respective representatives (collectively, the
+"CLAIMS") shall be resolved by binding arbitration. Arbitration shall be
+governed by the Federal Arbitration Act and conducted in accordance with the
+Commercial Arbitration Rules of the American Arbitration Association. The
+validity, construction, and interpretation of this agreement to arbitrate, and
+all procedural aspects of the arbitration conducted pursuant hereto shall be
+decided by the arbitrators. In deciding the substance of the Claims, the
+arbitrators shall refer to the governing law. It is agreed that the arbitrators
+shall have no authority to award treble, exemplary or punitive damages of any
+type under any circumstances whether or not such damages may be available under
+state or federal law, or under the Federal Arbitration Act, or under the
+Commercial Arbitration Rules of the American Arbitration Association, the
+Parties hereby waiving their right, if any, to recover any such damages. The
+arbitration proceeding shall be conducted in Houston, Texas. Within thirty days
+of the notice of initiation of the arbitration procedure, each of (a) one of the
+Enron Parties and (b) NewPower shall select one arbitrator. The two arbitrators
+shall select a third arbitrator. The third arbitrator shall be a person who has
+over eight years professional experience in over-the-counter derivative products
+and who has not previously been employed by any party and does not have a direct
+or indirect interest in any party or the subject matter of the arbitration.
+While the third arbitrator shall be neutral, the two party-appointed arbitrators
+are not required to be neutral, and it shall not be grounds for removal of
+either of the two party-appointed arbitrators or for vacating the arbitrators'
+award that either of such arbitrators has past or present minimal relationships
+with any party. To the fullest extent permitted by law, any arbitration
+proceeding and the arbitrators' award shall be maintained in confidence by the
+Parties.
+
+ 17. TERM. This Agreement shall continue in effect from the date
+hereof until terminated by agreement of the Parties; however, notwithstanding
+the foregoing, any Party shall have the right to terminate this Agreement by
+written notice to the other Parties upon such time as there are fewer than two
+Underlying Master Agreements in effect that have Transactions.
+
+ 18. AMENDMENT. This Agreement may not be amended, except by a signed
+amendment to this Agreement. Confirmations will not serve as an amendment.
+
+ 12
+
+IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be executed
+by facsimile or original signature and in multiple counterparts, each of whom is
+deemed an original and effective as one document, all as of the date first
+written above.
+
+ ENRON NORTH AMERICA CORP.
+
+ By: /s/ William S. Bradford
+ ---------------------------------
+ Print Name: William S. Bradford
+ -------------------------
+ Title: Vice President
+ ------------------------------
+
+ ENRON ENERGY SERVICES, INC.
+
+ By: /s/ Jimmie L. Williams
+ ---------------------------------
+ Print Name: Jimmie L. Williams
+ -------------------------
+ Title: Vice President
+ ------------------------------
+
+ THE NEW POWER COMPANY
+
+ By: /s/ William J. Cronin
+ ---------------------------------
+ Print Name: William J. Cronin
+ -------------------------
+ Title: Managing Director
+ ------------------------------
+
+ 13

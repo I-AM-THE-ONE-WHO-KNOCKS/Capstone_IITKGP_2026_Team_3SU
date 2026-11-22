@@ -1,0 +1,780 @@
+EX-99.3
+ 4
+ d843592dex993.htm
+ EX-99.3
+
+ EX-99.3 
+
+ Exhibit 99.3 
+
+ [DEALER LOGO] 
+
+ To: 
+
+ [PERSHING SQUARE FUND] 
+
+ Attention: 
+
+ c/o Pershing Square Capital Management, L.P.
+
+ 787 Eleventh Avenue, 9th Floor
+ New York, NY 10019
+
+ Date: 
+
+ December 2, 2019 
+
+ SHARE FORWARD MASTER CONFIRMATION 
+
+ Dear Sir/Madam: 
+ The purpose of this Share Forward Master
+Confirmation (this “ Master Confirmation ”) is to set forth the general terms and conditions of one or more Transactions (each a “ Transaction ”) that may be entered into between you
+(“ Counterparty ”) and us (“ Dealer ”) on the Trade Date specified in a Supplemental Confirmation, each substantially in the form of Schedule A hereto, confirming the specific terms and conditions of a particular
+Transaction (each a “ Supplemental Confirmation ”). Each Transaction, if executed, will be a Forward, the terms of which are specified in the Master Confirmation as supplemented by the Supplemental Confirmation (together, the
+“ Confirmation ”). The entry into this Master Confirmation does not obligate either party to enter into any Transaction. 
+ This Confirmation
+constitutes a “Confirmation” as referred to in the Agreement specified below. This Confirmation hereby incorporates by reference the 2002 ISDA Equity Derivatives Definitions (the “ Equity Definitions ”) and the 2006 ISDA
+Definitions (the “ Swap Definitions ”), each as published by the International Swaps and Derivatives Association, Inc. In the event of any inconsistency between the Equity Definitions and the Swap Definitions, the Equity Definitions
+will govern. In the event of any inconsistency between either the Equity Definitions or the Swap Definitions and this Confirmation, this Confirmation will govern. For purposes of the Equity Definitions, each Transaction shall be a Share Forward
+Transaction. 
+ The Confirmation evidences a complete and binding agreement between Dealer and Counterparty as to the terms of the Transaction to which the
+Confirmation relates. The Confirmation shall supplement, form a part of and be subject to the 2002 ISDA Master Agreement (the “ Agreement ”) as published by ISDA entered into between the parties on [DATE], including the Schedule
+thereto and the 1994 Credit Support Annex (Bilateral Form—New York Law) (the “ CSA ”) to such Schedule, as amended from time to time. In the event of any inconsistency between the provisions of the Agreement or the CSA and the
+Confirmation, the Confirmation will govern for the purpose of the Transaction to which the Confirmation relates. 
+
+ 1. 
+ The terms of each Transaction to which this Confirmation relates are as follows: 
+
+ General Terms: 
+
+ Trade Date:
+
+ As specified in the relevant Supplemental Confirmation 
+
+ Valuation Date:
+
+ As specified in the relevant Supplemental Confirmation 
+
+ Shares:
+
+ The common stock of The Howard Hughes Corporation (the “ Issuer ”) (ticker symbol: HHC) 
+
+ Exchange:
+
+ The New York Stock Exchange 
+
+ 1/17 
+
+ Related Exchange:
+
+ None 
+
+ Buyer:
+
+ Counterparty 
+
+ Seller:
+
+ Dealer 
+
+ Number of Shares:
+
+ As specified in the relevant Supplemental Confirmation 
+
+ Prepayment:
+
+ Not Applicable 
+
+ Variable Obligation:
+
+ Not Applicable 
+
+ Forward Price:
+
+ As specified in the relevant Supplemental Confirmation 
+
+ General Settlement Terms: 
+
+ Condition to Physical Settlement:
+
+ The Buyer may not early terminate this Transaction or proceed with Physical Settlement on the Settlement Date until (a) any required filings and any applicable waiting periods under the Hart-Scott-Rodino Antitrust
+Improvements Act of 1976, as amended, relating to the transactions contemplated hereby, shall have been made or shall have expired or been terminated, as applicable or (b) the Buyer has determined that the Buyer has an exemption for any such
+filings (the “ Physical Settlement Condition ”). Any such exercise shall constitute a representation by the Buyer that such filings have been made and any such waiting periods have expired or that the Buyer has determined that the
+Buyer has an exemption from such filings. 
+
+ Condition to Cash Settlement:
+
+ The Buyer represents to the Seller that the election by Buyer of Cash Settlement (either upon early termination or on the scheduled maturity of the Transaction) is not in violation of Section 10(b) of the Securities Exchange
+Act of 1934, as amended (the “ 1934 Act ”). 
+
+ In any event, upon a Cash Settlement, the Buyer will represent to the Seller that either (1) Buyer is or has been for the preceding three months an “affiliate” (as defined under Rule 144 under the Securities Act of
+1933, as amended (the “ 1933 Act ”)) of the Issuer, (2) Buyer is not and has not been for the preceding three months an “affiliate” of the Issuer, or (3) Buyer should be deemed an “affiliate” of the
+Issuer solely for purposes of all Transactions under this Master Confirmation. 
+
+ Procedures for Early Termination: 
+
+ Latest Early Termination Time:
+
+ The scheduled closing time of the Exchange 
+
+ 2/17 
+
+ Early Termination Right:
+
+ The Buyer may early terminate this Transaction (in whole or in part) by notice to the Seller prior to the Latest Early Termination Time on or before the Valuation Date (such date, the “ Early Termination Date ”).
+In such case, the Valuation Date will be deemed to be the Early Termination Date and the portion of the Number of Shares subject to early termination will be settled in accordance with the terms of this Master Confirmation or as otherwise agreed by
+the parties, with the remaining portion of the Number of Shares (if any) continuing under the terms of this Confirmation; provided that if the date such notice is delivered is the Initial Averaging Date with respect to such Early Termination
+Date, Seller may treat such Averaging Date as an Averaging Date in part, in which case the Calculation Agent shall make appropriate adjustments to the VWAP Price for such Averaging Date and the Settlement Price for the Number of Shares subject to
+early termination. 
+ Settlement Terms: 
+
+ Settlement Method:
+
+ Physical Settlement (unless Cash Settlement is elected by Counterparty in accordance with the terms hereof); provided that, in respect of Physical Settlement, (i) clause (b) of Section 9.4 of the Equity
+Definitions is hereby amended by adding the words “as soon as practicable after the Valuation Date, but in any event no later than” before the words “the date that falls one Settlement Cycle following the Valuation Date” and
+(ii) clause (a)(i) of Section 9.2 of the Equity Definitions is hereby amended by adding “ plus an amount equal to the Financing Payment Amount,” before the words “and Seller will deliver to Buyer ” in the third
+line thereof. 
+
+ Default Settlement Method:
+
+ Physical Settlement 
+
+ Settlement Method Election:
+
+ Applicable 
+
+ Electing Party:
+
+ Buyer 
+
+ Settlement Method Election Date(s):
+
+ Any Scheduled Trading Day following the Trade Date and prior to the Valuation Date 
+
+ Cash Settlement Terms: 
+
+ Number of Cash-Settled Shares:
+
+ The Number of Shares (or in the case of an early termination, the portion of the Number of Shares subject to early termination on an Early Termination Date); provided that the valuation related to such Number of
+Cash-Settled Shares will occur as set forth under “ Cash Settlement Procedures ” below. 
+
+ 3/17 
+
+ Cash Settlement Procedures:
+
+ On a Valuation Date (or deemed Valuation Date) where Cash Settlement is elected, the Calculation Agent will determine the portion of the Number of Cash-Settled Shares (which may be all such Number of Cash-Settled Shares) subject
+to cash settlement (the “ Settled Number of Shares ”) in its good faith and commercially reasonable discretion (which may, for the avoidance of doubt, be exercised in consideration of advice of counsel to Counterparty and counsel to
+Dealer and in consideration of other market activity or derivative transaction or unwind activity by Counterparty as well as any legal considerations applicable to Counterparty, including, but not limited to, considerations related to the fact that
+Counterparty may be an “insider” or “affiliate” of the Issuer and the application, if any, of any related securities laws (such considerations, the “ Unwind Parameters ”)), and will notify Dealer and Counterparty
+of such determination. The Calculation Agent will include in such notice the number of Averaging Dates (“ Determined Averaging Date Number ”) and the initial Averaging Date for such settlement which will be the first Scheduled Trading
+Day after the related Valuation Date (each such date, an “ Initial Averaging Date ”). In respect of the settlement on the Valuation Date, the Initial Averaging Date will be the Valuation Date. 
+
+ The Calculation Agent will ensure that the Determined Averaging Date Number is equal to or greater than (or is by no more than 5 Scheduled Trading Days less than) a number equal to the quotient of (a) the Settled Number of
+Shares divided by (b) the ADTV Limit, with any fractional Determined Averaging Date Number being rounded up to the next whole number. “ ADTV Limit ” means a number equal to the product of (i) 20%, and (ii) the
+trailing average daily composite trading volume of the Shares for the most recent 30 calendar day period, determined by the Calculation Agent as of the Valuation Date. 
+
+ Such cash settlement shall proceed under the Equity Definitions as if (i) the Settled Number of Shares were the Number of Shares for purposes of Section 8.4 (“ Cash Settlement of Forward Transactions ”) and
+Section 8.5 of the Equity Definitions (“ Forward Cash Settlement Amount ”), (ii) the Averaging Dates were a number of consecutive Exchange Business Days beginning on, and including, the Initial Averaging Date for such settlement,
+which number shall be equal to Determined Averaging Date Number, and (iii) the Cash Settlement Payment Date were as defined below. 
+
+ 4/17 
+
+ Following each such settlement, the Transaction will continue with a Number of Shares reduced by the amounts so settled, and the Calculation Agent will select subsequent Initial Averaging Date(s) (in conjunction with a related
+Determined Averaging Date Number) in a good faith and commercially reasonable manner (taking into account the Unwind Parameters) until the total of all Settled Number of Shares equals the original Number of Cash-Settled Shares. For the avoidance of
+doubt, the Calculation Agent may select a Settled Number of Shares for the first settlement hereunder that equals the total Number of Cash-Settled Shares, in which case there shall be only one such settlement hereunder. 
+
+ Cash Settlement Payment Date:
+
+ In respect of a Settled Number of Shares, one Settlement Cycle following the final Averaging Date for such Settled Number of Shares. 
+
+ Forward Cash Settlement Amount:
+
+ Notwithstanding Section 8.5, an amount equal to (a) the Number of Shares multiplied by (b) an amount equal to the Settlement Price minus the Forward Price, minus (c) an amount equal to the
+Financing Payment Amount. 
+
+ Determination of Financing Payment Amount 
+
+ Financing Payment Amount:
+
+ The Floating Amount 
+
+ Calculation Periods:
+
+ Notwithstanding anything to the contrary in the Swap Definitions, with respect to each Transaction, each period commencing on (and including) a Payment Date and ending on (and excluding) the successive Payment Date, with the
+first such Calculation Period commencing on (and including) the Effective Date of the Transaction, and the last such Calculation Period ending on (and excluding) (i) the Cash Settlement Payment Date (if Cash Settlement applies), or
+(ii) the Settlement Date (if Physical Settlement applies). 
+
+ Effective Date:
+
+ With respect to each Transaction, one Settlement Cycle after the relevant Trade Date 
+
+ Payment Dates:
+
+ As specified in the relevant Supplemental Confirmation 
+
+ Floating Rate Option:
+
+ USD-LIBOR-BBA 
+
+ Designated Maturity:
+
+ As specified in the relevant Supplemental Confirmation 
+
+ Spread:
+
+ As specified in the relevant Supplemental Confirmation 
+
+ Calculation Amount:
+
+ The Forward Price multiplied by the Number of Shares 
+
+ 5/17 
+
+ Reset Dates:
+
+ The first day of each Calculation Period. 
+
+ Business Day Convention:
+
+ Modified Following 
+
+ General Valuation Terms: 
+
+ Market Disruption Event:
+
+ Section 6.3(a) of the Equity Definitions is hereby amended by replacing clause (ii) thereof in its entirety with the following: “(ii) an Exchange Disruption, or” and inserting immediately following clause
+(iii) thereof the following: “; in each case that the Calculation Agent determines is material.” 
+
+ Section 6.3(d) of the Equity Definitions is hereby amended by deleting the remainder of the provision following the term “Scheduled Closing Time” in the fourth line thereof. 
+
+ Averaging Date Disruption:
+
+ Modified Postponement; provided that Section 6.7(c)(iii)(A) of the Equity Definitions is hereby modified by inserting the words “the Calculation Agent may determine in its discretion that” after the word
+“then” in the sixth line thereof. Notwithstanding the foregoing and anything to the contrary in the Equity Definitions, if a Market Disruption Event occurs on any Averaging Date, the Calculation Agent may determine that such Averaging Date
+is a Disrupted Day only in part, in which case (i) such day shall be an Averaging Date and the Scheduled Trading Day immediately following the date that would otherwise be the last Averaging Date shall be an additional Averaging Date;
+(ii) the Calculation Agent shall determine the VWAP Price on the Averaging Date that is a partially Disrupted Day on the basis of transactions in the Shares on the Exchange on such Averaging Date, taking into account the nature and duration of
+the relevant Market Disruption Event; and (iii) the Calculation Agent shall determine the Settlement Price using an appropriately weighted average of VWAP Prices on the Averaging Dates instead of the arithmetic average. 
+
+ Section 6.6(a) of the Equity Definitions is hereby amended by replacing the word “shall” in the fifth line thereof with the word “may,” and by deleting clause (i) thereof. Section 6.7(c)(iii)(A)
+of the Equity Definitions is hereby amended by replacing the word “shall” in the sixth and eighth line thereof with the word “may.” 
+
+ Settlement Currency:
+
+ USD 
+
+ 6/17 
+
+ Relevant Price:
+
+ For purposes of Section 6.7 of the Equity Definitions, with respect to any Number of Shares for which Cash Settlement is elected, a price calculated based on the relevant date of determination’s VWAP Price excluding
+trades on the Exchange below the Limit Price minus $0.02. 
+
+ Limit Price:
+
+ Counterparty may communicate to Dealer on any Averaging Date prices above which the Settlement Price is acceptable to Counterparty it being understood that the Calculation Agent may have to increase the Determined Averaging Date
+Number in a commercially reasonable manner to reflect market liquidity above such prices. 
+
+ VWAP Price:
+
+ For any Exchange Business Day, the volume-weighted average price per Share, as displayed on Bloomberg Page “HHC <Equity> AQR” (or any successor thereto) with respect to such Exchange Business Day, as determined by
+the Calculation Agent, or in the event such price is not so reported for such day for any reason or is manifestly erroneous, as reasonably determined by the Calculation Agent; provided that, when Shares that traded below a certain price are
+excluded from the calculation of such volume-weighted average price, the Calculation Agent will modify the calculation commands on Bloomberg to calculate such price to reflect the Limit Price. 
+
+ Dividends: 
+
+ Ordinary Dividend Amount:
+
+ USD 0.00. 
+
+ Extraordinary Dividend:
+
+ Any dividend or distribution on the Shares (other than any dividend or distribution of the type described in Section 11.2(e)(i) or Section 11.2(e)(ii)(A) or (B) of the Equity Definitions) the ex-date for which occurs during the Dividend Period and the amount or value of which differs from the Ordinary Dividend Amount, as determined by the Calculation Agent. 
+
+ Dividend Payments:
+
+ Seller shall pay to Buyer each Dividend Amount on each related Dividend Payment Date. 
+
+ Dividend Amount:
+
+ The product of the Ex Amount (including any Extraordinary Dividend and as adjusted to reflect the application of any tax under Section 871(m) of the Internal Revenue Code, as amended) and the Number of Shares;
+ provided that if the gross cash dividend per Share actually paid by the Issuer is less than the relevant Ex Amount, then the Calculation Agent shall reduce such Ex Amount to equal the amount actually paid by the Issuer. 
+
+ 7/17 
+
+ Dividend Payment Dates:
+
+ The Currency Business Day following the date the relevant dividend is paid by the Issuer to holders of record of a Share. 
+
+ Dividend Recovery:
+
+ In the event that the declared dividend is different from the actual dividend paid by the Issuer, and the Calculation Agent has previously adjusted the terms of the Transaction then the Calculation Agent will either
+(a) adjust the terms of the Transaction, or (b) determine an amount to be paid by one party to the other party, in each case to account for the discrepancy between the declared dividend and the actual dividend paid by the Issuer. This
+provision will survive the termination of any relevant Transaction, it being understood that if clause (b) of the previous sentence applies, the party obligated to pay such amount will do so in accordance with the instructions of the
+Calculation Agent. 
+
+ Averaging Date Dividends:
+
+ If an ex-date for any dividend or distribution occurs on any Averaging Date for any settlement as described under “Settlement Procedures” above, the Calculation Agent will
+decrease the Number of Shares for purposes of calculating the amount payable pursuant to “Dividend Payment Dates” to reflect Averaging Dates occurring on or prior to such Averaging Date. 
+
+ Adjustments: 
+
+ Method of Adjustment:
+
+ Calculation Agent Adjustment; provided, that the only adjustment for any Spin-off shall be as specified under “ Spin-off” and
+“Consequences of Spin-off ” below. 
+
+ Diluting Event:
+
+ Any event described in the definition of “ Potential Adjustment Event ” in Section 11.2(e) of the Equity Definitions, or any similar event, that subjects the Hedging Party or any person (relative to other
+holders of Shares) to any disadvantage as a result of any action, including, but not limited to, a “poison pill” or other plan that has the effect of shareholder rights being distributed or separated from the Shares. To the extent that an
+event may be a Potential Adjustment Event and a Diluting Event, the parties agree to treat such event as a Diluting Event. 
+
+ Diluting Event Consequence:
+
+ Upon the occurrence of a Diluting Event, the Calculation Agent will adjust the terms of the Transaction to reflect, to the extent practicable, any mutual agreement of Dealer and Counterparty, it being understood that the
+Calculation Agent will attempt, to the extent practicable, to address the economic effect on the parties from the Diluting Event by (i) extending the Valuation Date to a date up to 24 months after the original Expiration Date, and
+(ii) adjusting the terms of the Transaction to reflect such extension, including, but not limited to, the Forward Price and the Number of Shares. 
+
+ 8/17 
+
+ Spin-off: 
+
+ A distribution of Spin-off Shares to holders of the Shares (the “ Original Shares ”). “ Spin-off Shares ” means shares
+of a subsidiary of the Issuer or any other entity in which the Issuer has an equity investment (the “ Spin-off Company ”) that are, or that as of the
+ ex-dividend date of a distribution of such shares to holder of the Original Shares are, scheduled to be publicly quoted, traded or listed on a United States securities exchange or quotation system.
+Notwithstanding anything else to the contrary in the Equity Definitions, a distribution of Spin-off Shares will in every case require the Calculation Agent to take the actions specified under
+“ Consequences of Spin-off ” below and the Calculation Agent will not adjust the Transaction in any other manner. 
+
+ Consequences of Spin-off: 
+
+ Following the occurrence of a Spin-off, the Calculation Agent shall adjust the Transaction on account of such distribution of Spin-off Shares.
+Notwithstanding anything else to the contrary in the Equity Definitions, the Calculation Agent’s adjustment must continue the Transaction as two separate Transactions in respect of the Original Shares and the
+ Spin-off Shares with substantially similar terms; provided , that the Calculation Agent shall make such adjustments to the terms of the Transactions as the Calculation Agent determines appropriate to
+account for the economic effect on the original Transaction of such Spin-off. 
+
+ Extraordinary Events: 
+
+ Consequences of Merger Events:
+
+ Share-for-Share: 
+
+ Calculation Agent Adjustment 
+
+ Share-for-Other: 
+
+ Calculation Agent Adjustment 
+
+ Share-for-Combined: 
+
+ Calculation Agent Adjustment 
+
+ Tender Offer:
+
+ Applicable 
+
+ Consequences of Tender Offer:
+
+ Share-for-Share: 
+
+ Calculation Agent Adjustment 
+
+ Share-for-Other: 
+
+ Calculation Agent Adjustment 
+
+ 9/17 
+
+ Share-for-Combined: 
+
+ Calculation Agent Adjustment 
+
+ Composition of Combined Consideration:
+
+ Applicable 
+
+ Nationalization, Insolvency or Delisting:
+
+ Cancellation and Payment 
+
+ Additional Disruption Events: 
+
+ Change in Law:
+
+ Applicable; provided that Section 12.9(a)(ii) is hereby amended by (A) adding the words “or any Hedge Positions” after the word “Shares” in the clause (X) thereof; (B) deleting clause
+(Y) thereto; and (C) adding the words “(including, for the avoidance of doubt and without limitation, adoption or promulgation of new regulations authorized or mandated by existing statute)” after the word “regulation”
+in the second line thereof; provided that any determination as to whether (i) the adoption of or any change in any applicable law or regulation (including, without limitation, any tax law) or (ii) the promulgation of or any change
+in or public announcement of the formal or informal interpretation by any court, tribunal or regulatory authority with competent jurisdiction of any applicable law or regulation (including any action taken by a taxing authority), in each case,
+constitutes a “Change in Law” shall be made without regard to Section 739 of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 or any similar legal certainty provision in any derivatives legislation enacted after
+the date of this Master Confirmation that affects the Hedging Party. 
+
+ Failure to Deliver:
+
+ Applicable 
+
+ Insolvency Filing:
+
+ Not Applicable 
+
+ Determining Party:
+
+ Dealer for all applicable Extraordinary Events, provided , that the calculation of the Cancellation Amount shall be subject to dispute resolution as provided in Section 2 below as if the Cancellation Amount were being
+calculated by the Calculation Agent. 
+
+ Hedging Party:
+
+ For all applicable Additional Disruption Events, Dealer 
+
+ Additional Representations, Agreements and Acknowledgments: 
+
+ Non-Reliance: 
+
+ Applicable 
+
+ Agreements and Acknowledgments Regarding Hedging Activities:
+
+ Applicable 
+
+ 10/17 
+
+ Additional Acknowledgments:
+
+ Applicable 
+
+ Eligible Contract Participant:
+
+ Each party represents to the other party that it is an “eligible contract participant” as defined in the U.S. Commodity Exchange Act (as amended) 
+
+ 2. Calculation Agent: Dealer, provided however that, notwithstanding anything in the Agreement, Counterparty may
+challenge any determination or calculation made by the Calculation Agent within two Business Days following receipt by Counterparty of such determination or calculation, subject to providing in reasonable details the material reasons for the dispute
+and suggesting an alternative calculation or determination. If the parties are unable to agree on such determination or calculation within one Business Day, (i) the relevant party shall pay the amount, if any, which is not in dispute and
+(ii) a mutually acceptable third party will be appointed by the parties within two Business Days following such challenge to act as Substitute Calculation Agent and make the relevant determination or calculation. If the parties are unable
+within two Business Days to agree on, or to appoint, such third party, then each party will, within two Business Days select a leading, independent dealer in instruments of the type covered by this Confirmation and such dealers shall agree on a
+third party who shall also be a leading, independent dealer in instruments of the type covered by this Master Confirmation to act as Substitute Calculation Agent. Subject to the above, all determinations and calculations by the Substitute
+Calculation Agent will be binding and conclusive in the absence of manifest error. The costs, fees and expenses (if any) relating to the appointment of the Substitute Calculation Agent shall be borne equally by both parties. 
+
+ 3. 
+ Address for Notices : 
+
+ Notice to Dealer: 
+ [Address of
+Dealer] 
+ Attention: [Name of Contact] 
+
+ with a copy to: 
+ [Address of
+Dealer] 
+ Attention: [Name of Contact] 
+
+ Notice to Counterparty: 
+ Steve
+Milankov 
+ c/o Pershing Square Capital Management, L.P. 
+
+ 787 Eleventh Avenue, 9th Floor 
+
+ New York, NY 10019 
+ with a copy
+to: 
+ Ramy Saad 
+ c/o Pershing
+Square Capital Management, L.P. 
+ 787 Eleventh Avenue, 9th Floor 
+
+ New York, NY 10019 
+
+ 4. 
+ Account Details: 
+
+ Account details for Dealer:
+
+ To be advised. 
+
+ Account details for Counterparty:
+
+ To be advised. 
+
+ 11/17 
+
+ 5. Other Provisions : 
+
+ (a) 
+ Credit Support . 
+
+ Independent Amount . The Independent Amount for a relevant Transaction with respect to Counterparty is equal to the product of
+(i) the Forward Price of the relevant Transaction multiplied by (ii) the Number of Shares in respect of such Transaction multiplied by (iii) the IA Percentage set forth in the relevant Supplemental Confirmation. The
+Independent Amount is payable by Counterparty to Dealer in accordance with the CSA. 
+
+ (b) 
+ Additional Representations and Warranties of Counterparty . 
+
+ Counterparty hereby represents and warrants to Dealer as of the date hereof, and as of each date on which a Transaction (the “ Proposed
+Transaction ”) is executed hereunder, and covenants with Dealer, as follows. 
+
+ (i) 
+ Counterparty represents that the execution of the Transaction by it is not in violation of Section 10(b)
+of the 1934 Act. In addition, if Counterparty seeks to amend any Transaction, Counterparty will be deemed to represent that Counterparty is not in violation of Section 10(b) of the 1934 Act. 
+
+ (ii) 
+ Counterparty is aware of its obligations under the United States Federal securities laws in respect of the
+Shares, including without limitation under Sections 9 and 10(b) of the 1934 Act, as amended, and the rules and regulations thereunder, and during the term of the Transaction will not take any action that does not comply with those obligations.
+
+ (iii) 
+ Without limiting the generality of Section 3(a)(iii) of the Agreement, Counterparty is and, after giving
+effect to the Transaction, will be in compliance with any reporting obligations under Section 16, Section 13(d) and Section 13(g) of the 1934 Act it has with respect to the Shares. 
+
+ (iv) 
+ Counterparty is not and, after giving effect to the transactions contemplated hereby, will not be required to
+register as an “investment company” under, and as such term is defined in, the Investment Company Act of 1940, as amended. 
+
+ (v) 
+ Counterparty is, and shall be as of the date of any payment or delivery by Counterparty hereunder, solvent and
+able to pay its debts as they come due, with assets having a fair value greater than liabilities and with capital sufficient to carry on the businesses in which it engages. 
+
+ (vi) 
+ Without limiting the generality of Section 13.1 of the Equity Definitions, Counterparty acknowledges that
+(A) Dealer is not making any representations or warranties or giving any advice with respect to the legal, regulatory, accounting or tax treatment of the Transaction, and Counterparty has consulted with its own legal, regulatory, accounting and
+tax advisors with respect to the Transaction, and (B) none of Dealer and its affiliates has acted or will act as Counterparty’s fiduciary in any way, or has any fiduciary duties to Counterparty; and Counterparty is not relying, has not
+relied and will not rely upon any communication (written or oral) of Dealer or any of its affiliates. Counterparty has made or will make its own independent decision to enter into the Transaction based upon its own judgment and upon advice of such
+advisors as Counterparty deems necessary. 
+
+ 12/17 
+
+ (c) 
+ Private Placement . 
+
+ Buyer represents and warrants to Seller that (i) it is an “accredited investor” as that term is defined in Regulation D as
+promulgated under the 1933 Act, (ii) it is entering into the Transaction for its own account without a view to the distribution or resale thereof and (iii) it understands that the assignment, transfer or other disposition of the
+Transaction has not been and will not be registered under the 1933 Act. 
+
+ (d) 
+ Acknowledgments Regarding Hedging . 
+
+ Counterparty acknowledges (and in the case of clause (vi) below, Dealer and Counterparty acknowledge) that: 
+
+ (i) 
+ during the term of the Transaction, Dealer and its affiliates may buy or sell Shares or other securities or buy
+or sell options or futures contracts or enter into swaps or other derivative securities in order to establish, adjust or unwind its hedge position with respect to the Transaction; 
+
+ (ii) 
+ Dealer and its affiliates may also be active in the market for the Shares and derivatives linked to the Shares
+other than in connection with hedging activities in relation to the Transaction, including acting as agent or as principal and for its own account or on behalf of customers; 
+
+ (iii) 
+ Dealer shall make its own determination as to whether, when or in what manner any of its hedging or market
+activities shall be conducted and shall do so in a manner that it deems appropriate to hedge its price and market risk with respect to the Transaction; 
+
+ (iv) 
+ any market activities of Dealer and its affiliates with respect to the Shares may affect the market price and
+volatility of the Shares, each in a manner that may be adverse to Counterparty; 
+
+ (v) 
+ the Transaction is a derivatives transaction in which it has purchased from Dealer a Share Forward Transaction;
+Dealer may purchase or sell Shares for its own account at an average price that may be greater than, or less than, the price paid by Counterparty under the terms of the Transaction; and 
+
+ (vi) 
+ without limiting the generality of the foregoing, any initial price of the Transaction is not the execution
+price of any initial hedge of the Dealer (if the Dealer chooses to hedge any risk with respect to the Transaction), taking into account any applicable fees or commissions, but rather is an initial price that is at risk to the Dealer (as determined
+by the Dealer in its sole discretion). 
+
+ (e) 
+ Miscellaneous . 
+
+ Counterparty and Dealer understand that there may exist one or more confidentiality agreement(s) between Counterparty and Dealer. With respect
+to any rights or obligations thereunder to maintain the confidential nature of confidential information (as defined therein), the parties agree to continue to maintain the confidential nature of confidential information. 
+
+ Notwithstanding anything to the contrary contained herein, any party (or such party’s affiliates) may disclose to any and all persons,
+without limitation of any kind, the United States tax treatment (federal, state and local) and tax structure of any transaction contemplated hereunder and all materials of any kind relating to such tax treatment and tax structure. However, any
+information 
+
+ 13/17 
+
+relating to the United States federal, state or local tax treatment or tax structure shall remain subject to the applicable confidentiality provisions (and the preceding sentence shall not apply)
+to the extent reasonably necessary to enable any person to comply with applicable securities laws. “Tax treatment” or “tax structure” is limited to any facts relevant to the United States federal, state or local tax treatment of
+any Transaction contemplated hereunder and specifically does not include information relating to the identity of Counterparty or any of its affiliates. 
+
+ (f) 
+ No Arrangements . 
+
+ Counterparty and Dealer each acknowledge and agree that: (i) there are no voting, hedging or settlement arrangements between Counterparty
+and Dealer with respect to any Shares or the Issuer, other than those set forth herein; (ii) although Dealer may hedge its risk under the Transactions in any way Dealer determines, Dealer has no obligation to hedge with the purchase or
+maintenance of any Shares; (iii) Counterparty will not be entitled to any voting rights in respect of any of the Shares underlying the Transaction (other than upon an early termination or at maturity where Physical Settlement applies resulting
+in the delivery of Shares); and (iv) Counterparty will not influence Dealer with respect to the voting of any Hedge Positions of Dealer that are Shares (if any). 
+
+ (g) 
+ Matters relating to Dealer and the Agent . 
+
+ [To the extent that the Dealer is not registered as a broker or dealer under the 1934 Act, Dealer will advise Counterparty of any agency
+representations]. 
+
+ (h) 
+ Time of Transaction . 
+
+ The time of the Transaction is at the close of trading on the Exchange on the Trade Date specified in the Supplemental Confirmation. 
+
+ (i) 
+ Securities Contract . 
+
+ The parties hereto intend that Dealer be a “financial institution,” “swap participant” and “financial
+participant” within the meaning of Sections 101(22), 101(53C) and 101(22A) of Title 11 of the United States Code (the “Bankruptcy Code”). The parties hereto further intend that (A) this Master Confirmation, each Supplemental
+Confirmation and each Transaction will each be (i) a “securities contract,” as such term is defined in Section 741(7) of the Bankruptcy Code, with respect to which each payment and delivery hereunder, thereunder or in connection
+herewith or therewith is a “termination value,” “payment amount” or “other transfer obligation” within the meaning of Section 362 of the Bankruptcy Code and a “settlement payment” and “transfer”
+within the meaning of Section 546 of the Bankruptcy Code and any cash, securities or other property provided as performance assurance, credit support or collateral with respect to each Transaction is a “margin payment” and
+“transfer” within the meaning of Section 546 of the Bankruptcy Code, (ii) a “swap agreement,” as such term is defined in Section 101(53B) of the Bankruptcy Code, with respect to which each payment and delivery
+hereunder, thereunder or in connection herewith or therewith is a “termination value,” “payment amount” or “other transfer obligation” within the meaning of Section 362 of the Bankruptcy Code and a
+“transfer,” as such term is defined in Section 101(54) of the Bankruptcy Code and a “payment or other transfer of property” within the meaning of Sections 362 and 546 of the Bankruptcy Code and constitute “settlement
+payments” as defined in Section 741(8) of the Bankruptcy Code and (iii) a “master netting agreement” and each of the parties thereto is a “master netting agreement participant”, each as defined in the Bankruptcy
+Code, and (C) Dealer is entitled to the protections afforded by, among other sections, Sections 362(b)(6), 362(b)(17), 362(b)(27), 362(o), 546(e), 546(g), 546(j), 548(d)(2), 555, 560 and 561 of the Bankruptcy Code. 
+
+ 14/17 
+
+ Please confirm your agreement to be bound by the terms of the foregoing by executing a copy of this Master
+Confirmation and returning it to us. 
+
+ Yours faithfully, 
+
+ [DEALER] 
+
+ By: 
+
+ Name: 
+
+ Title: 
+
+ Confirmed as of the date first written above: 
+
+ [PERSHING SQUARE FUND] 
+ By: Pershing Square Capital
+Management, L.P., as its Investment Manager 
+ By: PS Management GP, LLC, its General Partner 
+
+ By: 
+
+ Name: 
+
+ William A. Ackman 
+
+ Title: 
+
+ Managing Member 
+
+ [Signature Page to Master Confirmation] 
+
+ 15/17 
+
+ SCHEDULE A 
+
+ SHARE FORWARD SUPPLEMENTAL CONFIRMATION 
+
+ [Date] 
+
+ To: 
+
+ [ PERSHING SQUARE FUND] 
+
+ Attention: 
+
+ c/o Pershing Square Capital Management, L.P. 
+
+ 787 Eleventh Avenue, 9th Floor 
+
+ New York, NY 10019 
+
+ Dear Sir/Madam: 
+ The purpose of
+this Share Forward Supplemental Confirmation (this “ Supplemental Confirmation ”) is to confirm the specific terms and conditions of one or more Transactions (each, a “ Transaction ”) entered into between you
+(“ Counterparty ”) and us (“ Dealer ”) on the Trade Date(s) specified below. This Supplemental Confirmation supplements the Master Confirmation between you and us dated December 2, 2019 (the “ Master
+Confirmation ”). Capitalized terms not defined herein shall have the respective meanings defined in the Master Confirmation. 
+ The terms of the
+particular Transaction(s) to which this Supplemental Confirmation relates are as follows: 
+
+ Trade
+
+ Date:
+
+ Valuation
+
+ Date:
+
+ Number
+
+ of Shares:
+
+ Forward
+
+ Price:
+
+ Payment
+
+ Dates:
+
+ Designated
+Maturity:
+
+ Spread:
+
+ IA
+
+ Percentage:
+
+ [____]
+
+ [____] 
+
+ [____] 
+
+ [____] 
+
+ [____] 
+
+ [____] 
+
+ [____] 
+
+ [____] 
+
+ [____]
+
+ [____] 
+
+ [____] 
+
+ [____] 
+
+ [____] 
+
+ [____] 
+
+ [____] 
+
+ [____] 
+
+ Please confirm your agreement to be bound by the terms of the foregoing by executing a copy of this
+Supplemental Confirmation and returning it to us. 
+
+ Yours faithfully, 
+
+ [DEALER] 
+
+ By: 
+
+ Name: 
+
+ Title: 
+
+ Confirmed as of the date first written above: 
+
+ [PERSHING SQUARE FUND] 
+ By: Pershing Square Capital
+Management, L.P., as its Investment Manager 
+ By: PS Management GP, LLC, its General Partner 
+
+ By: 
+
+ Name: 
+
+ William A. Ackman 
+
+ Title: 
+
+ Managing Member

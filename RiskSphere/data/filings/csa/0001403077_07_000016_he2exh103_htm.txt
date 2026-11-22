@@ -1,0 +1,1611 @@
+EX-10
+ 4
+ he2exh103.htm
+ EX 10.3
+
+ [GRAPHIC OMITTED][GRAPHIC OMITTED][GRAPHIC OMITTED]
+
+HSBC Bank USA, National Association
+ 452 Fifth Avenue
+ New York, NY 10018
+ Fax: (212) 525-5517
+
+Date: June 28, 2007
+
+To: The Bank of New York Trust Company, N.A., not in its individual
+ capacity but solely in its capacity as Indenture Trustee for the
+ benefit of the GMACM Home Equity Loan Trust 2007-HE2
+
+ 2 North LsSalle Street, Suite 1010
+ Chicago, IL 60602
+
+Attention: Keith Richardson
+Telephone no.: 312-267-5030
+Facsimile no.: 312-267-5210
+
+Cc:
+
+Our Reference: Global No. 481784HN/481785HN/DRAFT
+
+Re: Interest Rate Cap Corridor Transaction
+
+Ladies and Gentlemen:
+
+The purpose of this letter agreement is to set forth the terms and conditions of the
+transaction entered into between HSBC Bank USA, National Association ("Party A") and GMACM
+Home Equity Loan Trust Series 2007-HE2 Trust, acting through The Bank of New York Trust
+Company, N.A., not in its individual capacity, but solely as Indenture Trustee for the
+benefit of GMACM Home Equity Loan Trust 2007-HE2 Trust ("Party B") on the Trade Date
+specified below (the "Transaction"). This letter agreement constitutes a "Confirmation" as
+referred to in the Agreement specified below.
+
+The definitions and provisions contained in the 2000 ISDA Definitions (the "Definitions") as
+published by the International Swaps and Derivatives Association, Inc. are incorporated by
+reference herein. In the event of any inconsistency between the Definitions and this
+Confirmation, this Confirmation will govern. For purposes of this Transaction, any
+capitalized and undefined terms contained herein (other than the capitalized terms the
+definitions of which are contained in the Definitions) shall have the meanings ascribed to
+them in the Indenture dated as of June 28, 2007 (the "Indenture") relating to the GMACM Home
+Equity Loan Trust 2007-HE2 GMAC Home Equity Loan-Backed Term Notes, Series 2007-HE2 which
+is hereby incorporated by reference into this Confirmation.
+
+1. This Confirmation evidences a complete and binding agreement between Party A and
+ Party B as to the terms of the Transaction to which this Confirmation relates. This
+ Confirmation, together with all other documents referring to the ISDA Form, as
+ defined below, confirming the Transaction entered into between us shall supplement,
+ form a part of, and be subject to an agreement in the form of the 1992 ISDA Master
+ Agreement (Multicurrency-Cross Border) (the "ISDA Form") (as may be amended, modified
+ or supplemented from time to time, the "Agreement") as if we had executed an
+ agreement on the Trade Date of the first such Transaction between us in such form,
+ with the Schedule thereto specifying only that (a) the governing law is the laws of
+ the State of New York, and (b) the Termination Currency is U.S. Dollars. In the
+ event of any inconsistency between the terms of this Confirmation and the terms of
+ the Agreement, this Confirmation will prevail for the purpose of this Transaction.
+
+2. The terms of the particular Transaction to which this Confirmation relates are as
+ follows:-
+
+ Notional Amount: With respect to any Calculation Period during
+ which the Reference Transaction has not been
+ terminated, the lesser, if any, of (A) the
+ amount set forth on Schedule A attached hereto
+ and (B) the outstanding aggregate Note Balance
+ of the Class A-1 Notes immediately prior to the
+ related Payment Date. Party A will be able to
+ access the outstanding aggregate principal
+ balance of the Class A Certificates via the
+ Indenture Trustee's internet website
+ http://www.sfr.bankofny.com "GMACM SERIES
+ 2007-HE2" as the deal. This information will be
+ posted at least 5 Business Days prior to the
+ related Payment Date.
+
+ Trade Date: June 26, 2007
+
+ Effective Date: July 25, 2007
+
+ Termination Date: August 25, 2009, subject to adjustment in
+ accordance with the Following Business Day
+ Convention.
+
+Fixed Amounts:
+
+ Fixed Amount Payer: Party B
+
+ Fixed Amount: USD 6,500.00
+
+ Fixed Rate Payer
+ Payment Date: June 28, 2007
+
+ Party A Floating Amounts:
+
+ Party A
+ Period End Dates: The 25th calendar day of each month during the
+ Term of this Transaction, commencing August 25,
+ 2007, and ending on the Termination Date, subject
+ to adjustment in accordance with the Following
+ Business Day Convention.
+
+ Floating Rate Payer
+ Payment Dates: Early Payment - Two Business Days preceding the
+ 25th calendar day of each month during the Term
+ of this Transaction, commencing August 25, 2007,
+ and ending on the Termination Date
+
+ Cap Rate: As set forth in Schedule I
+
+ Floating Rate Option: USD-LIBOR-BBA; provided, however, that if the
+ Floating Rate Option for any Calculation Period
+ is greater than 9.880000%, then the Floating Rate
+ Option for such Calculation Period shall be
+ deemed to be 9.880000%.
+
+ Designated Maturity: One month
+
+ Floating Rate Day
+ Count Fraction: Actual/360
+
+ Reset Dates: The first day of each Calculation Period.
+
+ Compounding: Inapplicable
+
+ Business Days: New York
+
+ Calculation Agent: Party A
+
+3. ACCOUNT DETAILS:
+
+ Payments to Party A: HSBC Bank USA, National Association
+ ABA # 021-001-088
+ For credit to Department 299
+ A/C: 000-04929-8
+ HSBC Derivative Products Group
+
+ Payments to Party B: Bank of New York-New York, NY
+ ABA # 021-000-018
+ For credit to GLA: 211705
+ For final credit to: #156595
+ Account Name: GMACM 2007-HE2 Payment Account
+ Attn: Keith Richardson
+
+4. OFFICES:
+
+ The Office for Party A for this Transaction is New York, NY.
+
+ The Office for Party B for this Transaction is Chicago, IL.
+
+5. CALCULATION AGENT: Party A
+
+6. REPRESENTATIONS.
+
+Each party will be deemed to represent to the other party on the date on which it enters
+into this Transaction that (absent a written agreement between the parties that expressly
+imposes affirmative obligations to the contrary for this Transaction):-
+
+(i) NON-RELIANCE. It is acting for its own account, and it has made its own independent
+decisions to enter into this Transaction and as to whether this Transaction is appropriate
+or proper for it based upon its own judgment and upon advice from such advisers as it has
+deemed necessary. It is not relying on any communication (written or oral) of the other
+party as investment advice or as a recommendation to enter into this Transaction; it being
+understood that information and explanations related to the terms and conditions of this
+Transaction shall not be considered investment advice or a recommendation to enter into this
+Transaction. No communication (written or oral) received from the other party shall be
+deemed to be an assurance or guarantee as to the expected results of this Transaction.
+Notwithstanding the foregoing, the parties agree that The Bank of New York Trust Company,
+N.A. has executed this Confirmation pursuant to the direction received by it pursuant to the
+Indenture.
+
+(ii) ASSESSMENT AND UNDERSTANDING. It is capable of assessing the merits of and
+understanding (on its own behalf or through independent professional advice), and
+understands and accepts, the terms, conditions and risks of this Transaction. It is also
+capable of assuming, and assumes, the risks of this Transaction. Notwithstanding the
+foregoing, the parties agree that The Bank of New York Trust Company, N.A. has executed this
+Confirmation pursuant to the direction received by it pursuant to the Indenture.
+
+(iii) STATUS OF PARTIES. The other party is not acting as a fiduciary for, or an adviser
+to it in respect of this Transaction.
+
+(iv) PARI PASSU: Party A represents that its obligations under this Confirmation rank
+pari passu with all of its other unsecured, unsubordinated obligations except those
+obligations preferred by operation of law.
+
+7. ISDA FORM.
+(a) "Specified Entity" means, in relation to Party A, for the purpose of Section 5(a)(v),
+Section 5(a)(vi), Section 5(a)(vii) and Section 5(b)(iv): Not Applicable.
+
+(b) "Specified Entity" means, in relation to Party B, for the purpose of Section
+5(a)(v), Section 5(a)(vi), Section 5(a)(vii) and Section 5(b)(iv): Not Applicable.
+
+(c) "Specified Indebtedness" will have the meaning specified in Section 14 of the ISDA
+Form, provided that Specified Indebtedness shall not include deposits received in the course
+of a party's ordinary banking business.
+
+(d) "Specified Transaction" will have the meaning specified in Section 14 of the ISDA
+Form.
+
+(e) "Threshold Amount" means, with respect to Party A (or its Credit Support Provider),
+3% of shareholders' equity as described in its most recently published audited financial
+statement or its equivalent in any currency.
+
+(f) Sections 5(a)(ii), 5(a)(iii), 5(a)(iv), and 5(a)(vi) of the ISDA Form will not apply
+to Party B; provided that Section 5(a)(iii) of the ISDA Form shall apply to Party B to the
+extent that Party B fails to return a Return Amount under the Credit Support Annex. With
+respect to Party A and Party B, the provisions of Section 5(a)(v) of the ISDA Form will not
+apply.
+
+(g) Section 5(a)(vi) of the ISDA Form "Cross Default" applies to Party A, provided,
+however, that, notwithstanding the foregoing, an Event of Default shall not occur under
+either (i) or (ii) above if (A) (I) the default, or other similar event or condition
+referred to in (1) or the failure to pay referred to in (2) is a failure to pay or deliver
+caused by an error or omission of an administrative or operational nature, and (II) funds or
+the asset to be delivered were available to such party to enable it to make the relevant
+payment or delivery when due and (III) such payment or delivery is made within one (1) Local
+Business Days following receipt of written notice from an interested party of such failure
+to pay, or (B) such party was precluded from paying, or was unable to pay, using reasonable
+means, through the office of the party through which it was acting for purposes of the
+relevant Specified Indebtedness, by reason of force majeure, act of State, illegality or
+impossibility.
+
+(h) Section 5(a)(vii) of the ISDA Form applies to Party A and Party B; provided that with
+respect to Party B, clauses (2), (7) and (9) will not be applicable as an Event of Default
+to the extent such event relates to nonpayment of indebtedness other than that of the
+related class of Notes; clause (4) will not apply to Party B to the extent that it refers to
+proceedings or petitions instituted or presented by Party A or any of its Affiliates; clause
+(6) will not apply to Party B to the extent that it refers to (i) any appointment that is
+contemplated or effected by the Transaction Documents or (ii) any appointment that Party B
+has not become subject to); clause (8) will not apply to Party B to the extent that it
+applies to Sections 5(a)(vii)(2)(4)(6), and (7) of the ISDA Form (except to the extent that
+such provisions are not disapplied with respect to Party B.
+
+ (i) The "Merger without assumption" provisions of Section 5(a)(viii) will apply to
+ Party A and not apply to Party B.
+
+ (j) The "Credit Event Upon Merger" provisions of Section 5(b)(iv) of the ISDA Form
+ will not apply to Party A or Party B.
+
+ (k) The "Automatic Early Termination" provision of Section 6(a) of the ISDA Form
+ will not apply to Party A or Party B.
+
+ (l) The "Tax Event Upon Merger" provisions of Section 5(b)(iii) of the ISDA Form
+ will apply, provided that Party A shall not be entitled to designate an Early
+ Termination Date by reason of a Tax Event upon Merger in respect of which it
+ is the Affected Party.
+
+ (m) Section 6(b)(ii) of the ISDA Form will apply; provided that the words "or if a
+ Tax Event Upon Merger occurs and the Burdened Party is the Affected Party" shall be
+ deleted.
+
+ (n) The ISDA Form will be governed by, and construed in accordance with, the laws
+ of the State of New York without reference to its conflict of laws provisions (except
+ for Sections 5-1401 and 5-1402 of the New York General Obligations Law).
+
+ (o) The phrase "Termination Currency" means United States Dollars.
+
+ (p) For the purpose of Section 6(e) of the ISDA Form:
+
+ (i) Market Quotation will apply and the Second Method will apply; provided,
+ however, with respect to an early termination in which Party A is the
+ Defaulting Party or sole Affected Party in respect of an Additional
+ Termination Event or Tax Event Upon Merger, notwithstanding Section 6 of the
+ ISDA Form the following amendment to Agreement set forth in paragraphs (i) to
+ (ix) below shall apply:
+
+ For the purposes of Section 6(d)(i) of the ISDA Form, Party B's obligation
+ with respect to the extent of information to be provided with its calculations
+ is limited to information Party B has already received in writing which Party
+ B is able to release without breaching any contractual obligations or the
+ provisions of any law applicable to Party B.
+
+ The definition of "Market Quotation" shall be deleted in its entirety and
+ replaced with the following:
+
+ "Market Quotation" means, with respect to one or more Terminated Transactions,
+ a Firm Offer which is (1) made by a Reference Market-maker that is an Eligible
+ Replacement, (2) for an amount that would be paid to Party B (expressed as a
+ negative number) or by Party B (expressed as a positive number) in
+ consideration of an agreement between Party B and such Reference Market-maker
+ to enter into a transaction (the "Replacement Transaction") that would have
+ the effect of preserving for such party the economic equivalent of any payment
+ or delivery (whether the underlying obligation was absolute or contingent and
+ assuming the satisfaction of each applicable condition precedent) by the
+ parties under Section 2(a)(i) in respect of such Terminated Transactions or
+ group of Terminated Transactions that would, but for the occurrence of the
+ relevant Early Termination Date, have been required after that Date, (3) made
+ on the basis that Unpaid Amounts in respect of the Terminated Transaction or
+ group of Transactions are to be excluded but, without limitation, any payment
+ or delivery that would, but for the relevant Early Termination Date, have been
+ required (assuming satisfaction of each applicable condition precedent) after
+ that Early Termination Date is to be included and (4) made in respect of a
+ Replacement Transaction with terms substantially the same as those of this
+ Agreement (save for the exclusion of provisions relating to Transactions that
+ are not Terminated Transactions)."
+
+ (ii) The definition of "Settlement Amount" shall be deleted in its entirety
+ and replaced with the following:
+
+ "Settlement Amount" means, with respect to any Early Termination Date, an
+ amount (as determined by Party B equal to the Termination Currency Equivalent
+ of the amount (whether positive or negative) of any Market Quotation for the
+ relevant Terminated Transaction or group of Terminated Transactions that is
+ accepted by Party B in accordance with the Indenture so as to become legally
+ binding, provided that:
+
+ (a) if, on or prior to such Early Termination Date, a Market Quotation
+ for the relevant Terminated Transaction or group of Terminated
+ Transactions is accepted by Party B so as to become legally binding,
+ the Termination Currency Equivalent of the amount (whether positive or
+ negative) of such Market Quotation;
+
+ (b) if, on such Early Termination Date, no Market Quotation for the
+ relevant Terminated Transaction or group of Terminated Transactions is
+ accepted by Party B so as to become legally binding and one or more
+ Market Quotations have been communicated to Party B and remain capably
+ of becoming legally binding upon acceptance by Party B, the
+ Termination Currency Equivalent of the amount (whether positive or
+ negative) of the lowest of such Market Quotation;
+
+ (c) if, on such Early Termination Date, no Market Quotation for the
+ relevant Terminated Transaction or group of Terminated Transactions is
+ accepted by Party B so as to become legally binding and no Market
+ Quotations have been communicated to Party B and remain capable of
+ becoming legally binding upon acceptance by Party B, Party B's Loss
+ (whether positive or negative and without reference to Unpaid Amounts)
+ for the relevant Terminated Transaction or group of Terminated
+ Transactions; and
+
+ (d) At any time on or before the Early Termination Date at which two
+ or more Market Quotations have been communicated to Party B and remain
+ capable of becoming legally binding upon acceptance by Party B, Party
+ B shall be entitled to accept only the lowest of such Market
+ Quotations (for the avoidance of doubt, (i) a Market Quotation
+ expressed as a negative number is lower than a Market Quotation
+ expressed as a positive number and (ii) the lower of two Market
+ Quotations expressed as negative numbers is the one with the largest
+ absolute value).
+
+ (iii) For the purpose of sub-paragraph (4) of the definition of Market
+ Quotation, Party B shall determine in its sole discretion in accordance with
+ the Indenture, acting in a commercially reasonable manner, whether a Firm
+ Offer is made in respect of a Replacement Transaction with commercial terms
+ substantially the same as those of this Agreement (save for the exclusion of
+ provisions relating to Transactions that are not Terminated Transactions).
+
+ (iv) If Party B requests Party A in writing to obtain Market Quotations,
+ Party A shall use its reasonable efforts to do so before the Early Termination
+ Date.
+
+ (v) If the Settlement Amount is a negative number, Section 6(e)(i)(3) of
+ the ISDA Form shall be deleted in its entirety and replaced with the following:
+
+ (vi) "Approved Replacement" means, with respect to a Market Quotation, an
+ Entity making such Market Quotation, which entity satisfies the
+ following conditions (as determined by Party B in its sole discretion,
+ acting in a commercially reasonable manner): (a) the transferee is an
+ Eligible Replacement; (b) Party A and the Transferee are both "dealers
+ in notional principal contracts" within the meaning of Treasury
+ regulations section 1.1001-4; (c) as of the date of such transfer the
+ Transferee would not be required to withhold or deduct on account of
+ Tax from any payments under this Agreement or would be required to
+ gross up for such Tax under Section 2(d)(i)(4); (d) an Event of Default
+ or Termination Event would not occur as a result of such transfer.
+
+ "SECOND METHOD AND MARKET QUOTATION. If Second Method and Market Quotation
+ apply, (1) Party B shall pay to Party A an amount equal to the absolute value
+ of the Settlement Amount in respect of the Terminated Transactions, (2) Party
+ B shall pay to Party A the Termination Currency Equivalent of the Unpaid
+ Amounts owing to Party A and (3) Party A shall pay to Party B the Termination
+ Currency Equivalent of the Unpaid Amounts owing to Party B, provided that, (i)
+ the amounts payable under clauses (2) and (3) shall be subject to netting in
+ accordance with Section 2(c) of this Agreement and (ii) notwithstanding any
+ other provision of this Agreement, any amount payable by Party A under clause
+ (3) shall not be netted-off against any amount payable by Party B under clause
+ (1)."
+
+ (p) Multibranch Party. For the purpose of Section 10(c) of the ISDA Form: (a)
+ Party A is a not a Multibranch Party; and (b) Party B is not a Multibranch
+ Party.
+
+ (q) Credit Support Document. Initially with respect to Party A, a Credit Support
+ Annex and any guaranty in support of Party A's obligations. With respect to
+ Party B, a Credit Support Annex, but only with respect to Paragraph 3(b) of
+ such Credit Support Annex.
+
+ (r) Credit Support Provider. In relation to Party A: Not Applicable. In relation
+ to Party B: Not Applicable.
+
+ (s) Section 12(a)(ii) of the ISDA Form is deleted in its entirety.
+
+ (t) This Transaction shall not be amended or modified pursuant to Section 9(b) of
+ the ISDA Form unless the Rating Agency Condition is satisfied.
+
+ (u) Notwithstanding any provision of this Transaction or any other existing or
+ future agreement, each party irrevocably waives any and all rights it may have
+ to set off, net, recoup or otherwise withhold or suspend or condition payment
+ or performance of any obligation between it and the other party hereunder
+ against any obligation between it and the other party under any other
+ agreements. The provisions for Set-off set forth in Section 6(e) of the
+ Agreement shall not apply for purposes of this Transaction.
+
+8. LIMITATION OF LIABILITY.
+
+ Notwithstanding anything herein to the contrary, it is expressly understood and
+agreed by the parties hereto that (a) this Confirmation is executed and delivered by The
+Bank of New York Trust Company, N.A. ("Bank of New York"), not individually or personally,
+but solely as Indenture Trustee of the GMACM Home Equity Loan Trust 2007-HE2 Trust, in the
+exercise of the powers and authority conferred and vested in it, (b) each of the
+representations, undertakings and agreements herein made on the part of the Trust is made
+and intended not as personal representations, undertakings and agreements by The Bank of New
+York but is made and intended for the purpose of binding only the Trust, (c) nothing herein
+contained shall be construed as creating any liability on The Bank of New York, individually
+or personally, to perform any covenant either expressed or implied contained herein, all
+such liability, if any, being expressly waived by the parties hereto and by any Person
+claiming by, through or under the parties hereto; provided that nothing in this paragraph
+shall relieve The Bank of New York from performing its duties and obligations under the
+Indenture in accordance with the standard of care set forth therein, and (d) under no
+circumstances shall The Bank of New York be personally liable for the payment of any
+indebtedness or expenses of the Trust or be liable for the breach or failure of any
+obligation, representation, warranty or covenant made or undertaken by the Trust under this
+Confirmation or any other related documents.
+
+9. ADDITIONAL PROVISIONS.
+
+ (I) DOWNGRADE OF PARTY A. If a Ratings Event (as defined below) shall occur and be
+continuing with respect to Party A, then Party A shall (A) within 5 Business Days of such
+Ratings Event, give notice to Party B of the occurrence of such Ratings Event, and (B)
+within 30 calendar days after the occurrence of a Ratings Event, with respect to Fitch, (y)
+within 60 days with respect to Party A (or its Credit Support Provider) that is a Financial
+Institution with respect to S&P, or (y) within 10 Business Days with respect to Party A (or
+its Credit Support Provider) that is a Financial Institution with respect to S&P if Party A
+chooses to post Eligible Collateral as set forth in (ii) below; either (i) use reasonable
+efforts to transfer (at its own cost) Party A's rights and obligations hereunder to another
+party, subject to satisfaction of the Rating Agency Condition (as defined below), (ii) post
+Eligible Collateral in accordance with the Credit Support Annex attached hereto and made a
+part hereof or (iii) obtain a guaranty which satisfies the Rating Agency Condition. Party
+A's obligations to find a transferee, to post Eligible Collateral under such Credit Support
+Annex or obtain a guarantor shall remain in effect only for so long as a Ratings Event is
+continuing with respect to Party A. For the purpose hereof, a "Ratings Event" shall occur
+in that event that (1) Party A's (or its Credit Support Provider's) short-term unsecured
+and unsubordinated debt rating is reduced below "A-1" by Standard & Poor's Ratings Service
+("S&P") (or if its short-term rating is not available by S&P, in the event that its long-term
+unsecured and unsubordinated debt rating is reduced below "A+" by S&P) and Party A (or its
+Credit Support Provider) is a Financial Institution (an "S&P Approved Ratings Downgrade") or
+(2) its short-term unsecured and unsubordinated debt rating is reduced below "F1" by Fitch,
+Inc. ("Fitch") (or, if its short-term rating is not available by Fitch, its long-term
+unsecured and unsubordinated debt rating is withdrawn or reduced below "A" by Fitch; or
+(iii) if Party A fails to satisfy the Moody's Downgrade provisions set forth in Section
+9(ii) hereof.
+
+ If an S&P Required Rating Downgrade (as defined below) shall occur and be continuing
+with respect to Party A, then Party A shall within 2 Business Days of such S&P Required
+Rating Downgrade, (A) give notice to Party B of the occurrence of such S&P Required Rating
+Downgrade, and (B) within 10 Business Days of the occurrence of such Ratings Withdrawal,
+comply with the terms of the Credit Support Annex and (C) within 60 days of the date of the
+S&P Required Ratings Downgrade, in addition to posting collateral pursuant to the Credit
+Support Annex (i) transfer (at its own cost) Party A's rights and obligations hereunder to
+another party, subject to satisfaction of the Rating Agency Condition or (ii) obtain a
+guaranty of its obligations hereunder from another party, subject to the satisfaction of the
+Rating Agency Condition, and such guaranty shall remain in effect only for so long as a S&P
+Required Rating Downgrade is continuing with respect to Party A. For the purpose hereof, a
+"S&P Required Rating Downgrade" shall occur with respect to Party A (x) if the long-term and
+short-term senior unsecured deposit ratings of Party A (or its credit Support Provider) are
+withdrawn by S&P or cease to be at least "BBB and "A-2" by S&P if Party A (or its Credit
+Support Provider) is a Financial Institution and (y) with respect to Party A (or its Credit
+Support Provider) that is not a financial Institution, if at any time the senior unsecured
+deposit ratings of Party A is withdrawn or reduced below "A+" (long term) or "A-1" (short
+term) by S&P.
+
+ "Financial Institution" means a bank, broker/dealer, insurance company, structured
+ investment vehicle or derivative product company.
+
+ "Rating Agency Condition" means, with respect to any action taken or to be taken, a
+condition that is satisfied when S&P and Moody's have confirmed in writing that such action
+would not result in the downgrade, qualification (if applicable) or withdrawal of the rating
+then assigned by such Rating Agency to the Certificates
+
+ (II) MOODY'S DOWNGRADE PROVISIONS.
+
+ (A) Moody's First Rating Trigger Collateral. For purposes of this
+ section, if Party A has failed to comply with or perform any obligation to be
+ complied with or performed by Party A in accordance with the Credit Support
+ Annex from time to time entered into between Party A and Party B in relation
+ to this Agreement and either (x) the Moody's Second Rating Trigger
+ Requirements do not apply or (y) less than 30 Local Business Days have elapsed
+ since the last time the Moody's Second Rating Trigger Requirements did not
+ apply, such failure by Party A to comply with the provisions set forth above
+ shall constitute an Additional Termination Event for which Party A shall be
+ the sole Affected Party.
+
+ (B) Moody's Second Rating Trigger Replacement. It shall be an Additional
+ termination Event with respect to Party A as sole Affected Party if (x) the
+ Moody's Second Rating Trigger Requirements apply and 30 or more Local Business
+ Days have elapsed since the last time the Moody's Second Rating Trigger
+ Requirements did not apply and (y) (i) at least one Eligible Replacement has
+ made a Firm Offer (which remains capable of becoming legally binding upon
+ acceptance) to be the transferee of a transfer to be made in accordance with
+ Part 5(m)(ii) below and/or (ii) at least one entity with the Moody's First
+ Trigger Required Ratings has made a Firm Offer (which remains capable of
+ becoming legally binding upon acceptance by the offeree) to provide an
+ Eligible Guarantee in respect of all of Party A's present and future
+ obligations under this Agreement.
+
+ For the purpose of this Agreement:
+
+ "Eligible Guarantee" means an unconditional and irrevocable guarantee that is
+ provided by a guarantor as principal debtor rather than surety and is directly
+ enforceable by Party B, where either (A) a law firm has given a legal opinion
+ confirming that none of the guarantor's payments to Party B under such
+ guarantee will be subject to withholding for Tax or (B) such guarantee
+ provides that, in the event that any of such guarantor's payments to Party B
+ are subject to withholding for tax, such guarantor is required to pay such
+ additional amount as is necessary to ensure that the net amount actually
+ received by Party B (free and clear of any withholding tax) will equal the
+ full amount Party B would have received had no such withholding been required.
+
+ "Eligible Replacement" means an entity (A) (i) with the Moody's First Trigger
+ Required Ratings or (ii) whose present and future obligations owing to Party B
+ are guaranteed pursuant to an Eligible Guarantee provided by a guarantor with
+ the Moody's First Trigger Required Ratings, (B) with a short-term unsecured
+ and unsubordinated debt rating of at least "A-1" by S&P (or if its short-term
+ rating is not available by S&P, in the event that its long-term unsecured and
+ unsubordinated debt rating is at least "A+" by S&P) and with short-term
+ unsecured and unsubordinated debt rating of at least "F1" by Fitch and (c) has
+ entered into an indemnification agreement in form and substance substantially
+ similar to the indemnification agreement dated June 28, 2007, among
+ Residential Asset Mortgage Products, Inc., GMAC Mortgage LLC and Party A (the
+ "Indemnification Agreement").
+
+ "Firm Offer" means an offer which, when made, was capable of becoming legally
+ binding upon acceptance.
+
+ "Moody's Short-term Rating" means a rating assigned by Moody's under its
+ short-term rating scale in respect of an entity's short-term, unsecured and
+ unsubordinated debt obligations.
+
+ "Relevant Entities" means Party A and any guarantor under an Eligible
+ Guarantee in respect of all of Party A's present and future obligations under
+ this Agreement.
+
+ An entity shall have the "Moody's First Trigger Required Ratings" (x) where
+ such entity is the subject of a Moody's Short-term Rating, if such rating is
+ "Prime-1" and its long-term, unsecured and unsubordinated debt or counterparty
+ obligations are rated "A2" or above by Moody's and (y) where such entity is
+ not the subject of a Moody's Short-term Rating, if its long-term, unsecured
+ and unsubordinated debt or counterparty obligations are rated "A1" or above by
+ Moody's.
+
+ The "Moody's Second Rating Trigger Requirements" shall apply so long as no
+ Relevant Entity has the Second Trigger Required Ratings.
+
+ An entity shall have the "Moody's Second Trigger Required Ratings" (x) where
+ such entity is the subject of a Moody's Short-term Rating, if such rating is
+ "Prime-2" or above and its long-term, unsecured and unsubordinated debt
+ obligations are rated "A3" or above by Moody's and (y) where such entity is
+ not the subject of a Moody's Short-term Rating, if its long-term, unsecured
+ and unsubordinated debt obligations are rated "A3" or above by Moody's.
+
+ So long as the Moody's Second Rating Trigger Requirements apply, Party A will
+ at its own cost use commercially reasonable efforts to, as soon as reasonably
+ practicable, procure either (x) an Eligible Guarantee in respect of all of
+ Party A's present and future obligations under this Agreement to be provided
+ by a guarantor with the Moody's First Trigger Required Ratings and/or the
+ Moody's Second Trigger Required Ratings or (y) a transfer in accordance with
+ Section 9(ii) below.
+
+ (III) TRANSFERS.
+
+ (a) Section 7 of the ISDA Form shall not apply to Party A and, subject to
+ Section 6(b)(ii) of the ISDA Form and Section 9(v) herein, Party A may not
+ transfer (whether by way of security or otherwise) any interest or obligation
+ in or under this Agreement without the prior written consent of Party B. Any
+ transfer pursuant to this Section will require that the transferee enter into
+ a Regulation AB indemnification agreement substantially similar to the
+ Indemnification Agreement.
+
+ (b) Subject to Section 9(v) below, Party A may (at its own cost) transfer
+ all or substantially all of its rights and obligations with respect to this
+ Agreement to any other entity (a "TRANSFEREE") that is an Eligible
+ Replacement, provided that Party B shall determine in its sole discretion in
+ accordance with the Indenture, acting in a commercially reasonable manner,
+ whether or not a transfer relates to all or substantially all of Party A's
+ rights and obligations under this Agreement and whether or not the Transferee
+ has substantially the same credit ratings. Following such transfer, all
+ references to Party A shall be deemed to be references to the Transferee.
+
+ (c) If an entity has made a Firm Offer (which remains capable of becoming
+ legally binding upon acceptance) to be the transferee of a transfer to be made
+ in accordance with (ii) above, Party B shall (at Party A's cost) at Party A's
+ written request, take any reasonable steps required to be taken by it to
+ effect such transfer provided such steps shall be in accordance with the
+ Indenture.
+
+ (IV) TAX. Notwithstanding the definition of "Indemnifiable Tax" in Section 14 of
+the ISDA Form, in relation to payments by Party A, any Tax shall be an Indemnifiable Tax
+and, in relation to payments by Party B, no Tax shall be an Indemnifiable Tax.
+
+ (V) RATING AGENCY NOTIFICATIONS. Notwithstanding any other provision of this
+Agreement, this Agreement shall not be amended, no Early Termination Date shall be
+effectively designated by Party B, and no transfer of any rights or obligations under this
+Agreement shall be made (other than a transfer of all of Party A's rights and obligations
+with respect to this Agreement in accordance with Section 9(ii) above) unless Moody's has
+been given prior written notice of such amendment, designation or transfer.
+
+10. ADDITIONAL TERMINATION EVENTS.
+
+(a) A Ratings Event or a S&P Required Rating Downgrade occurs as set forth in Section 9
+ hereof and Party A fails to satisfy the requirements set forth in Section 9
+ hereof. Party A shall be the sole Affected Party.
+ (b) Party A Fails to comply and the terms of the Indemnification Agreement. Party
+ A shall be the sole Affected Party
+
+11. NON-PETITION.
+
+ Each Relevant Party hereby irrevocably and unconditionally agrees that it will not
+institute against, or join any other person in instituting against or cause any other person
+to institute against Party B, any bankruptcy, reorganization, arrangement, insolvency, or
+similar proceeding under the laws of the United States, or any other jurisdiction for the
+non-payment of any amount due hereunder or any other reason until the payment in full of the
+Notes issued by Party B under the Indenture and the expiration of a period of one year plus
+ten days (or, if longer, the applicable preference period) following such payment.
+
+12. TAX REPRESENTATIONS.
+
+(a) Payer Representations. For the purpose of Section 3(e) of the ISDA Form, Party A and
+Party B will make the following representations:
+
+ It is not required by any applicable law, as modified by the practice of any relevant
+ governmental revenue authority, of any Relevant Jurisdiction to make any deduction or
+ withholding for or on account of any Tax from any payment (other than interest under
+ Section 2(e), 6(d)(ii) or 6(e) of the Agreement) to be made by it to the other party
+ under the Agreement. In making this representation, it may rely on:
+
+(i) the accuracy of any representations made by the other party pursuant to Section 3(f)
+ of the Agreement;
+
+(ii) the satisfaction of the agreement contained in Section 4(a)(iii) of the Agreement and
+ the accuracy and effectiveness of any document provided by the other party pursuant
+ to Section 4(a)(iii) of the Agreement; and
+
+(iii) the satisfaction of the agreement of the other party contained in Section 4(d) of the
+ Agreement, provided that it shall not be a breach of this representation where
+ reliance is placed on clause (ii) and the other party does not deliver a form or
+ document under Section 4(a)(iii) by reason of material prejudice to its legal or
+ commercial position.
+
+(b) Payee Representations. For the purpose of Section 3(f) of the Agreement, each of
+Party A and Party B make the following representations.
+
+ The following representation will apply to Party A:
+
+ Party A is a national banking association organized under the federal laws of the
+ United States and its U.S. taxpayer identification number is 20-1177241.
+
+ The following representation will apply to Party B:
+
+ The Bank of New York is the Indenture Trustee under the Indenture.
+
+13. NON-RECOURSE PROVISIONS.
+
+ Notwithstanding anything to the contrary contained herein, none of Party B or any of
+its officers, directors, or shareholders (the "Non-recourse Parties") shall be personally
+liable for the payment by or on behalf of the GMACM 2007-HE2 Trust hereunder, and Party A
+shall be limited to a proceeding against the Collateral or against any other third party
+other than the Non-recourse Parties, and Party A shall not have the right to proceed
+directly against the GMACM 2007-HE2 Trust for the satisfaction of any monetary claim
+against the Non-recourse Parties or for any deficiency judgment remaining after foreclosure
+of any property included in such Collateral and following the realization of the Collateral,
+any claims of Party A shall be extinguished.
+
+14. DOCUMENTS TO BE DELIVERED. For the purpose of Section 4(a) (i) and 4(a) (iii):
+
+(1) Tax forms, documents, or certificates to be delivered are:
+
+-------------------------------------------- ----------------------------------- ---------------------------------------------------
+PARTY REQUIRED TO DELIVER DOCUMENT FORM/DOCUMENT/ DATE BY WHICH TO BE DELIVERED
+ CERTIFICATE
+-------------------------------------------- ----------------------------------- ---------------------------------------------------
+-------------------------------------------- ----------------------------------- ---------------------------------------------------
+Party A and Any document required or Promptly after the earlier of (i) reasonable
+Party B reasonably requested to allow the demand by either party or (ii) learning that such
+ other party to make payments form or document is required
+ under this Agreement without any
+ deduction or withholding for or
+ on the account of any Tax or with
+ such deduction or withholding at
+ a reduced rate
+-------------------------------------------- ----------------------------------- ---------------------------------------------------
+
+(2) Other documents to be delivered (unless publicly available) are:
+
+-------------------------------- ------------------------------------ ---------------------------------- --------------------------
+PARTY REQUIRED TO DELIVER FORM/DOCUMENT/ DATE BY WHICH TO BE DELIVERED COVERED BY SECTION 3(D)
+DOCUMENT CERTIFICATE REPRESENTATION
+-------------------------------- ------------------------------------ ---------------------------------- --------------------------
+-------------------------------- ------------------------------------ ---------------------------------- --------------------------
+Party A and Party B Any documents to evidence the Upon the execution and delivery Yes
+ authority of the delivering party of this Agreement and such
+ for it to execute and deliver this Confirmation.
+ Confirmation.
+-------------------------------- ------------------------------------ ---------------------------------- --------------------------
+-------------------------------- ------------------------------------ ---------------------------------- --------------------------
+Party A and Party B A certificate of an authorized Upon the execution and delivery Yes
+ officer of the party, as to the of this Confirmation.
+ incumbency and authority of the
+ respective officers of the party
+ signing this Confirmation.
+
+-------------------------------- ------------------------------------ ---------------------------------- --------------------------
+-------------------------------- ------------------------------------ ---------------------------------- --------------------------
+Party A Legal opinion(s) with respect to Upon the execution of this No
+ such party and its Credit Support Agreement
+ Provider, if any, for it,
+ reasonably satisfactory in form
+ and substance to the other party
+ relating to the enforceability of
+ the party's obligations under this
+ Agreement.
+-------------------------------- ------------------------------------ ---------------------------------- --------------------------
+-------------------------------- ------------------------------------ ---------------------------------- --------------------------
+
+Party A Annual Financial Statement of Promptly upon request made by Yes
+ Party A as set forth in Party A's Party B.
+ Call Report.
+-------------------------------- ------------------------------------ ---------------------------------- --------------------------
+-------------------------------- ------------------------------------ ---------------------------------- --------------------------
+Party B Each other report or other Promptly upon request by Party No
+ document required to be delivered A, or with respect to any
+ directly relating to Party A by or particular type of report or
+ to Party B under the terms of the other document as to which Party
+ Pooling and Servicing Agreement, A has previously made request to
+ other than those required to be receive all reports or documents
+ delivered directly by the of that type, promptly upon
+ Indenture trustee to Party A delivery or receipt of such
+ thereunder. report or document by Party B
+ and delivery shall be satisfied
+ by posting such report on Party
+ B's website
+ http://www.sfr.bankofny.com.
+-------------------------------- ------------------------------------ ---------------------------------- --------------------------
+
+15. WAIVER OF RIGHT TO TRIAL BY JURY.
+
+ EACH PARTY HEREBY IRREVOCABLY WAIVES ANY AND ALL RIGHTS TO TRIAL BY JURY WITH RESPECT
+TO ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS TRANSACTION.
+
+16. ELIGIBLE CONTRACT PARTICIPANT.
+
+ Each party represents to the other party that it is an "eligible contract
+participant" as defined in Section 1a(12) of the U.S. Commodity Exchange Act, as amended.
+
+17. NOTICE BY FACSIMILE TRANSMISSION.
+
+ Section 12(a) of the ISDA Form is hereby amended by deleting the parenthetical
+"(except that a notice or other communication under Section 5 or 6 may not be given by
+facsimile transmission or electronic messaging system)."
+
+18. LIMITATION ON EVENTS OF DEFAULT. Notwithstanding the terms of Sections 5 and 6 of the
+ISDA Form, if at any time and so long as Party B has satisfied in full all its payment
+obligations under Section 2(a)(i) of the ISDA Form and has at the time no future payment
+obligations, whether absolute or contingent, under such Section, then unless Party A is
+required pursuant to appropriate proceedings to return to Party B or otherwise returns to
+Party B upon demand of Party B any portion of any such payment, (a) the occurrence of an event
+described in Section 5(a) of the ISDA Form with respect to Party B shall not constitute an
+Event of Default or Potential Event of Default with respect to Party B as Defaulting Party and
+(b) Party A shall be entitled to designate an Early Termination Date pursuant to Section 6 of
+the ISDA Form only as a result of the occurrence of a Termination Event set forth in either
+Section 5(b)(i) with respect to either Party A or Party B as the Affected Party.
+
+This Agreement may be executed in several counterparts, each of which shall be deemed an
+original but all of which together shall constitute one and the same instrument.
+
+We are very pleased to have executed this Transaction with you and we look forward to
+completing other transactions with you in the near future.
+
+Very truly yours,
+
+HSBC BANK USA, NATIONAL ASSOCIATION
+
+By: _______________DRAFT_________________________
+ Name:
+ Title:
+
+By: ________________DRAFT_________________________
+ Name:
+ Title:
+
+Confirmed as of the date above:
+
+GMACM HOME EQUITY LOAN TRUST 2007-HE2 TRUST
+
+By: The Bank of New York Trust Company, N.A. not in its individual capacity but solely in
+ its capacity as Indenture Trustee for the benefit of the GMACM Home Equity Loan Trust
+ 2007-HE2 Trust
+
+By: ________________DRAFT__________________________
+ Name:
+ Title:
+
+Reference Number: 481784HN/481785HN/TRUST 16
+
+ SCHEDULE A
+
+With respect to calculating a Floating Amount for any Calculation Period falling within the
+periods set forth below, the Calculation Amount shall be the amount set forth opposite the
+relevant period and underneath the caption Calculation Amount, as follows:
+
+----------------------------------------------------------------- ---------------------- -------------
+ For the Calculation Periods Calculation Amount Party A Cap
+ Rate:
+----------------------------------------------------------------- ---------------------- -------------
+-------------------------------- -------------------------------- ---------------------- -------------
+ From and including: To but excluding the in USD:
+-------------------------------- -------------------------------- ---------------------- -------------
+-------------------------------- -------------------------------- ---------------------- -------------
+ The Effective Date August 25, 2007 477,430,683.43 7.810000
+-------------------------------- -------------------------------- ---------------------- -------------
+-------------------------------- -------------------------------- ---------------------- -------------
+ August 25, 2007 September 25, 2007 464,363,869.73 7.810000
+-------------------------------- -------------------------------- ---------------------- -------------
+-------------------------------- -------------------------------- ---------------------- -------------
+ September 25, 2007 October 25, 2007 449,260,547.15 8.080000
+-------------------------------- -------------------------------- ---------------------- -------------
+-------------------------------- -------------------------------- ---------------------- -------------
+ October 25, 2007 November 25, 2007 431,968,706.43 7.790000
+-------------------------------- -------------------------------- ---------------------- -------------
+-------------------------------- -------------------------------- ---------------------- -------------
+ November 25, 2007 December 25, 2007 413,501,206.97 8.050000
+-------------------------------- -------------------------------- ---------------------- -------------
+-------------------------------- -------------------------------- ---------------------- -------------
+ December 25, 2007 January 25, 2008 393,764,342.98 7.790000
+-------------------------------- -------------------------------- ---------------------- -------------
+-------------------------------- -------------------------------- ---------------------- -------------
+ January 25, 2008 February 25, 2008 372,923,800.08 7.790000
+-------------------------------- -------------------------------- ---------------------- -------------
+-------------------------------- -------------------------------- ---------------------- -------------
+ February 25, 2008 March 25, 2008 351,328,831.54 8.340000
+-------------------------------- -------------------------------- ---------------------- -------------
+-------------------------------- -------------------------------- ---------------------- -------------
+ March 25, 2008 April 25, 2008 330,698,559.22 7.790000
+-------------------------------- -------------------------------- ---------------------- -------------
+-------------------------------- -------------------------------- ---------------------- -------------
+ April 25, 2008 May 25, 2008 309,035,342.98 8.060000
+-------------------------------- -------------------------------- ---------------------- -------------
+-------------------------------- -------------------------------- ---------------------- -------------
+ May 25, 2008 June 25, 2008 286,393,685.33 7.790000
+-------------------------------- -------------------------------- ---------------------- -------------
+-------------------------------- -------------------------------- ---------------------- -------------
+ June 25, 2008 July 25, 2008 263,852,729.02 8.090000
+-------------------------------- -------------------------------- ---------------------- -------------
+-------------------------------- -------------------------------- ---------------------- -------------
+ July 25, 2008 August 25, 2008 241,532,672.94 7.820000
+-------------------------------- -------------------------------- ---------------------- -------------
+-------------------------------- -------------------------------- ---------------------- -------------
+ August 25, 2008 September 25, 2008 219,548,870.78 7.820000
+-------------------------------- -------------------------------- ---------------------- -------------
+-------------------------------- -------------------------------- ---------------------- -------------
+ September 25, 2008 October 25, 2008 198,011,520.24 8.090000
+-------------------------------- -------------------------------- ---------------------- -------------
+-------------------------------- -------------------------------- ---------------------- -------------
+ October 25, 2008 November 25, 2008 176,911,700.34 7.820000
+-------------------------------- -------------------------------- ---------------------- -------------
+-------------------------------- -------------------------------- ---------------------- -------------
+ November 25, 2008 December 25, 2008 156,240,666.58 8.090000
+-------------------------------- -------------------------------- ---------------------- -------------
+-------------------------------- -------------------------------- ---------------------- -------------
+ December 25, 2008 January 25, 2009 135,989,847.51 7.830000
+-------------------------------- -------------------------------- ---------------------- -------------
+-------------------------------- -------------------------------- ---------------------- -------------
+ January 25, 2009 February 25, 2009 116,150,841.31 7.830000
+-------------------------------- -------------------------------- ---------------------- -------------
+-------------------------------- -------------------------------- ---------------------- -------------
+ February 25, 2009 March 25, 2009 96,715,412.47 8.680000
+-------------------------------- -------------------------------- ---------------------- -------------
+-------------------------------- -------------------------------- ---------------------- -------------
+ March 25, 2009 April 25, 2009 77,675,488.49 7.830000
+-------------------------------- -------------------------------- ---------------------- -------------
+-------------------------------- -------------------------------- ---------------------- -------------
+ April 25, 2009 May 25, 2009 59,023,156.70 8.090000
+-------------------------------- -------------------------------- ---------------------- -------------
+-------------------------------- -------------------------------- ---------------------- -------------
+ May 25, 2009 June 25, 2009 40,750,661.10 7.830000
+-------------------------------- -------------------------------- ---------------------- -------------
+-------------------------------- -------------------------------- ---------------------- -------------
+ June 25, 2009 July 25, 2009 22,850,399.30 8.100000
+-------------------------------- -------------------------------- ---------------------- -------------
+-------------------------------- -------------------------------- ---------------------- -------------
+ July 25, 2009 The Termination Date 5,314,919.45 7.830000
+-------------------------------- -------------------------------- ---------------------- -------------
+
+* All dates listed above (with the exception of the Effective Date) are subject to
+adjustment in accordance with the Following Business Day Convention
+
+ ANNEX A
+
+ ISDA(R)
+ CREDIT SUPPORT ANNEX
+ to the Schedule to the
+ ISDA Master Agreement
+ dated as of June 28, 2007 between
+ HSBC Bank USA, National Association (hereinafter referred to as "PARTY A" or "PLEDGOR")
+ and
+ The Bank of New York Trust Company, N.A. not in its individual capacity but solely as
+ indenture trustee on behalf of GMACM Home Equity Loan Trust 2007-HE2
+ (hereinafter referred to as "PARTY B" or "SECURED PARTY").
+
+For the avoidance of doubt, and notwithstanding anything to the contrary that may be
+contained in the Agreement, this Credit Support Annex shall relate solely to the Transaction
+documented in the Confirmation dated June 28, 2007, between Party A and Party B, Reference
+Number 481784HN and 481785HN.
+
+PARAGRAPH 13. ELECTIONS AND VARIABLES.
+
+(a) SECURITY INTEREST FOR "OBLIGATIONS". The term "OBLIGATIONS" as used in this Annex
+ includes the following additional obligations:
+
+ With respect to Party A: not applicable.
+
+ With respect to Party B: not applicable.
+
+(b) CREDIT SUPPORT OBLIGATIONS.
+
+(i) DELIVERY AMOUNT, RETURN AMOUNT AND CREDIT SUPPORT AMOUNT.
+
+(A) "DELIVERY AMOUNT" has the meaning specified in Paragraph 3(a) as amended (I) by
+ deleting the words "upon a demand made by the Secured Party on or
+ promptly following a Valuation Date" and inserting in lieu thereof the
+ words "not later than the close of business on each Valuation Date" and
+ (II) by deleting in its entirety the sentence beginning "Unless
+ otherwise specified in Paragraph 13" and ending "(ii) the Value as of
+ that Valuation Date of all Posted Credit Support held by the Secured
+ Party." and inserting in lieu thereof the following:
+
+ The "DELIVERY AMOUNT" applicable to the Pledgor for any Valuation Date
+ will equal the greatest of
+
+ (1) the amount by which (a) the S&P Credit Support Amount for such
+ Valuation Date exceeds (b) the S&P Value as of such Valuation
+ Date of all Posted Credit Support held by the Secured Party,
+
+ (2) the amount by which (a) the Moody's First Trigger Credit
+ Support Amount for such Valuation Date exceeds (b) the Moody's
+ First Trigger Value as of such Valuation Date of all Posted
+ Credit Support held by the Secured Party, and
+
+ (3) the amount by which (a) the Moody's Second Trigger Credit
+ Support Amount for such Valuation Date exceeds (b) the Moody's
+ Second Trigger Value as of such Valuation Date of all Posted
+ Credit Support held by the Secured Party.
+
+(B) "RETURN AMOUNT" has the meaning specified in Paragraph 3(b) as amended by deleting in
+ its entirety the sentence beginning "Unless otherwise specified in
+ Paragraph 13" and ending "(ii) the Credit Support Amount." and
+ inserting in lieu thereof the following:
+
+ The "RETURN AMOUNT" applicable to the Secured Party for any Valuation
+ Date will equal the least of
+
+ (1) the amount by which (a) the S&P Value as of such Valuation Date
+ of all Posted Credit Support held by the Secured Party exceeds
+ (b) the S&P Credit Support Amount for such Valuation Date,
+
+ (2) the amount by which (a) the Moody's First Trigger Value as of
+ such Valuation Date of all Posted Credit Support held by the
+ Secured Party exceeds (b) the Moody's First Trigger Credit
+ Support Amount for such Valuation Date, and
+
+ (3) the amount by which (a) the Moody's Second Trigger Value as of
+ such Valuation Date of all Posted Credit Support held by the
+ Secured Party exceeds (b) the Moody's Second Trigger Credit
+ Support Amount for such Valuation Date.
+
+(C) "CREDIT SUPPORT AMOUNT" shall not apply. For purposes of calculating any Delivery
+ Amount or Return Amount for any Valuation Date, reference shall be made
+ to the S&P Credit Support Amount, the Moody's First Trigger Credit
+ Support Amount, or the Moody's Second Trigger Credit Support Amount, in
+ each case for such Valuation Date, as provided in Paragraphs
+ 13(b)(i)(A) and 13(b)(i)(B), above.
+
+(ii) ELIGIBLE COLLATERAL.
+
+ On any date, the items set forth in Schedule I will qualify as "ELIGIBLE
+ COLLATERAL" (for the avoidance of doubt, all Eligible Collateral to be
+ denominated in USD).
+
+(iii) OTHER ELIGIBLE SUPPORT.
+
+ The following items will qualify as "OTHER ELIGIBLE SUPPORT" for the party
+ specified:
+
+ Not applicable.
+
+(iv) THRESHOLD.
+
+(A) "INDEPENDENT AMOUNT" means zero with respect to Party A and Party B.
+
+(B) "THRESHOLD" means, with respect to Party A and any Valuation Date, zero if (i) a
+ Ratings Event or an S&P Required Rating Downgrade has occurred and has
+ been continuing (x) for at least 10 Local Business Days with respect to
+ S&P or (y) for at least 30 days with request to Fitch or Moody's;
+ otherwise, infinity.
+
+ "THRESHOLD" means, with respect to Party B and any Valuation Date,
+ infinity.
+
+(C) "MINIMUM TRANSFER AMOUNT" means USD 50,000 with respect to Party A and Party B.
+
+(D) ROUNDING: The Delivery Amount will be rounded up to the nearest integral multiple of
+ USD 10,000. The Return Amount will be rounded down to the nearest
+ integral multiple of USD 10,000.
+
+(c) VALUATION AND TIMING.
+
+(i) "VALUATION AGENT" means Party A; provided, however, that if an Event of Default shall
+ have occurred with respect to which Party A is the Defaulting Party, Party B
+ shall have the right to designate as Valuation Agent an independent party,
+ reasonably acceptable to Party A, the cost for which shall be borne by Party
+ A. All calculations by the Valuation Agent must be made in accordance with
+ standard market practice, including, in the event of a dispute as to the Value
+ of any Eligible Credit Support or Posted Credit Support, by making reference
+ to quotations received by the Valuation Agent from one or more Pricing Sources.
+
+(ii) "VALUATION DATE" means each Local Business Day on which any of the S&P Credit Support
+ Amount, the Moody's First Trigger Credit Support Amount or the Moody's Second
+ Trigger Credit Support Amount is greater than zero.
+
+(iii) "VALUATION TIME" means the close of business in the city of the Valuation Agent on
+ the Local Business Day immediately preceding the Valuation Date or date of
+ calculation, as applicable; provided that the calculations of Value and
+ Exposure will be made as of approximately the same time on the same date. The
+ Valuation Agent will notify each party (or the other party, if the Valuation
+ Agent is a party) of its calculations not later than the Notification Time on
+ the applicable Valuation Date (or in the case of Paragraph 6(d), the Local
+ Business Day following the day on which such relevant calculations are
+ performed)."
+
+(iv) "NOTIFICATION TIME" means 11:00 a.m., New York time, on a Local Business Day.
+
+(d) CONDITIONS PRECEDENT AND SECURED PARTY'S RIGHTS AND REMEDIES. The following
+ Termination Events will be a "SPECIFIED CONDITION" for the party specified (that
+ party being the Affected Party if the Termination Event occurs with respect to that
+ party): With respect to Party A: any Additional Termination Event with respect to
+ which Party A is the sole Affected Party. With respect to Party B: None.
+
+(e) SUBSTITUTION.
+
+(i) "SUBSTITUTION DATE" has the meaning specified in Paragraph 4(d)(ii).
+
+(ii) CONSENT. If specified here as applicable, then the Pledgor must obtain the Secured
+ Party's consent for any substitution pursuant to Paragraph 4(d): Inapplicable.
+
+(f) DISPUTE RESOLUTION.
+
+(i) "RESOLUTION TIME" means 1:00 p.m. New York time on the Local Business Day following
+ the date on which the notice of the dispute is given under Paragraph 5.
+
+(ii) VALUE. Notwithstanding anything to the contrary in Paragraph 12, for the purpose of
+ Paragraphs 5(i)(C) and 5(ii), the S&P Value, Moody's First Trigger Value, and
+ Moody's Second Trigger Value, on any date, of Eligible Collateral other than
+ Cash will be calculated as follows:
+
+ For Eligible Collateral in the form of securities listed in Paragraph
+ 13(b)(ii): the sum of (A) the product of (1)(x) the bid price at the Valuation
+ Time for such securities on the principal national securities exchange on
+ which such securities are listed, or (y) if such securities are not listed on
+ a national securities exchange, the bid price for such securities quoted at
+ the Valuation Time by any principal market maker for such securities selected
+ by the Valuation Agent, or (z) if no such bid price is listed or quoted for
+ such date, the bid price listed or quoted (as the case may be) at the
+ Valuation Time for the day next preceding such date on which such prices were
+ available and (2) the applicable Valuation Percentage for such Eligible
+ Collateral, and (B) the accrued interest on such securities (except to the
+ extent Transferred to the Pledgor pursuant to Paragraph 6(d)(ii) or included
+ in the applicable price referred to in the immediately preceding clause (A))
+ as of such date.
+
+(iii) ALTERNATIVE. The provisions of Paragraph 5 will apply.
+
+(g) HOLDING AND USING POSTED COLLATERAL.
+
+(i) ELIGIBILITY TO HOLD POSTED COLLATERAL; CUSTODIANS. Party B (or any Custodian) will
+ be entitled to hold Posted Collateral pursuant to Paragraph 6(b).
+
+ Party B may appoint as Custodian (A) the entity then serving as Indenture
+ Trustee or (B) any entity other than the entity then serving as Indenture
+ Trustee if such other entity (or, to the extent applicable, its parent company
+ or credit support provider) shall then have a short-term unsecured and
+ unsubordinated debt rating from S&P of at least "A-1."
+
+ Initially, the CUSTODIAN for Party B is: Indenture Trustee.
+
+(ii) USE OF POSTED COLLATERAL. The provisions of Paragraph 6(c)(i) will not apply to
+ Party B, but the provisions of Paragraph 6(c)(ii) will apply to Party B.
+
+(h) DISTRIBUTIONS AND INTEREST AMOUNT.
+
+(i) INTEREST RATE. The "INTEREST RATE" will be the actual interest rate earned on Posted
+ Collateral in the form of Cash that is held by Party B or its Custodian.
+ Posted Collateral in the form of Cash shall be invested in such overnight (or
+ redeemable within two Local Business Days of demand) Permitted Investments
+ rated at least (x) AAAm or AAAm-G by S&P and (y) Prime-1 by Moody's or Aaa by
+ Moody's, as directed by Party A (unless (x) an Event of Default or an
+ Additional Termination Event has occurred with respect to which Party A is the
+ defaulting or sole Affected Party or (y) an Early Termination Date has been
+ designated, in which case such investment shall be held uninvested). Gains
+ and losses incurred in respect of any investment of Posted Collateral in the
+ form of Cash in Permitted Investments as directed by Party A shall be for the
+ account of Party A.
+
+(ii) TRANSFER OF INTEREST AMOUNT. The Transfer of the Interest Amount will be made on the
+ second Local Business Day following the end of each calendar month and on any
+ other Local Business Day on which Posted Collateral in the form of Cash is
+ Transferred to the Pledgor pursuant to Paragraph 3(b); provided, however, that
+ the obligation of Party B to Transfer any Interest Amount to Party A shall be
+ limited to the extent that Party B has earned and received such funds and such
+ funds are available to Party B.
+
+(iii) ALTERNATIVE TO INTEREST AMOUNT. The provisions of Paragraph 6(d)(ii) will apply.
+
+(i) ADDITIONAL REPRESENTATION(S). There are no additional representations by either
+ party.
+
+(j) OTHER ELIGIBLE SUPPORT AND OTHER POSTED SUPPORT.
+
+(i) "VALUE" with respect to Other Eligible Support and Other Posted Support means: not
+ applicable.
+
+(ii) "TRANSFER" with respect to Other Eligible Support and Other Posted Support means: not
+ applicable.
+
+(k) DEMANDS AND NOTICES.All demands, specifications and notices under this Annex will be
+ made pursuant to the Notices Section of this Agreement, except that any demand,
+ specification or notice shall be given to or made at the following addresses, or at
+ such other address as the relevant party may from time to time designate by giving
+ notice (in accordance with the terms of this paragraph) to the other party:
+
+ If to Party A, at the address specified pursuant to the Notices Section of this
+ Agreement.
+
+ If to Party B, at the address specified pursuant to the Notices Section of this
+ Agreement.
+
+ If to Party B's Custodian:
+
+ Attn: The Bank of New York Trust Company, N.A.
+ 2 North LaSalle Street, Suite 1020
+ Chicago, IL 60602
+ Telephone no.:(312) 827-8572
+ Facsimile no.:(312) 827-8562/3
+
+(l) ADDRESS FOR TRANSFERS. Each Transfer hereunder shall be made to the address
+ specified below or to an address specified in writing from time to time by the party
+ to which such Transfer will be made.
+
+ Party A account details for holding collateral:
+
+ HSBC Bank USA, National Association
+ ABA # 021-001-088
+ For credit to Department 299
+ A/C: 000-04929-8
+ HSBC Derivative Products Group
+
+ Party B's Custodian account details for holding collateral
+
+ Bank of New York - New York, NY
+ ABA # 021000018
+ For final credit to: #156595
+ Account Name: GMACM 2007-HE2 Payment Account
+ Attn: Keith Richardson
+
+(m) OTHER PROVISIONS.
+
+(i) COLLATERAL ACCOUNT. Party B shall open and maintain a segregated account, which
+ shall be an Eligible Account, and hold, record and identify all Posted
+ Collateral in such segregated account.
+
+(ii) AGREEMENT AS TO SINGLE SECURED PARTY AND SINGLE PLEDGOR. Party A and Party B hereby
+ agree that, notwithstanding anything to the contrary in this Annex, (a) the
+ term "Secured Party" as used in this Annex means only Party B, (b) the term
+ "Pledgor" as used in this Annex means only Party A, (c) only Party A makes the
+ pledge and grant in Paragraph 2, the acknowledgement in the final sentence of
+ Paragraph 8(a) and the representations in Paragraph 9.
+
+(iii) CALCULATION OF VALUE. Paragraph 4(c) is hereby amended by deleting the word "Value"
+ and inserting in lieu thereof "S&P Value, Moody's First Trigger Value, Moody's
+ Second Trigger Value". Paragraph 4(d)(ii) is hereby amended by (A) deleting
+ the words "a Value" and inserting in lieu thereof "an S&P Value, Moody's First
+ Trigger Value, and Moody's Second Trigger Value" and (B) deleting the words
+ "the Value" and inserting in lieu thereof "S&P Value, Moody's First Trigger
+ Value, and Moody's Second Trigger Value". Paragraph 5 (flush language) is
+ hereby amended by deleting the word "Value" and inserting in lieu thereof "S&P
+ Value, Moody's First Trigger Value, or Moody's Second Trigger Value".
+ Paragraph 5(i) (flush language) is hereby amended by deleting the word "Value"
+ and inserting in lieu thereof "S&P Value, Moody's First Trigger Value, and
+ Moody's Second Trigger Value". Paragraph 5(i)(C) is hereby amended by
+ deleting the word "the Value, if" and inserting in lieu thereof "any one or
+ more of the S&P Value, Moody's First Trigger Value, or Moody's Second Trigger
+ Value, as may be". Paragraph 5(ii) is hereby amended by (1) deleting the
+ first instance of the words "the Value" and inserting in lieu thereof "any one
+ or more of the S&P Value, Moody's First Trigger Value, or Moody's Second
+ Trigger Value" and (2) deleting the second instance of the words "the Value"
+ and inserting in lieu thereof "such disputed S&P Value, Moody's First Trigger
+ Value, or Moody's Second Trigger Value". Each of Paragraph 8(b)(iv)(B) and
+ Paragraph 11(a) is hereby amended by deleting the word "Value" and inserting
+ in lieu thereof "least of the S&P Value, Moody's First Trigger Value, and
+ Moody's Second Trigger Value".
+
+(iv) FORM OF ANNEX. Party A and Party B hereby agree that the text of Paragraphs 1
+ through 12, inclusive, of this Annex is intended to be the printed form of
+ ISDA Credit Support Annex (Bilateral Form - ISDA Agreements Subject to New
+ York Law Only version) as published and copyrighted in 1994 by the
+ International Swaps and Derivatives Association, Inc.
+
+(v) EVENTS OF DEFAULT. Paragraph 7 will not apply to cause any Event of Default to exist
+ with respect to Party B except that Paragraph 7(i) will apply to Party B
+ solely in respect of Party B's obligations under Paragraph 3(b) of the Credit
+ Support Annex. Notwithstanding anything to the contrary in Paragraph 7, any
+ failure by Party A to comply with or perform any obligation to be complied
+ with or performed by Party A under the Credit Support Annex shall only be an
+ Event of Default if (A) a S&P Required Ratings Downgrade Event has occurred
+ and been continuing for 30 or more Local Business Days, and (B) such failure
+ is not remedied on or before the third Local Business Day after notice of such
+ failure is given to Party A.
+
+(vi) EXPENSES. Notwithstanding anything to the contrary in Paragraph 10, the Pledgor will
+ be responsible for, and will reimburse the Secured Party for, all transfer and
+ other taxes and other costs involved in any Transfer of Eligible Collateral.
+
+(vii) WITHHOLDING. Paragraph 6(d)(ii) is hereby amended by inserting immediately after
+ "the Interest Amount" in the fourth line thereof the words "less any
+ applicable withholding taxes."
+
+ (ix) ADDITIONAL DEFINITIONS. As used in this Annex:
+
+ "COLLATERAL EVENT" means that no Relevant Entity has credit ratings at least
+ equal to the Approved Ratings Threshold.
+
+ "EXPOSURE" has the meaning specified in Paragraph 12, except that after the
+ word "Agreement" the words "(assuming, for this purpose only, that Part 1(f)
+ of the Schedule is deleted)" shall be inserted.
+
+ "LOCAL BUSINESS DAY" means: any day on which (A) commercial banks are open for
+ business (including dealings in foreign exchange and foreign currency
+ deposits) in New York and the location of Party A, Party B and any Custodian,
+ and (B) in relation to a Transfer of Eligible Collateral, any day on which the
+ clearance system agreed between the parties for the delivery of Eligible
+ Collateral is open for acceptance and execution of settlement instructions (or
+ in the case of a Transfer of Cash or other Eligible Collateral for which
+ delivery is contemplated by other means a day on which commercial banks are
+ open for business (including dealings in foreign exchange and foreign
+ deposits) in New York and the location of Party A, Party B and any Custodian.
+
+ "MOODY'S FIRST TRIGGER EVENT" means that no Relevant Entity has credit ratings
+ from Moody's at least equal to the Moody's First Trigger Ratings Threshold.
+
+ "MOODY'S FIRST TRIGGER CREDIT SUPPORT AMOUNT" means, for any Valuation Date,
+ the excess, if any, of
+
+ (I) (A) for any Valuation Date on which (I) a Moody's First Trigger
+ Event has occurred and has been continuing (x) for at least 30
+ Local Business Days or (y) since this Annex was executed and
+ (II) it is not the case that a Moody's Second Trigger Event has
+ occurred and been continuing for at least 30 Local Business
+ Days, an amount equal to the greater of (a) zero and (b) the
+ sum of (i) the Secured Party's Exposure for such Valuation Date
+ and (ii) the sum, for each Transaction to which this Annex
+ relates, of the product of (1) the applicable Moody's First
+ Trigger Factor set forth in Table 1, (2) 250 and (3) the
+ Notional Amount for such Transaction for the Calculation Period
+ which includes such Valuation Date; or
+
+ (B) for any other Valuation Date, zero, over
+
+ (II) the Threshold for Party A such Valuation Date.
+
+ "MOODY'S FIRST TRIGGER RATINGS THRESHOLD" means, with respect to Party A, the
+ guarantor under an Eligible Guarantee or an Eligible Replacement, (i) if such
+ entity has a short-term unsecured and unsubordinated debt rating from Moody's, a
+ long-term unsecured and unsubordinated debt rating or counterparty rating from
+ Moody's of "A2" and a short-term unsecured and unsubordinated debt rating from
+ Moody's of "Prime-1", or (ii) if such entity does not have a short-term
+ unsecured and unsubordinated debt rating or counterparty rating from Moody's, a
+ long-term unsecured and unsubordinated debt rating or counterparty rating from
+ Moody's of "A1".
+
+ "MOODY'S FIRST TRIGGER VALUE" means, on any date and with respect to any
+ Eligible Collateral other than Cash, the bid price obtained by the Valuation
+ Agent multiplied by the Moody's First Trigger Valuation Percentage for such
+ Eligible Collateral set forth in Paragraph 13(b)(ii).
+
+ "MOODY'S SECOND TRIGGER EVENT" means that no Relevant Entity has credit
+ ratings from Moody's at least equal to the Moody's Second Trigger Ratings
+ Threshold.
+
+ "MOODY'S SECOND TRIGGER CREDIT SUPPORT AMOUNT" means, for any Valuation Date,
+ the excess, if any, of
+
+ (I) (A) for any Valuation Date on which it is the case that a Moody's
+ Second Trigger Event has occurred and been continuing for at
+ least 30 Local Business Days, an amount equal to the greatest
+ of (a) zero, (b) the aggregate amount of the next payment due
+ to be paid by Party A under each Transaction to which this
+ Annex relates, and (c) the sum of (x) the Secured Party's
+ Exposure for such Valuation Date and (y) the sum, for each
+ Transaction to which this Annex relates, of
+
+ (1) if such Transaction is not a Transaction-Specific Hedge,
+ the product of (i) the applicable Moody's Second Trigger Factor
+ set forth in Table 2, (ii) 250 and (iii) the Notional Amount
+ for such Transaction for the Calculation Period which includes
+ such Valuation Date; or
+
+ (2) the product of (i) the applicable Moody's Second Trigger
+ Factor set forth in Table 3, (ii) 250 and (iii) the Notional
+ Amount for such Transaction for the Calculation Period which
+ includes such Valuation Date; or
+
+ (B) for any other Valuation Date, zero, over
+
+ (II) the Threshold for Party A for such Valuation Date.
+
+ "MOODY'S SECOND TRIGGER RATINGS THRESHOLD" means, with respect to Party A, the
+ guarantor under an Eligible Guarantee or an Eligible Replacement, (i) if such
+ entity has a short-term unsecured and unsubordinated debt rating from Moody's, a
+ long-term unsecured and unsubordinated debt rating or counterparty rating from
+ Moody's of "A3" and a short-term unsecured and unsubordinated debt rating from
+ Moody's of "Prime-2", or (ii) if such entity does not have a short-term
+ unsecured and unsubordinated debt rating from Moody's, a long-term unsecured and
+ unsubordinated debt rating or counterparty rating from Moody's of "A3".
+
+ "MOODY'S SECOND TRIGGER VALUE" means, on any date and with respect to any
+ Eligible Collateral other than Cash, the bid price obtained by the Valuation
+ Agent multiplied by the Moody's Second Trigger Valuation Percentage for such
+ Eligible Collateral set forth in Paragraph 13(b)(ii).
+
+ "PRICING SOURCES" means the sources of financial information commonly known as
+ Bloomberg, Bridge Information Services, Data Resources Inc., Interactive Data
+ Services, International Securities Market Association, Merrill Lynch
+ Securities Pricing Service, Muller Data Corporation, Reuters, Wood Gundy,
+ Trepp Pricing, JJ Kenny, S&P and Telerate.
+
+ "S&P APPROVED RATINGS THRESHOLD" means, with respect to Party A, the guarantor
+ under an Eligible Guarantee or an Eligible Replacement, a short-term unsecured
+ and unsubordinated debt rating from S&P of "A-1", or, if such entity does not
+ have a short-term unsecured and unsubordinated debt rating from S&P, a long-term
+ unsecured and unsubordinated debt rating from S&P of "A+".
+
+ "S&P CREDIT SUPPORT AMOUNT" means, (a) if an S&P Approved Ratings Downgrade
+ has occurred and has continued for 10 Local Business Days, for any Valuation
+ Date, the Exposure; (b) if an S&P Required Ratings Downgrade has occurred and
+ has continued for 10 Local Business Days: an amount equal to 125% of the
+ Exposure or (c) if the Threshold is Infinity: zero.
+
+ "S&P VALUE" means, on any date and with respect to any Eligible Collateral,
+ the product of (A) the bid price (or face value with respect to Cash) obtained
+ by the Valuation Agent for such Eligible Collateral and (B) the S&P Approved
+ Ratings Downgrade Valuation Percentage or S&P Required Ratings Downgrade
+ Valuation Percentage, as applicable, for such Eligible Collateral set forth in
+ paragraph 13(b)(ii).
+
+ "TRANSACTION EXPOSURE" means, for any Transaction, Exposure determined as if
+ such Transaction were the only Transaction between the Secured Party and the
+ Pledgor.
+
+ "TRANSACTION-SPECIFIC HEDGE" means any Transaction that is (i) an interest
+ rate swap in respect of which (x) the notional amount of the interest rate
+ swap is "balance guaranteed" or (y) the notional amount of the interest rate
+ swap for any Calculation Period otherwise is not a specific dollar amount that
+ is fixed at the inception of the Transaction, (ii) an interest rate cap, (iii)
+ an interest rate floor or (iv) an interest rate swaption.
+
+ "VALUATION PERCENTAGE" shall mean, for purposes of determining the S&P Value,
+ Moody's First Trigger Value, or Moody's Second Trigger Value with respect to
+ any Eligible Collateral or Posted Collateral, the applicable S&P Approved
+ Ratings Downgrade Valuation Percentage, S&P Required Ratings Downgrade
+ Valuation Percentage, Moody's First Trigger Valuation Percentage, or Moody's
+ Second Trigger Valuation Percentage for such Eligible Collateral or Posted
+ Collateral, respectively, in each case as set forth in Paragraph 13(b)(ii).
+
+ "VALUE" shall mean, in respect of any date, the related S&P Value, the related
+ Moody's First Trigger Value, and the related Moody's Second Trigger Value.
+
+ [Remainder of this page intentionally left blank]
+
+ Table 1
+
+ MOODY'S FIRST TRIGGER FACTOR
+
+ REMAINING DAILY
+ WEIGHTED AVERAGE LIFE COLLATERAL
+ OF HEDGE IN YEARS POSTING
+ 1 or less 0.15%
+More than 1 but not more than 2 0.30%
+More than 2 but not more than 3 0.40%
+More than 3 but not more than 4 0.60%
+More than 4 but not more than 5 0.70%
+More than 5 but not more than 6 0.80%
+More than 6 but not more than 7 1.00%
+More than 7 but not more than 8 1.10%
+More than 8 but not more than 9 1.20%
+More than 9 but not more than 10 1.30%
+More than 10 but not more than 11 1.40%
+More than 11 but not more than 12 1.50%
+More than 12 but not more than 13 1.60%
+More than 13 but not more than 14 1.70%
+More than 14 but not more than 15 1.80%
+More than 15 but not more than 16 1.90%
+More than 16 but not more than 17 2.00%
+More than 17 but not more than 18 2.00%
+More than 18 but not more than 19 2.00%
+More than 19 but not more than 20 2.00%
+More than 20 but not more than 21 2.00%
+More than 21 but not more than 22 2.00%
+More than 22 but not more than 23 2.00%
+More than 23 but not more than 24 2.00%
+More than 24 but not more than 25 2.00%
+More than 25 but not more than 26 2.00%
+More than 26 but not more than 27 2.00%
+More than 27 but not more than 28 2.00%
+More than 28 but not more than 29 2.00%
+ More than 29 2.00%
+
+ Table 2
+
+ MOODY'S SECOND TRIGGER FACTOR FOR INTEREST RATE SWAPS WITH FIXED NOTIONAL AMOUNTS
+
+ REMAINING DAILY
+ WEIGHTED AVERAGE LIFE COLLATERAL
+ OF HEDGE IN YEARS POSTING
+ 1 or less 0.50%
+More than 1 but not more than 2 1.00%
+More than 2 but not more than 3 1.50%
+More than 3 but not more than 4 1.90%
+More than 4 but not more than 5 2.40%
+More than 5 but not more than 6 2.80%
+More than 6 but not more than 7 3.20%
+More than 7 but not more than 8 3.60%
+More than 8 but not more than 9 4.00%
+More than 9 but not more than 10 4.40%
+More than 10 but not more than 11 4.70%
+More than 11 but not more than 12 5.00%
+More than 12 but not more than 13 5.40%
+More than 13 but not more than 14 5.70%
+More than 14 but not more than 15 6.00%
+More than 15 but not more than 16 6.30%
+More than 16 but not more than 17 6.60%
+More than 17 but not more than 18 6.90%
+More than 18 but not more than 19 7.20%
+More than 19 but not more than 20 7.50%
+More than 20 but not more than 21 7.80%
+More than 21 but not more than 22 8.00%
+More than 22 but not more than 23 8.00%
+More than 23 but not more than 24 8.00%
+More than 24 but not more than 25 8.00%
+More than 25 but not more than 26 8.00%
+More than 26 but not more than 27 8.00%
+More than 27 but not more than 28 8.00%
+More than 28 but not more than 29 8.00%
+ More than 29 8.00%
+
+[PG NUMBER]
+
+ Copyright(C)1994 by International Swaps and Derivatives Association, Inc.
+
+ Table 3
+
+ MOODY'S SECOND TRIGGER FACTOR FOR TRANSACTION-SPECIFIC HEDGES
+
+ REMAINING DAILY
+ WEIGHTED AVERAGE LIFE COLLATERAL
+ OF HEDGE IN YEARS POSTING
+ 1 or less 0.65%
+More than 1 but not more than 2 1.30%
+More than 2 but not more than 3 1.90%
+More than 3 but not more than 4 2.50%
+More than 4 but not more than 5 3.10%
+More than 5 but not more than 6 3.60%
+More than 6 but not more than 7 4.20%
+More than 7 but not more than 8 4.70%
+More than 8 but not more than 9 5.20%
+More than 9 but not more than 10 5.70%
+More than 10 but not more than 11 6.10%
+More than 11 but not more than 12 6.50%
+More than 12 but not more than 13 7.00%
+More than 13 but not more than 14 7.40%
+More than 14 but not more than 15 7.80%
+More than 15 but not more than 16 8.20%
+More than 16 but not more than 17 8.60%
+More than 17 but not more than 18 9.00%
+More than 18 but not more than 19 9.40%
+More than 19 but not more than 20 9.70%
+More than 20 but not more than 21 10.00%
+More than 21 but not more than 22 10.00%
+More than 22 but not more than 23 10.00%
+More than 23 but not more than 24 10.00%
+More than 24 but not more than 25 10.00%
+More than 25 but not more than 26 10.00%
+More than 26 but not more than 27 10.00%
+More than 27 but not more than 28 10.00%
+More than 28 but not more than 29 10.00%
+ More than 29 10.00%
+
+ SCHEDULE 1
+
+ ELIGIBLE COLLATERAL
+
+ -----------------------------------------------------------------------------------------------------------------------------
+ ELIGIBLE COLLATERAL & VALUATION PERCENTAGES
+ MOODY'S AND S&P
+ -----------------------------------------------------------------------------------------------------------------------------
+ -------- --------------------------------------------- -------------------------------- -------------------------------------
+ VALUATION PERCENTAGE VALUATION PERCENTAGE
+ -------- --------------------------------------------- -------------------------------- -------------------------------------
+ -------- --------------------------------------------- -------------------------------- -------------------------------------
+ MOODY'S S&P
+ -------- --------------------------------------------- -------------------------------- -------------------------------------
+ -------- --------------------------------------------- ----------------- -------------- ------------------- -----------------
+ FIRST TRIGGER SECOND S&P APPROVED S&P REQUIRED
+ RATINGS
+ TRIGGER RATINGS DOWNGRADE DOWNGRADE
+ -------- --------------------------------------------- ----------------- -------------- ------------------- -----------------
+ -------- --------------------------------------------- ----------------- -------------- ------------------- -----------------
+ (A) 100 100 100 80
+ Cash
+ -------- --------------------------------------------- ----------------- -------------- ------------------- -----------------
+ -------- --------------------------------------------- ----------------- -------------- ------------------- -----------------
+ (B) 100 100 98.5 78.45
+ Fixed-rate negotiable debt obligations
+ issued by the U.S. Treasury Department
+ having a remaining maturity on such date of
+ not more than one year
+ -------- --------------------------------------------- ----------------- -------------- ------------------- -----------------
+ -------- --------------------------------------------- ----------------- -------------- ------------------- -----------------
+ (C) 100 94 89.9 74.1
+ Fixed-rate negotiable debt obligations
+ issued by the U.S. Treasury Department
+ having a remaining maturity on such date of
+ more than one year but not more than ten
+ years
+ -------- --------------------------------------------- ----------------- -------------- ------------------- -----------------
+ -------- --------------------------------------------- ----------------- -------------- ------------------- -----------------
+ (D) 100 87 83.9 67.7
+ Fixed-rate negotiable debt obligations
+ issued by the U.S. Treasury Department
+ having a remaining maturity on such date of
+ more than ten years
+ -------- --------------------------------------------- ----------------- -------------- ------------------- -----------------
+ -------- --------------------------------------------- ----------------- -------------- ------------------- -----------------
+ (E) Agency Securities: negotiable debt 100 99 98.5 [TBD]
+ obligations of the Federal National
+ Mortgage Association (FNMA), Federal Home
+ Loan Mortgage Corporation (FHLMC), Federal
+ Home Loan Banks (FHLB), Federal Farm Credit
+ Banks (FFCB), Tennessee Valley Authority
+ (TVA) (collectively, "AGENCY SECURITIES")
+ issued after July 18, 1984 and having a
+ remaining maturity of not more than 1 year.
+ -------- --------------------------------------------- ----------------- -------------- ------------------- -----------------
+ -------- --------------------------------------------- ----------------- -------------- ------------------- -----------------
+ (F) Agency Securities having a remaining 100 98 97.7 [TBD]
+ maturity of greater than 1 year but not
+ more than 2 years.
+ -------- --------------------------------------------- ----------------- -------------- ------------------- -----------------
+ -------- --------------------------------------------- ----------------- -------------- ------------------- -----------------
+ (G) Agency Securities having a remaining 100 97 97.3 [TBD]
+ maturity of greater than 2 years but not
+ more than 3 years.
+ -------- --------------------------------------------- ----------------- -------------- ------------------- -----------------
+ -------- --------------------------------------------- ----------------- -------------- ------------------- -----------------
+ (H) Agency Securities having a remaining 100 96 94.5 [TBD]
+ maturity of greater than 3 years but not
+ more than 5 years.
+ -------- --------------------------------------------- ----------------- -------------- ------------------- -----------------
+ -------- --------------------------------------------- ----------------- -------------- ------------------- -----------------
+ (I) Agency Securities having a remaining 100 94 93.1 [TBD]
+ maturity of greater than 5 years but not
+ more than 7 years.
+ -------- --------------------------------------------- ----------------- -------------- ------------------- -----------------
+ -------- --------------------------------------------- ----------------- -------------- ------------------- -----------------
+ (J) Agency Securities having a remaining 100 93 90.7 [TBD]
+ maturity of greater than 7 years but not
+ more than 10 years.
+ -------- --------------------------------------------- ----------------- -------------- ------------------- -----------------
+ -------- --------------------------------------------- ----------------- -------------- ------------------- -----------------
+ (K) Agency Securities having a remaining 100 88 87.7 [TBD]
+ maturity of greater than 10 years but not
+ more than 20 years.
+ -------- --------------------------------------------- ----------------- -------------- ------------------- -----------------
+ -------- --------------------------------------------- ----------------- -------------- ------------------- -----------------
+ (L) Agency Securities having a remaining 100 86 84.4 [TBD]
+ maturity of greater than 20 years but not
+ more than 30 years.
+ -------- --------------------------------------------- ----------------- -------------- ------------------- -----------------
+
+ IN WITNESS WHEREOF, the parties have executed this Annex by their duly authorized
+representatives as of the date of the Agreement.
+
+ HSBC Bank USA, National Association The Bank of New York Trust Company, N.A. not in its individual
+ capacity but solely in its capacity as indenture trustee on
+ behalf of GMACM Home Equity Loan Trust 2007-HE2
+By: _____________________________ By:_______________________________________
+ Name Name:
+ Title: Title:
+ Date: Date:

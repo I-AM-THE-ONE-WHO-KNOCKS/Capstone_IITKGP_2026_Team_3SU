@@ -1,0 +1,1440 @@
+EX-10.1
+ 2
+ atax-ex101_6.htm
+ EX-10.1
+
+atax-ex101_6.htm
+
+ Exhibit 10.1
+
+ 5 The North Colonnade
+
+ Canary Wharf
+
+ London
+
+ E14 4BB
+
+ United Kingdom
+
+ Tel: +44 (0) 207623 2323
+
+ Reference No.: 36801160B
+
+ USI No.: NYK12226D27
+
+ FM/ATAX II TEBS – Series M-031
+
+ Buyer LEI: 54930060N608ZCQZDB93
+
+ Seller LEI: G5GSEF7VJP5I7OUK5573
+
+ RATE CAP AGREEMENT (SIFMA)
+
+ THIS RATE CAP AGREEMENT (this “Agreement”) is dated as of August 9, 2019 between BARCLAYS BANK PLC (LONDON HEAD OFFICE) (the “Seller”) and ATAX TEBS II, LLC , a Delaware limited liability company (the “Buyer”), whereby the parties agree as follows: 
+
+ Section 1. Definitions and Incorporated Terms . For purposes of this Agreement, the terms set forth below in the Cap Transaction Profile or in Exhibit A shall have the meanings there indicated and capitalized terms that are used and not otherwise defined herein shall have the meanings given to them (as completed herein, where applicable) in the 2006 ISDA Definitions as published by the International Swaps and Derivatives Association, Inc. 
+
+ Cap Transaction Profile
+
+ Notional Amount:
+
+ Initially, USD $79,798,328.00, which shall amortize in accordance with Schedule I hereto.
+
+ Trade Date:
+
+ August 9, 2019
+
+ Effective Date:
+
+ August 15, 2019
+
+ Termination Date:
+
+ August 15, 2024
+
+ Fixed Amount:
+
+ Fixed Rate Payer:
+
+ Buyer
+
+ Buyer’s Payment Date:
+
+ August 13, 2019
+
+ Fixed Amount:
+
+ USD $ 29,527.00
+
+ Barclays Bank PLC is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority (Financial Services Register No. 122702). Registered in England. Registered No. 1026167. Registered office: 1 Churchill Place, London E14 5HP.
+
+ Floating Amounts: 
+
+ Floating Rate Payer:
+
+ Seller
+
+ Cap Rate:
+
+ 4.50% per annum
+
+ Payment Dates:
+
+ Fifteenth calendar day of each month, commencing on September 15, 2019, and ending on the Termination Date, subject to adjustment in accordance with the Following Business Day Convention. 
+
+ Period End Dates:
+
+ Fifteenth calendar day of each month, not subject to adjustment.
+
+ Floating Rate Option:
+
+ USD-SIFMA Municipal Swap Index
+
+ Floating Rate Day
+
+ Count Fraction:
+
+ Actual/Actual
+
+ Reset Dates:
+
+ Effective Date and thereafter Weekly on Thursday.
+
+ Weighted Average Method:
+
+ Applicable
+
+ Business Days:
+
+ A day other than (a) a Saturday or a Sunday, (b) any day on which banking institutions located in the city of New York, New York are authorized or required by law to close, (c) a day on which the New York Stock Exchange is closed, or (d) any day on which Freddie Mac is closed.
+
+ Rounding Convention:
+
+ The simple arithmetic mean of rates expressed as a percentage rounded to five decimal places.
+
+ Calculation Agent:
+
+ The Seller
+
+ Additional Defined Terms
+
+ “ Credit Support Document ” means the Guaranty of the Credit Support Provider, if any, and the Credit Support Annex, each as identified in Exhibit A hereto.
+
+ “ Credit Support Provider ” means the Person (if any) identified as such in Part 3 of Exhibit A.
+
+ “ Damages ” means an amount determined as provided in Section 11(b).
+
+ 2 
+
+ “ Early Termination Date ” has the meaning given to that term in Section 10(b). 
+
+ “ Local Business Day ” in relation to a party means a day on which commercial banks in the city indicated in that party’s address for notices hereunder are open for business.
+
+ “ Market Quotation ” means an amount determined as provided in Section 12.
+
+ “ Person ” means an individual, an estate, a trust, a corporation, a partnership, a limited liability company, or any other organization or entity, whether governmental or private.
+
+ Reference Market‑maker ” has the meaning given to that term in Section 12(a). 
+
+ “ Secured Lender ” means Freddie Mac, and any successors or Permitted Assigns of Freddie Mac as set forth in Section 14 hereof.
+
+ “ Servicer ” means NorthMarq Capital, LLC. 
+
+ “ Standard and Poor’s ” means S&P Global Ratings Inc., and its successors and assigns, if such successors and assigns shall continue to perform the functions of a securities rating agency.
+
+ “ Taxes ,” with respect to payments hereunder by the Seller, means any present or future taxes, levies, imposts, duties or charges of any nature whatsoever that are collectible by withholding except for any such tax, levy, impost, duty or charge that would not have been imposed but for the existence of a connection between the Buyer and the jurisdiction where the Tax is imposed.
+
+ “ Termination Event ” has the meaning given to that term in Section 9.
+
+ Section 2. Payments . On the Payment Date for the Buyer, it shall pay the Fixed Amount and, on each Payment Date for the Seller, it shall pay the Fl oating Amount for the Calculation Period ending on that Payment Date. The Seller’s obligation to make any payment hereunder shall be subject to the condition precedent that the Buyer has paid the Fixed Amount. If the Buyer fails to pay the Fixed Amount to the Seller as and when due hereunder and does not remedy the failure on or before the third Local Business Day after notice from the Seller, the Seller may, by notice to the Buyer given not later than the fifth Local Business Day after the end of the Buyer’s cure period, declare this Agreement to be terminated, whereupon neither party shall have any further obligation hereunder, except for the Buyer’s obligation to pay interest pursuant to Section 4. Notwithstanding the foregoing, the Buyer shall, upon failure to pay the Fixed Amount, remain liable to the Seller to pay the value of this Agreement, calculated, on the date Seller declares this Agreement terminated, on the basis of Market Quotation, which, for purposes of this Section 2 only, shall be determined pursuant to Section 12, substituting the word “Seller” in each instance when the word “Buyer” is utilized in such section and the quotation referred to in Section 12(b) shall be the amount in Dollars that a Reference Market‑Maker would charge as a Fixed Amount on such date of declaration of termination; provided, however, that if a Market Quotation cannot be determined, the Seller shall reasonably determine in good faith an amount equal to its total losses and costs in connection with this Agreement, including any loss of bargain, cost of funding or, at the election of the Seller but without duplication, loss or cost incurred as a result of its terminating, liquidating, obtaining or reestablishing any hedge or related trading position. The value of this Agreement, if any, shall be the original Fixed Amount less the amount of the Market Quotation determined in the manner described in the previous sentence. If the difference is a negative number, the value of this Agreement shall be zero. 
+
+ 3 
+
+ Section 3. Maki ng of Payments . All payments hereunder shall be made to the account of the intended payee specified in Exhibit A, or to such other account in New York City as that party may have last specified by notice to the party required to make the payment. All suc h payments shall be made in funds settled through the New York Clearing House Interbank Payments System or such other same ‑day funds as are customary at the time for the settlement in New York City of banking transactions denominated in Dollars. 
+
+ Section 4. Interest on Overdue Amounts . If any amount due hereunder is not paid when due, interest shall accrue on that amount to the extent permitted by applicable law at a rate per annum equal for each day that amount remains unpaid to the sum of 1% and the rate per annum equal to the cost (without proof or evidence of any actual cost) to the intended payee (as certified by it) if it were to fund or of funding the relevant amount for that day. 
+
+ Section 5. Supervening Illegality . If it becomes unlawful for either party to make any payment to be made by it hereunder, as a result of the adoption of, or any change in, or change in the interpretation of, any law, regulation or treaty, that party shall give notice to that effect to the other party and shall use reasonable efforts (a) to assign or transfer its rights and obligations under this Agreement, subject to Section 14, to another of its branches, offices or affiliates, or to any leading participant in the interest rate cap market, that may make those payments lawfully and without withholding for or on account of Taxes or (b) to agree with that other party to modify this Agreement or change the method of payment hereunder so that the payment will not be unlawful. If an assignment or agreement is not made as provided herein on or before the tenth Business Day after that notice becomes effective, either party may give notice of termination as provided in Section 10. 
+
+ Section 6. Taxes . 
+
+ (a) Except as otherwise required by law, each payment hereunder shall be made without withholding for or on account of Taxes. If a party is required to make any withholding from any payment under this Agreement for or on account of Taxes, it shall:
+
+ (i) make that withholding; 
+
+ (ii) make timely payment of the amount withheld to the appropriat e governmental authority;
+
+ (iii) forthwith pay the other party such additional amount as may be necessary to ensure that the net amount actually received by it free and clear of Taxes (including any Taxes on the additional amount) is equal to the amount tha t it would have received had no Taxes been withheld; and
+
+ (iv) on or before the thirtieth day after payment, send the payee the original or a certified copy of an official tax receipt evidencing that payment; provided, however, that if the representation and warranty made by a party in Section 7(c) proves not to have been true when made or, if repeated on each Payment Date, would not then be true, or if a party fails to perform or observe any of its covenants set forth in Section 7 or Section 8, the other party shall be under no obligation to pay any additional amount hereunder to the extent that the withholding would not have been required if the representation and warranty had been true when made, or would have been true if so repeated, or if the failure had not occurred.
+
+ 4 
+
+ (b) If a party would be required to make any withholding for or on account of Taxes and pay any additional amount as provided in Section 6(a) with respect to any payment to be made by it in accordance with Section 2, it shall give notice to that effect to the other party and shall use reasonable efforts 
+
+ (i) to assign or transfer its rights and obligations under this Agreement, subject to Section 14, to another of its branches, offices or affiliates, or to any leading participant in the int erest rate cap market, that may make the payments to be made by it hereunder lawfully and without withholding for or on account of Taxes; or
+
+ (ii) to agree with that other party to modify this Agreement or change the method of payment hereunder so that thos e payments will not be subject to the withholding. If an assignment or agreement is not made as provided herein on or before the tenth day after that notice becomes effective, the party that would be required to make the withholding may give notice of termination as provided in Section 10.
+
+ Section 7. Representations and Warranties. 
+
+ (a) Each of the parties makes the representations and warranties set forth below to the other as of the date hereof: 
+
+ (i) It is duly organized and validly existing and has the co rporate, partnership or other power as a company and the authority to execute and deliver this Agreement and to perform its obligations hereunder;
+
+ (ii) It has taken all necessary action to authorize its execution and delivery of this Agreement and the perf ormance of its obligations hereunder;
+
+ (iii) All governmental authorizations and actions necessary in connection with its execution and delivery of this Agreement and the performance of its obligations hereunder have been obtained or performed and remain va lid and in full force and effect; 
+
+ (iv) This Agreement has been duly executed and delivered by it and constitutes its legal, valid and binding obligation, enforceable against it in accordance with the terms of this Agreement, subject to all applicable bank ruptcy, insolvency, moratorium and similar laws affecting creditors’ rights generally;
+
+ (v) There are no actions, proceedings or claims pending or, to its knowledge, threatened, the adverse determination of which might have a materially adverse effect on it s ability to perform its obligations under, or affect the validity or enforceability against it of, this Agreement;
+
+ (vi) Each of the documents delivered by it hereunder is, as of the date stated in such document, true, accurate and complete in every materi al respect or, in the case of financial statements, fairly presents the condition of the Person indicated therein; and
+
+ 5 
+
+ (vii) Its execution, delivery and performance of this Agreement do not violate or conflict with any law applicable to it, any provision o f its constitutional documents, any order or judgment of any court or other agency of government applicable to it or any of its assets or any contractual restriction binding on or affecting it or any of its assets. 
+
+ (b) The Seller makes the following additi onal representations and warranties to the Buyer:
+
+ (i) No event or condition that constitutes (or that with the giving of notice or the lapse of time or both would constitute) a Termination Event with respect to it has occurred and is continuing or will occur by reason of its entering into or performing its obligations under this Agreement.
+
+ (ii) Seller is and shall be the reporting party for the Transaction pursuant to Section 4r(a)(3) of the Commodity Exchange Act, as amended (“CEA”), and shall report th e Transaction to a Swap Data Repository (as defined in Section 1a(48) of the CEA, pursuant to any requirements of 17 CFR Part 44, 45 and 46 applicable to the Transaction.
+
+ (c) In addition, if an Exhibit B on Tax Representations and Covenants is made a part of this Agreement, each of the Buyer and the Seller makes the representations and warranties set forth therein to the other and covenants as set forth therein with the other with respect to certain matters relating to Taxes.
+
+ (d) Buyer represents that it is not a governmental, quasi-governmental, municipal or similar public entity and is not otherwise owned or controlled by any such entity.
+
+ Section 8. Documents . At or before the time of execution of this Agreement, each party shall deliver to the other evidence of the truth and accuracy of its representations in subsections (ii) and (iii) of Section 7(a) as well as evidence of the authority, incumbency and specimen signature of each Person authorized to execute and deliver this Agreement or any other document to be delivered under this Agreement on its behalf. In addition, the Seller shall deliver to the Buyer at the times specified in Part 2 of Exhibit A, each of the documents there specified. 
+
+ Section 9. Termination Events . For purposes of this Agreement, “Termination Event” means each of the events and circumstances listed below: 
+
+ (a) The Seller fails to pay any amount payable by it hereunder as and when that amount becomes payable and does not remedy that failure on or before the third Local Business Day a fter notice from the Buyer of the failure;
+
+ (b) Any representation or warranty made by the Seller in this Agreement, other than in Section 7(c), or made by any Credit Support Provider in any Credit Support Document (or document related thereto) delivered he reunder proves to have been incorrect, incomplete or misleading in any material respect at the time it was made, or the Seller fails to deliver any document it is required to deliver as provided in Part 2 of Exhibit A and does not remedy that failure on or before the thirtieth day after notice from the Buyer of the failure or, in the case of failure to deliver a Credit Support Document, does not remedy that failure immediately;
+
+ 6 
+
+ (c) The Seller or any Credit Support Provider becomes the subject of any action or proceeding for relief under any bankruptcy or insolvency law or any law affecting creditors’ rights that is similar to a bankruptcy or insolvency law or law relating to the composition of debts or seeks or becomes subject to the appointment of a receive r, custodian or similar official for it or any of its property or fails or is unable to pay its debts generally as they fall due; 
+
+ (d) The Seller or any Credit Support Provider fails to pay any amount payable by it to the Buyer under any other agreement or under any instrument of the Seller or any Credit Support Provider held by the Buyer and does not remedy that failure during any applicable cure period;
+
+ (e) (i) There occurs a default, an event of default or another similar condition or event (however descr ibed) in respect of the Seller or any Credit Support Provider for the Seller under one or more agreements or instruments relating to Specified Indebtedness in an aggregate amount of not less than the Threshold Amount and as a result such Specified Indebtedness has been or may be declared due and payable before it would otherwise have been due and payable or (ii) there occurs a default by the Seller or any such Credit Support Provider in making one or more payments on the due date thereof in an aggregate amount of not less than the Threshold Amount under any such agreements or instruments or under any Specified Transaction (after giving effect to any applicable notice requirement or grace period) or (iii) the combined amounts of Specified Indebtedness covered by clauses (i) and (ii) at least equal the Threshold Amount.
+
+ For this purpose, “Specified Indebtedness,” with respect to any Person, means all obligations of that Person (whether present or future, contingent or otherwise, as principal or surety or otherwise) in respect of borrowed money, excluding deposits received in the ordinary course of its banking business; “Specified Transaction” means any rate swap, currency swap, cross‑currency swap, commodity‑price swap, equity, equity‑index, debt‑linked or debt‑index‑linked swap, rate cap, floor or collar, forward rate agreement, forward or spot foreign exchange transaction, interest rate, currency or commodity‑price option, any cash‑settled option on a security or index or group of securities, any combination of any of the foregoing and any similar transaction; and “Threshold Amount” means an amount equal to the value of two percent (2%) of shareholder’s equity of the Seller (or the equivalent in any other currency or currencies), determined in accordance with generally accepted accounting principles in the Seller’s jurisdiction of incorporation or organization, as at the end of the Seller’s most recently completed fiscal year;
+
+ (f) Buyer or Seller or any Credit Support Provider fails to comply with or perform any agreement or obligation to be complied with or performed by it in accordance with any Credit Support Document to which it is a party if the failure is not remedied during any applicable cure period; or any Credit Support Document expires or terminates or fails or ceases to be in full force and effect (in either case, other than in accordance with its terms) prior to the satisfaction of all obligations of the Seller under this Agreement; or any Credit Support Provider or any Person purporting to act on its behalf disaffirms, disclaims, repudiates or rejects, in whole or in part, or challenges the validity of, any Credit Support Document to which it is a party; or
+
+ 7 
+
+ (g) The Seller or any Credit Support Provider consolidates or amalgamates with, or merges with or into, or transfers all or substantially all its assets to, another entity, and the creditworthiness of the resulting, surviving or transferee entity is materially weaker than that of the Seller or such Credit Support Provider (as the case may be) as deter mined by the Buyer or Secured Lender immediately prior to such action. 
+
+ Section 10. Early Termination . 
+
+ (a) At any time while a Termination Event is continuing, the Buyer may, with the prior written consent of Secured Lender, or Secured Lender may, in its ab solute discretion, give notice of termination in accordance with this Section. If a party gives notice of supervening illegality, either party may give notice of termination in accordance with this Section in the circumstances described in Section 5. If a party is required to pay any additional amount pursuant to Section 6, it may give notice of termination in accordance with this Section in the circumstances described in Section 6.
+
+ (b) At any time while an event under Paragraph 7 of the Credit Support An nex is continuing where the Buyer (or its Custodian) is the party failing to take an action or comply with the provisions specified therein, the Seller may, in its absolute discretion give notice of termination in accordance with this Section. For purposes of calculating the amount due under Sections 11 and 12 hereof in connection with a notice of termination under this Section 10(b), the Market Quotation shall be determined pursuant to Section 12, substituting the word “Seller” in each instance when the word “Buyer” is utilized in such section and the quotation referred to in Section 12(b) shall be the amount in Dollars that a Reference Market Maker would charge as a Fixed Amount on such date of declaration of termination; provided, however, that if a Market Quotation cannot be determined, the Seller shall reasonably determine in good faith an amount equal to its total losses and costs in connection with this Agreement including any loss of bargain, costs of funding or, at the election of the Seller but without duplication, loss or cost incurred as a result of its terminating, liquidating, obtaining or reestablishing any hedge or related trading position.
+
+ (c) Any notice of termination hereunder 
+
+ (i) shall state the grounds for termination; 
+
+ (ii) shall specify a date that is not before, nor more than 10 days after, the date the notice of early termination is given on which the payments required by Section 11 shall be made as provided therein (the “Early Termination Date”); and
+
+ (iii) shall declare the obligations of the Seller to make the payments required by Section 2 that are scheduled to be made after the Early Termination Date to be terminated as of that date, and those obligations shall so terminate and be replaced by the parties’ obligations to make the payments specified in Section 11.
+
+ Section 11. Payments Upon Early Termination. 
+
+ (a) If notice of termination is given pursuant to Section 10, the Seller shall pay the Buyer its Damages. 
+
+ 8 
+
+ (b) The Buyer’s Damages in the event of early termination shall be the Market Quotation, if it can be determined. If it cannot be determined, the Buyer’s Damages shall be an amount in Dollars equal to the sum of the losses (including loss of bargain) that it may incur as a result of the early termination or as a result of th e event that served as the ground for early termination. 
+
+ (c) Payments to be made in accordance with this Section shall be made on the Early Termination Date. If the Buyer is entitled to be paid any amount in respect of its Damages in accordance with this Section, it shall submit to the Seller a statement in reasonable detail of those Damages.
+
+ Section 12. Market Quotation . 
+
+ (a) For the purpose of determining the Market Quotation, the Buyer shall select, with the consent of Secured Lender, four leading partic ipants in the interest rate cap market (each a “Reference Market‑maker”), in its sole discretion and in good faith, with a view to minimizing the Market Quotation (to the extent required by law); provided, however, that in doing so the Buyer shall be entitled to select market participants that are of the highest credit standing and that otherwise satisfy all the criteria that the Buyer applies generally at the time in deciding whether to enter into an interest rate protection transaction.
+
+ (b) The Buyer shal l request from each of the Reference Market‑makers it has selected a quotation of the amount in Dollars which that Reference Market‑maker would charge on the Early Termination Date as a flat amount for entering into an agreement, effective on the Early Termination Date, pursuant to which it would be obligated to make all the payments scheduled to be made by the Seller under Section 2 of this Agreement after the Early Termination Date.
+
+ (c) The Market Quotation shall be the arithmetic mean (rounded up, if nec essary, to the nearest cent) of the amounts described in Section 12(b) that are quoted to the Buyer by the Reference Market‑makers it has selected or, if only one Reference Market‑maker will quote such a fee, the Market Quotation Value shall be the amount quoted by that Reference Market‑maker.
+
+ Section 13. Costs and Expenses . 
+
+ (a) Each of the parties shall pay, or reimburse the other on demand for, all stamp, registration, documentation or similar taxes or duties, and any penalties or interest that may be due with respect thereto, that may be imposed by any jurisdiction in respect of its execution or delivery of this Agreement. If any such tax or duty is imposed by any jurisdiction as the result of the conduct or status of both parties, each party shall pay one half of the amount of the tax or duty.
+
+ (b) The Seller shall pay, or reimburse the Buyer on demand for, all reasonable costs and expenses incurred by the Buyer in connection with enforcement of its rights under this Agreement or as a consequence of a Ter mination Event, including, without limitation, fees and expenses of legal counsel.
+
+ 9 
+
+ (c) Upon the Buyer’s failure to pay the Fixed Amount pursuant to Section 2, if the value of this Agreement is greater than zero as determined in the manner described in Sect ion 2, the Buyer shall pay, or reimburse the Seller on demand for, all reasonable costs and expenses incurred by the Seller in connection with enforcement and protection of its rights under this Agreement including, without limitation, fees and expenses of legal counsel. 
+
+ Section 14. Nonassignment. Neither party shall assign or otherwise transfer its rights or obligations hereunder or any interest herein to any other Person or any of its other branches or offices without the prior written consent of the other party to this Agreement and Secured Lender, unless the assignment or transfer by the Seller is pursuant to Section 5 or Section 6 and provided that: 
+
+ (a) the Seller gives the Buyer 10 Business Days’ prior written notice of the assignment or transfer; 
+
+ (b) the assignee or transferee meets the criteria set forth in Section 5(a) or Section 6(b), as the case may be; 
+
+ (c) the credit policies of the Buyer or Secured Lender at the time would permit the Buyer to purchase an interest rate cap from the assignee or t ransferee without credit support;
+
+ (d) a Termination Event does not occur as a result of such transfer; 
+
+ (e) on or prior to the effective date of the transfer, this Agreement (including, without limitation, any Tax covenants (if any) in Exhibit B to this Agreement) and all other related documents shall have been amended to reflect the transfer in a manner reasonably satisfactory to Buyer; and
+
+ (f) on or prior to the effective date of the transfer, Seller shall have agreed in writing to indemnify and hold ha rmless Buyer in a manner reasonably satisfactory to Buyer from and against any adverse tax consequences and any related fees, expenses and other losses resulting from the transfer, subject to the following conditions: (i) notwithstanding Seller’s duty to indemnify Buyer, Buyer shall at all times retain sole control and decision‑making authority with regard to any tax issues affecting Buyer or related litigation arising from or in connection with said transfer; and (ii) such indemnification shall be made as such expenses are incurred by Buyer and at such time as Buyer is required to pay any such tax liability, provided that Seller shall not be required to make such indemnification until five Business Days after it has received written notice from Buyer of expenses or liabilities for which Buyer seeks reimbursement.
+
+ Any purported transfer in violation of this Section shall be void. The parties are acting for purposes of this Agreement through their respective branches or offices specified in Exhibit A.
+
+ 10 
+
+ The Seller shall not withhold its consent to an assignment or transfer proposed by the Buyer, or by any subsequent assignee or transferee of the Buyer, if the Seller would be entitled to make the payments it is required to make pursuant to Section 2 to the proposed assignee or transferee lawfully and without withholding for or on account of Taxes and the proposed assignee or transferee assumes the obligations of the Buyer under the Tax covenants (if any) of the Buyer in Exhibit B to this Agreement to the sa tisfaction of the Seller. Notwithstanding the provisions of this Section 14 to the contrary, the Seller consents to the Buyer’s grant of a security interest herein to the Secured Lender, its successors and assign. The Buyer and Seller agree that Secured Lender may exercise the rights of the Buyer hereunder from time to time, and Buyer agrees that the Seller may rely conclusively on the written instructions of Secured Lender to Seller made pursuant to this Agreement and Seller has no duty to investigate or verify such written instructions and shall not be liable for any actions taken in accordance with such written instructions except actions involving Seller’s own gross negligence or willful misconduct. Accordingly, all payments hereunder shall be made in accordance with Section 3 hereof and to the account of the Secured Lender as specified in Exhibit A hereto unless instructed otherwise by Secured Lender . Seller shall be held harmless and shall be fully indemnified by the Buyer, from and against any and a ll claims, other than those arising out of the gross negligence or willful misconduct of the Seller, from and against any damages, penalties, judgments, liabilities, losses or expenses (including attorney’s fees and disbursements) reasonably incurred by th e Seller as a result of the assertion of any claim, by any person or entity, arising out of, or otherwise related to, any action taken or omitted to be taken by the Seller in reliance upon the Assignment Notice or any instructions or notice provided by Sec ured Lender. 
+
+ Section 15. Waivers: Rights Not Exclusive . No failure or delay by a party in exercising any right hereunder shall operate as a waiver of, or impair, any such right. No single or partial exercise of any such right shall preclude any other or further exercise thereof or the exercise of any other right. No waiver of any such right shall be effective unless given in writing. No waiver of any such right shall be deemed a waiver of any other right hereunder. The right to terminate provided for herein is in addition to, and not exclusive of, any other rights, powers, privileges or remedies provided by law. 
+
+ Section 16. Interpretation . The section headings in this Agreement are for convenience of reference only and shall not affect the meaning or construction of any provision hereof. 
+
+ Section 17. Notices . All notices in connection with this Agreement shall be given by telex or cable or by notice in writing hand‑delivered or sent by facsimile transmission or by airmail, postage prepaid. All such notices shall be sent to the telex or telecopier number or address (as the case may be) specified for the intended recipient in Exhibit A (or to such other number or address as that recipient may have last specified by notice to the other party). All such notices shall be effective upon receipt, and confirmation by answerback of any notice sent by telex as provided herein shall be sufficient evidence of receipt thereof, and telephone confirmation of receipt of any facsimile transmission in accordance with Exhibit A shall be sufficient evidence of receipt thereof. 
+
+ 11 
+
+ Section 18. Amendments . This Agreement may be amended only by an instrument in writing executed by the parties hereto. 
+
+ Section 19. Survival . The obligations of the parties under Section 6, Section 11 and Section 13 shall survive payment of the obligations of the parties under Section 2 and Section 4 and the termination of their other obligations hereunder. 
+
+ Section 20. Jurisdiction; Governing Law. 
+
+ (a) Any action or proceeding relating in any way to th is Agreement may be brought and enforced in the courts of the State of New York or of the United States for the Southern District of New York, and each of the parties irrevocably submits to the nonexclusive jurisdiction of each such court in connection with any such action or proceeding.
+
+ (b) This Agreement shall be governed by, and construed in accordance with, the law of the State of New York without reference to its choice of law doctrine.
+
+ Section 21. Independence of this Agreement . It is the parties’ intention that no other agreements or arrangements between them or any of their affiliates affect the transaction provided for herein except as expressly provided herein. Therefore, except as expressly provided herein, the Seller’s obligation to make payments to the Buyer hereunder shall not be subject to early termination or to any condition precedent, no such payment obligation shall be netted against any payment due from the Buyer or any third party under any other agreement or instrument, and neither the Seller nor any third party shall have any right to set off any such payment due from the Seller to the Buyer or withhold any such payment, in whole or in part, pending payment of any amount payable by the Buyer or any third party to the Seller or any third party. In addition, the terms set forth in this provision may not be modified except in a written amendment to this Agreement executed by both parties hereto that (i) is expressly identified in capital letters as modifying this provision (identified by its title) and (ii) deals only with such modification. 
+
+ Section 22. Waiver of Jury Trial . Each of the Buyer and the Seller, respectively, hereby waives, to the fullest extent permitted by applicable law, any right it may have to a trial by jury in respect of any suit, action or proceeding relating to this Agreement or any Credit Support Document. Each of the Buyer and the Seller (i) certifies that no representative, agent or attorney of the other party or any Credit Support Provider has represented, expressly or otherwise, that such other party would not, in the event of such suit, action or proceeding, seek to enforce the foregoing waiver and (ii) acknowledges that it and the other party have been induced to enter into this Agreement and provide for any Credit Support Document, as applicable, by, among other things, the mutual waivers and certifications in this Section. 
+
+ Section 23. Setoff . The obligation to pay amounts due hereunder shall be absolute and unconditional and shall not be subject to diminution by set‑off, recoupment, counterclaim, abatement or otherwise. 
+
+ 12 
+
+ Section 24. Counterparts: Integration of Terms . This Agreement may be executed in counterparts, and the counterparts taken together shall be deemed to constitute one and the same agreement. T his Agreement contains the entire agreement between the parties relating to the subject matter hereof and supersedes all oral statements and prior writings with respect thereto. Delivery of an executed counterpart of a signature page of this Agreement by a ny electronic means that reproduces an image of the actual executed signature page (including by the email of a scanned Portable Document Format file) shall be of the same legal effect, validity and enforceability as the physical delivery of a manually exe cuted signature thereof. This Agreement contains the entire agreement between the parties relating to the subject matter hereof and supersedes all oral statements and prior writings with respect thereto. 
+
+ Section 25. Contractual Currency . The provision on Contractual Currency set forth in Part 4 of Exhibit A will apply if the Seller or any Credit Support Provider for the Seller is not organized in the U.S. or is acting through any office outside the U.S. 
+
+ Section 26. Consent to Recording . Each party (i) consents to the monitoring or recording, at any time and from time to time, by the other party of any and all communications between officers or employees of the parties, (ii) waives any further notice of such monitoring or recording, and (iii) agrees to notify (and, if required by law, obtain the consent of) its officers and employees with respect to such monitoring or recording. Any such recording may be submitted in evidence to any court or in any proceeding for the purpose of establishing any matters per tinent to this Agreement. 
+
+ Section 27. Contractual Recognition of Bail-in 
+
+ (1) Each party acknowledges and accepts that liabilities arising under this Agreement (other than Excluded Liabilities) may be subject to the exercise of the UK Bail-in Power by the relevant resolution authority and acknowledges and accepts to be bound by any Bail-in Action and the effects thereof (including any variation, modification and/or amendment to the terms of this Agreement as may be necessary to give effect to any such Bail-in Action), which if the Bail-in Termination Amount is payable by Seller to the Buyer may include, without limitation: 
+
+ (i) a reduction, in full or in part, of the Bail-in Termination Amount; and/or 
+
+ (ii) a conversion of all, or a portion of, the Bail-in Termination Amount into shares or other instruments of ownership, in which case the Buyer acknowledges and accepts that any such shares or other instruments of ownership may be issued to or conferred upon it as a result of the Bail-in Action. 
+
+ (2) Each party acknowledges and accepts that this provision is exhaustive on the matters described herein to the exclusion of any other agreements, arrangements or understanding between the parties relating to the subj ect matter of this agreement and that no further notice shall be required between the parties pursuant to the agreement in to order to give effect to the matters described herein. 
+
+ 13 
+
+ (3) The acknowledgements and acceptances contained in paragraphs (1) and (2 ) above will not apply if: 
+
+ (i) the relevant resolution authority determines that the liabilities arising under this Agreement may be subject to the exercise of the UK Bail-in Power pursuant to the law of the third country governing such liabilities or a b inding agreement concluded with such third country and in either case the UK Regulations have been amended to reflect such determination; and/or 
+
+ (ii) the UK Regulations have been repealed or amended in such a way as to remove the requirement for the ackno wledgements and acceptances contained in paragraphs (1) and (2). 
+
+ For purposes of this Section 27:
+
+ “ Bail-in Action ” means the exercise of the UK Bail-in Power by the relevant resolution authority in respect of all transactions (or all transactions relating to one or more netting sets, as applicable) under this agreement. 
+
+ “ Bail-in Termination Amount ” means the early termination amount or early termination amounts (howsoever described), together with any accrued but unpaid interest thereon, in respect of all transactions (or all transactions relating to one or more netting sets, as applicable) under this agreement (before, for the avoidance of doubt, any such amount is written down or converted by the relevant resolution authority). 
+
+ “ BRRD ” means Directive 2014/59/EU establishing a framework for the recovery and resolution of credit institutions and investment firms. 
+
+ “ Excluded Liabilities ” means liabilities excluded from the scope of the contractual recognition of bail-in requirement pursuant to the UK Regulations. 
+
+ “ UK Bail-in Power ” means any write-down or conversion power existing from time to time (including, without limitation, any power to amend or alter the maturity of eligible liabilities of an institution under resolution or amend the amount of interest payable under such eligible liabilities or the date on which interest becomes payable, including by suspending payment for a temporary period) under, and exercised in compliance with, any laws, regulations, rules or requirements (together, the “ UK Regulations ”) in effect in the United Kingdom relating to the transposition of the BRRD as amended from time to time, including but not limited to, the Banking Act 2009 as amended from time to time, and the instruments, rules and standards created thereunder, pursuant to which the obligations of a regulated entity (or other affiliate of a regulated entity) can be reduced (including to zero), cancelled or converted into shares, other securities, or other obligations of such regulated entity or any other person. 
+
+ A reference to a “ regulated entity ” is to any BRRD Undertaking as such term is defined under the PRA Rulebook promulgated by the United Kingdom Prudential Regulation Authority or to any person falling within IFPRU 11.6, of the FCA Handbook promulgated by the United Kingdom Financial Conduct Authority, both as amended from time to time, which includes, certain credit institutions, investment firms, and certain of their parent or holding companies.
+
+ 14 
+
+ Section 28. Contractual Recognition of UK Stay in Resolu tion 
+
+ The terms of the ISDA UK (PRA Rule) Jurisdictional Module and the ISDA Resolution Stay Jurisdictional Modular Protocol (together, the “ UK Module ”) are incorporated into and form part of this Agreement, and, for purposes thereof: (a) this Agreement shall be deemed a Covered Agreement, (b) Buyer shall be deemed a Module Adhering Party and (c) Seller shall be deemed a Regulated Entity Counterparty with respect to Buyer. In the event of any inconsistencies between this Agreement and the UK Module, the UK Module will prevail.
+
+ Section 29. Bankruptcy. Without limiting any other protections under the Bankruptcy Code (Title 11 of the United States Code) (the "Bankruptcy Code"), the Parties hereto intend for: 
+
+ (a) This Transaction and the Agreement to be a "swap agreement" as defined in the Bankruptcy Code, and the parties hereto to be entitled to the protections afforded by, among other Sections, Section 560 of the Bankruptcy Code.
+
+ (b) A party's right to liquidate this Transaction and to exercise any other remedies upon the occurrence of any Event of Default or Termination Event under the Agreement or this Transaction to constitute a "contractual right" as described in Section 560 of the Bankruptcy Code.
+
+ (c) Any cash, securities or other property provided as performance assurance, credit support or collateral with respect to this Transaction or the Agreement to constitute "transfers" under a "swap agreement" as defined in the Bankruptcy Code.
+
+ (d) All payments for, under or in connection with this Transaction or the Agreement, all payments for any securities or other assets and the transfer of such securities or other assets to constitute "transfers" under a "swap agreement" as defined in the Bankruptcy Code.
+
+ 15 
+
+ IN WITNESS WHEREOF the parties have caused this Agre ement to be duly executed and delivered as of the day and year first written above. 
+
+ BARCLAYS BANK PLC
+
+ By:
+
+ /s/ Leila Arjune
+
+ Name:
+
+ Leila Arjune
+
+ Title:
+
+ Authorized Signatory
+
+ ATAX TEBS II, LLC , a Delaware limited liability company 
+
+ By:
+
+ AMERICA FIRST MULTIFAMILY INVESTORS, L.P., a Delaware limited partnership
+
+ By:
+
+ AMERICA FIRST CAPITAL ASSOCIATES LIMITED PARNTERSHIP TWO, a Delaware limited partnership, its general partner
+
+ By:
+
+ THE BURLINGTON GROUP, LLC, a Delaware limited liability company, its general partner
+
+ By:
+
+ /s/ Craig S. Allen
+
+ Name:
+
+ Craig S. Allen
+
+ Title:
+
+ Chief Financial Officer
+
+ [Signature Page to ATAX TEBS II Rate Cap Agreement]
+
+ 16 
+
+ EXHIBIT A 
+
+ notice addresses and other matters
+
+ Part 1: 
+
+ Addresses for Notices and Accounts for Payments: 
+
+ The Seller:
+
+ Address:
+
+ BARCLAYS BANK PLC
+
+ 745 Seventh Avenue
+
+ New York, New York 10019
+
+ United States of America
+
+ Attention: Head of Derivatives PTS, Americas
+
+ By electronic email: IRDConfirmations@barclays.com 
+
+ With copy to: muni_deriv_middleoffice@barclays.com
+
+ Payments to Seller:
+
+ Bank:
+
+ Barclays Bank Plc, New York
+
+ ABA No.:
+
+ 026‑0025‑74
+
+ A/C:
+
+ Barclays Bank Plc London
+
+ Favour:
+
+ Barclays Swaps & Options Group, New York A/C No.: 050‑01922‑8
+
+ The Buyer:
+
+ Address:
+
+ ATAX TEBS II, LLC
+
+ 1004 Farnam Street, Suite 400
+
+ Omaha, Nebraska 68102
+
+ Attention: Chad L. Daffer
+
+ Phone: 402.930.3085
+
+ Fax: 402.930.3047
+
+ With a copy to:
+
+ Kutak Rock LLP
+
+ 1650 Farnam Street
+
+ Omaha, Nebraska 68102
+
+ Attention: Conal Hession
+
+ Facsimile: (402) 231-8806
+
+ Telephone: (402) 346-1148
+
+ copies to Freddie Mac: 
+
+ Address:
+
+ Federal Home Loan Mortgage Corporation
+
+ 8100 Jones Branch Drive
+
+ Mail Stop B2E 
+
+ McLean, Virginia 22102 
+
+ Attention: Multifamily Loan Accounting/Operational Close 
+
+ Telephone: (703) 714-4177 
+
+ Fax: 571-382-4798 
+
+ E-Mail: mfla@freddiemac.com 
+
+ and
+
+ Federal Home Loan Mortgage Corporation
+
+ 8100 Jones Branch Drive
+
+ Mail Stop B4G 
+
+ McLean, Virginia 22102 
+
+ Attention: Multifamily Asset Management/Servicing 
+
+ Telephone: (703) 714-3194 (Steve Power) 
+
+ E-Mail: mf_spi_hedge@freddiemac.com 
+
+ and
+
+ Federal Home Loan Mortgage Corporation
+
+ 8200 Jones Branch Drive
+
+ Mail Stop 210 
+
+ McLean, Virginia 22102 
+
+ Attention: Managing Associate General Counsel - Multifamily Real Estate (Legal Division) 
+
+ Telephone: (703) 903 2538
+
+ E-Mail: Joshua_schonfeld@freddiemac.com 
+
+ Payments to Buyer (pursuant to Section 3, payments are to be made as will be specified):
+
+ Bank Name:
+
+ FRB New York
+
+ ABA#:
+
+ 021039513
+
+ Account Name:
+
+ FHLMC Investor PI
+
+ Account Number:
+
+ 380530
+
+ Reference:
+
+ MFTEBS
+
+ ATTN:
+
+ MFRRO – Loan Accounting (703) 714-4177
+
+ A-2 
+
+ Part 2: 
+
+ Documents to be delivered by the Seller to the Buyer contemporaneously with this Rate Cap Agreement: 
+
+ (a) 
+
+ Credit Support Document to be delivered by the Seller: Credit Support Annex on standard ISDA form with paragraph 13 in the form attached as Exhibit C hereto.
+
+ Document to be delivered by the Buyer to the Seller contemporaneously with this Rate Cap Agreement:
+
+ (a) 
+
+ Evidence of the authority, incumbency and specimen signature of the party executing this Agreement.
+
+ Part 3: 
+
+ Credit Support Provider for the Seller: NONE 
+
+ Part 4 : 
+
+ Each reference in this Agreement to Dollars (the “Contractual Currency”) is of the essence. The obligation of each party in respect of any amount due under this Agreement in the Contractual Currency is, notwithstanding any payment in any other currency (whether pursuant to a judgment or otherwise), be discharged only to the extent of the amount in the Contractual Currency that the intended payee may, in accordance with normal banking procedures, purchase with the sum paid in that other currency (after any premium and costs of exchange) on the Business Day in New York City immediately following the day on which that payee receives the payment. If the amount in the Contractual Currency that may be so purchased for any reason falls short of the amount originally due, the party owing that amount shall pay such additional amount, in the Contractual Currency, as is necessary to compensate for the shortfall. Any obligation of that party not discharged by that payment shall, to the fullest extent permitted by applicable law, be due as a separate and independent obligation and, until discharged as provided herein, shall continue in full force and effect. 
+
+ A-3 
+
+ EXHIBIT B 
+
+ TAX REPRESENTATIONS AND COVENANTS
+
+ A. 
+
+ Tax Representations and Covenants
+
+ Representations of each of the Seller and the Buyer
+
+ It is not required by any applicable law, as modified by the practice of any relevant governmental authority, to make any deduction or withholding for or on account of any Tax from any payment (other than interest under Section 4 to be made by it to the other party) under this Agreement. In making this representation, it may rely on (i) the accuracy of any representation made by the other party below in this Exhibit and (ii) the satisfaction of the covenant of that other party contained below in this Exhibit and the accuracy and effectiveness of any document provided by that other party pursuant to any such covenant.
+
+ B. 
+
+ Payee Tax Representations
+
+ Of the Seller:
+
+ (i) 
+
+ With respect to payments made to Seller which are not effectively connected to the United States, Seller is a non-U.S. branch of a foreign person for United States federal income tax purposes.
+
+ (ii) 
+
+ With respect to payments made to Seller which are effectively connected to the United States, each payment received or to be received by Seller in connection with this Agreement will be effectively connected with its conduct of a trade or business in the United States.
+
+ Of the Buyer:
+
+ Buyer is a United States person for purposes of the United States Internal Revenue Code of 1986, as amended, and is not acting as an agent or intermediary for a foreign Person.
+
+ C. 
+
+ Covenants
+
+ Of Each Party:
+
+ It will give notice of any failure of a representation set forth in this Exhibit B and made by it under Section 7(c) of this Agreement to be accurate and true promptly upon learning of such failure.
+
+ If a party is required at any time to execute any form or document in order for payments to it hereunder to qualify for exemption from withholding for or on account of Taxes or to qualify for such withholding at a reduced rate, that party shall, as soon as practicable after request from the other party, execute the required form or document and deliver it to that other party.
+
+ Of the Seller: 
+
+ None
+
+ Of the Buyer:
+
+ None
+
+ B-2 
+
+ EXHIBIT C 
+
+ FORM OF PARAGRAPH 13 of CREDIT SUPPORT ANNEX
+
+ Paragraph 13. Elections and Variables
+
+ (a) 
+
+ Security Interest for “Obligations.” The term “Obligations” as used in the Annex includes the following additional obligations: Not Applicable.
+
+ (b) 
+
+ Credit Support Obligations .
+
+ (i) 
+
+ Delivery Amount, Return Amount and Credit Support Amount .
+
+ (A) 
+
+ “Delivery Amount” has the meaning specified in Paragraph 3(a), unless otherwise specified here: None Specified
+
+ (B) 
+
+ “Return Amount” has the meaning specified in Paragraph 3(b), unless otherwise specified here: None Specified
+
+ (C) 
+
+ “Credit Support Amount” means, for any Valuation Date (i) the Secured Party’s Exposure for that Valuation Date plus (ii) the aggregate of all Independent Amounts applicable to the Pledgor, if any, minus (iii) the Pledgor’s Threshold; provided, however, that (x) in the case where the sum of the Independent Amounts applicable to the Pledgor exceeds zero, the Credit Support Amount will not be less than the sum of all Independent Amounts applicable to the Pledgor and (y) in all other cases, the Credit Support Amount will be deemed to be zero whenever the calculation of Credit Support Amount yields an amount less than zero.
+
+ (ii) 
+
+ Eligible Collateral . Debt obligations of the Federal Home Loan Mortgage Corporation shall not qualify as “Eligible Collateral.” The following items will qualify as “Eligible Collateral”:
+
+ Remaining Maturity
+
+ ICAD Code
+
+ One (1) year or
+
+ under
+
+ More than one (1)
+
+ year up to and
+
+ including five (5)
+
+ years
+
+ More than five (5)
+
+ years up to and
+
+ including ten (10)
+
+ years
+
+ More than ten
+
+ (10) years
+
+ US-CASH
+
+ 100%
+
+ N/A
+
+ N/A
+
+ N/A
+
+ US-TBILL
+
+ 99%
+
+ N/A
+
+ N/A
+
+ N/A
+
+ US-TNOTE
+
+ 99%
+
+ 98%
+
+ 95%
+
+ N/A
+
+ US-TBOND
+
+ 99%
+
+ 98%
+
+ 95%
+
+ 95%
+
+ (iii) 
+
+ Other Eligible Support . There shall be no “Other Eligible Support” for either Party A or Party B.
+
+ (iv) 
+
+ Thresholds . 
+
+ (A) 
+
+ “Independent Amount” for Party A and Party B means zero.
+
+ (B) 
+
+ “Threshold” for the Party A and Party B means USD$0.
+
+ (C) 
+
+ “Minimum Transfer Amount” means, with respect to Party A and Party B, USD$500,000; provided, that if an Event of Default has occurred and is continuing with respect to Pledgor, or the Long Term Debt Ratings of the Seller are at or below BBB (S&P) or Baa2 (Moody’s) then the Minimum Transfer Amount with respect to Pledgor shall be zero.
+
+ (D) 
+
+ Rounding . The Delivery Amount and the Return Amount will be rounded up or down respectively to the nearest integral multiple of USD$10,000.
+
+ (c) 
+
+ Valuation and Timing .
+
+ (i) 
+
+ “Valuation Agent” means, for purposes of Paragraphs 3 and 5, the party making the demand under Paragraph 3, and, for purposes of Paragraph 6(d), the Secured Party receiving or deemed to receive the Distributions or the Interest Amount, as applicable. In addition, the Valuation Agent will be the Secured Party for purposes of calculating Value in connection with substitutions pursuant to Paragraph 4(d).
+
+ (ii) 
+
+ “Valuation Date” means each Local Business Day.
+
+ (iii) 
+
+ “Valuation Time” means the closing of business in the city of the Valuation Agent on the Local Business Day preceding the Valuation Date or the date of calculation, as applicable, provided that the calculations of Value and Exposure will be made as of approximately the same time on the same date.
+
+ (iv) 
+
+ “Notification Time” means by 10:00 a.m., New York time, on a Local Business Day.
+
+ (d) 
+
+ Conditions Precedent and Secured Party’s Rights and Remedies . Each of the following will be a “Specified Condition”: None.
+
+ (e) 
+
+ Substitution .
+
+ (i) 
+
+ “Substitution Date” has the meaning specified in Paragraph 4(d)(ii) unless otherwise specified here: None
+
+ (ii) 
+
+ Consent . The Pledgor does not need to obtain the Secured Party’s consent for any substitution pursuant to Paragraph 4(d).
+
+ (f) 
+
+ Dispute Resolution .
+
+ (i) 
+
+ “Resolution Time” means 1:00 p.m., New York Time, on the fifth Local Business Day following the date on which notice of a dispute is given under Paragraph 5.
+
+ C-2 
+
+ (ii) 
+
+ Value . For the purpose of Paragraph 5(i)(C) and 5(ii), the Value of Eligible Collateral other than Cash will be calculated as follows: 
+
+ the sum of (i) (x) the arithmetic mean of the closing bid prices quoted on the relevant date of three nationally recognized principal market makers (which may include an affiliate of Party A) for such security chosen by the Valuation Agent or (y) if no quotations are available from such principal market makers on the relevant date, the arithmetic mean of the closing bid prices on the next preceding date, multiplied by the appropriate Valuation Percentage set forth in subsection (b) of this Paragraph 13, plus (ii) the accrued interest on such security (except to the extent Transferred to a party pursuant to any applicable provision of this Agreement or included in the applicable price referred to in (i) of this clause) as of such date.
+
+ (iii) 
+
+ Alternative . Not Applicable.
+
+ (g) 
+
+ Holding and Using Posted Collateral .
+
+ ( i) 
+
+ Eligibility to Hold Posted Collateral; Custodians . Secured Party will be entitled to hold Posted Collateral only through its Custodian pursuant to Paragraph 6(b), provided that the following conditions applicable to it are satisfied:
+
+ (1) The Custodian : The Custodian is a bank or trust company designated by the Secured Party and having total assets of at least USD$10,000,000,000.
+
+ (ii) 
+
+ Use of Posted Collateral . The provision of Paragraph 6(c) will apply to Party A and will not apply to Party B.
+
+ (h) 
+
+ Distributions and Interest Amount .
+
+ (i) 
+
+ Interest Rate . The Interest Rate will be the rate per annum equal to the overnight Federal Funds Rate for each day cash is held by the Secured Party as reported in Federal Reserve Publication H.15‑519.
+
+ (ii) 
+
+ Transfer of Interest Amount . The Transfer of the Interest Amount will be made on the last Local Business Day of each calendar month and on any Local Business Day that Posted Collateral in the form of Cash is Transferred to the Pledgor pursuant to Paragraph 3(b).
+
+ (iii) 
+
+ Alternative to Interest Amount . Not Applicable.
+
+ (i) 
+
+ Additional Representation(s) . Not Applicable.
+
+ (j) 
+
+ “Other Eligible Support and Other Posted Support.” 
+
+ (i) 
+
+ “Value” with respect to Other Eligible Support and Other Posted Support means: Not Applicable.
+
+ (ii) 
+
+ “Transfer” with respect to Other Eligible Support and Other Posted Support means: Not Applicable.
+
+ C-3 
+
+ (k) 
+
+ Demands and Notices . All demands, specifications and notices made by one party to this Annex will be made pursuant to the Notices Section of this Agreement, unless otherwise specified here: 
+
+ Party A:
+
+ None Specified
+
+ Party B:
+
+ ATAX TEBS II, LLC
+
+ 1004 Farnam Street, Suite 400
+
+ Omaha, Nebraska 68102
+
+ Attention: Chad L. Daffer
+
+ Phone: 402.930.3085
+
+ Fax: 402.930.3047
+
+ With a copy to:
+
+ Kutak Rock LLP
+
+ 1650 Farnam Street
+
+ Omaha, Nebraska 68102
+
+ Attention: Conal Hession
+
+ Facsimile: (402) 231-8806
+
+ Telephone: (402) 346-1148
+
+ (l) 
+
+ Address for Transfers . [TO BE PROVIDED]
+
+ (m) 
+
+ Other Provisions .
+
+ (i) 
+
+ FIRREA . Party A, if an FDIC‑insured depository institution, represents that (i) this Annex has been executed and delivered by a duly appointed or elected and authorized officer of Party A of the level of vice president or higher and (ii) Party A has taken all necessary action to authorize the execution, delivery and performance of this Annex.
+
+ (ii) 
+
+ Posted Collateral . The definition of Posted Collateral shall also include any and all accounts in which Cash Collateral is held.
+
+ (iii) 
+
+ Additions to Paragraph 3 . The following subparagraph (c) is hereby added to Paragraph 3 of this Annex:
+
+ (c) 
+
+ No Offset . On any Valuation Date, if (i) each party is required to make a Transfer under Paragraph 3(a) and (ii) each party is required to make a Transfer under Paragraph 3(b), then the amounts of those obligations will not offset each other.
+
+ (iv) 
+
+ Fees of Custodian . Notwithstanding any other provision contained in this Annex, Pledgor shall pay all fees and charges of the Custodian related to the holding and maintenance of the Posted Collateral. 
+
+ C-4 
+
+ (v) 
+
+ Exposure . [RESERVED]. 
+
+ (vi) 
+
+ Master Agreement . For purposes of this Annex, the term "Agreement" shall not refer to a Master Agreement and Schedule as indicated above in the introductory paragraph, but shall mean the Rate Cap Agreement between Party A and Party B dated as of the date hereof. 
+
+ (vii) 
+
+ Notice Regarding Client Money Rules. Party A hereby notifies Party B that Barclays Bank PLC, as a CRD credit institution (as such term is defined in the rules of the UK Financial Conduct Authority or any successor thereto (“the FCA”)), holds Party B’s money as banker and not as trustee. Accordingly, Party B’s money will not be held in accordance with the rules within the Client Asset Sourcebook of the FCA (the “Client Money Rules”) and will not be subject to the statutory trust provided for under the Client Money Rules. In particular, Seller shall not segregate Party B’s money from Party A’s money and Party A shall not be liable to account of Party B for any profits made by Party A’s use as banker of such funds. Upon failure of Party A, the client money distribution rules within the rules of the FCA (the “Client Money Distribution Rules”) will not apply to these sums and so Party B will not be entitled to share in any distribution under the Client Money Distribution Rules.
+
+ (viii) 
+
+ ISDA 2014 Collateral Agreement Negative Interest Protocol (the Protocol) . The parties agree that, solely for the purposes of this Agreement (which shall be deemed to be a Protocol Covered Collateral Agreement for the purposes of the Protocol), they shall be deemed to be Adhering Parties to the Protocol, the Implementation Date shall be the date of this Agreement and the representations and undertakings set out at Clause 3(a)(vi) (with respect to any Third Party Credit Support Document only), Clause 3(c) and Clause 3(d) of the Protocol shall be disregarded.
+
+ (ix) 
+
+ Form of Annex . The parties hereto agree that the text of the body of this Annex (paragraphs 1 through 12) shall be deemed to be the printed form of the 1994 ISDA Credit Support Annex (Bilateral Form — ISDA Agreements subject to New York Law only version) as published and copyrighted by the International Swaps and Derivatives Association, Inc., incorporated herein by reference, subject to the following revisions:
+
+ (a) 
+
+ Modification to Introductory Paragraph: The following paragraph is substituted for the introductory paragraph of the Annex: 
+
+ “This Annex supplements, forms part of, and is subject to, the above-referenced Rate Cap Agreement (the “Agreement”), and is a Credit Support Document under the Agreement with respect to each party. 
+
+ (b) 
+
+ Modifications to Paragraph 1: 
+
+ (1) The word “Schedule” shall be replaced with “Agreement” in subparagraph (a) of the Annex. 
+
+ C-5 
+
+ (c) 
+
+ Modification to Paragraph 2 : The following Paragraph 2 is substituted for Paragraph 2 of this Annex: 
+
+ “Paragraph 2. Security Interest. The Pledgor hereby pledges to the Secured Party, as security for its Obligations, and grants to the Secured Party a first priority continuing security interest in, lien on and right of Set-off against all Posted Collateral Transferred to or received by the Secured Party hereunder. Upon the Transfer by the Secured Party to the Pledgor of Posted Collateral, the security interest and lien granted hereunder on that Posted Collateral will be released immediately and, to the extent possible, without any further action by either party.” 
+
+ ( d) 
+
+ Modification to Paragraph 5: The following subparagraph (i) is substituted for subparagraph (i) of Paragraph 5 of this Annex: 
+
+ (i) In the case of a dispute involving a Delivery Amount or Return Amount, unless otherwise specified in Paragraph 13, the Valuation Agent will recalculate the Exposure and the Value as of the Recalculation Date by: 
+
+ (A) calculating the Exposure for the Rate Cap Agreement by seeking four actual quotations at mid ‑market from Reference Market‑makers for purposes of calculating Market Quotation, and taking the arithmetic average of those obtained; provided that if four quotations are not available for the Rate Cap Agreement, then fewer than four quotations may be used for the Rate Cap Agreement; and if no quotations are available for the Rate Cap Agreement, then the Valuation Agent's original calculations will be used for the Rate Cap Transaction; and 
+
+ (B) utilizing the procedures specified in Paragraph 13 for calculating the Value, if disputed, of Posted Credit Support.” 
+
+ (e) 
+
+ Modification to Paragraph 7: The following Paragraph 7 is substituted for Paragraph 7 of this Annex: 
+
+ “Paragraph 7. Notice of termination. For purposes of Section 10 of this Agreement, a party (X) may give a notice of termination with respect to the other party (Y) in accordance with Section 10 in the following circumstances: 
+
+ (i) Y fails (or fails to cause its Custodian) to make, when due, any Transfer of Eligible Collateral, Posted Collateral or the Interest Amount, as applicable, required to be made by it and that failure continues for two Local Business Days after notice of that failure is given to Y; 
+
+ (ii) Y fails to comply with any restriction or prohibition specified in this Annex with respect to any of the rights specified in Paragraph 6(c) and that failur e continues for five Local Business Days after notice of that failure is given to Y; or 
+
+ C-6 
+
+ (iii) Y fails to comply with or perform any agreement or obligation other than those specified in Paragraphs 7(i) and 7(ii) and that failure continues for 30 days afte r notice of that failure is given to Y. 
+
+ For purposes of Section 10, (a) if Y is the Seller, the occurrence of an event described above shall constitute a “Termination Event” and (b) if Y is the Buyer, the occurrence of an event described above shall give rise to the Seller’s right to terminate pursuant to Section 10(b).” 
+
+ (f) 
+
+ Modifications to Paragraph 8: 
+
+ (1) The following subparagraph (b) is substituted for the introductory clause of subparagraph (b) of Paragraph 8 of the Annex: 
+
+ “(b) Pledgor’s Rights and Remedies. If at any time an Early Termination Date has occurred or been designated as the result of an event described in Paragraph 7 with respect to the Secured Party, then:” 
+
+ (2) The words “Section 2(d)” shall be replaced with “Section 8” in subparagraph (d) of Paragraph 8 of this Annex. 
+
+ (g) 
+
+ Modifications to Paragraph 9: The following first clause of Paragraph 9 is substituted for the first clause of this Annex: 
+
+ “Paragraph 9. Representations. The Pledgor represents to the Secured Party (which representations will be deemed to be repeated as of each date on which it Transfers Eligible Collateral) that:” 
+
+ (h) 
+
+ Modification to Paragraph 11: The words “one or more Confirmations or” are deleted in Paragraph 11(f) of this Annex. 
+
+ (i) Certain Defined Terms. Th e following terms have the meanings indicated below: 
+
+ “Defaulting Party” means (a) the Seller if a Termination Event has occurred and is continuing with respect to the Seller and (b) the Buyer if an event has occurred and is continuing under Paragraph 7 hereof with respect to which the Buyer is Y. 
+
+ “Default Rate” means a rate per annum equal to the cost (without proof or evidence of any actual cost) to the relevant payee (as certified by it) if it were to fund or of funding the relevant amount plus 1% per annum. 
+
+ “Event of Default” means a Termination Event as specified in Section 9 of the Agreement. 
+
+ “Potential Event of Default” means any event which, with the giving of notice or the lapse of time or both, would constitute an Event of Default. 
+
+ C-7 
+
+ (j) 
+
+ Additional Amendments for compliance with Variation Margin Rules. 
+
+ (i) Transfer Timing . The word “next” on the third line of Paragraph 4(b) is deleted and replaced with the word “same”. The word “second” on the fifth line of Paragraph 4(b) is deleted and replaced with the word “next”.
+
+ (ii) Dispute Resolution. Clause (1) and (2) of the opening paragraph of Paragraph 5 of the Annex to the Agreement are amended as follows: “(1) the Disputing Party will notify the other party and the Valuation Agent (if the Valuation Agent is not the other party) not later than the close of business on (X) the date that the demand is received under Paragraph 3 in the case of (I) above, or (Y) the Local Business Day following the date of Transfer in the case of (II) above, (2) subject to Paragraph 4(a), the appropriate party will Transfer the undisputed amount to the other party not later than the close of business on the Local Business Day (X) that the Transfer otherwise would have been due if no dispute had existed in the case of (I) above, or (Y) following the date of Transfer in the case of (II) above.”
+
+ (iii) Legally Ineligible Credit Support .Unless otherwise specified in Paragraph 13, upon delivery of a Legal Ineligibility Notice by a party, each item of Eligible Credit Support (or a specified amount of such item) identified in such notice (i) will cease to be Eligible Credit Support (VM) for purposes of Transfers to such party as the Secured Party hereunder as of the applicable Transfer Ineligibility Date, (ii) will cease to be Eligible Credit Support for the other party as the Pledgor for all purposes hereunder as of the Total Ineligibility Date and (iii) will have a Value of zero on and from the Total Ineligibility Date. 
+
+ The parties agree that: (a) a Legal Ineligibility Notice may be delivered because the relevant item(s) of Eligible Credit Support never did satisfy the relevant Legal Eligibility Requirements (in which case the applicable Transfer Ineligibility Date and Total Ineligibility Date will be the fifth Local Business Day following the date of delivery of the Legal Ineligibility Notice); (b) Legal Eligibility Requirements may be applied on a portfolio basis (including, without limitation, for the purposes of applying any concentration limits) such that an entire portfolio or group of items may be the subject of a Legal Ineligibility Notice; (c) Legal Eligibility Requirements will include, if relevant, whether or not the relevant item comprises financial collateral (or equivalent) for the purposes of the Directive 2002/47/EC of the European Parliament and Council of 6th June, 2002 on financial collateral arrangements as implemented in the relevant jurisdiction; and (d) a Legal Ineligibility Notice may be given in respect of a new sub-category, as identified in such notice in re spect of an item, to the extent such a distinction is made by the relevant law, regulatory guideline, policy, manual, standard or statement. 
+
+ C-8 
+
+ As used herein: 
+
+ “ Legal Ineligibility Notice ” means a written notice from the Secured Party to the Pledgor in which the Secured Party (i) represents that the Secured Party has determined that one or more items of Eligible Credit Support (or a specified amount of any such item) either has ceased to satisfy, or as of a specified date will cease to satisfy, collateral eligibility requirements under law applicable to the Secured Party requiring the collection of variation margin (the “ Legal Eligibility Requirements ”), (ii) lists the item(s) of Eligible Credit Support (and, if applicable, the specified amount) that have ceased to satisfy, or as of a specified date will cease to satisfy, the Legal Eligibility Requirements, (iii) describes the reason(s) why such item(s) of Eligible Credit Support (or the specified amount thereof) have ceased to satisfy, or will cease to satisfy, the Legal Eligibility Requirements and (iv) specifies the Total Ineligibility Date and, if different, the Transfer Ineligibility Date. 
+
+ “ Total Ineligibility Date ” means the date on which the relevant item of Eligible Credit Support (or a specified amount of such item) has ceased to satisfy, or will cease to satisfy, the Legal Eligibility Requirements applicable to the Secured Party for all purposes hereunder; provided that, unless otherwise specified in Paragraph 13, if such date is earlier than the fifth Local Business Day following the date on which the Legal Ineligibility Notice is delivered, the Total Ineligibility Date will be the fifth Local Business Day following the date of such delivery. 
+
+ “ Transfer Ineligibility Date ” means the date on which the relevant item of Eligible Credit Support (or a specified amount of such item) has ceased to satisfy, or will cease to satisfy, the Legal Eligibility Requirements for purposes of Transfers to the Secured Party hereunder; provided that, unless otherwise specified in Paragraph 13, if such date is earlier than the fifth Local Business Day following the date on which the Legal Ineligibility Notice is delivered, the Transfer Ineligibility Date will be the fifth Local Business Day following the date of such delivery.
+
+ (iv) Valuation Percentage. If at any time the Valuation Percentage assigned to an item of Eligible Credit Support with respect to a party (as the Pledgor) under this Annex is greater than the maximum permitted valuation percentage (prescribed or implied) for such item of collateral under any law requiring the collection of variation margin applicable to the other party (as the Secured Party), then the Valuation Percentage with respect to such item of Eligible Credit Support and such party will be such maximum permitted valuation percentage, as notified by the Secured Party to the Pledgor.
+
+ C-9 
+
+ SCHEDULE I 
+
+ From And Including
+
+ To But Excluding
+
+ Notional Amount
+
+ 8/15/2019
+
+ 9/15/2019
+
+ $ 79,798,328.00 
+
+ 9/15/2019
+
+ 10/15/2019
+
+ $ 79,695,286.00 
+
+ 10/15/2019
+
+ 11/15/2019
+
+ $ 79,591,765.00 
+
+ 11/15/2019
+
+ 12/15/2019
+
+ $ 79,487,765.00 
+
+ 12/15/2019
+
+ 1/15/2020
+
+ $ 79,333,280.00 
+
+ 1/15/2020
+
+ 2/15/2020
+
+ $ 79,228,313.00 
+
+ 2/15/2020
+
+ 3/15/2020
+
+ $ 79,121,856.00 
+
+ 3/15/2020
+
+ 4/15/2020
+
+ $ 79,014,909.00 
+
+ 4/15/2020
+
+ 5/15/2020
+
+ $ 78,907,469.00 
+
+ 5/15/2020
+
+ 6/15/2020
+
+ $ 78,799,536.00 
+
+ 6/15/2020
+
+ 7/15/2020
+
+ $ 78,691,104.00 
+
+ 7/15/2020
+
+ 8/15/2020
+
+ $ 78,582,173.00 
+
+ 8/15/2020
+
+ 9/15/2020
+
+ $ 78,472,737.00 
+
+ 9/15/2020
+
+ 10/15/2020
+
+ $ 78,362,798.00 
+
+ 10/15/2020
+
+ 11/15/2020
+
+ $ 78,252,352.00 
+
+ 11/15/2020
+
+ 12/15/2020
+
+ $ 78,141,396.00 
+
+ 12/15/2020
+
+ 1/15/2021
+
+ $ 77,979,924.00 
+
+ 1/15/2021
+
+ 2/15/2021
+
+ $ 77,867,939.00 
+
+ 2/15/2021
+
+ 3/15/2021
+
+ $ 77,755,436.00 
+
+ 3/15/2021
+
+ 4/15/2021
+
+ $ 77,642,414.00 
+
+ 4/15/2021
+
+ 5/15/2021
+
+ $ 77,528,867.00 
+
+ 5/15/2021
+
+ 6/15/2021
+
+ $ 77,414,794.00 
+
+ 6/15/2021
+
+ 7/15/2021
+
+ $ 77,300,192.00 
+
+ 7/15/2021
+
+ 8/15/2021
+
+ $ 77,185,061.00 
+
+ 8/15/2021
+
+ 9/15/2021
+
+ $ 77,069,394.00 
+
+ 9/15/2021
+
+ 10/15/2021
+
+ $ 76,953,191.00 
+
+ 10/15/2021
+
+ 11/15/2021
+
+ $ 76,836,448.00 
+
+ 11/15/2021
+
+ 12/15/2021
+
+ $ 76,718,164.00 
+
+ 12/15/2021
+
+ 1/15/2022
+
+ $ 76,544,336.00 
+
+ 1/15/2022
+
+ 2/15/2022
+
+ $ 76,424,959.00 
+
+ 2/15/2022
+
+ 3/15/2022
+
+ $ 76,305,032.00 
+
+ 3/15/2022
+
+ 4/15/2022
+
+ $ 76,184,554.00 
+
+ 4/15/2022
+
+ 5/15/2022
+
+ $ 76,063,521.00 
+
+ 5/15/2022
+
+ 6/15/2022
+
+ $ 75,941,928.00 
+
+ 6/15/2022
+
+ 7/15/2022
+
+ $ 75,819,776.00 
+
+ 7/15/2022
+
+ 8/15/2022
+
+ $ 75,697,058.00 
+
+ 8/15/2022
+
+ 9/15/2022
+
+ $ 75,573,774.00 
+
+ 9/15/2022
+
+ 10/15/2022
+
+ $ 75,449,918.00 
+
+ 10/15/2022 
+
+ 11/15/2022
+
+ $ 75,325,489.00 
+
+ 11/15/2022
+
+ 12/15/2022
+
+ $ 75,200,486.00 
+
+ 12/15/2022
+
+ 1/15/2023
+
+ $ 75,014,903.00 
+
+ 1/15/2023
+
+ 2/15/2023
+
+ $ 74,888,740.00 
+
+ 2/15/2023
+
+ 3/15/2023
+
+ $ 74,761,992.00 
+
+ 3/15/2023
+
+ 4/15/2023
+
+ $ 74,634,658.00 
+
+ 4/15/2023
+
+ 5/15/2023
+
+ $ 74,506,733.00 
+
+ 5/15/2023
+
+ 6/15/2023
+
+ $ 74,377,214.00 
+
+ 6/15/2023
+
+ 7/15/2023
+
+ $ 74,247,101.00 
+
+ 7/15/2023
+
+ 8/15/2023
+
+ $ 74,116,389.00 
+
+ 8/15/2023
+
+ 9/15/2023
+
+ $ 73,985,074.00 
+
+ 9/15/2023
+
+ 10/15/2023
+
+ $ 73,853,153.00 
+
+ 10/15/2023
+
+ 11/15/2023
+
+ $ 73,720,623.00 
+
+ 11/15/2023
+
+ 12/15/2023
+
+ $ 73,587,483.00 
+
+ 12/15/2023
+
+ 1/15/2024
+
+ $ 73,393,729.00 
+
+ 1/15/2024
+
+ 2/15/2024
+
+ $ 73,259,358.00 
+
+ 2/15/2024
+
+ 3/15/2024
+
+ $ 73,124,365.00 
+
+ 3/15/2024
+
+ 4/15/2024
+
+ $ 72,988,749.00 
+
+ 4/15/2024
+
+ 5/15/2024
+
+ $ 72,852,507.00 
+
+ 5/15/2024
+
+ 6/15/2024
+
+ $ 72,715,634.00 
+
+ 6/15/2024
+
+ 7/15/2024
+
+ $ 72,578,127.00 
+
+ 7/15/2024
+
+ 8/15/2024
+
+ $ 72,439,985.00 
+
+ E-2

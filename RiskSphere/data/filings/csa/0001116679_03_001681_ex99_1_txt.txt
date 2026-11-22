@@ -1,0 +1,382 @@
+EX-99
+ 3
+ ex99-1.txt
+ EX. 99.1: SWAP TRANSACTION CONFIRM.
+
+[LOGO OMITTED]
+
+DATE: JANUARY 29, 2001
+
+TO: CHARTER MUNICIPAL MORTGAGE ACCEPTANCE COMPANY
+ ("Counterparty")
+
+ATTENTION: MIKE WIRTH
+ TEL: 212 588 2095
+ FAX: 212 593 5769
+
+FROM: MERRILL LYNCH CAPITAL SERVICES, INC. ("MLCS")
+
+CONTACTS: ZACHARY ZAITZEFF
+ TEL: (212)449-6634
+ FAX: (646)805-0218
+
+RE: SWAP TRANSACTION CONFIRMATION
+
+MLCS Reference: 01MU00014, 659681A
+
+Dear Sir or Madam:
+
+ The purpose of this communication is to confirm the terms and conditions
+of the transaction entered into between us on the Trade Date specified below
+(the "Transaction"). This communication constitutes a "Confirmation" as referred
+to in the Agreement specified below.
+
+ This Confirmation incorporates the definitions and provisions contained in
+the 1991 ISDA Definitions (as supplemented by the 1998 Supplement) and the 1992
+ISDA U.S. Municipal Counterparty Definitions, as published by the International
+Swaps and Derivatives Association, Inc. (the "Definitions"). All references in
+the Definitions to a "Swap Transaction" shall be deemed to apply to the
+Transaction referred to herein. In the event of any inconsistency between the
+1991 ISDA Definitions and the 1992 ISDA U.S. Municipal Counterparty Definitions,
+the terms of the 1991 ISDA Definitions shall govern. In the event of any
+inconsistency between this Confirmation and the Agreement or the Definitions,
+the terms of this Confirmation shall govern.
+
+ This Confirmation evidences a complete and binding agreement between you
+and us as to the terms of the Transaction to which this Confirmation relates. In
+addition, you and we agree to use all reasonable efforts promptly to negotiate,
+execute and deliver an agreement in the form of the ISDA Master Agreement
+(Multicurrency-Cross Border) (the "Master Form"), with such modifications as you
+and we will in good faith agree (the "Agreement"). Upon the execution by you and
+us of the Agreement, this Confirmation will supplement, form a part of, and be
+subject to the Agreement. All provisions contained in or incorporated by
+reference in the Agreement upon its execution will govern this Confirmation
+except as expressly modified below. Until we execute and deliver the Agreement,
+this Confirmation, together with all other documents referring to the Master
+Form (each a "Confirmation") confirming transactions (each a "Transaction")
+entered into between us (notwithstanding anything to the contrary in a
+Confirmation), shall supplement, form a part of, and be subject to, an agreement
+in the form of the Master Form as if we had executed an agreement in such form
+(but without any Schedule except for the election of the laws of the State of
+New York as the governing law and US Dollars as the Termination Currency) on the
+Trade Date of the first such Transaction between us. In the event of any
+inconsistency between the provisions of that agreement and this Confirmation,
+this Confirmation will prevail for the purpose of this Transaction.
+
+ Page 1 of 7
+
+[LOGO OMITTED]
+
+The terms of the particular Transaction to which this Confirmation relates are
+as follows:
+
+Notional Amount: USD 50,000,000.00
+
+Trade Date: January 5, 2001
+
+Effective Date: January 5, 2001
+
+Termination Date: January 5, 2006
+
+Fixed Amounts:
+
+ Fixed Rate Payer: Counterparty
+
+ Fixed Rate Payer
+ Payment Date(s): July 5, January 5 in each year, commencing on
+ July 5, 2001 and ending on the Termination
+ Date, inclusive, subject to adjustment in
+ accordance with the Following Business Day
+ Convention
+
+ Fixed Rate: 3.980000%
+
+ Fixed Rate
+ Day Count Fraction: 30/360
+
+ No Adjustment of
+ Period End Dates: Applicable
+
+Floating Amounts:
+
+ Floating Rate Payer: MLCS
+
+ Floating Rate Payer
+ Payment Date(s): July 5, January 5 in each year, commencing on
+ July 5, 2001 and ending on the Termination
+ Date, inclusive, subject to adjustment in
+ accordance with the Following Business Day
+ Convention
+
+ Floating Rate Payer
+ Floating Rate Option: The BMA Municipal Swap Index (as
+ defined below)
+
+ 1. The BMA Municipal Swap Index (the "Index"):
+ "BMA Municipal Swap Index" means the rate
+ determined on the basis of an index based upon
+ the weekly interest rates of tax-exempt
+ variable rate issues included in a data base
+ maintained by Municipal Market Data or any
+ successor indexing agent (the "Indexing
+ Agent") which meet specific criteria
+ established by the Bond Market Association,
+ formerly known as the Public Securities
+ Association (as set forth in Exhibit A
+ attached hereto).
+
+ 2. Alternative Floating Rate Option:
+
+ Page 2 of 7
+
+ In the Event the Indexing Agent no longer
+ publishes an index satisfying the requirements
+ of the preceding paragraph, the Relevant Rate
+ in respect of a Reset Date shall be the "J.J.
+ Kenny Index" (as defined below), provided
+ further, however, that if the J.J. Kenny Index
+ also ceases to be published, an alternative
+ index shall be calculated by an entity
+ selected in good faith by MLCS and approved by
+ Counterparty, and shall be determined using
+ the criteria for the BMA Municipal Swap Index
+ that is set forth in Exhibit A attached
+ hereto.
+
+ 3. "J.J. Kenny Index" means the index
+ generally made available on the Reset Date by
+ Kenny Information Systems or any successor
+ indexing agent hereunder (the "Successor
+ Indexing Agent"). The Index is announced by
+ Kenny Information Systems at the beginning of
+ business on Tuesday, and shall be effective as
+ of the same day, or if Tuesday is not a New
+ York Business Day, the Index is announced on
+ the next succeeding New York Business Day, and
+ shall be effective as of the same day. The
+ Index is generally effective until the next
+ Reset Date. The Index shall be based upon
+ 7-day yield evaluations at par of bonds, the
+ interest on which is exempt from Federal
+ income taxation under the Internal Revenue
+ Code of 1986 as amended, of not less than five
+ "high grade" component issuers selected by the
+ Successor Indexing Agent which shall include,
+ without limitation, issuers of general
+ obligation bonds. The specific issuers
+ included among the component issuers may be
+ changed from time to time by the Successor
+ Indexing Agent in its discretion. The bonds on
+ which the Index is based shall not include any
+ bonds the interest on which is subject to a
+ "minimum tax" or similar tax under the
+ Internal Revenue Code, unless all tax-exempt
+ bonds are subject to such tax.
+
+ Spread: Inapplicable
+
+ Floating Rate Day
+
+ Count Fraction: Actual/Actual
+
+ Reset Dates: Each Thursday (or if such day is not a
+ Business Day, then the succeeding Business
+ Day). The initial rate shall be as of the
+ Thursday immediately preceding the Effective
+ Date
+
+ No Adjustment of
+ Period End Dates: Applicable
+
+ Rate Cut-Off Dates: Inapplicable
+
+ Averaging: Applicable
+
+ Method of Averaging: Weighted Average
+
+ Page 3 of 7
+
+[LOGO OMITTED]
+
+ Compounding: Inapplicable
+
+Business Days: New York
+
+Calculation Agent: MLCS, unless otherwise specified in the
+ Agreement
+
+Collateral: (a) Until the execution of a Credit Support
+ Annex between the parties, this Confirmation
+ shall constitute a pledge agreement (and a
+ Credit Support Document under the Agreement)
+ securing the payment and performance of
+ Counterparty's obligations to MLCS under this
+ and any other Transaction between the parties.
+ Promptly after the execution hereof, MLCS and
+ Counterparty agree to execute a Credit Support
+ Annex in form and substance reasonably
+ satisfactory to the parties. Upon execution,
+ the Credit Support Annex shall supersede and
+ replace the pledge agreement created hereby.
+
+ (b) As security for its obligations under this
+ and any other Transaction with MLCS,
+ Counterparty hereby pledges, transfers and
+ delivers to MLCS, and grants MLCS a first
+ priority continuing security interest, lien on
+ and right of set-off against, Eligible
+ Collateral (as defined below) equal to 1.0% of
+ the Notional Amount of this Transaction, which
+ Eligible Collateral shall be held by MLCS for
+ the Term of this Transaction without regard to
+ and without offsetting such amount against,
+ any Required Amount (as defined below) or
+ additional collateral required to be delivered
+ to MLCS by, or on behalf of, Counterparty.
+ Upon execution of a Credit Support Annex
+ between the parties, this amount shall
+ constitute an Independent Amount thereunder.
+
+ (c) If at any time a Required Amount exists,
+ Counterparty, as security for its obligations
+ to MLCS, shall, promptly upon demand by MLCS,
+ pledge, transfer and deliver to MLCS, and
+ grant MLCS a first priority continuing
+ security interest in and right of set-off
+ against, Eligible Collateral having a minimum
+ market value equal to the Required Amount.
+
+ (d) Upon any default by Counterparty in the
+ performance of its obligations to MLCS
+ hereunder or under any other Transaction with
+ MLCS, MLCS shall have all rights of a secured
+ creditor under the New York Uniform Commercial
+ Code.
+
+ (e) The term "Eligible Collateral" means U.S.
+ denominated cash, U.S. Treasury Securities and
+ any other form of collateral agreed to between
+ the parties.
+
+ The term "Required Amount" means the amount by
+ which the value of any positive "Net Market
+ Quotation" (as defined below) exceeds USD 0. A
+ positive Net Market
+
+ Page 4 of 7
+
+[LOGO OMITTED]
+
+ Quotation shall mean that MLCS is exposed to
+ Counterparty and a negative Net Market
+ Quotation shall mean that Counterparty is
+ exposed to MLCS.
+
+ The term "Net Market Quotation" means an
+ amount equal to the sum of all Market
+ Quotations (both positive and negative) for
+ all Transactions between the parties assuming
+ all such Transactions were being terminated as
+ of the relevant date of valuation; provided,
+ however, that Market Quotation will be
+ determined by MLCS using its mid-market
+ estimates of the amounts that would be paid
+ for Replacement Transactions (as such term is
+ defined in the definition of "Market
+ Quotation").
+
+ Please contact Collateral Management, at
+ telephone: (201) 557-4196, facsimile: (201)
+ 557-3650, for delivery instructions for
+ securities.
+
+Non-Reliance: Each party represents to the other party that
+ it is acting for its own account, and has made
+ its own independent decisions to enter into
+ this Transaction and as to whether this
+ Transaction is appropriate or proper for it
+ based on its own judgment and upon advice from
+ such advisors as it has deemed necessary. It
+ is not relying on any communication (written
+ or oral) of the other party as investment
+ advice or as a recommendation to enter into
+ this Transaction, it being understood that
+ information and explanations related to the
+ terms and conditions of this Transaction shall
+ not be considered investment advice or a
+ recommendation to enter into this Transaction.
+ No communication (written or oral) received
+ from the other party shall be deemed to be an
+ assurance or guarantee as to the expected
+ results of this Transaction.
+
+ Page 5 of 7
+
+[LOGO OMITTED]
+
+Account Details
+
+ Payments to MLCS: Bankers Trust Company
+ New York, NY
+ ABA: 021-001-033
+ A/C #00-811-890
+ Ref: Merrill Lynch Capital Services, Inc.
+ Municipal Swap Account
+
+ Payments to Counterparty: Please advise
+
+Please confirm that the foregoing correctly sets forth the terms of our
+agreement by executing this Confirmation and returning it to us by facsimile
+transmission.
+
+ Yours sincerely,
+
+ MERRILL LYNCH CAPITAL SERVICES, INC.
+
+ By:
+ ------------------------------
+ Authorized Signatory
+
+Accepted and confirmed as
+of the Trade Date written above:
+
+CHARTER MUNICIPAL MORTGAGE ACCEPTANCE COMPANY
+
+By:
+----------------------------
+ Name:
+ Title:
+
+ Page 6 of 7
+
+[LOGO OMITTED]
+
+ Exhibit A
+
+ BMA Municipal Swap Index
+ Produced By Municipal Market Data
+
+Final Index Criteria
+
+1. Issue must be a weekly reset effective on Wednesday.
+2. No lag resets will be considered.
+3. Only Non-AMT issues will be included.
+4. Issue must have a VMIG1 or A1+ rating.
+5. Issue must pay interest on a monthly basis.
+6. Interest must be calculated on a ACT/ACT basis.
+7. Only one quote per obligor per dealer will be included.
+8. All states will be considered.
+9. Issue must have an outstanding amount of $10 million or more.
+
+Index Calculation
+
+1. The rates of the issues which qualify for inclusion in the index are not
+ weighted by issue size.
+2. The standard deviation of the rates is calculated. Any issue falling
+ outside +/- 1 SD is dropped.
+3. Each participating dealer is limited to no more than 15% of the index by
+ an averaging method. Any dealer originally having a total number of issues
+ greater than 15% will have sufficient number of issues reduced from its
+ distribution to meet the desired limitation.
+
+ Page 7 of 7

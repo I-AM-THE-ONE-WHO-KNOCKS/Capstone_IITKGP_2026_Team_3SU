@@ -9,11 +9,13 @@ Nothing in this module computes a mark. It explains what the tools returned.
 """
 
 import json
+import re
 import time
 
 import agent
 import log
 import mcp_client
+import stage4
 
 
 def _say(steps, line):
@@ -49,6 +51,20 @@ def _trade_line(trade):
     )
 
 
+def _collateral_sentence(name, line):
+    """One sentence for a posted asset. Ineligible assets count as zero."""
+    if line.get("eligible") is False:
+        return (
+            f"Collateral for {name}. {line['asset']} is not an eligible asset, "
+            f"face {_money(line['amount'])}. It counts as zero."
+        )
+    return (
+        f"Collateral for {name}. {line['asset']} face {_money(line['amount'])}. "
+        f"The schedule row is {line['asset_class']}, {line['rating_bucket']}, {line['maturity_bucket']}, "
+        f"a {line['haircut_pct']}% haircut. Amount that counts is {_money(line['counted'])}."
+    )
+
+
 def _status_how(output):
     """Sentence that says why the status is BREACH, WARNING, or OK.
 
@@ -80,13 +96,7 @@ def _tool_lines(row):
     if name == "current_exposure":
         lines = [_trade_line(trade) for trade in output.get("trades") or []]
         for line in output.get("collateral") or []:
-            lines.append(
-                f"Collateral for {output['counterparty_name']}. Read {line['asset']} from collateral.csv, "
-                f"face {_money(line['amount'])}. Looked up the d499 table in books.py for "
-                f"{line['asset_class']}, {line['rating_bucket']}, {line['maturity_bucket']}, which is a "
-                f"{line['haircut_pct']}% haircut. Amount that counts is face times (1 minus that haircut), "
-                f"{_money(line['counted'])}."
-            )
+            lines.append(_collateral_sentence(output["counterparty_name"], line))
         lines.append(
             f"Current exposure, in Python, no model. Added the trade marks to get gross MtM "
             f"{_money(output['gross_mtm_usd'])}. Subtracted collateral {_money(output['collateral_after_haircut_usd'])}. "
@@ -100,11 +110,7 @@ def _tool_lines(row):
     if name == "calculate_margin_call":
         lines = []
         for line in output.get("collateral") or []:
-            lines.append(
-                f"Collateral for {output['counterparty_name']}. Read {line['asset']} from collateral.csv, "
-                f"face {_money(line['amount'])}. The d499 row for this asset is a {line['haircut_pct']}% haircut, "
-                f"so the amount that counts is {_money(line['counted'])}."
-            )
+            lines.append(_collateral_sentence(output["counterparty_name"], line))
         lines.append(
             f"Margin call, in Python, no model. Read threshold {_money(output['threshold_usd'])}, "
             f"minimum transfer {_money(output['mta_usd'])}, and rounding {_money(output['rounding_usd'])} from csa_terms.csv. "
@@ -155,7 +161,110 @@ def _tool_lines(row):
             f"books.py holds the d499 table and returned {output['haircut_pct']}%. "
             f"{output['source']}"
         ]
+    extra = _extra_lines(output)
+    if extra is not None:
+        return extra
     return [json.dumps(output)]
+
+
+def _extra_lines(output):
+    """Console sentences for stages 3 to 5. None when this result is an earlier tool."""
+    name = output.get("tool")
+    if name == "check_data_quality":
+        if output.get("passed"):
+            return [
+                f"Data check, in Python. I read {output['rows_checked']} rows. "
+                "Ids, dates, units, and signs passed. The model did not fill a blank."
+            ]
+        problems = "; ".join(
+            f"{row['where']}: {row['problem']}" for row in output.get("problems") or []
+        )
+        return [f"Data check failed. No figure was computed. {problems}"]
+    if name == "scenario_pnl":
+        return [
+            f"Scenario, in Python. {output['scenario_label']}. "
+            f"Today's mark {_money(output['base_mtm_usd'])}. "
+            f"Shocked mark {_money(output['shocked_mtm_usd'])}. "
+            f"Profit and loss is the difference, {_money(output['scenario_pnl_usd'])}. "
+            "Trades the shock does not name stay at today's mark."
+        ]
+    if name == "initial_margin_proxy":
+        return [
+            f"Initial margin proxy, in Python. {output['label']}. "
+            f"Horizon {output['horizon_days']} days, percentile {output['percentile']}. "
+            f"The figure is {_money(output['initial_margin_usd'])}. "
+            "This is not the variation-margin call."
+        ]
+    if name == "collateral_coverage":
+        skipped = ", ".join(output.get("ineligible_assets") or []) or "none"
+        return [
+            f"Coverage, in Python. Requirement {_money(output['requirement_usd'])}. "
+            f"Eligible collateral {_money(output['eligible_collateral_usd'])}. "
+            f"Shortfall {_money(output['shortfall_usd'])}. Surplus {_money(output['surplus_usd'])}. "
+            f"Ineligible assets: {skipped}."
+        ]
+    if name == "expected_loss":
+        return [
+            f"Expected loss, in Python. PD {output['pd']} times LGD {output['lgd']} times "
+            f"EAD {_money(output['ead_usd'])}. The EAD is {output['ead_label']}. "
+            f"Expected loss {_money(output['expected_loss_usd'])}. Source {output['pd_source']}."
+        ]
+    if name == "search_clauses":
+        hits = output.get("hits") or []
+        if not hits:
+            return [f"Clause search in the {output['pile']} pile. No sentence matched."]
+        shown = "  ".join(f"[{hit.get('source', 'S?')}] {hit['text']}" for hit in hits[:2])
+        return [
+            f"Clause search in the {output['pile']} pile, {output['mode']}. "
+            f"A hit does not change the stored terms. {shown}"
+        ]
+    if name == "propose_term":
+        return [
+            f"Draft term for {output['counterparty_id']} {output['field']}. "
+            f"Proposed {output['proposed_value']}, current {output['current_value']}. "
+            f"Status {output['status']}. The stored agreement was not changed."
+        ]
+    if name == "read_term":
+        draft = "A draft was written." if output.get("draft_status") else "No draft was written."
+        reason = output.get("reason") or ""
+        return [
+            f"Documents asked Qwen to read the retrieved clause. "
+            f"Field {output.get('field') or 'none'}. Status {output.get('status')}. "
+            f"{reason} {draft} The stored agreement was not changed."
+        ]
+    if name == "list_alerts":
+        if not output.get("alerts"):
+            return [f"Alerts. None. Stale window is {output['stale_after_days']} days."]
+        shown = "; ".join(row["detail"] for row in output["alerts"])
+        return [f"Alerts, {output['alert_count']}. {shown}"]
+    if name == "draft_report":
+        return [
+            f"Draft report {output['run_id']} for {output['counterparty_name']}. "
+            f"Status {output['status']}. Today's exposure {_money(output['current_exposure_usd'])}, "
+            f"status {output['exposure_status']}. Shortfall {_money(output['shortfall_usd'])}. "
+            f"Expected loss {_money(output['expected_loss_usd'])}. "
+            f"Seed {output['pfe_seed']}, paths {output['pfe_paths']}. Nothing was sent."
+        ]
+    if name == "draft_margin_notice":
+        return [
+            f"Draft margin notice {output['run_id']} for {output['counterparty_name']}. "
+            f"Action {output['action']}. Delivery {_money(output['delivery_amount_usd'])}. "
+            f"Return {_money(output['return_amount_usd'])}. Status {output['status']}. It was not sent."
+        ]
+    if name == "draft_stress_book":
+        shown = "; ".join(
+            f"{row['counterparty_id']} {row['scenario']} {_money(row['scenario_pnl_usd'])}"
+            for row in (output.get("rows") or [])[:6]
+        )
+        return [f"Draft stress book {output['run_id']}. Status {output['status']}. {shown}"]
+    if name == "draft_dispute":
+        return [
+            f"Draft dispute {output['run_id']} for {output['counterparty_name']}. "
+            f"Our mark {_money(output['our_mtm_usd'])}. Their mark {_money(output['their_mtm_usd'])}. "
+            f"Gap {_money(output['gap_usd'])}. Verdict {output['verdict']}. "
+            f"Disputed {_money(output['disputed_usd'])}. Status {output['status']}. Nothing was sent."
+        ]
+    return None
 
 
 def _remember(question, results, state):
@@ -173,6 +282,66 @@ def _remember(question, results, state):
     if cid:
         state["last_counterparty"] = cid
         agent.save_state(state)
+
+
+def _documents_reading(question, plan, results, state, steps, flags):
+    """Have Documents read the retrieved passages and propose one term.
+
+    Used only when the plan came from Qwen and the question asks for an
+    agreement number, or the planner tried to supply that number itself.
+    Retrieval stays BM25 plus the embedder. Qwen sees the hits and returns
+    a quote. The caller appends the reading row. A missing passage does not
+    call the model.
+    """
+    hits = []
+    for row in results:
+        if not (row.get("ok") and row.get("tool") == "search_clauses"):
+            continue
+        output = row.get("output") or {}
+        pile = output.get("pile") or (row.get("args") or {}).get("pile")
+        if pile == "csa":
+            hits = output.get("hits") or []
+    planned = [step for step in plan.get("steps") or [] if step["tool"] == "propose_term"]
+    if not hits and planned:
+        import books
+        passage_id = planned[-1]["args"].get("passage_id")
+        for clause in books.clause_rows():
+            if clause.get("id") == passage_id and (clause.get("pile") or "csa") == "csa":
+                hits = [{
+                    "id": clause["id"],
+                    "source": "S1",
+                    "text": clause["text"],
+                    "title": clause.get("title", ""),
+                }]
+    if not hits:
+        try:
+            found = mcp_client.call_tool("search_clauses", {"query": question[:500], "pile": "csa"})
+        except Exception as exc:
+            flags.append("tool_error")
+            _say(steps, f"Documents could not retrieve a passage: {exc}")
+            return None
+        hits = found.get("hits") or []
+        results.append({
+            "tool": "search_clauses",
+            "args": {"query": question[:500], "pile": "csa"},
+            "ok": True,
+            "output": found,
+        })
+        for line in _tool_lines(results[-1]):
+            _say(steps, line)
+    if not hits:
+        _say(steps, "Documents did not call Qwen. Retrieval returned no passage to read.")
+        return None
+    cid = planned[-1]["args"].get("counterparty") if planned else ""
+    if not cid:
+        cid = books_find(question) or (state.get("last_counterparty") or "")
+    try:
+        output = agent.read_clause(question, hits, cid)
+    except Exception as exc:
+        log.error(f"read_term failed: {exc}")
+        flags.append("tool_error")
+        return {"tool": "read_term", "args": {"counterparty": cid}, "ok": False, "error": str(exc), "output": {}}
+    return {"tool": "read_term", "args": {"counterparty": cid}, "ok": True, "output": output}
 
 
 def books_find(question):
@@ -260,7 +429,22 @@ def answer(question):
         return _payload(question, steps, plan, results, wording, flags)
 
     mcp_client.reset()
+    seen = set()
+    documents_reads = agent.llm_enabled() and plan.get("router") == "qwen3-8b" and (
+        agent.term_request(question)
+        or any(step["tool"] == "propose_term" for step in plan.get("steps") or [])
+    )
     for step in plan["steps"]:
+        if documents_reads and step["tool"] == "propose_term":
+            flags.append("documents_reads")
+            _say(steps, "Documents will read the retrieved clause. The planner's number is not written as a draft.")
+            continue
+        key = (step["tool"], json.dumps(step["args"], sort_keys=True))
+        if key in seen:
+            flags.append("duplicate_step")
+            _say(steps, f"Skipped a repeated {step['tool']} with the same arguments.")
+            continue
+        seen.add(key)
         try:
             output = mcp_client.call_tool(step["tool"], step["args"])
             row = {"tool": step["tool"], "args": step["args"], "ok": True, "output": output}
@@ -272,8 +456,15 @@ def answer(question):
         for line in _tool_lines(row):
             _say(steps, line)
 
+    reading = _documents_reading(question, plan, results, state, steps, flags) if documents_reads else None
+    if reading:
+        results.append(reading)
+        for line in _tool_lines(reading):
+            _say(steps, line)
+
     _remember(question, results, state)
     usable = [row for row in results if row["ok"]]
+    critic_issues = []
     if agent.llm_enabled() and plan.get("router") == "qwen3-8b" and usable:
         issues = ["not checked"]
         for _ in range(cfg.get("critic_retries", 1) + 1):
@@ -297,6 +488,7 @@ def answer(question):
             )
         elif wording and issues:
             flags.append("critic_fallback")
+            critic_issues = list(issues)
             _say(steps, 
                 "Critic, in Python. Scanned the sentences against the tool JSON and rejected them: "
                 + "; ".join(issues)
@@ -309,13 +501,13 @@ def answer(question):
         _say(steps, "No wording call. The Python lines are the answer.")
 
     _finish(question, plan, results, flags, steps, started)
-    payload = _payload(question, steps, plan, results, wording, flags)
+    payload = _payload(question, steps, plan, results, wording, flags, critic_issues)
     log.debug("plan " + json.dumps(payload["plan"]))
     log.debug("flags " + json.dumps(flags))
     return payload
 
 
-def _payload(question, steps, plan, results, wording, flags):
+def _payload(question, steps, plan, results, wording, flags, critic_issues=None):
     """Assemble the dict main() prints. The planner prompt is left out."""
     return {
         "question": question,
@@ -324,6 +516,7 @@ def _payload(question, steps, plan, results, wording, flags):
         "results": results,
         "wording": wording,
         "flags": flags,
+        "critic_issues": list(critic_issues or []),
     }
 
 
@@ -361,6 +554,8 @@ def main():
     agent.load_secrets()
     log.configure()
     print("RiskSphere ready. Type a question. Press Enter on an empty line to stop.")
+    print("A draft stays unsigned until you type: approve <id> <field> by <your name>")
+    print("Type pending to see drafts that are still waiting.")
     while True:
         try:
             question = input("Question: ").strip()
@@ -371,6 +566,30 @@ def main():
         if not question or question.lower() in ("quit", "exit"):
             mcp_client.stop()
             return
+        if question.lower() == "pending":
+            waiting = stage4.list_pending()
+            if not waiting:
+                print("No draft is waiting.")
+            for row in waiting:
+                print(
+                    f"{row['counterparty_id']} {row['field']} "
+                    f"{row.get('current_value')} -> {row.get('proposed_value')} "
+                    f"passage {row.get('passage_id')}"
+                )
+            continue
+        signed = re.fullmatch(r"approve\s+(\S+)\s+(\S+)\s+by\s+(.+)", question, re.I)
+        if signed:
+            try:
+                applied = stage4.approve_term(signed.group(1).lower(), signed.group(2).lower(), signed.group(3))
+            except ValueError as exc:
+                print(exc)
+            else:
+                print(
+                    f"Signed by {applied['approved_by']}. {applied['counterparty_id']} "
+                    f"{applied['field']} is now {applied['proposed_value']}. "
+                    f"Backup {applied['backup']}."
+                )
+            continue
         if len(question) > 1000:
             log.error("question longer than 1000 characters")
             print("Keep the question under 1000 characters.")

@@ -1,0 +1,355 @@
+EX-10.5
+ 7
+ c76938exv10w5.txt
+ ISDA CREDIT SUPPORT
+
+ EXHIBIT 10.5
+
+ (ISDA LOGO)
+
+ CREDIT SUPPORT ANNEX
+
+ to the Schedule to the
+
+ Master Agreement
+--------------------------------------------------------------------------------
+
+ dated as of November 1, 2001
+
+ between
+
+CITIBANK N.A. AMERITRADE HOLDING
+ CORPORATION
+---------------------------------- and ------------------------------------
+ ("Party A") ("Party B")
+
+This Annex supplements, forms part of, and is subject to, the above-referenced
+Agreement, is part of its Schedule and is a Credit Support Document under this
+Agreement with respect to each party.
+
+Accordingly, the parties agree as follows: --
+
+PARAGRAPH 1. INTERPRETATION
+
+(a) DEFINITIONS AND INCONSISTENCY. Capitalized terms not otherwise defined
+herein or elsewhere in this Agreement have the meanings specified pursuant to
+Paragraph 12, and all references in this Annex to Paragraphs are to Paragraphs
+of this Annex. In the event of any inconsistency between this Annex and the
+other provisions of this Schedule, this Annex will prevail, and in the event of
+any inconsistency between Paragraph 13 and the other provisions of this Annex,
+Paragraph 13 will prevail.
+
+(b) SECURED PARTY AND PLEDGOR. All references in this Annex to the "Secured
+Party" will be to either party when acting in that capacity and all
+corresponding references to the "Pledgor" will be to the other party when acting
+in that capacity; provided, however, that if Other Posted Support is held by a
+party to this Annex, all references herein to that party as the Secured Party
+with respect to that Other Posted Support will be to that party as the
+beneficiary thereof and will not subject that support or that party as the
+beneficiary thereof to provisions of law generally relating to security
+interests and secured parties.
+
+PARAGRAPH 2. SECURITY INTEREST
+
+Each party, as the Pledgor, hereby pledges to the other party, as the Secured
+Party, as security for its Obligations, and grants to the Secured Party a first
+priority continuing security interest in, lien on and right of Set-off against
+all Posted Collateral Transferred to or received by the Secured Party
+hereunder. Upon the Transfer by the Secured Party to the Pledgor of Posted
+Collateral, the security interest and lien granted hereunder on that Posted
+Collateral will be released immediately and, to the extent possible, without
+any further action by either party.
+
+ EXECUTION COPY
+ CB03-655B
+
+PARAGRAPH 13. ELECTIONS AND VARIABLES
+
+(a) SECURITY INTEREST FOR "OBLIGATIONS". The term "OBLIGATIONS" as used in
+ this Annex includes no additional obligations with respect to Party A and
+ Party B.
+
+(b) CREDIT SUPPORT OBLIGATIONS.
+
+ (i) Delivery Amount, Return Amount and Credit Support Amount.
+
+ (A) "DELIVERY AMOUNT" has the meaning specified in Paragraph 3(a).
+
+ (B) "RETURN AMOUNT" has the meaning specified in Paragraph 3(b).
+
+ (C) "CREDIT SUPPORT AMOUNT" has the meaning specified in Paragraph 3.
+
+ (ii) ELIGIBLE COLLATERAL. The following items will qualify as "ELIGIBLE
+ COLLATERAL" for the party specified:
+
+ PARTY PARTY VALUATION
+ A B PERCENTAGE
+
+ (A) Cash X X 100%
+
+ (B) negotiable debt obligations issued by the U.S. X X 100%
+ Treasury Department having a remaining maturity
+ at issuance of less than one year
+
+ (C) negotiable debt obligations issued by the U.S. X X 98%
+ Treasury Department having a remaining maturity
+ at issuance of at least one year but less than
+ 10 years
+
+ (D) negotiable debt obligations issued by the U.S. X X 95%
+ Treasury Department having a remaining maturity
+ at issuance of more than 10 years
+
+ 11
+
+ Certificated securities shall not constitute "Eligible Collateral".
+
+ (iii) OTHER ELIGIBLE SUPPORT. As set forth in the Confirmation.
+
+ (iv) THRESHOLDS.
+
+ (A) "INDEPENDENT AMOUNT" means with respect to Party A:$0.
+ "INDEPENDENT AMOUNT" means with respect to Party B:$0.
+
+ (B) "THRESHOLD" means, with respect to this Credit Support Annex and
+ with respect to Party A and Party B: $0.
+
+ (C) "MINIMUM TRANSFER AMOUNT" means with respect to Party A and Party
+ B U.S. $100,000; provided, however, that if a Secured Party is
+ holding Posted Credit Support and the Credit Support Amount for
+ that Secured Party is, or is deemed to be, zero at that time and,
+ but for its Minimum Transfer Amount, the Secured Party would be
+ required to make a Transfer to the Pledgor under Paragraph 3(b),
+ the Minimum Transfer Amount will be zero; and, provided further,
+ that if an Event of Default or a Potential Event of Default
+ occurs and is continuing with respect to such party or an Early
+ Termination Date has occurred or been designated as a result of
+ an Event of Default with respect to such party, the Minimum
+ Transfer Amount will be zero.
+
+ (D) ROUNDING. The Delivery Amount and the Return Amount will be
+ rounded up and down to the nearest integral multiple of $50,000,
+ respectively, with $500 being rounded up.
+
+(c) VALUATION AND TIMING.
+
+ (i) "VALUATION AGENT" means Citibank, N.A.
+
+ (ii) "VALUATION DATE" means each Local Business Day.
+
+ (iii) "VALUATION TIME" means the close of business in the city of the
+ Valuation Agent on the Local Business Day before the Valuation Date
+ or date of calculation, as applicable; provided that the calculations
+ of Value and Exposure will be made as of approximately the same time
+ on the same date.
+
+ (iv) "NOTIFICATION TIME" means 1:00 p.m., New York time, on a Local
+ Business Day.
+
+ 12
+
+(d) CONDITIONS PRECEDENT AND SECURED PARTY'S RIGHTS AND REMEDIES. There shall
+ be no "SPECIFIED CONDITIONS" for either party.
+
+(e) SUBSTITUTION.
+
+ (i) "SUBSTITUTION DATE" has the meaning specified in Paragraph 4(d)(ii).
+
+ (ii) CONSENT. If specified here as applicable, then the Pledgor must
+ obtain the Secured Party's consent for any substitution pursuant to
+ Paragraph 4(d): Inapplicable.
+
+(f) DISPUTE RESOLUTION.
+
+ (i) "RESOLUTION TIME" means 1:00 p.m., New York time, on the Local
+ Business Day following the date on which the notice of a dispute is
+ given under Paragraph 5.
+
+ (ii) VALUE. For the purpose of Paragraphs 5(i)(C) and 5(ii), the Value of
+ Posted Credit Support will be calculated as follows: Disputes over
+ Value will be resolved by the Valuation Agent seeking three bid
+ quotes as of the relevant Valuation Date or date of Transfer from
+ parties that regularly act as dealers in the securities or other
+ property in question. The Value will be the arithmetic mean of the
+ quotes received by the Valuation Agent multiplied by the applicable
+ Valuation Percentage.
+
+ (iii) ALTERNATIVE. The provisions of Paragraph 5 will apply.
+
+(g) HOLDING AND USING POSTED COLLATERAL.
+
+ (i) ELIGIBILITY TO HOLD POSTED COLLATERAL; CUSTODIANS. Party A will be
+ entitled to hold Posted Collateral pursuant to Paragraph 6(b);
+ provided that the following conditions applicable to it are
+ satisfied:
+
+ (1) Party A is not a Defaulting Party.
+
+ (2) Posted Collateral may be held only in the following
+ jurisdictions: United States.
+
+ (3) Party A's Custodian shall (A) be a U.S. financial institution
+ or the U.S. branch of a non-U.S. financial institution and (B)
+ have a rating of A1 or higher by Moody's Investors Services,
+ Inc. ("Moody's") and A+ or higher by Standard & Poor's
+ Corporation ("S&P"), respectively, and have a capitalization in
+ excess of $5 Billion. The Custodian shall be a party acceptable
+ to Party B.
+
+ 13
+
+ (4) Party A has a Long Term Issuer Rating applicable to the
+ Head Office of Citibank, N.A. of at least Baa3 and BBB-,
+ as determined by Moody's or S&P, respectively.
+
+ Initially, the CUSTODIAN for Party A is: None.
+
+ Party B and its Custodian will be entitled to hold Posted Collateral
+ pursuant to Paragraph 6(b); provided that the following conditions
+ applicable to it are satisfied:
+
+ (1) Party B is not a Defaulting Party.
+
+ (2) Posted Collateral may be held only in the following jurisdictions:
+ United States.
+
+ (3) Party B's Custodian shall (A) be a U.S. financial institution or
+ the U.S. branch of a non-U.S. financial institution and and (B)
+ have a rating of A1 or higher by Moody's Investors Services, Inc.
+ ("Moody's") and A+ or higher by Standard & Poor's Corporation
+ ("S&P"), respectively, and have a capitalization in excess of $5
+ Billion. The Custodian shall be a party acceptable to Party A.
+
+ (4) Party B has a senior long-term unsecured debt rating of at least
+ Baa3 and BBB-, as determined by Moody's or S&P, respectively.
+
+ Initially, the CUSTODIAN for Party B is: None.
+
+ (ii) USE OF POSTED COLLATERAL. The provisions of Paragraph 6(c)(i) will
+ apply to Party A and Party B; provided that in the case of Party A
+ it has a Long Term Issuer Rating applicable to the Head Office of
+ Citibank, N.A. of at least Baa3 and BBB-, as determined by Moody's
+ or S&P, and in the case of Party B, it has a senior long-term
+ unsecured debt rating of at lease Baa3 and BBB-, as determined by
+ Moody's or S&P.
+
+(h) DISTRIBUTIONS AND INTEREST AMOUNT.
+
+ (i) INTEREST RATE. The "INTEREST RATE" will be the Federal Funds Rate.
+ "FEDERAL FUNDS RATE" means, for any day, the rate set forth in
+ H.15(519) for that day opposite the caption "Federal Funds
+ (Effective)". If on any day such rate is not yet published in
+ H.15(519), the rate for such day will be the rate set forth in
+ Composite 3:30 p.m. Quotations for U.S. Government Securities for
+ that day under the caption "Federal Funds/Effective Rate". If on
+ any day the appropriate rate for such day is not yet published in
+ either H.15(519) or Composite 3:30 P.M. Quotations for U.S.
+ Government Securities, the rate for such day will be the
+ arithmetic means of the rates for the last transaction in
+ overnight U.S. Dollar Federal funds arranged by three leading
+ brokers of U.S.
+
+ 14
+
+ Dollar Federal funds transactions in New York City selected by
+ Citibank in good faith prior to 9:00 a.m., New York City time, on
+ such day. "H.15(519)" means the weekly statistical release designated
+ as such, or any successor publication, published by the Board of
+ Governors of the Federal Reserve System. "COMPOSITE 3:30 P.M.
+ QUOTATIONS FOR U.S. GOVERNMENT SECURITIES" means the daily
+ statistical release designated as such, or any successor publication,
+ published by the Federal Reserve Bank of New York.
+
+ (ii) TRANSFER OF INTEREST AMOUNT. The Transfer of the Interest Amount
+ will be made on the last Local Business Day of each calendar month
+ and on any Local Business Day that all Posted Collateral in the form
+ of Cash is transferred to the pledgor pursuant to paragraph 3(b).
+
+ (iii) ALTERNATIVE TO INTEREST AMOUNT. The provisions of Paragraph 6(d)(ii)
+ will apply.
+
+(i) ADDITIONAL REPRESENTATION(S). None.
+
+(j) OTHER ELIGIBLE SUPPORT AND OTHER POSTED SUPPORT. None.
+
+(k) DEMANDS AND NOTICES.
+
+ All demands, specification and notices under this Annex will be made
+ pursuant to the Notices Section of this Agreement, unless otherwise
+ specified here:
+
+ Party A: Citibank, N.A.
+ 333 West 34th Street
+ 2nd Floor
+ New York, New York 10001
+ Attention: Margin Operations
+ Telephone No.: 212-615-8205
+ Telefax No.: 212-615-8295
+
+ Party B: As set forth in the Schedule.
+
+(l) ADDRESSES FOR TRANSFERS.
+
+ Party A: As set forth in demands and notices from one party to the other
+ party from time to time.
+
+ Party B: As set forth in demands and notices from one party to the other
+ party from time to time.
+
+ 15
+
+(m) OTHER PROVISIONS.
+
+ (i) The definition of Posted Collateral shall also include any and
+ all accounts in which the Cash which constitutes Posted
+ Collateral is held.
+
+ (ii) Paragraph 6(a) is hereby amended by adding the following sentence
+ to the end thereof:
+
+ The Secured Party shall identify on its books and records the
+ Posted Collateral (including for the sake of clarity, any cash
+ proceeds of or distribution on such Posted Collateral) held by it
+ from all other assets it may hold.
+
+ (iii) The following new paragraph is added to the end of Paragraph
+ 8(a):
+
+ To the extent notice is required under applicable law, the
+ parties hereto agree that notice on the day of sale is reasonable
+ notice for purposes of the Uniform Commercial Code 9-504(3) (as
+ in effect in New York).
+
+ (iv) Events of Default. Paragraph 7(i) shall be amended and restated
+ in its entirety as follows:
+
+ (i) that party fails (or fails to cause its Custodian) to make,
+ when due any Transfer of Eligible Collateral, Posted Collateral
+ or the Interest Amount as applicable, required to be made by it
+ and that failure continues for one Local Business Day after
+ notice of that failure is given to that party.
+
+ (v) For purposes of this Credit Support Annex, Local Business Day
+ shall have the meaning specified in Paragraph 12; provided,
+ however, that if the New York Stock Exchange is not scheduled to
+ be open to transact business on such day, such day shall not be a
+ Local Business Day.
+
+ 16
+
+CITIBANK, N.A. AMERITRADE HOLDING
+ CORPORATION
+
+By: /s/ LINDA K. COOK By: /s/ WILLIAM J. GERBER
+ -------------------------- -------------------------------
+
+Print Name: Linda K. Cook Print Name: William J. Gerber
+ ------------------ -----------------------
+
+Title: Vice President Title: Managing Director of Finance
+ ----------------------- ----------------------------
+
+Date: Date: 08/29/02
+ ------------------------ -----------------------------
+
+ 17

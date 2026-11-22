@@ -1,0 +1,44 @@
+[
+  {
+    "counterparty_id": "CP-001",
+    "name": "Apex Capital Derivatives",
+    "peak_pfe_collateralized_usd": 1777289,
+    "factor": 1.5,
+    "credit_limit_usd": 2700000
+  },
+  {
+    "counterparty_id": "CP-002",
+    "name": "Meridian Global Trading",
+    "peak_pfe_collateralized_usd": 3481034,
+    "factor": 0.85,
+    "credit_limit_usd": 3000000
+  },
+  {
+    "counterparty_id": "CP-003",
+    "name": "Vanguard Risk Arbitrage",
+    "peak_pfe_collateralized_usd": 683774,
+    "factor": 1.1,
+    "credit_limit_usd": 800000
+  },
+  {
+    "counterparty_id": "CP-004",
+    "name": "Zenith Hedge Fund LLC",
+    "peak_pfe_collateralized_usd": 542094,
+    "factor": 0.7,
+    "credit_limit_usd": 400000
+  },
+  {
+    "counterparty_id": "CP-005",
+    "name": "Kaveri Commodities Pte",
+    "peak_pfe_collateralized_usd": 0,
+    "factor": 1.4,
+    "credit_limit_usd": 100000
+  },
+  {
+    "counterparty_id": "CP-006",
+    "name": "Marina Sovereign Fund",
+    "peak_pfe_collateralized_usd": 1246800,
+    "factor": 1.15,
+    "credit_limit_usd": 1400000
+  }
+]

@@ -1,0 +1,2003 @@
+EX-99.4
+ 7
+ capconfirmconformed994.htm
+
+ Cap Confirm Conformed 
+
+ BEAR STEARNS FINANCIAL PRODUCTS INC. 
+
+ 383 MADISON AVENUE
+
+ NEW YORK, NEW YORK 10179
+
+ 212-272-4009
+
+ DATE: 
+
+ December 21, 2006
+
+ TO: 
+
+ Wells Fargo Bank, N.A., not individually but solely as Trust Administrator for TBW Mortgage-Backed Trust 2006-6
+
+ ATTENTION: 
+
+ Client Manager – TBW 2006-6
+
+ TELEPHONE: 
+
+ 410-884-2000
+
+ FACSIMILE: 
+
+ 410-715-2380
+
+ FROM: 
+
+ Derivatives Documentation
+
+ TELEPHONE: 
+
+ 212-272-2711 
+
+ FACSIMILE: 
+
+ 212-272-9857 
+
+ SUBJECT: 
+
+ Fixed Income Derivatives Confirmation and Agreement 
+
+ REFERENCE NUMBER: 
+
+ FXNCC9022
+
+ The purpose of this letter agreement ("Agreement") is to confirm the terms and conditions of the Transaction entered into on the Trade Date specified below (the " Transaction") between Bear Stearns Financial Products Inc. ("Bear Stearns") and Wells Fargo Bank, N.A., not individually but solely as trust administrator (“Trust Administrator”) for TBW Mortgage-Backed Trust 2006-6 ("Counterparty") under the Pooling and Servicing Agreement, dated as of December 1, 2006, among Mortgage Asset Securitization Transactions, Inc., as depositor (“Depositor”), UBS Real Estate Securities Inc., as transferor (“Transferor”), Wells Fargo Bank, N.A., as master servicer (“Master Servicer”), Mortgage Asset Securitization Transactions, Inc., as depositor (“Depositor”) and U.S. Bank National Association, as trustee (“Trustee”). (the “Pooling and Servicing Agreement”). This letter agreement constitutes the sole and complete "Confirmation," as referred to in the "ISDA Master Agreement" (as defined below), as well as a “Schedule” as referred to in the ISDA Master Agreement.
+
+ (1)
+
+ This Confirmation is subject to the 2000 ISDA Definitions (the “Definitions” ), as published by the International Swaps and Derivatives Association, Inc. ( “ISDA” ). Any reference to a “Swap Transaction” in the Definitions is deemed to be a reference to a “Transaction” for purposes of this Agreement, and any reference to a “Transaction” in this Agreement is deemed to be a reference to a “Swap Transaction” for purposes of the Definitions. This Confirmation shall supplement, form a part of, and be subject to an agreement in the form of the ISDA Master Agreement (Multicurrency - Cross Border) as published and copyrighted in 1992 by the International Swaps and Derivatives Association, Inc. (the “ISDA Master Agreement” ), as if Bear Stearns and Counterparty had executed an agreement in such form on the date hereof, with a Schedule as set forth in Item 3 of this Confirmation (the “ Schedule ”), and an ISDA Credit Support Annex (Bilateral Form - ISDA Agreements Subject to New York Law Only version) as published and copyrighted in 1994 by the International Swaps and Derivatives Association, Inc., with Paragraph 13 thereof as set forth in Annex A hereto (the “Credit Support Annex” ). For the avoidance of doubt, the Transaction described herein shall be the sole Transaction governed by such ISDA Master Agreement. In the event of any inconsistency among any of the following documents, the relevant document first listed shall govern: (i) this Confirmation, exclusive of the provisions set forth in Item 3 hereof and Annex A hereto; (ii) the Schedule; (iii) the Credit Support Annex; (iv) the Definitions; and (v) the ISDA Master Agreement. Terms capitalized but not defined herein shall have the meanings attributed to them in the Pooling and Servicing Agreement
+
+ Each reference herein to a “Section” (unless specifically referencing the Pooling and Servicing Agreement or to a “Section” of this Agreement will be construed as a reference to a Section of the ISDA Master Agreement; each herein reference to a “Part” will be construed as a reference to Schedule; each reference herein to a “Paragraph” will be construed as a reference to a Paragraph of the Credit Support Annex.
+
+ (2)
+
+ The terms of the particular Transaction to which this Confirmation relates are as follows:
+
+ Notional Amount:
+
+ With respect to any Calculation Period, the amount set forth for such period on Schedule I attached hereto.
+
+ Trade Date:
+
+ December 14, 2006
+
+ Effective Date:
+
+ December 21, 2006
+
+ Termination Date:
+
+ February 25, 2011, subject to adjustment in accordance with the Business Day Convention.
+
+ Fixed Amount: 
+
+ Fixed Rate Payer:
+
+ Counterparty
+
+ Fixed Rate Payer
+
+ Payment Date:
+
+ December 21, 2006
+
+ Fixed Amount:
+
+ USD 81,000 
+
+ Floating Amounts: 
+
+ Floating Rate Payer:
+
+ Bear Stearns
+
+ Cap Rate:
+
+ With respect to any Calculation Period, the rate set forth for such period on Schedule I attached hereto.
+
+ Floating Rate Payer 
+
+ Period End Dates:
+
+ The 25th calendar day of each month during the Term of this Transaction, commencing January 25, 2007 and ending on the Termination Date, subject to adjustment in accordance with the Business Day Convention.
+
+ Floating Rate Payer 
+
+ Payment Dates:
+
+ Early Payment shall be applicable. Two Business Days prior to each Floating Rate Payer Period End Date.
+
+ Floating Rate Option:
+
+ USD-LIBOR-BBA
+
+ Designated Maturity:
+
+ One month
+
+ Floating Rate Day 
+
+ Count Fraction:
+
+ Actual/360
+
+ Reset Dates:
+
+ The first day of each Calculation Period.
+
+ Compounding:
+
+ Inapplicable
+
+ Business Days:
+
+ New York
+
+ Business Day 
+
+ Convention:
+
+ Following
+
+ Calculation Agent:
+
+ Bear Stearns
+
+ (3)
+
+ Provisions Deemed Incorporated in a Schedule to the ISDA Master Agreement:
+
+ Part 1. Termination Provisions. 
+
+ For purposes of the ISDA Master Agreement:
+
+ (a)
+
+ " Specified Entity " will not apply to Bear Stearns or Counterparty for any purpose. 
+
+ (b)
+
+ “ Specified Transactions ” will not apply to Bear Stearns or Counterparty for any purpose.
+
+ (c)
+
+ The “ Failure to Pay or Deliver ” provisions of Section 5(a)(i) will apply to Bear Stearns and will apply to Counterparty; provided that notwithstanding anything to the contrary in Section 5(a)(i) or Paragraph 7 of the Credit Support Annex, any failure by Bear Stearns to comply with or perform any obligation to be complied with or performed by Bear Stearns under the Credit Support Annex shall not constitute an Event of Default under Section 5(a)(i) unless (A) a Moody’s Second Level Downgrade has occurred and been continuing for 30 or more Local Business Days and (B) such failure is not remedied on or before the third Local Business Day after notice of such failure is given to Bear Stearns.
+
+ (d)
+
+ The “ Breach of Agreement ” provisions of Section 5(a)(ii) will apply to Bear Stearns and will not apply to Counterparty.
+
+ (e)
+
+ The “ Credit Support Default ” provisions of Section 5(a)(iii) will apply to (x) Bear Stearns; provided that notwithstanding anything to the contrary in Section 5(a)(iii)(1), any failure by Bear Stearns to comply with or perform any obligation to be complied with or performed by Bear Stearns under the Credit Support Annex shall not constitute an Event of Default under Section 5(a)(iii) unless (A) a Moody’s Second Level Downgrade has occurred and been continuing for 30 or more Local Business Days and (B) such failure is not remedied on or before the third Local Business Day after notice of such failure is given to Bear Stearns and (y) Counterparty solely in respect of Counterparty’s obligations under Paragraph 3(b) of the Credit Support Annex.
+
+ (f)
+
+ The “ Misrepresentation ” provisions of Section 5(a)(iv) will apply to Bear Stearns and will not apply to Counterparty.
+
+ (g)
+
+ The " Default under Specified Transaction " provisions of Section 5(a)(v) will not apply to Bear Stearns or Counterparty.
+
+ (h)
+
+ The " Cross Default " provisions of Section 5(a)(vi) will apply to Bear Stearns and will not apply to Counterparty.
+
+ “ Specified Indebtedness ” will have the meaning specified in Section 14.
+
+ “ Threshold Amount ” means USD 100,000,000. 
+
+ (i)
+
+ The “Bankruptcy” provisions of Section 5(a)(vii) will apply to Bear Stearns and will apply to Counterparty except that the provisions of Section 5(a)(vii)(2), (6) (to the extent that such provisions refer to any appointment contemplated or effected by the Pooling and Servicing Agreement or any appointment to which Counterparty has not become subject to), (7) and (9) will not apply to Counterparty; provided that, with respect to Counterparty only, Section 5(a)(vii)(4) is hereby amended by adding after the words “against it” the words “(excluding any proceeding or petition instituted or presented by Bear Stearns)”, and Section 5(a)(vii)(8) is hereby amended by deleting the words “to (7) inclusive” and inserting lieu thereof “, (3), (4) as amended, (5) or (6) as amended”.
+
+ (j)
+
+ The “Tax Event Upon Merger” provisions of Section 5(b)(iii) will apply to Bear Stearns and will apply to Counterparty; provided that Bear Stearns shall not be entitled to designate an Early Termination Date by reason of a Tax Event upon Merger in respect of which it is the Affected Party.
+
+ (k)
+
+ The " Credit Event Upon Merger " provisions of Section 5(b)(iv) will not apply to Bear Stearns or Counterparty.
+
+ (l)
+
+ The " Automatic Early Termination " provision of Section 6(a) will not apply to Bear Stearns or to Counterparty.
+
+ (m)
+
+ Payments on Early Termination. For the purpose of Section 6(e) of the ISDA Master Agreement:
+
+ (1)
+
+ Market Quotation will apply; and
+
+ (2)
+
+ the Second Method will apply;
+
+ provided that if Bear Stearns is the Defaulting Party or the sole Affected Party, the following provisions will apply:
+
+ (A)
+
+ Section 6(e) of the ISDA Master Agreement will be amended by inserting on the first line “or is effectively designated” after “If an Early Termination Date occurs”;
+
+ (B) 
+
+ The definition of Market Quotation in Section 14 shall be deleted in its entirety and replaced with the following:
+
+ “Market Quotation” means, with respect to one or more Terminated Transactions, and a party making the determination, an amount determined on the basis of Firm Offers from Reference Market-makers that are Eligible Replacements. Each Firm Offer will be (1) for an amount that would be paid to Counterparty (expressed as a negative number) or by Counterparty (expressed as a positive number) in consideration of an agreement between Counterparty and such Reference Market-maker to enter into a Replacement Transaction and (2) made on the basis that Unpaid Amounts in respect of the Terminated Transaction or group of Transactions are to be excluded but, without limitation, any payment or delivery that would, but for the relevant Early Termination Date, have been required (assuming satisfaction of each applicable condition precedent) after that Early Termination Date is to be included. The party making the determination (or its agent) will request each Reference Market-maker to provide its Firm Offer to the extent reasonably practicable as of the same day and time (without regard to different time zones) on or as soon as reasonably practicable after the designation of the relevant Early Termination Date. The day and time as of which those Firm Offers are to be obtained will be selected in good faith by the party obliged to make a determination under Section 6(e), and, if each party is so obliged, after consultation with the other. The Market Quotation shall be the Firm Offer actually accepted by Counterparty no later than the Business Day preceding the Early Termination Date. If no Firm Offers are provided by the Business Day preceding the Early Termination Date, it will be deemed that the Market Quotation in respect of such Terminated Transaction or group of Transactions cannot be determined.
+
+ (C)
+
+ Counterparty shall use best efforts to accept a Firm Offer that would determine the Market Quotation. If more than one Firm Offer (which, if accepted, would determine the Market Quotation) is provided, Counterparty shall use commercially reasonable efforts to accept the Firm Offer (among such Firm Offers) which would require either (x) the lowest payment by the Counterparty to the Reference Market-maker, to the extent Counterparty would be required to make a payment to the Reference Market-maker or (y) the highest payment from the Reference Market-maker to Counterparty, to the extent the Reference Market-maker would be required to make a payment to the Counterparty. If only one Firm Offer (which, if accepted, would determine the Market Quotation) is provided, Counterparty shall use commercially reasonable efforts to accept such Firm Offer.
+
+ (D)
+
+ Upon the written request by Counterparty to Bear Stearns, Bear Stearns shall obtain the Market Quotations on behalf of Counterparty.
+
+ (E)
+
+ If the Settlement Amount is a negative number, Section 6(e)(i)(3) of the ISDA Master Agreement shall be deleted in its entirety and replaced with the following:
+
+ “(3) Second Method and Market Quotation. If the Second Method and Market Quotation apply, (I) Counterparty shall pay to Bear Stearns an amount equal to the absolute value of the Settlement Amount in respect of the Terminated Transactions, (II) Counterparty shall pay to Bear Stearns the Termination Currency Equivalent of the Unpaid Amounts owing to Bear Stearns and (III) Bear Stearns shall pay to Counterparty the Termination Currency Equivalent of the Unpaid Amounts owing to Counterparty; provided, however, that (x) the amounts payable under the immediately preceding clauses (II) and (III) shall be subject to netting in accordance with Section 2(c) of this Agreement and (y) notwithstanding any other provision of this Agreement, any amount payable by Bear Stearns under the immediately preceding clause (III) shall not be netted-off against any amount payable by Counterparty under the immediately preceding clause (I).”
+
+ (n)
+
+ " Termination Currency " means United States Dollars. 
+
+ (o)
+
+ Additional Termination Events . Additional Termination Events will apply: 
+
+ (i) 
+
+ If, upon the occurrence of a Swap Disclosure Event (as defined in Part 5(l)(ii)] below) Bear Stearns has not, within ten (10) calendar days after such Swap Disclosure Event complied with any of the provisions set forth in Part 5 (l) below, then an Additional Termination Event shall have occurred with respect to Bear Stearns, Bear Stearns shall be the sole Affected Party and all Transactions hereunder shall be Affected Transaction.
+
+ (ii)
+
+ If, without the prior written consent of Bear Stearns where such consent is required under the Pooling and Servicing Agreement, an amendment or supplemental agreement is made to the Pooling and Servicing Agreement which amendment or supplemental agreement could reasonably be expected to have a material adverse effect on the interests of Bear Stearns under this Agreement, an Additional Termination Event shall have occurred with respect to Counterparty, Counterparty shall be the sole Affected Party and all Transactions hereunder shall be Affected Transaction.
+
+ (iii)
+
+ (A)
+
+ If a S&P First Level Downgrade has occurred and is continuing and Bear Stearns fails to take any action described under Part (5)(f)(i)(1) , within the time period specified therein, then an Additional Termination Event shall have occurred with respect to Bear Stearns, Bear Stearns shall be the sole Affected Party with respect to such Additional Termination Event and all Transactions hereunder shall be Affected Transaction.
+
+ (B)
+
+ If a S&P Second Level Downgrade has occurred and is continuing and Bear Stearns fails to take any action described under Part (5)(f)(i)(2) within the time period specified therein, then an Additional Termination Event shall have occurred with respect to Bear Stearns, Bear Stearns shall be the sole Affected Party with respect to such Additional Termination Event and all Transactions hereunder shall be Affected Transaction. 
+
+ (C)
+
+ If (A) a Moody’s Second Level Downgrade has not occurred and been continuing for 30 or more Local Business Days and (B) Bear Stearns has failed to comply with or perform any obligation to be complied with or performed by Bear Stearns in accordance with the Credit Support Annex, then an Additional Termination Event shall have occurred with respect to Bear Stearns and Bear Stearns shall be the sole Affected Party with respect to such Additional Termination Event.
+
+ (D)
+
+ If (A) a Moody’s Second Level Downgrade has occurred and been continuing for 30 or more Local Business Days and (B) either (i) at least one Eligible Replacement has made a Firm Offer to be the transferee or (ii) at least one entity that satisfies the Moody’s Approved Ratings Threshold has made a Firm Offer to provide an Eligible Guaranty in respect of all of Bear Stearns’ present and future obligations under this Agreement, then an Additional Termination Event shall have occurred with respect to Bear Stearns, Bear Stearns shall be the sole Affected Party with respect to such Additional Termination Event and all Transactions hereunder shall be Affected Transaction.
+
+ (p) Limitation on Events of Default . Notwithstanding the terms of Sections 5 and 6 of the ISDA Form Master Agreement, if at any time and so long as the Counterparty has satisfied in full all its payment obligations under Section 2(a)(i) of the ISDA Form Master Agreement and has at the time no future payment obligations, whether absolute or contingent, under such Section, then unless Bear Stearns is required pursuant to appropriate proceedings to return to the Counterparty or otherwise returns to the Counterparty upon demand of the Counterparty any portion of any such payment, (a) the occurrence of an event described in Section 5(a) of the ISDA Form Master Agreement with respect to the Counterparty shall not constitute an Event of Default or Potential Event of Default with respect to the Counterparty as Defaulting Party and (b) Bear Stearns shall be entitled to designate an Early Termination Date pursuant to Section 6 of the ISDA Form Master Agreement only as a result of the occurrence of a Termination Event set forth in either Section 5(b)(i) or 5(b)(ii) of the ISDA Form Master Agreement with respect to Bear Stearns as the Affected Party, or Section 5(b)(iii) with respect to Bear Stearns as the Burdened Party.
+
+ Part 2. Tax Matters.
+
+ (a)
+
+ Tax Representations. 
+
+ (i) Payer Representations. For the purpose of Section 3(e) of the ISDA Master Agreement, each of Bear Stearns and the Counterparty will make the following representations:
+
+ It is not required by any applicable law, as modified by the practice of any relevant governmental revenue authority, of any Relevant Jurisdiction to make any deduction or withholding for or on account of any Tax from any payment (other than interest under Section 2(e), 6(d)(ii) or 6(e) of the ISDA Master Agreement) to be made by it to the other party under this Agreement. In making this representation, it may rely on: 
+
+ (1)
+
+ the accuracy of any representations made by the other party pursuant to Section 3(f) of the ISDA Master Agreement;
+
+ (2)
+
+ the satisfaction of the agreement contained in Sections 4(a)(i) and 4(a)(iii) of the ISDA Master Agreement and the accuracy and effectiveness of any document provided by the other party pursuant to Sections 4(a)(i) and 4(a)(iii) of the ISDA Master Agreement; and
+
+ (3) the satisfaction of the agreement of the other party contained in Section 4(d) of the ISDA Master Agreement, provided that it shall not be a breach of this representation where reliance is placed on clause (ii) and the other party does not deliver a form or document under Section 4(a)(iii) of the ISDA Master Agreement by reason of material prejudice to its legal or commercial position. 
+
+ (ii) Payee Representations. For the purpose of Section 3(f) of the ISDA Master Agreement, each of Bear Stearns and the Counterparty make the following representations. 
+
+ The following representation will apply to Bear Stearns: 
+
+ Bear Stearns is a corporation organized under the laws of the State of Delaware and its U.S. taxpayer identification number is 13-3866307. 
+
+ The following representation will apply to the Counterparty: 
+
+ Counterparty represents that it is the Trustee of the Supplemental Interest Trust under the Pooling and Servicing Agreement.
+
+ (b)
+
+ Tax Provisions.
+
+ Notwithstanding the definition of “Indemnifiable Tax” in Section 14 of this Agreement, all Taxes in relation to payments by Bear Stearns shall be Indemnifiable Taxes (including any Tax imposed in respect of a Credit Support Document) unless (i) such Taxes are assessed directly against Counterparty and not by deduction or withholding by Bear Stearns or (ii) arise as a result of a Change in Tax Law (in which case such Tax shall be an Indemnifiable Tax only if such Tax satisfies the definition of Indemnifiable Tax provided in Section 14). In relation to payments by Counterparty, no Tax shall be an Indemnifiable Tax.
+
+ Part 3. Agreement to Deliver Documents . For the purpose of Section 4(a) of the ISDA Master Agreement:
+
+ (i)
+
+ Tax forms, documents, or certificates to be delivered are:
+
+ Party required to deliver document 
+
+ Form/Document/ 
+
+ Certificate 
+
+ Date by which to 
+
+ be delivered 
+
+ Bear Stearns 
+
+ An original properly completed and executed United States Internal Revenue Service Form W-9 (or any successor thereto) with respect to any payments received or to be received by Bear Stearns, that eliminates U.S. federal withholding and backup withholding Tax on payments to Bear Stearns under this Agreement.
+
+ (i) upon execution of this Agreement, (ii) on or before the first payment date under this Agreement, including any Credit Support Document, (iii) promptly upon the reasonable demand by Counterparty, (iv) prior to the expiration or obsolescence of any previously delivered form, and (v) promptly upon the information on any such previously delivered form becoming inaccurate or incorrect.
+
+ Counterparty
+
+ An original properly completed and executed United States Internal Revenue Service Form W-9 (or any successor thereto) with respect to any payments received or to be received by Counterparty.
+
+ (i) upon execution of this Agreement, (ii) on or before the first payment date under this Agreement, including any Credit Support Document, (iii) promptly upon the reasonable demand by Bear Stearns, (iv) prior to the expiration or obsolescence of any previously delivered form, and (v) promptly upon the information on any such previously delivered form becoming inaccurate or incorrect.
+
+ (ii)
+
+ Other documents to be delivered are:
+
+ Party required to deliver document 
+
+ Form/Document/ 
+
+ Certificate 
+
+ Date by which to 
+
+ be delivered 
+
+ Covered by Section 3(d) Representation 
+
+ Bear Stearns and
+
+ the Counterparty
+
+ Any documents required by the receiving party to evidence the authority of the delivering party or its Credit Support Provider, if any, for it to execute and deliver this Agreement, any Confirmation, and any Credit Support Documents to which it is a party, and to evidence the authority of the delivering party or its Credit Support Provider to perform its obligations under this Agreement, such Confirmation and/or Credit Support Document, as the case may be
+
+ Upon the execution and delivery of this Agreement and such Confirmation
+
+ Yes
+
+ Bear Stearns and
+
+ the Counterparty
+
+ A certificate of an authorized officer of the party, as to the incumbency and authority of the respective officers of the party signing this Agreement, any relevant Credit Support Document, or any Confirmation, as the case may be
+
+ Upon the execution and delivery of this Agreement and such Confirmation
+
+ Yes
+
+ Bear Stearns and
+
+ the Counterparty
+
+ An opinion of counsel of such party regarding the enforceability of this Agreement in a form reasonably satisfactory to the other party.
+
+ Upon the execution and delivery of this Agreement
+
+ No
+
+ Counterparty 
+
+ An executed copy of the Pooling and Servicing Agreement .
+
+ Concurrently with filing of each draft of the Pooling and Servicing Agreement with the U.S. Securities and Exchange Commission
+
+ No
+
+ Part 4 Miscellaneous. 
+
+ (a)
+
+ Address for Notices : For the purposes of Section 12(a) of the ISDA Master Agreement:
+
+ Address for notices or communications to Bear Stearns:
+
+ Address:
+
+ 383 Madison Avenue, New York, New York 10179
+
+ Attention:
+
+ DPC Manager 
+
+ Facsimile:
+
+ (212) 272-5823
+
+ with a copy to:
+
+ Address:
+
+ One Metrotech Center North, Brooklyn, New York 11201
+
+ Attention:
+
+ Derivative Operations - 7th Floor
+
+ Facsimile:
+
+ (212) 272-1634
+
+ (For all purposes)
+
+ Address for notices or communications to the Counterparty:
+
+ Address:
+
+ Wells Fargo Bank, N.A.
+
+ 9062 Old Annapolis Road
+
+ Columbia, MD 21045
+
+ Attention:
+
+ Client Manager – TBW 2006-6
+
+ Facsimile:
+
+ 410-715-2380
+
+ Phone:
+
+ 410-884-2000
+
+ (For all purposes)
+
+ (b)
+
+ Account Details and Settlement Information:
+
+ Payments to Bear Stearns: 
+
+ Citibank, N.A., New York
+
+ ABA Number: 021-0000-89, for the account of
+
+ Bear, Stearns Securities Corp.
+
+ Account Number: 0925-3186, for further credit to
+
+ Bear Stearns Financial Products Inc.
+
+ Sub-account Number: 102-04654-1-3
+
+ Attention: Derivatives Department
+
+ Payments to Counterparty: 
+
+ Wells Fargo Bank, N.A.
+
+ ABA Number: 121 000 248
+
+ Account Number: 397 077 1416
+
+ Account Name: SAS Clearing
+
+ FFC : TBW 2006-6, Reserve Acct # 509 77301
+
+ (c)
+
+ Process Agent . For the purpose of Section 13(c) of the ISDA Master Agreement:
+
+ Bear Stearns appoints as its 
+
+ Process Agent: 
+
+ Not Applicable
+
+ The Counterparty appoints as its 
+
+ Process Agent:
+
+ Not Applicable
+
+ (d)
+
+ Offices . The provisions of Section 10(a) of the ISDA Master Agreement will not apply to this Agreement; neither Bear Stearns nor the Counterparty have any Offices other than as set forth in the Notices Section.
+
+ (e)
+
+ Multibranch Party . For the purpose of Section 10(c) of the ISDA Master Agreement:
+
+ Bear Stearns is not a Multibranch Party.
+
+ The Counterparty is not a Multibranch Party.
+
+ (f)
+
+ Credit Support Document . 
+
+ Bear Stearns: The Credit Support Annex and any guaranty in support of Bear Stearns’ obligations under this Agreement.
+
+ Counterparty: The Credit Support Annex.
+
+ (g)
+
+ Credit Support Provider .
+
+ Bear Stearns:
+
+ The guarantor under any guaranty in support of Bear Stearns’ obligations under this Agreement.
+
+ Counterparty: Not Applicable
+
+ (h)
+
+ Governing Law . The parties to this Agreement hereby agree that the law of the State of New York shall govern their rights and duties in whole, without regard to the conflict of law provisions thereof other than New York General Obligations Law Sections 5-1401 and 5-1402. 
+
+ (i)
+
+ Jurisdiction. Section 13(b) is hereby amended by: (i) deleting in the second line of subparagraph (i) thereof the word "non-", (ii) deleting “; and” from the end of subparagraph 1 and inserting “.” in lieu thereof, and (iii) deleting the final paragraph thereof.
+
+ (j) 
+
+ " Affiliate ": Bear Stearns and Counterparty shall be deemed not to have any Affiliates for purposes of this Agreement, including for purposes of Section 6(b)(ii) of the ISDA Master Agreement.
+
+ (k)
+
+ Netting of Payments . The parties agree that subparagraph (ii) of Section 2(c) of the ISDA Master Agreement will apply to each Transaction.
+
+ Part 5. Other Provisions. 
+
+ (a) Section 3 of the ISDA Master Agreement is hereby amended by adding at the end thereof the following subsection (g): 
+
+ “(g)
+
+ Relationship Between Parties . 
+
+ Each party represents to the other party on each date when it enters into a Transaction that:
+
+ (1) Nonreliance . (i) It is acting for its own account, (ii) it is not relying on any statement or representation of the other party regarding the Transaction (whether written or oral), other than the representations expressly made in this Agreement or the Confirmation in respect of that Transaction and (iii) it has consulted with its own legal, regulatory, tax, business, investment, financial and accounting advisors to the extent it has deemed necessary, (iv) it has made its own investment, hedging and trading decisions based upon its own judgment and upon any advice from such advisors as it has deemed necessary and not upon any view expressed by the other party, (v) it has made its own independent decisions to enter into the Transaction and as to whether the Transaction is appropriate or proper for it based upon its own judgment and upon advice from such advisors as it has deemed necessary, (vi) it is not relying on any communication (written or oral) of the other party as investment advice or as a recommendation to enter into this Transaction; it being understood that information and explanations related to the terms and conditions of this Transaction shall not be considered investment advice or a recommendation to enter into this Transaction and (vii) it has not received from the other party any assurance or guaranty as to the expected results of this Transaction.
+
+ (2) Evaluation and Understanding . 
+
+ (i) It has the capacity to evaluate (internally or through independent professional advice) the Transaction and has made its own decision to enter into the Transaction; and
+
+ (ii) It understands the terms, conditions and risks of the Transaction and is willing and able to accept those terms and conditions and to assume those risks, financially and otherwise. 
+
+ (3) Purpose . It is entering into the Transaction for the purposes of managing its borrowings or investments, hedging its underlying assets or liabilities or in connection with a line of business. 
+
+ (4) Status of Parties. The other party is not acting as an agent, fiduciary or advisor for it in respect of the Transaction.
+
+ (5) Eligible Contract Participant . It constitutes an “eligible contract participant” as such term is defined in Section 1(a)12 of the Commodity Exchange Act, as amended.
+
+ (6) Line of Business . It has entered into this Agreement (including each Transaction governed hereby) in conjunction with its line of business or the financing of its business.”
+
+ (b) 
+
+ Non-Recourse . Notwithstanding any provision herein or in the ISDA Master Agreement to the contrary, the obligations of Counterparty hereunder are limited recourse obligations of Counterparty, payable solely from the Cap Account and the proceeds thereof, in accordance with the terms of the Pooling and Servicing Agreement. In the event that the Cap Account and proceeds thereof should be insufficient to satisfy all claims outstanding and following the realization of the Cap Account and the proceeds thereof, any claims against or obligations of Counterparty under the ISDA Master Agreement or any other confirmation thereunder still outstanding shall be extinguished and thereafter not revive. The Counterparty shall not have liability for any failure or delay in making a payment hereunder to Bear Stearns due to any failure or delay in receiving amounts in the Cap Account from the Trust created pursuant to the Pooling and Servicing Agreement.
+
+ (c)
+
+ Severability . If any term, provision, covenant, or condition of this Agreement, or the application thereof to any party or circumstance, shall be held to be invalid or unenforceable (in whole or in part) for any reason, the remaining terms, provisions, covenants, and conditions hereof shall continue in full force and effect as if this Agreement had been executed with the invalid or unenforceable portion eliminated, so long as this Agreement as so modified continues to express, without material change, the original intentions of the parties as to the subject matter of this Agreement and the deletion of such portion of this Agreement will not substantially impair the respective benefits or expectations of the parties. 
+
+ The parties shall endeavor to engage in good faith negotiations to replace any invalid or unenforceable term, provision, covenant or condition with a valid or enforceable term, provision, covenant or condition, the economic effect of which comes as close as possible to that of the invalid or unenforceable term, provision, covenant or condition. 
+
+ (d)
+
+ Consent to Recording . Each party hereto consents to the monitoring or recording, at any time and from time to time, by the other party of any and all communications between officers or employees of the parties, waives any further notice of such monitoring or recording, and agrees to notify its officers and employees of such monitoring or recording. 
+
+ (e)
+
+ Waiver of Jury Trial . Each party waives any right it may have to a trial by jury in respect of any Proceedings relating to this Agreement or any Credit Support Document. 
+
+ (f) Rating Agency Downgrade . 
+
+ (i) S&P Downgrade:
+
+ (1)
+
+ In the event that a S&P First Level Downgrade occurs and is continuing, then within 30 days after such rating downgrade, Bear Stearns shall, subject to the Rating Agency Condition with respect to S&P, at its own expense, either (i) procure a Permitted Transfer, (ii) obtain an Eligible Guaranty or (iii) post collateral in accordance with the Credit Support Annex.
+
+ (2)
+
+ In the event that a S&P Second Level Downgrade occurs and is continuing, then within 10 Local Business Days after such rating withdrawal or downgrade, Bear Stearns shall, subject to the Rating Agency Condition with respect to S&P, at its own expense, either (i) procure a Permitted Transfer or (ii) obtain an Eligible Guaranty.
+
+ (ii) Moody’s Downgrade.
+
+ (1) 
+
+ In the event that a Moody’s Second Level Downgrade occurs and is continuing, Bear Stearns shall as soon as reasonably practicable thereafter, at its own expense and using commercially reasonable efforts, either (i) procure a Permitted Transfer or (ii) obtain an Eligible Guaranty.
+
+ (g) Payment Instructions. Bear Stearns hereby agrees that, unless notified in writing by the Swap Administrator of other payment instructions, any and all amounts payable by Bear Stearns to the Counterparty under this Agreement shall be paid to the [Swap Administrator] at the account specified herein.
+
+ (h) Amendment. . No amendment, waiver, supplement or other modification of this Transaction shall be permitted by either party unless (i) each of S&P and Moody’s have been provided notice of the same and (ii) such amendment, waiver, supplement, assignment or other modification satisfies the Rating Agency Condition.
+
+ (i) Transfer .
+
+ (i)
+
+ The first paragraph of Section 7 is hereby amended in its entirety as follows:
+
+ “Subject to Section 6(b)(ii), Part 5(f) and Part 5(j), neither this Agreement nor any interest or obligation in or under this Agreement may be transferred (whether by way of security or otherwise) without (a) the prior written consent of the other party (which consent shall be deemed given by Counterparty if the transfer, novation or assignment is to an Eligible Replacement) and (b) satisfaction of the Rating Agency Condition with respect to S&P, except that:” 
+
+ (ii)
+
+ If an entity has made a Firm Offer (which remains an offer that will become legally binding upon acceptance by Counterparty) to be the transferee of a transfer, Counterparty shall, at Bear Stearns’ written request and at Bear Stearns’ expense, take any reasonable steps required to be taken by Counterparty to effect such transfer. 
+
+ (j) Transfer to Avoid Termination Event. Section 6(b)(ii) is hereby amended by (i) deleting the words “or if a Tax Event Upon Merger occurs and the Burdened Party is the Affected Party,” and (ii) deleting the last paragraph thereof and inserting the following:
+
+ “Notwithstanding anything to the contrary in Section 7 (as amended herein) and Part 5(i), any transfer by Bear Stearns under this Section 6(b)(ii) shall not require the consent of Party B; provided that:
+
+ (i)
+
+ the transferee (the “Transferee”) is an Eligible Replacement;
+
+ (ii)
+
+ if the Transferee is domiciled in a different country or political subdivision thereof from both Bear Stearns and Party B, such transfer satisfies the Rating Agency Condition;
+
+ (iii)
+
+ the Transferee will not, as a result of such transfer, be required on the next succeeding Scheduled Payment Date to withhold or deduct on account of any Tax (except in respect of default interest) amounts in excess of that which Bear Stearns would, on the next succeeding Scheduled Payment Date have been required to so withhold or deduct unless the Transferee would be required to make additional payments pursuant to Section 2(d) (i)(4) corresponding to such excess; 
+
+ (iv)
+
+ a Termination Event or Event of Default does not occur as a result of such transfer; and
+
+ (v)
+
+ the Transferee confirms in writing that it will accept all of the interests and obligations in and under this Agreement which are to be transferred to it in accordance with the terms of this provision.
+
+ On and from the effective date of any such transfer to the Transferee, Bear Stearns will be fully released from any and all obligations hereunder.”
+
+ (k) Proceedings . Bear Stearns shall not institute against or cause any other person to institute against, or join any other person in instituting against, the Trustee or Trust Administrator or the Trust created pursuant to the Pooling and Servicing Agreement, any bankruptcy, reorganization, arrangement, insolvency or liquidation proceedings, or other proceedings under any federal or state bankruptcy, dissolution or similar law, for a period of one year and one day (or, if longer, the applicable preference period) following indefeasible payment in full of the TBW Mortgage Pass-Through Certificates, Series 2006-6 (the “Certificates”) and any notes backed by the Certificates (the “Notes”).
+
+ (l) Compliance with Regulation AB . 
+
+ (i)
+
+ Bear Stearns agrees and acknowledges that Mortgage Asset Securities Transactions Inc. ( the “Depositor” ) is required under Regulation AB as defined under the Pooling and Servicing Agreement, to disclose certain financial information regarding Bear Stearns or its group of affiliated entities, if applicable, depending on the aggregate “significance percentage” of this Agreement and any other derivative contracts between Bear Stearns or its group of affiliated entities, if applicable, and Counterparty, as calculated from time to time in accordance with Item 1115 of Regulation AB. 
+
+ (ii)
+
+ It shall be a swap disclosure event ( “Swap Disclosure Event” ) if, on any Business Day after the date hereof, the Depositor requests from Bear Stearns the applicable financial information described in Item 1115 of Regulation AB (such request to be based on a reasonable determination by Depositor, in good faith, that such information is required under Regulation AB) (the “ Swap Financial Disclosure” ).
+
+ (iii)
+
+ Upon the occurrence of a Swap Disclosure Event, Bear Stearns, within 10 calendar days, at its own expense, shall (1)(a) either (i) provide to Depositor the current Swap Financial Disclosure in an EDGAR-compatible format (for example, such information may be provided in Microsoft Word® or Microsoft Excel® format but not in .pdf format) or (ii) provide written consent to Depositor to incorporation by reference of such current Swap Financial Disclosure that are filed with the Securities and Exchange Commission in the reports of the Trust filed pursuant to the Exchange Act, (b) if applicable, cause its outside accounting firm to provide its consent to filing or incorporation by reference of such accounting firm’s report relating to their audits of such current Swap Financial Disclosure in the Exchange Act Reports of the Depositor, and (c) provide to the Depositor any updated Swap Financial Disclosure with respect to Bear Stearns or any entity that consolidates Bear Stearns within five days of the release of any such updated Swap Financial Disclosure; (2) secure another entity to replace Bear Stearns as party to this Agreement on terms substantially similar to this Agreement, which entity (or a guarantor therefor) meets or exceeds the Moody’s Approved Ratings Thresholds and S&P Approved Ratings Threshold and which satisfies the Rating Agency Condition and which entity is able to comply with the requirements of Item 1115 of Regulation AB, or (3) obtain a guaranty of Bear Stearns’ obligations under this Agreement from an affiliate of Bear Stearns that is able to comply with the financial information disclosure requirements of Item 1115 of Regulation AB, and cause such affiliate to provide Swap Financial Disclosure and any future Swap Financial Disclosure, such that disclosure provided in respect of such affiliate will satisfy any disclosure requirements applicable to the Swap Provider.
+
+ (iv)
+
+ Bear Stearns agrees that, in the event that Bear Stearns provides Swap Financial Disclosure to Depositor in accordance with Part 5(l)(iii)(1) or causes its affiliate to provide Swap Financial Disclosure to Depositor in accordance with clause Part 5(l)(iii)(3), it will indemnify and hold harmless Depositor, its respective directors or officers and any person controlling Depositor, from and against any and all losses, claims, damages and liabilities caused by any untrue statement or alleged untrue statement of a material fact contained in such Swap Financial Disclosure or caused by any omission or alleged omission to state in such Swap Financial Disclosure a material fact required to be stated therein or necessary to make the statements therein, in light of the circumstances under which they were made, not misleading.
+
+ (v)
+
+ If Trust Administrator and Depositor reasonably requests, Bear Stearns shall provide such other information as may be necessary for Depositor to comply with Item 1115 of Regulation AB.
+
+ (vi)
+
+ Each of the Trust Administrator and Depositor shall be an express third party beneficiary of this Agreement as if a party hereto to the extent of the Trust Administrator’s and the Depositor’s rights explicitly specified in this Part 5(l).
+
+ (m) Trust Administrator Liability Limitations . It is expressly understood and agreed by the parties hereto that: 
+
+ (i) 
+
+ this Agreement is executed and delivered by Wells Fargo Bank, N.A. (the “Trust Administrator”), not individually or personally but solely as Trust Administrator on behalf of TBW Mortgage-Backed Trust 2006-6;
+
+ (ii) 
+
+ each of the representations, undertakings and agreements herein made on the part of the Counterparty is made and intended not as a personal representation, undertaking or agreement of Trust Administrator but is made and intended for the purpose of binding only the Counterparty;
+
+ (iii) 
+
+ nothing herein contained shall be construed as imposing any liability upon Trust Administrator, individually or personally, to perform any covenant either expressed or implied contained herein, all such liability, if any, being expressly waived by the parties hereto and by any Person claiming by, through or under the parties hereto; provided that nothing in this paragraph shall relieve Trust Administrator from performing its duties and obligations under the Pooling and Servicing Agreement in accordance with the standard of care set forth therein;
+
+ (iv) 
+
+ under no circumstances shall Trust Administrator be personally liable for the payment of any indebtedness or expenses of the Counterparty or be liable for the breach or failure of any obligation, representation, warranty or covenant made or undertaken by the Counterparty under this Agreement or any other related documents, other than due to its negligence or willful misconduct in performing the obligations of the Trust Administrator under the Pooling and Servicing Agreement;
+
+ (v) 
+
+ any resignation or removal of Wells Fargo Bank, N.A. as Trust Administrator on behalf of the TBW Mortgage-Backed Trust 2006-6 shall require the assignment of this agreement to Trust Administrator’s replacement; and
+
+ (vi) 
+
+ Wells Fargo Bank, N.A., has been directed, pursuant to the Pooling and Servicing Agreement, to enter into this Agreement and to perform its obligations hereunder.
+
+ (n) 
+
+ Substantial Financial Transaction . Each party hereto is hereby advised and acknowledges that the other party has engaged in (or refrained from engaging in) substantial financial transactions and has taken (or refrained from taking) other material actions in reliance upon the entry by the parties into the Transaction being entered into on the terms and conditions set forth herein and in the Confirmation relating to such Transaction, as applicable. This paragraph shall be deemed repeated on the trade date of each Transaction.
+
+ (o)
+
+ Set-Off . Except as expressly provided for in Section 2(c), Section 6 or Part 1(m)(E) hereof, and notwithstanding any other provision of this Agreement or any other existing or future agreement, each party irrevocably waives any and all rights it may have to set off, net, recoup or otherwise withhold or suspend or condition payment or performance of any obligation between it and the other party hereunder against any obligation between it and the other party under any other agreements. Section 6(e) shall be amended by deleting the following sentence: “The amount, if any, payable in respect of an Early Termination Date and determined pursuant to this Section will be subject to any Set-off.”
+
+ (p)
+
+ Counterparts . This Agreement may be executed in several counterparts, each of which shall be deemed an original but all of which together shall constitute one and the same instrument.
+
+ (q)
+
+ Additional Defined Terms . 
+
+ (i)
+
+ Capitalized terms used but nor defined herein shall have the meanings ascribed to such terms in the Pooling and Servicing Agreement. 
+
+ (ii)
+
+ Additional Definitions:
+
+ “ Eligible Guaranty ” means an unconditional and irrevocable guaranty of all present and future payment obligations and obligations to post collateral of Bear Stearns or an Eligible Replacement to Counterparty under this Agreement that is provided by an Eligible Guarantor as principal debtor rather than surety and that is directly enforceable by Counterparty, the form and substance of which guaranty are subject to the Rating Agency Condition with respect to S&P.
+
+ “ Eligible Guarantor ” means an entity that has credit ratings at least equal to the Moody’s Required Ratings Threshold and S&P Approved Ratings Threshold.
+
+ “ Eligible Replacement ” means an entity that either (i) satisfies the S&P Approved Ratings Threshold and the Moody’s Required Ratings Threshold or (ii) provides an Eligible Guaranty from an Eligible Guarantor.
+
+ “Firm Offer” means an offer which, when made, is capable of becoming legally binding upon acceptance.
+
+ “ Moody’s ” means Moody’s Investors Service, Inc., or any successor.
+
+ “Moody’s Approved Ratings Threshold” means, with respect to (i) Bear Stearns, a Moody’s counterparty rating of “A1” or above and (ii) with respect to any other entity (or its guarantor), (x) if such entity has both a long-term unsecured and unsubordinated debt rating or counterparty rating from Moody’s and a short-term unsecured and unsubordinated debt rating from Moody’s, a long-term unsecured and unsubordinated debt rating or counterparty rating from Moody’s of “A2” or above and a short-term unsecured and unsubordinated debt rating from Moody’s of “Prime-1” or above, or (y) if such entity has only a long-term unsecured and unsubordinated debt rating or counterparty rating from Moody’s, a long-term unsecured and unsubordinated debt rating or counterparty rating from Moody’s of “A1” or above.
+
+ “ Moody’s First Level Downgrade ” means that no Relevant Entity satisfies the Moody’s Approved Rating Threshold.
+
+ “Moody’s Required Ratings Threshold” means, with respect to (i) Bear Stearns, a counterparty rating of “A3” or above and (ii) with respect to any other entity (or its guarantor), (x) if such entity has both a long-term unsecured and unsubordinated debt rating or counterparty rating from Moody’s and a short-term unsecured and unsubordinated debt rating from Moody’s, a long-term unsecured and unsubordinated debt rating or counterparty rating from Moody’s of “A3” or above or a short-term unsecured and unsubordinated debt rating from Moody’s of “Prime-2” or above, or (y) if such entity has only a long-term unsecured and unsubordinated debt rating or counterparty rating from Moody’s, a long-term unsecured and unsubordinated debt rating or counterparty rating from Moody’s of “A3” or above.
+
+ “ Moody’s Second Level Downgrade ” means that no Relevant Entity satisfies the Moody’s Required Ratings Threshold.
+
+ “ Permitted Transfer ” means a transfer by novation by Bear Stearns to an entity (the “Transferee” ) of all, but not less than all, of Bear Stearns’ rights, liabilities, duties and obligations under this Agreement, with respect to which transfer each of the following conditions is satisfied: (a) the Transferee is an Eligible Replacement that is a recognized dealer in interest rate swaps organized under the laws of the United States of America or a jurisdiction located in the United States of America (or another jurisdiction reasonably acceptable to Counterparty), (b) an Event of Default or Termination Event would not occur as a result of such transfer, (c) pursuant to a written instrument (the “ Transfer Agreement ”), the Transferee acquires and assumes all rights and obligations of Bear Stearns under the Agreement and the relevant Transaction, (d) Bear Stearns will be responsible for any costs or expenses incurred in connection with such transfer (including any replacement cost of entering into a replacement transaction); (e) either (A) Moody’s has been given prior written notice of such transfer and the Rating Agency Condition is satisfied with respect to S&P or (B) each Rating Agency has been given prior written notice of such transfer and such transfer is in connection with the assignment and assumption of this Agreement without modification of its terms, other than party names, dates relevant to the effective date of such transfer, tax representations and any other representations regarding the status of the substitute counterparty, notice information and account details and other similar provisions; and (f) such transfer otherwise complies with the terms of the Pooling and Servicing Agreement.
+
+ “ Rating Agency ” means each of Moody’s and S&P.
+
+ “ Rating Agency Condition ” means, with respect to any particular proposed act or omission to act hereunder that the party acting or failing to act must consult with each Rating Agency then providing a rating of the Certificates and any Notes and receive from each such Rating Agency a prior written confirmation that the proposed action or inaction would not cause a downgrade or withdrawal of its then-current rating of the [Certificates and any Notes].
+
+ “ Relevant Entity ” means Bear Stearns and any Eligible Guarantor under an Eligible Guaranty with respect to Bear Stearns.
+
+ “Replacement Transaction” means, with respect to any Terminated Transaction or group of Terminated Transactions, a transaction or group of transactions that (i) would have the effect of preserving for Counterparty the economic equivalent of any payment or delivery (whether the underlying obligation was absolute or contingent and assuming the satisfaction of each applicable condition precedent) by the parties under Section 2(a)(i) in respect of such Terminated Transaction or group of Terminated Transactions that would, but for the occurrence of the relevant Early Termination Date, have been required after that Date, and (ii) has terms which are substantially the same as this Agreement, including, without limitation, rating triggers, Regulation AB compliance, and credit support documentation, as determined by Counterparty in its sole discretion, acting in a commercially reasonable manner.
+
+ “ S&P ” means Standard & Poor's, a division of The McGraw-Hill Companies, Inc.
+
+ “ S&P Approved Ratings Threshold ” means with respect to (i) Bear Stearns, a counterparty rating of “A+“ or above and (ii) with respect to any other entity (or its guarantor), a short-term unsecured and unsubordinated debt rating from S&P of “A-1” or above, or, if such entity does not have a short-term unsecured and unsubordinated debt rating from S&P, a long-term unsecured and unsubordinated debt rating from S&P of “A+ or above.
+
+ “ S&P First Level Downgrade ” means that no Relevant Entity satisfies the S&P Approved Rating Threshold.
+
+ “ S&P Required Ratings Threshold ” means with respect to (i) Bear Stearns, a counterparty rating of “BBB” or above and (ii) with respect to any other entity (or its guarantor), a long-term unsecured and unsubordinated debt rating from S&P of “BBB-” or above.
+
+ “ S&P Second Level Downgrade ” means that no Relevant Entity satisfies the S&P Required Rating Thresholds.
+
+ (r)
+
+ Agent for Counterparty. Bear Stearns acknowledges that Counterparty has appointed Wells Fargo Bank, N.A., not in its individual capacity but solely as Trust Administrator for TBW Mortgage-Backed Trust 2006-6 as its agent under Pooling and Servicing Agreement to carry out certain functions on behalf of Counterparty, and that Wells Fargo Bank, N.A. shall be entitled to give notices and to perform and satisfy the obligations of Counterparty hereunder on behalf of Counterparty.
+
+ (s)
+
+ Rating Agency Notifications. Except as otherwise provided herein, no Early Termination Date shall be effectively designated hereunder shall be made by either party unless each Rating Agency has been given prior written notice of such designation. 
+
+ NEITHER THE BEAR STEARNS COMPANIES INC. NOR ANY SUBSIDIARY OR AFFILIATE OF THE BEAR STEARNS COMPANIES INC. OTHER THAN BEAR STEARNS IS AN OBLIGOR OR A CREDIT SUPPORT PROVIDER ON THIS AGREEMENT. 
+
+ This Agreement may be executed in several counterparts, each of which shall be deemed an original but all of which together shall constitute one and the same instrument.
+
+ Counterparty hereby agrees to check this Confirmation and to confirm that the foregoing correctly sets forth the terms of the Transaction by signing in the space provided below and returning to Bear Stearns a facsimile of the fully-executed Confirmation to 212-272-9857 . For inquiries regarding U.S. Transactions, please contact Derivatives Documentation by telephone at 212-272-2711. For all other inquiries please contact Derivatives Documentation by telephone at 353-1-402-6233 . Originals will be provided for your execution upon your request.
+
+ We are very pleased to have executed this Transaction with you and we look forward to completing other transactions with you in the near future.
+
+ Very truly yours,
+
+ BEAR STEARNS FINANCIAL PRODUCTS INC. 
+
+ By:
+
+ /s/ Annie Manevitz
+
+ Name:Annie Manevitz
+
+ Title: Authorized Signatory
+
+ Counterparty, acting through its duly authorized signatory, hereby agrees to, accepts and confirms the terms of the foregoing as of the Trade Date.
+
+ TBW MORTGAGE-BACKED TRUST 2006-6 
+
+ BY: WELLS FARGO BANK, N.A., NOT INDIVIDUALLY 
+
+ BUT SOLELY AS TRUST ADMINISTRATOR 
+
+ By:
+
+ _/s/ Stacey M. Taylor 
+
+ Name: Stacey M. Taylor
+
+ Title: Vice President
+
+ lm
+
+ SCHEDULE I 
+
+ (all such dates subject to adjustment in accordance with the Business Day Convention)
+
+ From and including 
+
+ To but excluding 
+
+ Notional Amount 
+
+ (USD) 
+
+ Cap Rate 
+
+ (%) 
+
+ Effective Date
+
+ 1/25/2007
+
+ 71,711,000.00
+
+ 5.7284
+
+ 1/25/2007
+
+ 2/25/2007
+
+ 71,711,000.00
+
+ 6.4908
+
+ 2/25/2007
+
+ 3/25/2007
+
+ 71,711,000.00
+
+ 7.2057
+
+ 3/25/2007
+
+ 4/25/2007
+
+ 71,711,000.00
+
+ 6.4910
+
+ 4/25/2007
+
+ 5/25/2007
+
+ 71,711,000.00
+
+ 6.7135
+
+ 5/25/2007
+
+ 6/25/2007
+
+ 71,711,000.00
+
+ 6.4912
+
+ 6/25/2007
+
+ 7/25/2007
+
+ 71,711,000.00
+
+ 6.7137
+
+ 7/25/2007
+
+ 8/25/2007
+
+ 71,711,000.00
+
+ 6.4914
+
+ 8/25/2007
+
+ 9/25/2007
+
+ 71,711,000.00
+
+ 6.4915
+
+ 9/25/2007
+
+ 10/25/2007
+
+ 71,711,000.00
+
+ 6.7140
+
+ 10/25/2007
+
+ 11/25/2007
+
+ 71,711,000.00
+
+ 6.4917
+
+ 11/25/2007
+
+ 12/25/2007
+
+ 71,711,000.00
+
+ 6.7142
+
+ 12/25/2007
+
+ 1/25/2008
+
+ 71,711,000.00
+
+ 6.4919
+
+ 1/25/2008
+
+ 2/25/2008
+
+ 71,711,000.00
+
+ 6.4920
+
+ 2/25/2008
+
+ 3/25/2008
+
+ 71,711,000.00
+
+ 6.9522
+
+ 3/25/2008
+
+ 4/25/2008
+
+ 71,711,000.00
+
+ 6.4921
+
+ 4/25/2008
+
+ 5/25/2008
+
+ 71,711,000.00
+
+ 6.7146
+
+ 5/25/2008
+
+ 6/25/2008
+
+ 71,711,000.00
+
+ 6.4923
+
+ 6/25/2008
+
+ 7/25/2008
+
+ 71,711,000.00
+
+ 6.7148
+
+ 7/25/2008
+
+ 8/25/2008
+
+ 71,711,000.00
+
+ 6.4925
+
+ 8/25/2008
+
+ 9/25/2008
+
+ 71,711,000.00
+
+ 6.4926
+
+ 9/25/2008
+
+ 10/25/2008
+
+ 71,711,000.00
+
+ 6.7151
+
+ 10/25/2008
+
+ 11/25/2008
+
+ 71,711,000.00
+
+ 6.4928
+
+ 11/25/2008
+
+ 12/25/2008
+
+ 71,711,000.00
+
+ 6.7153
+
+ 12/25/2008
+
+ 1/25/2009
+
+ 71,711,000.00
+
+ 6.4930
+
+ 1/25/2009
+
+ 2/25/2009
+
+ 71,711,000.00
+
+ 6.4931
+
+ 2/25/2009
+
+ 3/25/2009
+
+ 71,711,000.00
+
+ 7.2081
+
+ 3/25/2009
+
+ 4/25/2009
+
+ 71,711,000.00
+
+ 6.4932
+
+ 4/25/2009
+
+ 5/25/2009
+
+ 68,501,939.54
+
+ 6.7158
+
+ 5/25/2009
+
+ 6/25/2009
+
+ 64,220,897.91
+
+ 6.4934
+
+ 6/25/2009
+
+ 7/25/2009
+
+ 60,020,869.74
+
+ 6.7160
+
+ 7/25/2009
+
+ 8/25/2009
+
+ 55,900,335.31
+
+ 6.4936
+
+ 8/25/2009
+
+ 9/25/2009
+
+ 51,857,803.23
+
+ 6.4937
+
+ 9/25/2009
+
+ 10/25/2009
+
+ 47,891,809.94
+
+ 6.7163
+
+ 10/25/2009
+
+ 11/25/2009
+
+ 44,000,919.18
+
+ 6.4939
+
+ 11/25/2009
+
+ 12/25/2009
+
+ 40,183,721.49
+
+ 6.7165
+
+ 12/25/2009
+
+ 1/25/2010
+
+ 36,438,833.68
+
+ 6.4941
+
+ 1/25/2010
+
+ 2/25/2010
+
+ 33,113,419.68
+
+ 6.4942
+
+ 2/25/2010
+
+ 3/25/2010
+
+ 29,855,086.96
+
+ 7.2095
+
+ 3/25/2010
+
+ 4/25/2010
+
+ 26,680,911.67
+
+ 6.4945
+
+ 4/25/2010
+
+ 5/25/2010
+
+ 23,897,084.83
+
+ 6.7170
+
+ 5/25/2010
+
+ 6/25/2010
+
+ 21,169,251.99
+
+ 6.4947
+
+ 6/25/2010
+
+ 7/25/2010
+
+ 18,496,334.87
+
+ 6.7173
+
+ 7/25/2010
+
+ 8/25/2010
+
+ 15,877,275.51
+
+ 6.4949
+
+ 8/25/2010
+
+ 9/25/2010
+
+ 13,311,035.94
+
+ 6.4950
+
+ 9/25/2010
+
+ 10/25/2010
+
+ 10,796,597.78
+
+ 6.7176
+
+ 10/25/2010
+
+ 11/25/2010
+
+ 8,332,961.87
+
+ 6.4952
+
+ 11/25/2010
+
+ 12/25/2010
+
+ 5,919,147.92
+
+ 6.7178
+
+ 12/25/2010
+
+ 1/25/2011
+
+ 3,554,194.17
+
+ 6.4954
+
+ 1/25/2011
+
+ Termination Date
+
+ 1,237,157.01
+
+ 6.4955
+
+ ANNEX A 
+
+ UNILATERAL CSA SCHEDULE 
+
+ Pledgor: BEAR STEARNS FINANCIAL PRODUCTS INC. (the “Pledgor” )
+
+ Secured Party: WELLS FARGO BANK, N.A., NOT INDIVIDUALLY BUT SOLELY AS TRUST ADMINISTRATOR FOR TBW MORTGAGE-BACKED TRUST 2006-6 (the “Secured Party” )
+
+ Paragraph 13. Elections and Variables 
+
+ (a)
+
+ Security Interest for “Obligations”. The term “Obligations” as used in this Annex includes no “additional obligations” within the meaning of Paragraph 12. 
+
+ (b)
+
+ Credit Support Obligations . 
+
+ (i)
+
+ Delivery Amount, Return Amount and Credit Support Amount . 
+
+ (1) Delivery Amount. Paragraph 3(a) shall be amended by replacing the words “upon a demand made by the Secured Party on or promptly following a Valuation Date” with the words “on each Valuation Date”. The “ Delivery Amount ” with respect to Pledgor for any Valuation Date shall equal the greatest of:
+
+ (A) the amount by which the S&P Collateral Amount exceeds the S&P Value on such Valuation Date of all Posted Credit Support held by the Secured Party;
+
+ (B) the amount by which the Moody’s First Level Collateral Amount exceeds the Moody’s First Level Value on such Valuation Date of all Posted Credit Support held by the Secured Party.
+
+ (C) the amount by which the Moody’s Second Level Collateral Amount exceeds the Moody’s Second Level Value on such Valuation Date of all Posted Credit Support held by the Secured Party.
+
+ (2) “Return Amount” applicable to Secured Party for any Valuation Date shall equal the least of:
+
+ (A) the amount by which the S&P Value on such Valuation Date of all Posted Credit Support held by the Secured Party exceeds the S&P Collateral Amount;
+
+ (B) the amount by which the Moody’s First Level Value on such Valuation Date of all Posted Credit Support held by the Secured Party exceeds the Moody’s First Level Collateral Amount.
+
+ (C) the amount by which the Moody’s Second Level Value on such Valuation Date of all Posted Credit Support held by the Secured Party exceeds the Moody’s Second Level Collateral Amount.
+
+ (3) “Credit Support Amount” shall be deleted in its entirety.
+
+ (ii)
+
+ Eligible Collateral . The items set forth on the Collateral Schedule attached as Schedule A hereto will qualify as “Eligible Collateral” for the party specified. 
+
+ (iii)
+
+ Other Eligible Support . None
+
+ (iv)
+
+ Thresholds. 
+
+ (A)
+
+ “Independent Amount” means:
+
+ Pledgor: Not applicable.
+
+ Secured Party: Not applicable. 
+
+ (B)
+
+ “Threshold” means:
+
+ Pledgor: Not applicable.
+
+ Secured Party: Not applicable. 
+
+ (C)
+
+ “Minimum Transfer Amount” means USD 100,000; provided, that if the aggregate Certificate Principal Balance of Certificates rated by S&P is less than USD 50,000,000, the “Minimum Transfer Amount” shall mean USD 50,000.
+
+ (D)
+
+ Rounding . The Delivery Amount will be rounded up and the Return Amount will be rounded down to the nearest integral multiple of USD 10,000. 
+
+ (c)
+
+ Valuation and Timing. 
+
+ (i) 
+
+ “Valuation Agent ” means Pledgor.
+
+ (ii) 
+
+ “Valuation Date” means each Local Business Day.
+
+ (iii)
+
+ “Valuation Time” means the close of business on the Local Business Day in the city where the Valuation Agent is located immediately preceding the Valuation Date or date of calculation, as applicable; provided that the calculations of Value and Exposure will be made as of approximately the same time on the same date. 
+
+ (iv)
+
+ “Notification Time” means 11:00 A.M. (New York time).
+
+ (v)
+
+ Transfer Timing and Calculations. Paragraphs 4(b) and 4(c) are hereby amended and restated in entirety as set forth below.
+
+ “(b) Transfer Timing. Subject to Paragraphs 4(a) and 5 and unless otherwise specified, if a demand for the Transfer of Eligible Credit Support or Posted Credit Support is made by the Notification Time, then the relevant Transfer will be made not later than the close of business on the Valuation Date; if a demand is made after the Notification Time, then the relevant Transfer will be made not later than the close of business on the next Local Business Day thereafter. 
+
+ (c) Calculations. All calculations of Value and Exposure for purposes of Paragraphs 3 and 6(d) will be made by the Valuation Agent as of the Valuation Time. The Valuation Agent will notify each party (or the other party, if the Valuation Agent is a party) of its calculations not later than the Notification Time on the applicable Valuation Date (or in the case of Paragraph 6(d), the Local Business Day following the day on which such relevant calculations are performed).”
+
+ (d)
+
+ Conditions Precedent . There shall be no “Specified Condition” with respect to either party for purposes of this Annex.
+
+ (e)
+
+ Substitution 
+
+ (i) 
+
+ “Substitution Date” means (A) the Local Business Day on which the Secured Party receives the Substitute Credit Support, if notice of substitution is received by the Notification Time on such date, and (B) the Local Business Day following the date on which the Secured Party receives the Substitute Credit Support, if notice of substitution is received after the Notification Time.
+
+ (ii)
+
+ Consent of Secured Party for Substitution . Inapplicable.
+
+ (iii)
+
+ Amendment of Paragraph 4(d)(ii). Paragraph 4(d)(ii) is amended and restated in its entirety as set forth below:
+
+ “(ii) subject to Paragraph 4(a) of this Annex, the Secured Party will Transfer the items of Posted Credit Support specified by the Pledgor in its notice not later than the close of business on the Substitution Date, provided, however, that if the Secured Party shall not have received the Substitute Credit Support prior to 1:00 P.M. (New York time) on the Substitution Date, then the Secured Party shall Transfer the applicable items of Posted Credit Support not later than the close of business on the Local Business Day immediately following the day on which the Secured Party receives the Substitute Credit Support. Notwithstanding the foregoing, the Secured Party will only be obligated to Transfer Posted Credit Support with a Value as of the Substitution Date equal to the Value of the Substitute Credit Support delivered by the Pledgor in exchange therefor.”
+
+ (f)
+
+ Dispute Resolution . 
+
+ (i)
+
+ “Resolution Time” means 12:00 noon, New York time, on the Local Business Day for both parties following the date the Disputing Party gives notice of a dispute pursuant to Paragraph 5.
+
+ (ii)
+
+ Value . For the purpose of Paragraphs 5(i)(C) and 5(ii), disputes over the Value of Posted Credit Support will be resolved by the Valuation Agent seeking bid-side quotations as of the relevant Recalculation Date or date of Transfer, as applicable, from three parties that regularly act as dealers in the securities in question. The Value will be the arithmetic mean of the quotations obtained by the Valuation Agent, multiplied by the applicable Valuation Percentage, if any. If no quotations are available for a particular security, then the Valuation Agent's original calculation of Value thereof will be used for that security.
+
+ (iii)
+
+ Alternative . Subject to item (iv) below, the provisions of Paragraph 5 will apply.
+
+ (iv)
+
+ Modification of Paragraph 5. The introductory paragraph of Paragraph 5 shall be amended and restated to read in its entirety as follows:
+
+ “If a party (a ‘Disputing Party’) disputes (I) the Valuation Agent's calculation of a Delivery Amount or a Return Amount or (II) the Value of any Transfer of Eligible Credit Support or Posted Credit Support, then:
+
+ (A) the Disputing Party will (x) notify the other party and, if applicable, the Valuation Agent of the amount it is disputing, (y) indicate what it believes the correct amount to be and (z) provide a statement showing, in reasonable detail, how it arrived at such amount and the appropriate party will deliver the undisputed amount to the other party not later than (i) (a) the close of business on the Valuation Date, if the demand made under Paragraph 3 in the case of (I) above is made by the Notification Time, or (b) the close of business of the Local Business Day following the date on which the demand is made under Paragraph 3 in the case of (I) above, if such demand is made after the Notification Time, or (ii) the close of business of the date of Transfer, in the case of (II) above;
+
+ (B) the parties will consult with each other and provide such information as the other party shall reasonably request in an attempt to resolve the dispute; and
+
+ (C) if they fail to resolve the dispute by the Resolution Time, then:”
+
+ (g)
+
+ Holding and Using Posted Collateral . 
+
+ (i) 
+
+ Eligibility to Hold Posted Collateral; Custodians . The Secured Party and its Custodian (if any) will be entitled to hold Posted Collateral pursuant to Paragraph 6(b), provided that the following conditions applicable to it are satisfied:
+
+ (1) it is not a Defaulting Party;
+
+ (2) Posted Collateral consisting of Cash or certificated securities that cannot be paid or delivered by book-entry may be held only in any state of the United States which has adopted the Uniform Commercial Code;
+
+ (3) the short-term rating of any Custodian shall be at least “A-1” by S&P
+
+ There shall be no Custodian for Pledgor.
+
+ (ii)
+
+ Use of Posted Collateral . The provisions of Paragraph 6(c) will not apply to Secured Party and Secured Party will not have any right to use the Posted Collateral or take any action specified in Paragraph 6(c).
+
+ (h)
+
+ Distributions and Interest Amount . 
+
+ (i) 
+
+ Interest Rate. The “Interest Rate ” will be the “Federal Funds (Effective)” rate as such rate is displayed on Telerate page 118 for such day under the caption “Effective”. 
+
+ (ii) 
+
+ Amendment of Paragraph 6(d)(i) – Distributions. Clause (d)(i) of Paragraph 6 shall be amended and restated to read in its entirety as follows:
+
+ “(i) Distributions. If the Secured Party receives Distributions on a Local Business Day, it will credit to Pledgor not later than the following Local Business Day any Distributions it receives, and such Distributions will constitute Posted Collateral and will be subject to the security interest granted under Paragraph 2.”
+
+ (iii) 
+
+ Amendment of Paragraph 6(d)(ii) - Interest Amount . Clause (d)(ii) of Paragraph 6 shall be amended and restated to read in its entirety as follows:
+
+ “(ii) Interest Amount. In lieu of any interest, dividends or other amounts paid with respect to Posted Collateral in the form of cash (all of which may be retained by the Secured Party), the Secured Party will credit to Pledgor on the 20th day of each calendar month (or if such day is not a Local Business Day, the next Local Business Day) the Interest Amount. The Interest Amount will constitute Posted Collateral and will be subject to the security interest granted under Paragraph 2. For purposes of calculating the Interest Amount the amount of interest calculated for each day of the interest period shall be compounded monthly.” Secured Party shall not be obliged to credit any Interest Amount unless and until it has received such amount.
+
+ (i)
+
+ Demands and Notices . 
+
+ All demands, specifications and notices under this Annex will be made pursuant to the Notices Section of this Agreement.
+
+ (j)
+
+ Addresses for Transfers . 
+
+ Pledgor: 
+
+ To be provided in writing by Pledgor to Secured Party.
+
+ Secured Party: 
+
+ Wells Fargo Bank, N.A., not individually but solely as Trust Administrator for TBW Mortgage-Backed Trust 2006- 6 
+
+ (k)
+
+ Other Provision(s). 
+
+ (i) 
+
+ Amendment of Paragraph 7 - Events of Default . Clause (iii) of Paragraph 7 shall not apply to Secured Party.
+
+ (ii) 
+
+ Non-Reliance . Notwithstanding the obligations of the Secured Party under Paragraph 6(a), and without limiting the generality of the final sentence of Paragraph 6(a), each party, as Pledgor, acknowledges that it has the means to monitor all matters relating to all valuations, payments, defaults and rights with respect to Posted Collateral without the need to rely on the other party, in its capacity as Secured Party, and that, given the provisions of this Annex on substitution, responsibility for the preservation of the rights of the Pledgor with respect to all such matters is reasonably allocated hereby to the Pledgor. 
+
+ (iii)
+
+ Agreement as to Single Secured Party and Pledgor . Each of Pledgor and Secured Party agree that, notwithstanding anything to the contrary in the recital to this Annex, Paragraph 1(b) or Paragraph 2 or the definitions in Paragraph 12, (a) the term “Secured Party” as used in this Annex means only Secured Party, (b) the term “Pledgor” as used in this Annex means only Pledgor, (c) only Pledgor makes the pledge and grant in Paragraph 2, the acknowledgement in the final sentence of Paragraph 8(a) and the representations in Paragraph 9 and (d) only Pledgor will be required to make Transfers of Eligible Credit Support hereunder. 
+
+ (iv)
+
+ Trustee. The Trustee is hereby authorized to (i) make demands on behalf of the Secured Party pursuant to Paragraph 3 hereunder and (ii) provide notice on behalf of the Secured Party pursuant to Paragraph 7 hereunder.
+
+ (v)
+
+ Collateral Account . Secured Party shall at all times maintain all Posted Collateral in a segregated trust account.
+
+ (vi)
+
+ External Calculations . At any time at which Pledgor (or, to the extent applicable, its Credit Support Provider) does not have a long-term unsubordinated and unsecured debt rating of at least “BBB+” from S&P, the Valuation Agent shall (at its own expense) obtain external calculations of the Secured Party’s Exposure from at least two Reference Market-makers on the last Local Business Day of each calendar month. Any determination of the S&P Collateral Amount shall be based on the greatest of the Secured Party’s Exposure determined by the Valuation Agent and such Reference Market-makers. Such external calculation may not be obtained from the same Reference Market-maker more than four times in any 12-month period.
+
+ (vii)
+
+ Notice to S&P. At any time at which Pledgor (or, to the extent applicable, its Credit Support Provider) does not have a long-term unsubordinated and unsecured debt rating of at least “BBB+” from S&P, the Valuation Agent shall provide to S&P not later than the Notification Time on the Local Business Day following each Valuation Date its calculations of the Secured Party’s Exposure and the Value of any Eligible Credit Support or Posted Credit Support for that Valuation Date. The Valuation Agent shall also provide to S&P any external marks of the Secured Party’s Exposure.
+
+ (viii)
+
+ Expenses. Pledgor shall be responsible for all reasonable costs and expenses incurred by Secured Party in connection with the Transfer of any Eligible Collateral under this Annex.
+
+ (ix)
+
+ Additional Defined Terms. 
+
+ “ DV01 ” means, with respect to a Transaction and any date of determination, the sum of the estimated change in the Secured Party’s Exposure with respect to such Transaction that would result from a one basis point change in the relevant swap curve on such date, as determined by the Valuation Agent in good faith and in a commercially reasonable manner. The Valuation Agent shall, upon request of Secured Party, provide to Secured Party a statement showing in reasonable detail such calculation.
+
+ “ Moody’s First Level Additional Collateralized Amount ” means, with respect to any Transaction, the lesser of (x) the product of 15 and DV01 for such Transaction and such Valuation Date and (y) the product of 2% and the Notional Amount for such Transaction for the Calculation Period which includes such Valuation Date.
+
+ “ Moody’s First Level Collateral Amount ” means, (A) for any Valuation Date on which (I) a Moody’s First Level Downgrade has occurred and has been continuing (x) for at least 30 Local Business Days or (y) since this Annex was executed and (II) it is not the case that a Moody’s Second Level Downgrade has occurred and been continuing for at least 30 Local Business Days, an amount equal to the greater of (a) zero and (b) the sum of the Secured Party’s aggregate Exposure for all Transactions and the aggregate of Moody’s First Level Additional Collateralized Amounts for each Transaction and (B)for any other Valuation Date, zero.
+
+ “ Moody’s First Level Value ” means, for any date that the Moody’s First Level Collateral Amount is determined and the Value of any Eligible Collateral or Posted Collateral that is a security, the bid price for such security obtained by the Valuation Agent multiplied by the Moody’s First Level Valuation Percentage for such security set forth on Schedule A hereto.
+
+ “ Moody’s Second Level Additional Collateralized Amount ” means, with respect to any Transaction,
+
+ (1) if such Transaction is not a Transaction-Specific Hedge, the lesser of (i) the product of the 50 and DV01 for such Transaction and such Valuation Date and (ii) the product of 8% and the Notional Amount for such Transaction for the Calculation Period (as defined in the related Transaction) which includes such Valuation Date; or 
+
+ (2) if such Transaction is a Transaction-Specific Hedge, the lesser of (i) the product of the 65 and DV01 for such Transaction and such Valuation Date and (ii) the product of 10% and the Notional Amount for such Transaction for the Calculation Period (as defined in the related Transaction) which includes such Valuation Date.
+
+ “ Moody’s Second Level Collateral Amount ” means, (A) for any Valuation Date on which it is the case that a Moody’s Second Level Downgrade has occurred and been continuing for at least 30 Local Business Days, an amount equal to the greatest of (a) zero, (b) the aggregate amount of the Next Payments for all Next Payment Dates and (c) the sum of the Secured Party’s aggregate Exposure and the aggregate of Moody’s Second Level Additional Collateralized Amounts for each Transaction and (B) for any other Valuation Date, zero.
+
+ “ Moody’s Second Level Value ” means, for any date that the Moody’s Second Level Collateral Amount is determined and the Value of any Eligible Collateral or Posted Collateral that is a security, the bid price for such security obtained by the Valuation Agent multiplied by the Moody’s Second Level Valuation Percentage for such security set forth on Schedule A hereto.
+
+ “ Next Payment ” means, in respect of each Next Payment Date, the greater of (i) the amount of any payments due to be made by the Pledgor pursuant to Section 2(a) on such Next Payment Date less any payments due to be made by the Secured Party under Section 2(a) on such Next Payment Date (in each case, after giving effect to any applicable netting under Section 2(c)) and (ii) zero.
+
+ “ Next Payment Date ” means the next scheduled payment date under any Transaction.
+
+ “ Remaining Weighted Average Maturity ” means, with respect to a Transaction, the expected weighted average maturity for such Transaction as determined by the Valuation Agent.
+
+ “ S&P Collateral Amount ” means, (A) for any Valuation Date on which a S&P First Level Downgrade has occurred and been continuing for at least 30 days or on which a S&P Second Level Downgrade has occurred and is continuing, an amount equal to the sum of (1) 100.0% of the Secured Party’s Exposure for such Valuation Date and (2) the product of the Volatility Buffer for each Transaction and the Notional Amount of such Transaction for the Calculation Period (as defined in the related Transaction) of such Transaction which includes such Valuation Date, or (B) for any other Valuation Date, zero.
+
+ “ S&P Value ” means, for any date that the S&P Collateral Amount is determined and the Value of any Eligible Collateral or Posted Collateral that is a security, the bid price for such security obtained by the Valuation Agent multiplied by the S&P Valuation Percentage for such security set forth on Schedule A hereto. 
+
+ “ Transaction-Specific Hedge ” means any Transaction that is a cap, floor or swaption or a Transaction in respect of which (x) the notional amount of the interest rate swap is “balance guaranteed” or (y) the notional amount of the interest rate swap for any Calculation Period otherwise is not a specific dollar amount that is fixed at the inception of the Transaction.
+
+ “ Volatility Buffer ” means, for any Transaction, the related percentage set forth in the following table:
+
+ The higher of the S&P short-term credit rating of (i) Pledgor and (ii) the Credit Support Provider of Pledgor, if applicable
+
+ Remaining Weighted Average Maturity up to 3 years
+
+ Remaining Weighted Average Maturity up to 5 years
+
+ Remaining Weighted Average Maturity up to 10 years
+
+ Remaining Weighted Average Maturity up to 30 years
+
+ “A-2” or higher
+
+ 2.75%
+
+ 3.25%
+
+ 4.00%
+
+ 4.75%
+
+ “A-3”
+
+ 3.25%
+
+ 4.00%
+
+ 5.00%
+
+ 6.25%
+
+ “BB+” or lower
+
+ 3.50%
+
+ 4.50%
+
+ 6.75%
+
+ 7.50%
+
+ IN WITNESS WHEREOF, the parties have executed this Annex on the respective dates specified below with effect from the date specified on the first page of this document.
+
+ BEAR STEARNS FINANCIAL PRODUCTS INC. 
+
+ By:
+
+ /s/ Annie Manevitz 
+
+ Name:Annie Manevitz
+
+ Title: Authorized Signatory
+
+ Date: December 21, 2006 
+
+ TBW MORTGAGE-BACKED TRUST 2006-6 
+
+ BY: WELLS FARGO BANK, N.A., NOT INDIVIDUALLY BUT SOLELY AS TRUST ADMINISTRATOR 
+
+ By:
+
+ _/s/ Stacey M. Taylor 
+
+ Name:
+
+ Stacey M. Taylor
+
+ Title: Vice President
+
+ Date: December 21, 2006 
+
+ SCHEDULE A 
+
+ COLLATERAL SCHEDULE 
+
+ The Moody’s First Level Valuation Percentages shall be used in determining the Moody’s First Level Collateral Amount. 
+
+ The Moody’s Second Level Valuation Percentages shall be used in determining the Moody’s Second Level Collateral Amount. 
+
+ The S&P Valuation Percentages shall be used in determining the S&P Collateral Amount. 
+
+ ISDA Collateral Asset Definition (ICAD) Code 
+
+ Remaining Maturity 
+
+ Moody’s First Level 
+
+ Valuation Percentage 
+
+ Moody’s Second Level 
+
+ Valuation Percentage 
+
+ S&P 
+
+ Valuation Percentage 
+
+ US-CASH
+
+ N/A
+
+ 100%
+
+ 100%
+
+ 100%
+
+ EU-CASH
+
+ N/A
+
+ 98%
+
+ 94%
+
+ 92.5%
+
+ GB-CASH
+
+ N/A
+
+ 98%
+
+ 95%
+
+ 94.1%
+
+ US-TBILL
+
+ US-TNOTE
+
+ US-TBOND
+
+ (fixed rate)
+
+ < 1 Year
+
+ 100%
+
+ 100%
+
+ 98.9%
+
+ 1 to 2 years
+
+ 100%
+
+ 99%
+
+ 98.0%
+
+ 2 to 3 years
+
+ 100%
+
+ 98%
+
+ 97.4%
+
+ 3 to 5 years
+
+ 100%
+
+ 97%
+
+ 95.5%
+
+ 5 to 7 years
+
+ 100%
+
+ 96%
+
+ 93.7%
+
+ 7 to 10 years
+
+ 100%
+
+ 94%
+
+ 95.5%
+
+ 10 to 20 years
+
+ 100%
+
+ 90%
+
+ 91.1%
+
+ > 20 years
+
+ 100%
+
+ 88%
+
+ 88.6%
+
+ US-TBILL
+
+ US-TNOTE
+
+ US-TBOND
+
+ (floating rate)
+
+ All Maturities
+
+ 100%
+
+ 99%
+
+ Not Eligible Collateral
+
+ GA-US-AGENCY
+
+ (fixed rate)
+
+ < 1 Year
+
+ 100%
+
+ 99%
+
+ 98.5%
+
+ 1 to 2 years
+
+ 100%
+
+ 99%
+
+ 97.7%
+
+ 2 to 3 years
+
+ 100%
+
+ 98%
+
+ 97.3%
+
+ 3 to 5 years
+
+ 100%
+
+ 96%
+
+ 94.5%
+
+ 5 to 7 years
+
+ 100%
+
+ 93%
+
+ 93.1%
+
+ 7 to 10 years
+
+ 100%
+
+ 93%
+
+ 90.7%
+
+ 10 to 20 years
+
+ 100%
+
+ 89%
+
+ 87.7%
+
+ > 20 years
+
+ 100%
+
+ 87%
+
+ 84.4%
+
+ GA-US-AGENCY
+
+ (floating rate)
+
+ All Maturities
+
+ 100%
+
+ 98%
+
+ Not Eligible Collateral
+
+ GA-EUROZONE-GOV (other than EU-CASH) (fixed rate)
+
+ Rated Aa3 or better 
+
+ by Moody’s
+
+ Rated Aa3 or better 
+
+ by Moody’s
+
+ Rated AAA or better 
+
+ by S&P
+
+ < 1 Year
+
+ 98%
+
+ 94%
+
+ 98.8%
+
+ 1 to 2 years
+
+ 98%
+
+ 93%
+
+ 97.9%
+
+ 2 to 3 years
+
+ 98%
+
+ 92%
+
+ 97.1%
+
+ 3 to 5 years
+
+ 98%
+
+ 90%
+
+ 91.2%
+
+ 5 to 7 years
+
+ 98%
+
+ 89%
+
+ 87.5%
+
+ 7 to 10 years
+
+ 98%
+
+ 88%
+
+ 83.8%
+
+ 10 to 20 years
+
+ 98%
+
+ 84%
+
+ 75.5%
+
+ > 20 years
+
+ 98%
+
+ 82%
+
+ Not Eligible Collateral
+
+ GA-EUROZONE-GOV (other than EU-CASH) (floating rate)
+
+ Rated Aa3 or better 
+
+ by Moody’s
+
+ Rated Aa3 or better 
+
+ by Moody’s
+
+ Rated AAA or better 
+
+ by S&P
+
+ All Maturities
+
+ 98%
+
+ 93%
+
+ Not Eligible Collateral
+
+ GA-GB-GOV 
+
+ (other than GB-CASH) (fixed rate)
+
+ < 1 Year
+
+ 98%
+
+ 94%
+
+ Not Eligible Collateral
+
+ 1 to 2 years
+
+ 98%
+
+ 93%
+
+ Not Eligible Collateral
+
+ 2 to 3 years
+
+ 98%
+
+ 92%
+
+ Not Eligible Collateral
+
+ 3 to 5 years
+
+ 98%
+
+ 91%
+
+ Not Eligible Collateral
+
+ 5 to 7 years
+
+ 98%
+
+ 90%
+
+ Not Eligible Collateral
+
+ 7 to 10 years
+
+ 98%
+
+ 89%
+
+ Not Eligible Collateral
+
+ 10 to 20 years
+
+ 98%
+
+ 86%
+
+ Not Eligible Collateral
+
+ > 20 years
+
+ 98%
+
+ 84%
+
+ Not Eligible Collateral
+
+ GA-GB-GOV
+
+ (other than GB-CASH) (floating rate)
+
+ All Maturities
+
+ 98%
+
+ 94%
+
+ Not Eligible Collateral
+
+ The ISDA Collateral Asset Definition (ICAD) Codes used in this Collateral Schedule shall have the meanings set forth in the Collateral Asset Definitions (First Edition – June 2003) as published and copyrighted in 2003 by the International Swaps and Derivatives Association, Inc.

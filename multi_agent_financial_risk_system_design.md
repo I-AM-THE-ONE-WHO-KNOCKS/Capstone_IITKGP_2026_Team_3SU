@@ -1,20 +1,20 @@
 # Multi-Agent Financial Risk Analysis & Collateral Management System
 
-The working system is RiskSphere. This note is the wider brief. The working cut, including what is already built, is `counterparty-risk/README.md`.
+The working system is RiskSphere. This note is the wider brief. The working cut, including what is already built, is `RiskSphere/README.md`.
 
 What we kept from this note: Python is the only place a money figure is produced. The orchestrator plans and explains. The new work is data quality, market-risk scenarios, an initial-margin proxy, collateral shortfall, and expected loss from synthetic PD and LGD. The simulated PFE stays labelled as a prototype, not SA-CCR. Initial margin is not called SIMM. A person still signs off. Nothing is sent or booked.
 
 What we did not take from the suggested stack: LangGraph, Pandas, FastAPI, Streamlit, and Docker. The desk stays the standard library and one Qwen call at a time. The six specialists are Python services. Only the orchestrator, and the wording pass after a result exists, call the chat model.
 
-The embedding API is the VM02 gateway, model `bge-small-en-v1.5`, `POST https://103.42.50.41:1035/v1/embeddings`, certificate `vm02-ca.crt`. It replaces the local Ollama embedder. The client is `counterparty-risk/search.py`.
+The embedding API is the VM02 gateway, model `bge-small-en-v1.5`, `POST https://103.42.50.41:1035/v1/embeddings`, certificate `vm02-ca.crt`. It replaces the local Ollama embedder. The client is `RiskSphere/search.py`.
 
 Stages in the working folder:
 
 1. Today's book. Built. Exposure, variation margin, Yahoo, haircut table, critic.
 2. Simulated PFE. Built. Engine checks, then the paths.
-3. Data quality, scenario P&L, initial-margin proxy, collateral shortfall, expected loss. Not built.
-4. Filings and the quote check, using the hosted embedder. The client is in place. The filings are not.
-5. Alerts, the consolidated report, and draft files. Not built.
+3. Data quality, scenario P&L, initial-margin proxy, collateral shortfall, expected loss. Built.
+4. Sample sentences in two piles, a quote check, and a draft term that does not edit the book. Built. Live filings are not in this copy.
+5. Alerts, the consolidated draft report, the notice, the stress book, the dispute row, and a model-off question list. Built. Nothing is sent.
 
 ## 1. Project overview
 

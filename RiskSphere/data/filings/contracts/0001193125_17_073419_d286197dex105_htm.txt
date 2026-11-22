@@ -1,0 +1,1199 @@
+EX-10.5
+ 8
+ d286197dex105.htm
+ EX-10.5
+
+ EX-10.5 
+
+ Exhibit 10.5 
+
+ INTERCREDITOR AGREEMENT 
+
+ THIS INTERCREDITOR AGREEMENT (this “ Agreement ”) is entered into as of March 3, 2017 by and among MORGAN STANLEY CAPITAL
+GROUP INC., a Delaware corporation (“ Morgan Stanley ”), NextEra Energy Marketing, LLC, a Delaware limited liability company (“ NextEra ”), Cargill, Incorporated, a Delaware corporation (“ Cargill ”), and
+Koch Supply & Trading, LP, a Delaware limited partnership (“ Koch ”, and together with Morgan Stanley, NextEra and Cargill, the “ Initial Swap Parties ”), any other Person that hereafter becomes a party to this
+Agreement as a “ Swap Counterparty ”, as defined below, GASTAR EXPLORATION INC., a Delaware corporation (“ Borrower ”), the Guarantors (as defined below), WILMINGTON TRUST, NATIONAL ASSOCIATION (“ Wilmington
+Trust ”), as administrative agent (in such capacity, together with its successor and assigns in such capacity, the “ Administrative Agent ”) for the Lenders (as defined below) from time to time party to the Credit
+Agreement (as defined below), and Wilmington Trust, as collateral agent on behalf of the Secured Parties (as defined below) (in such capacity, together with its successors and assigns in such capacity, the “ Collateral
+Agent ”). 
+ RECITALS: 
+
+ Borrower, certain of its affiliates from time to time party thereto as guarantors (the “ Guarantors ”; and together with
+the Borrower, the “ Loan Parties ”), the lenders from time to time party thereto (the “ Lenders ”) and the Administrative Agent entered into that certain Third Amended and Restated Credit Agreement dated
+as of the date hereof (as amended, supplemented, restated or otherwise modified from time to time, the “ Credit Agreement ”). 
+
+ (i) Borrower and Morgan Stanley have entered into that certain ISDA Master Agreement dated as of March 3, 2017, including the schedules,
+exhibits and annexes thereto and all confirmations and transactions now or hereafter entered into under such ISDA Master Agreement (in each case, as amended, restated, supplemented, or otherwise modified from time to time, collectively, the
+“ Morgan Stanley ISDA ”), (ii) Borrower and NextEra have entered into that certain ISDA Master Agreement dated as of March 3, 2017, including the schedules, exhibits and annexes thereto and all confirmations and transactions now
+or hereafter entered into under such ISDA Master Agreement (in each case, as amended, restated, supplemented, or otherwise modified from time to time, collectively, the “ NextEra ISDA ”), (iii) Borrower and Cargill have entered into
+that certain ISDA Master Agreement dated as of December 10, 2012, including the schedules, exhibits and annexes thereto and all confirmations and transactions now or hereafter entered into under such ISDA Master Agreement (in each case, as
+amended, restated, supplemented, or otherwise modified from time to time, collectively, the “ Cargill ISDA ”) and (iv) Borrower and Koch have entered into that certain ISDA Master Agreement dated as of January 9, 2014,
+including the schedules, exhibits and annexes thereto and all confirmations and transactions now or hereafter entered into under such ISDA Master Agreement (in each case, as amended, restated, supplemented, or otherwise modified from time to time,
+collectively, the “ Koch ISDA ”, and together with the Morgan Stanley ISDA, NextEra ISDA and Cargill ISDA, the “ Initial Swap Party ISDAs ”). 
+
+ The Loan Parties have granted to the Collateral Agent, for the benefit of the Administrative Agent, the Collateral Agent, the Lenders and the
+Swap Counterparties (collectively, the “ Secured Parties ”), a Lien (as defined below) on substantially all of their assets, all as more particularly described in the Security Instruments. 
+
+ The Collateral Agent, the Administrative Agent, the Swap Counterparties and the Loan Parties
+desire to enter into this Agreement to, among other things, (i) establish the relative priorities of the Lenders and the Swap Counterparties with respect to the Collateral, (ii) agree with respect to which parties can direct the exercise
+of certain remedies with respect to the Collateral and (iii) have the Secured Parties appoint the Collateral Agent to serve, and have the Collateral Agent agree to serve, as Collateral Agent for the Secured Parties under the Security
+Instruments (defined below) for the purposes of the holding of and the enforcement of Liens created by and existing under the Security Instruments to secure the Loan Obligations and the Swap Obligations, the apportioning of Proceeds (defined below)
+between the Administrative Agent (on behalf of itself and the Lenders), on the one hand, and Swap Counterparties, on the other hand, and for the other purposes set forth herein. 
+
+ AGREEMENTS: 
+ In
+consideration of the mutual covenants and promises of this Agreement, and for other consideration, the receipt and adequacy of which are hereby acknowledged, Borrower, Swap Counterparties, the Administrative Agent and the Collateral Agent agree as
+follows: 
+ 1. (a) Definitions . As used in this Agreement, 
+
+ Approved ISDA means (a) the Initial Swap Party ISDAs and (b) any other ISDA Master Agreement, including any Schedules and
+Annexes thereto, between Borrower and any other Swap Counterparty that has become a party hereto in accordance with Section 28. 
+
+ Bankruptcy Code means Title 11 of the United States Code. 
+
+ Blocking Period has the meaning assigned to such term in Section 4 below. 
+
+ Business Day means any day other than a Saturday, Sunday or other day in which banking institutions in Houston, Texas or New York, New
+York are authorized or obligated by law or executive order to close. 
+ Cargill has the meaning assigned to such term in the
+preamble. 
+ Cargill ISDA has the meaning assigned to such term in the Recitals. 
+
+ Collateral means, all personal, real and mixed property of the Loan Parties and Rights thereto described in and subject to a Lien under
+the Security Instruments. 
+ Credit Agreement Secured Parties means the Secured Parties, other than the Swap Counterparties. 
+
+ Creditors means, collectively, the Administrative Agent (on behalf of the Credit Agreement Secured Parties) and the Swap
+Counterparties. 
+
+ 2 
+
+ Debtor Relief Law means the Bankruptcy Code and any similar federal, state or foreign law
+for the relief of debtors. 
+ Discharge of Credit Facility Obligations means the occurrence of all of the following:
+(i) termination of all commitments to extend credit that would constitute Loan Obligations and (ii) payment in full in cash of all Loan Obligations (other than contingent indemnification obligations for which no claim has been asserted).
+
+ Discharge of Swap Obligations means the occurrence of all of the following: (i) termination of all Swap Documents (other than
+with respect to contingent indemnification obligations for which no claim has been asserted) and (ii) payment in full in cash of all Swap Obligations. 
+
+ Early Termination Event means, with respect to any Swap Document, the occurrence of an event of default or a termination event that
+results in the termination of all transactions or all affected transactions under such Swap Document. 
+ Excess Priority Lien
+Obligations has the meaning assigned to such term in the First Lien/Second Lien Intercreditor Agreement. 
+ First Lien/Second Lien
+Intercreditor Agreement means that certain Intercreditor Agreement, dated as of the date hereof, between, Wilmington Trust, in its capacity as “First Priority Agent” thereunder, Wilmington Trust, in its capacity as “Second Lien
+Agent” thereunder, and acknowledged and agreed to by the Loan Parties. 
+ Governmental Authority means the government of the
+United States of America, any other nation or any political subdivision thereof, whether state or local, and any agency, authority, instrumentality, regulatory body, court, central bank or other entity exercising executive, legislative, judicial,
+taxing, regulatory or administrative powers or functions of or pertaining to government over any Loan Party or any of its properties. 
+
+ Hydrocarbons means collectively, oil, gas, casinghead gas, drip gasoline, natural gasoline, condensate, distillate and all other liquid
+or gaseous hydrocarbons and related minerals and all products therefrom, in each case whether in a natural or a processed state. 
+
+ Indemnified Liabilities means any and all liabilities (including all environmental liabilities), obligations, losses, damages,
+penalties, claims, actions, judgments, suits, costs, taxes, expenses or disbursements of any kind or nature whatsoever, whether direct, indirect or consequential and whether based on any federal, state or foreign laws, statutes, rules or regulations
+(including securities and commercial laws, statutes, rules or regulations and environmental laws), on common law or equitable cause or on contract or otherwise, that may be imposed on, incurred by, or asserted against any Indemnitee, in any manner
+relating to or arising out of the execution, delivery, performance, administration or enforcement of this Agreement or any Security Instrument, any Loan Document or any Swap Document, including any of the foregoing relating to the violation of,
+noncompliance with or liability under, any law (including environmental laws) applicable to or enforceable against any Loan Party or any of its affiliates or any of the Collateral and all reasonable costs and expenses (including reasonable fees and
+expenses of legal counsel selected by any Indemnitee) incurred by any Indemnitee in connection with any claim, action, investigation or proceeding in any respect relating to any of the foregoing, whether or not suit is brought. 
+
+ 3 
+
+ Indemnitee has the meaning assigned to such term in Section 19. 
+
+ Insolvency or Liquidation Proceeding means: 
+
+ (a) any case commenced by or against any Loan Party or any of its subsidiaries under Debtor Relief Law, any other
+proceeding for the reorganization, arrangement, recapitalization or adjustment or marshalling of the assets or liabilities of any Loan Party or any of its subsidiaries, any receivership or assignment for the benefit of creditors relating to any Loan
+Party or any of its subsidiaries or any similar case or proceeding relative to any Loan Party or any of its subsidiaries or its creditors, as such, in each case whether or not voluntary; 
+
+ (b) any liquidation, dissolution, marshalling of assets or liabilities or other winding up of or relating to any Loan
+Party or any of its subsidiaries, in each case whether or not voluntary and whether or not involving bankruptcy or insolvency; or 
+
+ (c) any other proceeding of any type or nature in which substantially all claims of creditors of any Loan Party or any
+of its subsidiaries are determined and any payment or distribution is or may be made on account of such claims. 
+ Joinder Supplement 
+means a supplement to this Agreement in the form of Exhibit A hereto, providing for a Person to become a Swap Counterparty under this Agreement. 
+
+ Koch has the meaning assigned to such term in the preamble. 
+
+ Koch ISDA has the meaning assigned to such term in the Recitals. 
+
+ Lien has the meaning assigned to such term in the Credit Agreement. 
+
+ Loan Documents has the meaning assigned to such term in the Credit Agreement and includes the Security Instruments. 
+
+ Loan Obligations means (a) the “Obligations” as defined in the Credit Agreement, and (b) all other amounts due
+under the Loan Documents, in each case whether now existing or hereafter incurred, whether direct, indirect, fixed, contingent, liquidated, unliquidated, joint, several, or joint and several, now or hereafter existing, due or to become due whether
+evidenced in writing or not, together with all costs, expenses, and attorneys’ fees incurred in the enforcement or collection thereof, and including, but not limited to, interest thereon after the commencement of any proceedings under any
+Debtor Relief Laws. 
+ Majority Lenders has the meaning assigned to such term in the Credit Agreement. 
+
+ Master Assignment means the Master Reaffirmation and Assignment and Assumption and Assumption of Liens and Security Interests, dated as
+of the date hereof, among Borrower, Wells Fargo Bank National Association, as resigning agent, the Administrative Agent, the Collateral Agent and Ares Management LLC. 
+
+ 4 
+
+ Morgan Stanley has the meaning assigned to such term in the preamble. 
+
+ Morgan Stanley ISDA has the meaning assigned to such term in the Recitals. 
+
+ NextEra has the meaning assigned to such term in the preamble. 
+
+ NextEra ISDA has the meaning assigned to such term in the Recitals. 
+
+ Officers’ Certificate means a certificate with respect to compliance with a condition or covenant provided for in this Agreement,
+signed on behalf of the Borrower by two officers of the Borrower, one of whom must be the principal executive officer, the principal financial officer, the treasurer or the principal accounting officer of the Borrower, including: 
+
+ (a) a statement that the Person making such certificate has read such covenant or condition; 
+
+ (b) a brief statement as to the nature and scope of the examination or investigation upon which the statements or
+opinions contained in such certificate are based; 
+ (c) a statement that, in the opinion of such Person, he or she
+has made such examination or investigation as is necessary to enable him or her to express an informed opinion as to whether or not such covenant or condition has been satisfied; and 
+
+ (d) a statement as to whether or not, in the opinion of such Person, such condition or covenant has been satisfied.
+
+ Outstanding Amount means 
+
+ (a) with respect to the Loan Obligations, the Loan Obligations due and payable; 
+
+ (b) with respect to Swap Obligations, (i) prior to the Discharge of Credit Facility Obligations, the amount of all
+Swap Obligations then due and owing to each Swap Counterparty under the Swap Documents governing such Swap Obligations, regardless of whether an Early Termination Event under such Swap Documents has occurred, or (ii) after the Discharge of
+Credit Facility Obligations, (x) at any time prior to the occurrence of an Early Termination Event under such Swap Documents, at the applicable Swap Counterparty’s election, either (A) the amount of all Swap Obligations that would be
+payable to such Swap Counterparty under such Swap Documents if there occurred at such time an Early Termination Event under such Swap Documents, or (B) the
+ mark-to-market valuation, in either case as determined by such Swap Counterparty, or (y) at any time from and after the occurrence of an Early Termination Event
+under the Swap Documents governing such Swap Obligations, the amount of all Swap Obligations then due and owing to such Swap Counterparty under such Swap Documents; and 
+
+ (c) with respect to the Total Obligations, the sum of clause (a) and clause (b) above. 
+
+ Person means any individual, general partnership, limited partnership, corporation, limited liability company, business trust, joint
+stock company, trust, unincorporated association, joint venture, syndicate, Governmental Authority or other entity or organization. 
+
+ 5 
+
+ Principal Agreements means the Loan Documents and the Swap Documents, collectively. 
+
+ Proceeds includes any and all proceeds from any sale, exchange, destruction, condemnation, foreclosure, liquidation or other
+disposition of any of the Collateral, including, but not limited to, under any Debtor Relief Law; provided , however , prior to the occurrence of a Triggering Event, such term will not include sales of any Hydrocarbons produced from or
+attributable to the Collateral in the ordinary course of the Borrower’s business or sales of other Collateral permitted under the Loan Documents. 
+
+ Ratably or Ratable means, with respect to any amount to be allocated between the Administrative Agent (on behalf of the Credit
+Agreement Secured Parties) and the Swap Counterparties at any time, the allocation of a portion of such amount to (a) the Administrative Agent such that the ratio that the amount allocated to the Administrative Agent bears to the total amount
+to be so allocated equals the ratio of the Loan Obligations to the Total Obligations at such time and (b) Swap Counterparties such that the ratio that the amount allocated to Swap Counterparties bears to the total amount to be so allocated
+equals the ratio of the Swap Obligations to the Total Obligations at such time (and with such amount allocated to each individual Swap Counterparty under this clause (b) being equal to its Swap Counterparty Ratable Share of such amount). 
+
+ Related Parties means, with respect to any Person, such Person’s affiliates and the partners, directors, officers, employees,
+agents, trustees, administrators, managers, advisors and representatives of such Person and of such Person’s affiliates. 
+ Right or
+Rights means rights, remedies, powers, privileges and benefits. 
+ Security Instruments means the “Security Documents”
+as defined in the Credit Agreement, the Master Assignment and Article VII of the Credit Agreement, and includes, without limitation, those documents listed in Schedule 1 attached hereto and incorporated herein by this reference. 
+
+ Swap Counterparties means the Initial Swap Parties and each other Person that (x) is acceptable to the Majority Lenders as a
+“Qualified Counterparty” under the Credit Agreement as evidenced by their written consent and (y) executes and delivers a Joinder Supplement to the Collateral Agent as provided in Section 28. 
+
+ Swap Counterparty Ratable Share means, with respect to the portion of the Swap Counterparties’ Ratable share of any amount to be
+allocated to an individual Swap Counterparty at any time, a percentage equal to a fraction, the numerator of which is the amount of Swap Obligations owing to such Swap Counterparty at such time and the denominator of which is the Total Swap
+Obligations at such time. 
+ Swap Documents means each Approved ISDA, including, but not limited to, each relevant confirmation of
+transaction thereunder. 
+ Swap Obligations means, with respect to each Swap Counterparty, all amounts owed or to become owing by
+Borrower to such Swap Counterparty under any Swap Document, whether 
+
+ 6 
+
+direct, indirect, fixed, contingent, liquidated, unliquidated, joint, several or joint and several, together with all costs, expenses and attorneys’ fees incurred in the enforcement or
+collection thereof, and interest thereon after the commencement of any proceedings under any Debtor Relief Laws; provided, that prior to the Discharge of Credit Facility Obligations, Swap Obligations with respect to each Swap Counterparty shall be
+net of amounts owed by such Swap Counterparty to the Borrower under the applicable Swap Documents to the extent such amounts are permitted to be netted under the applicable Swap Documents or law. 
+
+ Total Obligations means, as of any date of determination, an amount equal to the sum of (a) the aggregate Loan Obligations at such
+date plus (b) the aggregate Swap Obligations at such date. 
+ Total Swap Obligations means, as of any date of
+determination, an amount equal to the aggregate Swap Obligations at such date. 
+ Triggering Event shall mean any of the following:
+
+ (a) The Collateral Agent shall have received from any Swap Counterparty written notice that (i) either an
+event of default or a termination event has occurred and is continuing under one or more of the Swap Documents to which such Swap Counterparty is a party, (ii) an early termination date has been designated as a result thereof,
+(iii) specifies the sum of all unpaid amounts and settlement payments then due to such Swap Counterparty as the result of the designation of such early termination date and the amount of interest and other amounts then due and payable by
+Borrower in respect thereof, and (iv) the amount set forth in clause (iii) has not been paid in full or discharged to the satisfaction of such Swap Counterparty; or 
+
+ (b) Each Swap Counterparty or Borrower shall have received from the Administrative Agent written notice that
+(i) an Event of Default (as defined in the Credit Agreement) has occurred and is continuing and (ii) the unpaid principal amount of the Loans and other Loan Obligations under the Credit Agreement have been declared to be then due and
+payable. 
+ UCC means the Uniform Commercial Code as adopted and in effect in the State of New York from time to time, or, when the
+laws of any other jurisdiction govern the perfection or priority of any Lien, the Uniform Commercial Code of such jurisdiction. 
+
+ (b) Rules of Interpretation . (i) Unless otherwise indicated, any reference to any agreement or instrument will
+be deemed to include a reference to that agreement or instrument as assigned, amended, supplemented, amended and restated, or otherwise modified and in effect from time to time or replaced in accordance with the terms of this Agreement. 
+
+ (ii) The use in this Agreement of the word “include” or “including,” when following any general
+statement, term or matter, will not be construed to limit such statement, term or matter to the specific items or matters set forth immediately following such word or to similar items or matters, whether or not nonlimiting language (such as
+“without limitation” or “but not limited to” or words of similar import) is used with reference thereto, but will be deemed to refer to all other items or matters that fall within the broadest possible scope of such general
+statement, term or matter. The word “will” shall be construed to have the same meaning and effect as the word “shall.” 
+
+ 7 
+
+ (iii) References to “Sections,” “clauses,”
+“recitals” and the “preamble” will be to Sections, clauses, recitals and the preamble, respectively, of this Agreement unless otherwise specifically provided. 
+
+ (iv) This Agreement and the other Security Instruments will be construed without regard to the identity of the party
+who drafted it and as though the parties participated equally in drafting it. Consequently, each of the parties acknowledges and agrees that any rule of construction that a document is to be construed against the drafting party will not be
+applicable either to this Agreement or to the other Security Instruments. 
+ 2. Obligations and Liens
+ Pari Passu . 
+ (a) Subject to the other terms and conditions of this Agreement, the Loan Obligations
+and the Swap Obligations shall be pari passu and the Loan Obligations and Swap Obligations shall be secured, Ratably, by the Liens granted to or for the benefit of Collateral Agent under the Security Instruments (after giving effect to any
+applicable amendments to any of the Security Instruments as provided for below in this Section 2). 
+
+ (b) Contemporaneously with the execution of this Agreement, the Loan Parties, the Lenders and the Administrative Agent
+have executed: (i) the Credit Agreement which (A) permits the Loan Parties to grant a first priority Lien on their assets to secure obligations owing to Qualified Counterparties under Swap Agreements and the Loan Obligations, and
+(B) acknowledges and agrees that any first priority Lien granted to Collateral Agent by any Loan Party to secure the Loan Obligations, shall be held by Collateral Agent for the Ratable benefit of the Swap Counterparties, to secure the Swap
+Obligations on a pari passu basis with the Loan Obligations; and (ii) Security Instruments causing any Lien granted to or for the benefit of Collateral Agent under such Security Instruments to secure, Ratably, the Loan Obligations and
+the Swap Obligations. 
+ (c) Each Swap Counterparty agrees that, without the prior written consent of Administrative
+Agent, it will not seek or accept credit support for any Swap Obligation other than its Rights under the Security Instruments. Notwithstanding the preceding sentence, to the extent that any Swap Counterparty, with the written consent of the
+Administrative Agent, hereafter obtains any Lien on assets of any Loan Party to secure all or any portion of the Swap Obligations owing to such Swap Counterparty, the Lien held by the Collateral Agent on such assets to secure the Loan Obligations
+shall be pari passu with any Lien now or hereafter existing in favor of such Swap Counterparty to secure all or any part of the Swap Obligations, notwithstanding (i) the date, manner or order of any grant, attachment or perfection of any
+such Lien, (ii) any provision of the UCC, other applicable law, the Loan Documents or the Swap Documents or (iii) any manner of enforcement of any Lien or other Rights. Similarly, the parties hereto agree that to the extent any Lender
+hereafter obtains any Lien on assets of Loan Parties to secure all or any portion of the Loan Obligations, the Lien held by such Lender on such assets shall secure the Loan Obligations and the Swap Obligations and shall be pari passu with any Lien
+now or hereafter existing in favor of, or for the benefit of, any Swap Counterparty to secure 
+
+ 8 
+
+ all or any part of the Swap Obligations, notwithstanding (i) the date, manner or order of any grant,
+attachment or perfection of any such Lien, (ii) any provision of the UCC, other applicable law, the Loan Documents or any Swap Documents or any manner of enforcement of any Lien or other Rights. 
+
+ (d) The parties hereto agree that, upon execution of the Credit Agreement, the Security Instruments and this Agreement,
+(i) any Lien under any Security Instrument securing, Ratably, the Loan Obligations and the Swap Obligations shall be permitted under the Credit Agreement and (ii) Swap Counterparties will become a beneficiary of any Lien granted to
+Collateral Agent pursuant to any Security Instrument. 
+ (e) The Administrative Agent (on behalf of the Lenders)
+consents to Borrower entering into the Approved ISDAs and agrees that each Approved ISDA is a Swap Agreement permitted under the terms of the Credit Agreement, that the Initial Swap Parties are Qualified Counterparties (as defined in the Credit
+Agreement), and that this Agreement is the Swap Intercreditor Agreement (as defined in the Credit Agreement). Each Swap Counterparty and the Administrative Agent (on behalf of the Lenders) acknowledge and agree that, upon execution of the Credit
+Agreement, the Security Instruments and this Agreement, such Swap Counterparty will become a secured party under the Security Instruments. 
+
+ (f) The amounts payable by the Loan Parties to the Credit Agreement Secured Parties under the Loan Documents and the
+amounts payable by the Loan Parties to the Swap Counterparties under the Swap Documents shall be separate and independent debts, and each Secured Party shall be entitled to enforce any right arising out of the applicable Principal Agreement to which
+it is a party, subject to the terms thereof and of this Agreement. Each Secured Party hereby agrees that no Secured Party (whether as the mortgagee or the secured party, as the case may be, under the Security Instruments) other than the Collateral
+Agent shall have any right individually to realize upon any Liens granted under the Security Instruments, it being understood and agreed that such remedies may be exercised only by Collateral Agent (as the mortgagee or the secured party, as the case
+may be, under the Security Instruments) for the Ratable benefit of the Secured Parties. 
+ (g) Each Creditor agrees:
+(i) to deliver to the other Creditors, at the same time it makes delivery to Borrower, a copy of any notice of default, notice of intent to accelerate or notice of acceleration with respect to any of the Loan Obligations or the Swap
+Obligations, as applicable, subject to this Agreement and (ii) to deliver to the other Creditors, at the same time it makes delivery to any Loan Party, a copy of any notice of the commencement of any judicial proceeding by such Creditor and a
+copy of any other notice with respect to the exercise of remedies with respect to any of the Loan Obligations or the Swap Obligations, as applicable, subject to this Agreement. Any failure by a Creditor to furnish a copy under this Section 2(g)
+shall not limit or affect the rights and obligations of such Creditor hereunder. 
+ (h) Each of the Swap
+Counterparties and the Administrative Agent hereby agrees that it shall endeavor to furnish Borrower with a copy of any notice provided or received, as applicable, by it which notice would, pursuant to clause (a) (in the case of the Swap
+Counterparties) or clause (b) (in the case of the Administrative Agent) of the definition of Triggering Event in Section 1 above, establish a Triggering Event. Each of Borrower and the 
+
+ 9 
+
+ Administrative Agent hereby agrees that it shall endeavor to furnish Swap Counterparties with a copy of any
+notice received or provided, as applicable, by it which notice would, pursuant to clause (b) of the definition of Triggering Event in Section 1 above, establish a Triggering Event. 
+
+ (i) The Administrative Agent, the Collateral Agent and the Lenders may enter into any amendment, modification or
+supplement to the Credit Agreement or any Loan Document, and termination of any thereof, or any waiver or consent under any thereof, and any such amendment, modification, supplement, termination, waiver or consent shall be deemed accepted by the
+Swap Counterparties and the Borrower; provided , however , the written consent of the Swap Counterparties (which consent will not be withheld, conditioned or delayed unreasonably) shall be required in connection with any such amendment,
+modification supplement, termination, waiver, or consent if the effect of such amendment, modification, supplement, termination, waiver, or consent would be to: 
+
+ (i) change the definition of “Qualified Counterparty”, “Secured Obligations”,
+“Secured Parties”, “Security Document” or “Swap Intercreditor Agreement” under the Credit Agreement or change Section 10.02(b)(vii) in any manner adverse to any Swap Counterparty in any material respects or which would
+reduce or diminish materially the benefits of the security provided for in the Security Instruments; 
+
+ (ii) provide for any of the Swap Obligations to cease to be secured by the Security Instruments; 
+
+ (iii) cause the Security Instruments to secure obligations other than the Loan Obligations and Swap
+Obligations; 
+ (iv) change the priority of or subordinate the Liens created thereby; 
+
+ (v) materially reduce or materially limit the Rights of the Collateral Agent or any Swap Counterparty
+provided for therein in any respects; or 
+ (vi) cause the Swap Obligations owed under any Swap
+Document to cease (A) to be secured on a first lien, pari passu basis with the Loan Obligations with respect to the Collateral or (B) to be guaranteed on a pari passu basis with the Loan Obligations 
+
+ (each of the foregoing, a “ Required Consent ”). Any such amendment made without such consent shall be null and void. The Collateral Agent may
+not release any Collateral under any of the Security Instruments, except as provided in Section 2(j); provided , further , however , that (i) any amendment or supplement that has the effect solely of adding or maintaining
+Collateral, or preserving, perfecting or establishing the priority of the Collateral Agent’s Liens or the rights of the Collateral Agent therein will become effective when executed and delivered by the Borrower and the Collateral Agent and
+(ii) any amendment or supplement to the provisions of the Security Instruments that effects a release of Collateral will be effective only if the release is effective under Section 2(j). 
+
+ 10 
+
+ (j) The Collateral Agent will not release any Lien of the Collateral Agent
+or consent to the release of any Lien of the Collateral Agent, except: 
+ (i) Following its receipt of
+an Officers’ Certificate to the effect that the release was permitted by each of the Loan Documents and the Swap Documents (it being agreed by each Swap Counterparty and the Administrative Agent that the Collateral Agent may conclusively rely
+on any such Officer’s Certificate provided by the Borrower to the Collateral Agent as evidence that such release is in fact permitted under the Loan Documents and Swap Documents); 
+
+ (ii) upon written consent of the Administrative Agent and each Swap Counterparty, accompanied by an
+Officers’ Certificate to the effect that (A) a Discharge of Loan Obligations has occurred and a Discharge of Swap Obligations has occurred and (B) the release was permitted by each of the Loan Document and Swap Documents; or 
+
+ (iii) as ordered pursuant to applicable law under a final and nonappealable order or judgment of a court
+of competent jurisdiction. 
+ If in the case of any release of Collateral the value of which exceeds ten percent (10%) of the aggregate value of all the
+Collateral before giving effect to such proposed release (such calculation to be determined in good faith by Borrower), Borrower shall provide notice to each Swap Counterparty of such release at least 5 Business Days prior to such release; provided,
+however that Borrower’s failure to provide such notice will not affect the validity of the release. 
+ (k) The
+Collateral Agent will not subordinate any Lien of the Collateral Agent or consent to the subordination of any Lien of the Collateral Agent, except: 
+
+ (i) as directed in writing by the Administrate Agent and each Swap Counterparty, accompanied by an
+Officers’ Certificate to the effect that the subordination was permitted by or waived pursuant to each of the Loan Documents and the Swap Documents; or 
+
+ (ii) as ordered pursuant to applicable law under a final and nonappealable order or judgment of a court
+of competent jurisdiction. 
+ (l) Borrower hereby agrees to provide written notice to Swap Counterparties no less
+than three days prior to execution of any amendment, modification or supplement to the Credit Agreement or any Security Instrument, any termination of any thereof, or any waiver or consent under any thereof, including with such notice a copy of the
+proposed amendment, modification, supplement, termination, waiver, or consent, if such amendment, modification, supplement, termination, waiver, or consent constitutes a Required Consent. Borrower hereby agrees to provide written notice to each Swap
+Counterparty no less than seven days prior to the earliest to occur of (i) the date of (A) signing or (B) closing of any replacement financing or any refinancing of the Credit Agreement, or (ii) the date of any payment in full
+and retirement of the Credit Agreement, including with such notice a copy of the proposed replacement financing, refinancing or retirement of the Credit Agreement, as applicable. 
+
+ (m) Each of the Creditors and Collateral Agent agrees that it shall not (and hereby waives any right to) contest or
+support any other Person in contesting, in any proceeding (including, but not limited to, any proceeding under a Debtor Relief Law), the priority, validity or enforceability of a Lien held by or for the benefit of the Creditors in any Collateral;
+provided that nothing in this Agreement shall be construed to prevent or impair the rights of any such party to enforce this Agreement as provided herein. 
+
+ 11 
+
+ (n) Borrower hereby agrees that Swap Counterparties may provide to
+Administrative Agent and Collateral Agent, and each Swap Counterparty hereby agrees to provide to Administrative Agent and Collateral Agent, within two Business Days following receipt of a written request therefor from Collateral Agent or
+Administrative Agent, (i) a report of the marked-to-market positions of any or all of the transactions in effect from time to time under the Swap Documents, and
+(ii) a copy of any trade confirmation pursuant to an applicable Approved ISDA not previously provided to Administrative Agent and Collateral Agent. Any unintentional failure by a party hereto to timely furnish information required by this
+clause (n) shall not limit or affect the parties’ rights and obligations hereunder. 
+ 3. Appointment of
+Wilmington Trust as Collateral Agent . The Administrative Agent (on behalf of the Credit Agreement Secured Parties) and each Swap Counterparty hereby each appoints Wilmington Trust to (a) act as Collateral Agent, in its name and on its
+behalf, in and under the Security Instruments, (b) be the beneficiary of the guarantees provided under Article VII of the Credit Agreement and hold the Liens on the Collateral, with power of sale, in its name for the benefit and security of
+Credit Agreement Secured Parties and Swap Counterparties, in each case for enforcement and payment of the Loan Obligations and the Swap Obligations, respectively, (c) take such action on behalf of the Credit Agreement Secured Parties and Swap
+Counterparties under the terms and provisions of the Security Instruments and to exercise such rights and remedies under the Security Instruments as are specifically delegated to or required of the Collateral Agent, under the terms and provisions of
+this Agreement and (d) to act as its agent under the First Lien/Second Lien Intercreditor Agreement as the “First Priority Agent” thereunder (as such term is defined in the First Lien/Second Intercreditor Agreement). 
+
+ Subject to the terms hereof, the Collateral Agent agrees to administer and enforce this Agreement and the Security Instruments to which it is
+a party as Collateral Agent, and to foreclose upon, collect and dispose of the Collateral and to apply the Proceeds therefrom, for the benefit of the Secured Parties, as provided herein, and otherwise to perform its duties and obligations as the
+Collateral Agent hereunder in accordance with the terms hereof; provided , however , that the Collateral Agent shall have no duties or responsibilities except those expressly set forth herein or in the Security Instruments to which it is
+a party as Collateral Agent, and no implied covenants or obligations shall be read into any such Security Instruments against the Collateral Agent. 
+
+ It is understood and agreed that the use of the term “agent” herein or in any other Security Instruments (or any other similar term)
+with reference to the Collateral Agent is not intended to connote any fiduciary or other implied (or express) obligations arising under agency doctrine of any applicable law. Instead such term is used as a matter of market custom, and is intended to
+create or reflect only an administrative relationship between contracting parties. 
+ 4. Collateral Agent’s
+Authority . 
+ (a) Upon the occurrence and during the continuance of any Triggering Event, both before and during
+an Insolvency or Liquidation Proceeding, Collateral Agent shall act, or 
+
+ 12 
+
+ decline to act, as directed in writing by the Controlling Party, in the exercise and enforcement of the
+Collateral Agent’s interests, rights, powers and remedies in respect of the Collateral or under the Security Instruments or applicable law and, following the initiation of such exercise of remedies, the Collateral Agent will act, or decline to
+act, with respect to the manner of such exercise of remedies as directed in writing by the Controlling Party. For purposes hereof, the “ Controlling Party ” shall be (i) the Administrative Agent, if the Loan Obligations
+constitute a majority of the Total Obligations and (ii) if the Swap Obligations constitute a majority of the Total Obligations, the Swap Counterparties holding the majority of the Swap Obligations; provided that for purposes of determining
+whether the Loan Obligations or the Swap Obligations constitute a majority of the Total Obligations under this Section 4(a), the Loan Obligations, Swap Obligations and Total Obligations shall be calculated in accordance with their respective
+Outstanding Amounts. 
+ (b) [Reserved]. 
+
+ (c) Notwithstanding anything to the contrary contained in this Agreement, the Collateral Agent will not commence any
+exercise of remedies or any foreclosure actions or otherwise take any action or proceeding against any of the Collateral (other than actions as necessary to prove, protect or preserve the Liens securing the Total Obligations) unless and until it
+receives written notice from the Controlling Party stating that a Triggering Event has occurred and is continuing and directing the Collateral Agent to exercise remedies against the Collateral, and thereafter the Collateral Agent will be required to
+act only if such notice is not withdrawn in writing by the Controlling Party and only in accordance with the other provisions of this Agreement. 
+
+ (d) If the Collateral Agent at any time receives from the Controlling Party written notice that a Triggering Event has
+occurred and is continuing, the Collateral Agent will act, or decline to act, as directed by the Controlling Party, in the exercise and enforcement of the Collateral Agent’s interests, rights, powers and remedies in respect of the Collateral or
+under the Security Instruments or applicable law and, following the initiation of such exercise of remedies, the Collateral Agent will act, or decline to act, with respect to the manner of such exercise of remedies as directed by the Controlling
+Party. Unless it has been directed to the contrary in writing by the Controlling Party, the Collateral Agent in any event may (but will not be obligated to) take or refrain from taking such action with respect to any Triggering Event as it may deem
+advisable and in the best interest of the holders of Total Obligations. 
+ (e) Notwithstanding anything to the
+contrary contained herein or in any other Security Instruments, the Collateral Agent shall only comply with written instructions or directions from the Controlling Party with respect to the exercise and enforcement of the Collateral Agent’s
+interests, rights, powers and remedies in respect of the Collateral or under the Security Instruments and shall not comply with any such instructions or directions received from any other Person (including any other Secured Party or any other actual
+or alleged third party beneficiary of this Agreement or the Security Instruments). 
+ (f) Notwithstanding anything to
+the contrary contained herein or in any Security Instrument, (i) the Collateral Agent shall for all purposes of this Agreement be entitled to rely (without any independent verification) on a certification from the Administrative Agent in 
+
+ 13 
+
+determining the Outstanding Amount of Loan Obligations and (ii) the Collateral Agent shall for all purposes of this Agreement be entitled to rely (without any independent verification) on a
+certification from each Swap Counterparty in determining the Outstanding Amount of Swap Obligations owing to such Swap Counterparty. Promptly following the occurrence and during the continuation of any Triggering Event (and in any event prior to
+Collateral Agent being required to take any action pursuant to Section 4(a)) and at any time promptly following its request therefor, (i) the Administrative Agent shall certify in writing to the Collateral Agent the Outstanding Amount of Loan
+Obligations and (ii) each Swap Counterparty shall certify in writing to the Collateral Agent the Outstanding Amount of Swap Obligations held by it. In the event the Administrative Agent or a Swap Counterparty fails to provide such certification
+within ten (10) Business Days after request from the Collateral Agent, the Collateral Agent may conclusively assume that, for purposes of determining the Controlling Party only, the Outstanding Amount of the Loan Obligations or Swap
+Obligations, as applicable, held by the applicable Creditor failing to provide such certification shall be equal to zero ($0). 
+
+ (g) For so long as any Triggering Event is continuing, any payments received by the Administrative Agent or the Lenders
+under the Credit Agreement and any payments received by Swap Counterparties under any Approved ISDA will be held for the Ratable benefit of the Creditors until such time that such Triggering Event is no longer continuing or that Collateral Agent is
+exercising remedies under the Security Instruments (including, but not limited to, the foreclosure of Liens) and distributing the Proceeds from such remedies Ratably to the Creditors under Section 5(b) of this Agreement (“ Blocking
+Period ”). All funds received in any deposit account of Borrower subject to an account control agreement during such Blocking Period for the benefit of the Administrative Agent and the Lenders shall be maintained in such deposit account and
+held for the Ratable benefit of the Creditors until disbursed in accordance with Section 5 of this Agreement. 
+
+ (h) If a Triggering Event of the type referred to in clause (b) of the definition of Triggering Event shall have
+occurred and is continuing, at the request of the Administrative Agent, Borrower shall (subject to Swap Counterparties’ netting and setoff rights) be deemed to have requested that Swap Counterparties, and Swap Counterparties may,
+notwithstanding the existence of the Blocking Period, make payments of any amounts due and owing from such Swap Counterparty to Borrower under the Swap Documents to the Collateral Agent to be distributed in accordance with Section 5(b). 
+
+ 5. Proceeds . 
+
+ (a) The Secured Parties hereby agree among themselves that (i) prior to the occurrence and continuance of a
+Triggering Event, each Secured Party shall be entitled to receive and retain for its own account, and shall never be required to disgorge to the Collateral Agent or any other Secured Party or acquire direct or participating interests in the Loan
+Obligations or the Swap Obligations owing to such Secured Party, scheduled payments or voluntary prepayments, payments of principal, interest, fees, settlement payments and any other payments in respect of the Principal Agreements, all in compliance
+with the terms thereof, and (ii) after the occurrence and during the continuance of a Triggering Event (and during the Blocking Period), all such amounts (other than any netting or setoff rights, which are acknowledged to be for the sole
+benefit of the relevant Swap Counterparty, notwithstanding Sections 4 and 5 hereof) shall be treated as if constituting Proceeds and shall be shared by the Creditors Ratably and in accordance with this Section 5. 
+
+ 14 
+
+ (b) After the occurrence and during the continuance of a Triggering Event,
+all Proceeds received by any Secured Party shall be applied in accordance with this Section 5. If any Secured Party (including the Collateral Agent) shall obtain or receive any amount or payment in respect of Total Obligations owed to such
+Secured Party other than in accordance with this Section 5, such Secured Party shall notify each Creditor and the Collateral Agent thereof and shall promptly pay (in the case of the Collateral Agent, to the extent in its possession) such amount
+(less any reasonable costs and expenses incurred by such Secured Party in obtaining such amount) to the Collateral Agent for the account of the Secured Parties, to be shared in accordance with Section 5(c). 
+
+ (c) After the occurrence and during the continuance of a Triggering Event, all Proceeds received by Collateral Agent
+shall be applied in the following order (it being agreed that the Collateral Agent shall, within a commercially reasonable time following the receipt thereof, distribute to each of the Administrative Agent and Swap Counterparties its Ratable share
+of all Proceeds in the following order of priority; provided that such Proceeds shall not be so applied until such time as the amount of the Total Obligations and the applicable breakdown of such Total Obligations owed to the Administrative
+Agent and each Swap Counterparty has been determined in accordance with the terms hereof and under the terms of the relevant Loan Documents or Swap Documents, as applicable, including and subject to Section 5(d) below): 
+
+ First , to the payment of all amounts payable under this Agreement, the Fee Letter (as defined in the Credit Agreement)
+or any of the Security Instruments on account of the Collateral Agent’s fees and any reasonable fees, costs and expenses (including, without limitation, reasonable fees and expenses of counsel to the Collateral Agent) or other liabilities of
+any kind incurred by, or indemnities in favor of, the Collateral Agent or any co-trustee, custodian or agent of the Collateral Agent in connection with this Agreement or any Security Instrument or the
+Collateral Agent performing its obligations hereunder or thereunder; 
+ Second , Ratably to the Administrative Agent
+and each Swap Counterparty (but excluding for purposes of this determination outstanding Loan Obligations constituting Excess Priority Lien Obligations), respectively, until the Total Obligations then owing (other than Loan Obligations constituting
+Excess Priority Lien Obligations) are fully satisfied; 
+ Third , to the Administrative Agent in satisfaction of any
+Loan Obligations constituting Excess Priority Lien Obligations and any other indebtedness of the Loan Parties, other than the Loan Obligations or the Swap Obligations, secured by the Security Instruments; and 
+
+ Fourth , to the extent that any Proceeds remain after the full and indefeasible payment of all of the amounts described
+in the preceding paragraphs, to Borrower or as a court of competent jurisdiction may direct. 
+
+ 15 
+
+ In connection with the application of Proceeds pursuant to this Section 5(c), except as otherwise directed
+in writing by the Controlling Party, the Collateral Agent may sell any non-cash proceeds for cash prior to the application of the proceeds thereof in accordance with the UCC. 
+
+ (d) Upon receipt of any of the Proceeds referred to in Section 5(c), the Collateral Agent shall promptly provide notice
+to the Administrative Agent and each Swap Counterparty of the receipt of such Proceeds. As soon as is reasonably practicable after the receipt of such notice, the Administrative Agent and each Swap Counterparty shall give the Collateral Agent a
+written certification by an authorized officer or representative thereof of the aggregate amount of the Loan Obligations or Swap Obligations (as applicable) then outstanding owed to the Secured Parties represented by such Creditor under the Loan
+Documents or Swap Documents (as applicable) to be certified to as presently due and owing (and, promptly upon receipt thereof, the Collateral Agent shall provide a copy of each such certification to each other Creditor). Unless otherwise directed by
+a court of competent jurisdiction, the Collateral Agent may conclusively rely on such certifications and shall use the information provided for in such certifications as the basis for applying the Proceeds in accordance with Section 5(c). If a
+Creditor fails to provide such certification within thirty (30) days of the date such Creditor receives notice from the Collateral Agent of receipt of Proceeds referred to in Section 5(c), (x) the Collateral Agent shall send a subsequent notice
+to such Creditor of its receipt of Proceeds, and (y) such Creditor shall have an additional fifteen (15) days from its receipt of such subsequent notice to provide such certification to the Collateral Agent. If no such certification has
+been provided by the expiration of such additional fifteen (15) day period, the Collateral Agent shall assume the Loan Obligations or Swap Obligations due and owing to such Creditor are zero ($0) for purposes of the application of Proceeds
+under Section 5(c). Notwithstanding the foregoing, and for the avoidance of doubt, the Collateral Agent may apply Proceeds in accordance with clause “First” of Section 5(c) at any time following its receipt thereof, regardless whether or
+not the certifications referred to in this clause (d) have been received by the Collateral Agent. 
+ 6. No
+Implied Duty . The Collateral Agent will not have any fiduciary duties nor will it have responsibilities or obligations other than those responsibilities and obligations expressly assumed by it in this Agreement and the Security Instruments. The
+Collateral Agent will not be required to take any action that is contrary to applicable law or any provision of this Agreement or the Security Instruments. Without limiting the generality of the foregoing, (a) the Collateral Agent shall not be
+subject to any fiduciary or other implied duties, regardless of whether a Triggering Event has occurred and is continuing, (b) the Collateral Agent shall not have any duty to take any discretionary action or exercise any discretionary powers,
+except discretionary rights and powers expressly contemplated hereby that the Collateral Agent is instructed in writing to exercise by the Controlling Party; provided that the Collateral Agent shall not be required to take any action that, in
+its opinion or the opinion of its counsel, may expose the Collateral Agent to liability or that is contrary to this Agreement or any Security Document or applicable law, including for the avoidance of doubt any action that may be in violation of the
+automatic stay under the Bankruptcy Code, and (c) the Collateral Agent shall not have any duty to disclose, nor shall it be liable for the failure to disclose, any information relating to any Loan Party or affiliate thereof that is communicated
+to or obtained by the Collateral Agent 
+ 7. Appointment of Agents and Advisors . The Collateral Agent may
+perform any and all of its duties and exercise its rights and powers by or through any one or more sub-agents 
+
+ 16 
+
+appointed by it, and will not be responsible for any misconduct or negligence on the part of any of them. The Collateral Agent and any such sub-agent may
+perform any and all its duties and exercise its rights and powers by or through their respective affiliates. The exculpatory and indemnification provisions of this Agreement and the Security Instruments shall apply to any such sub-agent and to the affiliates of the Collateral Agent and any such sub-agent. All of the rights, benefits, and privileges (including the exculpatory and indemnification
+provisions) of this Agreement and the Security Instruments shall apply to any such sub-agent and to the affiliates of any such sub-agent as if such sub-agent and affiliates were named herein. Collateral Agent shall not incur any liability for any action or inaction taken by a sub-agent except to the extent that a court of
+competent jurisdiction determines in a final and non-appealable judgment that the Collateral Agent acted with gross negligence or willful misconduct in the selection of such
+ sub-agents. 
+ 8. Other Agreements . The Collateral Agent has accepted
+and is bound by the Security Instruments executed by the Collateral Agent as of the date of this Agreement and, as directed by the Controlling Party, the Collateral Agent shall execute additional Security Instruments delivered to it after the date
+of this Agreement; provided , however , that such additional Security Instruments do not adversely affect the rights, privileges, benefits and immunities of the Collateral Agent. 
+
+ 9. Solicitation of Instructions . 
+
+ (a) The Collateral Agent may at any time solicit written confirmatory instructions from the Administrative Agent or any
+Swap Counterparty or request an order of a court of competent jurisdiction as to any action that it may be requested or required to take, or that it may propose to take, in the performance of any of its obligations under this Agreement or the
+Security Instruments and may suspend performance of such obligations as it determines to be appropriate until it receives such instructions or order. 
+
+ (b) No written direction given to the Collateral Agent by the Administrative Agent or any Swap Counterparty that in the
+sole judgment of the Collateral Agent imposes, purports to impose or might reasonably be expected to impose upon the Collateral Agent any obligation or liability not set forth in or arising under this Agreement and the Security Documents will be
+binding upon the Collateral Agent unless the Collateral Agent elects, at its sole option, to accept such direction. 
+
+ 10. Documents in Satisfactory Form . The Collateral Agent will be entitled to require that all agreements,
+certificates, opinions, instruments and other documents at any time submitted to it, including those expressly provided for in this Agreement, be delivered to it in a form and with substantive provisions reasonably satisfactory to it. 
+
+ 11. Entitled to Rely . The Collateral Agent may seek and rely upon, and will be fully protected in relying upon,
+any judicial order or judgment, upon any advice, opinion or statement of legal counsel, independent consultants and other experts selected by it in good faith and upon any certification, instruction, notice or other writing delivered to it by the
+Borrower in compliance with the provisions of this Agreement or delivered to it by the Administrative Agent or any Swap Counterparty, without being required to determine the authenticity thereof or the correctness of any fact stated therein or the
+propriety or validity of service thereof. The 
+
+ 17 
+
+Collateral Agent may act in reliance upon any instrument comporting with the provisions of this Agreement or any signature reasonably believed by it to be genuine and may assume that any Person
+purporting to give notice or receipt or advice or make any statement or execute any document in connection with the provisions hereof or the Security Instruments has been duly authorized to do so. To the extent an Officers’ Certificate or
+opinion of counsel is required or permitted under this Agreement to be delivered to the Collateral Agent in respect of any matter, the Collateral Agent may rely conclusively on such Officers’ Certificate or opinion of counsel as to such matter
+and such Officers’ Certificate or opinion of counsel shall be full warranty and protection to the Collateral Agent for any action taken, suffered or omitted by it under the provisions of this Agreement and the Security Instruments. 
+
+ 12. Triggering Event . The Collateral Agent will not be required to inquire as to the occurrence or absence of
+any Triggering Event and will not be affected by or required to act upon any notice or knowledge as to the occurrence of any Triggering Event unless and until it receives from the Administrative Agent or any Swap Counterparty, as applicable, written
+notice stating that a Triggering Event has occurred and is continuing. 
+ 13. Actions by Collateral Agent . The
+Collateral Agent shall be entitled to refrain from any act or the taking of any action (including the failure to take an action) in connection herewith or any of the Security Instruments or from the exercise of any power, discretion or authority
+vested in it hereunder or thereunder unless and until the Collateral Agent shall have received written instructions in respect thereof from the Controlling Party and, upon receipt of such instructions from the Controlling Party, the Collateral Agent
+shall be entitled to act or (where so instructed) refrain from action, or to exercise such power, discretion or authority, in accordance with such instructions. 
+
+ 14. Security or Indemnity in favor of the Collateral Agent . The Collateral Agent will not be required to advance
+or expend any funds or otherwise incur any financial liability in the performance of its duties or the exercise of its powers or rights hereunder unless it has been provided with security or indemnity reasonably satisfactory to it against any and
+all liability or expense which may be incurred by it by reason of taking or continuing to take such action. 
+
+ 15. Rights of the Collateral Agent; Certain Acknowledgments . 
+
+ (a) In the event of any conflict between any terms and provisions set forth in this Agreement and those set forth in any
+Security Instrument, the terms and provisions of this Agreement shall supersede and control the terms and provisions of such Security Instrument. In the event there is any bona fide, good faith disagreement between the other parties to this
+Agreement or any of the Security Instruments resulting in adverse claims being made in connection with Collateral held by the Collateral Agent and the terms of this Agreement or any of the Security Instruments do not unambiguously mandate the action
+the Collateral Agent is to take or not to take in connection therewith under the circumstances then existing, or the Collateral Agent is in doubt as to what action it is required to take or not to take hereunder or under the Security Instruments, it
+will be entitled to refrain from taking any action (and will incur no liability for doing so) until directed otherwise in writing by a request signed by the Controlling Party or by order of a court of competent jurisdiction. 
+
+ 18 
+
+ (b) The Collateral Agent shall not be responsible for or have any duty to
+ascertain or inquire into (i) any statement, warranty or representation made in or in connection with any Security Instrument, any Loan Document or any Swap Document, (ii) the contents of any certificate, report or other document delivered
+thereunder or in connection therewith, (iii) the performance or observance of any of the covenants, agreements or other terms or conditions set forth in any of the Security Instruments or Loan Documents or Swap Documents, (iv) the
+validity, enforceability, effectiveness or genuineness of any Security instrument or Loan Document or Swap Document or any other agreement, instrument or document, or (v) the satisfaction of any condition set forth in any Security Instrument or
+Loan Document or Swap Document. 
+ (c) The Administrative Agent (on behalf of the Lenders) and each Swap Counterparty
+acknowledges that it has, independently and without reliance upon the Collateral Agent and based on such documents and information as it has deemed appropriate, made its own credit analysis and decision to enter into this Agreement and the Swap
+Documents or the Loan Documents, as applicable. The Administrative Agent (on behalf of the Lenders) and each Swap Counterparty also acknowledges that it will, independently and without reliance upon the Collateral Agent and based on such documents
+and information as it shall from time to time deem appropriate, continue to make its own decisions in taking or not taking action under or based upon any Loan Document or Swap Document, any related agreement or any document furnished thereunder. The
+Collateral Agent shall not have any duty or responsibility, either initially or on a continuing basis, to provide any Credit Agreement Secured Party or any Swap Counterparty with any credit or other information with respect to any Borrower or
+Affiliate thereof. 
+ (d) It is acknowledged and agreed by the Administrative Agent (on behalf of the Lenders), each
+Swap Counterparty and each Loan Party that the Collateral Agent (i) has undertaken no analysis of the Security Instruments or the Collateral and (ii) has made no determination as to (x) the validity, enforceability, effectiveness or
+priority of any Liens granted or purported to be granted pursuant to the Security Instruments or (y) the accuracy or sufficiency of the documents, filings, recordings and other actions taken, or to be taken, to create, perfect or maintain the
+existence, perfection or priority of the Liens granted or purported to be granted pursuant to the Security Instruments. The Collateral Agent shall be entitled to assume that all Liens purported to be granted pursuant to the Security Instruments are
+valid and perfected Liens having the priority intended by the Secured Parties and the Security Instrument. 
+
+ 16. Limitations on Duty of Collateral Agent in Respect of Collateral . 
+
+ (a) Beyond the exercise of reasonable care in the custody of Collateral in its possession, the Collateral Agent will
+have no duty as to any Collateral in its possession or control or in the possession or control of any agent or bailee or any income thereon. The Collateral Agent will be deemed to have exercised reasonable care in the custody of the Collateral in
+its possession if the Collateral is accorded treatment substantially equal to that which it accords its own property, and the Collateral Agent will not be liable or responsible for any loss or diminution in the value of any of the Collateral by
+reason of the act or omission of any carrier, forwarding agency or other agent or bailee selected by the Collateral Agent in good faith. 
+
+ 19 
+
+ (b) The Collateral Agent will not be responsible for the existence,
+genuineness or value of any of the Collateral or for the validity, perfection, priority or enforceability of the Liens in any of the Collateral, whether impaired by operation of law or by reason of any action or omission to act on its part
+hereunder, except to the extent such action or omission constitutes gross negligence or willful misconduct on the part of the Collateral Agent as determined by a court of competent jurisdiction in a final and
+ non-appealable judgment, for the validity or sufficiency of the Collateral or any agreement or assignment contained therein, for the validity of the title of any Loan Party to the Collateral, for insuring the
+Collateral or for the payment of taxes, charges, assessments or Liens upon the Collateral or otherwise as to the maintenance of the Collateral. The Collateral Agent hereby disclaims any representation or warranty to the present and future holders of
+the Total Obligations concerning the perfection of the Liens granted hereunder or in the value of any of the Collateral. 
+
+ 17. Assumption of Rights, Not Assumption of Duties . Notwithstanding anything to the contrary contained herein:
+
+ (a) each of the parties thereto will remain liable under each of the Security Instruments (other than this
+Agreement) to the extent set forth therein to perform all of their respective duties and obligations thereunder to the same extent as if this Agreement had not be executed; 
+
+ (b) the exercise by the Collateral Agent of any of its rights, remedies or powers hereunder will not release such
+parties from any of their respective duties or obligations under the Swap Instrument; and 
+ (c) the Collateral Agent
+will not be obligated to perform any of the obligations or duties of any of the parties thereunder other than the Collateral Agent. 
+
+ 18. Collateral Expenses . Borrower agrees to pay, promptly upon demand: 
+
+ (a) all reasonable, out-of-pocket costs
+and expenses incurred by the Collateral Agent and its agents in the preparation, execution, delivery, filing, recordation, administration or enforcement of this Agreement or any Security Instrument or any consent, amendment, waiver or other
+modification relating hereto or thereto; 
+ (b) all reasonable out-of-pocket fees, expenses and disbursements of legal counsel and any auditors, accountants, consultants or appraisers or other professional advisors and agents engaged by the Collateral Agent incurred in
+connection with the negotiation, preparation, closing, administration, performance or enforcement of this Agreement and the Security Instruments or any consent, amendment, waiver or other modification relating hereto or thereto and any other
+document or matter requested by any Borrower; 
+ (c) all reasonable out-of-pocket costs and expenses incurred by the Collateral Agent and its agents in creating, perfecting, preserving, releasing or enforcing the Collateral Agent’s Liens on the Collateral, including
+filing and recording fees, expenses and taxes, stamp or documentary taxes and search fees; 
+
+ 20 
+
+ (d) all other reasonable out-of-pocket costs and expenses incurred by the Collateral Agent and its agents in connection with the negotiation, preparation and execution of the Security Instruments and any consents, amendments, waivers
+or other modifications thereto and the transactions contemplated thereby or the exercise of rights or performance of obligations by the Collateral Agent thereunder; and 
+
+ (e) after the occurrence of any Triggering Event, all reasonable out-of-pocket costs and expenses incurred by the Collateral Agent and its agents in connection with the preservation, collection, foreclosure or enforcement of the Collateral subject to the Security
+Instruments or any interest, right, power or remedy of the Collateral Agent or in connection with the collection or enforcement of any of the Total Obligations or the proof, protection, administration or resolution of any claim based upon the Total
+Obligations in any Insolvency or Liquidation Proceeding, including all reasonable out-of-pocket fees and disbursements of attorneys, accountants, auditors, consultants,
+appraisers and other professionals engaged by the Collateral Agent or its agents. 
+ The Borrower also agrees to pay the fees set forth in the Fee Letter
+(as defined in the Credit Agreement) at such times as required under the Fee Letter and (y) such other compensation to the Collateral Agent and its agents as the Borrower and the Collateral Agent may agree in writing from time to time. Each of
+the parties hereto hereby acknowledges and agrees that the Fee Letter shall constitute a Security Instrument, a Swap Document and a Loan Document, and all fees, costs, expenses and compensation payable thereunder shall constitute Total Obligations
+secured equally and ratably by the Collateral. All of the agreements in this Section 18 will survive repayment of all Total Obligations and the removal or resignation of the Collateral Agent. The Borrower hereby acknowledges and agrees that the
+fee and expense reimbursements set forth in this Section 18 are in addition to, and not in replacement of, the fee and expense reimbursements provided by the Borrower under the Credit Agreement 
+
+ 19. Indemnity . 
+
+ (a) The Borrower agrees to defend, indemnify, pay and hold harmless the Collateral Agent and each of its Related Parties
+(each of the foregoing, an “ Indemnitee ”) from and against any and all Indemnified Liabilities, IN ALL CASES, WHETHER OR NOT CAUSED BY OR ARISING, IN WHOLE OR IN PART, OUT OF THE COMPARATIVE, CONTRIBUTORY, OR SOLE NEGLIGENCE OF
+SUCH INDEMNITEE ; provided , no Indemnitee will be entitled to indemnification hereunder with respect to any Indemnified Liability to the extent such Indemnified Liability is found by a final order of a court of competent jurisdiction which
+is no longer subject to appeal to have resulted from the gross negligence or willful misconduct of such Indemnitee. To the extent that the undertakings to defend, indemnify, pay and hold harmless set forth in this Section 19(a) may be unenforceable
+in whole or in part because they are violative of any law or public policy, the Borrower shall contribute the maximum portion that it is permitted to pay and satisfy under applicable law to the payment and satisfaction of all Indemnified Liabilities
+incurred by Indemnitees or any of them. The Borrower hereby acknowledges and agrees that the indemnities set forth in this Section 19(a) are in addition to, and not in replacement of, the indemnities provided by the Borrower under the Credit
+Agreement. 
+
+ 21 
+
+ (b) To the extent that the Borrower fails to pay any amount required to be
+paid by it to the Collateral Agent (or any sub-agent thereof) or any Related Party thereof under Section 18 or Section 19(a), each of the Administrative Agent (on behalf of the Lenders) and each Swap
+Counterparty severally agrees to pay to the Collateral Agent (or any such sub-agent thereof) or such Related Party of the Collateral Agent (or any such sub-agent 
+thereof), as the case may be, its Ratable share (determined as of the time that the applicable unreimbursed expense or indemnity payment is sought using for purposes of this Section 19(b) the Outstanding Amount of Loan Obligations and Swap
+Obligations (or if such unreimbursed amount or indemnity payment is sought after the Discharge of Credit Facility Obligations and Discharge of Swap Obligations has occurred, in accordance with its Ratable share (calculated for purposes of this
+Section 19(b) by using the Outstanding Amount of Loan Obligations and Swap Obligations) immediately prior to the date on which the Discharge of Credit Facility Obligations and Discharge of Swap Obligations has occurred)) of such unpaid amount. By
+accepting the benefits hereof, each Lender hereby (i) agrees to indemnify the Collateral Agent (or any sub-agent thereof) or any Related Party thereof for any amounts that would be payable by the
+Administrative Agent under this Section 19(b) in accordance with the provisions of the Credit Agreement (including Section 10.03(e) thereof) and (ii) acknowledges and agrees that the indemnities set forth in this Section 19(b) are in addition
+to, and not in replacement of, the indemnities provided by the Lenders under the Credit Agreement. Each Lender (by accepting the benefits hereof) and each Swap Counterparty hereby authorizes the Administrative Agent or the Collateral Agent to set
+off and apply any and all amounts at any time owing to such Lender or Swap Counterparty under this Agreement, any Security Instrument, any Loan Document (if applicable) or otherwise payable by the Administrative Agent or the Collateral Agent to such
+Lender or Swap Counterparty from any source against any amount due to the Collateral Agent under this paragraph (b). 
+ Upon demand by
+the Collateral Agent, the Administrative Agent and each Swap Counterparty shall give the Collateral Agent a written certification by an authorized officer or representative thereof of the aggregate amount of the Loan Obligations or Swap Obligations
+(as applicable) then outstanding owed to the Secured Parties represented by such Creditor under the Loan Documents or Swap Documents (as applicable) to be certified to as presently due and owing (and, promptly upon receipt thereof, the Collateral
+Agent shall provide a copy of each such certification to each other Creditor). The Collateral Agent may conclusively rely on such certifications and may use the information provided for in such certifications as the basis for determining the amounts
+owing by each of the individual Creditors to the Collateral Agent under this Section 19(b). For the avoidance of doubt, the failure of any Creditor to provide the Collateral Agent with any certification required hereunder shall not relieve such
+Creditor of its obligations under this Section 19(b). 
+ (c) All amounts due under this Section 19 will be
+payable upon demand. 
+ (d) No claim shall be made by any party hereto or any Related Party of any party hereto
+against any other party hereto or any Related Party of any party hereto on any theory of liability for any lost profits or special, indirect, or consequential damages or (to the fullest extent a claim for such damages may lawfully be waived) any
+punitive damages arising out of, in connection with, or as a result of, this Agreement or any Security Instrument or Loan Document or Swap Document or any agreement or instrument or transaction contemplated hereby or relating in any respect to any
+Indemnified Liability, and each Loan Party, each Swap 
+
+ 22 
+
+Counterparty, the Collateral Agent and the Administrative Agent (on behalf of the Lenders) hereby forever waives, releases and agrees not to sue any other party hereto or any Related Party of any
+party hereto upon any claim for any such lost profits or special, indirect, consequential or (to the fullest extent lawful) punitive damages, whether or not accrued and whether or not known or suspected to exist in its favor. 
+
+ (e) The agreements in this Section 19 will survive repayment of the Total Obligations and the removal or
+resignation of the Collateral Agent. 
+ 20. Limitation of Liability – Collateral Agent . Neither
+Collateral Agent nor any of its Related Parties shall be liable for any action taken or not taken by it (i) with the consent or at the request of the Controlling Party (or such other Secured Parties as required herein) or (ii) in the
+absence of its own gross negligence or willful misconduct as determined by a court of competent jurisdiction by final and nonappealable judgment, and then only for direct damages to the extent provided by law. Collateral Agent shall not be
+responsible in any manner to any other party for the effectiveness, enforceability, genuineness, validity or the due execution of the Security Instruments or for any representation, warranty, document, certificate, report or statement made in or in
+connection with the Security Instruments or be under any obligation to any other party to ascertain or inquire as to the performance or observation of any of the terms, covenants or conditions of any of the Loan Documents or the Swap Documents on
+the part of any Loan Party. 
+ 21. Limitation of Liability – Agent and Swap Counterparties . None of any
+Swap Counterparty, the Administrative Agent, the Collateral Agent or any Related Party of any of the foregoing shall incur any liability to the other except for liabilities arising from its gross negligence or willful misconduct as determined by a
+court of competent jurisdiction in a final and non-appealable judgment. None of any Swap Counterparty, the Administrative Agent, the Collateral Agent or any Related Party of any of the foregoing shall incur
+any liability to Borrower or any other Person except for liabilities arising from its gross negligence or willful misconduct as determined by a court of competent jurisdiction in a final and non-appealable 
+judgment. 
+ 22. Term . Subject to Section 24 below, this Agreement shall terminate upon (i) the
+Discharge of Credit Facility Obligations and the Discharge of Swap Obligations and (ii) the execution and delivery of a written termination notice signed by the Administrative Agent and each of the Swap Counterparties. 
+
+ 23. Removal and Resignation of Collateral Agent . The Collateral Agent shall not be removed as Collateral Agent
+except with the prior written consent of each Swap Counterparty and the Majority Lenders under the Credit Agreement. The Administrative Agent and each Swap Counterparty agree to notify Borrower promptly of any removal of Collateral Agent. The
+Collateral Agent may resign at any time by giving not less than 30 days’ prior written notice of resignation to the Borrower, the Administrative Agent and each Swap Counterparty. Upon any such resignation, the Controlling Party shall have the
+right to appoint a successor with, so long as no event of default under the Credit Agreement or event of default or termination event under the Swap Documents has occurred and is continuing, the consent of the Borrower (not to be unreasonably
+withheld, conditioned or delayed). If no successor shall have been so appointed by the Controlling Party and approved by the Borrower (if applicable) and shall have accepted such 
+
+ 23 
+
+ appointment within 30 days after such retiring Collateral Agent gives notice of its resignation (or such earlier
+day as shall be agreed in writing by the Controlling Party) (the “ Resignation Effective Date ”), then such retiring Collateral Agent or any other Creditor may (but shall not be obligated to), on behalf of the Secured Parties with, so
+long as no event of default under the Credit Agreement or event of default or termination event under any Swap Document has occurred and is continuing, the consent of the Borrower (not to be unreasonably withheld, conditioned or delayed), appoint a
+successor Collateral Agent which shall be a bank with an office in New York, New York (or a bank having an Affiliate with such an office) having a combined capital and surplus that is not less than $500,000,000 or an Affiliate of any such bank.
+Whether or not a successor has been appointed, the resigning Collateral Agent’s resignation shall become effective on the Resignation Effective Date. With effect from the Resignation Effective Date (1) the retiring Collateral Agent shall
+be discharged from its duties and obligations hereunder and under the Security Instruments (except that in the case of any collateral security held by the Collateral Agent on behalf of the Secured Parties, the retiring Collateral Agent shall
+continue to hold such collateral security until such time as a successor Collateral Agent is appointed) and (2) except for any indemnity payments or other amounts then owed to the retiring Collateral Agent, all payments, communications, actions
+and determinations provided to be made or taken by, to or through the Collateral Agent shall instead be made or taken by or to the Controlling Party directly, and except as provided in clause (1), the Controlling Party shall act as Collateral Agent
+hereunder in accordance with the terms and conditions hereof, until such time, if any, as the Controlling Party, other Creditor or Collateral Agent appoints a successor Collateral Agent as provided for above. Upon or following its resignation, the
+Collateral Agent agrees to execute and deliver assignments, in form and substance mutually satisfactory to the Collateral Agent and the Creditors, to the successor Collateral Agent of the rights of the mortgagee or the secured party, as the case may
+be, under the Security Instruments. Such assignments shall be prepared at the expense of Borrower. Borrower hereby consents to such assignments. Upon the acceptance of any appointment as a Collateral Agent hereunder by a successor entity, such
+successor shall succeed to and become vested with all the rights, powers, privileges and duties of such retiring Collateral Agent (other than any rights to indemnity payments or other amounts owed to the retiring Collateral Agent as of the
+Resignation Effective Date), and such retiring Collateral Agent shall have no further duties, responsibilities or liabilities under this Agreement or the Security Instruments (if not already discharged therefrom as provided above in this Section),
+but shall remain entitled to the benefit of the indemnification of the Collateral Agent provided in this Agreement and to reimbursement, in accordance with applicable provisions of this Agreement, of expenses incurred in the discharge of the duties
+of the Collateral Agent prior to the effective date of such resignation. 
+ 24. Survival of Rights . All of the
+respective rights and interests of the Administrative Agent, the Collateral Agent and each Swap Counterparty under this Agreement (and the respective obligations and agreements of each Swap Counterparty, the Administrative Agent and the Collateral
+Agent under this Agreement), shall remain in full force and effect regardless of: 
+ (a) any lack of validity or
+enforceability of any of the Loan Documents or the Swap Documents or any other agreement or instrument related thereto; or 
+
+ 24 
+
+ (b) any other circumstance which might otherwise constitute a defense
+available to, or discharge of, any Loan Party with respect to the Loan Obligations or the Swap Obligations (other than the defense that such obligations have been fully satisfied). 
+
+ 25. Representations and Warranties . Each of the Administrative Agent, each Swap Counterparty, Borrower and
+Collateral Agent represents and warrants to the other parties hereto that: 
+ (a) neither the execution and delivery
+of this Agreement nor its performance of or compliance with the terms and provisions hereof will conflict with, or result in a breach of the terms, conditions or provisions of, or constitute a default under, any other agreement to which it is now
+subject, including, but not limited to, any of the Loan Documents or the Swap Documents; 
+ (b) it has all requisite
+authority to execute, deliver and perform its obligations under this Agreement; and 
+ (c) this Agreement constitutes
+its legal, valid, and binding obligation, enforceable against it in accordance with its terms, subject only to applicable bankruptcy, insolvency or similar laws and general principles of equity. 
+
+ 26. Further Assurances . Each of the Administrative Agent, each Swap Counterparty, Borrower and Collateral Agent
+covenants that, as long as this Agreement remains in effect, it will execute and deliver any and all other documents or instruments reasonably requested by the other to give effect to the terms and conditions of this Agreement. 
+
+ 27. Assignment; Agreement Binding on Successors and Assigns . As long as this Agreement remains in effect, no
+Swap Counterparty will sell, assign or otherwise transfer all or any part of the Swap Obligations, unless the assignee is already a party to this Agreement or executes and delivers to the Collateral Agent a Joinder Supplement. This Agreement shall
+inure to the benefit of, and shall be binding upon and enforceable against, each Loan Party, the Administrative Agent, each Swap Counterparty and Collateral Agent and their respective successors and permitted assigns. Any sale, assignment or
+transfer to any Person of any Swap Counterparty’s rights or interests in the Swap Obligation made in violation of the provisions of this Section 27 shall be void ab initio . 
+
+ 28. Additional Swap Counterparties . Each of the parties hereto hereby agrees that, notwithstanding anything to
+the contrary contained herein, in any Security Instrument, in the Credit Agreement, in any other Loan Document or in any Swap Document, no Person providing any swap or hedge agreement to any Loan Party may become a secured party under any Security
+Instrument after the date hereof until such Person (i) is determined to be acceptable to the Majority Lenders as evidenced by their written consent (a copy of which shall have been provided to the Collateral Agent), (ii) agrees to be bound by
+the terms of this Agreement as a “Swap Counterparty” by executing and delivering a Joinder Supplement in the form of Exhibit A hereto to the Collateral Agent and the Borrower and (iii) provides the Collateral Agent with all
+documentation and other information that the Collateral Agent requests in order to comply with the Collateral Agent’s obligations under applicable “know your customer” and anti-money 
+
+ 25 
+
+ laundering rules and regulations, including the USA PATRIOT Act (Title III of Pub. L. 107-56 (signed into law October 26, 2001)), and the results of any such “know your customer” or similar investigation conducted by the Collateral Agent shall be satisfactory to the Collateral Agent.
+In each case, upon execution and delivery of such Joinder Supplement by such Person, Collateral Agent and Borrower, such Person shall be deemed a Swap Counterparty hereunder as if an original signatory. Joinder Supplements executed pursuant to this
+Section 28 do not require the signatures or consents of all Creditors party to this Agreement. Promptly after execution of any such Joinder Supplement, the Borrower will endeavor to send a copy thereof to each other Swap Counterparty, but
+failure or delay in doing so will not make such Joinder Supplement void or voidable or otherwise affect the rights and duties of the parties hereto. 
+
+ 29. Notice . Unless otherwise provided, any consent, request, notice, or other communication under or in
+connection with this Agreement must be in writing to be effective and shall be deemed to have been given (a) if by mail, on the third Business Day after it is enclosed in an envelope and properly addressed, stamped, sealed, certified return
+receipt requested, and deposited in the appropriate official postal service, or (b) if by courier, electronic transmissions, or facsimile transmission, when actually delivered; provided, however, that any notice provided to Morgan Stanley under
+this Agreement must also be sent by facsimile transmission to such Person. Until changed by a subsequent notice delivered in accordance with this Section 29, notices for each party are to be directed to: 
+
+ For delivery to Morgan Stanley: 
+
+ Morgan Stanley Capital Group Inc. 
+
+ c/o MORGAN STANLEY & CO. LLC 
+
+ 1585 Broadway 
+ New York, New York
+10036-8293 
+ Attention: 
+ Close-out Notices 
+ With a mandatory copy to: 
+
+ Facsimile No.: +1 212 507 4622 
+
+ For delivery to NextEra: 
+
+ NextEra Energy Marketing, LLC 
+
+ 700 Universe Blvd. 
+ Juno Beach,
+FL 33408 
+ Attn: Contracts/Legal Department 
+
+ Facsimile: (561) 625-7504 
+
+ For delivery to Cargill: 
+
+ Cargill, Incorporated 
+ 9350
+Excelsior Boulevard 
+ Hopkins, Minnesota 55343-9439 
+
+ Attn: Credit/CRM Administration 
+
+ Facsimile: (952) 984-3763 
+
+ 26 
+
+ For delivery to Koch: 
+
+ Koch Supply & Trading, LP 
+
+ 4111 East 37th Street North 
+
+ Wichita, Kansas 67220 
+ Attention:
+Koch Supply & Trading Legal 
+ Facsimile No.:
+ 316-828-7979 
+ Email: Trading_Formal_Notices@kochind.com
+
+ For delivery to a Swap Party (other than the Initial Swap Party): As set forth in the Joinder Supplement pursuant to which it became a
+party hereto. 
+ For delivery to any Loan Party: 
+
+ c/o Gastar Exploration Inc. 
+
+ 1331 Lamar, Suite 650 
+ Houston,
+Texas 77010 
+ Attention: 
+
+ Michael A. Gerlich 
+ Senior Vice
+President and 
+ Chief Financial Officer 
+
+ Facsimile No. (713) 739-0458 
+
+ email: mgerlich@gastar.com 
+
+ Trent Determan, Vice-President Finance 
+
+ Facsimile No. (713) 739-0458 
+
+ email: tdeterman@gastar.com 
+
+ For delivery to Administrative Agent or Collateral Agent: 
+
+ Wilmington Trust, National Association 
+
+ Rodney Square, 1100 North Market Street 
+
+ Wilmington, DE 19890 
+ Attention:
+Jennifer K. Anderson 
+ Facsimile No. (302) 636-4145 
+
+ email: JKAnderson@wilmingtontrust.com 
+
+ with a copy to: 
+
+ Arnold & Porter Kaye Scholer LLP 
+
+ 250 West 55 th Street 
+
+ New York, NY 10019 
+ Attention:
+Alan Glantz 
+ Facsimile No, (212) 836-6763 
+
+ email: Alan.Glantz@APKS.com 
+
+ 27 
+
+ 30. Amendments . This Agreement may only be waived, amended,
+modified, or terminated by a written agreement signed by the Administrative Agent, the Collateral Agent and each Swap Counterparty. 
+
+ 31. Severability . Any provision of this Agreement held to be invalid, illegal or unenforceable in any
+jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such invalidity, illegality or unenforceability without affecting the validity, legality and enforceability of the remaining provisions hereof; and the invalidity of a
+particular provision in a particular jurisdiction shall not invalidate such provision in any other jurisdiction. The parties shall endeavor in good faith negotiations to replace the invalid, illegal or unenforceable provisions with valid provisions
+the economic effect of which comes as close as possible to that of the invalid, illegal or unenforceable provisions. 
+
+ 32. Governing Law; Jurisdiction; Consent to Service of Process . 
+
+ (a) THIS AGREEMENT SHALL BE GOVERNED BY THE LAWS OF THE STATE OF NEW YORK, WITHOUT GIVING EFFECT TO ANY CONFLICT OF
+LAW PRINCIPLES (BUT GIVING EFFECT TO SECTION 5 1401 OF THE NEW YORK GENERAL OBLIGATION LAW). 
+ (b) Each party
+hereto hereby irrevocably and unconditionally submits, for itself and its property, to the nonexclusive jurisdiction of the Supreme Court of the State of New York sitting in New York County and of the United States District Court of the Southern
+District of New York, and any appellate court from any thereof, in any action or proceeding arising out of or relating to this Agreement, or for recognition or enforcement of any judgment, and each of the parties hereto hereby irrevocably and
+unconditionally agrees that all claims in respect of any such action or proceeding may be heard and determined in such New York State court or, to the extent permitted by law, in such federal court. Each of the parties hereto agrees that a final
+judgment in any such action or proceeding shall be conclusive and may be enforced in other jurisdictions by suit on the judgment or in any other manner provided by law. Nothing in this Agreement shall affect any right that any party hereto may
+otherwise have to bring any action or proceeding relating to this Agreement in the courts of any jurisdiction. 
+
+ (c) Each party hereto hereby irrevocably and unconditionally waives, to the fullest extent it may legally and
+effectively do so, any objection which it may now or hereafter have to the laying of venue of any suit, action or proceeding arising out of or relating to this Agreement in any court referred to above. Each of the parties hereto hereby irrevocably
+waives, to the fullest extent permitted by law, the defense of an inconvenient forum to the maintenance of such action or proceeding in any such court. 
+
+ 28 
+
+ (d) Each party to this Agreement irrevocably consents to service of
+process in the manner provided for notices in Section 29. Nothing in this Agreement will affect the right of any party to this Agreement to serve process in any other manner permitted by law. 
+
+ 33. WAIVER OF JURY TRIAL . EACH PARTY HERETO HEREBY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW,
+ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS AGREEMENT. EACH PARTY HERETO (A) CERTIFIES THAT NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PARTY HAS
+REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B) ACKNOWLEDGES THAT IT AND THE OTHER PARTIES HERETO HAVE BEEN INDUCED TO ENTER INTO THIS
+AGREEMENT BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION. 
+ 34. Headings .
+Article, Section and Annex headings used herein are for convenience of reference only, are not part of this Agreement and are not to affect the construction of, or to be taken into consideration in interpreting, this Agreement. 
+
+ 35. Conflicts . In the event of any conflict or inconsistency between the provisions of this Agreement and the
+provisions of any Security Instrument, the provisions of this Agreement shall control. 
+ 36. No Liability for
+Clean Up of Hazardous Materials . In the event that the Collateral Agent is required to acquire title to an asset for any reason, or take any managerial action of any kind in regard thereto, in order to carry out any fiduciary or trust
+obligation for the benefit of another, which the Collateral Agent determines (in its sole discretion) may cause the Collateral Agent to be considered an “owner or operator” under any environmental laws or otherwise cause the Collateral
+Agent to incur, or be exposed to, any environmental liability or any liability under any other federal, state or local law, the Collateral Agent reserves the right, instead of taking such action, either to resign as Collateral Agent or to arrange
+for the transfer of the title or control of the asset to a court appointed receiver. The Collateral Agent will not be liable to any Person for any environmental liability or any environmental claims or contribution actions under any federal, state
+or local law, rule or regulation by reason of the Collateral Agent’s actions and conduct as authorized, empowered and directed hereunder or relating to any kind of discharge or release or threatened discharge or release of any hazardous
+materials into the environment. 
+ 37. Delay and Waiver . No failure to exercise, no course of dealing with
+respect to the exercise of, and no delay in exercising, any right, power or remedy arising under this Agreement or any of the Security Instruments will impair any such right, power or remedy or operate as a waiver thereof. No single or partial
+exercise of any such right, power or remedy will preclude any other or future exercise thereof or the exercise of any other right, power or remedy. The remedies herein are cumulative and are not exclusive of any remedies provided by law. 
+
+ 38. Patriot Act . To help the government fight the funding of terrorism and money laundering activities,
+Federal law requires all financial institutions to obtain, verify and record 
+
+ 29 
+
+information that identifies each person who opens an account. For a non-individual person such as a business entity, a charity, a trust or other legal
+entity the Collateral Agent will ask for documentation to verify its formation and existence as a legal entity. The Collateral Agent may also ask to see financial statements, licenses, identification and authorization documents from individuals
+claiming authority to represent the entity or other relevant documentation. 
+ 40. Counterparts . This
+Agreement may be executed in any number of counterparts (including by facsimile or electronic mail), each of which when so executed and delivered will be deemed an original, but all such counterparts together will constitute but one and the same
+instrument. 
+ 41. Master Assignment . Each of the Creditors hereby (a) ratifies the appointment of
+Wilmington Trust as “Mortgagee,” “Secured Party” or “Grantee”, as applicable, under each of the Mortgages, and as “Administrative Agent,” the “Collateral Agent,” and a “Secured Party” under
+the Security Instruments and in any other equivalent capacity under each other Security Instrument (with terms defined in this clause (a) having the meanings provided in the Master Assignment), (b) acknowledges and agrees to the terms and
+provisions of the Master Assignment (including the collateral release and assignment provisions set forth in Section 14 of the Master Assignment) and (c) authorizes and directs the Collateral Agent to provide the release set forth in
+Section 14(b) of the Master Assignment. 
+ ( Signatures appear on following pages ) 
+
+ 30 
+
+ IN WITNESS WHEREOF, the parties have executed this Intercreditor Agreement as of the date first
+hereinabove written. 
+
+ MORGAN STANLEY CAPITAL GROUP, INC.: 
+
+ By: 
+
+ /s/ Parker Corbin
+
+ Name: 
+
+ Parker Corbin 
+
+ Title: 
+
+ Vice President 
+
+ SIGNATURE PAGE TO SWAP
+INTERCREDITOR AGREEMENT 
+
+ IN WITNESS WHEREOF, the parties have executed this Intercreditor Agreement as of the date first
+hereinabove written. 
+
+ NEXTERA ENERGY MARKETING, LLC: 
+
+ By: 
+
+ /s/ Lawrence Silverstein
+
+ Name: 
+
+ Lawrence Silverstein 
+
+ Title: 
+
+ Senior Vice President and Managing Director 
+
+ SIGNATURE PAGE TO SWAP
+INTERCREDITOR AGREEMENT 
+
+ IN WITNESS WHEREOF, the parties have executed this Intercreditor Agreement as of the date first
+hereinabove written. 
+
+ CARGILL, INCORPORATED: 
+
+ By: 
+
+ /s/ Tyler R. Smith
+
+ Name: 
+
+ Tyler R. Smith 
+
+ Title: 
+
+ Authorized Signer 
+
+ SIGNATURE PAGE TO SWAP
+INTERCREDITOR AGREEMENT 
+
+ IN WITNESS WHEREOF, the parties have executed this Intercreditor Agreement as of the date first
+hereinabove written. 
+
+ KOCH SUPPLY & TRADING, LP: 
+
+ By: 
+
+ /s/ Roger Lindell
+
+ Name: 
+
+ Roger Lindell 
+
+ Title: 
+
+ Vice President 
+
+ SIGNATURE PAGE TO SWAP
+INTERCREDITOR AGREEMENT 
+
+ IN WITNESS WHEREOF, the parties have executed this Intercreditor Agreement as of the date first
+hereinabove written. 
+
+ ADMINISTRATIVE AGENT: 
+
+ WILMINGTON TRUST, NATIONAL ASSOCIATION, as Administrative Agent 
+
+ By: 
+
+ /s/ Jennifer Anderson
+
+ Name: 
+
+ Jennifer Anderson 
+
+ Title: 
+
+ Assistant Vice President 
+
+ COLLATERAL AGENT: 
+
+ WILMINGTON TRUST, NATIONAL ASSOCIATION, as Collateral Agent 
+
+ By: 
+
+ /s/ Jennifer Anderson
+
+ Name: 
+
+ Jennifer Anderson 
+
+ Title: 
+
+ Assistant Vice President 
+
+ SIGNATURE PAGE TO SWAP
+INTERCREDITOR AGREEMENT 
+
+ IN WITNESS WHEREOF, the parties have executed this Intercreditor Agreement as of the date first
+hereinabove written. 
+
+ BORROWER: 
+
+ GASTAR EXPLORATION INC. 
+
+ By: 
+
+ /s/ J. Russell Porter
+
+ Name: 
+
+ J. Russell Porter 
+
+ Title: 
+
+ President and Chief Executive Officer 
+
+ SIGNATURE PAGE TO SWAP
+INTERCREDITOR AGREEMENT 
+
+ IN WITNESS WHEREOF, the parties have executed this Intercreditor Agreement as of the date first
+hereinabove written. 
+
+ GUARANTORS: 
+
+ NORTHWEST PROPERTY VENTURES LLC 
+
+ By: 
+
+ /s/ Michael A. Gerlich
+
+ Name: 
+
+ Michael A. Gerlich 
+
+ Title: 
+
+ Senior Vice President and Chief Financial Officer 
+
+ SIGNATURE PAGE TO SWAP
+INTERCREDITOR AGREEMENT 
+
+Exhibit A 
+ JOINDER SUPPLEMENT 
+
+ This Joinder Supplement (this “ Supplement ”), dated as of
+ , is executed by
+ (“ New Swap Counterparty ”), Gastar Exploration Inc. (“ Borrower ”), and Wilmington Trust,
+National Association, as Collateral Agent (in such capacity, together with its successors and assigns in such capacity, “ Collateral Agent ”). 
+
+ All capitalized terms used herein but not defined herein shall have the meanings set forth in the Agreement (as defined below). 
+
+ W I T N E S S E T H: 
+ WHEREAS,
+the Loan Parties, Collateral Agent, Wilmington Trust, National Association, as administrative agent for the Lenders and [ ] have heretofore executed and delivered to Collateral
+Agent that certain Intercreditor Agreement dated as of March 3, 2017 (as from time to time amended, modified, supplemented or restated, the “ Agreement ”), providing for, among other matters, the relative rights and obligations
+and apportionment of certain collections among Creditors (as defined therein), and the exercise of certain remedies under the Security Instruments (as defined therein); 
+
+ WHEREAS, the Agreement provides that one or more additional Persons may become Swap Counterparties thereunder if each such Person is
+acceptable to the Majority Lenders as a “Qualified Counterparty” under the Credit Agreement and executes and delivers a Joinder Supplement as provided in the Agreement; and 
+
+ WHEREAS, New Swap Counterparty desires to become a Swap Counterparty under the Agreement. 
+
+ NOW THEREFORE, in consideration of the foregoing and for other good and valuable consideration, the receipt and sufficiency of which are
+hereby acknowledged, New Swap Counterparty, Collateral Agent and Borrower hereby agree as follows: 
+
+ 1. Recognition . New Swap Counterparty hereby represents and warrants that it is acceptable to the Majority
+Lenders as a “Qualified Counterparty” under the Credit Agreement as evidenced by their written consent. 
+
+ 2. Agreement to be Bound . New Swap Counterparty hereby (i) agrees to be bound by all of the terms and
+provisions of the Agreement as a Swap Counterparty thereunder and (ii) and agrees to perform and observe as a Swap Counterparty each of the covenants, agreements, terms, conditions, obligations, duties, promises and liabilities applicable to a
+“Swap Counterparty” under the Agreement (including, without limitation, those set forth in Section 19 of the Agreement) as if it were an original signatory thereto. New Swap Counterparty acknowledges and agrees that the terms of the
+Agreement shall control over the terms of the Principal Agreements to which New Swap Counterparty is a party, to the extent any conflict exists between the Agreement and such Principal Agreements. 
+
+ SIGNATURE PAGE TO SWAP
+INTERCREDITOR AGREEMENT 
+
+ 3. Ratification of Agreement; Joinder Supplement Part of Agreement .
+This Joinder Supplement shall form a part of the Agreement for all purposes. Except as expressly supplemented hereby, the Agreement is in all respects ratified and confirmed and all the terms, conditions and provisions thereof shall remain in full
+force and effect. 
+ 4. Collateral Agent Makes No Representation . Collateral Agent makes no representation as
+to the validity or sufficiency of the Security Instruments, and New Swap Counterparty acknowledges, consents to, and accepts the disclaimers by, and limitations on the liability of, Collateral Agent that are provided in the Agreement. 
+
+ 5. Representations and Warranties of New Swap Counterparty . New Swap Counterparty represents and warrants to the
+other Creditors that: 
+ (a) neither the execution and delivery of this Supplement or the Agreement nor its
+performance of or compliance with the terms and provisions hereof or thereof will conflict with, or result in a breach of the terms, conditions or provisions of, or constitute a default under, any other agreement to which it is now subject; 
+
+ (b) it has all requisite authority to execute, deliver and perform its obligations under this Supplement and the
+Agreement; and 
+ (c) each of this Supplement and the Agreement constitutes its legal, valid, and binding obligation,
+enforceable against it in accordance with its terms, subject only to applicable bankruptcy, insolvency or similar laws and general principles of equity. 
+
+ 6. Counterparts . The parties may sign any number of copies of this Joinder Supplement, and different parties may
+sign on different signature pages. Each signed copy shall be an original, but all of them together shall represent the same supplemental agreement. 
+
+ 7. Address for Notices . All notices and other communications given to New Swap Counterparty under the Agreement
+may be given at its address or telecopier number as follows: 
+ [New Swap Counterparty] 
+
+ [Address] 
+
+ Attention: 
+
+ Telecopier No.: 
+
+ [ remainder of page left blank ] 
+
+ SIGNATURE PAGE TO SWAP
+INTERCREDITOR AGREEMENT 
+
+ IN WITNESS WHEREOF, the parties hereto have caused this Joinder Supplement to be duly executed as
+of the date first above written. 
+
+ NEW SWAP COUNTERPARTY: 
+
+ [ 
+ ] 
+
+ By: 
+
+ Name: 
+
+ Title: 
+
+ BORROWER: 
+
+ GASTAR EXPLORATION INC. 
+
+ By: 
+
+ Name: 
+
+ Title: 
+
+ COLLATERAL AGENT: 
+
+ WILMINGTON TRUST, NATIONAL ASSOCIATION, as Collateral Agent 
+
+ By: 
+
+ Name: 
+
+ Title: 
+
+ Schedule 1 
+
+ Listing of Certain Security Instruments 
+
+ Third Amended and Restated Pledge and Security Agreement, dated as of March 3, 2017, by and among Gastar Exploration Inc., certain of its subsidiaries
+party thereto and Wilmington Trust, National Association, as collateral agent. 
+ Amended and Restated First Lien Mortgage, Security Agreement, Fixture
+Filing, Financing Statement and Assignment of Production, dated as of March 3, 2017, executed and delivered by Gastar Exploration Inc., as mortgagor, to Wilmington Trust, National Association, as mortgagee. 
+
+ Amended and Restated First Lien Wellbore Mortgage, Security Agreement, Fixture Filing, Financing Statement and Assignment of Production, dated as of
+March 3, 2017, executed and delivered by Gastar Exploration Inc., as mortgagor, to Wilmington Trust, National Association, as mortgagee. 
+ Master
+Reaffirmation and Assignment and Assumption of Liens and Security Interests, dated as of March 3, 2017, by and among Gastar Exploration Inc., Wells Fargo Bank National Association, as resigning agent, Wilmington Trust, National Association, as
+successor administrative agent, and Ares Management, LLC. 
+ Assignment and Assumption of Deposit Account and Sweep Investment Control Agreement, dated as
+of March 3, 2017, by and among Wells Fargo Bank, National Association, as resigning first lien agent, Wilmington Trust, National Association, as resigning second lien trustee and collateral agent, Wilmington Trust, National Association, as
+successor first lien agent and successor second lien agent. 
+ Assignment and Assumption of Securities Account Control Agreement, dated as of March 3,
+2017, by and among Wells Fargo Bank, National Association, as resigning first lien agent, Wilmington Trust, National Association, as resigning second lien trustee and collateral agent, Wilmington Trust, National Association, as successor first lien
+agent and successor second lien trustee and collateral agent. 
+
+ S1-1

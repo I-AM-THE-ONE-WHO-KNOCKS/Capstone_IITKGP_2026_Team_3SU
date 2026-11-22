@@ -1,0 +1,1144 @@
+EX-99.6
+ 10
+ file10.htm
+ SCHEDULE TO THE ISDA MASTER AGREEMENT
+
+ EXHIBIT 99.6
+
+ EXECUTION VERSION
+
+ SCHEDULE
+
+ to the
+
+ MASTER AGREEMENT
+ (Multicurrency-Cross Border)
+
+ dated as of August 23, 2007
+
+ between
+
+ BANK OF AMERICA, N.A.
+ a national banking association organized
+ under the laws of the United States
+
+ ("PARTY A")
+
+ and
+
+ HONDA AUTO RECEIVABLES 2007-3 OWNER TRUST,
+ a statutory trust organized under the laws of Delaware
+
+ ("PARTY B")
+
+ EXECUTION VERSION
+
+ DEFINITIONS
+
+ The 2000 ISDA Definitions (the "DEFINITIONS") are incorporated into this
+Agreement and shall form part of this Agreement. In the event of any
+inconsistency among or between any of the following documents, the relevant
+document first listed below shall govern: (i) a Confirmation and any relevant
+definitions incorporated in such Confirmation; (ii) this Schedule and any
+relevant definitions incorporated in this Schedule; (iii) Sections 1 to 14 of
+this Agreement; and (iv) the Definitions.
+
+ Capitalized terms used herein but not defined in this Agreement or the
+Definitions shall have the meanings specified or incorporated in that certain
+Indenture, dated as of August 1, 2007, between Party B, as Issuer, and The Bank
+of New York, as Indenture Trustee (the "INDENTURE").
+
+ For the avoidance of doubt, references herein to a particular "Section" of
+this Agreement are references to the corresponding sections of the Master
+Agreement.
+
+PART 1. TERMINATION PROVISIONS
+
+In this Agreement:
+
+ (a) "SPECIFIED ENTITY" means in relation to Party A for the purpose of:
+
+ Section 5(a)(v), Not Applicable
+ Section 5(a)(vi), Not Applicable
+ Section 5(a)(vii), Not Applicable
+ Section 5(b)(iv), Not Applicable
+
+ in relation to Party B for the purpose of:
+
+ Section 5(a)(v), Not Applicable
+ Section 5(a)(vi), Not Applicable
+ Section 5(a)(vii), Not Applicable
+ Section 5(b)(iv), Not Applicable
+
+ (b) "SPECIFIED TRANSACTION" will have the meaning specified in Section 14
+of this Agreement.
+
+ (c) Application of Events of Default. The provisions of Section 5(a) of
+this Agreement will apply to Party A and Party B as follows:
+
+ SECTION 5(A) PARTY A PARTY B
+ --------------------------- --------------------------------- --------------------------
+
+(i) "Failure to Pay or Deliver" Applicable (except as provided Applicable.
+ below in Part 1(d)(ii)).
+
+(ii) "Breach of Agreement" Applicable. Not Applicable.
+
+(iii) "Credit Support Default" Applicable (except as Applicable (but only to
+ provided below in Part 1(d)(ii)). the extent described below
+ in Part 1(d)(i)).
+
+(iv) "Misrepresentation" Applicable. Not Applicable.
+
+(v) "Default Under Specified Applicable. Not Applicable.
+ Transaction"
+
+(vi) "Cross-Default" Applicable. Not Applicable.
+
+(vii) "Bankruptcy" Applicable. Applicable (but only to
+ the extent described below
+ in Part 1(f)).
+
+(viii) "Merger Without Assumption" Applicable. Applicable.
+
+ (d) (i) Section 5(a)(iii)(1) will apply to Party B in respect of Party B's
+obligations under Paragraphs 3(b) and 8(d) of that certain Credit Support Annex,
+dated as of the date hereof, attached hereto and made a part hereof between
+Party A and Party B (as from time to time amended, supplemented or replaced, the
+"CREDIT SUPPORT ANNEX").
+
+ (ii) Notwithstanding Sections 5(a)(i) and 5(a)(iii), any failure by
+ Party A to comply with or perform any obligation to be complied with or
+ performed by Party A under the Credit Support Annex shall not be an Event
+ of Default unless (A)(i) a Moody's Second Trigger Event has occurred and
+ has continued for at least 30 Local Business Days, (ii) such failure does
+ not consist solely of a failure by Party A to satisfy the S&P
+ Collateralization Requirements, and (iii) such failure is not remedied on
+ or before the third Local Business Day after notice of such failure is
+ given to Party A, or (B)(i) a Substitution Event has occurred and continued
+ for at least 60 calendar days, (ii) such failure does not consist solely of
+ a failure by Party B to satisfy the Moody's Collateralization Requirements,
+ and (iii) such failure is not remedied on or before the third Local
+ Business Day after notice of such failure is given to Party A.
+
+ (e) With respect to Section 5(a)(vi):
+
+ "SPECIFIED INDEBTEDNESS" will have the meaning specified in Section 14,
+ provided that Specified Indebtedness shall not include deposits received in
+ the course of a party's ordinary banking business.
+
+ "THRESHOLD AMOUNT" means, with respect to Party A, 3% of the Shareholders'
+ Equity of the applicable Relevant Entity, provided that if the Relevant
+ Entity is Party A, then "THRESHOLD AMOUNT" means 3% of the Shareholders'
+ Equity of Bank of America Corporation.
+
+ "SHAREHOLDERS' EQUITY" means with respect to an entity, at any time, (1) if
+ the Relevant Entity is a national banking association, the "Total Equity
+ Capital" of the Relevant Entity (as shown in the most recently filed FFIEC
+ Consolidated Report of Condition for Insured Commercial and State-Chartered
+ Savings Banks ("Call Report") Schedule RC- Balance Sheet of such entity) or
+ (2) for any other entity, the sum (as shown in the most recent annual
+ audited financial statements of such entity) of (i) its capital stock
+ (including preferred stock) outstanding, taken at par value, (ii) its
+ capital surplus and (iii) its retained earnings, minus (iv) treasury stock,
+ each to be determined in accordance with generally accepted accounting
+ principles.
+
+ (f) With respect to Party B only (and the related Confirmations only), the
+provisions of Section 5(a)(vii) clauses (2), (7) and (9) will not be applicable
+as an Event of Default; clause (3) will not apply to Party B to the extent it
+refers to any assignment, arrangement or composition that is effected by or
+pursuant to the Transaction Documents; clause (4) will not apply to Party B to
+the extent that it refers to proceedings or petitions instituted or presented by
+Party A or any of its Affiliates; clause (6) will not apply to Party B to the
+extent that it refers to (i) any appointment that is contemplated or effected by
+the Transaction Documents or (ii) any appointment that Party B has not become
+subject to; and clause (8) will not apply to Party B to the extent that it
+applies to Section 5(a)(vii)(2), (3), (4), (6) and (7) except to the extent that
+such provisions are not disapplied with respect to Party B.
+
+ -3-
+
+ (g) APPLICATION OF TERMINATION EVENTS. The provisions of Section 5(b) of
+this Agreement will apply to Party A and Party B as follows:
+
+ SECTION 5(B) PARTY A PARTY B
+ --------------------------- ---------------- ---------------
+(i) "Illegality" Applicable. Applicable.
+(ii) "Tax Event" Applicable. Applicable.
+(iii) "Tax Event Upon Merger" Applicable. Applicable.
+(iv) "Credit Event Upon Merger" Not Applicable. Not Applicable.
+
+ (h) Section 5(b)(ii) will apply, provided that the words "(x) any action
+taken by a taxing authority, or brought in a court of competent jurisdiction, on
+or after the date on which a Transaction is entered into (regardless of whether
+such action is taken or brought with respect to a party to this Agreement) or
+(y)" shall be deleted.
+
+ (i) Notwithstanding Section 5(b)(iii), Party A shall not be entitled to
+designate an Early Termination Date by reason of a Tax Event Upon Merger in
+respect of which it is the Affected Party.
+
+ (j) The "AUTOMATIC EARLY TERMINATION" provision of Section 6(a) will not
+apply to either Party A or to Party B.
+
+ (k) PAYMENTS ON EARLY TERMINATION. For the purpose of Section 6(e) of this
+Agreement:
+
+ Market Quotation will apply and the Second Method will apply; provided,
+ however, if an Early Termination Date is designated in respect of (A) an
+ Event of Default with respect to which Party A is a Defaulting Party or (B)
+ an Additional Termination Event with respect to which Party A is the sole
+ Affected Party, notwithstanding Section 6 of this Agreement, the following
+ amendment to the Agreement set forth in paragraphs (i) to (vii) below shall
+ apply:
+
+ (i) The definition of "Market Quotation" shall be deleted in its
+ entirety and replaced with the following:
+
+ "MARKET QUOTATION" means, with respect to one or more Terminated
+ Transactions, a Firm Offer which is (1) made by an Eligible Replacement,
+ (2) for an amount that would be paid to Party B (expressed as a negative
+ number) or by Party B (expressed as a positive number) in consideration of
+ an agreement between Party B and such Eligible Replacement to enter into a
+ transaction (the "REPLACEMENT TRANSACTION") that would have the effect of
+ preserving for Party B the economic equivalent of any payment or delivery
+ (whether the underlying obligation was absolute or contingent and assuming
+ the satisfaction of each applicable condition precedent) by the parties
+ under Section 2(a)(i) in respect of such Terminated Transaction or group of
+ Terminated Transactions that would, but for the occurrence of the relevant
+ Early Termination Date, have been required after that date, (3) made on the
+ basis that Unpaid Amounts in respect of the Terminated Transaction or group
+ of Terminated Transactions are to be excluded but, without limitation, any
+ payment or delivery that would, but for the relevant Early Termination
+ Date, have been required (assuming satisfaction of each applicable
+ condition precedent) after that Early Termination Date is to be included
+ and (4) made in respect of a Replacement Transaction with terms
+ substantially the same as those of this Agreement (save for the exclusion
+ of provisions relating to Transactions that are not Terminated
+ Transactions).
+
+ (ii) The definition of "Settlement Amount" shall be deleted in its
+ entirety and replaced with the following:
+
+ -4-
+
+ "SETTLEMENT AMOUNT" means, with respect to any Early Termination Date, an
+ amount (as determined by Party B) equal to the Termination Currency
+ Equivalent of the amount (whether positive or negative) of any Market
+ Quotation for the relevant Terminated Transaction or group of Terminated
+ Transactions that is accepted by Party B so as to become legally binding,
+ provided that:
+
+ (A) If, on or before the day falling ten Local Business Days
+ after the day on which the Early Termination Date is designated
+ (or such later day as Party B may specify in writing to Party A)
+ but in either case no later than the Early Termination Date (such
+ day, the "LATEST SETTLEMENT AMOUNT DETERMINATION DAY"), no Market
+ Quotation for the relevant Terminated Transaction or group of
+ Terminated Transactions has been accepted by Party B so as to
+ become legally binding and one or more Market Quotations have
+ been made and remain capable of becoming legally binding upon
+ acceptance, the Settlement Amount shall equal the Termination
+ Currency Equivalent of the amount (whether positive or negative)
+ of the lowest of such Market Quotations (for the avoidance of
+ doubt, (i) a Market Quotation expressed as a negative number is
+ lower than a Market Quotation expressed as a positive number, and
+ (ii) the lower of two Market Quotations expressed as negative
+ numbers is the one with the larger absolute value); and
+
+ (B) If, on the Latest Settlement Amount Determination Day, no
+ Market Quotation for the relevant Terminated Transaction or group
+ of Terminated Transactions is accepted by Party B so as to become
+ legally binding on or before the Latest Settlement Amount
+ Determination Day, and no Market Quotations have been made and
+ remain capable of becoming legally binding upon acceptance, the
+ Settlement Amount shall equal Party B's Loss (whether positive or
+ negative and without reference to any Unpaid Amounts) for the
+ relevant Terminated Transaction or group of Terminated
+ Transactions.
+
+ (iii) For the purpose of clause (4) of the definition of Market
+ Quotation, Party B shall determine in its sole discretion, acting in a
+ commercially reasonable manner, whether a Firm Offer is made in respect of
+ a Replacement Transaction with terms substantially the same as those of
+ this Agreement (save for the exclusion of provisions relating to
+ Transactions that are not Terminated Transactions).
+
+ (iv) At any time on or before the Latest Settlement Amount
+ Determination Day at which two or more Market Quotations remain capable of
+ becoming legally binding upon acceptance, Party B shall be entitled to
+ accept only the lowest of such Market Quotations (for the avoidance of
+ doubt, (i) a Market Quotation expressed as a negative number is lower than
+ a Market Quotation expressed as a positive number, and (ii) the lower of
+ two Market Quotations expressed as negative numbers is the one with the
+ larger absolute value).
+
+ (v) Party B will be deemed to have discharged its obligations to
+ obtain Market Quotations above if it requests Party A to obtain Market
+ Quotations, where such request is made in writing within two Local Business
+ Days after the day on which the Early Termination Date is designated.
+
+ (vi) If Party B requests Party A in writing to obtain Market
+ Quotations, Party A shall use its reasonable efforts to do so before the
+ Latest Settlement Amount Determination Day.
+
+ -5-
+
+ (vii) If the Settlement Amount is a negative number, Section
+ 6(e)(i)(3) of this Agreement shall be deleted in its entirety and replaced
+ with the following:
+
+ "SECOND METHOD AND MARKET QUOTATION. If Second Method and Market Quotation
+ apply, (1) Party B shall pay to Party A an amount equal to the absolute
+ value of the Settlement Amount in respect of the Terminated Transactions,
+ (2) Party B shall pay to Party A the Termination Currency Equivalent of the
+ Unpaid Amounts owing to Party A and (3) Party A shall pay to Party B the
+ Termination Currency Equivalent of the Unpaid Amounts owing to Party B;
+ provided that, (i) the amounts payable under (2) and (3) shall be subject
+ to netting in accordance with Section 2(c) of this Agreement and (ii)
+ notwithstanding any other provision of this Agreement, any amount payable
+ by Party A under (3) shall not be netted-off against any amount payable by
+ Party B under (1)."
+
+ (l) "TERMINATION CURRENCY" means United States Dollars.
+
+ (m) ADDITIONAL TERMINATION EVENT will apply. Each of the following events
+ shall constitute an Additional Termination Event hereunder:
+
+ (i) An amendment and/or supplement to any Transaction Document is made
+ without the prior written consent of Party A if such consent is required
+ under one or more of the Transaction Documents and such amendment and/or
+ supplement would materially and adversely affect Party A. For purposes of
+ Section 6 of this Agreement, Party B shall be the sole Affected Party.
+
+ (ii) Any early redemption or prepayment of the Notes, acceleration of
+ the Notes and/or liquidation of Collateral in accordance with the Indenture
+ following an Event of Default thereunder, or upon the redemption or
+ prepayment of the Notes for any other reason. For purposes of Section 6 of
+ this Agreement, Party B shall be the sole Affected Party, and the Early
+ Termination Date shall occur not earlier than the third Local Business Day
+ prior to the applicable redemption or prepayment date.
+
+ (iii) Following an S&P Collateralization Event, the Relevant Entity
+ shall fail to take action that satisfies Part 5(l)(A) hereof (provided that
+ the occurrence of any such Additional Termination Event shall have no
+ effect on Party A's duty to perform its obligations hereunder prior to
+ actual termination of this Agreement), in which event Party A shall be the
+ sole Affected Party.
+
+ (iv) Following an S&P Substitution Event, the Relevant Entity shall
+ fail to take action that satisfies Part 5(l)(B) hereof within the time
+ period specified in Part 5(l)(B) (provided that the occurrence of any such
+ Additional Termination Event shall have no effect on Party A's duty to
+ perform its obligations hereunder prior to actual termination of this
+ Agreement), in which event Party A shall be the sole Affected Party.
+
+ (v) Party A fails to comply with or perform any obligation to be
+ complied with or performed by Party A in accordance with the Credit Support
+ Annex and either (x) the Moody's Second Trigger Event has not occurred or
+ (y) the Moody's Second Trigger Event has occurred but has been continuing
+ for less than 30 Local Business Days. For purposes of Section 6 of this
+ Agreement, Party A shall be the sole Affected Party.
+
+ (vi) A Moody's Second Trigger Event has occurred and has been
+ continuing for at least 30 Local Business Days, and (i) at least one
+ Eligible Replacement has made a Firm Offer to
+
+ -6-
+
+ be the Transferee under Part 5(k)(ii) below (but only if such Firm Offer
+ then remains capable of becoming legally binding upon acceptance) and/or
+ (ii) at least one Eligible Replacement has made a Firm Offer that would,
+ assuming the occurrence of an Early Termination Date, qualify as a Market
+ Quotation (on the basis that paragraphs (i) and (ii) in Part 1(k) above
+ apply) and that remains capable of becoming legally binding upon
+ acceptance. For purposes of Section 6 of this Agreement, Party A shall be
+ the sole Affected Party.
+
+ (n) Party A shall be responsible for any costs reasonably incurred by Party
+B in connection with any assignment of this Agreement made by Party A by reason
+of any S&P Collateralization Event, S&P Substitution Event, Moody's First
+Trigger Event or Moody's Second Trigger Event having occurred.
+
+PART 2. TAX REPRESENTATIONS.
+
+ (a) PAYER TAX REPRESENTATIONS. For the purpose of Section 3(e) of this
+Agreement, Party A and Party B make the following representation:
+
+ It is not required by any applicable law, as modified by the practice of
+ any relevant governmental revenue authority, of any Relevant Jurisdiction
+ to make any deduction or withholding for or on account of any Tax from any
+ payment (other than interest under Section 2(e), 6(d)(ii), or 6(e) of this
+ Agreement) to be made by it to the other party under this Agreement. In
+ making this representation, it may rely on (i) the accuracy of any
+ representations made by the other party pursuant to Section 3(f) of this
+ Agreement, (ii) the satisfaction of the agreement contained in Section
+ 4(a)(i) or 4(a)(iii) of this Agreement, and the accuracy and effectiveness
+ of any document provided by the other party pursuant to Section 4(a)(i) or
+ 4(a)(iii) of this Agreement, and (iii) the satisfaction of the agreement of
+ the other party contained in Section 4(d) of this Agreement; provided that
+ it shall not be a breach of this representation where reliance is placed on
+ clause (ii) and the other party does not deliver a form or document under
+ Section 4(a)(iii) by reason of material prejudice to its legal or
+ commercial position.
+
+ (b) PAYEE TAX REPRESENTATIONS. For the purposes of Section 3(f) of this
+Agreement, Party A and Party B make the following representations:
+
+ (A) The following representation applies to Party A: Party A is a
+ national banking association organized under the laws of the United States.
+
+ (B) The following representation applies to Party B: Party B is a
+ trust organized under the laws of Delaware, is a U.S. trust (as such termi
+ s used in U.S. Treasury Regulations Section 1.441-5(b)) and its taxpayer
+ identification number is 74-6555933.
+
+PART 3. AGREEMENT TO DELIVER DOCUMENTS.
+
+For the purpose of Section 4(a)(i) and (ii) of this Agreement, each Party agrees
+to deliver the following documents as applicable:
+
+ (a) Tax forms, documents or certificates to be delivered are:
+
+ Party B agrees to complete, execute, and deliver to Party A a valid United
+ States Internal Revenue Service Form W-9, or any successor to such form,
+ and any required attachments thereto (i) upon execution and delivery of
+ this Agreement, (ii) promptly upon reasonable demand by Party A, and (iii)
+ promptly upon learning that any such form(s) previously provided by Party B
+ has become obsolete or is incorrect.
+
+ -7-
+
+ (b) Other documents to be delivered are:
+
+ COVERED BY
+PARTY REQUIRED TO DATE BY WHICH SECTION 3(D)
+ DELIVER DOCUMENT FORM/DOCUMENT/CERTIFICATE TO BE DELIVERED REPRESENTATION
+----------------- ------------------------------------------ ------------------------------------- --------------
+
+Party A/Party B Credit Support Document, if any, Upon execution and delivery of Yes.
+ specified in Part 4 hereof, such this Agreement Credit
+ Support Document being duly executed
+ if required.
+
+ Party A Incumbency certificate or other documents On the Closing Date Yes
+ evidencing the authority of the persons
+ executing this Agreement and the related
+ Confirmations on Party A's behalf.
+
+ Party B Monthly statement setting forth the To be made available to Party A Yes
+ information specified in Section 4.10 of on the 15th day of each month.
+ the Sale and Servicing Agreement.
+
+ Party B Each of (i) a copy of the Indenture and On the Closing Date Yes
+ the other Transaction Documents, executed
+ and delivered by the parties thereto and
+ (ii) an incumbency certificate or other
+ documents evidencing the authority of the
+ persons executing this Agreement and the
+ related Confirmations on Party B's behalf.
+
+ Party A/Party B Each of an (i) opinion of counsel to Party On the Closing Date No
+ A (which may include in-house counsel), in
+ form and substance reasonably satisfactory
+ to Party B and (ii) opinion of counsel to
+ Party B, in form and substance reasonably
+ satisfactory to Party A.
+
+ Party A/Party B Certified copies of all corporate, Upon execution and delivery of Yes
+ partnership or membership authorizations, this Agreement
+ as the case may be, and any other
+ documents with respect to the execution,
+ delivery and performance of this Agreement
+ and any Credit Support Document.
+
+ -8-
+
+ Party A FFIEC Consolidated Report of To be made available on Yes
+ Condition for Insured Commercial and http://www2.fdic.gov/Call_
+ State-Chartered Savings Banks TFR_Rpts after the end of each fiscal
+ ("Call Report") of Bank of America, N.A. quarter of Bank of America, N.A.
+
+PART 4. MISCELLANEOUS.
+
+ (a) Addresses for Notices: For the purpose of Section 12(a) of this
+Agreement: Address for notices or communications to Party A:
+
+ Bank of America, N.A.
+ Sears Tower
+ 233 South Wacker Drive, Suite 2800
+ Chicago, IL 60606
+ Attention: Swap Operations
+ Telephone No.: 312-234-2732
+ Facsimile No.: 866-255-1444
+
+ with a copy to:
+
+ Bank of America, N.A.
+ 100 N. Tryon St., NC1-007-13-01
+ Charlotte, North Carolina 28255
+ Attention: Global Markets Trading Agreements
+ Facsimile No.: 704-386-4113
+
+ Address for financial statements to Party A:
+
+ Bank of America, N.A.
+ Mail Code: NY1-301-29-02
+ 9 West 57th Street, 29th Floor
+ New York, New York 10019
+ Attention: CAPMKTSCRRSK/CR STRUCTURED FINANCE
+
+ Address for notices or communications to Party B (for all purposes):
+
+ American Honda Finance Corporation
+ 20800 Madronna Avenue
+ Torrance, CA 90503
+ Attention: Treasury Manager
+ Facsimile No.: 310-972-2482
+ Telephone No.: 310-972-2479
+
+ With a copy to Standard & Poor's:
+
+ Address: Standard & Poor's, A Division of The McGraw-Hill
+ Companies, Inc.
+ 55 Water Street, 42nd Floor
+ New York, New York 10041
+
+ -9-
+
+ Facsimile No.: (212) 438-2655
+ Attention: Structured Finance Ratings, Asset-Backed Surveillance
+ Group
+ Email: mark_risi@standardandpoors.com
+
+ With a copy to the Indenture Trustee:
+
+ Address: The Bank of New York
+ 101 Barclay Street, Floor 8 West
+ New York, New York 10286
+ Attn: Honda Auto Receivables 2007-3
+
+ Facsimile No.: 212-815-2493
+
+ (b) PROCESS AGENT. For the purpose of Section 13(c):
+
+ Party A appoints as its Process Agent: Not Applicable.
+
+ Party B appoints as its Process Agent: Not Applicable.
+
+ (c) OFFICES. The provisions of Section 10(a) will apply to this Agreement.
+
+ (d) MULTIBRANCH PARTY. For the purpose of Section 10(c) of this Agreement:
+
+ (i) Party A is a Multibranch Party and may act through its Charlotte,
+ North Carolina, Chicago, Illinois, San Francisco, California, New York, New
+ York, Boston, Massachusetts or London, England Office, or such other Office
+ as may be agreed to by the parties in connection with a Transaction.
+
+ (ii) Party B is not a Multibranch Party.
+
+ (e) CALCULATION AGENT. The Calculation Agent is Party A unless an Event of
+ Default has occurred and is continuing with respect to Party A, in which
+ case a Calculation Agent shall be appointed by Party B in its reasonable
+ discretion.
+
+ (f) CREDIT SUPPORT DOCUMENT. Details of any Credit Support Document:
+
+ Each of the following, as amended, extended, supplemented or otherwise
+ modified in writing from time to time, is a "Credit Support Document":
+
+ Party A: (i) The Credit Support Annex and (ii) any guarantee (including any
+ Eligible Guarantee) of Party A's obligations hereunder procured by Party A
+ in compliance with this Agreement.
+
+ Party B: The Credit Support Annex.
+
+ Party B agrees that the security interests in the collateral granted to the
+ Indenture Trustee under the Indenture shall secure the obligations of Party
+ B to Party A under this Agreement.
+
+ (g) CREDIT SUPPORT PROVIDER.
+
+ -10-
+
+ Credit Support Provider means in relation to Party A, (1) Party A in its
+ capacity as the Pledgor under the Credit Support Annex and (2) the
+ guarantor under any guarantee (including any Eligible Guarantee) of Party
+ A's obligations hereunder procured by Party A in compliance with this
+ Agreement.
+
+ Credit Support Provider means in relation to Party B, Not Applicable.
+
+ (h) GOVERNING LAW. This Agreement and any and all controversies arising out
+of or in relation to this Agreement will be governed by and construed in
+accordance with the laws of the State of New York (without reference to its
+conflict of laws doctrine).
+
+ (i) NETTING OF PAYMENTS. Subparagraph (ii) of Section 2(c) of this
+Agreement will apply to all Transactions under the Agreement.
+
+ (j) "AFFILIATE" will have the meaning specified in Section 14 of this
+Agreement.
+
+PART 5. OTHER PROVISIONS.
+
+ (a) REPRESENTATIONS. Section 3(a)(iii) is hereby amended by inserting the
+words "or investment policies, or guidelines, procedures, or restrictions,"
+immediately following the word "documents."
+
+ (b) FINANCIAL STATEMENTS. Section 3(d) is hereby amended by adding in the
+third line thereof after the word "respect" and before the period:
+
+ "or, in the case of financial statements, a fair presentation of the
+ financial condition of the relevant party."
+
+ (c) ADDITIONAL REPRESENTATIONS. Section 3 is hereby amended by adding the
+following additional subsections:
+
+ (g) ELIGIBLE CONTRACT PARTICIPANT. (a) It is an "eligible contract
+ participant" as defined in the Commodity Exchange Act, as amended by
+ the Commodity Futures Modernization Act of 2000, (b) the Agreement and
+ each Transaction is subject to individual negotiation by each party
+ and (c) neither this Agreement nor any Transaction will be executed or
+ traded on a "trading facility" within the meaning of Section 1a(33) of
+ the Commodity Exchange Act, as amended.
+
+ (h) LINE OF BUSINESS. It has entered into this Agreement (including
+ each Transaction evidenced hereby) in conjunction with its line of
+ business (including financial intermediation services) or the
+ financing of its business.
+
+ (i) NO AGENCY. It is entering into this Agreement, any Credit Support
+ Document to which it is a party, each Transaction and any other
+ documentation relating to this Agreement or any Transaction as
+ principal (and not as agent or in any other capacity, fiduciary or
+ otherwise).
+
+ In addition, the parties each represent that:
+
+ NO RELIANCE. Each party represents to the other party (which
+ representation will be deemed to be repeated by each party on each
+ date on which a Transaction is entered into
+
+ -11-
+
+ or amended, extended or otherwise modified) that: (1) it is acting for
+ its own account and has made its own independent decisions to enter
+ into this Agreement and any Transaction hereunder and as to whether
+ this Agreement and any Transaction hereunder is appropriate or proper
+ for it based on its own judgment and upon advice from such advisors as
+ it has deemed necessary; (2) it is not relying on any communication
+ (written or oral) of the other party as investment advice or as a
+ recommendation to enter into this Agreement or any Transaction
+ hereunder, it being understood that information and explanations
+ related to the terms and conditions of this Agreement and any
+ Transaction hereunder shall not be considered investment advice or a
+ recommendation to enter into this Agreement or any Transaction
+ hereunder; (3) no communication (written or oral) received from the
+ other party shall be deemed to be an assurance or guarantee as to the
+ expected results of any Transaction hereunder; and (4) it is capable
+ of evaluating and understanding (on its own behalf or through
+ independent professional advice), and understands and accepts, the
+ terms, conditions and risks of that Transaction; and (5) it is capable
+ of assuming, and assumes, the financial and other risks of that
+ Transaction.
+
+ In addition, Party B represents that:
+
+ ERISA. It is not, does not constitute part of and is not using as a
+ source of funds for any Transaction any assets of (1) an "employee
+ benefit plan" within the meaning of Section 3(3) of the Employee
+ Retirement Income Security Act of 1974, as amended ("ERISA"), subject
+ to Title I of ERISA, (2) a "plan" within the meaning of Section 4975
+ of the Internal Revenue Code of 1986, as amended (the "TAX CODE"),
+ subject to Section 4975 of the Tax Code, or (3) an entity whose
+ underlying assets include plan assets by reason of investment by a
+ plan described in (1) or (2) above in such entity, including but not
+ limited to, an insurance company general account, an insurance company
+ separate account or a collective investment fund, within the meaning
+ of 29 C.F.R. 2510.3-101 as modified by Section 3(42) of ERISA.
+
+ In addition, Party A represents that:
+
+ PARI PASSU: Its obligations under this Agreement rank pari passu with
+ all of its other unsecured, unsubordinated obligations except those
+ obligations preferred by operation of law.
+
+ (d) METHOD OF NOTICE. Section 12(a)(ii) of this Agreement is deleted in its
+entirety.
+
+ (e) SET-OFF.
+
+ (i) All payments under this Agreement shall be made without set-off or
+ counterclaim, except as expressly provided for in Section 2(c) or Paragraph
+ 8 of the Credit Support Annex.
+
+ (ii) Section 6(e) shall be amended by the deletion of the following
+ sentence: "The amount, if any, payable in respect of an Early Termination
+ Date and determined pursuant to this Section will be subject to any
+ Set-off."
+
+ (f) CONSENT TO RECORDING. The parties agree that each party may
+electronically record all telephonic conversations between marketing and trading
+personnel in connection with this Agreement. Each party agrees to obtain any
+necessary consent of, and give any necessary notice of such recording, to, its
+relevant personnel.
+
+ -12-
+
+ (g) WAIVER OF JURY TRIAL. EACH PARTY HEREBY IRREVOCABLY WAIVES ANY AND ALL
+RIGHT TO TRIAL BY JURY WITH RESPECT TO ANY LEGAL PROCEEDING ARISING OUT OF OR
+RELATING TO THIS AGREEMENT, ANY CREDIT SUPPORT DOCUMENT OR ANY TRANSACTION
+CONTEMPLATED HEREBY.
+
+ (h) ADDITIONAL ACKNOWLEDGMENTS AND AGREEMENTS OF THE PARTIES.
+
+ (i) No Amendment without Prior Confirmation by Rating Agencies.
+ Section 9(b) of this Agreement is hereby amended by adding the following at
+ the end of such Section: ", and unless the Indenture Trustee consents and
+ the Rating Agencies confirm that such amendment will not cause the
+ reduction, suspension or withdrawal of the then-current rating of any of
+ the Notes, unless such amendment clarifies any term or provision, corrects
+ any inconsistency, cures any ambiguity, or corrects any typographical error
+ in this Agreement (in which case written copies of such proposed amendment
+ will be provided to the Rating Agencies prior to the effectiveness of such
+ amendment)."
+
+ (ii) Consent by Party A to Amendments to Certain Documents. Before any
+ amendment or supplement is made to the Indenture and/or any other
+ Transaction Document that would adversely affect any of Party A's rights or
+ obligations under this Agreement, the Indenture or such Transaction
+ Document, or impair the ability of Party B to fully perform any of Party
+ B's obligations under this Agreement, the Indenture or such Transaction
+ Document, Party B shall (x) provide Party A with a copy of the proposed
+ amendment or supplement and shall obtain the written consent of Party A
+ (which consent shall not be unreasonably withheld) to such amendment or
+ supplement prior to its adoption, (y) obtain Rating Agency Confirmation (if
+ otherwise required under the Indenture or other applicable Transaction
+ Document), and (z) if applicable, provide to Party A a copy of each such
+ Rating Agency Confirmation promptly after receipt thereof from the relevant
+ Rating Agency. For the avoidance of doubt, any Transaction Document may be
+ amended, supplemented or otherwise modified in accordance with the terms
+ thereof without the consent of Party A to cure any typographical error or
+ ambiguity, provided that such actions shall not adversely affect in any
+ respects the interests of Party A.
+
+ (i) NOTICES TO NOTEHOLDERS. Party B shall provide Party A with copies of
+all notices and reports given to the holders of the Notes, and upon request,
+shall provide Party A with any other notices or reports which could be requested
+by the holders of any Notes.
+
+ (j) TERMS OF INDENTURE. Party B hereby agrees that, during the period
+commencing with the date of this Agreement through and including such date on
+which all of Party B's obligations under this Agreement are fully performed,
+Party B will deliver to Party A at the address for notices to Party A provided
+in Part 4 each notice, document, certificate or other writing that Party B is
+obligated to furnish to any other Person under the Indenture. Party A hereby
+consents to the provisions of the Indenture applicable to it with respect to
+priority of payments and recourse as if Party A were a party thereto. Party B
+hereby agrees that Party A shall be entitled to the benefits of the Indenture to
+the extent set forth therein as if Party A were a party thereto.
+
+ (k) TRANSFERS.
+
+ (i) If a Moody's First Trigger Event has occurred and is continuing,
+ Party A shall at its own cost, within thirty (30) Local Business Days,
+ either (x) post collateral in accordance with the Credit Support Annex, (y)
+ procure an Eligible Guarantee in respect of all of Party A's present and
+ future obligations under this Agreement from a guarantor that has the
+ Moody's Required
+
+ -13-
+
+ Hedge Ratings, or (z) effect a transfer of its rights and obligations under
+ this Agreement to an Eligible Replacement in accordance with Part 5(k)(ii).
+
+ (ii) Either (a) upon the occurrence of a Moody's First Trigger Event,
+ (b) pursuant to the Indemnification and Disclosure Agreement dated August
+ 15, 2007 among American Honda Finance Corporation, American Honda
+ Receivables Corp. and Party A or (c) upon the occurrence of a downgrade
+ event under Part 5(l) and subject to Part 5(v) below and receipt of Rating
+ Agency Confirmation from S&P, Party A may (at its own expense) transfer all
+ or substantially all of its rights and obligations with respect to this
+ Agreement to any other entity (a "TRANSFEREE") that is an Eligible
+ Replacement, provided that Party B shall be entitled to determine in its
+ sole discretion, acting in a commercially reasonable manner, whether or not
+ the transfer relates to all or substantially all of Party A's rights and
+ obligations under this Agreement. Following such transfer, all references
+ to Party A shall be deemed to be references to the Transferee.
+
+ (iii) If an entity has made a Firm Offer (which remains capable of
+ becoming legally binding upon acceptance) to be the transferee of a
+ transfer to be made in accordance with (ii) above, Party B shall (at Party
+ A's expense) at Party A's written request, take any reasonable steps
+ required to be taken by it to effect such transfer.
+
+ (l) DOWNGRADES OF PARTY A.
+
+ (A) S&P COLLATERALIZATION EVENTS. If an S&P Collateralization Event
+ occurs with respect to each Relevant Entity, Party A shall at its sole
+ expense post Eligible Collateral for the benefit of Party B in the
+ amount and on the terms then applicable under the Credit Support
+ Annex. At any time following an S&P Collateralization Event, if Party
+ A elects, Party A may assign its rights and obligations under all
+ Transactions to an Eligible Replacement in accordance with Part
+ 5(k)(ii) above; provided that (A) no termination payments or other
+ settlement amounts are payable by Party B to either Party A or the
+ Transferee at the time of or as a result of such assignment by Party A
+ and (B) any termination payments or other settlement amounts are to be
+ settled directly between Party A and the Transferee. Alternatively,
+ Party A may elect to obtain for the benefit of Party B an Eligible
+ Guarantee of all of Party A's obligations under this Agreement;
+ provided that the guarantor must satisfy the Hedge Counterparty
+ Ratings Requirement. Upon the successful consummation of any
+ assignment to a Transferee or the delivery of an Eligible Guarantee as
+ contemplated in this Part 5(l)(A), any obligation of Party A to post
+ and maintain collateral under the Credit Support Annex shall terminate
+ and Party B shall release its security interest in, and return to
+ Party A, any then-posted collateral (it being understood that until
+ such time, if any, as Party A completes the assignment of its rights
+ and obligations hereunder to an Eligible Replacement or procures an
+ Eligible Guarantee of such obligations, Party A shall remain obligated
+ to post Eligible Collateral to the extent and on the terms required by
+ the Credit Support Annex).
+
+ (B) S&P SUBSTITUTION EVENTS. If an S&P Substitution Event occurs with
+ respect to each Relevant Entity, Party A shall (a) within 10 Local
+ Business Days of the occurrence of such S&P Substitution Event and at
+ its sole expense, post Eligible Collateral for the benefit of Party B
+ in the amount and on the terms then applicable under the Credit
+ Support Annex, and (b) use commercially reasonable efforts to, within
+ 60 calendar days of the occurrence of such S&P Substitution Event,
+ either (1) assign its rights and obligations under all Transactions to
+ an Eligible Replacement in accordance with Part 5(k)(ii) above,
+ provided that (A) no termination payments or other settlement amounts
+ are payable by Party B to either Party A or the Transferee at the time
+ of or as a result of
+
+ -14-
+
+ such assignment by Party A and (B) any termination payments or other
+ settlement amounts are to be settled directly between Party A and the
+ Transferee; or (2) procure an Eligible Guarantee of Party A's
+ obligations hereunder by a guarantor that satisfies the Hedge
+ Counterparty Ratings Requirement and has the Moody's Required Hedge
+ Ratings. Upon the successful consummation of any assignment to a
+ Transferee or the delivery of any Eligible Guarantee as contemplated
+ in this Part 5(l)(B), any obligation of Party A to post and maintain
+ collateral under the Credit Support Annex shall terminate and Party B
+ shall release its security interest in, and return to Party A, any
+ then-posted collateral.
+
+ (C) MOODY'S SECOND TRIGGER EVENTS. If a Moody's Second Trigger Event
+ has occurred and is continuing, Party A shall at its own cost use
+ commercially reasonable efforts to, as soon as reasonably practicable,
+ either (x) procure an Eligible Guarantee in respect of all of Party
+ A's present and future obligations under this Agreement from a
+ guarantor that has the Moody's Required Hedge Ratings, or (y) effect a
+ transfer of its rights and obligations under this Agreement to an
+ Eligible Replacement in accordance with Part 5(k)(ii) above.
+
+ (m) USA PATRIOT ACT NOTICE. Party A hereby notifies Party B that pursuant
+to the requirements of the USA Patriot Act (Title III of Pub. L. 107-56 (signed
+into law October 26, 2001)) (the "ACT"), it is required to obtain, verify and
+record information that identifies Party B, which information includes the name
+and address of Party B and other information that will allow Party A to identify
+Party B in accordance with the Act.
+
+ (n) NON-PETITION. Party A agrees that it will not, prior to at least one
+year and one day (or if longer, the applicable preference period then in effect)
+following the payment in full of all the Notes issued pursuant to the Indenture,
+acquiesce, petition or otherwise invoke or cause Party B to invoke the process
+of any governmental authority for the purpose of commencing or sustaining a case
+(whether voluntary or involuntary) against Party B under any bankruptcy,
+insolvency or similar law or appointing a receiver, liquidator, assignee,
+trustee, custodian, sequestrator or other similar official of Party B or any
+substantial part of its property or ordering the winding-up or liquidation of
+the affairs of Party B; provided that this provision shall not restrict or
+prohibit Party A from joining any other person, including, without limitation,
+the Trustee, or from asserting or exercising its rights, in any bankruptcy,
+reorganization, arrangement, insolvency, moratorium or liquidation proceedings
+commenced by any Person other than Party A or its affiliates or other analogous
+proceedings already commenced under applicable laws. This Part 5(n) shall
+survive any termination of this Agreement.
+
+ (o) LIMITED RECOURSE. Notwithstanding anything to the contrary contained
+herein, the obligations of Party B under this Agreement are limited recourse
+obligations of Party B, payable solely from the Collateral (as such term is
+defined in the Indenture), subject to and in accordance with the terms of the
+Indenture, and, following realization of the Collateral, any claims of Party A
+against Party B shall be extinguished and shall not thereafter revive. None of
+the trustees, officers or administrators of Party B shall be liable for any
+amount due from Party B under this Agreement. It is understood that the
+foregoing provisions shall not (i) prevent recourse to the Collateral for the
+sums due or to become due to Party A under Agreement (subject to the priority of
+payments set forth in the Indenture) or (ii) constitute a waiver, release or
+discharge of any obligation of Party B arising under this Agreement until the
+Collateral has been realized and the proceeds applied in accordance with the
+Indenture, whereupon any outstanding obligation of Party B under this Agreement
+shall be extinguished. Notwithstanding the foregoing (or anything to the
+contrary in this Agreement), Party B shall be liable for its own fraud, willful
+misconduct and/or bad faith. This Part 5(o) shall survive any termination of
+this Agreement.
+
+ -15-
+
+ (p) JURISDICTION. Section 13(b) of this Agreement is hereby amended by: (i)
+deleting the word "non-" in the second line of subparagraph (i) thereof; and
+(ii) adding the words "except as necessary to pursue enforcement of the judgment
+of any such court in other jurisdictions" to the last line of subparagraph (i)
+thereof.
+
+ (r) DELIVERY OF CONFIRMATIONS. For each Transaction entered into hereunder,
+Party A shall promptly send to Party B a Confirmation (which may be via
+facsimile transmission). Party B agrees to respond to such Confirmation within
+two Local Business Days, either confirming agreement thereto or requesting a
+correction of any error(s) contained therein. Failure by Party A to send a
+Confirmation or of Party B to respond within such period shall not affect the
+validity or enforceability of such Transaction. Absent manifest error, there
+shall be a presumption that the terms contained in such Confirmation are the
+terms of the Transaction.
+
+ (s) CERTAIN DEFINITIONS.
+
+ "ELIGIBLE GUARANTEE" means an unconditional and irrevocable guarantee
+ that is satisfactory to S&P (as evidenced by receipt of Rating Agency
+ Confirmation from S&P) and is provided by a guarantor which waives
+ traditional suretyship defenses or which is a monoline insurer under a
+ traditional financial guarantee insurance policy (and in either case
+ does not require the benificary to proceed against the principal
+ obligor prior to a claim for payment) and is directly enforceable by
+ Party B, where either (A) a law firm has given a legal opinion
+ confirming that none of the guarantor's payments to Party B under such
+ guarantee will be subject to withholding for Tax and such opinion has
+ been disclosed to Moody's, (B) such guarantee provides that, in the
+ event that any of such guarantor's payments to Party B are subject to
+ withholding for Tax, such guarantor is required to pay such additional
+ amount as is necessary to ensure that the net amount actually received
+ by Party B (free and clear of any withholding tax) will equal the full
+ amount Party B would have received had no such withholding been
+ required, or (C) in the event that any payment under such guarantee is
+ made net of deduction or withholding for Tax, Party A is required,
+ under Section 2(a)(i), to make such additional payment as is necessary
+ to ensure that the net amount actually received by Party B from the
+ guarantor will equal the full amount Party B would have received had
+ no such deduction or withholding been required.
+
+ "ELIGIBLE REPLACEMENT" means an entity (i) that (A) has the Moody's
+ First Trigger Required Ratings and/or the Moody's Second Trigger
+ Required Ratings and (B) satisfies the Hedge Counterparty Ratings
+ Requirement, or (ii) whose present and future obligations owing to
+ Party B are guaranteed pursuant to an Eligible Guarantee provided by a
+ guarantor that (A) has the Moody's Required Hedge Ratings, and (B)
+ satisfies the Hedge Counterparty Ratings Requirement.
+
+ "FINANCIAL INSTITUTION" means any bank, broker-dealer, insurance
+ company, derivative products company or structured investment vehicle
+ or any other entity that under published S&P hedge counterparty
+ criteria constitutes a "Financial Institution".
+
+ "FIRM OFFER" means an offer which, when made, was capable of becoming
+ legally binding upon acceptance.
+
+ "HEDGE COUNTERPARTY RATINGS REQUIREMENT" is satisfied by a Relevant
+ Entity (i) if such entity is not a "Financial Institution", it has a
+ short-term rating from S&P of at least "A-1" or, if such entity does
+ not have a short-term rating from S&P, a long-term rating
+
+ -16-
+
+ from S&P of at least "A+" or (ii) if such entity is a Financial
+ Institution, it has a short-term rating from S&P of at least "A-2"
+ (or, if such entity does not have a short-term rating from S&P, a
+ long-term rating from S&P of at least "BBB+") (it being understood
+ that any Relevant Entity that is a Financial Institution, and whose
+ short-term rating from S&P is "A-2" or, if it does not have a
+ short-term rating from S&P, whose long-term rating from S&P is "BBB+",
+ "A-" or "A" shall be deemed to be subject to an S&P Collateralization
+ Event).
+
+ "MOODY'S COLLATERALIZATION REQUIREMENTS" means the obligation of Party
+ A to post collateral at the times, and in the amounts, required under
+ the Credit Support Annex in connection with the occurrence of a
+ Moody's First Trigger Event or Moody's Second Trigger Event (as
+ applicable). For the avoidance of doubt, the Moody's Collateralization
+ Requirements shall be calculated as if no S&P Collateralization Event
+ or S&P Substitution Event had then occurred.
+
+ "MOODY'S FIRST TRIGGER EVENT" means, at any time when Notes are
+ Outstanding and rated by Moody's but a Moody's Second Trigger Event
+ has not occurred, that no Relevant Entity satisfies the Moody's First
+ Trigger Required Ratings.
+
+ "MOODY'S FIRST TRIGGER REQUIRED RATINGS" are satisfied by an entity
+ (x) where such entity is the subject of a Moody's Short-term Rating,
+ if such rating is "Prime-1" and its long term, unsecured and
+ unsubordinated debt obligations are rated "A2" or above by Moody's,
+ and (y) where such entity is not the subject of a Moody's Short-term
+ Rating, if its long-term, unsecured and unsubordinated debt
+ obligations are rated "A1" or above by Moody's.
+
+ "MOODY'S REQUIRED HEDGE RATINGS" means the Moody's First Trigger
+ Required Ratings or the Moody's Second Trigger Required Ratings.
+
+ "MOODY'S SECOND TRIGGER EVENT" means, at any time when Notes are
+ Outstanding and rated by Moody's, that no Relevant Entity satisfies
+ the Moody's Second Trigger Required Ratings.
+
+ "MOODY'S SECOND TRIGGER REQUIRED RATINGS" are satisfied by the entity
+ (x) where such entity is the subject of a Moody's Short-term Rating,
+ if such rating is "Prime-2" or above and its long-term, unsecured and
+ unsubordinated debt obligations are rated "A3" or above by Moody's,
+ and (y) where such entity is not the subject of a Moody's Short-term
+ Rating, if its long-term, unsecured and unsubordinated debt
+ obligations are rated "A3" or above by Moody's.
+
+ "MOODY'S SHORT-TERM RATING" means a rating assigned by Moody's under
+ its short-term rating scale in respect of an entity's short-term,
+ unsecured and unsubordinated debt obligations.
+
+ "RATING AGENCY CONFIRMATION" means with respect to any specified
+ action or determination, receipt by Party B of written confirmation
+ from each Rating Agency, for so long as any Notes are outstanding and
+ rated by either Rating Agency, that such specified action or
+ determination will not cause such Rating Agency to reduce or withdraw
+ its rating of any such Notes.
+
+ -17-
+
+ "RELEVANT ENTITIES" means Party A and any guarantor under an Eligible
+ Guarantee in respect of all of Party A's present and future
+ obligations under this Agreement.
+
+ An "S&P COLLATERALIZATION EVENT" is deemed to occur with respect to a
+ Relevant Entity if (i) no Substitution Event has occurred with respect
+ to each Relevant Entity, (ii) such Relevant Entity is a Financial
+ Institution, (iii) any of the Notes are Outstanding and rated by S&P,
+ and (iv) the short-term rating of such Relevant Entity from S&P is
+ downgraded below "A-1" or, if such Relevant Entity does not have a
+ short-term rating from S&P, the long-term rating of such Relevant
+ Entity from S&P is downgraded below "A+".
+
+ "S&P COLLATERALIZATION REQUIREMENTS" means the obligation of Party A
+ to post collateral at the times, and in the amounts, required under
+ the Credit Support Annex in connection with the occurrence of an S&P
+ Collateralization Event or an S&P Substitution Event (as applicable).
+ For the avoidance of doubt, the S&P Collateralization Requirements
+ shall be calculated as if no Moody's First Trigger Event or Moody's
+ Second Trigger Event had then occurred.
+
+ An "S&P SUBSTITUTION EVENT" is deemed to occur with respect to a
+ Relevant Entity if, at any time when any of the Notes are Outstanding
+ and rated by S&P, the short-term rating of such Relevant Entity from
+ S&P is withdrawn, suspended or downgraded below "A-1" (if such
+ Relevant Entity is not a Financial Institution) or below "A-2" (if
+ such Relevant Entity is a Financial Institution) or, if no such
+ short-term rating exists, if the long-term rating of such Relevant
+ Entity from S&P is withdrawn, suspended or downgraded below "A+" (if
+ such Relevant Entity is not a Financial Institution) or below "BBB+"
+ (if such Relevant Entity is a Financial Institution).
+
+ "TRANSACTION DOCUMENTS" shall mean the Indenture, the Administration
+ Agreement, the Receivables Purchase Agreement, the Sale and Servicing
+ Agreement, the Trust Agreement and any account control agreement or
+ similar agreement assigning, granting or perfecting an interest in
+ Collateral for the benefit of Party A under the Indenture.
+
+ (t) SAFE HARBORS. Each party to this Agreement acknowledges that:
+
+ (i) This Agreement, including any Credit Support Document, is a
+ "master netting agreement" as defined in the U.S. Bankruptcy Code (the
+ "CODE"), and a "netting contract" as defined in the netting provisions
+ of the Federal Deposit Insurance Corporation Improvement Act of 1991
+ ("FDICIA"), and this Agreement, including any Credit Support Document,
+ and each Transaction hereunder is of a type set forth in Section
+ 561(a)(1)-(5) of the Code;
+
+ (ii) Party A is a "master netting agreement participant," a "financial
+ institution," a "financial participant," a "forward contract merchant"
+ and a "swap participant" as defined in the Code, and a "financial
+ institution" as defined in the netting provisions of FDICIA;
+
+ (iii) The remedies provided herein, and in any Credit Support
+ Document, are the remedies referred to in Section 561(a), Sections
+ 362(b)(6), (7), (17) and (27), and Section 362(o) of the Code, and in
+ Section 11(e)(8)(A) and (C) of the Federal Deposit Insurance Act;
+
+ -18-
+
+ (iv) All transfers of cash, securities or other property under or in
+ connection with this Agreement, any Credit Support Document or any
+ Transaction hereunder are "transfers" made "by or to (or for the
+ benefit of)" a "master netting agreement participant", a "financial
+ institution", a "financial participant", a "forward contract merchant"
+ or a "swap participant" (each as defined in the Code) within the
+ meaning of Sections 546(e), (f), (g) and (j) of the Code; and
+
+ (v) All obligations under or in connection with this Agreement, any
+ Credit Support Document or any Transaction hereunder represent
+ obligations in respect of "termination values", "payment amounts" and
+ "transfer obligations" within the meaning of Sections 362, 560 and 561
+ of the Code.
+
+ (u) TAX. Notwithstanding the definition of "Indemnifiable Tax" in Section
+14 of this Agreement, in relation to payments by Party A, any Tax shall be an
+Indemnifiable Tax and, in relation to payments by Party B, no Tax shall be an
+Indemnifiable Tax.
+
+ (v) RATING AGENCY NOTIFICATIONS. Notwithstanding any other provision of
+this Agreement, this Agreement shall not be amended, no Early Termination Date
+shall be effectively designated by Party B, and no transfer of any rights or
+obligations under this Agreement shall be made unless Moody's and S&P have been
+given prior written notice of such amendment, designation or transfer.
+
+ (x) SEVERABILITY. If any term, provision, covenant, or condition of this
+Agreement, or the application thereof to any party or circumstance, shall be
+held to be invalid or unenforceable (in whole or in part) for any reason, the
+remaining terms, provisions, covenants, and conditions hereof shall continue in
+full force and effect as if this Agreement had been executed with the invalid or
+unenforceable portion eliminated, so long as this Agreement as so modified
+continues to express, without material change, the original intentions of the
+parties as to the subject matter of this Agreement and the deletion of such
+portion of this Agreement will not substantially impair the respective benefits
+or expectations of the parties to the Agreement; provided, however, that this
+severability provision shall not be applicable if any provision of Section 2, 5,
+6, or 13 (or any definition or provision in Section 14 to the extent it relates
+to, or is used in or in connection with, any such Section) shall be so held to
+be invalid or unenforceable.
+
+ (y) ACKNOWLEDGEMENT OF ASSIGNMENT. Party A hereby acknowledges and consents
+to Party's assignment to the Trustee, for the benefit of the secured parties
+under the Indenture, of Party B's rights hereunder, including the right to
+enforce Party A's obligations hereunder.
+
+ (z) COMPLIANCE WITH REGULATION AB. In connection with the Indenture, Party
+B represents that this Agreement is a derivative instrument as described in Item
+1115 of Regulation AB under the Securities Act of 1933 and the Securities
+Exchange Act of 1934, as amended ("REGULATION AB"), and not a credit support
+contract described in Item 1114 of Regulation AB.
+
+ Reference is made to the Indemnification and Disclosure Agreement dated
+August 15, 2007 among American Honda Finance Corporation, American Honda
+Receivables Corp, and Party A with regard to further provisions concerning
+Regulation AB.
+
+ [Signature Page Follows]
+
+ -19-
+
+ IN WITNESS WHEREOF, the parties have executed this Schedule by their duly
+authorized officers as of the date hereof.
+
+BANK OF AMERICA, N.A. HONDA AUTO RECEIVABLES 2007-3 OWNER
+ TRUST
+
+ BY: CITIBANK, N.A., not in its
+ individual capacity but solely as Owner
+ Trustee on behalf of the Trust
+
+------------------------------------- ----------------------------------------
+Name: Name:
+Title: Title:
+
+ -20-

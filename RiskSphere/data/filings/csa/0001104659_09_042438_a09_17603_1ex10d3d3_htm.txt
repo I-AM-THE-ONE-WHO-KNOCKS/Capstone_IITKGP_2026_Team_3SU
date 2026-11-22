@@ -1,0 +1,1506 @@
+EX-10.3.3
+ 7
+ a09-17603_1ex10d3d3.htm
+ GUARANTEED PUT OPTION CONFIRM
+
+ Exhibit 10.3.3 
+
+ EXECUTION VERSION 
+
+ PUT OPTION CONFIRMATION 
+
+ Guaranteed Put Contract 
+
+ DATE: 
+
+ June 30, 2009 
+
+ TO: 
+
+ FSA Asset Management LLC 
+
+ FROM: 
+
+ Dexia SA 
+
+ Dexia Crédit Local S.A. 
+
+ SUBJECT: 
+
+ Put Option Transaction 
+
+ The
+purpose of this communication is to set forth the terms and conditions of the
+above referenced transaction entered into on the Trade Date specified below
+(the “ Put Option Transaction ”)
+between Dexia SA (“Dexia”) and Dexia Crédit Local S.A., acting through
+its New York Branch (“DCL”) , jointly
+and severally (“ Party A ”) and FSA
+Asset Management LLC (“ Party B ”). This communication constitutes a “Confirmation”
+as referred to in the Agreement specified below. 
+
+ This Confirmation supplements, forms a part
+of and is subject to the ISDA Master Agreement dated as of June 30, 2009 (including the Schedule and Credit Support
+Annex thereto (each captioned “ Guaranteed Put
+Contract ”) as amended and supplemented from time to time (the “ Agreement ”) between Party A and Party
+B. Capitalized terms used and not
+defined herein have the meanings set forth in the Agreement. All provisions contained in, or incorporated
+by reference to, the Agreement shall govern this Confirmation except as
+expressly modified below. 
+
+ This Confirmation is subject to, and
+incorporates the 2000 ISDA Definitions (the “ 2000
+Definitions ”), as published by the International Swaps and
+Derivatives Association, Inc. 
+Notwithstanding the foregoing, Articles 11 and 12 of the 2000
+Definitions shall not apply. In the
+event of any inconsistency between this Confirmation, the 2000 Definitions, or
+the Agreement, as the case may be, this Confirmation will control for purposes
+of this Put Option Transaction. 
+
+ 1. 
+
+ General Terms : 
+
+ Trade
+ Date : 
+
+ June 30, 2009 
+
+ Effective
+ Date : 
+
+ June 30, 2009 
+
+ 1 
+
+ Scheduled
+ Termination Date : 
+
+ The last to occur of: 
+
+ (a) 
+
+ the expiration of any applicable preference period
+ following the last Effective Maturity Date; 
+
+ (b) 
+
+ the
+ expiration of any applicable preference period following the last Shortfall
+ Payment Date; 
+
+ (c)
+
+ the expiration of any applicable preference period
+ following the last Put Settlement Date; 
+
+ (d) 
+
+ the expiration of any applicable preference period
+ following the date on which no Put Portfolio Assets remain in the Put
+ Portfolio Annex. 
+
+ The “Term” of this
+ Transaction shall begin on and include the Effective Date and end on and
+ include the Scheduled Termination Date. 
+
+ Calculation
+ Agent : 
+
+ The Calculation Agent will
+ be HF Services LLC, provided that if HF Services LLC is no longer acting as
+ Administrator, Party A, Party B and FSA shall agree in good faith on a
+ successor Calculation Agent, and pending such agreement the Reporting Agent
+ shall act as successor Calculation Agent. 
+
+ Calculation
+ Agent City : 
+
+ New York 
+
+ Business
+ Day : 
+
+ Brussels, New York and
+ Paris. 
+
+ Business
+ Day Convention : 
+
+ Following (which, with the exception of the Effective Date,
+ any Final Amortization Date, each Put Portfolio Asset Payment Date and the
+ period end date of each Put Portfolio Asset Calculation Period, shall apply
+ to any date referred to in this Confirmation that falls on a day that is not
+ a Business Day) . 
+
+ Put Portfolio Assets: 
+
+ The
+ assets identified in Annex 1 hereto (the “ Put
+ Portfolio Annex ”), each of which was included in the total balance
+ sheet assets of Party B as at September 30, 2008 (each a “ Put Portfolio Asset ” and the portfolio of
+ assets so designated the “ September 30
+ Put Portfolio ”). 
+
+ The
+ Put Portfolio Annex shall identify the following information in relation to
+ the September 30 Put Portfolio and each Put Portfolio Asset: Issuer; CUSIP/ISIN; FSAM ID Number;
+ Insurer; Put Portfolio Asset; Applicable Percentage; Legal Final Maturity
+ Date; Initial Face Amount; Original Principal Amount; Initial Factor;
+ Underlying Policy. 
+
+ 2 
+
+ Each of (a) any Put Portfolio Asset in relation to which a Put
+ Settlement Date has occurred, (b) any Put Portfolio Asset sold by Party
+ B from time to time (other than under repurchase agreements as described in (ii) under
+ “Representation as to Exposure” below) and (c) any Put Portfolio Asset
+ in relation to which a Call Settlement Date has occurred, will cease to
+ constitute a Put Portfolio Asset hereunder upon receipt of payment by or on
+ behalf of Party B in respect of such Put Portfolio Asset and (in the case of (a) and
+ (c)) delivery of such Put Portfolio Asset pursuant to this Transaction, and
+ will be deemed excluded from the Put Portfolio Annex and cease to be eligible
+ for further delivery by Party B under the Put Option or Call Option
+ documented hereby, to the extent of the portion of the Outstanding Principal
+ Amount of the Put Portfolio Asset subject to such Put Settlement Date or sale
+ or Call Settlement Date, effective as of such Put Settlement Date, date of
+ such sale or such Call Settlement Date, as applicable. 
+
+ 2. 
+
+ Put Premium Payments: 
+
+ Put Premium Payer : 
+
+ Party B 
+
+ Put Premium Rate : 
+
+ .25% per annum. 
+
+ Put Premium Period End Date : 
+
+ Each June 30, September 30,
+ December 31 or March 31. 
+
+ Put Premium Calculation
+ Periods: 
+
+ Each period from (and
+ including) a Put Premium Period End Date (or in the case of the first Put
+ Premium Calculation Period, the Effective Date) to (but excluding) the next
+ Put Premium Period End Date (or in the case of the last Put Premium
+ Calculation Period, the Scheduled Termination Date). 
+
+ Put Premium Payment Dates : 
+
+ The third Business Day
+ after each Put Premium Period End Date. 
+
+ On each Put Premium Payment
+ Date, Party B shall pay to Party A the Put Premium Amount determined for the
+ Put Premium Calculation Period ending on the Put Premium Period End Date
+ immediately preceding such Put Premium Payment Date, subject to funds being
+ available for such distribution under the Priority of Payments. 
+
+ 3 
+
+ Put Premium Amount : 
+
+ With
+ respect to any Put Premium Payment Date, an amount equal to the product of: 
+
+ (a) 
+
+ the Put Premium Rate; 
+
+ (b) 
+
+ an amount determined by the Calculation Agent equal
+ to: 
+
+ (i) 
+
+ the aggregate Outstanding Principal Amount of the
+ Put Portfolio Assets as at 5:00 p.m. in the Calculation Agent City on
+ each day in the applicable Put Premium Calculation Period; divided by 
+
+ (ii) 
+
+ the actual number of days in the applicable Put
+ Premium Calculation Period; and 
+
+ (c) 
+
+ the actual number of days in the applicable Put
+ Premium Calculation Period divided by 360. 
+
+ 3. 
+
+ Put Triggers and Put Settlement 
+
+ Put
+ Option: 
+
+ Party A hereby grant Party
+ B a put option in relation to each Put Portfolio Asset exercisable in
+ accordance with the terms hereof upon the occurrence of a relevant Put
+ Trigger at any time during the Term of this Put Option Transaction (the “ Put Option ”). 
+
+ Put
+ Triggers: 
+
+ Party B (or FSA directly
+ as third party beneficiary as provided in “Secured Party Exercise”) will have
+ the right to cause exercise of the Put Option upon occurrence of any of the
+ following events (each a “ Put Trigger ”)
+ on any date during the Term of this Transaction: 
+
+ (a) if an Asset
+ Default has occurred with respect to any Put Portfolio Asset (an “ Asset Default Trigger ”); 
+
+ (b) if, prior to the
+ Liquidity and Collateral Trigger Expiration Date, a Liquidity Default has
+ occurred and is continuing: provided, that in respect of the Liquidity and
+ Collateral Trigger Expiration Date if the occurrence of a Liquidity Default
+ would otherwise be subject to the expiration of a grace period, such grace
+ period shall be deemed to have expired on the Business Day immediately
+ preceding the Liquidity and Collateral Trigger Expiration Date (a “ Liquidity Default Trigger ”); 
+
+ (c) if, prior to the
+ Liquidity and Collateral Trigger Expiration Date, a Collateral Posting 
+
+ 4 
+
+ Default has occurred and
+ is continuing: provided, that in respect of the Liquidity and Collateral
+ Trigger Expiration Date if the occurrence of a Collateral Posting Default
+ would otherwise be subject to the expiration of a grace period, such grace
+ period shall be deemed to have expired on the Business Day immediately
+ preceding the Liquidity and Collateral Trigger Expiration Date (a “ Collateral Default Trigger ”); or 
+
+ (d) if a Dexia
+ Bankruptcy has occurred and is continuing (a “ Bankruptcy Trigger ”); 
+
+ (the date of any exercise
+ of the Put Option a “ Put Exercise Date ”). The Put Option may be exercised separately
+ from time to time in relation to one or more separately occurring Put
+ Triggers. 
+
+ Put
+ Exercise Amounts: 
+
+ The Put Option may be
+ exercised by Party B (or by FSA directly as third party beneficiary as
+ provided in “Secured Party Exercise”): 
+
+ (a) if the Put Option is exercised in relation to any Asset
+ Default Trigger, with respect to the Outstanding Principal Amount of the
+ Defaulted Asset; 
+
+ (b) if the Put Option is exercised in relation to any
+ Liquidity Default Trigger, with respect to an aggregate Outstanding Principal
+ Amount of Put Portfolio Assets selected by the Collateral Agent or by FSA
+ directly as third party beneficiary as provided in “Secured Party Exercise”,
+ equal to the lesser of (1) the relevant Defaulted Liquidity Amount or (2) the
+ GIC Balance (less any Committed Settlement Amount), provided that in making
+ such selection the Collateral Agent or FSA as third party beneficiary, as
+ applicable, shall comply with the Maximum Asset Value Restriction; 
+
+ (c) if the Put Option is exercised in relation to any
+ Collateral Default Trigger, with respect to an aggregate Outstanding
+ Principal Amount of Put Portfolio Assets selected by the Collateral Agent or
+ by FSA directly as third party beneficiary as provided in “Secured Party
+ Exercise”, equal to the lesser of (1) (x) the relevant Defaulted
+ Collateral Amount plus (y) the net Delivery Amount that would arise
+ under the Credit Support Annex as a result of Delivery of the Put Settlement Assets
+ on the Put Settlement 
+
+ 5 
+
+ Date and (2) the GIC
+ Balance (less any Committed Settlement Amount), provided that in making such
+ selection the Collateral Agent or FSA as third party beneficiary, as
+ applicable, shall comply with the Maximum Asset Value Restriction; and 
+
+ (d) if the Put Option is exercised in relation to a
+ Bankruptcy Trigger, with respect to an Outstanding Principal Amount of Put
+ Portfolio Assets selected by the Collateral Agent or FSA directly as third
+ party beneficiary as provided in “Secured Party Exercise”, equal to the
+ lesser of (1) 100% of the aggregate Outstanding Principal Amount of all
+ the Put Portfolio Assets or (2) the GIC Balance (less any Committed
+ Settlement Amount). 
+
+ (the relevant Outstanding
+ Principal Amount of Put Portfolio Assets with respect to which the Put Option
+ has been exercised as described above on any date, subject to “Affected
+ Collateral Delivery” below, the “ Put
+ Settlement Assets ”). 
+
+ “ Maximum Asset Value Restriction ” means
+ that the Collateral Agent or by FSA directly as third party beneficiary as
+ provided in “Secured Party Exercise” shall select assets (which may or may
+ not be Defaulted Assets) for which the weighted average of the most recently
+ determined FSAM Asset Value is not more than 5% higher than the weighted
+ average FSAM Asset Value of all remaining Put Portfolio Assets as a whole
+ (provided that if it would not be possible to deliver Put Portfolio Assets of
+ such maximum average value due to minimum denomination restrictions, the
+ Collateral Agent, or FSA directly as third party beneficiary as provided in
+ “Secured Party Exercise,” shall only be required to select assets that comply
+ with such limitation to the extent reasonably practicable). 
+
+ “ Committed Settlement Amount ” means, in
+ relation to any Collateral Default Trigger, Liquidity Default Trigger or
+ Bankruptcy Trigger, the Outstanding Principal Amount of all Put Portfolio
+ Assets which have been identified for purposes of a different Collateral
+ Default Trigger, Liquidity Default Trigger or Bankruptcy Trigger for which
+ the relevant Put Settlement Date has not yet occurred. 
+
+ Exercise
+ Notice: 
+
+ In relation to any
+ exercise of the Put Option, Party B (or FSA directly as third party
+ beneficiary as provided in “Secured Party Exercise”) will be required to
+ provide to Party A and FSA at the notice addresses 
+
+ 6 
+
+ specified below, an
+ exercise notice in the form of Annex 2 (the “ Exercise Notice ”) (which shall be delivered by email or
+ facsimile, return receipt requested) which shall also include (i) in the
+ case of an exercise of the Put Option in relation to an Asset Default
+ Trigger, a servicer or trustee report, advice from a paying agent, record of
+ a clearance system, statement by a rating agency, or similar information
+ documenting the relevant Interest Shortfall Amount, Principal Shortfall
+ Amount or Writedown Amount (any a “ Shortfall
+ Amount ”), (ii) in the case of an exercise of the Put Option
+ in relation to an Liquidity Default Trigger, a calculation of the relevant
+ Defaulted Liquidity Amount including evidence of the relevant notice or
+ request for payment and confirmation by the Collateral Agent of nonreceipt of
+ funds, and of the GIC Balance (iii) in the case of an exercise of the
+ Put Option in relation to a Collateral Default Trigger, a calculation of the
+ relevant Defaulted Collateral Amount including evidence of the relevant
+ demand for Transfer of a Delivery Amount and confirmation by the Collateral
+ Agent of nonreceipt of such Delivery Amount, and of the GIC Balance or (iv) in
+ the case of an exercise of the Put Option in relation to a Bankruptcy
+ Trigger, a calculation of the aggregate current Outstanding Principal Amount
+ plus accrued interest of the Put Portfolio Assets and of the GIC Balance
+ (each of (i), (ii), (iii) or (iv) in relation to any exercise of
+ the Put Option the “ Shortfall Information ”). 
+
+ Simultaneously with the
+ delivery of the Put Exercise Notice to Party A and FSA, Party B or the
+ Collateral Agent (including FSA acting on behalf of the Collateral Agent)
+ will deliver a copy of such Put Exercise Notice to the Sovereign Guarantors,
+ together with the relevant Shortfall Information. 
+
+ Secured
+ Party Exercise: 
+
+ Party A acknowledges and
+ agrees that, without limitation of the rights of Party B hereunder: 
+
+ (a) an Exercise Notice may be delivered by the Collateral
+ Agent or by FSA directly as third party beneficiary under this Agreement (i) in
+ relation to any Asset Default Trigger following a failure of Party B to
+ deliver an Exercise Notice within five Business Days after the occurrence of
+ the relevant Asset Default or (ii) in relation to any Liquidity Default
+ Trigger, any Collateral Default Trigger or any Bankruptcy Trigger; 
+
+ (b) the Collateral Agent or FSA directly as third party
+ beneficiary under this Agreement may specify the related Put Exercise Amounts
+ and select Put Portfolio Assets in relation to any Liquidity Default 
+
+ 7 
+
+ Trigger, any Collateral
+ Default Trigger or any Bankruptcy Trigger and deliver any Shortfall
+ Information (whether or not it delivered the related Exercise Notice); and 
+
+ (c) FSA directly as third party beneficiary under this
+ Agreement may make demands and request and dispute valuations as set forth in
+ the Credit Support Annex. 
+
+ Defaulted Asset: 
+
+ A
+ Put Portfolio Asset in relation to which an Asset Default has occurred. 
+
+ Asset Default: 
+
+ The
+ occurrence of a Failure to Pay Principal, Interest Shortfall or Writedown. 
+
+ Liquidity Default: 
+
+ A
+ payment default by Dexia or any of its Affiliates under any Guaranteed
+ Liquidity Facility, including without limitation a failure to pay an
+ Accelerated Downgrade Liquidity Draw by the Accelerated Downgrade Liquidity
+ Draw Deadline on the relevant date (a “ Deemed
+ Downgrade Liquidity Default ”). 
+ The amount of any and all such failures to pay ( i.e. , the unpaid amount) on any date (net
+ of any partial payments by Dexia or its Affiliates) is the “ Defaulted Liquidity Amount ”. 
+
+ To
+ the extent that the occurrence of a default under any Guaranteed Liquidity
+ Facility is subject to the expiration of a grace period for payment, such
+ grace period shall be deemed to have expired on the earlier of (i) its
+ stated expiration date or (ii) the Business Day immediately preceding
+ the Liquidity and Collateral Trigger Expiration Date. 
+
+ “ Guaranteed Liquidity
+ Facilities ” means each of (i) the Liquidity Facility and the
+ Repurchase Agreement Facility, in accordance with their terms as of the
+ Effective Date (the “ Existing Facilities ”)
+ and (ii) any additional liquidity facilities between Party B and either
+ DCL or Dexia Bank Belgium SA (including any successors thereto by reason of
+ Corporate Reorganization or any Affiliates thereof to whom their obligations
+ are transferred in accordance with the terms of such Existing Facilities)
+ entered into from time to time after the Effective Date, that are in substantially
+ the same form as the Existing Facilities and are entered into for the purpose
+ of providing liquidity to meet Party B’s payment obligations (including
+ obligations to meet collateral posting requirements under the GICs) under the
+ Master Repurchase Agreement to the GIC Issuers to service the GICs, if the
+ aggregate maximum commitment amount of such facilities, when added to the
+ maximum commitment amount of the Existing 
+
+ 8 
+
+ Facilities,
+ does not exceed the GIC Balance on the date any such additional facilities
+ are entered into. 
+
+ Collateral Posting Default: 
+
+ A
+ failure to Transfer Eligible Collateral having a Value equal to a required
+ Delivery Amount on any date on or after the First Collateral Posting Date, in
+ each case within the time required under Paragraph 4(b) of the Credit
+ Support Annex. The amount of any such
+ failure to Transfer on any date (net of any partial amounts Transferred by
+ Dexia or its Affiliates) is the “ Defaulted
+ Collateral Amount ”. 
+
+ For
+ the avoidance of doubt, the Defaulted Collateral Amount applicable in
+ relation to any Collateral Posting Default hereunder shall not be offset or
+ decreased by any Defaulted Collateral Amount applicable under the Dexia
+ Non-Guaranteed Put Contract. 
+
+ With
+ respect to any date which falls during a period which is (A) not on or
+ after a Sovereign Guarantee Unenforceability Date and (B) (I) on
+ and after the First Collateral Posting Date and prior to the Liquidity and
+ Collateral Trigger Expiration Date or (II) during a period that a DCL
+ Bankruptcy has occurred and is continuing (a “ No DCL Collateral Period ”), (i) any Eligible Collateral
+ Transferred by DCL, whether at any time before or during such No DCL
+ Collateral Period, will be deemed to have a Value of zero during such No DCL
+ Collateral Period (any such Eligible Collateral on any date during the No DCL
+ Collateral Period the “ Affected DCL
+ Collateral ”) and (ii) only postings made by Dexia (whether
+ made at any time before or during such No DCL Collateral Period, and
+ including by substitution in accordance with the Credit Support Annex of
+ Eligible Collateral posted by Dexia for Eligible Collateral posted by DCL)
+ will be considered in calculating any applicable Delivery Amount and whether
+ the obligation to Transfer Eligible Collateral with a Value equal to such
+ Delivery Amount has been met during such No DCL Collateral Period; provided,
+ that such Affected DCL Collateral shall be Transferred to DCL against the
+ simultaneous delivery of replacement Eligible Collateral by Dexia. 
+
+ With
+ respect to any date which falls during a period which is (A) on or after
+ a Sovereign Guarantee Unenforceability Date and (B) not during a period
+ that a DCL Bankruptcy has occurred and is continuing (a “ No Dexia Collateral Period ”), (i) any
+ Eligible Collateral Transferred by Dexia, whether at any time before or
+ during such No Dexia Collateral Period, will be deemed to have a Value of
+ zero during such No Dexia Collateral Period (any such Eligible Collateral 
+
+ 9 
+
+ on
+ any date during the No Dexia Collateral Period the “ Affected Dexia Collateral ”) and (ii) only
+ postings made by DCL (whether made at any time before or during such No Dexia
+ Collateral Period, and including by substitution in accordance with the
+ Credit Support Annex of Eligible Collateral posted by DCL for Eligible
+ Collateral posted by Dexia) will be considered in calculating any applicable
+ Delivery Amount and whether the obligation to Transfer Eligible Collateral
+ with a Value equal to such Delivery Amount has been met during such No Dexia
+ Collateral Period; provided, that such Affected Dexia Collateral shall be
+ Transferred to Dexia against the simultaneous delivery of replacement
+ Eligible Collateral by DCL. 
+
+ Affected Collateral Delivery: 
+
+ In
+ relation to any Put Settlement Date arising from a Collateral Default Trigger
+ occurring during a No DCL Collateral Period or No Dexia Collateral Period,
+ the Put Settlement Assets shall include, in addition to the Put Settlement
+ Assets selected by the Collateral Agent or FSA as third party beneficiary, as
+ applicable, under (c) of “Put Exercise Amount” above, the relevant
+ Affected DCL Collateral or Affected Dexia Collateral as of the date of
+ occurrence of the relevant Collateral Default Trigger. 
+
+ Dexia Bankruptcy: 
+
+ As
+ defined in the Schedule. The exercise
+ of the Put Option following a Bankruptcy Trigger is not to be construed as
+ the designation of an Early Termination Date, nor does exercise of the Put
+ Option following a Bankruptcy Trigger prejudice to the right of Party B to
+ designate an Early Termination Date subsequent to the Put Settlement Date for
+ such Bankruptcy Trigger in the event that any Event of Default has occurred
+ or is continuing after such Put Settlement Date. 
+
+ Liquidity and Collateral
+
+ Trigger Expiration Date: 
+
+ 31
+ October 2011. 
+
+ First Collateral Posting Date: 
+
+ 29
+ September 2011. 
+
+ Put Settlement: 
+
+ On
+ (x) the second Business Day after the relevant Put Exercise Date or (y) in
+ the case of an Accelerated Downgrade Liquidity Default Exercise, on the first
+ Business Day after the Put Exercise Date (as applicable, the “ Put Settlement Date ”) and subject to
+ “Deferred Settlement Election” below, Party B or the Collateral Agent on
+ behalf of Party B will Deliver to DCL or Dexia, as applicable, the relevant
+ Put Settlement Assets, against payment of the Put Settlement Amount to Party
+ B by Party A (such payment to occur by the time specified in the last
+ paragraph under “Put Settlement Amount”). 
+ In the event that the Defaulted Liquidity Amount on the Put 
+
+ 10 
+
+ Exercise
+ Date includes both amounts arising from an Accelerated Downgrade Liquidity
+ Draw and other unpaid amounts under one or more Guaranteed Liquidity
+ Facilities, separate Put Settlement Dates shall occur in relation to each
+ relevant portion of the Put Exercise Amount. 
+
+ “ Accelerated Downgrade Liquidity Default Exercise ”
+ means an exercise of the Put Option as a result of a Liquidity Default
+ Trigger which occurs due to a Deemed Downgrade Liquidity Default. 
+
+ Delivery
+ of Put Settlement Assets will be effected through an escrow, custody or
+ similar arrangement with the Collateral Agent, such that the Put Settlement
+ Assets will be Delivered by the Collateral Agent and the Put Settlement Amount
+ will be paid to Party B, but the Put Settlement Assets will be Delivered (i) to
+ Dexia if the Put Settlement Amount is paid to Party B by Dexia, (ii) to
+ DCL if the Put Settlement Amount is paid to Party B by DCL or (iii) to
+ Dexia if the Put Settlement Amount is paid to Party B by the Sovereign
+ Guarantors. 
+
+ “ Deliver ” means to deliver, novate,
+ transfer, assign or sell, as appropriate, in the manner customary for the
+ settlement of the applicable Put Settlement Assets (which shall include
+ executing all necessary documentation and taking any other necessary
+ actions), in order to convey all right, title and interest in the Put
+ Settlement Assets to Dexia or DCL, as applicable, free and clear of any and
+ all liens, charges, claims or encumbrances; provided that, Dexia and DCL each
+ hereby waive any right to object to the Delivery of a Put Settlement Asset (i) as
+ failing to be free and clear of liens, charges, claims or encumbrances or (ii) for
+ breach of any implied or express representation or warranty hereunder, except
+ in the case of a lien, charge, claim or encumbrance that is predominantly
+ attributable to actions of FSA taken after the Effective Date. 
+
+ Without
+ limitation of the foregoing, in relation to Put Settlement Assets which may
+ be subject to a pledge or lien, Party A agrees that the settlement of the
+ payment of the Put Settlement Amount by Party A and Delivery of the Put
+ Settlement Assets by Party B may be effected by means of an undertaking by
+ the Collateral Agent, acting as an escrow agent, custodian or in a similar
+ capacity, to deliver such Put Settlement Assets to Party A following receipt
+ of a payment hereunder (whether by treating such payment as a discharge of
+ the relevant pledge or lien, as a substitution of cash collateral in place of
+ such Put Settlement Assets for purposes of the relevant pledge 
+
+ 11 
+
+ agreement,
+ or otherwise). 
+
+ Delayed Delivery Following
+
+ DCL Belgian Corporate Reorganization: 
+
+ In
+ the event that a Put Settlement Date occurs (i) on or after a DCL
+ Belgian Corporate Reorganization has occurred and (ii) on a date on
+ which the relevant Put Settlement Amount would constitute a Pre-Collateral
+ Posting Payment, and except in the case of a Put Settlement under which the
+ Put Settlement Amount is paid to Party B by the Sovereign Guarantors, (A) Party
+ A will be required to pay the Put Settlement Amount on the Put Settlement
+ Date, (B) Party B will not be required to Deliver the related Put
+ Settlement Assets until the date following the Put Settlement Date on which
+ the Belgian Preference Period has expired and (C) pending such Delivery
+ on the date referred to in (B), Party A will be deemed to have pledged the
+ relevant Put Settlement Assets to Party B and Party B shall hold such Put Settlement
+ Assets as additional Posted Collateral under the Credit Support Annex and
+ treated as Repledged Assets thereunder. 
+
+ “ DCL Belgian Corporate Reorganization ”
+ means any occurrence of a Corporate Reorganization (as defined in the
+ Schedule) with respect to DCL such that Belgium is the jurisdiction of
+ organization of DCL following such Corporate Reorganization. 
+
+ “ Belgian Preference Period ” means 6
+ months, or if the period of time specified in Article 12 of the Belgian
+ Bankruptcy Act of 8 August 1997 is amended, such amended period of time. 
+
+ DCL Delivery: 
+
+ DCL
+ agrees that any Put Settlement Assets delivered to DCL hereunder which may be
+ required to be delivered outside the United States or to non-United States
+ persons, or with respect to which for any other reason delivery of such Put
+ Settlement Asset in New York is impracticable, may at Party B’s election be
+ delivered to a registered office of Dexia Crédit Local S.A. outside of the United
+ States. 
+
+ Put Settlement Amount: 
+
+ An
+ amount equal to 100% of the Outstanding Principal Amount of the Put
+ Settlement Assets Delivered on the Put Settlement Date (other than any
+ Affected DCL Collateral or Affected Dexia Collateral), plus (without
+ duplication) (i) any Interest Shortfall Amount, Principal Shortfall
+ Amount or Writedown Amount accrued but not yet paid hereunder as of the Put
+ Settlement Date and (ii) accrued and unpaid interest (except to the
+ extent already paid to Party B pursuant to a Deferred Settlement Election or
+ under (i)) through the Put Settlement Date (in each case converted if
+ applicable to USD at the Specified Currency Rate). 
+
+ 12 
+
+ The
+ Put Settlement Asset Delivered on each Put Settlement Date will include the
+ right to receive all accrued and unpaid interest in respect of the
+ Outstanding Principal Amount of the Put Settlement Assets Delivered. 
+
+ The
+ obligation to pay any Put Settlement Amount pursuant to an Exercise Notice
+ delivered prior to the occurrence of the Scheduled Termination Date shall
+ survive the occurrence of the Scheduled Termination Date. 
+
+ In
+ the case of an Accelerated Downgrade Liquidity Default Exercise, Party A will
+ pay the Put Settlement Amount to Party B not later than 9:00 am New York City
+ time on the Put Settlement Date. In
+ all other cases, Party A will pay the Put Settlement Amount to Party B not
+ later than 4:00 pm Central European Time on the Put Settlement Date. 
+
+ Cure of Defaulted Liquidity Amount or Defaulted
+
+ Collateral Amount: 
+
+ Notwithstanding
+ exercise of the Put Option in relation to a Liquidity Default Trigger or
+ Collateral Default Trigger, if the related Defaulted Liquidity Amount or
+ Defaulted Collateral Amount has been cured in full on or prior to the
+ relevant Put Settlement Date, the Put Settlement Date shall not occur and the
+ Exercise Notice in relation thereto shall be deemed withdrawn. 
+
+ Deferred Settlement Right: 
+
+ In
+ relation to any Put Exercise Date arising from an Asset Default Trigger,
+ Party A may give a notice to Party B (with a copy to FSA), on or before the
+ Put Settlement Date, electing to defer the Put Settlement Date (a “ Deferred Settlement Election ”) for any
+ period of time prior to the earliest of (i) the Final Amortization Date
+ of the Defaulted Asset, (ii) the Legal Final Maturity Date of the
+ Defaulted Asset and (iii) the 30 th day prior to the Sovereign Asset Guarantee
+ Expiration Date, provided that during such period Party A shall periodically
+ pay to Party B any Shortfall Amounts with respect to such Defaulted Asset on
+ or before: 
+
+ (I) in the case of
+ the Put Portfolio Asset Payment Date occurring on or immediately preceding
+ the Asset Default Trigger, the third Business Day following the Put Exercise
+ Date, and 
+
+ (II) in the case of
+ each Put Portfolio Asset Payment Date occurring after the Put Portfolio Asset
+ Payment Date in (I), (A) if a Dexia Event of Default has occurred and
+ FSA is acting as the Secured Party Representative, the third Business Day
+ after the later of (i) the date such amounts are determined under the
+ provisions of the Underlying Instruments and holders of the 
+
+ 13 
+
+ Defaulted Asset have been
+ notified of such determination or (ii) the date of receipt of the
+ relevant Shortfall Information by Party A or (B) otherwise, the third
+ Business Day after the earlier of (i) the date such amounts are
+ determined under the provisions of the Underlying Instruments and holders of
+ the Defaulted Asset have been notified of such determination or (ii) the
+ date of receipt of the relevant Shortfall Information by Party A (each a “ Shortfall Payment Date ”). 
+
+ On any date after Dexia,
+ DCL or the Sovereign Guarantors have made a payment of Shortfall Amounts
+ pursuant to a Deferred Settlement Election, such Deferred Settlement Election
+ shall continue in effect and need not be renewed or repeated in relation to
+ subsequent Asset Default Triggers for the same Put Portfolio Asset, provided
+ that (a) Party A or the Sovereign Guarantors, as applicable, may cause
+ the Put Settlement Date to occur with respect to the related Defaulted Asset
+ upon two Business Days’ prior notice to Party B, the Collateral Agent
+ and FSA, and (b) the Put Settlement Date shall occur immediately with
+ respect to the related Defaulted Asset if (i) Dexia does not pay a Shortfall
+ Amount (and DCL also does not pay such amount), (ii) the Sovereign
+ Guarantors fail to pay such Shortfall Amount under the Sovereign Guarantee
+ within the time permitted thereby (a “ Sovereign
+ Nonpayment ”) and (iii) neither Dexia nor the Sovereign Guarantors
+ cures such failure within 10 Business Days after receipt of a notice from
+ Party B, on or after the date of Sovereign Nonpayment, requiring that the Put
+ Settlement Date be accelerated. 
+
+ For the avoidance of
+ doubt, no Deferred Settlement Election may be made with respect to any
+ Defaulted Assets selected in connection with any Put Option related to a
+ Liquidity Default Trigger, a Collateral Default Trigger or a Bankruptcy
+ Trigger. 
+
+ The obligation to pay any
+ Shortfall Amounts and Put Settlement Amount pursuant to a Deferred Settlement
+ Election exercised prior to the occurrence of the Scheduled Termination Date
+ shall survive the occurrence of the Scheduled Termination Date. 
+
+ Offset of Collateral: 
+
+ On any Put Settlement Date
+ on or after a date on which a Dexia Event of Default has occurred where (x) the
+ Subordinated Claims Payment Condition is not met, (y) Party B and the
+ Collateral Agent are entitled to exercise the remedies under Paragraph 8 of
+ the Credit Support Annex and (z) Party A would be entitled to receive a
+ Return Amount under the Credit Support Annex, based on the current
+ calculation of 
+
+ 14 
+
+ Exposure and the Value of
+ Posted Credit Support held by Party B, but for the fact that the Subordinated
+ Claims Payment Condition is not met (the Return Amount to which Party A would
+ be so entitled a “ Deemed Return Amount ),
+ (i) the Put Settlement Amount in relation to any Liquidity Default
+ Trigger or Collateral Default Trigger shall be reduced by such Deemed Return
+ Amount or (ii) without duplication of (i), the Shortfall Amount in
+ relation to any Asset Default Trigger shall be reduced by such Deemed Return
+ Amount (but in no event to less than zero). 
+
+ Claims under the Sovereign Guarantee: 
+
+ If a Put Settlement Date
+ arises from an Asset Default Trigger, irrespective of whether Party A (i) has
+ not made a Deferred Settlement Election, (ii) has made a Deferred
+ Settlement Election, or (iii) has given notice causing the Put
+ Settlement Date to occur, in the event that (A) Party A does not pay the
+ relevant Shortfall Amounts on any date thereafter, (B) Party A does not
+ pay the Put Settlement Amount on the Put Settlement Date and (C) Party B
+ or the Collateral Agent, or FSA directly as third party beneficiary gives
+ notice of such nonpayment to the Sovereign Guarantors, together with the
+ relevant Shortfall Information, then at the option of the Sovereign
+ Guarantors either (i) a Deferred Settlement Election shall be deemed to
+ have been made and continued in effect, such that the Sovereign Guarantors
+ shall, until the earlier of (x) the Final Amortization Date or (y) the
+ Legal Final Maturity Date of the Defaulted Asset, pay only the relevant
+ Shortfall Amounts under the Sovereign Guarantee (and not Put Settlement Amounts)
+ or (ii) the Sovereign Guarantors shall pay the portion of the Put
+ Settlement Amount not paid by Party A against the delivery of the Put
+ Settlement Assets to Dexia, in each case within the time period for payment
+ required under the Sovereign Guarantee. 
+ Unless both Sovereign Guarantors shall opt for the application of
+ sub-clause (ii) above, sub-clause (i) shall be deemed to apply;
+ provided that no Deferred Settlement Election may be made or deemed made
+ under sub-clause (i) if the related Put Settlement Date arose following
+ a prior Deferred Settlement Election made or deemed made by the Sovereign
+ Guarantors in relation to the related Defaulted Asset. 
+
+ Currency Conversion: 
+
+ In relation to any Put
+ Settlement Asset not denominated in USD, the Put Settlement Amount and any
+ Shortfall Amount shall still be denominated in USD, such amount to be
+ determined by conversion of the Outstanding Principal Amount plus accrued
+ interest, or Shortfall Amount, as applicable, at the Specified Currency Rate. 
+
+ 15 
+
+ 4. 
+
+ Call Right 
+
+ Call Option: 
+
+ Party B hereby grants to
+ Party A, a call option in relation to each Put Portfolio Asset exercisable in
+ accordance with the terms hereof on any Business Day (the “ Call Option ”). The Call Option may be exercised (i) by
+ Party A only if there shall not have occurred any Dexia Event of Default and
+ if such exercise would not cause Party B to violate § 6.5.1 or
+ § 6.5.2. of the Sovereign Guarantee Reimbursement Agreement and (ii) prior
+ to the Liquidity and Collateral Expiration Date, only by DCL. In any event, no purported exercise of the
+ Call Option shall be valid unless Party A shall deliver to Party B
+ information from the Valuation Agent demonstrating that Party A has
+ Transferred Eligible Collateral to the Custodian in an amount sufficient that
+ no Delivery Amount would result or be outstanding after the exercise and
+ settlement of the Call Option. 
+
+ Exercise Notice: 
+
+ In relation to any
+ exercise of the Call Option, Party A will be required to provide to Party B,
+ an exercise notice in the form of Annex 3 (the “ Call Not ice ”). The Call Notice shall specify the Put
+ Portfolio Assets proposed to be purchased by Party A (the “ Call Settlement Assets ”) . Delivery of a Call Notice is irrevocable
+ and shall constitute an indefeasible agreement to purchase the related Call
+ Settlement Assets. 
+
+ Call Settlement: 
+
+ Settlement
+ of the Call Option shall occur on the second Business Day after the delivery
+ to Party B of the Call Notice (such date, the “ Call Settlement Date ”). 
+ On the Call Settlement Date, the Collateral Agent will Deliver to DCL
+ or Dexia, as applicable, the relevant Call Settlement Assets against payment
+ of the Call Settlement Amount to Party B by Party A. If Party A fails to pay the Call Settlement
+ Amount, the Call Option will fail and the related Call Settlement Assets will
+ not be delivered to Party A. 
+
+ Call Settlement Amount: 
+
+ At
+ the election of Party A, in respect of the Call Settlement Asset, an amount
+ equal to (A) either (x) 100% of the Outstanding Principal Amount or
+ (y) the Mark to Market Value of the Call Settlement Assets Delivered on
+ the Call Settlement Date (provided that if a DCL Belgian Corporate
+ Reorganization has occurred, clause (x) shall not apply), plus (B) (i) any
+ Interest Shortfall Amount, Principal Shortfall Amount or Writedown Amount
+ accrued but not yet paid hereunder as of the Call Settlement Date plus,
+ without duplication (ii) accrued and unpaid interest through the Call
+ Settlement Date (in each case converted if applicable to USD at the Specified
+ Currency Rate). 
+
+ 16 
+
+ The
+ Call Settlement Asset Delivered on each Call Settlement Date will include the
+ right to receive all accrued and unpaid interest in respect of the
+ Outstanding Principal Amount of the Call Settlement Assets Delivered. 
+
+ Currency Conversion: 
+
+ In
+ relation to any Call Settlement Asset not denominated in USD, the Call
+ Settlement Amount shall still be denominated in USD, such amount to be
+ determined by conversion of the Outstanding Principal Amount or Value, as the
+ case may be, plus accrued interest at the Specified Currency Rate. 
+
+ Multiple Exercise : 
+
+ For the avoidance
+ of doubt, the parties agree that
+ with respect to this Call Option Transaction and notwithstanding anything to
+ the contrary in the 2000 Definitions, multiple Call Settlement Dates may
+ occur and multiple Call Settlement Amounts may be payable by Party A. 
+
+ 5. Additional Provisions : 
+
+ Representation as to Exposure: 
+
+ Party
+ B represents to Party A in relation to the Put Portfolio Assets that on the
+ Effective Date Party B either (i) beneficially owns the relevant Put
+ Portfolio Asset or (ii) is obligated to purchase such Put Portfolio
+ Asset under a repurchase agreement through which the purchase of the Put
+ Portfolio Asset by Party B has been financed (or refinanced), with the result
+ that (x) such Put Portfolio Asset is included in Party B’s balance sheet
+ assets and (y) any income deriving from the Put Portfolio Asset accrues
+ to Party B. 
+
+ Obligations of Party A Unconditional: 
+
+ In
+ relation to its payment obligations under this Put Option Transaction each of Dexia and DCL waives
+ all rights (whether by counterclaim, setoff or otherwise) and defenses
+ (including, without limitation, the defense of fraud), to the extent that
+ such rights and defenses may be available to Party A to avoid payment of
+ their respective obligations under this Put Option Transaction in accordance
+ with its terms (but subject to Party A’s right to receive Delivery of the Put
+ Settlement Assets on any Put Settlement Date and
+ the Call Settlement Assets on any Call Settlement Date) . 
+
+ Subrogation Rights: 
+
+ Subject
+ to and conditioned upon payment by DCL or Dexia ( or, in the case of Dexia,
+ payment by the Sovereign Guarantors under the Sovereign Guarantee) , as
+ applicable, in connection with a Deferred Settlement Election, DCL or Dexia,
+ as applicable, shall be subrogated to the rights of Party B to receive
+ reimbursement from the Issuer of the relevant Put Settlement Asset for the
+ relevant Interest Shortfall, Principal Shortfall or Writedown Amount and to 
+
+ 17 
+
+ exercise
+ any right, power or the like of Party B with respect thereto, provided that
+ DCL or Dexia (as the case may be) may not exercise such subrogation rights
+ unless at such time the Subordinated Claims Payment Condition is satisfied. 
+
+ Effect of Payment by
+
+ Sovereign Guarantors : 
+
+ Notwithstanding a failure
+ by Party A to make one or more payments under this Agreement (including
+ without limitation any Delivery of Eligible Collateral), and as specified in
+ the Schedule, no Event of Default shall be deemed to have occurred in
+ relation to Dexia or DCL hereunder if the Sovereign Guarantee is still
+ applicable to the relevant payment obligation or to a Dexia Bankruptcy (and
+ no Sovereign Guarantee Unenforceability Date has occurred) and the Sovereign
+ Guarantors perform their payment obligations in relation thereto in a timely
+ manner pursuant to the terms of the Sovereign Guarantee. 
+
+ Multiple Exercise : 
+
+ For the avoidance
+ of doubt, the parties agree that
+ with respect to this Put Option Transaction and notwithstanding anything to
+ the contrary in the 2000 Definitions, multiple Put Settlement Dates may occur
+ and multiple Put Settlement Amounts may be payable by Party A. 
+
+ Calculation Agent Determinations: 
+
+ The Calculation
+ Agent shall be responsible for determining and calculating (i) the Put
+ Premium Amount payable on each Put Premium Payment Date; and (ii) the
+ determination of Shortfall Amounts and providing the Shortfall Information;
+ provided that notwithstanding the above, each of FSA, the Collateral Agent,
+ Party B and Party A shall be entitled to determine and calculate the above
+ amounts to the extent that FSA, the Collateral Agent, Party B or Party A, as
+ applicable, have the right to deliver a notice to the other party demanding
+ payment of such amount. The
+ Calculation Agent, FSA, the Collateral Agent, Party B or Party A, as
+ applicable, shall make such determinations and calculations based solely on
+ the basis of the Servicer Reports, to the extent such Servicer Reports are
+ reasonably available to the Calculation Agent, FSA, the Collateral Agent,
+ Party B or Party A, as applicable. The
+ Calculation Agent, FSA, the Collateral Agent, Party B or Party A, as
+ applicable, shall, as soon as practicable after making any of the
+ determinations or calculations specified in (i) and (ii) above,
+ notify FSA and the parties or the other party, as applicable, of such
+ determinations and calculations. For the avoidance of doubt, if an Interest
+ Shortfall Amount is not explicitly set out in the Servicer Report but the
+ Calculation Agent determines that an Interest Shortfall has occurred on the
+ basis of information in such Servicer Report, then the relevant Interest
+ Shortfall Amount shall be calculated and reported by the 
+
+ 18 
+
+ Calculation Agent
+ on the basis of such information. 
+
+ Adjustment of Calculation
+
+ Agent Determinations 
+
+ To
+ the extent that a Servicer furnishes any Servicer Reports correcting
+ information contained in previously issued Servicer Reports, and such
+ corrections impact calculations pursuant to this Put Option Transaction, the
+ calculations relevant to this Put Option Transaction shall be adjusted
+ retroactively by the Calculation Agent to reflect the corrected information
+ (provided that, for the avoidance of doubt, no amounts in respect of interest
+ shall be payable by either party and provided that the Calculation Agent in
+ performing the calculations pursuant to this paragraph will assume that no
+ interest has accrued on any adjusted amount), and the Calculation Agent shall
+ promptly notify both parties and FSA of any corrected payments required by
+ either party. Any required corrected payments shall be made within five
+ Business Days of the day on which such notification by the Calculation Agent
+ is effective. 
+
+ 6. Notices and Account Details: 
+
+ Notices to Party
+ B: 
+
+ As set forth in the Schedule 
+
+ Notices to Party
+ A: 
+
+ As set forth in
+ the Schedule 
+
+ Account Details of
+ Party B: 
+
+ The FSAM Cash Account (as defined in
+ the Pledge and Administration Agreement) 
+
+ Account Details of
+ Party A: 
+
+ To be advised in writing by Party A 
+
+ 7. Additional
+Definitions : 
+
+ For the purposes of this Put Option Transaction
+only, the following terms have the meanings given below: 
+
+ “ Accelerated Downgrade Liquidity Draw ” has
+the meaning specified in the relevant Guaranteed Liquidity Facility. 
+
+ “ Accelerated Downgrade Liquidity Draw Deadline ”
+means 9:00 am, New York City time on the first Business Day after the date on
+which the relevant Accelerated Downgrade Liquidity Draw is deemed requested
+(under the terms of the relevant Guaranteed Liquidity Facility). 
+
+ “ Actual Interest Amount ” means, with respect
+to any Put Portfolio Asset Payment Date, payment by or on behalf of the Issuer
+of an amount in respect of interest due under the Put Portfolio Asset
+(including, without limitation, any deferred interest or default interest but
+excluding payments in respect of prepayment penalties, yield maintenance
+provisions or principal, except that the Actual Interest Amount shall include
+any payment of principal representing capitalized interest) to the holder(s) of
+the Put Portfolio Asset in respect of the Put Portfolio Asset. 
+
+ 19 
+
+ “ Actual Principal Amount ” means, with
+respect to the Final Amortization Date, Principal Installment Date or the Legal
+Final Maturity Date, an amount paid on such day by or on behalf of the Issuer
+in respect of principal (excluding any amount representing capitalized
+interest) to the holder(s) of the Put Portfolio Asset in respect of the
+Put Portfolio Asset. 
+
+ “ Applicable
+Percentage ” means in relation to any Put Portfolio Asset the
+percentage indicated as such in the Put Portfolio Annex. 
+
+ “ Collateral Agent ”
+has the meaning specified in the Pledge and Administration Agreement. 
+
+ “ DCL
+Bankruptcy ” means the occurrence with respect to DCL of an event
+described in Section 5(a)(vii), provided, however, that subclause (4) of
+Section 5(a)(vii) shall be amended so that the reference to “30 days”
+in subclause (4)(B) of Section 5(a)(vii) shall refer to “60 days”. 
+
+ “ Effective
+Maturity Date ” in relation to any Put Portfolio Asset means the
+earlier of the Legal Final Maturity Date or Final Amortization Date, each as
+subject to adjustment in accordance with the Following Business Day Convention,
+in relation to such Put Portfolio Asset. 
+
+ “ Expected
+Interest Amount ” means, with respect to any Put Portfolio Asset
+Payment Date, the amount of current interest that would accrue during the
+related Put Portfolio Asset Calculation Period calculated using the Put
+Portfolio Asset Coupon on a principal balance of the Put Portfolio Asset equal
+to (measured as of the first day of the related Put Portfolio Asset Calculation
+Period) the Outstanding Principal Amount taking into account any reductions due
+to a principal deficiency balance or realized loss amount (however described in
+the Underlying Instruments) that are attributable to the Put Portfolio Asset,
+and that will be payable on the related Put Portfolio Asset Payment Date
+assuming for this purpose that sufficient funds are available therefor in
+accordance with the Underlying Instruments. 
+
+ Except as
+provided in the previous sentence, the Expected Interest Amount shall be
+determined without regard to (i) unpaid amounts in respect of accrued
+interest on prior Put Portfolio Asset Payment Dates; (ii) any prepayment
+penalties or yield maintenance provisions; or (iii) the effect of any
+provisions (however described) of such Underlying Instruments that otherwise
+permit the limitation of due payments to distributions of funds available from
+proceeds of the Underlying Assets, or that provide for the capitalization or
+deferral of interest on the Put Portfolio Asset, or that provide for the
+extinguishing or reduction of such payments or distributions or (iv) any “available
+funds cap” or “net WAC cap” or similar provision of the Underlying Instruments
+(each a “ Limitation Provision ”)
+(but, for the avoidance of doubt, taking account of any Writedown within the
+definition of “Writedown” occurring in accordance with the Underlying
+Instruments). 
+
+ For the
+purposes of calculating the Expected Interest Amount, and notwithstanding any
+other provision herein, the Put Portfolio Asset Coupon shall be deemed to
+include any cap stated in the Underlying Instrument that is not a Limitation
+Provision (but any “available funds cap” or “net WAC cap” or similar provision
+of the Underlying Instruments shall be deemed to constitute a Limitation
+Provision and not a cap as described in this sentence). 
+
+ “ Expected Principal Amount ” means (A) with
+respect to the Final Amortization Date or the Legal Final Maturity Date, an
+amount equal to (i) the Outstanding Principal Amount of the Put Portfolio
+Asset payable on such day (excluding any amount representing capitalized
+interest) assuming for this purpose that sufficient funds are available for
+such payment, where such amount shall be determined in accordance with the
+Underlying Instruments, minus (ii) the net aggregate principal deficiency
+balance or realized loss amounts (however described in the Underlying
+Instruments) that are attributable to the Put Portfolio Asset and (B) with
+respect to any Principal Installment Date, the Principal Installment Amount for
+such Principal Installment Date. The
+Expected Principal Amount shall be determined without regard to the effect of
+any provisions (however described) of the Underlying Instruments that permit
+the limitation of due payments or distributions of funds in accordance with the
+terms of such Put Portfolio Asset or that provide for the extinguishing or 
+
+ 20 
+
+ reduction of
+such payments or distributions. 
+
+ “ Failure to Pay Principal ” means (i) a
+failure by the Issuer (and any applicable Insurer) to pay an Expected Principal
+Amount on the Final Amortization Date, the Legal Final Maturity Date or a
+Principal Installment Date, as the case may be, or (ii) payment on any
+such day of an Actual Principal Amount that is less than the Expected Principal
+Amount; provided that the failure by the Issuer (and any applicable Insurer) to
+pay any such amount in respect of principal in accordance with the foregoing
+shall not constitute a Failure to Pay Principal if such failure has been
+remedied within any grace period applicable to such payment obligation under
+the Underlying Instruments or, if no such grace period is applicable, within
+five Business Days after the day on which the Expected Principal Amount was
+scheduled to be paid. 
+
+ “ Final Amortization Date ” means the first to
+occur of (i) the date on which the Put Portfolio Asset Principal Amount is
+reduced to zero and (ii) the date on which the Underlying Assets owned or
+held by the Issuer are liquidated, distributed or otherwise disposed of in full
+and the proceeds thereof are distributed or otherwise disposed of in full. 
+
+ “ GICs ” means the guaranteed investment
+contracts (including guaranteed investment contracts in the form of repurchase
+agreements) entered into by the GIC Issuers on or prior to the Effective Date
+and listed on Annex 4 hereto. 
+
+ “ GIC Balance ” means on any date of
+determination the aggregate outstanding principal balance of the GICs as most
+recently reported under the Pledge and Administration Agreement on such date. 
+
+ “ GIC Issuers ” means FSA Capital Markets
+Services (Caymans) Limited, FSA Capital Management Services LLC and FSA Capital
+Markets Services LLC. 
+
+ “ Initial Face Amount ” means in relation to
+any Put Portfolio Asset the amount indicated as such in the Put Portfolio
+Annex. 
+
+ “ Initial Factor ” means in relation to any
+Put Portfolio Asset the factor indicated as such in the Put Portfolio Annex. 
+
+ “ Interest Shortfall ” means, with respect to
+any Put Portfolio Asset Payment Date, either (a) the non-payment of an
+Expected Interest Amount or (b) the payment of an Actual Interest Amount
+that is less than the Expected Interest Amount. 
+For the avoidance of doubt, the occurrence of an event within (a) or
+(b) shall be determined taking into account any payment made under the
+Underlying Policy, if applicable. 
+
+ “ Interest Shortfall Amount ” means with
+respect to any Put Portfolio Asset Payment Date, an amount equal to the greater
+of: 
+
+ (a) zero; and 
+
+ (b) the amount equal to
+the product of: 
+
+ (i) (A) the Expected Interest
+Amount; 
+
+ minus 
+
+ (B) the Actual
+Interest Amount; and 
+
+ (ii) the Applicable
+Percentage. 
+
+ “ Insurer ” means in relation to any Put
+Portfolio Asset the entity indicated as such, if any, in the Put Portfolio
+Annex. 
+
+ “ Issuer ” means in relation to any Put
+Portfolio Asset the entity indicated as such in the Put Portfolio 
+
+ 21 
+
+ Annex. 
+
+ “ Legal Final Maturity Date ” means in
+relation to any Put Portfolio Asset the date set out in the Put Portfolio Annex
+(subject, for the avoidance of doubt, to any business day convention applicable
+to the legal final maturity date of the Put Portfolio Asset), provided that if
+the legal final maturity date of the Put Portfolio Asset is amended, the Legal
+Final Maturity Date shall be such date as amended. 
+
+ “ Liquidity Facility ” has the meaning specified in the Pledge
+and Administration Agreement. 
+
+ “ Master Repurchase Agreement ” means the
+Master Repurchase Agreement, dated as of June 30, 2009, among Party B,
+each GIC Issuer and FSA as third party beneficiary, as the same may be
+replaced, refinanced, or amended, supplemented or otherwise modified from time
+to time. 
+
+ “ Original Principal Amount ” means in relation to any Put
+Portfolio Asset the amount indicated as such in the Put Portfolio Annex. 
+
+ “ Outstanding Principal Amount ” means, as of
+any date of determination with respect to the Put Portfolio Asset, the
+outstanding principal balance of the Put Portfolio Asset as of such date, which
+shall take into account: 
+
+ (i) all payments of
+principal; 
+
+ (ii) all writedowns or
+applied losses (however described in the Underlying Instruments) resulting in a
+reduction in the outstanding principal balance of the Put Portfolio Asset
+(other than as a result of a scheduled or unscheduled payment of principal); 
+
+ (iii) forgiveness of any
+amount by the holders of the Put Portfolio Asset pursuant to an amendment to
+the Underlying Instruments resulting in a reduction in the outstanding
+principal balance of the Put Portfolio Asset; 
+
+ (iv) any payments reducing
+the amount of any reductions described in (ii) and (iii) of this
+definition; and 
+
+ (v) any increase in the
+outstanding principal balance of the Put Portfolio Asset that reflects a
+reversal of any prior reductions described in (ii) and (iii) of this
+definition; and 
+
+ (vi) any increase in the
+outstanding principal balance of the Put Portfolio Asset that is attributable
+to the deferral or capitalization of interest prior to the Effective Date. 
+
+ For
+the avoidance of doubt, the Outstanding Principal Amount shall not include any
+portion of the outstanding principal balance of the Put Portfolio Asset that is
+attributable to the deferral or capitalization of interest on or after the
+Effective Date. 
+
+ “ Principal Installment Amount ” means, with
+respect to any Put Portfolio Asset having scheduled installment dates for the
+repayment of principal, and a Principal Installment Date, the amount of the
+relevant installment of principal payable on such Principal Installment Date. 
+
+ “ Principal Installment Date ” means, with
+respect to any Put Portfolio Asset having scheduled installment dates for the
+repayment of principal, each such scheduled installment date (other than any
+Legal Final Maturity Date or Final Amortization Date). 
+
+ “ Principal Payment ” means, with respect to
+any Put Portfolio Asset Payment Date, the occurrence of a payment of an amount
+to the holders of the Put Portfolio Asset in respect of principal (scheduled or
+unscheduled) in respect of the Put Portfolio Asset other than a payment in
+respect of principal representing capitalized interest. 
+
+ “ Principal Payment Amount ” means, with
+respect to any Put Portfolio Asset Payment Date, an amount equal to the product
+of (i) the amount of any Principal Payment on such date and (ii) the 
+
+ 22 
+
+ Applicable
+Percentage. 
+
+ “ Principal Shortfall Amount ” means, in
+respect of a Failure to Pay Principal, an amount equal to the greater of: 
+
+ (i) zero; and 
+
+ (ii) the amount equal to the
+product of: 
+
+ (A) the Expected Principal
+Amount minus the Actual Principal Amount; and 
+
+ (B) the Applicable Percentage. 
+
+ If
+the Principal Shortfall Amount would be greater than the Put Portfolio Asset
+Principal Amount immediately prior to the occurrence of such Failure to Pay
+Principal, then the Principal Shortfall Amount shall be deemed to be equal to
+the Put Portfolio Asset Principal Amount at such time. 
+
+ “ Put
+Portfolio Asset Calculation Period ” means, with respect to each Put
+Portfolio Asset Payment Date, a period corresponding to the interest accrual
+period relating to such Put Portfolio Asset Payment Date pursuant to the Underlying
+Instruments. 
+
+ “ Put
+Portfolio Asset Coupon ” means the periodic interest rate applied in
+relation to each Put Portfolio Asset Calculation Period on the related Put
+Portfolio Asset Payment Date (including any scheduled step-up or similar
+scheduled adjustment to such interest rate from time to time provided under the
+terms of the Underlying Instruments), as determined in accordance with the
+terms of the Underlying Instruments as at the Effective Date, without regard to
+any subsequent amendment to which Party A and the Sovereign Guarantors have not
+given their prior written consent (other than an amendment with respect to
+which the consent of the holder of the Put Portfolio Asset is not required). 
+
+ “ Put
+Portfolio Asset Payment Date ” means each scheduled distribution date
+for the Put Portfolio Asset occurring on or after the Effective Date and on or
+prior to the Legal Final Maturity Date for such Put Portfolio Asset, determined
+in accordance with the Underlying Instruments. 
+
+ “ Put
+Portfolio Asset Principal Amount ” means the following: 
+
+ On the
+Effective Date, the product of: 
+
+ (a) the Original Principal
+Amount; 
+
+ (b) the Initial Factor;
+and 
+
+ (c) the Applicable
+Percentage. 
+
+ Following the
+Effective Date, each Put Portfolio Asset Principal Amount will be: 
+
+ (i) decreased on each day
+on which a Principal Payment is made by the relevant Principal Payment Amount; 
+
+ (ii) decreased on the day,
+if any, on which a Failure to Pay Principal occurs by the relevant Principal
+Shortfall Amount; and 
+
+ (iii) decreased on each day
+on which a Writedown occurs by the relevant Writedown Amount. 
+
+ For the
+avoidance of doubt, the Put Portfolio Asset Principal Amount shall not be
+increased by any deferral or capitalization of interest or decreased by payment
+of any portion of the principal balance of the Put Portfolio Asset that is
+attributable to the deferral or capitalization of interest. 
+
+ “ Repurchase Agreement Facility ” has the meaning specified in
+the Pledge and Administration 
+
+ 23 
+
+ Agreement. 
+
+ “ Servicer ”
+means any trustee, servicer, sub-servicer, master servicer, fiscal agent,
+paying agent or other similar entity responsible for calculating payment
+amounts or providing reports pursuant to the Underlying Instruments. 
+
+ “ Servicer
+Report ” means a periodic statement or report regarding the Put
+Portfolio Asset provided by the Servicer to holders of the Put Portfolio Asset. 
+
+ “ Shortfall Amount ”
+means any Interest Shortfall Amount, Principal Shortfall Amount or Writedown
+Amount. 
+
+ “ Sovereign
+Asset Guarantee Expiration Date ” means March 30, 2035 unless
+such date is extended by the Sovereign Guarantors. 
+
+ “ Specified
+Currency Rate ” means in relation to any Put Settlement Asset (i) if Party A or
+the Sovereign Guarantors assume all of the rights and obligations of Party B
+under the a currency hedge identified as related to such Put Settlement Asset in the Hedge Agreement Register
+under the Pledge and Administration Agreement such that Party B has no
+further rights or obligations under such currency hedge, the rate of exchange
+specified under such currency hedge or (ii) if (i) is not applicable,
+by reference to the Federal Reserve Bank of New York 10:00 a.m. (New York
+City time) mid-point rate as displayed on Reuters Page FEDSPOT on the
+second Business Day preceding the relevant Put Settlement Date, or if such rate
+is unavailable, in such other commercially reasonable manner as the Calculation
+Agent shall determine after consultation with the parties. 
+
+ “ Subordinated Claims Payment Condition ” has the meaning
+specified in the Pledge and Administration Agreement. 
+
+ “ Underlying Assets ” means the assets
+securing the Put Portfolio Asset for the benefit of the holders of the Put
+Portfolio Asset and which are expected to generate the cashflows required for
+the servicing and repayment (in whole or in part) of the Put Portfolio Asset,
+or the assets which secure and/or support the Issuer’s obligations to the
+holder of such Put Portfolio Asset where such exposure is created
+synthetically. 
+
+ “ Underlying Instruments ” means the indenture,
+trust agreement, pooling and servicing agreement or other relevant agreement(s)
+setting forth the terms of the Put Portfolio Asset. 
+
+ “ Underlying Policy ” means in relation to any
+Put Portfolio Asset the guarantee or insurance policy, if any, indicated as
+such in the Put Portfolio Annex. 
+
+ “ Writedown ” means the
+occurrence at any time on or after the Effective Date of: 
+
+ (A) a writedown or applied loss (however described in the
+Underlying Instruments) resulting in a reduction in the Outstanding Principal
+Amount (other than as a result of a scheduled or unscheduled payment of
+principal); or 
+
+ (B) 
+the attribution of a principal deficiency or realized loss (however described
+in the Underlying Instruments) to the Put Portfolio Asset resulting in a
+reduction or subordination of the current interest payable on the Put Portfolio
+Asset. 
+
+ “ Writedown Amount ” means,
+with respect to any day, the product of (i) the amount of any Writedown on
+such day and (ii) the Applicable Percentage. 
+
+ 24 
+
+ Please confirm your agreement to be
+bound by the terms of the foregoing by executing a copy of this Confirmation
+and returning it to us. 
+
+ Yours faithfully, 
+
+ FSA ASSET MANAGEMENT
+ LLC 
+
+ By: 
+
+ Name: 
+
+ Title: 
+
+ DEXIA SA 
+
+ By: 
+
+ Name: 
+
+ Title: 
+
+ DEXIA CRÉDIT LOCAL S.A. , acting through
+ its New York Branch 
+
+ By: 
+
+ Name: 
+
+ Title: 
+
+ Guaranteed
+Put Confirmation

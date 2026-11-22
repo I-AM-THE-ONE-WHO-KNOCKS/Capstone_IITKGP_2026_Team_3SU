@@ -1,0 +1,1766 @@
+EX-99.6
+ 2
+ ss1017089_ex9906.htm
+ FORM OF FORWARD CONFIRMATION
+
+ EXHIBIT 99.6 
+
+ Execution Version 
+
+ AVERAGING SHARE FORWARD TRANSACTIONS 
+
+ May __, 2022
+
+ From: 
+ Citigroup Global Markets Limited 
+
+ 390 Greenwich Street 
+
+ New York, NY 10013 
+
+ To: 
+ INCJ SJ Investment Limited 
+
+ 7 th Floor, Tokyo Toranomon 
+
+ Global Square 1-3-1, Toranomon, Minato-Ku 
+
+ Tokyo 105-0001, Japan 
+
+ Ladies and Gentlemen:
+
+ The purpose of this
+letter agreement (this “ Master Confirmation ”) is to set forth the terms and conditions of one or more transactions
+(each, a “ Transaction ”) entered into hereunder from time to time between Citigroup Global Markets Limited (“ Dealer ”)
+and INCJ SJ Investment Limited (“ Counterparty ”). Each such Transaction entered into between Dealer and Counterparty
+that is subject to this Master Confirmation shall be evidenced by a supplemental confirmation substantially in the form of Annex A 
+hereto (a “ Supplemental Confirmation ”), with such modifications as to which Dealer and Counterparty mutually agree.
+This Master Confirmation and each Supplemental Confirmation together shall constitute a “Confirmation” for the purposes of
+the Agreement specified below. In each Transaction, Dealer acts as counterparty only and not as an advisor or fiduciary to Counterparty.
+
+ The definitions and
+provisions contained in the 2002 ISDA Equity Derivatives Definitions (the “ Equity Definitions ”) as published by the
+International Swaps and Derivatives Association, Inc. (“ ISDA ”) are incorporated into each Confirmation, including this
+Master Confirmation.
+
+ Each party is hereby
+advised, and each such party acknowledges, that the other party has engaged in, or refrained from engaging in, substantial financial transactions
+and has taken other material actions in reliance upon the parties’ entry into any Transaction to which this Master Confirmation
+relates on the terms and conditions set forth below.
+
+ This Master Confirmation
+and each Supplemental Confirmation evidence a complete binding agreement between Dealer and Counterparty as to the subject matter and
+terms of each Transaction to which this Master Confirmation and such Supplemental Confirmation relate and shall supersede all prior or
+contemporaneous written or oral communications with respect thereto. This Master Confirmation and each Supplemental Confirmation supplement,
+form a part of, and are subject to an agreement in the form of the ISDA 2002 Master Agreement (the “ Agreement ”) as
+if Dealer and Counterparty had executed the Agreement on the date of this Master Confirmation (without any Schedule but with (i) the elections
+set forth in this Master Confirmation and (ii) the Credit Support Annex in the form of 1995 ISDA Credit Support Annex (Bilateral Form
+– Transfer) with the Paragraph 11 elections in respect thereof set forth in Annex B hereto (the “ Credit Support
+Annex ”)). All provisions contained in the Agreement govern this Master Confirmation and each Supplemental Confirmation except
+as expressly modified herein and in the related Supplemental Confirmation. For the avoidance of doubt, the Transactions under this Master
+Confirmation shall be the only transactions under the Agreement and shall not be subject to any other (existing or deemed) master agreement
+to which Dealer and Counterparty are parties.
+
+ If, in relation to
+any Transaction to which this Master Confirmation and a Supplemental Confirmation relate, there is any inconsistency among any of the
+Agreement, this Master Confirmation, such Supplemental Confirmation and the Equity Definitions, the following will prevail for purposes
+of such Transaction in the order of precedence indicated: (i) such Supplemental Confirmation; (ii) this Master Confirmation; (iii) the
+Equity Definitions; and (iv) the Agreement.
+
+ Page 1 
+
+ 1. Each
+Transaction consists of the Share Forward Transaction described below for the purpose of the Equity Definitions. Set forth below are the
+general terms and conditions which, together with the terms and conditions set forth in the Supplemental Confirmation (in respect of the
+related Transaction), shall govern such Transaction:
+
+ General Terms : 
+
+ Trade Date: 
+ For
+each Transaction, as set forth in the applicable Supplemental Confirmation. 
+
+ Seller: 
+ Counterparty. 
+
+ Buyer: 
+ Dealer. 
+
+ Shares: 
+ The common stock, par value $0.01 per share (“ Common Stock ”), of Eneti Inc. (the “ Issuer ”)
+(Exchange symbol “NETI”). 
+
+ Number of
+Shares: 
+ For each Transaction, as set forth in the applicable Supplemental Confirmation. 
+
+ Forward Price: 
+ An
+amount in USD equal to the Valuation Price plus the Forward Price Adjustment Amount. 
+
+ Forward Price Adjustment Amount: 
+ For each Transaction, as set forth in the applicable Supplemental Confirmation. 
+
+ Prepayment: 
+ Not Applicable. 
+
+ Variable Obligation: 
+ Not Applicable. 
+
+ Exchange: 
+ The New York Stock Exchange. 
+
+ Related Exchange(s): 
+ All Exchanges. 
+
+ Calculation Agent: 
+ Dealer; provided that, following the occurrence of an Event of Default described in Section 5(a)(vii) of the Agreement with respect to which Dealer is the Defaulting Party, Counterparty shall have the right to designate a nationally recognized third-party dealer in over-the-counter equity derivatives market to act as the substitute Calculation Agent. Upon receipt of written request from Counterparty following any calculation, adjustment or determination made by Calculation Agent hereunder, Calculation Agent shall, within five (5) Exchange Business Days from the receipt of such request, provide Counterparty with a written explanation describing, in reasonable detail, such calculation, adjustment or determination (including any market data or information from internal sources used in arriving at such calculation, adjustment or determination, but without disclosing Calculation Agent’s models or information that is proprietary or that Dealer is subject to contractual, legal or regulatory obligations not to disclose). 
+
+ Valuation: 
+
+ Valuation Price: 
+ The arithmetic average of the VWAP Prices for the Exchange Business Days in the Calculation Period, subject to “Calculation Period Disruption” below . 
+
+ Page 2 
+
+ VWAP Price: 
+ For any Exchange Business Day, the per-Share volume weighted average price based on transactions executed in the United States as displayed under the heading “Bloomberg VWAP” on Bloomberg page “NETI US <equity> AQR” (or any successor thereto) in respect of the period from 9:30 am New York City time to 3.55 pm New York City time on such Exchange Business Day or, in the event such price is not so reported on such Exchange Business Day for any reason or is manifestly erroneous, as determined by the Calculation Agent based on such transactions reported to the consolidated tape. 
+
+ Calculation Period: 
+ The period from and including the Calculation Period Start Date to and including the Valuation Date. 
+
+ Calculation Period Start Date: 
+ For each Transaction, as set forth in the applicable Supplemental Confirmation; provided that, if such Calculation Period Start Date is excluded from the Calculation Period as a result of “Calculation Period Disruption” below, the Calculation Period Start Date shall be the next Exchange Business Day that is not so excluded. 
+
+ Valuation Date: 
+ The Scheduled Valuation Date; provided that Dealer shall have the right to designate any Scheduled Trading Day after the First Acceleration Date, in whole or in part, to be the Valuation Date for such Transaction (the “ Accelerated Valuation Date ”) by delivering notice (the “ Acceleration Notice ”) to Counterparty of any such designation prior to 5:00 p.m. New York City time (which, for purposes of such Acceleration Notice and Section 12 of the Agreement, shall be deemed the close of business) on the Scheduled Trading Day immediately following the designated Accelerated Valuation Date (the date such notice is effective, the “ Notice Delivery Date ”) and specifying the portion of Number of Shares that is subject to acceleration. If the portion of Number of Shares that is subject to acceleration is less than the full remaining Number of Shares, then the Calculation Agent shall make such mechanical or administrative adjustments to the terms of such Transaction as appropriate in order to take into account the occurrence of such Accelerated Valuation Date (including cumulative adjustments to take into account all prior Acceleration Valuation Dates). 
+
+ Scheduled Valuation Date: 
+ For each Transaction, as set forth in the applicable Supplemental Confirmation, subject to “Calculation Period Disruption” below. 
+
+ First Acceleration Date: 
+ For each Transaction, as set forth in the applicable Supplemental Confirmation. 
+
+ Calculation Period Disruption: 
+ Notwithstanding anything to the contrary in the Equity Definitions, to the extent that a Disrupted Day occurs during the Calculation Period, the Calculation Agent shall postpone the Scheduled Valuation Date by one Scheduled Trading Day for each such Disrupted Day and shall deliver notice in writing to Counterparty of such postponement within one (1) Scheduled Trading Day of such Disrupted Day or, if earlier, the previously scheduled Scheduled Valuation Date. 
+
+ Page 3 
+
+ For any Disrupted Day, the Calculation Agent shall determine whether (i) such Disrupted Day is a Disrupted Day in full, in which case the VWAP Price for such Disrupted Day shall be excluded from the Calculation Period and the determination of the Valuation Price or (ii) such Disrupted Day is a Disrupted Day only in part, in which case such Disrupted Day shall be included in the Calculation Period and the VWAP Price for such Disrupted Day shall be determined by the Calculation Agent based on such sources as it reasonably determines appropriate, taking into account the nature and duration of such Market Disruption Event on such day, and the weighting of the VWAP Price for the relevant Exchange Business Days during the Calculation Period shall be adjusted by the Calculation Agent for purposes of determining the Valuation Price with such adjustments based on, among other factors, the duration of such Market Disruption Event and the volume, historical trading patterns and price of the Shares, and the Calculation Agent shall provide Counterparty notice of any such adjustments promptly following such partially Disrupted Day. Any Scheduled Trading Day on which, as of the Trade Date, the Exchange is scheduled to close prior to its normal close of trading shall be deemed not to be a Scheduled Trading Day; if a closure of the Exchange prior to its normal close of trading on any Scheduled Trading Day is scheduled following the Trade Date, but prior to the open of the regular trading session of the Exchange on such day, then such Scheduled Trading Day shall be deemed to be a Disrupted Day in full. 
+
+ If a Disrupted Day occurs during the Calculation Period and each of the eight (8) consecutive immediately following Scheduled Trading Days is a Disrupted Day (an “ Extended Disruption Event ” (which shall be deemed to occur on such 8 th consecutive Scheduled Trading Day)), then the Calculation Agent may deem such eighth (8th) Scheduled Trading Day to be an Exchange Business Day that is not a Disrupted Day and determine the VWAP Price for such eighth Scheduled Trading Day in a commercially reasonable manner based on the volume, historical trading patterns and price of the Shares and such other factors as it reasonably determines appropriate. If an Extended Disruption Event occurs after the Trade Date, but prior to the First Acceleration Date for any Transaction, the First Acceleration Date shall be the date such Extended Disruption Event occurs. 
+
+ Market Disruption Event: 
+ Section 6.3(a) of the Equity Definitions is hereby amended by deleting the words “during the one hour period that ends at the relevant Valuation Time, Latest Exercise Time, Knock-in Valuation Time or Knock-out Valuation Time, as the case may be” in clause (ii) thereof. 
+
+ Section 6.3(d) of the Equity Definitions is hereby amended by deleting the remainder of the provision following the term “Scheduled Closing Time” in the fourth line thereof. 
+
+ Settlement Terms :
+
+ Settlement Method Election: 
+ Not Applicable. 
+
+ Settlement Method: 
+ Physical Settlement. In lieu of Section 9.2(a) of the Equity Definitions, on the relevant Settlement Date, Dealer will pay to Counterparty an amount equal to the Forward Price multiplied by the Number of Shares to be Delivered, and Counterparty will deliver to Dealer the Number of Shares to be Delivered (rounded down to the nearest whole Share). 
+
+ Number of Shares to be Delivered: 
+ The remaining Number of Shares or the Number of Shares designated in the relevant Acceleration Notice, as applicable. 
+
+ Page 4 
+
+ Settlement Date: 
+ The date that is one Settlement Cycle immediately following the Valuation Date or the Notice Delivery Date if prior to the Scheduled Valuation Date. 
+
+ Settlement Currency: 
+ USD. 
+
+ Dividends :
+
+ Relevant Dividend: 
+ Any cash dividend or distribution on the Shares for which the ex-dividend date occurs at any time from but excluding the Trade Date for such Transaction to and including the Valuation Date for such Transaction. 
+
+ Adjustments with Respect 
+
+ to Cash Dividends: 
+ If there occurs a Relevant Dividend and any withholding or other tax may be imposed or required to be collected in connection therewith (including by reason of the Shares that have been transferred to Dealer pursuant to the Credit Support Annex), then the Calculation Agent will adjust the Forward Price, effective as of the ex-dividend date of such Relevant Dividend, to account for the economic effect of such tax on the theoretical value of the Transactions to Dealer (but without duplication of any other adjustment or payment required of Counterparty under the Agreement in respect of such tax). 
+
+ Share Adjustments :
+
+ Method of Adjustment: 
+ Calculation Agent Adjustment. 
+
+ Extraordinary Events :
+
+ New Shares: 
+ In the definition of New Shares in Section 12.1(i) of the Equity Definitions, (a) the text in clause (i) thereof shall be deleted in its entirety (including the word “and” following such clause (i)) and replaced with “publicly listed, traded or quoted on any of the New York Stock Exchange, The Nasdaq Global Select Market or The Nasdaq Global Market (or their respective successors),” and (b) the phrase “and (iii) issued by a corporation organized under the laws of the United States, any State thereof or the District of Columbia or the Republic of the Marshall Islands” shall be inserted immediately prior to the period. 
+
+ Consequences
+of Merger Events:
+
+ Share-for-Share: 
+ Modified Calculation Agent Adjustment. 
+
+ Share-for-Other: 
+ Cancellation and Payment. 
+
+ Share-for-Combined: 
+ Component Adjustment. 
+
+ Tender Offer: 
+ Applicable; provided, however , that the definitions of “Tender Offer”, “Tender Offer Date” and “Announcement Date” in Section 12.1 of the Equity Definitions are each hereby amended by adding after the words “voting shares” the words “or Shares” and that Section 12.1(d) of the Equity Definitions is hereby amended by replacing “greater than 10%” with “greater than 20%”. 
+
+ Consequences
+of Tender Offers:
+
+ Share-for-Share: 
+ Modified Calculation Agent Adjustment. 
+
+ Page 5 
+
+ Share-for-Other: 
+ Modified Calculation Agent Adjustment. 
+
+ Share-for-Combined: 
+ Modified Calculation Agent Adjustment. 
+
+ Consequences of Announcement 
+
+ Events: 
+ Modified Calculation Agent Adjustment as set forth in Section 12.3(d) of the Equity Definitions; provided that (x) references to “Tender Offer” shall be replaced by references to “Announcement Event” and references to “Tender Offer Date” shall be replaced by references to “date of such Announcement Event” and (y) the phrase “exercise, settlement, payment or any other terms of the Transaction (including, without limitation, the spread)” shall be replaced with the phrase “Forward Price Adjustment Amount”; provided further that the parties hereby agree that in making any adjustment pursuant to Section 12.3(d) of the Equity Definitions (as modified by this Master Confirmation), the Calculation Agent (i) shall take into account the economic effect on the theoretical value of the Transactions to Dealer of such Announcement Event from changes in volatility or liquidity relevant to the Shares or to the Transactions, as if the date of such Announcement Event were the date of first public announcement of the relevant event, or any intention to enter into such event and (ii) prior to making such adjustment, shall use its reasonable efforts to consult with Counterparty in good faith regarding such adjustment; provided that the foregoing clause (ii) shall not (a) limit the rights of Calculation Agent to make such adjustment at any time or (b) obligate the Calculation Agent to delay, or continue delaying, making such adjustment at any time. If an Announcement Event occurs after the Trade Date, but prior to the First Acceleration Date for any Transaction, the First Acceleration Date shall be the date of such Announcement Event. 
+
+ Announcement Event: 
+ (i) The public announcement by any entity of (x) any transaction or event that, if completed, would constitute a Merger Event or Tender Offer or (y) any acquisition or disposition by the Issuer or any of its subsidiaries that has been approved, agreed to or recommended by Issuer or its board of directors where, if completed, the aggregate consideration would exceed 20% of the market capitalization of the Issuer as of the date of such announcement (a “ Significant Transaction ”), (ii) the public announcement by Issuer of an intention to solicit or enter into or to explore strategic alternatives or other similar undertakings that may include, a Merger Event or Tender offer or a Significant Transaction or (iii) any subsequent public announcement by any entity of a withdrawal, discontinuation, termination or other change to a transaction or intention that is the subject of an announcement of the type described in clause (i) or (ii) of this sentence, as determined, in each case, by the Calculation Agent. For purposes of this definition of “Announcement Event,” the remainder of the definition of “Merger Event” in Section 12.1(b) of the Equity Definitions following the definition of “Reverse Merger” therein shall be disregarded. 
+
+ Page 6 
+
+ Nationalization, Insolvency 
+
+ or Delisting: 
+ Cancellation and Payment; provided that, in addition to the provisions of Section 12.6(a)(iii) of the Equity Definitions, it shall also constitute a Delisting if the Exchange is located in the United States and the Shares are not immediately re-listed, re-traded or re-quoted on any of the New York Stock Exchange, The Nasdaq Global Select Market or The Nasdaq Global Market (or their respective successors); if the Shares are immediately re-listed, re-traded or re-quoted on any such exchange or quotation system, such exchange or quotation system shall thereafter be deemed to be the Exchange. 
+
+ Additional Disruption Events: 
+
+ Change in Law: 
+ Applicable; provided that Section 12.9(a)(ii) of the Equity Definitions is hereby amended by (i) replacing the phrase “the interpretation” in the third line thereof with the phrase “or announcement or statement of the formal or informal interpretation”, (ii) replacing the word “Shares” with “Hedge Positions” in the sixth line thereof and (iii) adding the words “, or holding, acquiring or disposing of Shares or any Hedge Positions relating to,” after the words “obligations under” in clause (Y) thereof;” after the semi-colon in the last line thereof. 
+
+ Failure to Deliver: 
+ Applicable. 
+
+ Insolvency Filing: 
+ Applicable. 
+
+ Hedging Disruption: 
+ Inapplicable. 
+
+ Increased Cost of Hedging: 
+ Inapplicable. 
+
+ Loss of Stock Borrow: 
+ To the extent “Free Use” of the “Credit Support Balance” (in each case as defined in the Credit Support Annex) is not available to Dealer pursuant to Paragraph 11(g)(iv) of the Credit Support Annex, applicable; otherwise, not applicable; provided that if a Loss of Stock Borrow affects only a portion of a Transaction, any right to terminate such Transaction in respect of such Loss of Stock Borrow shall be limited to such portion as reasonably determined by the Calculation Agent. 
+
+ Maximum Stock Loan Rate: 
+ 300 basis points per annum . 
+
+ Increased Cost of 
+
+ Stock Borrow: 
+ To the extent “Free Use” of the “Credit Support Balance” (in each case as defined in the Credit Support Annex) is not available to Dealer pursuant to Paragraph 11(g)(iv) of the Credit Support Annex, applicable; otherwise, not applicable; provided that if an Increased Cost of Stock Borrow affects only a portion of a Transaction, any right to terminate such Transaction in respect of such Increased Cost of Stock Borrow shall be limited to such portion as reasonably determined by the Calculation Agent. 
+
+ Initial Stock Loan Rate: 
+ 0 basis points per annum . 
+
+ Hedging Party: 
+ For all Additional Disruption Events, Dealer. 
+
+ Determining Party: 
+ For all Extraordinary Events, Dealer. 
+
+ Non-Reliance: 
+ Applicable. 
+
+ Page 7 
+
+ Agreements and 
+
+ Acknowledgments Regarding 
+
+ Hedging Activities: 
+ Applicable. 
+
+ Additional Acknowledgments: 
+ Applicable. 
+
+ 2. Conditions : 
+
+ (a) 
+ With respect to each Transaction, Dealer’s obligations under such Transaction are subject to the satisfaction, or the waiver
+by Dealer, of the following conditions:
+
+ (i) 
+ The representations and warranties of Counterparty hereunder and in the Agreement (including as may be modified herein) shall be
+true and correct as of the Trade Date;
+
+ (ii) 
+ Counterparty shall have performed all of the covenants and obligations to be performed by Counterparty hereunder and under the
+Agreement (including as may be modified herein) on or prior to the Trade Date; and
+
+ (iii) 
+ Counterparty shall have executed the applicable Supplemental Confirmation.
+
+ 3. Other
+Provisions :
+
+ (a) 
+ Additional Representations and Agreements by Counterparty . Counterparty represents and warrants to and for the benefit of,
+and agrees with, Dealer (1) on the date hereof and (2) on each Trade Date (unless another date or dates are specified below), as follows:
+
+ (i) 
+ Counterparty is not entering into any Transaction hereunder “on the basis of” (as defined in Rule 10b5-1(b) under the
+Securities Exchange Act of 1934, as amended (the “ Exchange Act ”)), any material nonpublic information concerning the
+Shares or the business, operations or prospects of the Issuer. “ Material ” information for these purposes is any information
+to which an investor would reasonably attach importance in reaching a decision to buy, sell or hold securities of the Issuer.
+
+ (ii) 
+ Counterparty is an “eligible contract participant” (as such term is defined in Section 1a(18) of the Commodity Exchange
+Act, as amended).
+
+ (iii) 
+ Counterparty (A) is an “accredited investor” within the meaning of Rule 501(a) under the Securities Act of 1933, as
+amended (the “ Securities Act ”), (B) is entering into each Transaction for Counterparty’s own account and not
+with a view to distribution and (C) understands and acknowledges that each Transaction has not been and will not be registered under the
+Securities Act.
+
+ (iv) 
+ Counterparty is not, and after giving effect to the transactions contemplated hereby will not be, required to register as an “investment
+company” as such term is defined in the Investment Company Act of 1940, as amended.
+
+ (v) 
+ No Transaction hereunder will violate or contravene any trading or corporate policy of the Issuer applicable to Counterparty or
+Counterparty’s affiliates, including, but not limited to, the Issuer’s window period policy.
+
+ (vi) 
+ Counterparty (A) has not, within the preceding three months, except as set forth in any Form 144 or other notice delivered to Dealer
+prior to the Trade Date, sold any Shares (or security entitlements in respect thereof); and (B) agrees that Counterparty shall not, without
+the prior written consent of Dealer, sell any Shares (or security entitlements in respect thereof) during the Calculation Period pursuant
+to Rule 144 under the Securities Act (“ Rule 144 ”). For the purposes of (A) and (B) hereof, (i) Shares shall be deemed
+to include securities convertible into or exchangeable or exercisable for Shares; (ii) sales and purchases shall include hedges (through
+swaps, options, short sales or otherwise, and whether any such transaction is to be settled by delivery of Shares or other securities
+or cash) of any long or short position (as applicable) in the Shares (or security entitlements in respect thereof), and (iii) sales, purchases
+and hedges by Counterparty shall include those subject to aggregation with Counterparty for purposes of Rule 144.
+
+ Page 8 
+
+ (vii) 
+ If Counterparty were to sell on the Trade Date for a Transaction a number of Shares equal to the aggregate Number of Shares for
+such Transaction, such sales would comply with the volume limitations set forth in paragraph (e) of Rule 144.
+
+ (viii) 
+ Counterparty has not solicited or arranged for the solicitation of, and will not solicit or arrange for the solicitation of, orders
+to buy Shares in anticipation of or in connection with any sales of Shares that Dealer or an affiliate of Dealer effects in the public
+markets in connection with establishing Dealer’s Hedge Position with respect to any Transaction hereunder.
+
+ (ix) 
+ Except as provided herein, Counterparty has not made, will not make, and has not arranged for, any payment to any person in connection
+with any sales of Shares that Dealer or an affiliate of Dealer effects in the public markets in connection with establishing Dealer’s
+Hedge Position with respect to any Transaction.
+
+ (x) 
+ Counterparty does not know or have any reason to believe that the Issuer has not complied with the reporting requirements contained
+in paragraph (c)(1) of Rule 144.
+
+ (xi) 
+ Counterparty has, on or prior to the Trade Date, transmitted for filing with the Securities and Exchange
+Commission (the “ SEC ”) a Form 144 with respect to the relevant Transaction, and has filed, or will file, any amendments
+thereto necessary pursuant to Rule 144 or any related interpretations of the SEC. Counterparty promptly will provide Dealer with a copy
+of all such filings. 
+
+ (xii) 
+ Counterparty is not entering into this Master Confirmation or making any election hereunder to create
+actual or apparent trading activity in the Shares (or any security convertible into or exchangeable for Shares) or to raise or depress
+or otherwise manipulate the price of the Shares (or any security convertible into or exchangeable for Shares) in violation of applicable
+law. 
+
+ (xiii) 
+ Counterparty understands no obligations of Dealer to Counterparty hereunder will be entitled to the
+benefit of deposit insurance and that such obligations will not be guaranteed by any affiliate of Dealer or any governmental agency. 
+
+ (xiv) 
+ The assets used in connection with the execution, delivery and performance of the Agreement and the
+Transactions entered into hereunder are not and will not be the assets of (A) an “employee benefit plan” (with the meaning
+of Section 3(3) of the Employee Retirement Income Security Act of 1974, as amended (“ ERISA ”)) subject to Title I of
+ERISA, (B) a plan described in Section 4975 of the Internal Revenue Code of 1986, as amended (the “ Code ”) to which
+Section 4975 of the Code applies or (C) an entity whose underlying assets include “plan assets” by reason of Department of
+Labor regulation section 2510.3-101 (as modified by Section 3(42) of ERISA) or otherwise. 
+
+ (xv) 
+ Without limiting the representations contained in Section 3(a)(iii) of the Agreement, Counterparty
+represents that its execution, delivery and performance of this Master Confirmation (including, without limitation, the delivery of Shares
+under this Master Confirmation or the Credit Support Annex) and any other documentation relating to the Agreement to which Counterparty
+or any of its Affiliates is a party do not violate or conflict with any of the terms or provisions of any stockholders’ agreement,
+registration rights agreement, confidentiality agreement, merger agreement, right of first refusal or other agreement binding on Counterparty
+or its Affiliates, including the Share Purchase Agreement, dated as of August 5, 2021, by and between Issuer and Counterparty and each
+other party thereto, and the Registration Rights Agreement, dated as of August 12, 2021, by and between Issuer and Counterparty and each
+other party thereto. 
+
+ (xvi) 
+ Neither Peter Niklai nor any other affiliate of Counterparty is a director of the Issuer and neither
+Counterparty nor any of its affiliates is a party to the Shareholders’ Agreement, dated as of August 12, 2021, by and between Issuer,
+Marubeni Corporation and each other party thereto (the “ Shareholders’ Agreement ”). 
+
+ Page 9 
+
+ (xvii) 
+ Non-US client . Counterparty is an Offshore Client and the Decision Maker is not located or
+present in the United States. For purposes hereof “Offshore Client” means (i) an entity not organized or incorporated under
+the laws of the U.S. and not engaged in a trade or business in the United States for U.S. federal income tax purposes, (ii) any natural
+person who is not a U.S. resident or (iii) any entity not organized or incorporated under the laws of the United States substantially
+all of the outstanding voting securities of which are beneficially owned by persons described in (i) and (ii) immediately above and “Decision
+Maker” means the person making the investment decision and/or placing the order on behalf of Counterparty. 
+
+ (b) 
+ Interpretive Letter . The parties intend for this Master Confirmation together with the Agreement and each Supplemental Confirmation
+to constitute a “contract” as described in the letter dated December 14, 1999 submitted by Robert W. Reeder and Alan L. Beller
+to Michael Hyatte of the staff of the SEC (the “ Staff ”) to which the Staff responded in an interpretive letter dated
+December 20, 1999 and the letter dated November 30, 2011 submitted by Robert T. Plesnarski and Glen A. Rae to Thomas Kim of the Staff
+to which the Staff responded in an interpretive letter dated December 1, 2011 (collectively, the “ Interpretive Letters ”).
+
+ (c) 
+ Additional Representations and Agreements by Dealer . Dealer represents and warrants to and for the benefit of, and agrees
+with, Counterparty (1) on the date hereof and (2) on each Trade Date that:
+
+ (i) 
+ Dealer is (A) an “accredited investor” within the meaning of Rule 501(a) under the Securities
+Act, (B) is entering into each Transaction for Dealer’s own account and not with a view to distribution and (C) understands and
+acknowledges that each Transaction has not and will not be registered under the Securities Act; 
+
+ (ii) 
+ Dealer (or its affiliate) shall sell the full Number of Shares to be Delivered for all Transactions
+in accordance with the requirements of the Interpretive Letters (including without limitation in compliance with the “manner of
+sale” requirements of paragraphs (f) and (g) of Rule 144) and shall notify Counterparty promptly following completion of such sale;
+and 
+
+ (iii) 
+ the aggregate number of Shares sold by Dealer or its affiliate(s) on any day in connection with a
+Transaction, together with all sales of Shares by Dealer or its affiliate(s) within the three months preceding such day in connection
+with such Transaction or any prior Transaction (in each case other than any sales made by Dealer or its affiliate(s) in connection with
+dynamic hedge adjustments of Dealer’s exposure to any Transaction as a result of any equity optionality contained in such Transaction,
+including any timing optionality), will not exceed the Number of Shares; and 
+
+ (d) 
+ [Reserved] .
+
+ (e) 
+ Amendments to Equity Definitions . The following amendments shall be made to the Equity Definitions:
+
+ (i) Section
+11.2(e)(vii) of the Equity Definitions is hereby replaced in its entirety with the words “any other corporate event involving the
+Issuer or a subsidiary of the Issuer that has a material economic effect on the Shares.”
+
+ (ii) Section
+11.2(c) of the Equity Definitions is hereby amended by (w) replacing the words “a diluting or concentrative” with “a
+material” in the fifth line thereof, (y) deleting the words “diluting or concentrative” in the sixth to last line thereof.”
+
+ (iii) Section
+12.9(b)(iv) of the Equity Definitions is hereby amended by (A) deleting (1) subsection (A) in its entirety, (2) the phrase “or (B)”
+following subsection (A) and (3) the phrase “, in each case” in subsection (B); and (B) replacing the phrase “neither
+the Non-Hedging Party nor the Lending Party lends” with “the Lending Party does not lend” in the penultimate sentence.
+
+ (iv) Section
+12.9(b)(v) of the Equity Definitions is hereby amended by (A) adding the word “or” immediately before subsection “(B)”
+and deleting the comma at the end of subsection (A); and (B)(1) deleting subsection (C) in its entirety, (2) deleting the word “or”
+immediately preceding subsection (C) and (3) replacing in the penultimate sentence the words “either party” with “the
+Hedging Party” and (4) deleting clause (X) in the final sentence.
+
+ Page 10 
+
+ (f) 
+ Amendments and Elections with respect to the Agreement. The following amendments and elections shall be made to, and with
+respect to, the Agreement:
+
+ (i) For
+purposes of Section 5(a) of the Agreement, “Specified Entity” means, in relation to Dealer, none, and in relation to Counterparty,
+none.
+
+ (ii) The
+agreement in Section 4(a)(iii) of the Agreement is amended by inserting “promptly upon the earlier of (1)” in lieu of the
+word “upon” at the beginning thereof and inserting “or (2) such party learning that the form or document is required”
+before the word “any” in the first line thereof.
+
+ (iii) The
+“Cross Default” provisions of Section 5(a)(vi) of the Agreement will not apply to Dealer nor to Counterparty.
+
+ (iv) The
+“Credit Event Upon Merger” provisions of Section 5(b)(v) of the Agreement will apply to Dealer and will apply to Counterparty.
+
+ (g) 
+ No Condition of Confidentiality . Effective from the date of commencement of discussions concerning a Transaction, Counterparty
+and each of Counterparty’s employees, representatives, or other agents may disclose to any and all persons, without limitation of
+any kind, the tax treatment and tax structure of such Transaction and all materials of any kind (including opinions or other tax analyses)
+that are provided to Counterparty relating to such tax treatment and tax structure.
+
+ (h) 
+ Acknowledgments and Agreements as to Bankruptcy . The parties hereto intend that (A) Dealer is a “financial participant”
+within the meaning of Section 101(22A) of the Bankruptcy Code, (B) each of this Master Confirmation and each Supplemental Confirmation
+is a “securities contract” as defined in Section 741(7) of the Bankruptcy Code, with respect to which each payment and delivery
+hereunder, thereunder or in connection herewith or therewith is a “settlement payment” and a “transfer” within
+the meaning of Sections 546(e) and 548(d) of the Bankruptcy Code, (C) the Credit Support Annex is a “security agreement or arrangement”
+or other “credit enhancement” that forms a part of and is related to such “securities contract” within the meaning
+of Section 362(b) of the Bankruptcy Code, (D) the rights given to Dealer under this Master Confirmation, each Supplemental Confirmation
+and under the Agreement upon the occurrence of an Event of Default with respect to the other party constitute “contractual rights”
+to cause the liquidation, termination or acceleration of, and to offset or net out termination values, payment amounts and other transfer
+obligations under or in connection with a “securities contract” and “contractual rights” under a security agreement
+or arrangement forming a part of or related to a “securities contract” as such terms are used in Sections 555, 561, and 362(b)(6)
+of the Bankruptcy Code, and (E) Dealer is entitled to the protections afforded by, among other sections, Sections 362(b)(6), 362(o), 546(e),
+548(d)(2), 555 and 561 of the Bankruptcy Code.
+
+ (i) 
+ Certain Authorized Transfers . Dealer may not transfer or assign its rights and obligations hereunder, under each Transaction
+and related Supplemental Confirmation or under the Agreement, in whole or in part, to any entity without the prior written consent of
+Counterparty, such consent not to be unreasonably withheld or delayed. Without limiting the foregoing, at the time of such transfer or
+assignment, and giving effect thereto, (1) Counterparty will not, as a result of such transfer or assignment, be required to pay to such
+entity on any payment date an amount under Section 2(d)(i)(4) of the Agreement greater than the amount which Counterparty would have been
+required to pay to Dealer in the absence of such transfer or assignment and Dealer will cause the transferee to provide such tax documentation
+as may be reasonably requested by Counterparty to permit Counterparty to determine its withholding obligations and (2) Counterparty will
+not, as a result of such transfer or assignment, receive from Dealer on any payment date a payment from which an amount has been withheld
+or deducted on account of taxes in excess of that which Dealer would have been required to so withhold or deduct in the absence of such
+transfer or assignment, unless such entity agrees to make additional payments such that Counterparty receives the same amount as it would
+have received from Dealer.
+
+ (j) 
+ Designation by Dealer . Dealer (the “ Designator ”) may designate any of its affiliates (the “ Designee ”)
+to deliver or take delivery, as the case may be, and otherwise perform its obligations to deliver or take delivery of, as the case may
+be, any Shares or other property in respect of any Transaction hereunder, and the Designee may assume such obligations and the obligations
+of Dealer under the Agreement (including the Credit Support Annex), this Master Confirmation and each Supplemental Confirmation with respect
+to such Shares or other property. Such designation shall not relieve the Designator of any of its obligations hereunder or thereunder.
+Notwithstanding the previous sentence, if the Designee shall have performed the obligations of the Designator hereunder or thereunder,
+then the Designator shall be discharged of its obligations to Counterparty only to the extent of such performance.
+
+ Page 11 
+
+ (k) 
+ Netting. If on any date cash or a number of securities would otherwise be payable or deliverable hereunder or pursuant to
+the Agreement by Dealer to Counterparty and by Counterparty to Dealer, then, on such date, each such party’s obligation to make
+such payment or delivery will be automatically satisfied and discharged and, if the aggregate amount that would otherwise have been payable
+or deliverable by one such party exceeds the aggregate amount that would otherwise have been payable or deliverable by the other such
+party, replaced by an obligation of the party by whom the larger aggregate amount would have been payable to pay to the other party the
+excess of the larger aggregate amount over the smaller aggregate amount.
+
+ (l) 
+ Consent to Disclosure within Dealer and its Affiliates . Counterparty consents to Dealer effecting such disclosure as it
+may deem appropriate to enable it to transfer Counterparty’s records and information to process and execute Counterparty’s
+instructions with respect to each Transaction or pursuant to any related agreements to each other or any of its affiliates. For the avoidance
+of doubt, Counterparty’s consent to disclosure includes the right on the part of Dealer to allow access to any permitted recipient
+of Counterparty’s information, to the records of Dealer by any means.
+
+ (m) 
+ USA PATRIOT Act Required Notice . Dealer hereby notifies Counterparty that pursuant to the requirements of the USA PATRIOT
+Act (Title III of Pub. L. 107-56 (signed into law October 26, 2001)) (the “ USA PATRIOT Act ”), it is required to obtain,
+verify and record information that identifies Counterparty, which information includes the name and address of Counterparty and other
+information that will allow Dealer to identify Counterparty in accordance with the USA PATRIOT Act. The Counterparty shall, promptly following
+a request by Dealer, provide all documentation and other information that Dealer requests in order to comply with its ongoing obligations
+under applicable “know your customer” and anti-money laundering rules and regulations, including the USA PATRIOT Act.
+
+ (n) 
+ W all Street Transparency and Accountability Act of 2010 . The parties hereby agree that none of (i) Section 739 of the Wall
+Street Transparency and Accountability Act of 2010 (“ WSTAA ”), (ii) any similar legal certainty provision in any legislation
+enacted, or rule or regulation promulgated, on or after the Trade Date, (iii) the enactment of WSTAA or any regulation under the WSTAA,
+(iv) any requirement under WSTAA nor (v) an amendment made by WSTAA, shall limit or otherwise impair either party’s rights to terminate,
+renegotiate, modify, amend or supplement this Master Confirmation, any Supplemental Confirmation or the Agreement, as applicable, arising
+from a termination event, force majeure, illegality, increased costs, regulatory change or similar event under this Master Confirmation,
+any Supplemental Confirmation or the Equity Definitions incorporated herein and therein, or the Agreement (including, but not limited
+to, rights arising from Change in Law or Illegality (as defined in the Agreement)).
+
+ (o) 
+ Limit on Beneficial Ownership . Notwithstanding any other provisions hereof, Dealer may not take delivery of any Shares deliverable
+hereunder or under the Agreement (any such delivery, a “ Share Acquisition ”) and Counterparty’s obligations with
+respect to Physical Settlement shall not apply to the extent (but only to the extent) that, after such Share Acquisition, the Share Amount
+would exceed the Applicable Share Limit. Any purported Share Acquisition shall be void and have no effect to the extent (but only to the
+extent) that, after such Share Acquisition, the Share Amount would exceed the Applicable Share Limit. If any Share Acquisition is not
+made, in whole or in part, as a result of this provision, Counterparty’s obligations in respect of such Share Acquisition shall
+not be extinguished and Counterparty shall fulfill such obligations as promptly as practicable after, but in no event later than one Clearance
+System Business Day after, Dealer gives notice to Counterparty that, after such Share Acquisition, the Share Amount would not exceed the
+Applicable Share Limit. The “ Share Amount ” as of any day is the number of Shares that Dealer and any person whose ownership
+position would be aggregated with that of Dealer (Dealer or any such person, a “ Dealer Person ”) under any law, rule,
+regulation, regulatory order or organizational documents or contracts of Issuer that are, in each case, applicable to ownership of Shares
+(“ Applicable Restrictions ”), owns, beneficially owns, constructively owns, controls, holds the power to vote or otherwise
+meets a relevant definition of ownership under any Applicable Restriction, as determined by Dealer in its reasonable discretion. The “ Applicable
+Share Limit ” means a number of Shares equal to (A) the minimum number of Shares that could give rise to reporting or registration
+obligations or other requirements (including obtaining prior approval from any person or entity) of a Dealer Person, or could result in
+an adverse effect on a Dealer Person, under any Applicable Restriction, as determined by Dealer in its reasonable discretion, minus 
+(B) 1% of the number of Shares outstanding.
+
+ Page 12 
+
+ (p) 
+ Right to Extend . Dealer may postpone, in whole or in part, any date of payment if Dealer determines, in its commercially
+reasonable judgment and, based on advice of counsel, that such extension is reasonably necessary or appropriate to enable Dealer to effect
+purchases or sales of Shares in connection with its hedging, hedge unwind or settlement activity hereunder in a manner that is in compliance
+with applicable legal, regulatory or self-regulatory requirements, or with related policies and procedures applicable to Dealer.
+
+ (q) 
+ Governing Law and Jurisdiction . Sections 13(a) and (b) of the Agreement shall be deleted in their entirety and replaced
+with the following:
+
+ “(a) Governing
+Law . This Agreement (and any non-contractual obligations arising out of or in connection with this Agreement) will be governed by
+and construed in accordance with English law.
+
+ (b) Jurisdiction .
+With respect to any dispute, claim, difference or controversy arising out of, relating to or having any connection with this Agreement,
+including any dispute as to its existence, validity, interpretation, performance, breach or termination or the consequences of its nullity
+and any dispute relating to any non-contractual obligations arising out of or in connection with it (“ Proceedings ”),
+each party irrevocably:
+
+ (i) submits
+to the exclusive jurisdiction of the English courts; and
+
+ (ii) waives
+any objection which it may have at any time to the laying of venue of any Proceedings brought in any such court, waives any claim
+that such Proceedings have been brought in an inconvenient forum and further waives the right to object, with respect to such Proceedings,
+that such court does not have any jurisdiction over such party.”
+
+ (r) 
+ Third Party Rights . Each party agrees that a person who is not a party to this Master Confirmation, any Supplemental Confirmation
+and the Agreement shall have no right under the Contracts (Rights of Third Parties) Act 1999 to enforce any of its terms.
+
+ (s) 
+ 2002 Master Agreement Protocol . Annexes 1 to 18 and Section 6 of the ISDA 2002 Master Agreement Protocol as published by
+ISDA on July 15, 2003 are incorporated into and apply to the Agreement. References in those definitions and provisions to any ISDA Master
+Agreement will be deemed to be references to the Agreement.
+
+ (t) 
+ Agreements and Acknowledgements Regarding Hedging .
+
+ Counterparty
+understands, acknowledges and agrees that, in respect of any Transaction hereunder:
+
+ (i) At
+any time on and prior to the final Valuation Date, Dealer and its affiliates may buy or sell Shares or other securities or buy or sell
+options or futures contracts or enter into swaps or other derivative securities in order to adjust its hedge position with respect to
+such Transaction;
+
+ (ii) Dealer
+and its affiliates also may be active in the market for Shares other than in connection with hedging activities in relation to such Transaction;
+
+ (iii) Dealer
+shall make its own determination as to whether, when or in what manner any hedging or market activities in securities of the Issuer shall
+be conducted and shall do so in a manner that it deems appropriate to hedge its price and market risk with respect to the relevant Transaction;
+and
+
+ (iv) Any
+market activities of Dealer and its affiliates with respect to Shares may affect the market price and volatility of Shares, as well as
+the Forward Price, each in a manner that may be adverse to Counterparty.
+
+ Page 13 
+
+ (u) 
+ Tax Matters. 
+
+ (i) 
+ Payer Representations: For the purpose of Section 3(e) of the Agreement, Dealer and Counterparty
+each hereby make the following representation: 
+
+ It is not required
+by any applicable law, as modified by the practice of any relevant governmental revenue authority, of any Relevant Jurisdiction to make
+any deduction or withholding for or on account of any Tax from any payment (other than interest under Section 9(h) of the Agreement or
+amounts payable hereunder that are considered to be interest for U.S. federal income tax purposes) to be made by it to the other party
+under the Agreement. In making this representation, it may rely on (i) the accuracy of any representations made by the other party pursuant
+to Section 3(f) of the Agreement, (ii) the satisfaction of the agreement contained in Section 4(a)(i) or 4(a)(iii) of the Agreement and
+the accuracy and effectiveness of any document provided by the other party pursuant to Section 4(a)(i) or 4(a)(iii) of the Agreement and
+(iii) the satisfaction of the agreement of the other party contained in Section 4(d) of the Agreement, except that it will not be a breach
+of this representation where reliance is placed on clause (ii) above and the other party does not deliver a form or document under Section
+4(a)(iii) by reason of material prejudice to its legal or commercial position.
+
+ (ii) 
+ Payee Representations . For the purposes of Section 3(f) of the Agreement, Counterparty makes
+the following representations: 
+
+ (A) 
+ Counterparty is a corporation for U.S. federal income tax purposes incorporated in England and Wales
+and is not tax resident in any other jurisdiction. 
+
+ (B) 
+ Counterparty is a “non-U.S. branch of a foreign person” as that term is used in section
+1.1441-4(a)(3)(ii) of the U.S. Treasury Regulations (the “ Regulations ”), and a “foreign person” as that
+term is used in section 1.6041-4(a)(4) of the Regulations. 
+
+ (C) 
+ Each payment received or to be received by it in connection with this Agreement will not be effectively
+connected with the conduct of a trade or business in the United States. 
+
+ (iii) 
+ Withholding Tax imposed on payments to non-US counterparties under the United States Foreign Account
+Tax Compliance Act . “Tax” as used in Section 3(t)(i) above, and “Indemnifiable Tax”, as defined in Section
+14 of the Agreement, shall not include any U.S. federal withholding tax imposed or collected pursuant to Sections 1471 through 1474 of
+the U.S. Internal Revenue Code of 1986, as amended (the “ Code ”), any current or future regulations or official interpretations
+thereof, any agreement entered into pursuant to Section 1471(b) of the Code, or any fiscal or regulatory legislation, rules or practices
+adopted pursuant to any intergovernmental agreement entered into in connection with the implementation of such Sections of the Code (a
+“ FATCA Withholding Tax ”). For the avoidance of doubt, a FATCA Withholding Tax is a Tax the deduction or withholding
+of which is required by applicable law for the purposes of Section 2(d) of the Agreement. 
+
+ (iv) 
+ 2015 ISDA 871(m) Protocol . The parties agree that the definitions and provisions contained
+in the 2015 Section 871(m) Protocol as published on November 2, 2015 by the International Swaps and Derivatives Association, Inc. are
+incorporated into and apply to the Agreement as if set forth in full herein. 
+
+ (v) 
+ Tax documentation . For the purposes of Section 4(a)(i) of the Agreement, each party agrees
+to deliver the document(s) as set forth in this clause (v). Counterparty shall provide to Dealer a completed and signed U.S. Internal
+Revenue Service Form W-8BEN-E, or any successor form, and any required attachments thereto (i) on or prior to the Trade Date, (ii) promptly
+upon reasonable demand by Dealer and (iii) promptly upon learning that any such tax Form previously provided by Counterparty has become
+obsolete or incorrect. Dealer shall provide to Counterparty a completed and signed U.S. Internal Revenue Service Form W-8BEN-E, or any
+successor form, and any required attachments thereto (i) on or prior to the Trade Date, (ii) promptly upon reasonable demand by Counterparty
+and (iii) promptly upon learning that any such tax Form previously provided by Dealer has become obsolete or incorrect. 
+
+ Page 14 
+
+ (vi) 
+ Counterparty shall pay, and indemnify Dealer (including for this purpose, its affiliates) for, any
+stamp duty or any registration, documentary, issuance, transfer, financial transaction or other similar taxes or duties (including, in
+each case, penalties and interest in relation thereto) with respect to the Shares arising in connection with any Transaction or any other
+transaction, including hedging activities entered into by Dealer, contemplated by this Master Confirmation, any Supplemental Confirmation,
+the Credit Support Annex and any other documentation relating to the Agreement. 
+
+ (vii) 
+ For purposes of Section 3(f) of the Agreement, Dealer represents that it is a “non-U.S. branch
+of a foreign person” (as that term is used in Treasury Regulations Section 1.1441-4(a)(3)(ii)) for U.S. federal income tax purposes,
+and no income received or to be received under the Agreement will be effectively connected with the conduct of a trade or business by
+Dealer in the United States. 
+
+ (v) 
+ Section 2(b) of the Agreement is hereby amended by the addition of the following after the word “delivery” in the first
+line thereof: “to another account in the same legal and tax jurisdiction”.
+
+ (w) 
+ SFTR Information Statement . Dealer is providing the information included in Annex C attached hereto to Counterparty for
+information purposes, provided that Annex C hereto shall not otherwise form part of this Master Agreement, any Supplemental Confirmation,
+the Credit Support Annex or any other documentation relating to the Agreement and shall be deemed to be a separate document therefrom.
+Counterparty acknowledges receipt of the information provided by Dealer under Annex C hereto and confirms that it has been duly informed
+of the “Re-use Risks and Consequences” as set out in Annex C hereto.
+
+ 4. Notice and Account Details . 
+
+ (a) Telephone
+and/or Facsimile Numbers and Contact Details for Notices:
+
+ Address for notices or communications
+to Dealer:
+
+ Citigroup Global Markets Limited
+
+ 390 Greenwich Street
+
+ New York, NY 10013
+
+ Attn: Equity Derivatives
+
+ Telephone: 212-723-7310
+
+ Email: eric.natelson@citi.com, theodore.finkelstein@citi.com,
+ eq.us.ses.notifications@citi.com
+
+ with a copy to:
+
+ 390 Greenwich Street, 3rd Floor
+
+ New York, NY 10013
+
+ Attn: Dustin Sheppard – Equity
+Derivatives Operations
+
+ Telephone: 212-723-5770
+
+ Email: dustin.c.sheppard@citi.com, eq.us.corporates.middle.office@citi.com
+
+ Address for notices or communications
+to Counterparty:
+
+ INCJ SJ Investment Limited
+
+ 7 th Floor, Tokyo
+Toranomon
+
+ Global Square 1-3-1, Toranomon,
+Minato-Ku
+
+ Tokyo 105-0001, Japan
+
+ Attn: Peter Niklai
+
+ Telephone: +81-90-1423-9391
+
+ Email: p-niklai984@incj.co.jp
+
+ Page 15 
+
+ (b) Account
+Details:
+
+ Account Details of Dealer
+
+ Pay to: To be advised
+
+ Account Details of Counterparty:
+
+ To be advised
+
+ 5. Offices . 
+
+ Dealer: New York, London
+
+Counterparty: Not Applicable
+
+ 6. 
+U.S. QFC Provisions . 
+
+ (a) Recognition
+of U.S. Special Resolution Regimes . (i) In the event Dealer becomes subject to a proceeding under the FDI Act or OLA (together, the
+“ U.S. Special Resolution Regimes ”), the transfer of the Agreement, this Master Confirmation or any Supplemental Confirmation,
+and any interest and obligation in or under, and any property securing, the Agreement, this Master Confirmation or any Supplemental Confirmation,
+from Dealer will be effective to the same extent as the transfer would be effective under the U.S. Special Resolution Regime if the Agreement,
+this Master Confirmation or any Supplemental Confirmation, and any interest and obligation in or under, and any property securing, the
+Agreement, this Master Confirmation or any Supplemental Confirmation were governed by the laws of the United States or a State of the
+United States; and (ii) in the event Dealer or any Dealer Affiliate becomes subject to a proceeding under a U.S. Special Resolution Regime,
+Default Rights with respect to the Agreement, this Master Confirmation or any Supplemental Confirmation that may be exercised against
+Dealer are permitted to be exercised to no greater extent than such Default Rights could be exercised under such U.S. Special Resolution
+Regime if the Agreement, this Master Confirmation or any Supplemental Confirmation, as the case may be, were governed by the laws of the
+United States or a State of the United States.
+
+ (b) Limitation
+on Exercise of Certain Default Rights Related to Dealer Affiliate’s Entry into Insolvency Proceedings . Notwithstanding anything
+to the contrary in the Agreement, this Master Confirmation or any Supplemental Confirmation or any other agreement, the parties hereto
+expressly acknowledge and agree that subject to Section 6(c), Counterparty shall not be permitted to exercise any Default Right against
+Dealer with respect to the Agreement, this Master Confirmation or any Supplemental Confirmation that is related, directly or indirectly,
+to a Dealer Affiliate becoming subject to an Insolvency Proceeding.
+
+ (c) General
+Creditor Protections . Nothing in Section 6(b) shall restrict the exercise by Counterparty of any Default Right against Dealer with
+respect to the Agreement or this Master Confirmation that arises as a result of:
+
+ (i)
+ Dealer becoming subject to an Insolvency Proceeding; or 
+
+ (ii) Dealer
+not satisfying a payment or delivery obligation pursuant to the Agreement, this Master Confirmation or any Supplemental Confirmation. 
+
+ (d) Burden
+of Proof . After a Dealer Affiliate has become subject to an Insolvency Proceeding, if Counterparty seeks to exercise any Default Right
+with respect to the Agreement, this Master Confirmation or any Supplemental Confirmation, Counterparty shall have the burden of proof,
+by clear and convincing evidence, that the exercise of such Default Right is permitted hereunder.
+
+ (e) Applicability
+of Section 6(a) . The requirements of Section 6(a) apply notwithstanding Sections 6(b) and (c).
+
+ (f) Definitions .
+For the purposes of this Section 6, the following definitions apply:
+
+ “ BHC Affiliate ”
+has the same meaning as the term “affiliate” as defined in, and shall be interpreted in accordance with, 12 U.S.C. 1813(w)
+and 12 U.S.C. 1841(k).
+
+ Page 16 
+
+ “ Dealer Affiliate ”
+means, with respect to Dealer, a BHC Affiliate of that party.
+
+ “ Default
+Right ” means, with respect to the Agreement, this Master Confirmation or any Supplemental Confirmation (including any related
+Transaction), any: 
+
+ (a) right
+of a party, whether contractual or otherwise (including, without limitation, rights incorporated by reference to any other contract, agreement,
+or document, and rights afforded by statute, civil code, regulation, and common law), to liquidate, terminate, cancel, rescind, or accelerate
+such agreement or transactions thereunder, set off or net amounts owing in respect thereto (except rights related to same-day payment
+netting), exercise remedies in respect of collateral or other credit support or property related thereto (including the purchase and sale
+of property), demand payment or delivery thereunder or in respect thereof (other than a right or operation of a contractual provision
+arising solely from a change in the value of collateral or margin or a change in the amount of an economic exposure), suspend, delay,
+or defer payment or performance thereunder, or modify the obligations of a party thereunder, or any similar rights; and
+
+ (b) right
+or contractual provision that alters the amount of collateral or margin that must be provided with respect to an exposure thereunder,
+including by altering any initial amount, threshold amount, variation margin, minimum transfer amount, the margin value of collateral,
+or any similar amount, that entitles a party to demand the return of any collateral or margin transferred by it to the other party or
+a custodian or that modifies a transferee’s right to reuse collateral or margin (if such right previously existed), or any similar
+rights, in each case, other than a right or operation of a contractual provision arising solely from a change in the value of collateral
+or margin or a change in the amount of an economic exposure; but
+
+ (c) solely
+with respect to Section 6(b) does not include any right under a contract that allows a party to terminate the contract on demand or at
+its option at a specified time, or from time to time, without the need to show cause.
+
+ “ FDI Act ”
+means the Federal Deposit Insurance Act and the regulations promulgated thereunder.
+
+ “ ISDA U.S.
+Protocol ” means the ISDA 2018 U.S. Resolution Stay Protocol, as published by ISDA on July 31, 2018.
+
+ “ OLA ”
+means Title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act and the regulations promulgated thereunder.
+
+ “ QFC Stay
+Rules ” means the regulations codified at 12 C.F.R. 252.81–8 (the “ Federal Reserve Rule ”), 12 C.F.R.
+382.1-7 (the “ FDIC Rule ”) and 12 C.F.R. 47.1-8 (the “ OCC Rule ”), respectively. All references herein
+to the specific provisions of the Federal Reserve Rule, the FDIC Rule and the OCC Rule shall be construed, with respect to Dealer, to
+the particular QFC Stay Rule(s) applicable to it.
+
+ “ State ”
+means any state, commonwealth, territory, or possession of the United States of America, the District of Columbia, the Commonwealth of
+Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, or the United States Virgin Islands. 
+
+ 7.
+ UK EMIR 
+
+ (a) 
+ ISDA UK EMIR PR/DR Protocol. The Parties agree that the definitions and provisions contained
+in Part I to III of the Attachment to the ISDA 2020 UK EMIR Portfolio Reconciliation, Dispute Resolution and Disclosure Protocol published
+by the International Swaps and Derivatives Association, Inc. on 17th December 2020 (the “UK EMIR PR/DR Protocol ”) are
+hereby incorporated into and apply to the Agreement as if set forth in full herein with effect from the date of the Agreement and for
+the purposes of those provision: 
+
+ Page 17 
+
+ (i) Dealer
+shall be a Portfolio Data Sending Entity;
+
+ (ii) Counterparty
+shall be a Portfolio Data Receiving Entity;
+
+ (iii) The
+following place(s) are specified for the purposes of the definition of Local Business Day as it applies to:
+
+ Dealer: New York, London;
+and
+
+ Counterparty:
+Tokyo;
+
+ (iv) With
+respect to Part I(3)(A) of the Attachment to the UK EMIR PR/DR Protocol:
+
+ Dealer appoints the
+following Affiliates: None;
+
+ Counterparty appoints
+the following Affiliates: None;
+
+ (v) With
+respect to Part I(3) of the Attachment to the UK EMIR PR/DR Protocol:
+
+ Dealer confirms that
+it adheres as a Party that may use a Third Party Service Provider;
+
+ Counterparty confirms
+that it adheres as a Party that may use a Third Party Service Provider;
+
+ (vi) Dealer
+agrees that the following items may be delivered to it at the contact details shown:
+
+ In respect of Portfolio
+Data, Notice of Discrepancy and any Dispute Notice:
+
+ portfolio.reconciliation@citi.com
+and portrec.escalations@citi.com;
+
+ (vii) Counterparty
+agrees that the following items may be delivered to it at the contact details shown:
+
+ In respect of Portfolio
+Data, Notice of Discrepancy and any Dispute Notice:
+
+ p-niklai984@incj.co.jp;
+and neptune@incj.co.jp.
+
+ (b) 
+ UK EMIR NFC Representation. Counterparty represents to Dealer on the Trade Date of a Transaction
+and on each day that a Transaction remains outstanding that: 
+
+ (i) 
+ it is a non-financial counterparty (as defined in Regulation (EU) No 648/2012 of the European Parliament
+and of the Council on OTC derivatives, central counterparties and trade repositories dated 4 July 2012, as amended and supplemented as
+it forms part of ‘retained EU law’ (as defined in the European Union (Withdrawal) Act 2018 (as amended from time to time)
+(“ UK EMIR ”))); and 
+
+ (ii) 
+ it is not subject to a clearing obligation pursuant to UK EMIR in respect of such Transaction. For
+the purposes of this subparagraph (ii), it is assumed that the Transaction is of a type that has been declared to be subject to the clearing
+obligation in accordance with Article 5 of UK EMIR and is subject to the clearing obligation in accordance with Article 4 of UK EMIR (whether
+or not in fact this is the case), and that any transitional provisions in UK EMIR are ignored. 
+
+ Page 18 
+
+ Please confirm that
+the foregoing correctly sets forth the terms of our agreement by executing the copy of this Master Confirmation enclosed for that purpose
+and returning it to Dealer.
+
+ Yours sincerely,
+
+ CITIGROUP
+ GLOBAL MARKETS LIMITED
+
+ By: 
+
+ Name: 
+
+ Title: 
+
+ Accepted and
+ confirmed:
+
+ INCJ SJ INVESTMENT
+ LIMITED
+
+ By: 
+
+ Name: 
+
+ Title: 
+
+ Signature
+Page to Averaging Share 
+
+ FORWARD
+TRANSACTION 
+
+ Master
+Confirmation 
+
+ Annex
+A 
+
+ FORM OF SUPPLEMENTAL CONFIRMATION
+
+ SUPPLEMENTAL CONFIRMATION #[__]
+
+ Date: 
+ [ ], 20__ 
+
+ To: 
+ INCJ SJ Investment Limited 
+
+ 7 th Floor, Tokyo Toranomon 
+
+ Global Square 1-3-1, Toranomon, Minato-Ku 
+
+ Tokyo 105-0001, Japan 
+
+ From: 
+ Citigroup Global Markets Limited 
+
+ 390 Greenwich Street 
+
+ New York, New York 10013 
+
+ Re: Averaging Share Forward Transaction 
+
+ Ladies and Gentlemen:
+
+ The purpose of this
+Supplemental Confirmation is to confirm the terms and conditions of the Transaction entered into between Citigroup Global Markets Limited
+(“ Dealer ”) and INCJ SJ Investment Limited (“ Counterparty ”) on the Trade Date specified below. This
+Supplemental Confirmation is a binding contract between Dealer and Counterparty as of the relevant Trade Date for the Transaction referenced
+below.
+
+ 1. This
+Supplemental Confirmation supplements, forms part of, and is subject to the Master Confirmation regarding Averaging Share Forward Transactions,
+dated May __, 2022, between Dealer and Counterparty (as amended, modified or supplemented from time to time, the “ Master Confirmation ”).
+All provisions contained in the Agreement (as modified and as defined in the Master Confirmation) shall govern this Supplemental Confirmation,
+except as expressly modified below, and capitalized terms used but not defined herein shall have the meanings specified in the Master
+Confirmation.
+
+ 2. The
+terms of the Transaction to which this Supplemental Confirmation relates are as follows:
+
+ Trade Date: 
+ [ ] 
+
+ Number of Shares: 
+ [ ] 
+
+ Forward Price Adjustment Amount: 
+ USD [ ] 
+
+ Calculation Period Start Date: 
+ [ ] 
+
+ First Acceleration Date: 
+ [ ] 
+
+ Scheduled Valuation Date: 
+ [ ] 
+
+ 3. This
+Supplemental Confirmation may be executed in any number of counterparts, all of which shall constitute one and the same instrument, and
+any party hereto may execute this Supplemental Confirmation by signing and delivering one or more counterparts.
+
+ Annex
+A – 1
+
+ Yours sincerely,
+
+ CITIGROUP
+ GLOBAL MARKETS LIMITED
+
+ By: 
+
+ Name: 
+
+ Title: 
+
+ Accepted and
+ confirmed:
+
+ INCJ SJ INVESTMENT
+ LIMITED
+
+ By: 
+
+ Name: 
+
+ Title: 
+
+ Signature Page
+to Averaging Share 
+
+ FORWARD TRANSACTION 
+
+ SUPPLEMENTAL
+CONFIRMATION 
+
+ ANNEX B 
+
+ Paragraph 11. Elections and Variables 
+
+ (a) Base Currency and Eligible Currency. 
+
+ (i) “ Base Currency ” means: United States Dollars (“ USD ”) 
+
+ (ii) “ Eligible Currency ” means: Base Currency only 
+
+ (b) Credit Support Obligations. 
+
+ (i) Delivery Amount, Return Amount and Exposure. 
+
+ (A) “ Delivery Amount ” has the meaning specified in Paragraph 2(a) of this Annex;
+ provided that reference therein to “the Value as of that Valuation Date of” shall be deemed deleted. 
+
+ (B) “ Return Amount ” has the meaning specified in Paragraph 2(b) of this Annex; provided
+ that reference therein to “the Value as of that Valuation Date of” shall be deemed deleted. 
+
+ (C) “ Credit Support Amount ” means, with respect to a Transferor on a Valuation Date,
+a number of Shares equal to the aggregate remaining Number of Shares for all Transactions then outstanding. 
+
+ (D) “ Credit Support Balance ” means, with respect to Transferor on a Valuation Date,
+the aggregate number of Shares constituting Eligible Credit Support that has been transferred to or received by Transferee under this
+Annex. 
+
+ (ii) Eligible Credit Support . The following items will qualify
+as “ Eligible Credit Support ”: Shares registered in the name of The Depository Trust Company (or its successor,
+“ DTC ”) or its nominee, maintained in the form of entries on the books of DTC, and allowed to be settled through
+DTC’s regular book-entry settlement services. 
+
+ (iii) “ Minimum Transfer Amount ” means with respect to both parties: Zero 
+
+ (iv) Rounding. The Delivery Amount and the Return Amount will be rounded up and down to the
+nearest integral multiple of 1 Share. 
+
+ (c) Valuation and Timing. 
+
+ (i) “ Valuation Agent ” means the Calculation Agent.
+For the avoidance of doubt, the Valuation Agent shall be subject to the same obligations as the Calculation Agent set forth in the Master
+Confirmation. 
+
+ (ii) “ Valuation Date ” means each Exchange Business
+Day from, but excluding, the date of the Master Confirmation to, and including, the final “Settlement Date” under the last
+outstanding Transaction. 
+
+ (iii) “ Valuation Time ” means with respect to a Valuation
+Date (as defined in this Annex), 4:15 p.m. New York City time on such Valuation Date (as defined in this Annex). 
+
+ (iv) “ Notification Time ” means 9:00 a.m., London time,
+on a Local Business Day immediately following the Valuation Date. 
+
+ (v) Paragraphs 3(b) and 3(c) of this Annex will not apply. 
+
+ (d) Dispute Resolution. The provisions of Paragraph 4 of this
+Annex will not apply. 
+
+ (e) Distributions and Interest Amount. 
+
+ (i) Interest Amount. The provisions of Paragraph 5(c)(ii) of this Annex will not apply. 
+
+ ANNEX B 
+
+ (ii) Cash Distributions. The provisions of Paragraph 5(c)(i) of
+this Annex will apply to cash dividends on the Shares; provided that the definition of “Distributions” in Paragraph
+10 of this Annex will be modified as follows solely in respect of Distributions that are cash dividends on the Shares: 
+
+ “ Distributions ”
+ means, in respect of each Distribution Date, an amount determined by the Valuation Agent equal to the product of (A) the net cash
+dividend per Share (after deduction for taxes or fees withheld or deducted by or behalf of any applicable authority having power to tax
+in respect of such a dividend and excluding any imputation or other credits, refunds or deductions granted by any applicable authority
+having power to tax in respect of such dividend and any taxes, credits, refunds or benefits imposed, withheld, assessed or levied thereon)
+and (B) the number of Shares equal to the Credit Support Balance minus the number of Shares that Dealer has shorted in order to
+hedge the equity price risk of the Transactions (such number of shorted Shares, the “ Dealer Delta ”) (it being
+understood, for the avoidance of doubt, that such Dealer Delta is measured on the date immediately preceding the relevant ex-dividend
+date).”
+
+ Notwithstanding anything
+to the contrary in this Annex, if a Distribution Date occurs after the date of the Master Confirmation, Dealer will make commercially
+reasonable efforts to transfer the applicable Distributions to Counterparty on the relevant Distribution Date, but in any event Dealer
+shall transfer the applicable Distributions to Counterparty by the applicable Settlement Day following the Distribution Date.
+
+ (iii) Non-Cash Distributions. To the extent the Transferee receives
+a non-cash dividend or distribution on any Shares comprising the Credit Support Balance minus the Dealer Delta, the Transferee shall transfer
+such non-cash dividend or distribution to Transferor on the date the Return Amount is owed to Transferor pursuant to Paragraph 11(g)(ii)
+of this Annex. 
+
+ (f) Addresses for Transfers. 
+
+ Dealer:
+ To be specified by Dealer in writing.
+
+ Counterparty: To be specified by Counterparty in writing.
+
+ (g) Other Provisions. 
+
+ (i) Agreement as to Single Transferor and Transferee . Dealer and
+Counterparty agree that, notwithstanding anything to the contrary in this Annex (but subject to paragraph 11(h)(ii)), (a) the term “Transferee”
+as used in this Annex means only Dealer, (b) the term “Transferor” as used in this Annex means only Counterparty and (c) only
+Counterparty will be required to make transfers of Eligible Credit Support hereunder (but without prejudice to any obligation on Dealer
+to transfer Equivalent Distributions hereunder). 
+
+ (ii) Returns . Notwithstanding anything to the contrary in this Annex: 
+
+ (A) on each Valuation Date (as defined in the Master Confirmation) in respect of any Transaction, (1) Transferor
+shall be deemed to have made a demand under Paragraph 2(b) of this Annex specifying Shares as the form of Equivalent Credit Support and
+the Return Amount in respect of such Valuation Date (as defined in the Master Confirmation) shall be a number of Shares equal to the lesser
+of (x) Number of Shares to be Delivered in respect of such Valuation Date (as defined in the Master Confirmation) and (y) the Credit Support
+Balance; (2) such Number of Shares to be Delivered shall be deducted from the Credit Support Amount as of such Valuation Date; and (3)
+subject to paragraph (B), the Transferee shall make such transfer of Equivalent Credit Support and Return Amount to Transferor on the
+Settlement Date relating to such Valuation Date (as defined in the Master Confirmation); 
+
+ ANNEX B 
+
+ (B) in respect of each Valuation Date (as defined in the Master Confirmation) in respect of any Transaction,
+any obligation of Dealer on the Settlement Date relating to such Valuation Date (as defined in the Master Confirmation) to return to Counterparty
+Equivalent Credit Support comprised of Shares pursuant to Paragraph 2(b) of this Annex will be subject to delivery netting in accordance
+with Section 3(k) of the Master Confirmation; and 
+
+ (C) on each Early Termination Date and on each date “Cancellation and Payment” applies or is deemed
+to apply in respect of any Transaction, (1) Transferor shall be deemed to have made a demand under Paragraph 2(b) of this Annex specifying
+Shares as the form of Equivalent Credit Support and the Return Amount in respect of such Valuation Date (as defined in the Master Confirmation)
+shall be a number of Shares equal to (I) the lesser of (x) the remaining Number of Shares for such terminated or cancelled Transaction
+and (y) the Credit Support Balance minus (II) the Dealer Delta in respect of such terminated or cancelled Transaction(s); (2) notwithstanding
+anything to the contrary in the Agreement or the Master Confirmation, the Early Termination Amount relating to such Early Termination
+Date or the cancellation amount due under Section 12.7(a) of the Equity Definitions relating to such “Cancellation and Payment”
+shall take into account the value of the Dealer Delta as an amount delivered by Counterparty to Dealer under the relevant Transaction,
+and (3) the Transferee shall make such transfer of Equivalent Credit Support and Return Amount to Transferor on the date the Early Termination
+Amount relating to such Early Termination Date is paid by either party or on the date the cancellation amount due under Section 12.7(a)
+of the Equity Definitions relating to such “Cancellation and Payment” is paid by either party, as applicable. 
+
+ (iii) Event of Default. If any party fails to make the relevant Transfer in accordance with
+Paragraph 2 of this Annex, an Event of Default shall immediately occur and such party shall be the Defaulting Party. 
+
+ (iv) Free Use. Paragraph 5(a) of this Annex shall be amended by
+adding the following sentence at the end thereof: For the avoidance of doubt, the Transferee may sell, pledge, assign, invest, use, commingle
+or otherwise dispose of, or otherwise use in its business any Credit Support Balance free and clear of any liens, claims, charges or encumbrances
+or any other interest of the Transferor or of any third person (other than a lien routinely imposed on all securities in a relevant clearance
+system) (such right of Transferee, “ Free Use ”); provided that such Free Use shall be deemed to be not
+available if (i) the Transferee is unable to exercise its rights of Free Use in the manner contemplated by it on the Trade Date due to
+circumstances outside of the Transferee’s control or (ii) the Transferee concludes, in its good faith, reasonable discretion based
+on advice of counsel, that it is inappropriate with respect to any legal, regulatory or self-regulatory requirements or related policies
+and procedures (whether or not such requirements, policies or procedures are imposed by law or have been voluntarily adopted by it, provided
+that such policies and procedures have been adopted by the Transferee in good faith and are generally applicable in similar situations
+and applied in a non-discriminatory manner), for it to exercise its rights of Free Use in the manner contemplated by it on the Trade Date. 
+
+ (v) Default. Paragraph 6 of this Annex will not apply. 
+
+ (vi) Adjustments . Whenever any adjustment is made to any Transaction
+by the Calculation Agent in accordance with its terms, the Valuation Agent may make such adjustment to any term of this Annex that it
+considers would be appropriate to account for such adjustment to preserve the economic terms thereof. 
+
+ ANNEX B 
+
+ (vii) Expenses . The parenthetical in Paragraph 8 shall be deleted in its entirety. 
+
+ (viii) Taxes . Counterparty agrees that Counterparty shall forthwith
+upon demand pay to Dealer the amount of any taxes that Dealer is required to pay with respect to the Credit Support Balance (including
+but not limited to any taxes imposed on Dealer in its capacity as a withholding agent and any taxes with respect to (x) income earned
+or distributions with respect to the Credit Support Balance or (y) any proceeds or income from the sale, loan or other transfer of any
+Credit Support Balance, but excluding any taxes that would not be imposed but for a present or former connection between the jurisdiction
+of the government or taxation authority imposing such taxes and Dealer (other than any connection arising from the Agreement or any Transaction));
+ provided that Dealer shall notify Counterparty in writing of the amount of such taxes upon a determination by Dealer of its intent
+to pay such taxes prior to the payment thereof. For the avoidance of doubt, any such taxes shall not be an “Indemnifiable Tax”
+requiring Dealer to provide a gross-up for purposes of Section 14 of the Agreement. 
+
+ ANNEX C 
+
+ Information Statement in accordance
+with Article 15 of the UK Securities Financing 
+
+Transactions Regulation 
+
+ May 2021 
+
+ This Information Statement is provided for information purposes
+ only and does not amend or supersede the express terms of any Transaction, Collateral Arrangement or any rights or obligations you may
+ have under applicable law, create any rights or obligations, or otherwise affect your or our liabilities and obligations. 
+
+ The Information Statement with Appendices 1 and 2 has been
+ prepared by the International Swaps and Derivatives Association, Inc., the Association for Financial Markets in Europe, the Futures Industry
+ Association, Inc., the International Capital Market Association and the International Securities Lending Association. Appendix 3 by the
+ International Swaps and Derivatives Association, Inc., the Association for Financial Markets in Europe, the Futures Industry Association,
+ Inc. and SIFMA. 
+
+ The information Statement with all its Appendices has been
+ drafted in English language and can be used by member firms of any trade association referred to above and amended by such firms, including
+ removing the trade association logos, as long as the following copyright notice remains unchanged and is included in a version that member
+ firms send to their clients. 
+
+ In case of translation of the Information Statement and
+ its Appendices in other languages and in the event of any inconsistencies between the English version and the translated version, the
+ English version shall always prevail and the International Swaps and Derivatives Association, Inc., the Association for Financial Markets
+ in Europe, the Futures Industry Association, Inc., the International Capital Market Association and the International Securities Lending
+ Association and SIFMA do not accept any liability for any translation made. 
+
+ ANNEX C 
+
+ 1. Introduction 
+
+ You have received this Information Statement
+because you have entered into or may hereafter enter into one or more title transfer collateral arrangements or security collateral arrangements
+containing a right of use (together, “ Collateral Arrangements ”) with us.
+
+ This Information Statement has been prepared
+to comply with Article 15 of the UK Securities Financing Transactions Regulation by informing you of the general risks and consequences
+that may be involved in consenting to a right of use of collateral provided under a security collateral arrangement or of concluding a
+title transfer collateral arrangement (“ Re-use Risks and Consequences ”). The information required to be provided to
+you pursuant to Article 15 of the UK Securities Financing Transactions Regulation relates only to Re-use Risks and Consequences, and so
+this Information Statement does not address any other risks or consequences that may arise as a result of your particular circumstances
+or as a result of the terms of particular Transactions.
+
+ This Information Statement is not intended
+to be, and should not be relied upon as, legal, financial, tax, accounting or other advice. Unless otherwise expressly agreed in writing,
+we are not providing you with any such legal, financial, tax, accounting or other advice and you should consult your own advisors for
+advice on consenting to a right of use of collateral provided under a security collateral arrangement or on concluding a title transfer
+collateral arrangement, including the impact on your business and the requirements of, and results of, entering into any Transaction.
+
+ Appendix 2 sets out an indicative (but
+not exhaustive) list of types of agreement that may constitute Collateral Arrangements.
+
+ Appendix 3 sets out alternative disclosures
+that are applicable if we are (1) a U.S. broker-dealer or futures commission merchant or (2) a U.S. bank or U.S. branch or agency
+office of a non-U.S. bank.
+
+ In this Information Statement:
+
+ “we”, “our”,
+“ours” and “us” refer to the provider of this Information Statement that may conduct Transactions with you (or,
+where we are acting on behalf of another person, including where that person is an affiliate, that person);
+
+ “you”, “your”
+and “yours” refer to each of the persons to which this Information Statement is delivered or addressed in connection with
+entering into, continuing, executing or agreeing upon the terms of Transactions with us (or, where you are acting on behalf of other persons,
+each of those persons);
+
+ ANNEX C 
+
+ “right of use” means any
+right we have to use, in our own name and on our own account or the account of another counterparty, financial instruments received by
+us by way of collateral under a security collateral arrangement between you and us;
+
+ “UK Securities Financing Transactions
+Regulation” means Regulation (EU) 2015/2365 of the European Parliament and of the Council of 25 November 2015 as it forms part of
+UK domestic law by virtue of section 3 of the European Union (Withdrawal) Act 2018 (as amended from time to time);
+
+ “Transaction” means a transaction
+entered into, executed or agreed between you and us under which you agree to provide financial instruments as collateral, either under
+a security collateral arrangement or under a title transfer collateral arrangement;
+
+ “financial instruments”,
+“security collateral arrangement” and “title transfer collateral arrangement” have the meaning given to those
+terms in the UK Securities Financing Transactions Regulation. These are set out in Appendix 1 for reference.
+
+ 2. Re-use Risks and Consequences 
+
+ a) Where you provide financial instruments to us under a title transfer collateral
+arrangement or if we exercise a right of use in relation to any financial instruments that you have provided to us by way of collateral
+under a security collateral arrangement containing a right of use, we draw your attention to the following Re-use Risks and Consequences:
+
+ i. your rights, including any proprietary rights that you may have had, in
+those financial instruments will be replaced by an unsecured contractual claim for delivery of equivalent financial instruments subject
+to the terms of the relevant Collateral Arrangement; 
+
+ ii. those financial instruments will not be held by us in accordance with client
+asset rules, and, if they had benefited from any client asset protection rights, those protection rights will not apply (for example,
+the financial instruments will not be segregated from our assets and will not be held subject to a trust); 
+
+ iii. in the event of our insolvency or default under the relevant agreement your
+claim against us for delivery of equivalent financial instruments will not be secured and will be subject to the terms of the relevant
+Collateral Arrangement and applicable law and, accordingly, you may not receive such equivalent financial instruments or recover the full
+value of the financial instruments (although your exposure may be reduced to the extent that you have liabilities to us which can be set
+off or netted against or discharged by reference to our obligation to deliver equivalent financial instruments to you); 
+
+ ANNEX C 
+
+ iv. in the event that a resolution authority exercises its powers under any
+relevant resolution regime in relation to us any rights you may have to take any action against us, such as to terminate our agreement,
+may be subject to a stay by the relevant resolution authority and: 
+
+ a) your claim for delivery of equivalent financial instruments may be reduced
+(in part or in full) or converted into equity; or 
+
+ b) a transfer of assets or liabilities may result in your claim on us, or our
+claim on you, being transferred to different entities 
+
+ although you may be protected to
+the extent that the exercise of resolution powers is restricted by the availability of set-off or netting rights;
+
+ v. as a result of your ceasing to have a proprietary interest in those financial
+instruments you will not be entitled to exercise any voting, consent or similar rights attached to the financial instruments, and even
+if we have agreed to exercise voting, consent or similar rights attached to any equivalent financial instruments in accordance with your
+instructions or the relevant Collateral Arrangement entitles you to notify us that the equivalent financial instruments to be delivered
+by us to you should reflect your instructions with respect to the subject matter of such vote, consent or exercise of rights, in the event
+that we do not hold and are not able to readily obtain equivalent financial instruments, we may not be able to comply (subject to any
+other solution that may have been agreed between the parties); 
+
+ vi. in the event that we are not able to readily obtain equivalent financial
+instruments to deliver to you at the time required: you may be unable to fulfil your settlement obligations under a hedging or other transaction
+you have entered into in relation to those financial instruments; a counterparty, exchange or other person may exercise a right to buy-in
+the relevant financial instruments; and you may be unable to exercise rights or take other action in relation to those financial instruments;
+
+ vii. subject to any express agreement between you and us, we will have no obligation
+to inform you of any corporate events or actions in relation to those financial instruments; 
+
+ ANNEX C 
+
+ viii. you will not be entitled to receive any dividends, coupon or other payments,
+interests or rights (including securities or property accruing or offered at any time) payable in relation to those financial instruments,
+although the express written terms of the relevant Collateral Arrangement or Transaction may provide for you to receive or be credited
+with a payment by reference to such dividend, coupon or other payment (a “manufactured payment”); 
+
+ ix. the provision of title transfer collateral to us, our exercise of a right
+of use in respect of any financial collateral provided to us by you and the delivery by us to you of equivalent financial instruments
+may give rise to tax consequences that differ from the tax consequences that would have otherwise applied in relation to the holding by
+you or by us for your account of those financial instruments; 
+
+ x. where you receive or are credited with a manufactured payment, your tax
+treatment may differ from your tax treatment in respect of the original dividend, coupon or other payment in relation to those financial
+instruments. 
+
+ b. Where we provide you with clearing services (whether directly as a clearing
+member or otherwise), we draw your attention to the following additional Re-use Risks and Consequences: 
+
+ i. if we are declared to be in default by an EU or UK central counterparty
+(“ CCP ”) the CCP will try to transfer (“ port ”) your transactions and assets to another clearing broker
+or, if this cannot be achieved, the CCP will terminate your transactions; 
+
+ ii. in the event that other parties in the clearing structure default (e.g.,
+a central counterparty, a custodian, settlement agent or any clearing broker that we may instruct) you may not receive all of your assets
+back and your rights may differ depending on the law of the country in which the party is incorporated (which may not necessarily be English
+law) and the specific protections that that party has put in place; 
+
+ iii. in some cases a central counterparty may benefit from legislation which
+protects actions it may take under its default rules in relation to a defaulting clearing member (e.g., to port transactions and related
+assets) from being challenged under relevant insolvency law. 
+
+ ANNEX C 
+
+ Appendix 1 
+
+ Defined terms for the purposes of the UK Securities
+Financing Transactions Regulation:
+
+ “ financial instrument ” means
+the instruments specified in Part 1 of Schedule 2 to the Regulated Activities Order (SI 2001/544), read with Part 2 of that Schedule,
+and includes without limitation:
+
+ 1) Transferable securities; 
+
+ 2) Money-market instruments; 
+
+ 3) Units in collective investment undertakings. 
+
+ “ title transfer collateral arrangement ”
+means an agreement or arrangement, including a repurchase agreement, evidenced in writing, where:
+
+ a) The purpose of the agreement or arrangement is to secure or otherwise cover
+the relevant financial obligations owed to the collateral-taker; 
+
+ b) The collateral-provider transfers legal and beneficial ownership in financial
+collateral to a collateral-taker on terms that when the relevant financial obligations are discharged the collateral-taker must transfer
+legal and beneficial ownership of equivalent financial collateral to the collateral-provider. 
+
+ “ security collateral arrangement ”
+means an agreement or arrangement, evidenced in writing, where:
+
+ a) The purpose of the agreement or arrangement is to secure the relevant financial
+obligations owed to the collateral-taker; 
+
+ b) The collateral-provider creates or there arises a security interest in financial
+collateral to secure those obligations; 
+
+ c) The financial collateral is delivered, transferred, held, registered or
+otherwise designated so as to be in the possession or under the control of the collateral-taker or a person acting on its behalf; any
+right of the collateral-provider to substitute financial collateral of the same or greater value or withdraw excess financial collateral
+or to collect the proceeds of credit claims until further notice shall not prevent the financial collateral being in the possession or
+under the control of the collateral-taker. 
+
+ ANNEX C 
+
+ Appendix 2 
+
+ We have set out below examples of the types of
+agreements to which this Information Statement applies. These examples are for illustrative purposes only and should not be relied upon
+as a legal determination of the characterisation of each agreement. The fact that an agreement is grouped with Title Transfer Collateral
+Agreements below does not preclude its characterisation as a Security Collateral Arrangement with a right of use and vice versa. Moreover,
+the characterization of an agreement may be different under U.S. and English law.
+
+ Title Transfer Collateral Arrangement
+
+ Such arrangements may include without
+limitation:
+
+ Overseas Securities Lender’s Agreement
+
+ Global Master Securities Lending Agreement
+
+ Global Master Repurchase Agreement
+
+ SIFMA Master Repurchase Agreement
+
+ An ISDA Master Agreement incorporating an English
+Law ISDA Credit Support Annex
+
+ An ISDA/FIA Client Cleared OTC Derivatives Addendum
+which provides for title transfer collateral arrangements and in particular where entered into in connection with an English law governed
+ISDA Master Agreement which includes the English law CSA Collateral Terms as set out in Appendix 1 thereto, or when entered into in connection
+with a relevant FIA client clearing agreement
+
+ Master Gilt Edged Stock Lending Agreement
+
+ Master Equity and Fixed Interest Stock Lending
+Agreement
+
+ Prime brokerage agreements which provide for
+title transfer collateral arrangements
+
+ FIA client clearing agreements for exchange
+traded and other cleared derivatives which provide for title transfer collateral arrangements
+
+ FIA Clearing Module which provides for title
+transfer collateral arrangements
+
+ Any bespoke agreements granting security by
+way of transfer of title to the secured party
+
+ Security Collateral Arrangement containing a
+right of use
+
+ ANNEX C 
+
+ Such arrangements may include without
+limitation:
+
+ An ISDA Master Agreement incorporating a New
+York Law ISDA Credit Support Annex
+
+ An ISDA/FIA Client Cleared OTC Derivatives Addendum
+which provides for security collateral arrangements and in particular where entered into in connection a New York law governed ISDA Master
+Agreement including the New York law CSA Collateral Terms as set out in Appendix 2 thereto, or when entered into in connection with a
+relevant FIA client clearing agreement
+
+ An ISDA Master Agreement in respect of which
+an English Law ISDA Credit Support Deed incorporating a right of use is a credit support document
+
+ Prime brokerage agreements which provide for
+the creation of security over financial instruments
+
+ FIA client clearing agreements for exchange
+traded and other cleared derivatives which provide for a creation of security over financial instruments
+
+ FIA Clearing Module which provides for a creation
+of security over financial instruments
+
+ Security arrangements in relation to margin
+loan documentation and associated custody agreements
+
+ SIFMA Master Securities Lending Agreement (this
+agreement is generally a security collateral arrangement with respect to collateral delivered to the lender; the borrower takes title
+to the borrowed securities)
+
+ Any bespoke security agreements creating security
+in respect of financial instruments with rehypothecation rights or a right of use over the financial instruments in favour of the secured
+party
+
+ ANNEX C 
+
+ Appendix 3 
+
+ U.S. BROKER-DEALER, U.S. FUTURES COMMISSION
+MERCHANT, 
+
+ or U.S. BANK: 
+
+ This Appendix describes the Re-use Risks
+and Consequences that may arise under Collateral Arrangements with a bank chartered under U.S. federal or state law, a U.S. branch or
+agency office of a non-U.S. bank (any such bank, branch, or agency office, a “ U.S. banking organization ”), a U.S. entity
+that is registered as a broker-dealer with the U.S. Securities and Exchange Commission (“ broker-dealer ”), or a U.S.
+entity that is registered as a futures commission merchant with the Commodity Futures Trading Commission (“ FCM ”). A
+single U.S. entity can operate, and be regulated, as both a broker-dealer and an FCM, but it remains subject to separate regulatory requirements
+with respect to its separate activities.
+
+ U.S. law draws a distinction between financial
+instruments delivered to a broker-dealer or FCM and treated as customer assets (“ Customer Assets ”), financial instruments
+held by a U.S. banking organization in a trust or custodial capacity (“ Custodial Assets ”), and financial instruments
+delivered or pledged to a U.S. banking organization, broker-dealer, or FCM in a principal (non-customer) capacity (“ Non-Customer
+Assets ”). Customer Assets held by a broker-dealer or FCM are subject to mandatory segregation requirements under the rules of
+the SEC and CFTC, respectively, and special-purpose insolvency regimes under which segregated assets, i.e. , Customer Assets and
+cash required to be held in segregated accounts, are distributed to customers. Custodial Assets held by a U.S. banking organization are
+generally segregated on an account- or customer-specific basis, while in some circumstances broker-dealers and FCMs are permitted to segregate
+Customer Assets on an omnibus basis for all customers.
+
+ Financial instruments held in a securities
+account at a broker-dealer or delivered to an FCM as margin (or “performance bond”) for a cleared derivative generally constitute
+Customer Assets. On the other hand, securities delivered to us under a repurchase or securities lending agreement generally do not constitute
+Customer Assets. If, with respect to Customer Assets received by us as a broker-dealer, you separately agree to lend financial instruments
+to us under a securities lending agreement, or agree to sell financial instruments to us under a repurchase agreement, then the financial
+instruments are removed from your account and are no longer eligible for customer protection. Any financial instruments delivered to us
+under such transactions are Non-Customer Assets. If you are uncertain whether a financial instrument pledged or delivered to us
+is a Customer Asset, please obtain legal advice. 
+
+ ANNEX C 
+
+ With respect to Customer Assets received
+by us as an FCM in connection with your CFTC-regulated transactions, we generally cannot use such Customer Assets other than to margin,
+guarantee or secure those transactions. That is, we may transfer such assets to segregated or secured accounts established by us with
+banks, clearing houses and clearing brokers, which acknowledge, via rules or written agreements, that such Customer Assets are the property
+of the FCM’s customers and can be utilized solely to margin, guarantee or secure customer transactions. In addition, an FCM may,
+pursuant to repurchase agreements, substitute such segregated Customer Assets, subject to very strict CFTC regulations, including the
+requirement that such substitution is made on a “delivery versus delivery” basis, and the market value of the substituted
+securities is at least equal to that of the Customer Assets being substituted. To the extent segregated assets were found to be insufficient
+to satisfy customer claims in full, customers would continue to have a claim against the proprietary assets of the FCM.
+
+ With respect to Customer Assets received
+by us as a broker-dealer in connection with your SEC-regulated transactions, we generally can use such Customer Assets only with your
+consent and subject to regulatory usage limits that are imposed both at the account level (by reference to the amount of your obligations
+to us) and across all customers (by reference to the amount of all customer obligations to us). The SEC requires that broker-dealers perform
+a daily valuation of Customer Assets (including related customer obligations) and maintain in segregation either Customer Assets or cash
+or other high-grade assets such that the value of segregated assets will at all times exceed the value of all Customer Assets net of customer
+obligations to the broker-dealer. Further, to the extent segregated assets were to be insufficient to satisfy customer claims in full,
+customers would continue to have a claim against the proprietary assets of the broker-dealer.
+
+ Notwithstanding point (b) of paragraph
+2 of Article 15 of the Securities Financing Transactions Regulation, when we use your Customer Assets, they continue to be included on
+your account statement reflecting their status as Customer Assets, and we may not identify to you the financial instruments that we have
+used.
+
+ If we are a broker-dealer or FCM, our
+exercise of our right to use Customer Assets has no effect on the nature of your property interest in the financial instruments or on
+your rights as a customer in the event of our insolvency. The amount of your customer claim in a broker-dealer or FCM insolvency proceeding
+is a function of the value of assets held in your account and the amount of your obligations to us, if any. In a broker-dealer or FCM
+insolvency proceeding, all customers generally receive the same pro rata share of their claims based on Customer Assets (and customer
+cash), regardless of whether their financial instruments were subject to use or were used by the broker-dealer or FCM. (In the case of
+an FCM insolvency, customers are separated into several account classes based on product type, and recoveries may vary across account
+classes. Customers within the same account class receive the same pro rata share of all customer claims within that class.)
+
+ In the insolvency of a U.S. banking organization,
+Custodial Assets are generally returned to their owners to the extent such assets are available for distribution. Your consent to our
+use of your financial instruments may prevent them from being treated as Custodial Assets, and it may jeopardize your right to obtain
+their return in the event of our insolvency.
+
+ ANNEX C 
+
+ Collateral Arrangements with respect to
+Non-Customer Assets can take a variety of forms with differing legal characterizations and practical consequences. Generally, a title
+transfer collateral arrangement entitles you only to a creditor claim for the return of your financial instruments. Under a security collateral
+arrangement, in some cases you may retain a property interest in the financial instruments delivered to us as collateral, but your property
+right (if any) may be subject to superior rights of our creditors or of a party to which we have transferred the financial instruments.
+Additionally, in the event of our insolvency, you may lose your property interest if you are unable to identify your property as distinct
+from our other assets, and our use of your financial instruments may impair your ability to do so.
+
+ This Appendix is not intended to provide
+a complete description of the treatment of Collateral Arrangements under U.S. law or the U.S. customer protection system, and you should
+not rely on it for that purpose.
+
+ If we are a U.S. broker-dealer, U.S. FCM,
+or U.S. banking organization, Sections 2(a)(i) through (v) of the Information Statement do not apply. Instead, where you provide financial
+instruments to us under a title transfer collateral arrangement or if we exercise a right of use in relation to any financial instruments
+that you have provided to us by way of collateral under a security collateral arrangement containing a right of use, we draw your attention
+to the following Re-use Risks and Consequences:
+
+ Risks in Connection with Financial Instruments
+That Are Customer Assets
+
+ If we are a U.S. broker-dealer or FCM
+and your financial instruments are Customer Assets, then we are permitted to use your financial instruments (i) to post as margin in respect
+of CFTC-regulated products with a clearing organization or other intermediary, and (ii) as otherwise permitted within the limits
+imposed by U.S. customer protection rules. When we use your Customer Assets, we may not hold them in segregation or trust, depending on
+the applicable U.S. regulation, but we continue to report them on your account statement reflecting their status as Customer Assets. As
+a result of our use of your Customer Assets, those assets are subject to the Re-use Risks and Consequences listed in Sections 2(a)(vi)
+through (x) of the Information Statement. In addition, if we provide you with clearing services (whether directly as a clearing member
+or otherwise), Customer Assets are subject to the Re-use Risks and Consequences listed in Section 2(b) of the Information Statement.
+
+ ANNEX C 
+
+ Moreover, as a result of our use of those
+financial instruments (including, in some cases, your ceasing to have a proprietary interest in those financial instruments), or the failure
+of a third party to deliver to us financial instruments, you may not be entitled to exercise any voting, consent or similar rights attached
+to the financial instruments, and even if we have agreed to exercise voting, consent or similar rights attached to any equivalent financial
+instruments in accordance with your instructions or the relevant Collateral Arrangement entitles you to notify us that the equivalent
+financial instruments to be delivered by us to you should reflect your instructions with respect to the subject matter of such vote, consent
+or exercise of rights, in the event that we do not hold and are not able to readily obtain equivalent financial instruments, we may not
+be able to comply (subject to any other solution that may have been agreed between the parties).
+
+ However, our right to use Customer Assets
+and our actual use of Customer Assets do not present any insolvency-related Re-use Risks and Consequences. This is because, as described
+above, in the event of our insolvency your claim for Customer Assets would be calculated according to a formula that does not take our
+use of assets into account.
+
+ In the event that a receiver, conservator
+or other insolvency official exercises its powers under an insolvency regime in relation to us, any rights you may have to take any action
+against us, such as to terminate our agreement, may be subject to a stay by the relevant authority and a transfer of assets or liabilities
+may result in your claim on us, or our claim on you, being transferred to different entities. However, this risk exists regardless of
+whether we have used your financial instruments or you have consented to their use.
+
+ Risks in Connection with Financial Instruments
+That Are Non-Customer Assets
+
+ Non-Customer Assets are not protected
+by the U.S. customer protection rules that apply to Customer Assets. If we are a U.S. broker-dealer or FCM and your financial instruments
+are Non-Customer Assets, or we are a U.S. banking organization, and you have granted us a right to use your financial instruments, then
+we will not hold such financial instruments in segregation or trust. Your rights, including any proprietary rights that you may have had,
+in those financial instruments may be replaced by a contractual claim (which would be unsecured unless otherwise agreed) for the delivery
+of equivalent financial instruments subject to the terms of the relevant Collateral Arrangement. As a result of our use of your Non-Customer
+Assets, those assets are subject to the Re-use Risks and Consequences listed in Sections 2(a)(vi) through (x) of the Information Statement.
+
+ If we are a U.S. banking organization,
+as a result of your consent to our use of your financial instruments, those financial instruments may not be held by us in accordance
+with the rules that apply to Custodial Assets, and, if they had benefited from any protections as Custodial Assets, those protection rights
+may not apply (for example, the financial instruments will not be segregated from our assets and will not be held subject to a trust).
+
+ ANNEX C 
+
+ Moreover, as a result of our use of financial
+instruments (including, in some cases, your ceasing to have a proprietary interest in those financial instruments), or the failure of
+a third party to deliver to us financial instruments, you may not be entitled to exercise any voting, consent or similar rights attached
+to the financial instruments, and even if we have agreed to exercise voting, consent or similar rights attached to any equivalent financial
+instruments in accordance with your instructions or the relevant Collateral Arrangement entitles you to notify us that the equivalent
+financial instruments to be delivered by us to you should reflect your instructions with respect to the subject matter of such vote, consent
+or exercise of rights, in the event that we do not hold and are not able to readily obtain equivalent financial instruments, we may not
+be able to comply (subject to any other solution that may have been agreed between the parties).
+
+ In the event of our insolvency your rights
+in financial instruments that we have used may be replaced by a general claim (which would be unsecured unless otherwise agreed) against
+us for equivalent financial instruments or the value of those financial instruments, and you may not receive such equivalent financial
+instruments or recover the full value of the financial instruments (although your exposure may be reduced to the extent that we have provided
+collateral to you or you have liabilities to us which can be set off or netted against or discharged by reference to our obligation to
+deliver equivalent financial instruments to you). To the extent you retain a property interest in financial assets we have used, our use
+of the financial instruments may give other parties superior rights in them and may interfere with your ability to identify the financial
+instruments for the purpose of obtaining their return.
+
+ In the event that a receiver, conservator
+or other insolvency official exercises its powers under an insolvency regime in relation to us, any rights you may have to take any action
+against us, such as to terminate our agreement, may be subject to a stay by the relevant authority and a transfer of assets or liabilities
+may result in your claim on us, or our claim on you, being transferred to different entities. However, this risk exists regardless of
+whether we have used your financial instruments or you have consented to their use.

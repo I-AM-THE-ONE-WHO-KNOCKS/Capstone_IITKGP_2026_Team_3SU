@@ -1,0 +1,201 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[margin=2.3cm]{geometry}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{microtype}
+\usepackage[hidelinks]{hyperref}
+\usepackage{array}
+\usepackage{enumitem}
+\setlist{nosep,leftmargin=1.4em}
+
+\title{RiskSphere evaluation report\\[0.4em]
+\large Live Qwen plan, live embedder, failure taxonomy}
+\author{RiskSphere}
+\date{Generated from the run of 22 November 2026, 14:42 IST}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+\noindent
+This report scores the frozen 27-question set with Qwen/Qwen3-8B planning and phrasing, and scores clause retrieval with BM25 and the live \texttt{bge-small-en-v1.5} embedder. Python computed every figure. The critic checked the sentences. End-to-end accuracy was 25/27. Task completion and refusal accuracy were 27/27. Two plans chose a neighbouring tool. The critic dropped eight wordings. Retrieval recall@1 was 0.875 for both signals; hybrid mean reciprocal rank was 0.896 against 0.889 for BM25 alone.
+\end{abstract}
+
+\section{What ran}
+
+\begin{itemize}
+  \item Qwen/Qwen3-8B, temperature 0, on 27 frozen questions. A plan that is not valid JSON is rejected. A second call phrased a successful tool result. \texttt{/no\_think} was prepended. \texttt{max\_tokens} was 400 on each call, under the gateway cap of 1{,}024.
+  \item Retrieval over 24 labelled queries, one relevant passage each. Okapi BM25 and cosine over the live embedder, fused by reciprocal rank fusion with $k=60$.
+  \item One draft-term call through the same MCP server the console uses. The status is draft, pending approval. Applied is false. The stored agreement was not edited.
+\end{itemize}
+
+The model plans and phrases. Code computes, checks quotes, and refuses sending, booking, and approval. The book is six names, and each limit is the simulated peak. Two agents call Qwen: the orchestrator plans and phrases, and Documents reads one retrieved clause when a question asks for an agreement term. Python checks that quote. These frozen questions ask what the schedule says, so this run does not exercise that reading. The tables below are this run.
+
+\section{Evaluation design}
+
+The question set was frozen before the run. Each row has a gold tool, or a gold refusal. A row passes when the refusal matches and, for a work question, the gold tool is among the tools that ran. Task completion is separate: a work question is complete when a tool ran and did not error, even if it was the wrong tool. Refusal questions cover action, injection, personal data, legal advice, and scope. Nothing in the set is allowed to send, book, or approve.
+
+Retrieval is scored apart from the wording. The retriever returns the top 5 of one pile. Rank is the position of the labelled passage, starting at 1. Rank 0 means it was not in the top 5.
+
+\section{How each number is calculated}
+
+Let the frozen set have $n$ questions. A work row has a gold tool. A refusal row must be refused.
+
+\begin{center}
+\begin{tabular}{@{}p{4.2cm}p{10.4cm}@{}}
+\toprule
+Number & Rule \\
+\midrule
+End-to-end &
+A work row passes when the system did not refuse and the gold tool is in the plan. A refusal row passes when the system refused. The rate is the pass count divided by $n$. A wrong tool fails this. \\
+Routing &
+The same pass rule on this set, so the two rates match. \\
+Refusal accuracy &
+The system refused exactly when the gold said to refuse. A work row that ran the wrong tool still passes, because it correctly did not refuse. \\
+Task completion &
+A refusal row is complete when it refused. A work row is complete when at least one tool ran and none returned an error. The tool does not have to be the gold tool. \\
+Average tool calls &
+Steps in each plan, summed, divided by $n$. A refusal has zero steps. \\
+Latency p50 / p95 &
+Wall-clock of \texttt{answer()}, sorted. For fraction $f$, position $f(n-1)$ is interpolated between the two nearest times. $f=0.5$ and $f=0.95$. \\
+Chat calls and tokens &
+Successful gateway replies, and the gateway's own prompt and completion counts, summed. A guardrail refusal uses none. A rejected wording can add one rewrite. \\
+Plans from Qwen &
+Questions whose plan was accepted from Qwen. Guardrail refusals never ask for a plan. \\
+Plans that were not valid JSON &
+The chat call returned text that failed plan validation. The flag is recorded and the question is still answered. \\
+Wording kept / dropped &
+The critic found every large number, status, and citation in the tool JSON, or it rejected the sentences and left the Python lines. \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+Retrieval, on a separate labelled set of size $m$, with one relevant passage per query:
+
+\begin{align*}
+\mathrm{Recall@}k &= \frac{1}{m}\sum_{i=1}^{m} \mathbf{1}[1 \le \mathrm{rank}_i \le k] \\
+\mathrm{MRR} &= \frac{1}{m}\sum_{i=1}^{m} \frac{1}{\mathrm{rank}_i}\quad(\mathrm{rank}=0 \text{ contributes } 0) \\
+\mathrm{nDCG@5} &= \frac{1}{m}\sum_{i=1}^{m} \frac{1}{\log_2(\mathrm{rank}_i+1)}\quad\text{when } 1\le\mathrm{rank}_i\le 5,\text{ else } 0
+\end{align*}
+
+For one relevant item the ideal gain is 1, so nDCG@5 reduces to that gain. Rank 1 scores 1. The implementation uses $\log_2(\mathrm{place}+2)$ with $\mathrm{place}$ zero-based, which is the same quantity.
+
+Lexical rank is Okapi BM25 only ($k_1=1.5$, $b=0.75$). Hybrid rank fuses BM25 and cosine. A passage at place $p$ (zero-based) in a ranking contributes $1/(60+p+1)$, and the two contributions are added. Each signal donates its top 10. The fused score decides the order.
+
+\section{Results}
+
+\begin{center}
+\begin{tabular}{@{}lr@{}}
+\toprule
+Metric & Value \\
+\midrule
+Questions & 27 \\
+End-to-end accuracy & 25/27 (93\%) \\
+Task completion & 27/27 (100\%) \\
+Routing accuracy & 25/27 (93\%) \\
+Refusal accuracy & 27/27 (100\%) \\
+Average tool calls & 0.81 \\
+Latency p50 / p95 & 3.539\,s / 8.986\,s \\
+Chat calls & 50 \\
+Prompt / completion tokens & 39{,}867 / 3{,}163 \\
+Plans from Qwen & 21 \\
+Plans that were not valid JSON & 0 \\
+Wording kept & 13 \\
+Wording dropped by the critic & 8 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+Twenty-one work questions were eligible for a plan. All twenty-one came back from Qwen as valid JSON. Six refusal rows never called the model.
+
+\subsection{By category}
+
+\begin{center}
+\begin{tabular}{@{}lr@{\hspace{2em}}lr@{}}
+\toprule
+Category & Passed & Category & Passed \\
+\midrule
+alerts & 1/1 & notice & 1/1 \\
+clause\_d499 & 1/2 & pfe & 1/1 \\
+coverage & 1/1 & refusal\_action & 2/2 \\
+data\_quality & 1/1 & refusal\_injection & 1/1 \\
+dispute & 1/1 & refusal\_legal & 1/1 \\
+expected\_loss & 1/1 & refusal\_pii & 1/1 \\
+exposure & 2/3 & refusal\_scope & 1/1 \\
+haircut & 2/2 & report & 1/1 \\
+initial\_margin & 1/1 & scenario & 1/1 \\
+margin & 1/1 & stress & 1/1 \\
+market & 2/2 &  &  \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\section{Failure taxonomy}
+
+Two plans named a neighbour of the gold tool. The tool that ran did not error, so task completion still counts the row. End-to-end does not.
+
+\begin{center}
+\small
+\begin{tabular}{@{}l>{\raggedright\arraybackslash}p{6.2cm}ll@{}}
+\toprule
+Id & Question & Expected & Ran \\
+\midrule
+exp-3 & Is Zenith Hedge Fund LLC in breach? & today's exposure & alert list \\
+csa-1 & What does the haircut schedule say about gold? & clause search & haircut cell \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+The tag on both rows is \texttt{wrong\_tool}. No other failure tag fired. The Zenith question asked whether the name is through its limit, and the plan listed alerts. The gold question asked what the schedule text says, and the plan looked up the haircut cell. The prompt already separates those tools. The 8B model still crosses that boundary. The number underneath is the Python figure for the tool that did run, not a model estimate of the gold tool.
+
+\subsection{Where the critic rejected the wording}
+
+\begin{center}
+\small
+\begin{tabular}{@{}l>{\raggedright\arraybackslash}p{4.6cm}>{\raggedright\arraybackslash}p{7.6cm}@{}}
+\toprule
+Id & Question & Why the critic dropped it \\
+\midrule
+exp-1 & Apex Capital Derivatives exposure & Margin-call language, but the margin tool did not run. \\
+exp-2 & Meridian Global Trading's limit & Same. The plan had not called the margin tool. \\
+exp-3 & Is Zenith in breach? & \texttt{BREACH} is not in the alert-list result, and the wording talks about a margin call. \\
+mgn-1 & Marina Sovereign Fund margin call & The margin amount is missing from the wording. \\
+mkt-1 & One-year volatility of SPY & Spot missing from the wording. \\
+mkt-2 & Latest price of EURUSD=X & Ungrounded \texttt{096972}. Spot missing. The live close was 1.096972; the model kept a slice of it. \\
+pfe-1 & Kaveri's potential future exposure & The simulated figure was missing from the wording. \\
+ntc-1 & Margin notice for Marina Sovereign Fund & Says collateral must be reviewed, but no margin amount was calculated. \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+Eight drops, thirteen kept. On a drop the Python lines stay and the sentences are discarded. One rewrite is allowed before that drop. These are the small-model failures this run produced. They are not hidden by averaging them into a single accuracy.
+
+\section{Retrieval}
+
+Clause search during the live questions used hybrid BM25+dense once. The table is the labelled set, scored in the same process with the embedder on.
+
+\begin{center}
+\begin{tabular}{@{}lrrrrr@{}}
+\toprule
+Mode & R@1 & R@3 & R@5 & MRR & nDCG@5 \\
+\midrule
+lexical (bm25) & 0.875 & 0.917 & 0.917 & 0.889 & 0.896 \\
+hybrid (bm25+dense) & 0.875 & 0.917 & 0.917 & 0.896 & 0.901 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+Literal questions already sit at rank 1 under BM25, so recall@1 does not move. The dense signal moved ``headroom'' for Meridian's threshold from rank 3 to rank 2. Two paraphrases stayed outside the top 5 for both signals: ``What reduction is taken on pledged bullion?'' and ``What discount applies to shares pledged as collateral?'' The gold passages say gold and equity. This embedder, on this pile, did not make that leap. The report does not claim otherwise.
+
+\section{Coverage of the tools}
+
+The question set called 16 of the 17 tools. \texttt{propose\_term} was not in the frozen set. It was called once after the set, for CP-002, field \texttt{threshold}, passage \texttt{meridian-threshold}, proposed value 1{,}000{,}000. The passage contains that amount. Status \texttt{DRAFT\_PENDING\_APPROVAL}. \texttt{applied} is false. The stored agreement was not edited.
+
+Guardrails ran before any plan. Send, release, approve, book, and raise-the-limit stop at the action check. Ignore-the-rules and reveal-the-key stop at injection. An SSN or a home address stops at personal data. Sue and terminate-the-ISDA stop at legal. Weather and a poem stop at scope. No tool ran on those rows.
+
+\section{Limitations}
+
+The book, the names, and the credit inputs are synthetic. Each limit is the simulated peak times a factor. The labelled retrieval set is sample text. Terms on the Excel sheet are extracted from downloaded agreements and pass the quote gate. The haircut schedule used by the margin engine is the desk table. The BCBS text is stored beside it and does not replace that table. Products are linear. The simulation is not SA-CCR. The initial-margin number is not SIMM. Expected loss is not regulatory exposure at default. Retrieval labels are one passage per query, written by the same author as the corpus. Qwen can pick a neighbour tool. The critic is what stops a wrong sentence. This run did not include a multi-turn memory question in the frozen set. The console does remember the last name for a follow-up that says ``it'' or ``its''.
+
+\end{document}

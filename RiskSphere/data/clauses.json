@@ -1,38 +1,170 @@
 [
   {
     "id": "meridian-threshold",
-    "counterparty_id": "meridian",
+    "counterparty_id": "CP-002",
+    "pile": "csa",
     "title": "Meridian threshold",
-    "text": "Meridian Capital sample CSA, paragraph 4. The Threshold for Meridian Capital is USD 1,000,000. Exposure below the Threshold does not require a delivery."
+    "text": "Meridian Capital sample CSA, paragraph 4. The Threshold for Meridian Capital is USD 1,000,000. Exposure below the Threshold does not require a delivery of collateral."
   },
   {
     "id": "meridian-mta",
-    "counterparty_id": "meridian",
+    "counterparty_id": "CP-002",
+    "pile": "csa",
     "title": "Meridian minimum transfer",
     "text": "Meridian Capital sample CSA, paragraph 5. The Minimum Transfer Amount is USD 250,000. A delivery smaller than the Minimum Transfer Amount is not required."
   },
   {
+    "id": "meridian-rounding",
+    "counterparty_id": "CP-002",
+    "pile": "csa",
+    "title": "Meridian rounding",
+    "text": "Meridian Capital sample CSA, paragraph 6. Delivery and return amounts are rounded to the nearest USD 10,000. A delivery rounds up and a return rounds down."
+  },
+  {
+    "id": "meridian-independent",
+    "counterparty_id": "CP-002",
+    "pile": "csa",
+    "title": "Meridian independent amount",
+    "text": "Meridian Capital sample CSA, paragraph 7. The Independent Amount is USD 0. No initial margin is posted under this sample agreement."
+  },
+  {
+    "id": "meridian-eligible",
+    "counterparty_id": "CP-002",
+    "pile": "csa",
+    "title": "Meridian eligible collateral",
+    "text": "Meridian Capital sample CSA, eligible collateral. USD cash is eligible and takes a zero haircut. Equity and other securities are not eligible under this sample agreement."
+  },
+  {
+    "id": "meridian-valuation",
+    "counterparty_id": "CP-002",
+    "pile": "csa",
+    "title": "Meridian valuation agent",
+    "text": "Meridian Capital sample CSA, paragraph 9. The Valuation Agent is the party making the demand. Valuations use the previous business day close and notice is given by 1 pm local time."
+  },
+  {
     "id": "apex-threshold",
-    "counterparty_id": "apex",
+    "counterparty_id": "CP-001",
+    "pile": "csa",
     "title": "Apex threshold",
     "text": "Apex Financial sample CSA, paragraph 4. The Threshold for Apex Financial is USD 500,000. The Minimum Transfer Amount is USD 100,000."
   },
   {
+    "id": "apex-rounding",
+    "counterparty_id": "CP-001",
+    "pile": "csa",
+    "title": "Apex rounding",
+    "text": "Apex Financial sample CSA, paragraph 6. Delivery and return amounts are rounded to the nearest USD 10,000."
+  },
+  {
     "id": "apex-eligible",
-    "counterparty_id": "apex",
+    "counterparty_id": "CP-001",
+    "pile": "csa",
     "title": "Apex eligible collateral",
-    "text": "Apex Financial sample CSA, eligible collateral. USD cash and corporate bonds may be posted. Corporate bonds take the haircut from our stage 1 schedule before they count as coverage."
+    "text": "Apex Financial sample CSA, eligible collateral. USD cash and corporate bonds may be posted. A private loan is not eligible and does not count as coverage."
+  },
+  {
+    "id": "apex-independent",
+    "counterparty_id": "CP-001",
+    "pile": "csa",
+    "title": "Apex independent amount",
+    "text": "Apex Financial sample CSA, paragraph 7. The Independent Amount is USD 0."
   },
   {
     "id": "harbor-threshold",
-    "counterparty_id": "harbor",
+    "counterparty_id": "",
+    "pile": "csa",
     "title": "Harbor Lane threshold",
     "text": "Harbor Lane sample CSA, paragraph 4. The Threshold is USD 0. The Minimum Transfer Amount is USD 50,000. Any positive net exposure above the Minimum Transfer Amount is called."
   },
   {
-    "id": "haircut-note",
+    "id": "harbor-rounding",
     "counterparty_id": "",
-    "title": "Stage 1 haircut note",
-    "text": "Stage 1 haircut schedule used by the calculator, not the full BCBS table. Cash haircut is 0 percent. Government bond haircut is 1 percent. Corporate bond haircut is 8 percent. Equity haircut is 15 percent."
+    "pile": "csa",
+    "title": "Harbor Lane rounding",
+    "text": "Harbor Lane sample CSA, paragraph 6. Delivery and return amounts are rounded to the nearest USD 10,000."
+  },
+  {
+    "id": "harbor-eligible",
+    "counterparty_id": "",
+    "pile": "csa",
+    "title": "Harbor Lane eligible collateral",
+    "text": "Harbor Lane sample CSA, eligible collateral. USD cash is eligible with a zero haircut. No other asset is eligible under this sample agreement."
+  },
+  {
+    "id": "general-netting",
+    "counterparty_id": "",
+    "pile": "csa",
+    "title": "Close-out netting note",
+    "text": "Sample agreement note. Exposure is netted across trades in one netting set before collateral is applied. This desk does not make a legal determination that netting is enforceable."
+  },
+  {
+    "id": "general-dispute",
+    "counterparty_id": "",
+    "pile": "csa",
+    "title": "Dispute note",
+    "text": "Sample agreement note. If the parties disagree on the exposure, the undisputed amount is transferred and the disputed amount follows the dispute resolution paragraph."
+  },
+  {
+    "id": "d499-cash",
+    "counterparty_id": "",
+    "pile": "d499",
+    "title": "Cash haircut",
+    "text": "Haircut schedule used by this desk. Cash in the settlement currency has a haircut of 0 percent."
+  },
+  {
+    "id": "d499-gov-short",
+    "counterparty_id": "",
+    "pile": "d499",
+    "title": "Government bond haircut, short maturity",
+    "text": "Haircut schedule used by this desk. Government bonds rated AAA to AA- with residual maturity one to five years have a haircut of 2 percent."
+  },
+  {
+    "id": "d499-gov-long",
+    "counterparty_id": "",
+    "pile": "d499",
+    "title": "Government bond haircut, long maturity",
+    "text": "Haircut schedule used by this desk. Government bonds rated AAA to AA- with residual maturity over five years have a haircut of 4 percent."
+  },
+  {
+    "id": "d499-corp-mid",
+    "counterparty_id": "",
+    "pile": "d499",
+    "title": "Corporate bond haircut, one to five years",
+    "text": "Haircut schedule used by this desk. Corporate bonds rated A+ to BBB- with residual maturity one to five years have a haircut of 6 percent."
+  },
+  {
+    "id": "d499-corp-long",
+    "counterparty_id": "",
+    "pile": "d499",
+    "title": "Corporate bond haircut, over five years",
+    "text": "Haircut schedule used by this desk. Corporate bonds rated A+ to BBB- with residual maturity over five years have a haircut of 12 percent."
+  },
+  {
+    "id": "d499-equity",
+    "counterparty_id": "",
+    "pile": "d499",
+    "title": "Equity haircut",
+    "text": "Haircut schedule used by this desk. Main index equity has a haircut of 15 percent. Other equity has a haircut of 25 percent."
+  },
+  {
+    "id": "d499-gold",
+    "counterparty_id": "",
+    "pile": "d499",
+    "title": "Gold haircut",
+    "text": "Haircut schedule used by this desk. Gold has a haircut of 15 percent."
+  },
+  {
+    "id": "d499-fx",
+    "counterparty_id": "",
+    "pile": "d499",
+    "title": "Currency mismatch add-on",
+    "text": "Haircut schedule used by this desk. When the collateral currency differs from the settlement currency, an additional 8 percent haircut is applied for the mismatch."
+  },
+  {
+    "id": "d499-scope",
+    "counterparty_id": "",
+    "pile": "d499",
+    "title": "Schedule scope note",
+    "text": "Haircut schedule note. This is the standardised schedule the calculator uses for the sample book. It is not the full published BCBS-IOSCO table and is not spot-checked against the source."
   }
 ]

@@ -73,6 +73,7 @@ def _download(symbol):
     if len(rows) < 20:
         log.error(f"yahoo history too short for {symbol}")
         raise RuntimeError(f"Yahoo returned too little history for {symbol}")
+    log.work("Market risk", f"downloaded {symbol}, {len(rows)} closes, last {rows[-1][0]} {rows[-1][1]}")
     log.trace(f"yahoo download {symbol} rows={len(rows)} last={rows[-1][0]} {rows[-1][1]}")
     log.debug(f"yahoo file {_file(symbol)}")
     MKT.mkdir(parents=True, exist_ok=True)

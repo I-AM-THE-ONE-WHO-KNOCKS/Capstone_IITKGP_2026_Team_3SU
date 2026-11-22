@@ -1,0 +1,648 @@
+EX-10.11
+ 13
+ a8821_ex10-11.htm
+ CREDIT SUPPORT ANNEX
+
+ Credit Support Annex 
+
+ Exhibit 10.11 
+
+ (Bilateral Form) 
+ (ISDA Agreements
+ Subject to New York Law Only) 
+
+ ISDA ® 
+
+ International Swaps and Derivatives Association, Inc. 
+
+ CREDIT SUPPORT ANNEX 
+
+ to the Schedule to the 
+
+ ISDA MASTER AGREEMENT 
+
+ dated as of November 16, 2004 between 
+
+ WACHOVIA BANK, NATIONAL ASSOCIATION ("Party A") 
+
+ and 
+
+ GOLD BANK ("Party B") 
+
+ This Annex supplements, forms part of,
+ and is subject to, the ISDA Master Agreement referred to above (this "Agreement"),
+ is part of its Schedule and is a Credit Support Document under this Agreement
+ with respect to each party. 
+
+ Accordingly, the parties agree as follows:
+ – 
+
+ Paragraphs 1 - 12. Incorporation 
+
+ Paragraphs 1 through 12 inclusive of the
+ ISDA Credit Support Annex (Bilateral Form) (ISDA Agreements Subject to New York
+ Law Only) published in 1994 by the International Swaps and Derivatives Association,
+ Inc. are incorporated herein by reference and made a part hereof. 
+
+ Paragraph 13. Elections and Variables
+
+ (a) 
+ Security
+ Interest for "Obligations." The term
+ "Obligations" as
+ used in this Annex includes no additional obligations with respect to
+ Party A and Party B. 
+
+ (b) 
+ Credit
+ Support Obligations. 
+
+ (i) 
+
+ Delivery Amount,
+ Return Amount and Credit Support Amount. 
+
+ (A) 
+
+ "Delivery Amount"
+ has the meaning specified in Paragraph
+ 3(a). 
+
+ (B) 
+ "Return Amount" has
+ the meaning specified in Paragraph 3(b). 
+
+ (C) 
+ "Credit Support Amount" has
+ the meaning specified in Paragraph 3. 
+
+ (ii) 
+ Eligible Collateral.
+ The following items will qualify as
+ "Eligible Collateral" for
+ the party specified, provided that the Secured Party shall be entitled
+ at any time, and from time to time, not to accept as Eligible Collateral
+ any of the following which constitute Ineligible Securities as defined
+ below: 
+
+ Party A 
+ Party B 
+ Valuation
+
+ Percentage 
+
+ (A) 
+ Cash: U.S.
+ Dollars in depositary account form. 
+
+ YES 
+ YES 
+ 100% 
+
+ (B) 
+ Treasury Bills:
+ negotiable obligations issued by
+ the U.S. Treasury Department having a remaining maturity of not more than
+ one year. 
+
+ YES 
+ YES 
+ 98% 
+
+ (C) 
+ Treasury Notes:
+ negotiable debt obligations issued by the
+ U.S. Treasury Department having a remaining maturity of more than one
+ year but not more than 10 years. 
+
+ YES 
+ YES 
+ 98% 
+
+ (D) 
+ Treasury Bonds:
+ negotiable debt obligations issued by the
+ U.S. Treasury Department having a remaining maturity of more than 10 years
+ but not more than 30 years. 
+
+ YES 
+ YES 
+ 92% 
+
+ (E) 
+ Agency Securities:
+ negotiable debt obligations of the Federal
+ National Mortgage Association (FNMA), Federal Home Loan Mortgage Corporation
+ (FHLMC), Federal Home Loan Banks (FHLB), Federal Farm Credit Banks (FFCB),
+ Student Loan Marketing Association (SLMA), Tennessee Valley Authority
+ (TVA) having a remaining maturity of not more than 30 years. 
+
+ YES 
+ YES 
+ 92% 
+
+ (F) 
+ FHLMC Certificates.
+ Mortgage participation certificates issued
+ by FHLMC evidencing undivided interests or participations in pools of
+ first lien conventional or FHA/VA residential mortgages or deeds of trust,
+ guaranteed by FHLMC, and having a remaining maturity of not more than
+ 30 years. 
+
+ YES 
+ YES 
+ 92% 
+
+ 2 
+
+ (G) 
+ FNMA Certificates.
+ Mortgage-backed pass-t hrough certificates
+ issued by FNMA evidencing undivided interests in pools of first lien mortgages
+ or deeds of trust on residential properties, guaranteed by FNMA, and having
+ a remaining maturity of not more than 30 years. 
+
+ YES 
+ YES 
+ 92% 
+
+ (H) 
+ GNMA Certificates.
+ Mortgage-backed pass-through certificates
+ issued by private entities, evidencing undivided interests in pools of
+ first lien mortgages or deeds of trust on single family residences, guaranteed
+ by the Government National Mortgage Association (GNMA) with the full faith
+ and credit of the United States, and having a remaining maturity of not
+ more than 30 years. 
+
+ YES 
+ YES 
+ 92% 
+
+ (iii) 
+ Other Eligible Support. Not
+ applicable. 
+
+ (iv) 
+ Thresholds. 
+
+ (A) 
+ "Independent Amount" means
+ for Party A: zero 
+
+ "Independent Amount" means
+ for Party B: 
+
+ zero,
+ unless an Independent Amount becomes applicable to Party B under any Transaction,
+ in which case the Independent Amount for Party B under this Annex shall
+ be the aggregate sum of each Independent Amount for each such Transaction
+ with respect to which Party B has any remaining obligations to Party A
+ (including any obligations under Section 6(e) of this Agreement if that
+ Transaction becomes a Terminated Transaction), as such Independent Amount
+ is set forth in the Confirmation for that Transaction (as amended from
+ time to time), or as otherwise agreed between the parties on the Trade
+ Date of that Transaction if a Confirmation for that Transaction has not
+ yet been executed and delivered. If the Confirmation for a Transaction
+ does not specify an Independent Amount, the Independent Amount for that
+ Transaction will be deemed to be zero unless otherwise agreed between
+ the parties. 
+
+ (B) 
+ "Threshold"
+ means, for Party A on any date of determination,
+ (a) the amount set forth opposite the Credit Rating of Party A on that
+ date, or (b) zero if on that date Party A does not have a Credit Rating
+ or an Event of Default exists with respect to Party A: 
+
+ 3 
+
+ Threshold 
+ Credit Rating (S&P) 
+ Credit Rating 
+
+ (Moody's) 
+
+ $ 
+ 30,000,000 
+ AAA 
+ Aaa 
+
+ $ 
+ 20,000,000 
+ AA-, AA and AA+ 
+ Aa3, Aa2 and Aa1 
+
+ $ 
+ 10,000,000 
+ A-, A and A+ 
+ A3, A2 and A1 
+
+ $ 
+ 5,000,000 
+ BBB and BBB+ 
+ Baa2 and Baa1 
+
+ $ 
+ 0 
+ BBB- and below 
+ Baa3 and below 
+
+ "Threshold" means
+ for Party B: zero 
+
+ (C) 
+
+ "Minimum Transfer
+ Amount" means, 'for Party A on any date
+ of determination, (a) the
+ amount set forth opposite the Credit Rating of Party A on that date, or
+ (b) zero if on that date Party A does not have a Credit Rating or an Event
+ of Default exists with respect to Party A: 
+
+ Minimum Transfer 
+ Credit Rating (S&P) 
+ Credit Rating 
+
+ Amount 
+
+ (Moody's) 
+
+ $ 
+ 5,000,000 
+ AAA 
+ Aaa 
+
+ $ 
+ 3,000,000 
+ AA-, AA and AA+ 
+ Aa3, Aa2 and Aa1 
+
+ $ 
+ 1,000,000 
+ A-, A and A+ 
+ A3, A2 and A1 
+
+ $ 
+ 500,000 
+ BBB and BBB+ 
+ Baa2 and Baa1 
+
+ $ 
+ 0 
+ BBB- and below 
+ Baa3 and below 
+
+ "Minimum Transfer
+ Amount" means with respect to Party
+ B: $100,000 
+
+ Provided that
+ if an Event of Default exists with respect to Party B, the Minimum Transfer
+ Amount for Party B shall be zero. 
+
+ (D) 
+
+ Rounding: The
+ Delivery Amount and the Return Amount will be rounded down to the nearest
+ integral multiple of $10,000. 
+
+ (c) 
+ Valuation and Timing.] 
+
+ (i) 
+ "Valuation
+ Agent" means: for purposes of Paragraphs
+ 3 and 5, the party making the demand under Paragraph 3; for purposes of
+ paragraph 4(d)(ii), the Secured Party receiving the Substitute Credit
+ Support; and, for purposes of Paragraph 6(d), the Secured Party receiving
+ or deemed to receive the Distributions or the Interest Amount, as applicable;
+ provided that if an Event of Default or Potential Event of Default has
+ occurred and is continuing with resect to a party, the other party shall
+ be the Valuation Agent. 
+
+ (ii) 
+ "Valuation
+ Date" means any Local Business Day on
+ which a demand is made before 5:00 p.m., New York time, pursuant to Paragraph
+ 3. 
+
+ 4 
+
+ (iii) 
+
+ "Valuation
+ Time" means the close of business in
+ New York City on the Local Business Day before the Valuation Date or date
+ of calculation, as applicable; provided that the calculations of Value
+ and Exposure will be made as of approximately the same time on the same
+ date. 
+
+ (iv) 
+
+ "Notification
+ Time" means 11:00 a.m., New York time,
+ on a Local Business Day. 
+
+ (d) 
+ Conditions
+ Precedent and Secured Party's Rights and Remedies. The
+ following Termination Event(s) will be a "Specified
+ Condition" for the party specified (that
+ party being the Affected Party if the Termination Event occurs with respect
+ to that party): 
+
+ Party A 
+ Party B 
+
+ Illegality 
+ YES 
+ YES 
+
+ provided
+ that if the Affected Party would be entitled
+ to receive Eligible Credit Support or Posted Credit Support but for that,
+ Specified Condition, then notwithstanding Sections 6(b)(ii) and (iii)
+ of this Agreement, the Affected Party may designate an Early Termination
+ Date in respect of all Affected Transactions pursuant to Section 6(b)(iv)
+ as, the result of any such Termination Event(s) regardless of whether
+ the condition set forth in Section 6(b)(iv)(1) has been satisfied. 
+
+ (e) 
+ Substitution 
+
+ (i) 
+ "Substitution Date" has
+ the meaning specified in Paragraph 4(d)(ii). 
+
+ (ii) 
+ Consent. The
+ Pledgor is not required to obtain the Secured Party's consent for any substitution
+ pursuant to Paragraph 4(d) unless the Pledgor is organized under the laws
+ of England or Wales, in which case such consent shall not be unreasonably
+ withheld. 
+
+ (f) 
+ Dispute Resolution. 
+
+ (i) 
+ "Resolution Time" means
+ 1:00 p.m., New York time, on the Local Business Day following the date on
+ which the notice is given that gives rise to a dispute under Paragraph 5. 
+
+ (ii) 
+ Value. For
+ the purpose of Paragraphs 5(i)(C) and 5(ii), the Value of Posted Credit
+ Support other than Cash will be calculated based upon the mid-point between
+ the bid and offered purchase rates or prices for that Posted Credit Support
+ as reported on the Bloomberg electronic service as of the Resolution Time,
+ or if unavailable, as quoted to the Valuation Agent as of the Resolution
+ Time by a dealer in that Posted Credit Support of recognized standing
+ selected in good faith by the Valuation Agent, which calculation shall
+ include any unpaid interest on that Posted Credit Support. 
+
+ (iii) 
+ Alternative. The
+ provisions of Paragraph 5 will apply. Holding and Using Posted Collateral. 
+
+ 5 
+
+ (g) 
+ Holding
+ and Using Posted Collateral. 
+
+ (i) 
+
+ Eligibility
+ to Hold Posted Collateral; Custodians. 
+
+ (A) 
+
+ Party
+ A will be entitled to hold Posted Collateral itself or through a Custodian
+ pursuant to Paragraph 6(b), provided that
+ the following conditions applicable to it are satisfied: 
+
+ (1) 
+
+ Party A is not a
+ Defaulting Party. 
+
+ (2) 
+
+ Posted Collateral
+ may be held only in the following jurisdictions: New York and North Carolina. 
+
+ (3) 
+
+ The party or entity
+ holding the Collateral maintains a Credit Rating of at least BBB+ from
+ S&P and Baa1 from Moody's. 
+
+ (4) 
+
+ The Custodian is
+ a bank or trust company having total assets in excess of $10 billion. 
+
+ (B) 
+
+ Party
+ B will be entitled to hold Posted Collateral itself or through its Custodian
+ pursuant to Paragraph 6(b), provided that
+ the following conditions applicable to it are satisfied: 
+
+ (1) 
+
+ Party B is not a
+ Defaulting Party. 
+
+ (2) 
+
+ Posted Collateral
+ may be held only in the following jurisdictions: New York and Kansas. 
+
+ (3) 
+
+ The party or entity
+ holding the Collateral maintains a Credit Rating of at least BBB+ from
+ S&P and Baal from Moody's. 
+
+ (4) 
+
+ The Custodian is
+ a bank or trust company having total assets in excess of $10 billion. 
+
+ (ii) 
+
+ Use
+ of Posted Collateral. The provisions
+ of Paragraph 6(c) will apply to both parties, and in addition to the other
+ conditions set forth in Paragraph 6(c), the Secured Party's rights under
+ Paragraph 6(c) are subject to the condition precedent that each of the
+ conditions set forth in Paragraph 13(g)(i) is satisfied with respect to
+ it. 
+
+ (h) 
+ Interest
+ Amount. 
+
+ (i) 
+
+ Interest
+ Rate. The "Interest Rate" for any day
+ will be the Federal Funds (Effective) rate published in N.Y. Federal Reserve
+ Statistical Release H.15(519) for that day (or if that day is not a New
+ York Business Day, then for the next preceding New York Business Day). 
+
+ 6 
+
+ For the purpose of
+ computing the Interest Amount, the amount of interest computed for each
+ day of the Interest Period shall not be subject to compounding. 
+
+ (ii) 
+
+ Transfer of
+ Interest Amount. The Transfer of the
+ Interest Amount will be made on the first Local Business Day of each calendar
+ month and on any Local Business Day that Posted Collateral in the form
+ of Cash is Transferred to the Pledgor pursuant to Paragraph 3(b). 
+
+ (iii) 
+ Alternative
+ to Interest Amount. The provisions of
+ Paragraph 6(d)(ii) will apply. 
+
+ Additional Representation(s). Not applicable. Other
+ Eligible Support and Other Posted Support. Not applicable. 
+
+ (i) 
+ Additional
+ Representation(s). Not applicable. 
+
+ (j) 
+ Other
+ Eligible Support and Other Posted Support. Not
+ applicable. 
+
+ (k) 
+ Demands
+ and Notices. All demands, specifications
+ and notices under this Annex will be made to a party as follows unless
+ otherwise specified from time to time by that party for purposes of this
+ Annex in a written notice given to the other party: 
+
+ To Party A: 
+
+ WACHOVIA BANK, NATIONAL ASSOCIATION 
+
+ 201 South College Street 
+
+ 6 th Floor
+
+ Charlotte, NC 28288-0601 
+
+ Attention: Collateral Management Group 
+
+ Phone: 704-383-9529 
+
+ Fax: 704-383-3394 
+
+ To Party B: 
+
+ GOLD BANK 
+
+ Rick J. Tremblay 
+
+ 11301 Nall Avenue 
+
+ Leawood, KS 66211
+
+ Attention: Rick J. Tremblay 
+
+ Fax: (913) 451-8004 
+
+ Phone: (913) 323-7703 
+
+ (l) 
+ Addresses
+ for Transfers. 
+
+ (i) 
+
+ For each Transfer
+ hereunder to Party A, instructions will be provided by Party A for that
+ specific Transfer. 
+
+ 7 
+
+ (ii) 
+ For each Transfer
+ hereunder to Party B, instructions will be provided by Party B for that
+ specific Transfer. 
+
+ (m) 
+ Other Provisions. 
+
+ (i) 
+ Additional
+ Definitions. As used in this Annex,
+ the following terms have the following meanings: 
+
+ "Credit Rating"
+ means, for a party or entity on any
+ date of determination, (a) the Long-Term Counterparty Rating then assigned
+ to it by Standard & Poor's Ratings Services, a division of the McGraw-Hill
+ Companies, Inc. ("S&P") or the Counterparty Rating then assigned to
+ it by Moody's Investors Service ("Moody's'), or (b) if a party does not
+ have either a Long-Term Counterparty Rating assigned to it by S&P
+ or a Counterparty Rating assigned to it by Moody's, then its Credit Rating
+ will be the respective rating then assigned to its unsecured and unsubordinated
+ long-term debt or deposit obligations by either S&P or Moody's. If
+ such ratings are assigned by both S&P and Moody's, then its Credit
+ Rating will be the lower of such ratings. 
+
+ "Ineligible
+ Securities" means any obligations, securities,
+ certificates or instruments that (i) are denominated in a currency other
+ than U.S. Dollars, (ii) are issued other than in Federal Reserve book
+ entry form, or (iii) constitute or include structured notes or other structured
+ debt instruments, real estate mortgage investment conduits, collateralized
+ mortgage obligations, guaranteed mortgage certificates, interest-only
+ securities, principal-only securities or any securities representing interests
+ in, or are composed in whole or in part of, residual or high risk mortgage
+ derivatives or other derivatives. 
+
+ (ii) 
+ Exposure. All
+ calculations of "Exposure" under this Annex shall include all Transactions,
+ including all Specified Transactions that have been or will be entered
+ into between the parties (whether or not evidenced by a Confirmation). 
+
+ (iii) 
+ Grace Period.
+ Clause (i) of Paragraph 7 is hereby
+ amended by deleting the words "two Local Business Days" and substituting
+ therefor "one Local Business Day." 
+
+ 8 
+
+ IN WITNESS WHEREOF the parties have executed this Credit Support Annex as of the date hereof. 
+
+ WACHOVIA BANK, NATIONAL ASSOCIATION 
+
+ By: /s/ Harold E. Sprague, III 
+
+ Name: Harold E. Sprague, III 
+
+ Title: Vice President 
+
+ GOLD BANK 
+
+ By: /s/ Rick J. Tremblay 
+
+ Name: Rick J. Tremblay 
+
+ Title: Exec. V.P. and CFO 
+
+ 9

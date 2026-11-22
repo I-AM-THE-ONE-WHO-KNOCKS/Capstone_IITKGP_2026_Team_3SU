@@ -1,0 +1,283 @@
+EX-10.4
+ 5
+ ex_865661.htm
+ EXHIBIT 10.4
+
+ ex_865661.htm 
+
+ Exhibit 10.4 
+
+ (Bilateral Form) 
+ (ISDA Agreements Subject to New York Law Only) 
+
+ ISDA ®
+
+ International Swaps and Derivatives Association, Inc.
+
+ CREDIT SUPPORT ANNEX 
+
+ to the Schedule to the
+
+ ISDA 2002 MASTER AGREEMENT 
+
+ dated as of October 2, 2025
+
+ between
+
+ WELLS FARGO BANK, N.A. (“Party A”)
+
+ and
+
+ HAWAII RENEWABLES, LLC (“Party B”)
+
+ This Annex supplements, forms part of, and is subject to, the ISDA Master Agreement referred to above (this “ Agreement ”), is part of its Schedule and is a Credit Support Document under this Agreement with respect to each party.
+
+ Accordingly, the parties agree as follows: -
+
+ Paragraphs 1 - 12. Incorporation 
+
+ Paragraphs 1 through 12 inclusive of the ISDA Credit Support Annex (Bilateral Form) (ISDA Agreements Subject to New York Law Only) published in 1994 by the International Swaps and Derivatives Association, Inc. (the “ CSA ”) are incorporated herein by reference and made a part hereof.
+
+ Secured Party and Pledgor Redefined . Paragraph 1(b) is hereby amended in its entirety to read as follows:
+
+ “(b) Secured Party and Pledgor . Notwithstanding anything contained in this Annex to the contrary, (i) all references in this Annex to the “Secured Party”, all references in Paragraphs 2 and 9 of this Annex to “other party ” and references in Paragraph 11(b) of this Annex to “a party” and “that party”, will be to Party A exclusively, and (ii) all references in this Annex to the “Pledgor”, all references in Paragraphs 2 and 9 of this Annex to “Each party” or “a party”, and the reference in Paragraph 11(b) of this Annex to “other party”, will be to Party B exclusively.”
+
+ Paragraph 13. Elections and Variables 
+
+ (a)
+
+ Security Interest for “ Obligations ”. The term “ Obligations ” as used in this Annex includes no obligations of Secured Party and no additional obligations with respect to Pledgor.
+
+ 1
+
+ (b)
+
+ Credit Support Obligations. 
+
+ (i) Delivery Amount, Return Amount and Credit Support Amount. 
+
+ (A) “ Delivery Amount ” has the meaning specified in Paragraph 3(a).
+
+ (B) “ Return Amount ” has the meaning specified in Paragraph 3(b).
+
+ (C) “ Credit Support Amount ” means, for any Valuation Date (i) the Secured Party’s Exposure for that Valuation Date plus (ii) the aggregate of all Independent Amounts applicable to the Pledgor, if any, minus (iii) the Pledgor’s Threshold; provided, however, that (x) in the case where there exist Independent Amounts applicable to the Pledgor, the Credit Support Amount will not be less than the aggregate of all Independent Amounts applicable to the Pledgor, and (y) in all other cases, the Credit Support Amount will be deemed to be zero whenever the calculation of Credit Support Amount results in an amount less than zero.
+
+ (ii) Eligible Collateral . Subject to the provisions of this Annex, each of the following items will qualify as “Eligible Collateral”:
+
+ Party B 
+
+ Valuation 
+
+ Percentage 
+
+ (A)
+
+ Cash: immediately available cash funds that are denominated in U.S. Dollars.
+
+ YES
+
+ 100%
+
+ (B)
+
+ Other Eligible Collateral. Such other assets as may be agreed in writing between the parties for purposes of this Annex, together with the applicable Valuation Percentage, provided that such other assets are acceptable to Party A’s collateral operations team and eligible for capital netting against Party A’s hedge exposures in relation to the IM Swap Transactions (as defined in the Schedule to the Agreement) (as determined by Party A in good faith); further provided that such other assets shall constitute Eligible Collateral up to a maximum Value equal to the portion of the Exposure that is attributable to the Overhedged Commodity Volume (if any) (as defined in the Fee and Expense Letter, where “Fee and Expense Letter” has the meaning given to it in the Framework Agreement, as defined in the Schedule to the Agreement).
+
+ YES
+
+ (iii) Other Eligible Support . Not applicable.
+
+ (iv) Thresholds. 
+
+ (A) “ Independent Amount ” means for Party A: zero.
+
+ “Independent Amount ” means for Party B: zero.
+
+ (B) “ Threshold ” means for Secured Party: Infinity.
+
+ “Threshold ” means for Pledgor: zero.
+
+ 2
+
+ (C) “ Minimum Transfer Amount ” means with respect to Secured Party: $250,000; and
+
+ “Minimum Transfer Amount ” means with respect to Pledgor: $250,000,
+
+ provided that if an Event of Default or Full Close-out Additional Termination Event exists with respect to a party, the Minimum Transfer Amount for that party shall be zero, provided further that if the Secured Party is holding Posted Collateral and the Credit Support Amount required to be maintained by the Pledgor is, or is deemed to be, zero for any day, then for purposes of Paragraph 3(b), the Secured Party’s Minimum Transfer Amount for that day will be deemed to be zero with respect to that Posted Collateral.
+
+ (D) Rounding . The Delivery Amount and the Return Amount will be rounded up and down respectively to the nearest integral multiple of $10,000.
+
+ (c) Valuation and Timing. 
+
+ (i) “ Valuation Agent ” means Party A, provided it is acknowledged that the function of the Valuation Agent hereunder is administrative in nature, Party A is not acting as Party B’s agent, advisor or fiduciary for such purpose, and Party B shall remain responsible for making its own demands for a Delivery Amount or Return Amount based on the Valuation Agent’s calculations of Value and Exposure provided to Party B for the relevant Valuation Date. As specified in the definition of Exposure in Paragraph 12, any calculation of Exposure will be a mid-market estimate, and therefore will not show an actual market price at which an offer would be made for unwinding any Transaction. Instead, it will show a mathematical approximation of a market value derived from proprietary models as of a given date based on certain assumptions regarding past, present and future market conditions. All such models and assumptions are subject to change and shall remain the Valuation Agent’s proprietary and confidential property.
+
+ (ii) “ Valuation Date ” means each Weekly Observation Date (as defined in the Framework Agreement, as defined in the Schedule to the Agreement); provided , that “Valuation Date” shall also include each date on which Party A receives the 3/3 original bills of lading for any Commodity cargo in respect of which Party A has issued an LC (or the immediately following Local Business Day if such bills of lading are received after the close of business on a Local Business Day or on a day that is not a Local Business Day) (being an “ Ad Hoc LC Valuation Date ”, and to the extent that an Ad Hoc LC Valuation Date falls on a date that is a regularly scheduled Valuation Date, such the Valuation Agent shall treat such Ad Hoc LC Valuation Date, and the calculations and determinations made in relation thereto, separately for the purposes of this Annex), and which in either case in relation to a demand under Paragraph 3 shall be the Local Business Day immediately preceding the day of demand.
+
+ (iii) “ Valuation Time ” means the close of business in New York City on the Valuation Date or date of calculation, as applicable; provided that the calculations of Value and Exposure will be made as of approximately the same time on the same date.
+
+ (iv) “ Notification Time ” means 12:00 p.m., New York time, on a Local Business Day.
+
+ (v) Transfer Timing . For purposes of Paragraph 4(b), if a demand for the Transfer of Eligible Credit Support or Posted Credit Support is made by the Notification Time, then the relevant Transfer will be made not later than the close of business on the immediately following Local Business Day; if a demand is made after the Notification Time, then the relevant Transfer will be made not later than the close of business on the second following Local Business Day; provided that in respect of an Ad Hoc LC Valuation Date, (A) a demand for the Transfer of Eligible Credit Support or Posted Credit Support will be deemed automatically to have been duly made by the relevant party prior to the Notification Time and (B) the relevant Transfer will be made not later than the close of business on the same Local Business Day.
+
+ 3
+
+ (vi) For purposes of Paragraph 8(b)(iv)(B), “Value” shall have its meaning as defined in Paragraph 12 of this Annex, except the words "multiplied by the applicable Valuation Percentage, if any" shall be disregarded.
+
+ (d) Conditions Precedent and Secured Party ’ s Rights and Remedies. The following Termination Events will be a “ Specified Condition ” for the party specified (that party being the Affected Party if the Termination Event occurs with respect to that party): 
+
+ Party A 
+
+ Party B 
+
+ Additional Termination Events
+
+ NO
+
+ YES, subject as provided below
+
+ Illegality
+
+ YES
+
+ YES
+
+ provided that , in the case of an Illegality, if the Affected Party would be entitled to receive Eligible Credit Support or Posted Credit Support from the other party but for that Specified Condition, then (i) the parties may exercise their rights under Section 6(b)(iv)(2)(A) of this Agreement for such Illegality whether or not the Waiting Period has expired, and (ii) Section 6(b)(iv)(2)(B) of this Agreement will not apply if the Affected Party fails to receive Eligible Credit Support or Posted Credit Support from the other party as the result of an event under Section 5(b)(i)(2) of this Agreement being a Specified Condition; and
+
+ further provided that the Additional Termination Event set out at Part 1(g)(ii) of the Schedule to the Agreement shall not constitute a Specified Condition hereunder.
+
+ (e) Substitution .
+
+ (i) “ Substitution Date ” has the meaning specified in Paragraph 4(d)(ii).
+
+ (ii) Consent. The Pledgor is not required to obtain the Secured Party’s consent for any substitution pursuant to Paragraph 4(d).
+
+ (f) Dispute Resolution. 
+
+ (i) “ Resolution Time ” means 1:00 p.m., New York time, on the third Local Business Day following the date on which the notice is given that gives rise to a dispute under Paragraph 5.
+
+ (ii) Value . For the purpose of Paragraphs 5(i)(C) and 5(ii), the Value of Posted Credit Support consisting of securities will be calculated based upon the mid-point between the bid and offered purchase rates or prices for that Posted Credit Support as reported on the Bloomberg electronic service as of the Resolution Time, or if unavailable, as quoted to the Valuation Agent as of the Resolution Time by a dealer in that Posted Credit Support of recognized standing selected in good faith by the Valuation Agent, which calculation shall include any unpaid interest on that Posted Credit Support.
+
+ 4
+
+ (iii) Alternative . The provisions of Paragraph 5 will apply; provided that sub-clauses (1) and (2) of Paragraph 5 are amended to read as follows:
+
+ “(1) the Disputing Party will notify the other party and the Valuation Agent (if the Valuation Agent is not the other party) not later than the close of business on (X) the Local Business Day that the Transfer otherwise would have been due if no dispute had existed in the case of (I) above, or (Y) the Local Business Day following the date of Transfer in the case of (II) above, (2) subject to Paragraph 4(a), the appropriate party will Transfer the undisputed amount (subject to accounting between the parties upon resolution of the dispute or recalculation otherwise in accordance with this Paragraph) to the other party not later than (X) the Local Business Day that the Transfer otherwise would have been due if no dispute had existed, in the case of (I) above, or (Y) the Local Business Day following the date of Transfer, in the case of (II) above,”
+
+ and further provided that (i) references in Paragraph 5 to calculations of the Exposure for any Transactions or quotations for any Transactions shall include calculations of or quotations for the value of the relevant asset(s) by which the Exposure is reduced in accordance with the calculation thereof, as applicable; (ii) the Parties shall resolve each dispute expeditiously (and in any event within three (3) Local Business Days); and (iii) a new sub-clause (iii) will be added in Paragraph 5 as follows:
+
+ “(iii) If and to the extent that any dispute regarding the calculation of a Delivery Amount or a Return Amount relates to the Valuation Agent’s determination of any amount or quantity that is also used by the Calculation Agent for the purposes of determining any amount payable under an IM Swap Transaction (or vice versa), the parties acknowledge and agree that, at the election of the Calculation Agent or the Valuation Agent (as applicable), the same amount or quantity shall be used for the purposes of both determinations (both following the resolution of that dispute and for the purposes of determining the amounts payable between the parties while such dispute is pending).”.
+
+ (g) Holding and Using Posted Collateral. 
+
+ (i) Eligibility to Hold Posted Collateral; Custodians .
+
+ Subject to paragraph 6(c), the Secured Party will be entitled to hold Posted Collateral itself or through a Custodian pursuant to Paragraph 6(b).
+
+ (ii) Use of Posted Collateral. The provisions of Paragraph 6(c) will apply.
+
+ (h) Distributions and Interest Amount. 
+
+ (i) Interest Rate. The “Interest Rate” in respect of Cash in the form of U.S. Dollars for any day will be the SOFR (Collateral Rate) (as defined herein). For any day on which the SOFR (Collateral Rate) is not published, then the SOFR (Collateral Rate) published on the immediately preceding day shall be utilized. “SOFR (Collateral Rate)” has the meaning given in the ISDA Collateral Agreement Interest Rate Definitions, Version 3.0.
+
+ For the purpose of computing the Interest Amount, the amount of interest computed for each day of the Interest Period shall be compounded daily.
+
+ (ii) Transfer of Positive Interest Amount or AV Negative Interest Amount . The Transfer of the amount of a positive Interest Amount will be made on the first Local Business Day of each calendar month; and the Transfer of an AV Negative Interest Amount will be made on the first Local Business Day of each calendar month; provided that if the parties have entered into a series of IM Swap Transactions on a “Monthly Observation Date” (as defined in and pursuant to the Framework Agreement) in respect of that month, then the positive Interest Amount or AV Negative Interest Amount (as applicable) will instead be payable by the relevant party on the “Prepayment Date” in respect of that series of IM Swap Transactions (as defined in the relevant confirmations evidencing such IM Swap Transaction).
+
+ 5
+
+ The foregoing specified timing for the Transfer of Interest Amounts shall remain in effect in respect of Interest Amounts which are positive but shall also apply for the Transfer of AV Negative Interest Amounts, so that the Transfer of a positive Interest Amount and the Transfer of an AV Negative Interest Amount, as applicable, shall be made as provided herein, regardless of whether the amount to be transferred on any date is a positive Interest Amount or an AV Negative Interest Amount.
+
+ (iii) Alternative to Positive Interest Amount or AV Negative Interest Amount. The provisions of Paragraph 6(d)(ii) will apply.
+
+ (iv) ISDA 2014 Collateral Agreement Negative Interest Protocol Amendments . This Annex is hereby amended by incorporating the amendments specified for a “Protocol Covered Collateral Agreement” that is a “1994 New York Law CSA” appearing in Paragraphs 1(i) through (ix) of the Attachment to the ISDA 2014 Collateral Agreement Negative Interest Protocol as published by the International Swaps and Derivatives Association, Inc. on May 12, 2014.
+
+ (v) Distributions . The definition of “ Distributions ” in Paragraph 12 of the Annex is amended to add the following at the end thereof:
+
+ “If amounts constituting Distributions would, if the Pledgor were the holder of the Posted Collateral at all relevant times, be required to be paid to the Pledgor subject to a U.S. federal withholding Tax (as defined in the Agreement, as amended from time to time), then references to such Distributions shall be deemed to be references to the net amounts which would be received by the Pledgor after the application of such U.S. federal withholding Tax, failing which all Distributions shall be determined without regard to any U.S. federal withholding Tax.”
+
+ (i) Additional Representation(s). Not applicable.
+
+ (j) Other Eligible Support and Other Posted Support. Not applicable.
+
+ (k) Demands and Notices. All demands, specifications and notices under this Annex will be made to a party as follows unless otherwise specified from time to time by that party for purposes of this Annex in a written notice given to the other party:
+
+ To Party A: 
+
+ WELLS FARGO BANK, N.A. 
+
+ 550 S. Tryon St., 6th Floor
+
+ Coll Mgmt – MAC – D1086-063
+
+ Charlotte, NC 28202
+
+ Attention: Collateral Management
+
+ Phone: (704) 410-9218
+
+ Email: collateral.mgmt@wellsfargo.com
+
+ To Party B: 
+
+ HAWAII RENEWABLES, LLC 
+
+ 825 Town & Country Ln
+
+ Suite 1500
+
+ Houston, TX 77024
+
+ Attention: Treasury
+
+ Phone: +1 (713) 969-2156
+
+ Email: treasury@parpacific.com
+
+ With a copy to: legalnotices@parpacific.com
+
+ 6
+
+ (l) Addresses for Transfers. 
+
+ (i) For each Transfer hereunder to Party A, instructions will be provided by Party A for that specific Transfer.
+
+ (ii) For each Transfer hereunder to Party B, instructions will be provided by Party B for that specific Transfer; provided that in relation to any Transfer to Party B arising in respect of an Ad Hoc LC Valuation Date, the relevant Transfer shall be paid by Party A to the Supplier Payables Account notwithstanding any instruction by Party B to the contrary.
+
+ (m) Other Provisions . 
+
+ (i) Exposure . The definition of “Exposure” in Paragraph 12 shall be deemed to be deleted and instead “ Exposure ” shall mean, for each Valuation Date, or other date for which Exposure is calculated, an amount in U.S. Dollars determined in accordance with the Fee and Expense Letter; and (i) if such amount is positive, then Party A shall be deemed to have an Exposure to Party B equal to such amount (and Party B has no Exposure to Party A), or (ii) if such amount is negative then Party B shall be deemed to have an Exposure to Party A equal to the absolute value of such amount (and Party A has no Exposure to Party B), and in either case “Credit Support Amount” shall be construed accordingly.
+
+ (ii) Additional Definitions . Paragraph 12 of the Annex is amended by adding the following definitions thereto in alphabetical order such that any version thereof in effect prior to such amendment shall be deemed replaced:
+
+ “ “Full Close-out Additional Termination Event ” means, for a party, an Additional Termination Event for which all Transactions would be Affected Transactions and such party would be the Affected Party.”
+
+ (iii) Grace Period . Clause (i) of Paragraph 7 is hereby amended to read in its entirety as follows:
+
+ “(i) that party fails (or fails to cause its Custodian) to make, when due, any Transfer of Eligible Collateral, Posted Collateral or the Interest Amount, as applicable, required to be made by it and that failure continues for one Local Business Day (or two Local Business Days, if such (A) failure to pay is caused by administrative or technical error and (B) it has provided the other party with evidence reasonably acceptable to the other party that it had sufficient available funds to meet its payment obligations to the other party on the due date for payment)) after notice of that failure is given to that party.
+
+ (iv) Expenses. Paragraph 10(b) is amended by adding the following at the end thereof:
+
+ “Notwithstanding this Paragraph 10(b), Section 2(d) of the Agreement shall apply to any Indemnifiable Tax imposed on a payment or deemed payment by the Secured Party to the Pledgor described in Paragraph 6(d).”
+
+ (n) 2002 Master Agreement Protocol Amendments . This Annex is hereby amended by incorporating the amendments appearing in paragraphs (a) through (d) (inclusive) of Annex 14 of the 2002 Master Agreement Protocol published on July 15, 2003 by the International Swaps and Derivatives Association, Inc.
+
+ 7
+
+ IN WITNESS WHEREOF the parties have executed this Credit Support Annex as of the date hereof.
+
+ WELLS FARGO BANK, N.A. 
+
+ By: /s/ Rilla Park 
+
+ Name: Rilla Park
+
+ Title: Authorized Signatory
+
+ HAWAII RENEWABLES, LLC 
+
+ By: /s/ Shawn Flores 
+
+ Name: Shawn Flores
+
+ Title: Chief Financial Officer
+
+ [ Signature Page to Credit Support Annex ]

@@ -1,0 +1,7 @@
+counterparty_id,asset,amount,currency
+CP-001,cash,4710805,USD
+CP-002,corporate_bond,1713196,USD
+CP-003,government_bond,451384,USD
+CP-004,equity,0,USD
+CP-005,cash,0,USD
+CP-006,government_bond,61969,USD

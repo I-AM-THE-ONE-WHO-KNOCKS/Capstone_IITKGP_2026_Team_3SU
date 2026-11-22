@@ -1,0 +1,2492 @@
+EX-10.5
+ 18
+ a2049792zex-10_5.txt
+ EXHIBIT 10.5
+
+ANZ CAPEL COURT LIMITED (ABN 30 004 768 807)
+Trust Manager
+
+CITIBANK N.A. (ABN 34 072 814 058)
+Citibank and Party A
+
+PERPETUAL TRUSTEE COMPANY LIMITED (ABN 42 000 001 007)
+Party B
+
+AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED (ABN 11 005 357 522)
+ANZ and Standby Swap Provider
+
+KINGFISHER TRUST 2001-1G
+
+ISDA MASTER AGREEMENT
+(CURRENCY SWAP AGREEMENT)
+
+ (i)
+
+ SCHEDULE
+
+ TO THE
+
+ MASTER AGREEMENT
+
+ DATED AS OF 18 MAY 2001 BETWEEN
+
+ ANZ CAPEL COURT LIMITED ABN 30 004 768 807
+ ("TRUST MANAGER")
+
+ AND
+
+ CITIBANK N.A. ABN 34 072 814 058
+ ("CITIBANK " and "PARTY A")
+
+ AND
+
+ PERPETUAL TRUSTEE COMPANY LIMITED
+ ABN 42 000 001 007
+
+ IN ITS CAPACITY AS TRUSTEE OF THE KINGFISHER TRUST 2001-1G
+ ("PARTY B")
+
+ AND
+
+ AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED
+ ABN 11 005 357 522
+ ("ANZ" and "STANDBY SWAP PROVIDER")
+
+PART 1. TERMINATION PROVISIONS.
+
+In this Agreement:
+
+(a) "SPECIFIED ENTITY" does not apply in relation to Party A or Party B.
+
+(b) The definition of "SPECIFIED TRANSACTION" is not applicable.
+
+(c) (i) The following provisions of Section 5 will not apply to Party A:
+
+ Section 5(a)(ii) Section 5(a)(v)
+ Section 5(a)(iii) Section 5(a)(vi)
+ Section 5(a)(iv) Section 5(b)(iv)
+
+ (ii) The following provisions of Section 5 will not apply to Party B:
+
+ Section 5(a)(ii) Section 5(a)(v) Section 5(a)(viii)
+ Section 5(a)(iii) Section 5(a)(vi) Section 5(b)(iv)
+ Section 5(a)(iv) Section 5(a)(vii)
+
+ (iii) Section 5(b)(ii) will not apply to Party A as the Affected Party
+ (subject to Part 5(6)(b) of this Schedule) and Section 5(b)(iii)
+ will not apply to Party A as the Burdened Party.
+
+(d) The "AUTOMATIC EARLY TERMINATION" provisions in Section 6(a) will not
+ apply to Party A or Party B.
+
+(e) PAYMENTS ON EARLY TERMINATION. For the purposes of Section 6(e) of this
+ Agreement:
+
+ (i) Market Quotation will apply; and
+
+ (ii) the Second Method will apply.
+
+(f) "TERMINATION CURRENCY" means Australian Dollars.
+
+(g) "ADDITIONAL TERMINATION EVENT" applies. The following is an Additional
+ Termination Event in relation to which both Party A and Party B are
+ Affected Parties:
+
+ "An Event of Default (as defined in the Deed of Charge) occurs and the
+ Security Trustee has declared, in accordance with the Global Master
+ Security Trust Deed, the Class A Notes immediately due and payable."
+
+ For the purposes of calculating a payment due under Sections 6(d) and (e)
+ when an Early Termination Date is designated under Section 6(b) as a
+ result of such Additional Termination Event, Party B will be the only
+ Affected Party.
+
+PART 2. TAX REPRESENTATIONS
+
+(a) PAYER TAX REPRESENTATIONS. For the purpose of Section 3(e) of this
+ Agreement, Party A and Party B each make the following representation:
+
+ It is not required by any applicable law, as modified by the practice of
+ any relevant government revenue authority, of any Relevant Jurisdiction to
+ make any deduction or withholding for or on account of any Tax from any
+ payment (other than interest under Section 2(e), 6(d)(ii) or 6(e) of this
+ Agreement) to be made by it to any other party under this Agreement. In
+ making this representation, it may rely on:
+
+ (i) the accuracy of any representation made by that other party pursuant
+ to Section 3(f) of this Agreement;
+
+ (ii) the satisfaction of the agreement contained in Section 4(a)(i) or
+ 4(a)(iii) of this Agreement and the accuracy and effectiveness of
+ any document provided by that other party pursuant to Section
+ 4(a)(i) or 4(a)(iii) of this Agreement; and
+
+ (iii) the satisfaction of the agreement of that other party contained in
+ Section 4(d) of this Agreement,
+
+ PROVIDED THAT it shall not be a breach of this representation where
+ reliance is placed on clause (ii) and the other party does not deliver a
+ form or document under Section 4(a)(iii) by reason of material prejudice
+ to its legal or commercial position.
+
+(b) PAYEE TAX REPRESENTATIONS. For the purpose of Section 3(f) of this
+ Agreement:
+
+ (i) Party B and ANZ as Standby Swap Provider and (on and from the
+ Novation Date) as Party A, each makes the following representation:
+
+ It is an Australian resident and does not derive the payments
+ under this Agreement in part or whole in carrying on a
+ business in a country outside Australia at or through a
+ permanent establishment of itself in that country.
+
+ (ii) Citibank as Party A represents that it is an "eligible contract
+ participant" under the U.S. Commodity Exchange Act.
+
+PART 3. AGREEMENT TO DELIVER DOCUMENTS
+
+For the purpose of Sections 4(a)(i) and (ii) of this Agreement, each party
+agrees to deliver to each other party the following documents, as applicable:
+
+(a) TAX FORMS, DOCUMENTS OR CERTIFICATES TO BE DELIVERED ARE:
+
+PARTY REQUIRED TO FORM/DOCUMENT/CERTIFICATE DATE BY WHICH TO BE
+DELIVER DOCUMENT DELIVERED
+Party A, Party B, and Any document or certificate On the earlier of
+the Standby Swap Provider reasonably required or (a) learning that
+ reasonably requested such document or
+ by a party in connection certificate is
+ with its obligations to required and (b) as
+ make a soon as payment reasonably practicable
+ under this Agreement following a
+
+ which would enable that request by a party.
+ party to make the payment
+ free from any deduction or
+ withholding for or on
+ account of Tax or which
+ would reduce the rate at
+ which deduction or
+ withholding for or on
+ account of Tax is applied
+ to that payment as
+ requested by Party A with
+ respect to any payments
+ received by Party B.
+
+(b) OTHER DOCUMENTS TO BE DELIVERED ARE:
+
+PARTY REQUIRED TO FORM/DOCUMENT/CERTIFICATE DATE BY WHICH TO BE
+DELIVER DOCUMENT DELIVERED
+Party A, Party B, the A certificate specifying On the execution of
+Standby Swap Provider the names, title and this Agreement and
+and the Trust Manager specimen signatures of each Confirmation
+ the persons authorised to unless that certificate
+ execute this Agreement has already been
+ and each Confirmation or supplied and remains
+ other communication in true and in effect
+ writing made pursuant to and when the
+ this Agreement on its certificate is updated.
+ behalf.
+
+Party A, Party B, the A legal opinion as to the Prior to the Closing
+Standby Swap Provider validity and enforceability Date.
+and the Trust Manager of its obligations under
+ this Agreement in form
+ and substance (and issued
+ by legal counsel) reasonably
+ acceptable to each other
+ party.
+
+-Trust Manager A certified copy to Not less than 5
+ Party A of each Credit Business Days (or
+ Support Document specified such lesser period
+ in respect of Party B and as Party A agrees
+ (without limiting any to) before the Trade
+ obligation Party B may Date of the first
+ have under the terms of occurring Transaction
+ that Credit Support Document and in the case of any
+ to notify Party A of amending documents
+ amendments thereto)a entered into
+ certified copy to Party A subsequent to that
+ of any document that date, promptly after
+ amends in any way the each amending document
+ terms of that Credit (if any) has been
+ Support Document. entered into.
+
+Other than the legal opinions, any Credit Support Document or any document
+amending a Credit Support Document (but including any certifications in relation
+to such documents), all documents delivered under this Part 3(b) are covered by
+the Section 3(d) representation. For the purposes of this Part 3(b), a copy of a
+document is taken to be certified if a director or secretary of the party
+providing the document, or a person authorised to execute this Agreement or a
+Confirmation on behalf of that party or a solicitor acting for that party has
+certified it to be a true and complete copy of the document of which it purports
+to be a copy.
+
+PART 4. MISCELLANEOUS
+
+(a) ADDRESSES FOR NOTICES. For the purpose of Section 12(a) of this Agreement:
+
+ Address for notices or communications to Citibank as PARTY A:
+
+ Address: 333 West 34th Street, New York, NY 10001
+
+ Attention: Director, Derivatives Operations
+
+ Facsimile No.: (212) 615 8594
+
+ Additionally, a copy of all notices as well as any changes to
+ counterparty's address, telephone number or facsimile number should be
+ sent to:
+
+ Address: Capital Markets Legal Department,
+ 388 Greenwich Street, New York, NY 10013
+
+ Attention: Head of Department
+
+ Address for notices or communications to PARTY B:
+
+ Address: Perpetual Trustee Company Limited
+ Level 3
+ 39 Hunter Street
+ Sydney NSW 2000
+ AUSTRALIA
+
+ Attention: Manager, Securitisation
+
+ Facsimile No.: 61 2 9221 7870
+
+ Address for notices or communications to Trust Manager:
+
+ Address: ANZ Capel Court Limited
+ Level 16
+ 530 Collins Street
+ Melbourne VIC 3000
+ AUSTRALIA
+
+ Attention: Manager, Primary Markets Group
+
+ Facsimile: 61 3 9273 3539
+
+ Additionally, a copy of all notices as well as any changes to
+ counterparty's address, telephone number or facsimile number should be
+ sent to:
+
+ Address: Perpetual Trustee Company Limited
+ Level 3
+ 39 Hunter Street
+ Sydney NSW 2000
+ AUSTRALIA
+
+ Attention: Manager, Securitisation
+
+ Facsimile No.: 61 2 9221 7870
+
+ Address for notices or communications to ANZ as STANDBY SWAP Provider and
+ (on and from the Novation Date) as PARTY A:
+
+ Address : Markets Division,
+ Level 12, 530 Collins Street,
+ Melbourne, Victoria, 3000,
+ Australia
+
+ Attention : Manager, Derivative Operations
+
+ Telex No.: AA151018 Answerback: ANZAT
+ Facsimile No.: (613) 9273-1983 Telephone No.: (613) 9273-1629
+ SWIFT Code: ANZBAU3M
+
+(b) PROCESS AGENT. For the purpose of Section 13(c) of this Agreement:
+
+ Citibank as Party A appoints as its Process Agent: Citibank N.A., Sydney
+ Branch.
+
+ Party B appoints as its Process Agent: Not applicable.
+
+ ANZ as Standby Swap Provider and (on and from the Novation Date) as Party
+ A appoints as its Process Agent: Not applicable.
+
+(c) OFFICES. The provisions of Section 10(a) will apply to this Agreement.
+
+(d) MULTIBRANCH PARTY. For the purpose of Section 10(c) of this Agreement:
+
+ Party A is not a Multibranch Party.
+
+ Party B is not a Multibranch Party.
+
+(e) CALCULATION AGENT.
+
+ The Calculation Agent is Party A.
+
+ All such determinations and calculations will be binding on Party A and
+ Party B in the absence of manifest error.
+
+(f) CREDIT SUPPORT DOCUMENT. Details of any Credit Support Document:
+
+ (i) In relation to Citibank as Party A: Not applicable.
+
+ (ii) In relation to Party B: Global Master Security Trust Deed and Deed
+ of Charge.
+
+ (iii) In relation to ANZ as (on and from the Novation Date) Party A: Not
+ applicable.
+
+(g) Credit Support Provider.
+
+ (i) In relation to Citibank as Party A: None.
+
+ (ii) In relation to Party B: None.
+
+ (iii) In relation to ANZ as (on and from the Novation Date) Party A: None.
+
+(h) GOVERNING LAW. This Agreement will be governed by and construed in
+ accordance with the laws in force in New South Wales, except the Credit
+ Support Annex, which will be governed by and construed in accordance with
+ the laws in force in the State of New York as provided in Paragraph
+ 13(m)(iv) of the Credit Support Annex. Section 13(b)(i) is deleted and
+ replaced by the following:
+
+ "(i) submits to the non-exclusive jurisdiction of the courts of New
+ South Wales and courts of appeal from them; and".
+
+(i) NETTING OF PAYMENTS. Subparagraph (ii) of Section 2(c) of this Agreement
+ will apply in respect of all Transactions.
+
+(j) "AFFILIATE" will have the meaning specified in Section 14 of this
+ Agreement. However, for the purposes of Section 3(c) Party B is deemed not
+ to have any Affiliates.
+
+PART 5 OTHER PROVISIONS
+
+(1) PAYMENTS: In Section 2:
+
+ (a) In Section 2(a)(i) add the following sentence:
+
+ "Each payment will be by way of exchange for the corresponding
+ payment or payments payable by the other party (if any)".
+
+ (b) In Section 2(a)(ii) the first sentence is deleted and replaced with
+ the following sentence:
+
+ "Unless specified otherwise in this Agreement, payments under this
+ Agreement by:
+
+ (i) Party A, will be made by 10.00 am (New York time); and
+
+ (ii) Party B, will be made by 4.00pm (Melbourne time),
+
+ on the due date for value on that date in the place of the account
+ specified in the relevant Confirmation or otherwise pursuant to this
+ Agreement, in freely transferable funds, free of any set-off,
+ counterclaim, deduction or withholding (except as expressly provided
+ in this Agreement) and in the manner customary for payment in the
+ required currency.".
+
+ (c) Insert a new paragraph (iv) in Section 2(a) immediately after
+ Section 2(a)(iii) as follows:
+
+ "(iv) The condition precedent in Section 2(a)(iii)(1) does not apply
+ to a payment due to be made to a party if it has satisfied all
+ its payment obligations under Section 2(a)(i) of this
+ Agreement and has no future payment obligations, whether
+ absolute or contingent under Section 2(a)(i)."
+
+ (d) Add the following new sentence to Section 2(b):
+
+ "Each new account so designated shall be in the same tax
+ jurisdiction as the original account."
+
+ (e) Amend Section 2(d) as follows:
+
+ (i) Delete the word "if" at the beginning of Section 2(d)(i)(4)
+ and insert the following words instead:
+
+ "if and only if X is Party A and".
+
+ (ii) In Section 2(d)(ii) insert the words "(if and only if Y is
+ Party A)" after the word "then" at the beginning of the last
+ paragraph.
+
+ Without prejudice to the above amendments, it is agreed that Party B:
+
+ (iii) is not obliged to pay:
+
+ (1) any additional amount to Party A under Section
+ 2(d)(i)(4); or
+
+ (2) any amount to Party A under Section 2(d)(ii); and
+
+ (iv) will not receive payments under this Agreement or any
+ Transaction from which deductions or withholdings have been
+ made.
+
+(2) PARTY B'S PAYMENT INSTRUCTIONS: Party B irrevocably authorises and
+ instructs Party A to make payment of:
+
+ (i) the Initial Exchange Amount due from Party A to Party B in respect
+ of the Initial Exchange Date by paying that amount direct to the
+ account notified in writing by Party B to Party A for that purpose;
+ and
+
+ (ii) any other amount due from Party A to Party B under this Agreement by
+ paying that amount direct to the Principal Paying Agent to the
+ account outside Australia notified in writing by the Principal
+ Paying Agent to Party A for that purpose, (or, the extent directed
+ by the Trust Manager or the Security Trustee, the Collection
+ Amount).
+
+(3) PARTY A'S PAYMENT INSTRUCTIONS: Party A irrevocably authorises and
+ instructs Party B to make payment of:
+
+ (i) any amount denominated in A$ due from Party B to the account in
+ Sydney notified in writing by Party A to Party B from time to time;
+ and
+
+ (ii) any amount denominated in US$ due from Party B to the account
+ notified in writing by Party A to Party B from time to time.
+
+(4) REPRESENTATIONS: In Section 3:
+
+ (a) Section 3(a)(v) is amended by inserting immediately after the words
+ "creditors' rights generally" the following:
+
+ "(including in the case of a party being an ADI (as that term is
+ defined in the Reserve Bank Act, 1959 (Cth)), sections 13A(3) and 16
+ of the Banking Act, 1959 (Cth)).";
+
+ (b) RELATIONSHIP BETWEEN PARTIES. Each party will be deemed to represent
+ to the other parties on the date on which it enters into a
+ Transaction that (absent a written agreement between the parties
+ that expressly imposes affirmative obligations to the contrary for
+ that Transaction):-
+
+ (i) NON-RELIANCE. It is acting for its own account (in the case of
+ Party B, as trustee of the Trust), and it has made its own
+ independent decisions to enter into that Transaction and as to
+ whether that Transaction is appropriate or proper for it based
+ upon its own judgment (and in the case of Party B, also on the
+ judgment of the Trust Manager) and upon advice from such
+ advisers as it has deemed necessary. It is not relying on any
+ communication (written or oral) of any other party as
+ investment advice or as a recommendation to enter into that
+ Transaction; it being understood that information and
+ explanations related to the terms and conditions of a
+ Transaction will not be considered investment advice or a
+ recommendation to enter into that Transaction. No
+ communication (written or oral) received from any other party
+ will be deemed to be an assurance or guarantee as to the
+ expected results of that Transaction.
+
+ (ii) EVALUATION AND UNDERSTANDING. It is capable of evaluating and
+ understanding (on its own behalf or through independent
+ professional advice), and understands and accepts, the terms,
+ conditions and risks of that Transaction. It is also capable
+ of assuming, and assumes, (in the case of Party B, subject to
+ Section 15), the risks of that Transaction.
+
+ (iii) STATUS OF PARTIES. No other party is acting as a fiduciary or
+ an adviser to it in respect of that Transaction (other than in
+ the case of Party B, the Trust Manager).
+
+ (c) insert the following new paragraphs (g), (h) and (i) in Section 3
+ immediately after Section 3(f):
+
+ (g) TRUST. By Party B, in respect of Party B only:
+
+ (i) TRUST VALIDLY CREATED. The Trust has been validly
+ created and is in existence at the Trade Date of the
+ first
+
+ occurring Transaction.
+
+ (ii) SOLE TRUSTEE. It has been validly appointed as trustee
+ of the Trust and is presently the sole trustee of the
+ Trust.
+
+ (iii) NO PROCEEDINGS TO REMOVE. No notice has been given to it
+ and to its knowledge no resolution has been passed, or
+ direction or notice has been given, removing it as
+ trustee of the Trust.
+
+ (iv) POWER. It has power under the Master Trust Deed and the
+ Supplemental Deed to:
+
+ (A) enter into and perform its obligations under this
+ Agreement and each Credit Support Document; and
+
+ (B) mortgage or charge the Assets of the Trust in the
+ manner provided in the Credit Support Document (in
+ relation to Party B),
+
+ and its entry into this Agreement and each Credit
+ Support Document (in relation to Party B) is in the
+ interests of the beneficiaries of the Trust and does not
+ constitute a breach of trust.
+
+ (v) GOOD TITLE. It is the lawful owner of or has equitable
+ title to (as applicable) the Assets of the Trust and,
+ subject only to the Credit Support Document in relation
+ to Party B and any Security Interest permitted under the
+ Credit Support Document in relation to Party B, those
+ Assets are free of all other Security Interests (except
+ for Party B's right of indemnity out of the Assets of
+ the Trust).
+
+ (vi) ELIGIBLE CONTRACT PARTICIPANT. The Trust was not formed
+ for the specific purpose of constituting an "eligible
+ contract participant" under the US Commodity Exchange
+ Act.
+
+ (vii) TOTAL ASSETS. As at close of business on the Trade Date
+ of the first occurring Transaction, following the issue
+ of the Class A Notes and provided that the aggregate
+ Invested Amount of the Class A Notes upon issue exceeds
+ USD 10,000,000 the Trust will have total assets
+ exceeding USD10,000,000.
+
+ (h) NON-ASSIGNMENT. It has not assigned (whether absolutely, in
+ equity, by way of security or otherwise), declared any trust
+ over or given any charge over any of its rights under this
+ Agreement or any Transaction except, in the case of Party B,
+ for the Security Interests created under each Credit Support
+ Document in relation to Party B.
+
+ (i) CONTRACTING AS PRINCIPAL. Except in the case of Party B, each
+ Transaction has been entered into by that party as principal
+ and not otherwise."
+
+(5) EVENT OF DEFAULT: In Section 5(a):
+
+ (a) FAILURE TO PAY OR DELIVER: delete paragraph (i) and replace it with
+ the following:
+
+ ""(i) FAILURE TO PAY OR DELIVER. Failure by the party to make, when
+ due, any payment under this Agreement or delivery under
+ Section 2(a)(i)
+
+ or 2(e) required to be made by it if such failure is not
+ remedied at or before:
+
+ (1) where the failure is by Party B, 4.00 pm (Melbourne
+ time) on the tenth Business Day after notice of such
+ failure is given to Party B;" and
+
+ (2) where the failure is by Party A, 10.00am (New York time)
+ on the tenth Business Day after notice of such failure
+ is given to Party A;";
+
+ (b) Consequential amendments:
+
+ (i) delete "or" at the end of Section 5(a)(vii); and
+
+ (ii) replace the full stop at the end of Section 5(a)(viii) with ";
+ or"; and
+
+ (c) DOWNGRADE OBLIGATIONS: insert the following new paragraph (ix):
+
+ "(ix) DOWNGRADE OBLIGATIONS. In respect of Party A only, Party A
+ fails to comply with Part 5(22) of the Schedule if such
+ failure is not remedied on or before the tenth Business Day
+ (or such later day as Party B and the Trust Manager may agree
+ and which the Designated Rating Agencies confirm in writing
+ will not result in an Adverse Rating Effect after notice of
+ such failure is given to Party A."
+
+(6) TERMINATION EVENTS:
+
+ (a) ILLEGALITY: In respect of each Transaction, the parties agree that
+ the imposition by any Governmental Agency of an Australian
+ jurisdiction of any exchange controls, restrictions or prohibitions
+ which would otherwise constitute an Illegality for the purposes of
+ Sections 5(b)(i) or 5(c) will not be an event which constitutes an
+ Illegality for the purposes of those Sections so that, following the
+ occurrence of that event:
+
+ (i) neither Party A nor Party B will be entitled to designate an
+ Early Termination Date in respect of that Transaction as a
+ result of that event occurring;
+
+ (ii) payment by Party B in accordance with Part 5(3) of the
+ Schedule will continue to constitute proper performance of its
+ payment obligations in respect of that Transaction; and
+
+ (iii) Party A's obligations in respect of that Transaction or this
+ Agreement will, to the extent permitted by law, be unaffected
+ by the occurrence of that event.
+
+ (b) PARTY A'S LIMITED RIGHTS IN RELATION TO TAX EVENT:
+
+ (i) Notwithstanding Part 1(c)(iii) of the Schedule, but subject to
+ Section 6(b)(ii), Party A may designate an Early Termination
+ Date if it is an Affected Party following a Tax Event but only
+ if the Note Trustee has notified the parties in writing that
+ it is satisfied that all amounts owing to the Class A Note
+ Holders will be paid in full on the date on which the Class A
+ Notes are to be redeemed.
+
+ (ii) If a Tax Event occurs where Party A is the Affected Party and
+ Party A is unable to transfer all its rights and obligations
+ under this Agreement and each Transaction to an Affiliate
+ pursuant to Section 6(b)(ii), Party A may, at its cost,
+ transfer all its rights, powers and privileges and all its
+ unperformed and future obligations under this Agreement and
+ each Transaction to any person provided that:
+
+ (A) each Designated Rating Agency has confirmed in writing
+ that the transfer will not result in an Adverse Rating
+ Effect; and
+
+ (B) that person has a long term credit rating assigned by
+ each Designated Rating Agency of at least the long term
+ credit rating assigned by that Designated Rating Agency
+ to Citibank as at the date of this Agreement or,
+ otherwise, the Standby Swap Provider provides its
+ written consent to the transfer.
+
+(7) TERMINATION:
+
+ (a) TERMINATION BY PARTY B: Party B must not designate an Early
+ Termination Date without the prior written consent of the Note
+ Trustee. Party B may only designate an Early Termination Date at the
+ direction of the Trust Manager. Subject to its duties under the
+ Master Trust Deed and the Supplemental Deed, Party B may exercise
+ any rights in its capacity as holder of the Assets of the Trust only
+ on the instructions of the Trust Manager.
+
+ (b) TERMINATION BY THE NOTE TRUSTEE: If following an Event of Default or
+ Termination Event, Party B does not exercise its right to terminate
+ a Transaction, then the Note Trustee may designate an Early
+ Termination Date in relation to that Transaction as if it were a
+ party to this Agreement.
+
+ (c) TERMINATION PAYMENTS BY PARTY B: Notwithstanding Section 6(d)(ii),
+ any amount calculated as being due by Party B in respect of any
+ Early Termination Date under Section 6(e) will be payable on the
+ Payment Date immediately following the date that such amount would
+ otherwise be payable under Section 6(d)(ii) (or will be payable on
+ that date if that date is a Payment Date) except to the extent that
+ such amount may be satisfied from an earlier distribution under the
+ Global Master Security Trust Deed and the Deed of Charge or the
+ payment of an upfront premium in respect of a Replacement Currency
+ Swap in accordance with Part 5(17)(b).
+
+ (d) TRANSFERS TO AVOID TERMINATION: Section 6(b)(ii) is amended as
+ follows:
+
+ (i) The following sentence is added at the end of the second
+ paragraph:
+
+ "However, if Party A is that other party it must, if so
+ requested by the Trust Manager, use reasonable efforts (which
+ will not require Party A to incur a loss, excluding
+ immaterial, incidental expenses) to make such a transfer to an
+ Affiliate provided the Designated Rating Agencies have given
+ prior written confirmation to the Trust Manager that such a
+ transfer will not result in an Adverse Rating Effect."
+
+ (ii) The third paragraph is deleted and replaced with the
+ following:
+
+ "Any such transfer by a party under this Section 6(b)(ii) will
+ be subject to and conditional upon the prior written consent
+ of the other party, which consent will not be withheld:
+
+ (1) where the other party is Party A, if Party A's policies
+ in effect at such time would permit it to enter into
+ transactions with the transferee on the terms proposed;
+ or
+
+ (2) where the other party is Party B, if the Designated
+ Rating Agencies have confirmed in writing that such
+ transfer will not result in an Adverse Rating Effect.
+
+ (e) NOTICE OF EVENT OF DEFAULT. For the purposes of Section 6(a) and
+ (b):
+
+ (i) Party A may only provide a notice specifying an Event of
+ Default to Party B as the Defaulting Party and may only
+ designate an Early Termination Date following a Termination
+ Event where Party A or Party B (or both) is the Affected Party
+ or the Burdened Party; and
+
+ (ii) the Standby Swap Provider may not issue a notice specifying an
+ Event of Default or designating an Early Termination Date
+ (except as Party A on or after the Novation Date).
+
+(8) NO SET-OFF: Section 6(e) is amended by deleting the last sentence of the
+ first paragraph.
+
+(9) TRANSFER: Section 7 is replaced with:
+
+ "7. ESSENTIAL TERM: TRANSFER
+
+ (a) Neither the interests nor the obligations of any party in or under
+ this Agreement (including any Transaction) are capable of being
+ assigned or transferred (whether at law, in equity or otherwise),
+ charged or the subject of any trust (other than the Trust or the
+ trusts created pursuant to the Credit Support Documents in relation
+ to Party B) or other fiduciary obligation. Any action by a party
+ which purports to do any of these things is void.
+
+ (b) Nothing in this Section 7:
+
+ (i) restricts a transfer by a party after the other parties have
+ agreed to the variation of this Agreement in accordance with
+ Part 5(20) to the extent necessary to permit such transfer;
+
+ (ii) restricts a novation of the interests and obligations of a
+ party in or under this Agreement (including any Transaction)
+ for the purposes of giving effect to a transfer under Section
+ 6(b)(ii);
+
+ (iii) restricts a transfer by a party of all or any part of its
+ interest in any amount payable to it from a Defaulting Party
+ under Section 6(e);
+
+ (iv) restricts a transfer by Party B or the Trust Manager to a
+ substitute Trustee or substitute Trust Manager, respectively,
+ in accordance with the Master Trust Deed;
+
+ (v) restricts Party B from granting security over a Transaction or
+ this Agreement pursuant to any Credit Support Document in
+ relation to Party B; or
+
+ (vi) limits Parts 5(6)(b)(ii), 5(22), 5(23), 5(24) or 5(25).
+
+ (c) Each party acknowledges that the other party enters into this
+ Agreement and each Transaction on the basis that this Section 7 must
+ be strictly observed and is essential to the terms of this Agreement
+ (including each Transaction)."
+
+(10) FACSIMILE TRANSMISSION: In Section 12:
+
+ (a) delete Section 12(a)(ii); and
+
+ (b) replace Section 12(a)(iii) with:
+
+ "(iii) if sent by facsimile transmission:
+
+ (A) in the case of any notice or other communication
+ pursuant to Parts 5(23), (24) or (25), on the date that
+ the transmission is received by a responsible employee
+ of the recipient in legible form (it being agreed that
+ the burden of proving receipt will be on the sender and
+ will not be met by a transmission report generated by
+ the sender's
+
+ facsimile machine); or
+
+ (B) otherwise, on the date a transmission report is produced
+ by the machine from which the facsimile was sent which
+ indicates that the facsimile was sent in its entirety to
+ the facsimile number of the recipient notified for the
+ purpose of this Section unless the recipient notifies
+ the sender within one Business Day of the facsimile
+ being sent that the facsimile was not received in its
+ entirety in legible form;".
+
+(11) DEFINITIONS
+
+ (a) MASTER DEFINITIONS SCHEDULE AND SUPPLEMENTAL DEED: unless defined in
+ this Agreement words and phrases defined in the Master Definitions
+ Schedule and the Supplemental Deed have the same meaning in this
+ Agreement. Where there is any inconsistency in a definition between
+ this Agreement (on the one hand) and the Master Definitions Schedule
+ or Supplemental Deed (on the other hand), this Agreement prevails.
+ Where there is any inconsistency in a definition between the Master
+ Definitions Schedule and the Supplemental Deed, the Supplemental
+ Deed prevails over the Master Definitions Schedule in respect of the
+ Trust. Where words or phrases used but not defined in this Agreement
+ are defined in the Master Definitions Schedule in relation to a
+ Trust (as defined in the Master Definitions Schedule) such words or
+ phrases are to be construed in this Agreement, where necessary, as
+ being used only in relation to the Trust (as defined in the
+ Supplemental Deed);
+
+ (b) TRUSTEE CAPACITY:
+
+ (i) a reference to Party B is a reference to Party B in its
+ capacity as trustee of the Trust only, and in no other
+ capacity; and
+
+ (ii) a reference to the undertaking, assets, business, money or
+ other thing of or in relation to Party B is a reference to the
+ undertaking, assets, business, money or other thing of or in
+ relation to Party B in the capacity referred to in paragraph
+ (i) only.
+
+ (c) DEFINITIONS: in Section 14:
+
+ (i) replace the definitions of "AFFECTED TRANSACTIONS" and "LOCAL
+ BUSINESS DAY" with the following:
+
+ ""AFFECTED TRANSACTIONS" means, with respect to a Termination
+ Event, all Transactions."
+
+ ""LOCAL BUSINESS DAY" has the same meaning as "BUSINESS DAY"."
+
+ (ii) insert the following new definitions:
+
+ "BBSW" or "AUD-BBR-BBSW" in relation to an Interest Period
+ means the rate appearing at approximately 10.00 am Sydney time
+ on the Reset Date for that Interest Period on the Reuters
+ Screen page "BBSW" as being the average of the mean buying and
+ selling rates appearing on that page for a bill of exchange
+ having a tenor of three months. If:
+
+ (a) on that Reset Date fewer than 4 banks are quoted on the
+ Reuters Screen page "BBSW"; or
+
+ (b) for any other reason the rate for that day cannot be
+
+ determined in accordance with the foregoing procedures,
+
+ then "BBSW" or "AUD-BBR-BBSW" means such rate as is specified
+ by the Calculation Agent having regard to comparable indices
+ then available.
+
+ "CREDIT SUPPORT ANNEX" means the Credit Support Annex to be
+ executed in the form substantially as annexed to this
+ Agreement.
+
+ "INCONVERTIBILITY EVENT" means any event beyond the control of
+ ANZ that makes it impossible for ANZ to convert to U.S.
+ Dollars through customary legal channels an amount of
+ Australian Dollars sufficient to fulfil ANZ's obligations
+ under this Agreement and each Transaction.
+
+ "JOINT RATINGS" means the highest possible jointly supported
+ short term credit rating or long term credit rating, as
+ applicable, that can be determined in relation to Party A and
+ the Standby Swap Provider by Moody's, S&P and Fitch in
+ accordance with Moody's, S&P's and Fitch's respective
+ approaches to jointly supported obligations provided that if
+ either Party A or the Standby Swap Provider has a long term
+ credit rating of less than BBB from S&P the Joint Ratings from
+ S&P will be the credit ratings of the other party.
+
+ "MASTER DEFINITIONS SCHEDULE" means the deed entitled
+ "Kingfisher Master Trusts Master Definitions Schedule" dated 1
+ August 2000 between the Trust Manager, Party B and P.T.
+ Limited as amended by the deed entitled "Kingfisher Master
+ Trusts Amending Deed" dated 16 May 2001.
+
+ "NOVATION DATE" means the date upon which the obligations of
+ Citibank as Party A under this Agreement and each Transaction
+ are novated to the Standby Swap Provider pursuant to Part
+ 5(24)(c).
+
+ "PRESCRIBED RATING PERIOD" means in relation to the Joint
+ Ratings determined by the Designated Rating Agencies:
+
+ (a) a period of 30 Business Days from the date of
+ determination of the relevant credit rating where any
+ Joint Rating immediately after that determination is
+ less than the relevant Prescribed Rating but greater
+ than or equal to a short term credit rating of A-1 by
+ S&P and long term credit ratings of A- by S&P, A3 by
+ Moody's and A- by Fitch, as the case may be; and
+
+ (b) a period of 5 Business Days from the date of
+ determination of the relevant credit rating where any
+ Joint Rating immediately after that determination is
+ less than a short term credit rating of A-1 by S&P or
+ less than a long term credit rating of A- by S&P, A3 by
+ Moody's and A- by Fitch.
+
+ "PRESCRIBED RATINGS" means a short term credit rating of A-1+
+ by S&P or a long term credit rating of AA- by S&P and long
+ term credit ratings of AA- by Fitch and a short term credit
+ rating of P-1 or a long term rating of A2 by Moody's.
+
+ "RELEVANT CALCULATION AMOUNT" has the meaning given in.the
+ Form of Confirmation Kingfisher Trust 2001-1G Definitions
+ Schedule
+
+ "SUPPLEMENTAL DEED" means the deed entitled "Kingfisher Trust
+
+ 2001-1G Supplemental Deed" dated on or about the date of this
+ Agreement between the Trust Manager, Party B and certain other
+ parties.
+
+ "TRUST" means the Kingfisher Trust 2001-1G constituted by the
+ Master Trust Deed and a notice of creation of trust.
+
+ (d) INTERPRETATION:
+
+ (i) references to time are references to Melbourne time;
+
+ (ii) a reference to "NEITHER PARTY" will be construed as a
+ reference to "NO PARTY"; and
+
+ (iii) a reference to "OTHER PARTY" will be construed as a reference
+ to "OTHER PARTIES".
+
+ (e) ISDA DEFINITIONS: The 2000 ISDA Definitions (as published by the
+ International Swaps and Derivatives Association, Inc ("ISDA")), as
+ at the date of this Agreement are incorporated into this Agreement
+ and each Confirmation.
+
+ (f) INCONSISTENCY: Subject to Part 5(11)(a), unless specified otherwise,
+ in the event of any inconsistency between any two or more of the
+ following documents in respect of a Transaction they will take
+ precedence over each other in the following order in respect of that
+ Transaction:
+
+ (i) any Confirmation;
+
+ (ii) this Schedule and Paragraph 13 ("Elections and Variables") of
+ the Credit Support Annex (as applicable);
+
+ (iii) the 2000 ISDA Definitions; and
+
+ (iv) the printed form of the 1992 ISDA Master Agreement and the
+ printed form of the ISDA Credit Support Annex which form part
+ of this Agreement.
+
+ (g) SWAP TRANSACTION: Any reference to a:
+
+ (i) "SWAP TRANSACTION" in the 2000 ISDA Definitions is deemed to
+ be a reference to a "TRANSACTION" for the purpose of
+ interpreting this Agreement or any Confirmation; and
+
+ (ii) "TRANSACTION" in this Agreement or any Confirmation is deemed
+ to be a reference to a "SWAP TRANSACTION" for the purpose of
+ interpreting the 2000 ISDA Definitions.
+
+ (h) INCORPORATED DEFINITIONS AND OTHER TRANSACTION DOCUMENTS AND
+ PROVISIONS: Where in this Agreement a word or expression is defined
+ by reference to its meaning in another Transaction Document or there
+ is a reference to another Transaction Document or to a provision of
+ another Transaction Document, any amendment to the meaning of that
+ word or expression or to that other Transaction Document or
+ provision (as the case may be) will be of no effect for the purposes
+ of this Agreement unless and until the amendment is consented to by
+ the parties to this Agreement.
+
+(12) LIMITATION OF LIABILITY:
+
+ Insert the following as Section 15, after Section 14
+
+ "(15)(a) (PARTY B'S LIMITATION OF LIABILITY) Party B enters into
+ this Agreement and each Transaction only in its capacity as
+ trustee of the Trust and in no other capacity. A liability of
+ Party B arising under or in connection with this Agreement, a
+ Transaction or the Trust is limited to and can be enforced
+
+ against Party B only to the extent to which it can be
+ satisfied out of the Assets of the Trust out of which Party B
+ is actually indemnified for the liability. This limitation of
+ Party B's liability applies despite any other provision of
+ this Agreement (other than Section 15(c) below) and extends to
+ all liabilities and obligations of Party B in any way
+ connected with any representation, warranty, conduct,
+ omission, agreement or transaction related to this Agreement,
+ any Transaction or the Trust.
+
+ (a) The parties other than Party B may not sue Party B in any capacity
+ other than as trustee of the Trust including seeking the appointment
+ of a receiver (except in relation to the Assets of the Trust) or
+ liquidator, administrator or any similar person to Party B or prove
+ in any liquidation, administration or arrangement of or affecting
+ Party B (except in relation to the Assets of the Trust).
+
+ (b) The provisions of this Section 15 limiting Party B's liability will
+ not apply to any obligation or liability of Party B to the extent
+ that it is not satisfied because, under this Agreement or any other
+ Transaction Document in relation to the Trust, or by operation of
+ law, there is a reduction in the extent of Party B's indemnification
+ out of the Assets of the Trust, as a result of Party B's fraud,
+ gross negligence or willful default.
+
+ (c) It is acknowledged that the Relevant Parties are responsible under
+ this Agreement and the other Transaction Documents in relation to
+ the Trust for performing a variety of obligations relating to the
+ Trust. No act or omission of Party B (including any related failure
+ to satisfy its obligations or breach of representation or warranty
+ under this Agreement) will be considered fraud, gross negligence or
+ willful default for the purposes of Section 15(c) above to the
+ extent the act or omission was caused or contributed to by any
+ failure by any Relevant Party or any other person appointed by Party
+ B under any Transaction Document (other than a person whose acts or
+ omissions Party B is liable for in accordance with any Transaction
+ Document) to fulfil its obligations relating to the Trust or by any
+ other act or omission of any Relevant Party or any other such person
+ regardless of whether or not the act or omission is purported to be
+ done on behalf of Party B.
+
+ (d) No attorney, agent, receiver or receiver and Trust Manager appointed
+ in accordance with this Agreement or any other Transaction Document
+ has authority to act on behalf of Party B in a way that exposes
+ Party B to any personal liability, and no act or omission of any
+ such person will be considered fraud, gross negligence or willful
+ default of Party B for the purpose of Section 15(c) above.
+
+ (e) Party B is not obliged to do anything or refrain from doing anything
+ under or in connection with this Agreement (including incur a
+ liability) unless Party B's liability is limited in the same manner
+ as set out in this clause.
+
+(13) FURTHER ASSURANCES: Each party will, upon request by the other party (the
+ "REQUESTING PARTY") at the expense of the requesting party, perform all
+ such acts and execute all such agreements, assurances and other documents
+ and instruments as the requesting party reasonably requires (and, in the
+ case of Party B, are within the powers granted to Party B under the Master
+ Trust Deed) and as directed by the Trust Manager to assure and confirm the
+ rights and powers afforded, created or intended to be afforded or created,
+ under or in relation to this Agreement and each Transaction or other
+ dealing which occurs under or is contemplated by it.
+
+(14) PROCEDURES FOR ENTERING INTO TRANSACTIONS
+
+ (a) With respect to each Transaction entered into pursuant to this
+ Agreement and for the purposes of Section 9(e)(ii), Party A will, by
+ or promptly after the relevant
+
+ Trade Date, send Party B, the Standby Swap Provider and the Trust
+ Manager a Confirmation substantially in the form set out in Annexure
+ 1 (or in such other form as may be agreed between Party A, Party B,
+ the Standby Swap Provider and the Trust Manager), and Party B, the
+ Standby Swap Provider and the Trust Manager must promptly then
+ confirm the accuracy of and sign and return, or request the
+ correction of, such Confirmation; and
+
+ (b) Party B will enter into each Transaction in its capacity as trustee
+ of the Trust.
+
+(15) TRANSACTIONS NOT EXPRESSED TO BE SUBJECT TO ISDA
+
+ The parties agree that where a Transaction has not been confirmed by
+ express reference to this Agreement, or alternatively has been confirmed
+ by express reference to other terms, another master agreement or
+ otherwise, that Transaction will, unless the terms of this Agreement have
+ been expressly excluded, nonetheless be deemed to be governed exclusively
+ by the terms of this Agreement.
+
+(16) RECORDED CONVERSATIONS: Each party:
+
+ (a) consents to the electronic recording of its telephone conversations
+ with the other party (or any of its associated persons) with or
+ without the use of an automatic tone warning device;
+
+ (b) such recordings may be used as evidence in court proceedings or
+ arbitration.; and
+
+ (c) acknowledges that neither is obligated to maintain copies of such
+ recordings and transcripts for the benefit of the other party.
+
+(17) REPLACEMENT CURRENCY SWAP AGREEMENT:
+
+ (a) If any Transaction under this Agreement is terminated prior to the
+ day upon which the Notes are redeemed in full, Party B may, at the
+ direction of the Trust Manager, enter into one or more currency
+ swaps which replace that Transaction (collectively a "REPLACEMENT
+ CURRENCY SWAP") provided that:
+
+ (i) the Designated Rating Agencies confirm in writing that the
+ entry into the Replacement Currency Swap by Party B does not
+ result in an Adverse Rating Effect; and
+
+ (ii) the liability of Party B under the Replacement Currency Swap
+ is limited to at least the same extent that its liability is
+ limited under that Transaction.
+
+ (b) If Party B enters into a Replacement Currency Swap pursuant to
+ paragraph (a) and a Settlement Amount is payable by Party B to Party
+ A upon termination of the Transaction referred to in Part 5(17)(a),
+ Party B must direct the Replacement Currency Swap provider to pay
+ any upfront premium to enter into the Replacement Currency Swap due
+ to Party B directly to Party A in satisfaction of and to the extent
+ of Party B's obligation to pay the Settlement Amount to Party A, and
+ to the extent such premium is not greater than or equal to the
+ Settlement Amount, the balance may be satisfied by Party B as an
+ Expense of the Trust.
+
+ (c) If Party B enters into a Replacement Currency Swap pursuant to
+ paragraph (a) and a Settlement Amount is payable by Party A to Party
+ B upon termination of the Transaction referred to in Part 5(17)(a),
+ Party B may direct Party A to pay that amount to the Replacement
+ Currency Swap provider in satisfaction of or towards and to the
+ extent of Party B's obligation (if any) to pay an upfront premium to
+ the Replacement Currency Swap provider to enter into the Replacement
+ Currency Swap.
+
+ (d) The obligations of Party B (and the rights of Party A) under this
+ Part 5(17) will
+
+ survive the termination of this Agreement.
+
+(18) KNOWLEDGE OR AWARENESS: Subject to Section 12(a), each party will only be
+ considered to have knowledge or awareness of, or notice of, a thing or
+ grounds to believe anything by virtue of the officers of that party or any
+ Related Body Corporate of that party which have the day to day
+ responsibility for the administration or management of that party's (or a
+ Related Body Corporate of that party's) obligations in relation to the
+ Trust or the Transactions entered into under this Agreement having actual
+ knowledge, actual awareness or actual notice of that thing, or grounds or
+ reason to believe that thing (and similar references will be interpreted
+ in this way).
+
+(19) RESTRICTIONS ON PARTY B'S RIGHTS: Party B must at all times act in
+ accordance with the instructions of the Trust Manager in relation to this
+ Agreement.
+
+(20) AMENDMENT TO THIS AGREEMENT: None of Party A, Party B, the Standby Swap
+ Provider or the Trust Manager may amend this Agreement unless the
+ Designated Rating Agencies have confirmed in writing that the proposed
+ amendment will not result in an Adverse Rating Effect.
+
+(21) APPOINTMENT OF TRUST MANAGER: Party B hereby exclusively appoints the
+ Trust Manager as its attorney to act on Party B's behalf and exercise all
+ rights and powers of Party B with respect to this Agreement other than any
+ amendment of Party B's rights and powers under this Agreement. Without
+ limiting the generality of the foregoing, the Trust Manager may issue and
+ receive on behalf of Party B all notices, certificates and other
+ communications to or by Party A under this Agreement until such time as
+ Party B serves written notice on Party A of the revocation of the Trust
+ Manager's authority to act on behalf of Party B in accordance with this
+ Part 5(21) of the Schedule.
+
+(22) RATINGS DOWNGRADE:
+
+ (a) (DOWNGRADE): If, as a result of the reduction or withdrawal of the
+ credit rating of Party A or the Standby Swap Provider a Joint Rating
+ is less than the relevant Prescribed Rating, Party A must by the
+ expiry of the Prescribed Rating Period in relation to the credit
+ ratings assigned by the Designated Rating Agencies to Party A and
+ the Standby Swap Provider at that time (or such greater period as is
+ agreed to in writing by each relevant Designated Rating Agency), at
+ its cost alone and at its election:
+
+ (i) provided that the short term Joint Rating by S&P is greater
+ than or equal to A-1 or the long term Joint Rating by S&P is
+ greater than or equal to A- and the long term Joint Rating by
+ Fitch is greater than or equal to A-, lodge collateral in
+ accordance with the Credit Support Annex in an amount equal to
+ the Collateral Amount as defined in Part 5 (22)(b); or
+
+ (ii) enter into, and procure that the Standby Swap Provider enters
+ into, an agreement novating Party A's and/or the Standby Swap
+ Providers' rights and obligations under this Agreement and
+ each Transaction to a replacement counterparty acceptable to
+ the Trust Manager and the Standby Swap Provider (and notified
+ to Party B) and which the Designated Rating Agencies confirm
+ in writing will not result in an Adverse Rating Effect; or
+
+ (iii) enter into, or procure that the Standby Swap Provider enters
+ into, such other arrangements in respect of each Transaction
+ which the Designated Rating Agencies confirm in writing will
+ not result in an Adverse Rating Effect.
+
+ Notwithstanding that Party A has elected to satisfy its obligations
+ pursuant to
+
+ this Part 5(22)(a) in a particular manner, it may subsequently and
+ from time to time vary the manner in which it satisfies its
+ obligations pursuant to this Part 5(22)(a) (but will not be entitled
+ to any additional grace period in relation to such a variation).
+
+ (b) (COLLATERAL AMOUNT): For the purpose of this Part 5(22) the
+ Collateral Amount will be an amount equal to the greater of the
+ following:
+
+ (i) zero;
+
+ (ii) CCR; and
+
+ (iii) an amount acceptable to Moody's and Fitch and sufficient to
+ maintain the credit rating assigned to the Class A Notes by
+ Moody's and Fitch immediately prior to the review of the Joint
+ Rating.
+
+ Where:
+
+ CCR = CR x 1.030
+
+ CR = MTM + VB
+
+ MTM means the aggregate mark-to-market value (whether positive or
+ negative) of each Transaction determined in accordance with Part
+ 5(22)(c) no earlier than 3 Business Days prior to the date that the
+ Collateral Amount is lodged.
+
+ VB means the volatility buffer, being the value calculated by
+ multiplying the Relevant Calculation Amount as at the most recent
+ Payment Date by the relevant percentage obtained from the following
+ table:
+
+ ------------------------------------------------------------------------------------------------
+ PARTY A'S AND THE WHERE THE PERIOD WHERE THE PERIOD WHERE THE PERIOD
+ STANDBY SWAP BETWEEN THE DATE OF BETWEEN THE DATE OF BETWEEN THE DATE OF
+ PROVIDER'S JOINTLY RECALCULATION AND THE RECALCULATION AND THE RECALCULATION AND THE
+ SUPPORTED LONG TERM FINAL MATURITY DATE IS FINAL MATURITY DATE IS FINAL MATURITY DATE IS
+ CREDIT RATING BY S&P LESS THAN OR EQUAL TO 5 GREATER THAN 5 YEARS GREATER THAN 10 YEARS
+ YEARS AND LESS THAN OR EQUAL
+ TO 10 YEARS
+ ------------------------------------------------------------------------------------------------
+
+ A+ 1.05 1.75 3.0
+ ------------------------------------------------------------------------------------------------
+ A 1.35 2.45 4.5
+ ------------------------------------------------------------------------------------------------
+ A- 1.5 3.15 6
+ ------------------------------------------------------------------------------------------------
+
+ (c) (MARK TO MARKET VALUE): Party A must calculate the mark-to-market
+ value of each Transaction by obtaining 2 bids from counterparties
+ with the Prescribed Ratings willing to provide each Transaction in
+ the absence of Party A. The mark-to-market value may be a positive
+ or a negative amount. A bid has a negative value if the payment to
+ be made is from the counterparty to Party A and has a positive value
+ if the payment to be made is from Party A to the counterparty. The
+ mark-to-market value is the higher of the bids (on the basis that
+ any bid of a positive value is higher than any bid of a negative
+ value).
+
+ (d) (RECALCULATION): Party A must recalculate the Collateral Amount
+ (including the CCR and the mark-to-market value) on each Valuation
+ Date. If:
+
+ (i) the Value on such Valuation Date of all Posted Credit Support
+ held by the Secured Party is less than the recalculated
+ Collateral Amount, the difference is the Delivery Amount in
+ relation to that Valuation Date; or
+
+ (ii) the Value on such Valuation Date of all Posted Credit Support
+ held by the Secured Party is greater than the recalculated
+ Collateral Amount, the difference is the Return Amount in
+ relation to that Valuation Date.
+
+ (e) (DEFINITIONS): For the purposes of this Part 5(22) "Delivery
+ Amount", "Posted Credit Support", "Return Amount", "Secured Party",
+ "Value" and "Valuation Date" have the same meaning as in the Credit
+ Support Annex.
+
+(23) TRANSFER: Notwithstanding the provisions of Section 7, Citibank as Party A
+ may transfer all its rights, powers and privileges and all its unperformed
+ and future obligations under this Agreement and each Transaction to any of
+ its Affiliates ("TRANSFEREE") by delivering to the Standby Swap Provider,
+ Party B and the Trust Manager a notice expressed to be given under this
+ provision signed by both Citibank as Party A and the Transferee. Upon
+ delivery of those documents to Party B (but subject to the relevant
+ consents and confirmations being given under this Part 5(23)):
+
+ (a) (PARTY A'S RIGHTS TERMINATE): Citibank's rights, powers, privileges
+ and obligations as Party A under this Agreement and each Transaction
+ terminate;
+
+ (b) (TRANSFER AND ASSUMPTION): Citibank will be taken to have
+ transferred its rights powers and privileges under this Agreement
+ and each Transaction to the Transferee and the Transferee will be
+ taken to have assumed obligations equivalent to those Party A had
+ under this Agreement and each Transaction;
+
+ (c) (RELEASE): Party B will be taken to have released Citibank as Party
+ A from all its unperformed and future obligations under this
+ Agreement and each Transaction; and
+
+ (d) (DOCUMENTS): this Agreement and the Confirmation relating to each
+ Transaction shall be construed as if the Transferee was a party to
+ it in place of Citibank as Party A.
+
+ A Transferee may utilise this provision as Party A. A transfer under this
+ Part 5(23) will be of no force or effect until each Designated Rating
+ Agency confirms in writing that such transfer will not result in an
+ Adverse Rating Effect and until the Standby Swap Provider has given its
+ written consent to such a transfer.
+
+(24) STANDBY SWAP PROVIDER:
+
+ (a) (COMMITMENT): Notwithstanding any other provision in this Agreement
+ to the contrary, if Citibank as Party A fails to:
+
+ (i) make, when due, any payment required to be made by it to Party
+ B under a Transaction; or
+
+ (ii) comply with any obligation under Part 5(22) within the
+ required period,
+
+ then:
+
+ (iii) as soon as practicable following such failure but, in relation
+ to a failure to pay under a Transaction, in any event no later
+ than 11.00 am (New York time) on the due date for such payment
+ or, in relation to a failure to comply with an obligation
+ under Part 5(22), no later than the Business Day following the
+ due date for compliance with such obligation, Party B must
+ notify Citibank as Party A and the Standby Swap Provider in
+ writing of such failure and:
+
+ (A) the amount of the defaulted payment and the basis of
+ calculation of the defaulted payment; or
+
+ (B) details of the failure to comply with the obligation
+ under Part 5(22),
+
+ as the case may be; and
+
+ (iv) as soon as reasonably practicable after its receipt of such
+ notice (and
+
+ in any event, in relation to a failure to pay under a
+ Transaction, no later than 1.30 pm (New York time) on the due
+ date for such payment, and, in relation to a failure to comply
+ with an obligation under Part 5(22), no later than 3 Business
+ Days after the failure to comply with such obligation,
+ provided, in each case, that notice has been given by Party B
+ by the required times in accordance with Part 5(24)(a)(iii))
+ the Standby Swap Provider must:
+
+ (A) in relation to a failure to pay under a Transaction, pay
+ to Party B the amount then owing by Citibank as Party A
+ to Party B under that Transaction by paying such amount
+ direct to the Principal Paying Agent to the account
+ outside Australia notified in writing by the Principal
+ Paying Agent to Party A for that purpose (or to the
+ extent directed by the Trust Manager or the Security
+ Trustee, to the Collections Account); and
+
+ (B) in relation to a failure to comply with an obligation
+ under Part 5(22), satisfy the obligations of Citibank as
+ Party A under Part 5(22); and
+
+ (v) Party B acknowledges that a payment made by the Standby Swap
+
+ Provider in full compliance with Part 5(24)(a)(iv)(A) will
+ fully satisfy and discharge the obligation of Party A to make
+ that payment.
+
+ (b) (REIMBURSEMENT): If on any day the Standby Swap Provider:
+
+ (i) makes a payment pursuant to Part 5(24)(a)(iv)(A), Citibank as
+ Party A must by 2.00 pm (New York time) on the next following
+ Business Day (or such other time as the Standby Swap Provider
+ may agree in writing) pay to the Standby Swap Provider an
+ amount equal to that payment by depositing such amount into
+ the account which the Standby Swap Provider nominates for this
+ purpose in cleared funds; or
+
+ (ii) satisfies the obligations of Citibank as Party A pursuant to
+ Part 5(24)(a)(iv)(B), Citibank as Party A must:
+
+ (A) within 3 Business Days, fulfill its obligations under
+ Part 5(22) such that any collateral lodged by the
+ Standby Swap Provider pursuant to Part 5(22)(a)(i) or
+ any other arrangement made by the Standby Swap Provider
+ pursuant to Part 5(22)(a)(iii) is returned to the
+ Standby Swap Provider or will cease (but Citibank as
+ Party A will have no obligations to the Standby Swap
+ Provider under this Part 5(24)(b)(ii)(A) in relation to
+ any novation pursuant to Part 5(22)(a)(ii)); and
+
+ (B) upon demand by the Standby Swap Provider, indemnify the
+ Standby Swap Provider from and against any other cost or
+ liability incurred by the Standby Swap Provider in
+ satisfying those obligations.
+
+ (iii) Each of the Standby Swap Provider and Party B acknowledge that
+ a payment made by ANZ as Party A in full compliance with Part
+ 5(24)(b)(i) will fully satisfy and discharge the obligation of
+ Party A to make that payment.
+
+ (c) (NOVATION): If:
+
+ (i) Citibank as Party A defaults in its payment obligations under
+ Part 5(24)(b)(i) or (b)(ii)(B) for reasons other than solely a
+ technical, computer or similar error outside the control of
+ Citibank as Party A and such default is not remedied on or
+ before one Business Day after such failure; or
+
+ (ii) Citibank as Party A fails to fulfill its obligations under
+ Part 5(24)(b)(ii)(A),
+
+ then:
+
+ (iii) Citibank's rights, powers, privileges and obligations as Party
+ A under this Agreement and each Transaction terminate other
+ than its rights, powers, privileges and obligations pursuant
+ to Part 5(24)(d) and Paragraph 13(m)(vii) of the Credit
+ Support Annex;
+
+ (iv) subject to Part 5(24)(c)(vi),the Standby Swap Provider agrees
+ to assume obligations (and is taken to have assumed
+ obligations) equivalent to those that Citibank as Party A had
+ under this Agreement and each Transaction and takes the
+ rights, powers and privileges (and is taken to have received
+ such rights, powers and privileges) as Party A under this
+ Agreement.
+
+ (v) Party B and the Standby Swap Provider is taken to have
+ released Citibank as Party A from all its unperformed and
+ future obligations under this Agreement and each Transaction
+ other than its present and future obligations pursuant to Part
+ 5(24)(d);
+
+ (vi) this Agreement and the Confirmation relating to each
+ Transaction shall be construed as if the Standby Swap Provider
+ is a party to it as Party A except that:
+
+ (A) references to "Citibank as Party A" will not apply to
+ the Standby Swap Provider as Party A;
+
+ (B) references to any jointly supported credit rating of
+ Party A and the Standby Swap Provider will be deemed to
+ be references to the relevant credit rating of the
+ Standby Swap Provider;
+
+ (C) without limiting Part 5(24)(c)(vi)(A), this Part 5(24)
+ and Paragraph 13(m)(vii) of the Credit Support Annex
+ will not apply to the Standby Swap Provider as Party A;
+
+ (D) the Standby Swap Provider must (if it has not already
+ done so) satisfy the obligations of Party A under Part
+ 5(22)(a) within 10 Business Days of the Novation Date on
+ the basis that any collateral lodged by Citibank as
+ Party A or any other arrangements made by Citibank as
+ Party A pursuant to Part 5(22)(a)(iii) will be returned
+ to Citibank as Party A or will cease (but such
+ collateral will only be returned and such arrangements
+ will only cease upon compliance by the Standby Swap
+ Provider with its obligations under this Part
+ 5(24)(c)(vi)(D) and otherwise, where applicable, in
+ accordance with Paragraph 13(m)(vii) of the Credit
+ Support Annex or the terms of such arrangements).
+
+ (d) (TERMINATION PAYMENT): Following novation under Part 5(24)(c)
+ Citibank as Party A must pay the Standby Swap Provider or the
+ Standby Swap Provider must pay Citibank as Party A an amount (the
+ "NOVATION SETTLEMENT AMOUNT") being:
+
+ (i) in the case of payment by Citibank as Party A to the Standby
+ Swap Provider, an amount equal to the amount (if any) that
+ would be payable by Party A to Party B; and
+
+ (ii) in the case of payment by the Standby Swap Provider to
+ Citibank as Party A, an amount equal to the amount (if any)
+ that would be payable by Party B to Party A,
+
+ if each Transaction had been terminated, calculated and payable in
+ accordance with Sections 6(d) and (e) on the basis that:
+
+ (i) the Novation Date is the Early Termination Date and the
+ Novation Settlement Amount is due and payable on the day that
+ notice of the amount payable is effective;
+
+ (ii) the Early Termination Date has resulted from an Event of
+ Default in respect of which Party A is the Defaulting Party;
+
+ (iii) all calculations and determinations which would have been done
+ by Party B are done by the Standby Swap Provider and all
+ calculations and determinations that would have been done by
+ Party A are done by Citibank;
+
+ (iv) a reference to Unpaid Amounts owing to Party B is a reference
+ to such amounts payable by Party A to the Standby Swap
+ Provider pursuant to Part 5(24)(b) and (e) and there are no
+ Unpaid Amounts owing to Party A;
+
+ (v) without limiting the foregoing, for the purposes of the
+ definition of "Market Quotation" in Section 14 each Reference
+ Market-maker would be required, upon entering into a
+ Replacement Transaction, to fulfill the obligations of Party A
+ under Part 5(22)(a) and to comply with Section 2(d) as amended
+ by Part (5)(1)(e); and
+
+ (vi) the Termination Currency is U.S. Dollars.
+
+ (e) (DEFAULT INTEREST): If Citibank as Party A defaults in the
+ performance of any payment obligations under Part 5(24)(b) or Part
+ 5(24)(d), it must pay interest (before as well as after judgment) on
+ the overdue amount to the Standby Swap Provider on demand in the
+ same currency as such overdue amount, for the period from (and
+ including) the original due date for payment to (but excluding) the
+ date of actual payment, at the Default Rate. Such interest will be
+ calculated on the basis of daily compounding and the actual number
+ of days elapsed.
+
+ (f) (IRREVOCABLE NOTICE): If the Standby Swap Provider satisfies the
+ obligations of Citibank as Party A under Part 5(24)(a)(iv)(B) by
+ lodging collateral on behalf of Citibank as Party A pursuant to Part
+ 5(22)(a), Citibank as Party A must promptly provide an irrevocable
+ notice to Party B (copied to the Standby Swap Provider) directing
+ Party B that any such collateral, and any Distribution or Interest
+ Amount (as those terms are defined in the Credit Support Annex) with
+ respect to such collateral, is to be returned or paid to the Standby
+ Swap Provider and not to Citibank as Party A.
+
+(25) INCONVERTIBILITY: If prior to the Novation Date an Inconvertibility Event
+ occurs the Standby Swap Provider's rights, powers, privileges and
+ obligations under this Agreement and each Transaction will terminate upon
+ the Standby Swap Provider delivering a notice expressed to be given under
+ this provision to Party A, Party B and the Trust Manager and Party B is
+ taken to have released the Standby Swap Provider from all its unperformed
+ and future obligations under this Agreement and each Transaction.
+ Following the delivery of such a notice in accordance with this Part
+ 5(25), references to any jointly supported credit rating of Party A and
+ the Standby Swap Provider will be deemed to be references to the relevant
+ credit rating of Party A.
+
+ANNEXURE 1
+
+FORM OF CONFIRMATION KINGFISHER TRUST 2001-1G
+
+[LETTERHEAD OF PARTY A]
+
+[DATE]
+
+TO: Perpetual Trustee Company Limited ANZ Capel Court Limited
+
+ as trustee of the Trust Level 6
+
+ Level 3 530 Collins Street
+
+ 39 Hunter Street Melbourne VIC 3000
+
+ Sydney NSW 2000 AUSTRALIA
+
+ AUSTRALIA ATTENTION: Manager, Primary
+ Markets Group
+
+ ATTENTION: Manager,
+ Securitisation Services
+
+ Australia and New Zealand
+ Banking Group Limited
+
+ Address: Markets Division,
+ Level 12, 530
+ Collins Street,
+ Melbourne, Victoria,
+ 3000,
+ Australia
+
+ ATTENTION: Manager, Derivative
+ Operations
+
+CONFIRMATION - KINGFISHER TRUST 2001-1G
+
+The purpose of this letter is to confirm the terms and conditions of the
+Transaction entered into between us on the terms specified below (the
+"TRANSACTION"). This letter constitutes a "CONFIRMATION" as referred to in the
+Master Agreement specified below.
+
+This Confirmation is entered into by Perpetual Trustee Company Limited as
+trustee of the Kingfisher Trust 2001-1G (the "TRUST").
+
+This Confirmation supplements, forms part of, and is subject to, the 1992 ISDA
+Master Agreement dated as of [ ], as amended, novated or supplemented from
+time to time (the "AGREEMENT"), between CITIBANK N.A.("PARTY A"), Perpetual
+Trustee Company Limited, ABN 42 000 001 007 as trustee of, inter alia, the
+Trust ("PARTY B"), ANZ Capel Court Limited ABN 30 004 768 807 (the "TRUST
+MANAGER") and Australia and New Zealand Banking Group Limited, ABN 11 005 357
+522 (the "STANDBY SWAP PROVIDER"). All provisions contained in the Agreement
+govern this Confirmation except as expressly modified below.
+
+Capitalised terms used but not defined in this Confirmation have the meanings
+assigned to them in the Agreement.
+
+The terms of the particular Transaction to which this Confirmation relates are
+specified below:
+
+1. OUR REFERENCE: [ ]
+
+2. TRADE DATE: [ ]
+
+3. EFFECTIVE DATE: Issue Date in respect of the Class A
+ Notes
+
+4. TERMINATION DATE: The earlier of:
+
+ (a) the date that the Class A Notes
+ have been redeemed in full in
+ accordance with the Class A Note
+ Conditions; and
+
+ (b) the Scheduled Maturity Date.
+5. FLOATING AMOUNTS
+
+5.1 FLOATING AMOUNTS PAYABLE BY
+ PARTY A (SUBJECT TO PARAGRAPH
+ 9 OF THIS CONFIRMATION):
+
+ Floating Rate Payer: Party A
+
+ Calculation Amount: For each Floating Rate Payer Payment
+ Date, one half of the aggregate Invested
+ Amount of the Class A Notes as at the
+ first day of the Interest Period ending
+ on but excluding that Floating Rate Payer
+ Payment Date
+
+ Floating Rate Payer Payment
+ Dates: Each Payment Date during the period
+ Dates: commencing on and including the
+ Payment Date falling in September 2001
+ and ending on and including the
+ Termination Date, subject to adjustment
+ in accordance with the Following Business
+ Day Convention
+
+ Floating Rate Option: USD-LIBOR-BBA (except that references to
+ "London Banking Days" in section
+ 7.1(ag)(ii) and (iv) of the 1998
+ Supplement to the 1991 ISDA Definitions
+ will be replaced with references to
+ "Banking Days" as that expression is
+ defined in the Note Conditions)
+
+ Designated Maturity: Three months except that Linear
+ Interpolation using three and four months
+ will apply in respect of the first
+ Interest Period
+
+ Spread: In respect of:
+
+ (a) Floating Rate Payer Payment Dates
+ on or prior to the Payment Date
+ falling in September 2008 (or if
+ that day is not a Business Day,
+ the next following Business Day),
+ [ ]%; and
+
+ (b) Floating Rate Payer Payment Dates
+ after the Payment Date falling in
+ September 2008 (or if that day is
+ not a Business Day, the next
+ following Business Day), [ ]%.
+
+ Floating Rate Day Count
+ Fraction: Actual/360
+
+ Reset Dates: The first day of each Interest Period
+
+ Compounding: Inapplicable
+
+5.2 FLOATING AMOUNTS PAYABLE BY
+ PARTY B (SUBJECT TO PARAGRAPH
+ 9 OF THIS CONFIRMATION):
+
+ Floating Rate Payer: Party B
+
+ Calculation Amount: For each Floating Rate Payer Payment
+ Date, the A$ Equivalent of one half of
+ the aggregate Invested Amount of the
+ Class A Notes as at the first day of the
+ Interest Period ending on but excluding
+ that Floating Rate Payer Payment Date.
+
+ Floating Rate Payer Payment
+ Dates: Each Payment Date during the period
+ Dates: commencing on and including the
+ Effective Date and ending on and
+ including the Termination Date, subject
+ to adjustment in accordance with the
+ Following Business Day Convention
+
+ Floating Rate Option: AUD-BBR-BBSW
+
+ Designated Maturity: three months except that Linear
+ Interpolation using three and four months
+ will apply in respect of the first
+ Interest Period
+
+ Spread: In respect of:
+
+ (a) Floating Rate Payer Payment Dates
+ on or prior to the Payment Date
+ falling in September 2008 (or if
+ that day is not a Business Day,
+ the next following Business Day),
+ [ ]%; and
+
+ (b) Floating Rate Payer Payment Dates
+ after the Payment Date falling in
+ September (or if that day is not
+ a Business Day, the next following
+ Business Day), [ ]%.
+
+ Floating Rate Day Count
+ Fraction: Actual/365 (Fixed)
+
+ Reset Dates: The first day of each Interest Period
+
+ Compounding: Inapplicable
+
+6 EXCHANGES
+
+6.1 INITIAL EXCHANGE:
+
+ Initial Exchange Date: Closing Date
+
+ Party A Initial Exchange Amount: The A$ Equivalent of the Party B Initial
+ Exchange Amount, being A$[ ]
+
+ Party B Initial Exchange Amount: One half of the Initial Invested Amount
+ of the Class A Notes on the Issue Date,
+ being US$[ ]
+
+ Notwithstanding Section 2(a)(ii) of the
+ Agreement, Party A must pay the Party A
+ Initial Exchange Amount to Party B by
+ 4.00pm (Melbourne time) on the Initial
+ Exchange Date and Party B must pay Party
+ A the Party B Initial Exchange Amount by
+ 4.00pm (New York time) on the Initial
+ Exchange Date.
+
+6.2 INSTALLMENT EXCHANGE:
+
+ Installment Exchange Date: Each Payment Date (other than the Final
+ Exchange Date)
+
+ Party A Installment Exchange
+ Amount: In respect of an Installment Exchange
+ Date means the US$ Equivalent of one half
+ of the A$ Class A Principal in relation
+ to the Payment Date occurring on that
+
+ Installment Exchange Date
+
+ Party B Installment Exchange
+ Amount: In respect of an Installment Exchange
+ Date means one half of the A$ Class A
+ Principal in relation to the Payment Date
+ occurring on that Installment Exchange
+ Date
+
+6.3 FINAL EXCHANGE:
+
+ Final Exchange Date: Termination Date.
+
+ Party A Final Exchange Amount: The US$ Equivalent of one half of the A$
+ Class A Principal in relation to the
+ Payment Date which is the Final Exchange
+ Date
+
+ Party B Final Exchange Amount: One half of the A$ Class A Principal in
+ relation to the Payment Date which is the
+ Final Exchange Date
+
+7. EXCHANGE RATES:
+
+ For the purpose of
+ the definitions of
+ "A$ EQUIVALENT" and
+ "US$ EQUIVALENT":
+
+ US$ Exchange Rate: [ ]
+
+ A$ Exchange Rate: [ ]
+
+8. ACCOUNT DETAILS:
+
+8.1 PAYMENTS TO PARTY A
+
+ Account for payments in US$: The account notified in writing by Party
+ A to Party B in accordance with Part
+ 5(3)(ii) of the Schedule to the Agreement
+
+ Account for payments in A$: The account notified in writing by Party
+ A to Party B in accordance with Part
+ 5(3)(i) of the Schedule to the Agreement
+
+8.2 PAYMENTS TO PARTY B
+
+ Account for payments in US$: The account notified in writing by the
+ Principal Paying Agent to Party A in
+ accordance with Part 5(2)(ii) of the
+ Schedule to the Agreement
+
+ Account for payments in A$: The account notified in writing by Party
+ B to Party A in accordance with Part
+ 5(2)(i) of the Schedule to the Agreement
+
+9. NOTIFICATIONS TO PARTY A On or before the Determination Time in
+ respect of each Payment Date the Trust
+ Manager must notify Party A and the
+ Standby Swap Provider in writing of:
+
+ (a) the A$ Class A Principal which the
+ Trust Manager has directed Party B
+ to pay to Party A on that Payment
+ Date pursuant to clause 15.14(a) of
+ the Supplemental Deed;
+
+ (b) the A$ Class A Interest Amount in
+ relation to that Payment Date;
+
+ (c) the amounts (if any) allocated to
+ the Class A
+
+ Notes in respect of any Principal
+ Charge-Off or any Carryover
+ Principal Charge-Off on the
+ immediately preceding Determination
+ Date in accordance with clauses
+ 15.4A and 15.5 of the Supplemental
+ Deed.
+
+10. OFFICES: The Office of Citibank as Party A for
+ each Transaction is New York.
+
+ The Office of ANZ (on and from the
+ Novation Date) as Party A is Melbourne.
+
+ The Office of Party B for each
+ Transaction is Sydney.
+
+In this Confirmation:
+
+"DETERMINATION TIME" in relation to a Payment Date means on or about 11.00am
+Melbourne time 4 Business Days prior to that Payment Date.
+
+"RELEVANT CALCULATION AMOUNT" means the Calculation Amount referred to in
+paragraph 5 of this Confirmation.
+
+Please confirm that the above correctly sets out the terms of our agreement in
+respect of each Transaction to which this Confirmation relates by signing and
+returning this Confirmation to us by facsimile today.
+
+Executed documents will follow by mail.
+
+Yours sincerely
+
+CONFIRMED AS AT THE DATE FIRST WRITTEN CONFIRMED AS AT THE DATE FIRST
+ABOVE: WRITTEN ABOVE:
+
+SIGNED for and on behalf of SIGNED for and on behalf of
+
+CITIBANK N.A. ABN 34 072 814 058 AUSTRALIA AND NEW ZEALAND BANKING
+ GROUP LIMITED
+By: (Attorney)
+ ABN 11 005 357 522
+Name:
+
+Title:
+ By:
+Witnessed By:
+
+Name:
+ Name:
+Title:
+
+ Title:
+
+CONFIRMED AS AT THE DATE FIRST CONFIRMED AS AT THE DATE FIRST WRITTEN
+WRITTEN ABOVE: ABOVE:
+
+SIGNED for and on behalf of SIGNED for and on behalf of
+
+PERPETUAL TRUSTEE COMPANY LIMITED ANZ CAPEL COURT LIMITED
+(ABN 42 000 001 007) (ABN 30 004 768 807 )
+
+as trustee of the Kingfisher Trust
+2001-1G By:
+
+By: (Authorised Officer)
+
+ (Authorised Officer) Name:
+
+Name:
+
+Title: Title:
+
+ EXECUTION PAGES FOR ISDA MASTER AGREEMENT
+
+SIGNED by )
+as attorney for PERPETUAL )
+TRUSTEE COMPANY LIMITED dated )
+in the presence of: )
+ )
+ )
+ .............................. )
+Signature of witness )
+ )
+ .............................. ) ..............................
+Name of witness (block letters) ) By executing this agreement the
+ ) attorney states that the attorney
+ ) has received no notice of
+ ) revocation of the power of attorney
+
+SIGNED by )
+as attorney for ANZ CAPEL )
+COURT LIMITED under power of )
+attorney dated )
+in the presence of: )
+ )
+ )
+ .............................. )
+Signature of witness ) ..............................
+ ) By executing this agreement
+ .............................. ) the attorney states that the
+Name of witness (block letters) ) attorney has received no
+ ) notice of revocation of the
+ power of attorney
+
+SIGNED by )
+as attorney for AUSTRALIA AND )
+NEW ZEALAND BANKING GROUP )
+LIMITED under power of )
+attorney dated )
+in the presence of: )
+ )
+ )
+ .............................. ) ..............................
+Signature of witness ) By executing this agreement
+ ) the attorney states that the
+ .............................. ) attorney has received no
+Name of witness (block letters) ) notice of revocation of the
+ power of attorney
+
+SIGNED by )
+as attorney for CITIBANK N.A. )
+under power of attorney dated )
+in the presence of: )
+ )
+ )
+ .............................. )
+Signature of witness )
+ ) ..............................
+ .............................. ) By executing this agreement
+Name of witness (block letters) ) the attorney states that the
+ ) attorney has received no
+ ) notice of revocation of the
+ power of attorney
+
+ ANNEXURE-NEW YORK LAW CREDIT SUPPORT ANNEX
+
+PARAGRAPH 13 TO NEW YORK LAW CREDIT SUPPORT ANNEX
+
+(13) ELECTIONS AND VARIABLES
+
+ (a) Security Interest for "Obligations"
+
+ The term "Obligations" as used in this Annex includes the
+ additional obligations referred to in Paragraph 13(m)(vii)(B).
+
+ "BASE CURRENCY" means US$.
+
+ "ELIGIBLE CURRENCY" means the Base Currency and any other
+ currency agreed from time to time between Party A, Party B, the
+ Standby Swap Provider and each Designated Rating Agency.
+
+ (b) Credit Support Obligations
+
+ (i) Delivery Amount and Return Amount
+
+ "DELIVERY AMOUNT" for a Valuation Date means the amount
+ of collateral calculated in accordance with Part
+ 5(22)(d)(i) for that Valuation Date.
+
+ "RETURN AMOUNT" for a Valuation Date means the amount
+ of collateral calculated in accordance with Part
+ 5(22)(d)(ii) for that Valuation Date.
+
+ (ii) ELIGIBLE COLLATERAL. The following items will qualify
+ as "Eligible Collateral" for Party A provided that the
+ items specified in paragraphs (E), (F), (G) and (H)
+ will only qualify as "Eligible Collateral" of Party A
+ upon receipt by Party B and the Standby Swap Provider
+ of an opinion as to the perfection of the Secured
+ Party's security interest in such items in form and
+ substance (and issued by legal counsel) satisfactory to
+ Party B and the Standby Swap Provider:
+
+ VALUATION
+ PERCENTAGE
+
+ (A) negotiable debt obligations issued by 98%
+ the U.S. Treasury Department having a
+ remaining maturity of not more than
+ one year
+
+ (B) negotiable debt obligations issued by 95% the U.S.
+ Treasury Department having a remaining maturity of
+ more than one year but not more than five years
+
+ (C) negotiable debt obligations issued by 93% the U.S.
+ Treasury Department having a remaining maturity of
+ more than five years but not more than ten years
+
+ (D) negotiable debt obligations issued by 90%
+ the U.S. Treasury Department having a
+ remaining maturity of more than ten years
+
+ (E) Agency Securities having a remaining 97% maturity
+ of not more than one year
+
+ (F) Agency Securities having a remaining 94% maturity
+ of more than one year but not more than five years
+
+ (G) Agency Securities having a remaining 92% maturity
+ of more than five years but not more than ten
+ years
+
+ (H) Agency Securities having a remaining 89% maturity
+ of more than ten years.
+
+ (I) cash in an Eligible Currency. 100%
+
+ (J) other Eligible Credit Support and Valuation
+ Percentage agreed by the parties and acceptable to
+ each Designated Rating Agency
+
+ Notwithstanding the foregoing to the contrary, the
+ Valuation Percentage with respect to all Eligible
+ Credit Support shall be deemed to be 100% with respect
+ to a Valuation Date which is an Early Termination Date.
+
+ "AGENCY SECURITIES" means negotiable debt obligations
+ which are fully guaranteed as to both principal and
+ interest by the Federal National Mortgage Association,
+ the Government National Mortgage Corporation or the
+ Federal Home Loan Mortgage Corporation and which have
+ been assigned a short term credit rating of A-1+ by
+ S&P, but exclude: (i) interest only and principal only
+ securities; and (ii) collateralized mortgage
+ obligations, real estate mortgage investment conduits
+ and similar derivative securities.
+
+ (iii) OTHER ELIGIBLE SUPPORT
+
+ Not applicable.
+
+ (iv) THRESHOLDS
+
+ (A) "MINIMUM TRANSFER AMOUNT" means with respect
+ to both Party A and Party B: US$100,000.
+
+ (B) ROUNDING. The Delivery Amount and the Return
+ Amount will be rounded to the nearest integral
+ multiple of US$10,000.
+
+ (c) VALUATION AND TIMING
+
+ (i) "VALUATION AGENT" means Party A.
+
+ (ii) "VALUATION DATE" means the last Business Day of each
+ week and, at the option of either Party A or the Standby
+ Swap Provider, any Business Day between Valuation Dates.
+
+ (iii) "VALUATION TIME" means the close of business on the
+ Business Day before the Valuation Date; provided that
+ the calculations of Value and Exposure will be made as
+ of approximately the same time on the same date.
+
+ (iv) "NOTIFICATION TIME" means 11:00 am New York time on the
+ second Business Day after the Valuation Date.
+
+ (d) CONDITIONS PRECEDENT AND SECURED PARTY'S RIGHTS AND REMEDIES
+
+ There are no "SPECIFIED CONDITIONS" applicable to Party A. The
+ following is a Specified Condition with respect to Party B:
+
+ "If an Early Termination Date has been designated in respect of
+ each Transaction provided that if an amount is due by Party A
+ to Party B in respect of that Early Termination Date pursuant
+ to Section 6, that amount has been paid in full."
+
+ (e) SUBSTITUTION
+
+ (i) "SUBSTITUTION DATE" has the meaning specified in
+ Paragraph 4(d)(ii).
+
+ (ii) CONSENT. The Pledgor must obtain the Secured Party's
+ consent for any substitution pursuant to Paragraph 4(d).
+ However such consent is not to be unreasonably withheld
+ and the parties agree that not wanting to accept a
+ particular type of Substitute Credit Support is not in
+ itself a reasonable basis for withholding consent if the
+ Substitute Credit Support is Eligible Collateral. The
+ consent may be provided in a manner described in Section
+ 12 or otherwise, including orally.
+
+ (f) DISPUTE RESOLUTION
+
+ (i) "RESOLUTION TIME"" means 11:00 am New York time.
+
+ (ii) "VALUE". For the purpose of Paragraphs 5(i)(C) and
+ 5(ii), the Value of Posted Credit Support will be
+ calculated as follows; Disputes over value will be
+ resolved by the Valuation Agent seeking three bid quotes
+ as of the relevent Valuation Date or date of Transfer
+ from parties that regularly act as dealers in the
+ securities or other property in question. The Value will
+ be the Base Currency Equivalent of the arithmetic mean
+ of the quotes received by the Valuation Agent mulitplied
+ by the applicable Valuation Percentage.
+
+ (iii) "ALTERNATIVE". The provisions of Paragraph 5 will apply.
+
+ (g) HOLDING AND USING POSTED COLLATERAL
+
+ (i) ELIGIBILITY TO HOLD POSTED COLLATERAL; CUSTODIANS.
+
+ Party A: Not Applicable.
+
+ Party B is not entitled to hold Posted Collateral. It
+ must appoint a Custodian to hold Posted Collateral on
+ its behalf pursuant to Paragraph 6(b). Party B may only
+ appoint a Custodian to hold Posted Collateral on its
+ behalf if the following conditions are satisfied:
+
+ (A) Party B is not a Defaulting Party;
+
+ (B) Party B's Custodian will always be the
+ Principal Paying Agent, unless that party is
+ Party A; and
+
+ (C) if the Principal Paying Agent is Party A, then
+ Party B must appoint a Custodian which is a
+ Bank (as defined in the Federal Deposit
+ Insurance Act, as amended) outside Australia,
+ whose rating (with respect to its long term
+ unsecured, unsubordinated indebtedness) is at
+ all times at least Aa2 by Moody's and its short
+ term debt rating is A-1+/F-1+ (S&P/Fitch), and
+ Party B must notify Party A in writing of this
+ appointment and of the relevant account for
+ Paragraph 13(l).
+
+ (D) Posted Collateral may only be held in one or
+ more accounts in the name of Party B in the
+ United States and any account established by
+ Party B's Custodian to hold Posted Collateral
+ shall be established and maintained for the
+ sole purpose of receiving deliveries of and
+ holding
+
+ Posted Collateral.
+
+ (ii) USE OF POSTED COLLATERAL. The provisions of Paragraph
+ 6(c) will not apply to Party B and its Custodian. Party
+ B's Custodian will permit Party B to secure Party B's
+ obligations under the Notes by granting to the Security
+ Trustee the charge under the Deed of Charge over Party
+ B's rights in relation to the Posted Collateral, but
+ subject to Paragraph 13(m)(vi) of this Annex.
+
+ (h) DISTRIBUTIONS AND INTEREST AMOUNT
+
+ (i) INTEREST RATE. The "Interest Rate", in respect of Posted
+ Collateral which is denominated in US$, for any day
+ means the Federal Funds Overnight Rate. For the purposes
+ hereof, "Federal Funds Overnight Rate" means, for any
+ day, an interest rate per annum equal to the rate
+ published as the Federal Funds Effective Rate that
+ appears on Telerate Page 118 for such day. The "Interest
+ Rate" in respect of Posted Collateral denominated in any
+ other Eligible Currency means the rate as agreed between
+ the parties.
+
+ (ii) TRANSFER OF INTEREST AMOUNT. The Transfer of Interest
+ Amount will be made monthly on the second Business Day
+ of each calendar month.
+
+ (iii) ALTERNATIVE TO INTEREST AMOUNT. The provisions of
+ Paragraph 6(d)(ii) will apply.
+
+ (i) ADDITIONAL REPRESENTATION(S)
+
+ None.
+
+ (j) OTHER ELIGIBLE SUPPORT AND OTHER POSTED SUPPORT
+
+ "VALUE" and "TRANSFER" with respect to Other Eligible Support
+ and Other Posted Support means: not applicable.
+
+ (k) DEMANDS AND NOTICES
+
+ All demands, specifications and notices under this Annex will
+ be made pursuant to the Section 12 of this Agreement;
+ PROVIDED, that any such demand, specification or notice may be
+ made by telephone ("TELEPHONE NOTICE") between duly authorised
+ employees of each party if such Telephone Notice is confirmed
+ by a subsequent written instruction (which may be delivered
+ via facsimile) by the close of business of the same day that
+ such Telephone Notice is given.
+
+ (l) ADDRESSES FOR TRANSFERS
+
+ Party A: Party A to specify account for returns of collateral.
+
+ Party B: Party B must notify Party A of its Custodian's
+ account.
+
+ (m) OTHER PROVISIONS
+
+ (i) Paragraph 4(b) of the Annex is replaced by the
+ following:
+
+ "(b) TRANSFER TIMING. Subject to Paragraph 4(a) and
+ 5 and unless otherwise specified, if a demand
+ for the Transfer of Eligible Credit Support or
+ Posted Credit Support is made by the
+ Notification Time, then the relevant Transfer
+ will be made within three Business Days of
+ receipt of the demand; if a demand is made
+ after the Notification Time, then the relevant
+ Transfer will be made within four Business Days
+ of receipt of the demand."
+
+ (ii) EVENT OF DEFAULT
+
+ JOINT RATINGS BELOW SPECIFIED LEVELS
+
+ Paragraph 7(i) of the Annex is amended, on line 3, by
+ replacing "two Business Days" with "three Business
+ Days".
+
+ (iii) PARTY B'S EXPENSES
+
+ Subject to Section 15 of the Agreement, Party B agrees
+ to pay Party A's costs and expenses in relation to or
+ caused by any breach by Party B of its obligations under
+ this Annex. Party A acknowledges and agrees that its
+ obligations under this Annex will not be affected by a
+ failure by Party B to comply with its obligations under
+ this Paragraph (m)(iii).
+
+ (iv) GOVERNING LAW NOTWITHSTANDING
+
+ Notwithstanding that the Agreement is expressed to be
+ governed by the laws of New South Wales, this Annex (but
+ not any other provisions of the Agreement) shall be
+ governed by and construed in accordance with the laws of
+ the State of New York without giving effect to choice of
+ law doctrine and parties hereto agree that proceedings
+ relating to any dispute arising out of or in connection
+ with this Annex shall be subject to the non-exclusive
+ jurisdiction of the federal or state courts of competent
+ jurisdiction in the Borough of Manhattan in New York
+ City, State of New York.
+
+ (v) NO TRIAL BY JURY
+
+ Each party waives, to the fullest extent permitted by
+ applicable law, any right it may have to a trial by jury
+ in respect of any suit, action or proceeding relating to
+ this Annex.
+
+ (vi) NO POOLING OF COLLATERAL WITH OTHER DEED OF CHARGE
+ SECURITY
+
+ Notwithstanding any provision in the Transaction
+ Documents , but without prejudice to Party B's rights
+ under Paragraph 8(a) of this Annex, no party shall be
+ entitled to deal with the Posted Collateral in any
+ manner inconsistent with the rights of the Pledgor under
+ Paragraphs 3(d), 4(b) or 8(b)(iii) of this Annex, and
+ each party covenants to the other that it shall not
+ permit any other person to gain any rights in relation
+ to the Posted Collateral that are inconsistent with the
+ rights of the Pledgor.
+
+ (vii) RIGHTS IN RELATION TO SWAP PROVIDER'S POSTED COLLATERAL
+ FOLLOWING NOVATION
+
+ (A) The Secured Party will hold its security interest
+ in, lien on and right of Set- Off against all
+ Posted Collateral Transferred or received by the
+ Secured Party from Citibank as Party A (or from
+ the Standby Swap Provider on behalf of Citibank as
+ Party A but not from the Standby Swap Provider in
+ its capacity as Party A) hereunder for the benefit
+ of:
+
+ (1) the Trust as security for the Obligations
+ of Citibank as Party A to the Secured Party
+ as trustee of the Trust (other than
+ pursuant to Paragraph 13(m)(vii)(B)); and
+
+ (2) the Standby Swap Provider as security for
+ the
+
+ Obligations of Citibank as Party A to the
+ Standby Swap Provider pursuant to Parts
+ 5(24)(d) and (e) of the Schedule to this
+ Agreement, as that term is defined in
+ Section 16(f)(iii)(A),
+
+ in accordance with the provisions of this
+ Paragraph 13(m)(vii), and Paragraph 2 is varied
+ accordingly.
+
+ (B) Citibank as Party A covenants in favour of the
+ Secured Party that it will duly and punctually pay
+ to the Secured Party all its Obligations to the
+ Standby Swap Provider pursuant to Parts 5(24)(d)
+ and (e) of the Schedule to this Agreement, as that
+ term is defined in Section 16(f)(iii)(A) as and
+ when the same fall due for payment.
+ Notwithstanding the foregoing, every payment by
+ Citibank as Party A, or the Secured Party in
+ accordance with Paragraph 13(m)(vii)(C)(2)(b), to
+ the Standby Swap Provider will operate as a
+ payment by Citibank as Party A to the Secured
+ Party in satisfaction of Citibank's obligations as
+ Party A pursuant to this Paragraph 13(m)(vii)(B).
+ The Secured Party will hold the benefit of its
+ rights under this Paragraph 13(m)(vii)(B) for the
+ Standby Swap Provider in accordance with the
+ provisions of this Paragraph 13(m)(vii).
+
+ (C) The Secured Party must deal with all Posted
+ Collateral Transferred or received by the Secured
+ Party from Citibank as Party A (or from the
+ Standby Swap Provider on behalf of Citibank as
+ Party A but not from the Standby Swap Provider in
+ its capacity as Party A) hereunder:
+
+ (1) prior to the Novation Date, in accordance
+ with the provisions of this Agreement other
+ than this Paragraph 13(m)(vii);
+
+ (2) on or after the Novation Date:
+
+ (a) until the date upon which the
+ Standby Swap Provider has initially
+ fulfilled its obligations as Party
+ A pursuant to Part 5(22)(a) of the
+ Schedule to this Agreement, such
+ Posted Collateral must be held by
+ the Secured Party and not
+ Transferred or otherwise applied;
+
+ (b) on or after the date upon which the
+ Standby Swap Provider has initially
+ fulfilled its obligations as Party
+ A pursuant to Part 5(22)(a) of the
+ Schedule to this Agreement and
+ until Citibank as Party A has paid
+ in full all of its Obligations to
+ the Standby Swap Provider pursuant
+ to Parts 5(24)(d) and (e) of the
+ Schedule to this Agreement, as that
+ term is
+
+ defined in Section 16(f)(iii)(A),
+ the Secured Party must, upon the
+ instructions of the Standby Swap
+ Provider, exercise the rights and
+ remedies pursuant to Paragraph 8(a)
+ in respect of such Posted
+ Collateral, and Party A agrees that
+ the Secured Party may exercise such
+ rights and remedies under Paragraph
+ 8(a) to the same extent and with
+ the same effect as if an Event of
+ Default or Specified Condition had
+ occurred with respect to Party A,
+ and apply the proceeds of the
+ exercise of such rights and
+ remedies in satisfaction of
+ Citibank's Obligations as Party A
+ to the Standby Swap Provider
+ pursuant to Parts 5(24)(d) and (e)
+ of the Schedule to this Agreement,
+ as that term is defined in Section
+ 16(f)(iii)(A), as and when these
+ are due and payable (and to the
+ Secured Party pursuant to Paragraph
+ 13(m)(vii)(B)) until all such
+ Obligations have been paid in full;
+ and
+
+ (c) on or after the date upon which the
+ Standby Swap Provider has initially
+ fulfilled its obligations as Party
+ A pursuant to Part 5(22)(a) of the
+ Schedule to this Agreement and
+ Citibank as Party A has paid in
+ full all its Obligations to the
+ Standby Swap Provider pursuant to
+ Parts 5(24)(d) and (e) of the
+ Schedule to this Agreement, as that
+ term is defined in Section
+ 16(f)(iii)(A), and no amounts are
+ or thereafter may become payable in
+ respect to such Obligations, the
+ Secured Party must Transfer to
+ Citibank as Party A all such Posted
+ Collateral and the Interest Amount
+ in relation to such Posted
+ Collateral, if any.
+
+ (D) The Standby Swap Provider indemnifies the Secured
+ Party from and against any cost or liability
+ incurred by the Secured Party in complying with
+ the instructions of the Standby Swap Provider
+ pursuant to Paragraph 13(m)(vii)(C)(2)(b). The
+ Standby Swap Provider acknowledges and agrees that
+ the Secured Party may not, and is not required, to
+ take any action to exercise its rights and
+ remedies in relation to the Posted Collateral in
+ respect of the Obligations of Citibank as Party A
+ to the Standby Swap Provider except upon the
+ directions of the
+
+ Standby Swap Provider and in accordance with this
+ Paragraph 13(m)(vii).
+
+ (E) Following the Novation Date, the Secured Party
+ must ensure that any Posted Collateral Transferred
+ or received by the Secured Party from Citibank as
+ Party A is held by the Custodian separately from,
+ and is not co-mingled with, Posted Collateral
+ Transferred or received by the Secured Party from
+ the Standby Swap Provider as Party A.
+
+ (F) This Paragraph 13(m)(vii) applies notwithstanding
+ any other provision of this Agreement.
+
+ (viii) PLEDGOR AND SECURED PARTY
+
+ In this Annex:
+
+ (a) "PLEDGOR" means only Party A; and
+
+ (b) "SECURED PARTY" means only Party B.
+
+ (ix) NON-AUSTRALIAN ASSETS
+
+ ANZ must only Transfer Posted Collateral to the Secured
+ Party from its assets held outside Australia.
+
+ (x) DISPUTE RESOLUTION
+
+ Paragraph 5(i) is amended by:
+
+ (A) replacing the word "Exposure" with the words "the
+ Delivery Amount or the Return Amount, as the case
+ may be" in the first paragraph of Paragraph 5(i);
+
+ (B) adding the word "and" at the end of Paragraph
+ 5(i)(A) and deleting Paragraph 5(i)(B).
+
+ (xi) SPECIFIED CONDITION
+
+ (A) In Paragraph 4(a)(ii) the words "or Specified
+ Condition" are deleted.
+
+ (B) In Paragraph 8(b) the words "or Specified
+ Condition" are deleted and replaced with the
+ following "with respect to the Secured Party or a
+ Specified Condition has occurred".
+
+ (xii) RETURN AMOUNTS
+
+ If under this Agreement, as that term is defined in
+ Section 16(f)(iii)(A), a Novation Date has occurred,
+ each Transfer obligation of the Secured Party under
+ Paragraphs 3, 4(d)(ii), 5 and 6(d) is subject to the
+ condition precedent that the Standby Swap Provider, in
+ its discretion, has consented to the Transfer unless
+ Citibank as Party A has paid in full all its Obligations
+ to the Standby Swap Provider pursuant to Parts 5(24)(d)
+ and (e) of the Schedule to this Agreement, as that term
+ is defined in Section 16(f)(iii)(A), and no amounts are
+ or thereafter may become payable with respect to such
+ Obligations, and no amounts are or thereafter may become
+ payable with respect to such obligations.

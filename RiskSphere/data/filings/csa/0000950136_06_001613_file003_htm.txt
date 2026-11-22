@@ -1,0 +1,635 @@
+EX-10.1
+ 3
+ file003.htm
+ YIELD MAINTENANCE AGREEMENT
+
+BANK OF AMERICA, N.A.
+
+TO: Wells Fargo Bank, N.A. as Securities Administrator on behalf of
+ Banc of America Funding Corporation 2006-1 Trust
+ 9062 Old Annapolis Road
+ Columbia, MD 21045
+
+FROM: Bank of America, National Association
+ 233 South Wacker Drive, 28th Floor
+ Chicago, Illinois 60606
+ Attention: Suzanne Buchta
+
+DATE: 18th January 2006
+
+Our Reference Numbers: 4436076 4436077
+Internal Tracking Numbers: 13201166 13201165
+
+Dear Sir/Madam,
+
+ The purpose of this letter agreement is to confirm the terms and
+conditions of the transaction entered into between Banc of America Funding
+Corporation 2006-1 Trust and Bank of America, N.A., a national banking
+association organized under the laws of the United States of America (each a
+"party" and together "the parties") on the Trade Date specified below (the
+"Transaction"). This letter agreement constitutes a "Confirmation" as referred
+to in the ISDA Master Agreement specified in paragraph 1 below. In this
+Confirmation, "Party A" means Bank of America, N.A., and "Party B" means Banc of
+America Funding Corporation 2006-1 Trust .
+
+ The definitions and provisions contained in the 2000 ISDA Definitions,
+as published by the International Swaps and Derivatives Association, Inc. (the
+"Definitions"), are incorporated into this Confirmation. In the event of any
+inconsistency between the Definitions and this Confirmation, this Confirmation
+will govern.
+
+ Other capitalized terms used herein (but not otherwise defined) shall
+have the meaning specified in that certain Pooling and Servicing Agreement, to
+be dated November 29, 2005 (the "Pooling and Servicing Agreement"), among Banc
+of America Funding Corporation, Wells Fargo Bank, N.A., as Securities
+Administrator and Master Servicer, and Wachovia Bank, National Association, as
+Trustee.
+
+1. This Confirmation evidences a complete binding agreement between the
+parties as to the terms of the Transaction to which this Confirmation relates.
+In addition, the parties agree that for the purposes of this Transaction, this
+Confirmation will supplement, form a part of, and be subject to an agreement in
+the form of the 1992 ISDA Master Agreement (Multicurrency-Cross Border) as if
+the parties had executed an agreement in such form (but without any Schedule
+except for the elections noted below) on the Trade Date of the Transaction (such
+agreement, the "Form Master Agreement"). In the event of any inconsistency
+between the provisions of the Form Master Agreement and this Confirmation, this
+Confirmation will prevail for the purpose of this Transaction.
+
+ Subject to Section 16(f) hereof, each party represents to the other party
+and will be deemed to represent to the other party on the date on which it
+enters into this Transaction that (absent a written agreement between the
+parties that expressly imposes affirmative obligations to the contrary for that
+Transaction):
+
+ (a) NON-RELIANCE. Each party has made its own independent decisions to
+enter into this Transaction and as to whether this Transaction is appropriate or
+proper for it based upon its own judgment and upon advice from such advisors as
+it has deemed necessary. It is not relying on any communication (written or
+oral) of the other party as investment advice or as a recommendation to enter
+into this Transaction; it being understood that information and explanations
+related to the terms and conditions of this Transaction shall not be considered
+investment advice or a recommendation to enter into this Transaction. Further,
+such party has not received from the other party any assurance or guarantee as
+to the expected results of this Transaction.
+
+ (b) EVALUATION AND UNDERSTANDING. It is capable of evaluating and
+understanding (on its own behalf or through independent professional advice),
+and understands and accepts, the terms, conditions and risks of this
+Transaction. It is also capable of assuming, and assumes, the financial and
+other risks of this Transaction.
+
+ (c) STATUS OF PARTIES. The other party is not acting as an agent, fiduciary
+or advisor for it in respect of this Transaction.
+
+2. The terms of the particular Transaction to which this Confirmation relates
+are as follows:
+
+ Notional Amount: As per the attached Schedule A
+
+ Trade Date: 18 January 2006
+
+ Effective Date: 25 January 2006
+
+ Termination Date: 25 May 2011, subject to adjustment in
+ accordance with the Following Business Day
+ Convention.
+
+ FIXED AMOUNT:
+
+ Fixed Rate Payer: Party B
+
+ Fixed Rate Payer Payment 31 January 2006, subject to adjustment in
+ Date: accordance with the Following Business Day
+ Convention.
+
+ Fixed Amount: USD 200,000.00
+
+ FLOATING AMOUNT:
+
+ Floating Rate Payer: Party A
+
+ 2
+
+ Strike Rate: 4.85000 per cent
+
+ Ceiling Rate: 8.60000 per cent
+
+ Floating Rate Payer Payment Early Payments shall be applicable - 2
+ Dates: Business Days prior to each Floating Rate
+ Payer Period End Date, subject to
+ adjustment in accordance with the Following
+ Business Day Convention.
+
+ Floating Rate Payer Period The 25th of each Month, commencing on 25
+ End Dates: February 2006 and ending on the Termination
+ Date. No Adjustment.
+
+ Floating Amount: The product of (a) the Notional Amount, (b)
+ 30/360 and (c) the Settlement Spread which
+ shall be calculated in accordance with the
+ following formula:
+
+ IF USD-LIBOR-BBA IS GREATER THAN THE STRIKE
+ RATE FOR THE APPLICABLE CALCULATION PERIOD,
+ THEN SETTLEMENT SPREAD = (USD-LIBOR-BBA -
+ APPLICABLE STRIKE RATE) PROVIDED, HOWEVER,
+ THAT IF USD-LIBOR-BBA FOR ANY CALCULATION
+ PERIOD IS GREATER THAN THE CEILING RATE
+ THEN THE USD-LIBOR-BBA FOR SUCH CALCULATION
+ PERIOD SHALL BE DEEMED TO BE THE CEILING
+ RATE.
+
+ If 1 Month USD-LIBOR-BBA is less than or
+ equal to the Strike Rate for the applicable
+ Calculation Period, then Settlement Spread
+ = Zero.
+
+ Floating Rate for initial TO BE SET
+
+ Calculation Period:
+
+ Floating Rate Option: USD-LIBOR-BBA
+
+ Designated Maturity: 1 Month
+
+ Spread: None
+
+ Floating Rate Day Count
+ Fraction: 30/360
+
+ Averaging: Inapplicable
+
+ Reset Dates: First day of each Calculation Period
+
+ Business Days: New York
+
+ Calculation Agent: Party A
+
+ 3
+
+3. FORM MASTER AGREEMENT.
+
+ (a) "Specified Entity" means, in relation to Party A, for the purpose of
+Section 5(a)(v), Section 5(a)(vi), Section 5(a)(vii) and Section 5(b)(iv): Not
+Applicable.
+
+ (b) "Specified Entity" means, in relation to Party B, for the purpose of
+Section 5(a)(v), Section 5(a)(vi), Section 5(a)(vii) and Section 5(b)(iv): Not
+Applicable.
+
+ (c) "Specified Transaction" will have the meaning specified in Section 14
+of the Form Master Agreement.
+
+ (d) The "Credit Event Upon Merger" provisions of Section 5(b)(iv) of the
+Form Master Agreement will not apply to Party A or to Party B.
+
+ (e) The "Automatic Early Termination" provision of Section 6(a) of the Form
+Master Agreement will not apply to Party A or to Party B.
+
+ (f) The Form Master Agreement will be governed by, and construed in
+accordance with, the laws of the State of New York without reference to its
+conflict of laws provisions (except for Sections 5-1401 and 5-1402 of the New
+York General Obligations Law).
+
+ (g) The phrase "Termination Currency" means United States Dollars.
+
+ (h) For the purpose of Section 6(e) of the Form Master Agreement, Market
+Quotation and Second Method will apply.
+
+4. RECORDING OF CONVERSATIONS.
+
+ Each party to this Transaction acknowledges and agrees to the tape (and/or
+other electronic) recording of conversations between the parties to this
+Transaction whether by one or other or both of the parties or their agents, and
+that any such recordings may be submitted in evidence in any Proceedings
+relating to the Form Master Agreement and/or this Transaction.
+
+5. CREDIT SUPPORT DOCUMENT.
+
+ In relation to Party A: Not Applicable.
+ In relation to Party B: Not Applicable.
+
+6. CREDIT SUPPORT PROVIDER.
+
+ In relation to Party A: Not Applicable.
+ In relation to Party B: Not Applicable.
+
+7. ACCOUNT DETAILS.
+
+ Party A:
+ Name: Bank of America, N.A. - New York
+ ABA #: 026009593
+ Attn: BOFAUS3N
+ Name: Bank of America, N.A.
+ City: Charlotte
+ Acct#: 6550219386
+
+ 4
+
+ Attn: Rate Derivative Settlements
+ Attn: BOFAUS6SGDS
+
+ Party B:
+ Wells Fargo Bank, N.A.
+ San Francisco, CA
+ 121-000-248
+ Acct. # 3970771416
+ Acct. Name: SAS Clearing
+ F/F/C: Reserve Fund: 50892401
+
+8. OFFICES.
+
+ The Office of Party A for this Transaction is: Charlotte, North Carolina
+ Please send notices to fax
+ no. 1-866-255-1444.
+
+ The Office of Party B for this Transaction is:
+ Wells Fargo Bank, N.A. as
+ Securities Administrator on
+ behalf of Banc of America
+ Funding Corporation 2006-1
+ Trust
+ 9062 Old Annapolis Road
+ Columbia, MD 21045
+ Attn: Client Manager BAFC
+ 2006-1
+
+9. ADDITIONAL PROVISIONS.
+
+ (a) Fully-Paid Transactions. Notwithstanding the terms of Sections 5 and 6
+of the Form Master Agreement, if at any time and so long as one of the parties
+to the Form Master Agreement ("X") shall have satisfied in full all its payment
+and delivery obligations under Section 2(a)(i) of the Form Master Agreement and
+shall at the time have no future payment or delivery obligations, whether
+absolute or contingent, under such Section, then unless the other party ("Y") is
+required pursuant to appropriate proceedings to return to X or otherwise returns
+to X (upon demand of X, or otherwise) any portion of any such payment or
+delivery: (i) the occurrence of an event described in Section 5(a)(i) of the
+Form Master Agreement with respect to X shall not constitute an Event of Default
+or a Potential Event of Default with respect to X as the Defaulting Party; and
+(ii) Y shall be entitled to designate an Early Termination Date (a) pursuant to
+Section 10 below and/or (b) pursuant to Section 6 of the Form Master Agreement
+only as a result of the occurrence of a Termination Event set forth in (i)
+either Section 5(b)(i) or 5(b)(ii) or 5(b)(v) of the Form Master Agreement with
+respect to Y as the Affected Party or (ii) Section 5(b)(iii) of the Form Master
+Agreement with respect to Y as the Burdened Party.
+
+ (b) Downgrade of Party A. If a Ratings Event (as defined below) shall occur
+and be continuing with respect to Party A, then Party A shall (A) within 5
+Business Days of such Ratings Event, give notice to Party B of the occurrence of
+such Ratings Event, and (B) use reasonable efforts to transfer (at its own cost)
+Party A's rights and obligations hereunder to another party, subject to
+satisfaction of the Rating Agency Condition (as defined below). Unless such a
+transfer by Party A has occurred within 20 Business Days after the occurrence of
+a Ratings Event, Party B
+
+ 5
+
+shall demand that Party A post Eligible Collateral (as designated in the
+approved Credit Support Annex), to secure Party B's exposure or potential
+exposure to Party A, and such Eligible Collateral shall be provided in
+accordance with a Credit Support Annex to be attached hereto and made a part
+hereof within 10 Business Days of Party B's demand therefor. The Eligible
+Collateral to be posted and the Credit Support Annex to be executed and
+delivered shall be subject to the Rating Agency Condition. Valuation and posting
+of Eligible Collateral shall be made as of each Payment Date, unless Party A or
+Bank of America Corporation are no longer reporting financial information
+publicly, then such valuation and posting must occur weekly. Notwithstanding the
+addition of the Credit Support Annex and the posting of Eligible Collateral,
+Party A shall continue to use reasonable efforts to transfer its rights and
+obligations hereunder to an acceptable third party; provided, however, that
+Party A's obligations to find a transferee and to post Eligible Collateral under
+such Credit Support Annex shall remain in effect only for so long as a Ratings
+Event is continuing with respect to Party A. For the purpose hereof, a "Ratings
+Event" shall occur with respect to Party A if the long-term and short-term
+senior unsecured deposit ratings of Party A cease to be at least A and A-1 by
+Standard & Poor's Ratings Service ("S&P") and at least A1 and P-1 by Moody's
+Investors Service, Inc. ("Moody's") and at least A and F1 by Fitch Ratings
+("Fitch"), to the extent such obligations are rated by S&P, Moody's and Fitch.
+"Rating Agency Condition" means, with respect to any action taken or to be
+taken, a condition that is satisfied when S&P, Moody's and Fitch have confirmed
+that such action would not result in the downgrade, qualification (if
+applicable) or withdrawal of the rating then assigned by such Rating Agency to
+the applicable class of Certificates. The failure by Party A to post Eligible
+Collateral in accordance herewith or to transfer its rights and obligations
+hereunder shall constitute an Additional Termination Event for which Party A
+shall be the sole Affected Party.
+
+10. ADDITIONAL TERMINATION EVENT.
+
+ It shall be an Additional Termination Event if any amendment and/or
+supplement to any document that pertains to the Form Master Agreement and/or
+this Transaction is made without the prior written consent of Party A (such
+consent not to be unreasonably withheld), if such amendment and/or supplement
+would: (i) adversely affect any of Party A's rights or obligations hereunder
+and/or under the Form Master Agreement; or (ii) modify the obligations of, or
+impair the ability of, Party B to fully perform any of Party B's obligations
+hereunder and/or under the Form Master Agreement. In connection with such
+Additional Termination Event, Party B shall be the sole Affected Party.
+
+11. WAIVER OF RIGHT TO TRIAL BY JURY.
+
+ EACH PARTY HEREBY IRREVOCABLY WAIVES ANY AND ALL RIGHTS TO TRIAL BY JURY
+WITH RESPECT TO ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS
+TRANSACTION.
+
+12. ELIGIBLE CONTRACT PARTICIPANT.
+
+ Each party represents to the other party that it is an "eligible contract
+participant" as defined in Section 1a(12) of the U.S. Commodity Exchange Act, as
+amended.
+
+13. NOTICE BY FACSIMILE TRANSMISSION.
+
+ Section 12(a) of the Form Master Agreement is hereby amended by deleting
+the parenthetical "(except that a notice or other communication under Section 5
+or 6 may not be given by facsimile transmission or electronic messaging
+system)."
+
+ 6
+
+14. REPRESENTATIONS.
+
+ Wells Fargo Bank, N.A., acting on behalf of Party B, as Securities
+Administrator, represents that: (a) it is duly organized and validly existing as
+a national banking association under the laws of the jurisdiction of its
+organization/formation; (b) it has been directed pursuant to the Pooling
+Agreement to enter into this Transaction (including the Form Master Agreement)
+and to perform its obligations hereunder (and thereunder); (c) the Transaction
+and the performance of its obligations hereunder (and under the Form Master
+Agreement) will not, to its knowledge, result in a breach or violation of any
+material term or provision of, or constitute a default under any agreement or
+instrument to which Wells Fargo Bank, N.A. is a party or by which it is bound;
+(d) each of the Pooling and Servicing Agreement and the other transaction
+documents related thereto (the "Transaction Documents") to which it is a party
+has been duly authorized, executed and delivered by it; (e) assuming the due
+authorization, execution and delivery thereof by the other parties thereto, each
+of the Pooling and Servicing Agreement and the other Transaction Documents to
+which it is a party constitutes the legal, valid and binding obligations of it,
+enforceable against it in accordance with the terms thereof, subject to
+applicable bankruptcy, insolvency and similar laws or legal principles affecting
+creditors' rights generally; (f) the Pooling and Servicing Agreement and the
+other Transaction Documents to which Party B is a party are in full force and
+effect on the date hereof and there have been no amendments or waivers or
+modifications of any of the terms thereof since the original execution and
+delivery of the Pooling and Servicing Agreement and the other Transaction
+Documents to which Party B is a party, except such as may have been delivered to
+Party A and to Party B; (g) to its knowledge, no event of default (or event
+which would, with the passage of time or the giving of notice, or both,
+constitute an event of default) has occurred under any of the Transaction
+Documents to which Party B is a party; and (h) the person executing this
+Confirmation is duly authorized to execute and deliver it on behalf of Party B.
+
+15. MULTIBRANCH PARTY.
+
+ For purpose of Section 10(c) of the Form Master Agreement: (a) Party A is a
+Multibranch Party, and may act through its Charlotte, North Carolina, Chicago,
+Illinois, San Francisco, California, New York, New York, Boston, Massachusetts
+or London, England Office or such other Office as may be agreed to by the
+parties in connection with a Transaction; and (b) Party B is not a Multibranch
+Party.
+
+16. OTHER PROVISIONS.
+
+ (a) Addresses for notices. As set forth on page 1 hereof and, with respect
+to Party A, the fax no. set forth on the signature page to this letter
+agreement.
+
+ (b) For the purpose of Section 13(c) of the Form Master Agreement: (i)
+Party A appoints as its Process Agent, not applicable; and (ii) Party B appoints
+as its Process Agent, not applicable.
+
+ (c) Section 12(a)(ii) of the Form Master Agreement is deleted in its
+entirety.
+
+ (d) Party A may assign its rights and obligations hereunder to any entity
+so long as the Rating Agency Confirmation is satisfied.
+
+ 7
+
+ (e) USA PATRIOT Act Notice. Party A hereby notifies Party B that pursuant
+to the requirements of the USA Patriot Act (Title III of Pub. L. 107-56 (signed
+into law October 26, 2001)) (the "Act"), it is required to obtain, verify and
+record information that identifies Party B, which information includes the name
+and address of Party B and other information that will allow Party A to identify
+Party B in accordance with the Act.
+
+ (f) It is expressly understood and agreed by the parties hereto that
+insofar as this Confirmation is executed by the Securities Administrator (i)
+this Confirmation is executed and delivered by Wells Fargo Bank, N.A., not in
+its individual capacity but solely as Securities Administrator under the Pooling
+and Servicing Agreement in the exercise of the powers and authority conferred
+upon and vested in it thereunder and pursuant to instructions set forth herein,
+(ii) each of the representations, undertakings and agreements herein made on
+behalf of the trust formed under the Pooling and Servicing Agreement is made and
+intended not as a personal representation, undertaking or agreement of the
+Securities Administator but is made and intended solely for the purpose of
+binding only Banc of America Funding Corporation 2006-1 Trust, and (iii) under
+no circumstances shall Wells Fargo Bank, N.A., in its individual capacity be
+personally liable for the payment of any indebtedness or expenses or be
+personally liable for the breach or failure of any obligation, representation,
+warranty or covenant made or undertaken by it on behalf of Banc of America
+Funding Corporation 2006-1 Trust under this Confirmation. Notwithstanding the
+foregoing (or anything to the contrary herein), Wells Fargo Bank, N.A. shall be
+liable for its own fraud, negligence, willful misconduct and/or bad faith
+
+ (g) The Events of Default specified under Sections 5(a)(ii) - 5(a)(vi) of
+the Form Master Agreement will not apply to either Party A or Party B.
+
+ (h) With respect to Party B only, the provisions of Section 5(a)(vii)
+clause 2 of the Form Master Agreement will not be applicable as an Event of
+Default.
+
+ (i) Without affecting the provisions of the Form Master Agreement requiring
+the calculation of certain net payment amounts, as a result of an Event of
+Default or Additional Termination Event or otherwise, all payments under the
+Form Master Agreement will be made without setoff.
+
+ (j) Party A agrees that it will not, prior to the date that is one year and
+one day from the Trade Date, acquiesce in, petition or otherwise invoke or cause
+Party B to invoke the process of any court or governmental authority for the
+purpose of commencing or sustaining a case against Party B under any federal or
+state bankruptcy, insolvency or similar law or for the purpose of appointing a
+receiver, liquidator, assignee, trustee, custodian, sequestrator or other
+similar official for Party B or any substantial part of the property of Party B,
+or for the purpose of ordering the winding up or liquidation of the affairs of
+Party B. Nothing herein (nor in the Form Master Agreement) shall prevent Party A
+from participating in any such proceeding once commenced.
+
+ (k) Section 9(b) of the Form Master Agreement is hereby amended by adding
+the following at the end of such Section: ", and unless the Rating Agency
+Condition is satisfied, unless such amendment clarifies any term or provision,
+corrects any inconsistency, cures any ambiguity, or corrects any typographical
+error."
+
+ 8
+
+ (l) Before any amendment and/or supplement is made to any document that
+pertains to the Form Master Agreement and/or any Transaction thereunder, Party B
+must first obtain the prior written consent of Party A (such consent not to be
+unreasonably withheld) if such amendment and/or supplement would: (a) adversely
+affect any of Party A's rights or obligations under the Form Master Agreement;
+or (b) modify the obligations of, or impact the ability of, Party B to fully
+perform any of Party B's obligations under the Form Master Agreement.
+
+17. COMPLIANCE WITH REGULATION AB. In connection with the Pooling and Servicing
+Agreement, Party B represents that this Confirmation is a derivative instrument
+as described in Item 1115 of Regulation AB under the Securities Act of 1933 and
+the Securities Exchange Act of 1934, as amended ("Regulation AB"), and not a
+credit support contract described in Item 1114 of Regulation AB.
+
+ (a) In accordance with Regulation AB, Party A represents that: (i) the name
+of the derivative counterparty is Bank of America, N.A.; (ii) the organizational
+form of the derivative counterparty is a national banking association organized
+under the laws of the United States; and (iii) the general character of the
+business of the derivative counterparty is to be engaged in a general consumer
+banking, commercial banking and trust business, offering a wide range of
+commercial, corporate, international, financial market, retail and fiduciary
+banking services.
+
+ (b) Party A has been advised that Party B (and/or certain affiliates of
+Party B) is required under Regulation AB to disclose certain financial
+information regarding Party A depending on the applicable "significance
+percentage" of this Confirmation, as calculated from time to time in accordance
+with Item 1115 of Regulation AB (as discussed in the Pooling and Servicing
+Agreement). Party A has been advised by the Sponsor (as defined in the Pooling
+and Servicing Agreement) that the applicable "significance percentage" of this
+Confirmation is less than 10%, and accordingly, no financial information
+regarding Party A need be disclosed in accordance with Item 1115 of Regulation
+AB.
+
+ (c) If required, Party A shall provide to Party B the applicable financial
+information described under Item 1115(b)(1) or (b)(2), as applicable, of
+Regulation AB (the "Reg AB Information") within fifteen (15) Local Business Days
+of receipt of a written request for such Reg AB Information by Party B (the
+"Response Period"), so long as Party B has reasonably determined, in good faith,
+that such information is required under Regulation AB; provided, however, that
+if Party A, in good faith, determines that it is unable to provide the Reg AB
+Information within the Response Period, then, subject to the Rating Agency
+Condition, Party A shall use reasonable efforts to cause a Reg AB Approved
+Entity (as defined below) to replace Party A as party to this Confirmation on
+terms substantially similar to this Confirmation prior to the expiration of the
+Response Period.
+
+ (d) "Reg AB Approved Entity" means any entity that (i) has the ability to
+provide the Reg AB Information and (ii) meets or exceeds the Approved Rating
+Thresholds (as defined below). If Party B requests (in writing) the Reg AB
+Information from Party A, then Party B shall promptly (and in any event within
+two (2) Local Business Days of the date of the request for the Reg AB
+Information) provide Party A with a written explanation of how the significance
+percentage was calculated.
+
+ (e) "Approved Rating Thresholds" means an entity that has a long-term and
+short-term senior unsecured deposit rating of at least A and A-1 by S&P, A1 and
+P-1 by Moody's or A and F1 by Fitch, to the extent such obligations are rated by
+S&P, Moody's and Fitch.
+
+ 9
+
+Please confirm that the foregoing correctly sets forth the terms and conditions
+of our agreement by returning within three (3) Business Days via telecopier an
+executed copy of this Confirmation to the attention of Global Derivative
+Operations (fax no. 1-866-255-1444)). Failure to respond within such period
+shall not affect the validity or enforceability of this Transaction, and shall
+be deemed to be an affirmation of the terms and conditions contained herein,
+absent manifest error.
+
+Yours sincerely,
+
+Bank of America, N.A.
+
+By: /s/ Mary Beth Knight
+ ------------------------------------------
+ Name: Mary Beth Knight
+ Title: Assistant Vice President
+
+Confirmed as of the date above:
+
+Banc of America Funding 2006-1 Trust
+
+By: Wells Fargo Bank, N.A., not in its individual capacity but solely as
+Securities Administrator on behalf of Banc of America Funding Corporation 2006-1
+Trust
+
+By: /s/ Peter A. Gobell
+ ------------------------------------------
+ Name: Peter A. Gobell
+ Title: Vice President
+
+ 10
+
+ SCHEDULE A
+ Our Reference Numbers: 4436076 4436077
+
+NOTIONAL
+AMOUNT (USD) START DATE END DATE
+28,000,000.00 1/25/2006 2/25/2006
+27,885,510.00 2/25/2006 3/25/2006
+27,742,034.00 3/25/2006 4/25/2006
+27,569,676.00 4/25/2006 5/25/2006
+27,368,598.00 5/25/2006 6/25/2006
+27,139,023.00 6/25/2006 7/25/2006
+26,881,232.00 7/25/2006 8/25/2006
+26,595,566.00 8/25/2006 9/25/2006
+26,282,424.00 9/25/2006 10/25/2006
+25,942,263.00 10/25/2006 11/25/2006
+25,575,599.00 11/25/2006 12/25/2006
+25,183,002.00 12/25/2006 1/25/2007
+24,765,100.00 1/25/2007 2/25/2007
+24,322,576.00 2/25/2007 3/25/2007
+23,856,164.00 3/25/2007 4/25/2007
+23,366,652.00 4/25/2007 5/25/2007
+22,854,877.00 5/25/2007 6/25/2007
+22,321,724.00 6/25/2007 7/25/2007
+21,768,127.00 7/25/2007 8/25/2007
+21,195,061.00 8/25/2007 9/25/2007
+20,603,546.00 9/25/2007 10/25/2007
+19,994,641.00 10/25/2007 11/25/2007
+19,369,441.00 11/25/2007 12/25/2007
+18,729,079.00 12/25/2007 1/25/2008
+18,074,717.00 1/25/2008 2/25/2008
+17,407,549.00 2/25/2008 3/25/2008
+16,729,045.00 3/25/2008 4/25/2008
+16,040,615.00 4/25/2008 5/25/2008
+15,357,784.00 5/25/2008 6/25/2008
+14,691,218.00 6/25/2008 7/25/2008
+14,041,330.00 7/25/2008 8/25/2008
+13,407,808.00 8/25/2008 9/25/2008
+12,790,347.00 9/25/2008 10/25/2008
+12,188,647.00 10/25/2008 11/25/2008
+11,602,415.00 11/25/2008 12/25/2008
+11,031,358.00 12/25/2008 1/25/2009
+10,475,194.00 1/25/2009 2/25/2009
+9,933,641.00 2/25/2009 3/25/2009
+9,406,425.00 3/25/2009 4/25/2009
+8,893,276.00 4/25/2009 5/25/2009
+
+ 11
+
+8,393,927.00 5/25/2009 6/25/2009
+7,908,117.00 6/25/2009 7/25/2009
+7,435,590.00 7/25/2009 8/25/2009
+6,976,093.00 8/25/2009 9/25/2009
+6,529,379.00 9/25/2009 10/25/2009
+6,095,204.00 10/25/2009 11/25/2009
+5,673,328.00 11/25/2009 12/25/2009
+5,263,517.00 12/25/2009 1/25/2010
+4,865,538.00 1/25/2010 2/25/2010
+4,479,165.00 2/25/2010 3/25/2010
+4,104,174.00 3/25/2010 4/25/2010
+3,740,346.00 4/25/2010 5/25/2010
+3,387,465.00 5/25/2010 6/25/2010
+3,045,320.00 6/25/2010 7/25/2010
+2,713,702.00 7/25/2010 8/25/2010
+2,392,406.00 8/25/2010 9/25/2010
+2,081,231.00 9/25/2010 10/25/2010
+1,779,980.00 10/25/2010 11/25/2010
+1,488,458.00 11/25/2010 12/25/2010
+1,206,475.00 12/25/2010 1/25/2011
+933,843.00 1/25/2011 2/25/2011
+679,930.00 2/25/2011 3/25/2011
+434,918.00 3/25/2011 4/25/2011
+198,630.00 4/25/2011 5/25/2011
+
+ 12

@@ -1,0 +1,1153 @@
+EX-99.3
+ 4
+ ef20083243_ex99-3.htm
+ EXHIBIT 99.3
+
+ Exhibit 99.3 
+
+ [***] 
+
+ [***] 
+
+ [***] 
+
+ [***] 
+
+ Telephone 
+
+ E-mail 
+
+ Web site 
+
+ [***]
+ [***]
+
+ [***] 
+
+ [***] 
+
+ Please deliver Immediately 
+
+ To:
+
+ Tarheel Investors III L.P. (“ Counterparty ”)
+
+ From:
+
+ [***] as Agent for
+
+ [***] 
+
+ Page 1 of 
+
+ 23 
+
+ Date 
+
+ January 7, 2026
+
+ SHARE SWAP TRANSACTION CONFIRMATION
+
+ (CASH-SETTLED)
+
+ Dear Sir / Madam,
+
+ This Confirmation (the “ Confirmation ”) confirms the terms and conditions of a transaction (the “ Transaction ”) entered into between [***] (“ Dealer ”) and Counterparty and constitutes the “Confirmation” as referred to in the ISDA Master Agreement specified below with respect to the Transaction. This Confirmation and the Agreement (as defined below) together constitute the entire agreement and understanding of the parties with respect to the subject matter and terms of the Transaction and supersede all prior or contemporaneous written and oral communications with respect thereto.
+
+ The definitions and provisions contained in the 2006 ISDA Definitions (the “ 2006 Definitions ”) and the 2002 ISDA Equity Derivatives Definitions (the “ Equity Definitions ”, and together with the 2006 Definitions, the “ Definitions ”), in each case as published by the International Swaps and Derivatives Association, Inc., are incorporated into this Confirmation. In the event of any inconsistency between the Definitions and a Confirmation, the terms of the Confirmation will govern. The Transaction hereunder constitutes a Share Swap Transaction for the purposes of the Equity Definitions.
+
+ The Confirmation evidences a complete and binding agreement between Dealer and Counterparty as to the terms of the Transaction to which the Confirmation relates. The Confirmation shall supplement, form a part of and be subject to an agreement (the “ Agreement ”) in the form of the 2002 ISDA Master Agreement (Multicurrency – Cross Border) together with a 1994 ISDA Credit Support Annex (New York Law) as supplemented by the SEC IM Supplement (No Segregation) (the “ SEC IM Supplement ” and collectively the “ CSA ”) (the “ ISDA Form ”) as if Dealer and Counterparty had executed an agreement in such form on the Trade Date (without any Schedule but with the modifications and elections set forth in this Confirmation).
+
+ Standalone Agreement: Notwithstanding anything to the contrary herein, upon the execution by Dealer and Counterparty of an ISDA Agreement (including the CSA) (the “ Standalone ISDA Agreement ”), this Confirmation will supplement, form a part of, and be subject to the Standalone ISDA Agreement, references herein to the Agreement will be deemed to be referring to the Standalone ISDA Agreement and the terms specified herein under “Modifications and Elections to the ISDA Form” will cease to apply. Dealer and Counterparty each agree to use commercially reasonable efforts, acting in good faith, to promptly enter into a Standalone ISDA Agreement (which Standalone ISDA Agreement shall contain substantially similar terms and provisions as in this Confirmation).
+
+ 1.
+
+ The terms of the Transaction to which this Confirmation relates are as follows:
+
+ General Terms: 
+
+ Trade Date:
+
+ As specified on Schedule B hereto
+
+ Effective Date:
+
+ One Settlement Cycle after The Trade Date
+
+ 1/23
+
+ [***] 
+
+ [***] 
+
+ [***] 
+
+ 1
+
+ Final Date:
+
+ As specified on Schedule B hereto
+
+ Shares:
+
+ As specified on Schedule B hereto
+
+ Number of Shares:
+
+ As of the start of the Trade Date, zero Shares, and subject to adjustment as provided herein
+
+ Exchange(s):
+
+ As specified on Schedule B hereto
+
+ Related Exchange(s):
+
+ All Exchanges
+
+ Calculation Agent:
+
+ Dealer; provided that the Calculation Agent shall, upon request by the other party, provide a written explanation of any calculation, determination, or adjustment made by it including, where applicable, a description of the methodology and the basis for such calculation, determination or adjustment in reasonable detail (it being understood that the Calculation Agent shall not be obligated to disclose any proprietary models used by it for such calculation or other information that may be subject to contractual, legal or regulatory obligations not to disclose such information).
+
+ Equity Amounts: 
+
+ Equity Amount Payer:
+
+ Dealer
+
+ Initial Price:
+
+ As specified on the Adjustment Notice, as updated from time to time
+
+ VWAP Price: 
+ For any Exchange Business Day, the volume weighted average price per Share for the regular trading session of the Exchange as displayed under the heading “Bloomberg VWAP” on the applicable Bloomberg Page AQR in respect of the trading session on the Exchange (including any extensions thereof, but (i) without regard to pre-open or after hours trading and (ii) including the opening and closing transactions reported for such Exchange Business Day. 
+
+ Equity Notional Reset:
+
+ Not Applicable
+
+ Equity Notional Amount:
+
+ The product of the Number of Shares multiplied by the Initial Price
+
+ Type of Return:
+
+ Total Return
+
+ Floating Amounts: 
+
+ Floating Amount Payer:
+
+ Counterparty
+
+ Notional Amount:
+
+ The Equity Notional Amount
+
+ Calculation Period:
+
+ Each period from, and including, one Period End Date to, but excluding, the next following Period End Date, except that (a) the initial Calculation Period will commence on, and include, the Effective Date, and (b) the final Calculation Period will end on, but exclude the final Cash Settlement Payment Date.
+
+ Period End Dates: 
+ Each Business 
+ Day during the term of the Transaction 
+
+ Payment Dates: 
+ Each Cash Settlement Payment 
+ Date 
+
+ General Terms: 
+
+ Floating Rate Option:
+
+ USD-Overnight Bank Funding Rate as defined in Supplement number 50 to the 2006 Definitions
+
+ 2/23
+ [***] 
+ [***] 
+ [***] 
+
+ 2
+
+ Designated Maturity:
+
+ Not applicable
+
+ Reset Date:
+
+ Each Period End Date
+
+ Compounding:
+
+ Applicable
+
+ Compounding Dates
+
+ Each Reset Date
+
+ Spread:
+
+ As specified on Schedule B hereto
+
+ Floating Rate Day Count Fraction:
+
+ Actual/360
+
+ Business Day:
+
+ New York
+
+ Business Day Convention:
+
+ Modified Following
+
+ Notional Amount Increase: 
+
+ On any Exchange Business Day beginning on the date hereof, Counterparty may request an increase in the current Number of Shares by providing a written or oral request to Dealer (each such request, a “ Number of Shares Increase Request ”), which request will be deemed to include a representation that Counterparty is not making such Number of Shares Increase Request on the basis of material non-public information regarding the Issuer or the Shares as of the date of such request. Dealer may reject or accept in full or in part (unless such Number of Shares Increase Request specifies “all or none”) any such Number of Shares Increase Request and shall notify Counterparty promptly after the close of trading on the Exchange on the day of the relevant Number of Shares Increase Request, (i) the additional number of Shares by which it has actually increased the Number of Shares as a result and (ii) the Initial Price for such increased Number of Shares as of such day (each such notification, an “ Additional Number of Shares Notice ”).
+
+ On the first Business Day after a week in which an Additional Number of Shares Notice was issued, Dealer shall send to Counterparty a notice in the form of Schedule A hereto (or other form providing substantially the same information) (an “ Adjustment Notice ”) setting forth the following information with respect to each increase as of each previous Additional Number of Shares Notice: (i) the Number of Shares, (ii) the Equity Notional Amount, and (iii) the Initial Price.
+
+ If, with respect to any Adjustment Notice, Dealer does not receive from Counterparty an objection in writing to such Adjustment Notice within one Local Business Day of the date on which Dealer makes such Adjustment Notice available to Counterparty (or, if earlier, the latest day by which the relevant Transaction must be confirmed in accordance with applicable law or regulation) (the “ Confirmation Time ”), then Counterparty shall be deemed to have agreed to the terms of such Adjustment Notice and to have confirmed such Adjustment Notice at the Confirmation Time.
+
+ Settlement Terms: 
+
+ Settlement Method:
+
+ Cash Settlement
+
+ Settlement Currency:
+
+ USD
+
+ 3/23 
+ [***] 
+ [***] 
+ [***] 
+
+ 3
+
+ Relevant Price:
+
+ The arithmetic average of the VWAP Prices for each Averaging Date (or if such VWAP Price is not available or is, in the Calculation Agent’s reasonable discretion, erroneous, the Calculation Agent’s reasonable good faith estimate of such price on such Averaging Date using a similar volume-weighted methodology) minus the Adjustment Amount specified on Schedule B hereto.
+
+ Cash Settlement Payment Date:
+
+ The date that is one Settlement Cycle after the Valuation Date.
+
+ Valuation:
+
+ Valuation Time:
+
+ At the Scheduled Closing Time on the Exchange.
+
+ Valuation Date:
+
+ The final Averaging Date for the Transaction.
+
+ Averaging Dates:
+
+ The twenty Exchange Business Days immediately following and including the Final Date (such period, the “ Averaging Period ”), or such other period as the parties may agree. For the avoidance of doubt, Dealer may extend the Averaging Date period and thereby postpone the Cash Settlement Payment Date for the Transaction to the extent deemed necessary (1) upon the advice of outside counsel; or (2) in Dealer’s good faith and reasonable determination, if the average daily trading volume of the Shares has materially declined since the date this Confirmation was executed
+
+ Market Disruption Events:
+
+ The definition of “Market Disruption Event” in Section 6.3(a) of the Equity Definitions is hereby amended by deleting the words “at any time during the one-hour period that ends at the relevant Valuation Time, Latest Exercise Time, Knock-in Valuation Time or Knock-out Valuation Time, as the case may be” and inserting the words “at any time on any Averaging Date” after the word “material,” in the third line thereof.
+
+ Section 6.3(d) of the Equity Definitions is hereby amended by deleting the remainder of the provision following the term “Scheduled Closing Time” in the fourth line thereof.
+
+ Notwithstanding anything to the contrary in the Equity Definitions, to the extent that a Disrupted Day occurs on any Averaging Date, the Calculation Agent may, in its good faith and commercially reasonable discretion, postpone the final Averaging Date or the Trade Date by the number of Scheduled Trading Days equal to the number of Disrupted Days. If any such Disrupted Day is a Disrupted Day because of a Market Disruption Event, the Calculation Agent shall determine whether (i) such Disrupted Day is a Disrupted Day in full, in which case the VWAP Price for such Disrupted Day shall not be included for purposes of determining the Relevant Price or Initial Price, as the case may be, or (ii) such Disrupted Day is a Disrupted Day only in part, in which case the VWAP Price for such Disrupted Day shall be determined by the Calculation Agent based on transactions in the Shares on such Disrupted Day taking into account the nature and duration of the relevant Market Disruption Event, and the weighting of the VWAP Price for the relevant Exchange Business Days, shall be adjusted in a commercially reasonable manner by the Calculation Agent for purposes of 
+
+ 4/23 
+
+ [***] 
+ [***] 
+ [***] 
+
+ 4
+
+ determining the Relevant Price or the Initial Price, as the case may be, with such adjustments based on, among other factors, the duration of any Market Disruption Event and the volume, historical trading patterns and price of the Shares. Any Exchange Business Day on which, as of the date hereof, the Exchange is scheduled to close prior to its normal close of trading shall be deemed not to be an Exchange Business Day; if a closure of the Exchange prior to its normal close of trading on any Exchange Business Day is scheduled following the date hereof, then such Exchange Business Day shall be deemed to be a Disrupted Day in full. 
+
+ Dividends: 
+
+ Dividend Amount Adjustment:
+
+ With respect to any ordinary or extraordinary cash dividend or distribution on the Shares for which the Record Date occurs during the Dividend Period, the Calculation Agent shall reduce the Initial Price on the Dividend Amount Adjustment Date; provided that, for any dividend for which the ex-dividend date occurs on any Averaging Date, the Calculation Agent shall reduce the Initial Price by an amount equal to the dividends paid on the fraction of the Number of Shares equal to the number of Averaging Dates remaining on the date the Shares begin trading ex-dividend (including the date on which the Shares begin trading ex-dividend) divided by the total number of Averaging; provided further that for any Dividend Amount for which (x) the relevant Record Date occurs during the Dividend Period, and (y) the relevant Dividend Amount Adjustment Date occurs after any Cash Settlement Payment Date or Optional Early Termination Settlement Date with respect to all or a portion of the Transaction, as applicable, Dealer shall remit to Counterparty, within one Settlement Cycle after such Dividend Amount Adjustment Date, an amount in the Settlement Currency equal to the product of (i) such Dividend Amount multiplied by (ii) the number of shares constituting the portion of the Number of Shares as of such Record Date for which no adjustment under “Dividend Amount Adjustment” was made on such Dividend Amount Adjustment Date. Notwithstanding the above, if the Initial Price is reduced pursuant to an adjustment above and the related Dividend Amount is not paid at the time and in the amount scheduled, then Dealer shall have the right to further adjust the Initial Price to account for such deficiency or (if the Transaction has then terminated) Counterparty will be required, upon request of Dealer, to promptly remit to Dealer an amount determined by the Calculation Agent as appropriate to account for such deficiency. The obligations of Counterparty pursuant to this provision will survive settlement or termination of the Transaction.
+
+ Dividend Amount Adjustment Date:
+
+ In respect of any cash dividend or distribution on the Shares, the Dividend Receipt Date (or if such day is not a Currency Business Day, the Currency Business Day immediately following such date).
+
+ Dividend Receipt Date:
+
+ The date of receipt of a dividend by holders of record.
+
+ Record Date:
+
+ Each relevant date of determination of holder of record status.
+
+ 5/23 
+ [***] 
+ [***] 
+ [***] 
+
+ 5
+
+ Dividend Amount:
+
+ The Paid Amount; provided that the last sentence of Section 10.1 of the Equity Definitions shall be deleted.
+
+ Dividend Period:
+
+ The period commencing on and including the Clearance System Business Day that is one Settlement Cycle following the Trade Date and ending on but excluding the final Cash Settlement Payment Date.
+
+ Share Dividend Elections: 
+ In the event that a dividend is payable in either cash or property or a combination thereof at the election of a person who would be a holder of record of such Shares, the Dividend Amount shall be determined as if no election were made pursuant to the election default provision set forth in the documents relating to the payment of dividends on the Shares. 
+
+ Share Adjustments : 
+
+ Method of Adjustment:
+
+ Calculation Agent Adjustment
+
+ Extraordinary Events: 
+
+ New Shares:
+
+ The definition of “New Shares” in Section 12.1(i) of the Equity Definitions shall apply; provided, however , that if the Exchange mentioned therein is located in the United States, the definition of “New Shares” shall be amended by deleting subsection (i) in its entirety and replacing it with the following: “(i) publicly quoted, traded or listed on any of the New York Stock Exchange, The Nasdaq Global Select Market, or The Nasdaq Global Market (or their respective successors)”.
+
+ Consequences of Merger Events:
+
+ (a) Share-for-Share:
+
+ Calculation Agent Adjustment
+
+ (b) Share-for-Other:
+
+ Calculation Agent Adjustment
+
+ (c) Share-for-Combined:
+
+ Calculation Agent Adjustment
+
+ Tender Offer:
+
+ Applicable
+
+ Consequences of Tender Offers:
+
+ (a) Share-for-Share:
+
+ Calculation Agent Adjustment
+
+ (b) Share-for-Other:
+
+ Calculation Agent Adjustment
+
+ (c) Share-for-Combined:
+
+ Calculation Agent Adjustment
+
+ Composition of Combined
+ Consideration:
+
+ Not Applicable
+
+ Nationalization, Insolvency or 
+Delisting:
+
+ Cancellation and Payment
+
+ Additional Disruption Events: 
+
+ Change in Law: 
+ Applicable; provided that (1) any determination as to whether (i) the adoption of or any change in any applicable law or regulation (including, without limitation, any tax law) or (ii) the promulgation of or any change in or public announcement of the formal or informal interpretation by any court, tribunal or regulatory authority with competent jurisdiction of any applicable 
+
+ 6/23 
+ [***] 
+ [***] 
+ [***] 
+
+ 6
+
+ law or regulation (including any action taken by a taxing authority), in each case, constitutes a “Change in Law” shall be made without regard to Section 739 of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 or any similar legal certainty provision in any legislation enacted, or rule or regulation promulgated, on or after the Trade Date and (2) if only subsection (Y) of the definition is applicable, the sole remedy for Dealer shall be an adjustment to the exercise, settlement, payment or other pricing terms of the Transaction to account for the economic effect on the Transaction of such event, as determined by Dealer in a commercially reasonable manner.
+
+ Failure to Deliver:
+
+ Not Applicable
+
+ Hedging Disruption:
+
+ Applicable
+
+ Hedging Party:
+
+ Dealer
+
+ Insolvency Filing:
+
+ Applicable
+
+ Determining Party: 
+ Dealer; provided that, the Determining Party shall, at the time it notifies Counterparty of any determination, adjustment or calculation made by it, provide Counterparty with a written explanation describing in reasonable detail the methodology and the basis for such determination, adjustment or calculation (including any quotations, market data or information from internal sources used in making such calculations, but without disclosing Determining Party’s proprietary models or other information that may be subject to contractual, legal or regulatory obligations not to disclose such information). 
+
+ Optional Early Termination and Additional Termination Events: 
+
+ Optional Early Termination:
+
+ Counterparty may, upon one Scheduled Trading Day’s prior notice (or such earlier time as the parties may agree) to Dealer, terminate the Transaction, in whole or in part, by designating any Scheduled Trading Day as the “ Optional Early Termination Final Date ” for the Transaction or portion thereof. For the avoidance of doubt, if such right is exercised pursuant to the terms hereof, with respect to the Transaction or that portion of the Transaction that is terminated, (1) the Optional Early Termination Final Date shall be deemed to be the Final Date (subject to Disrupted Day provisions, if applicable), (2) the Optional Early Termination Settlement Date (as defined below) shall be deemed to be the Cash Settlement Payment Date, (3) the Relevant Price shall be calculated in accordance with “Settlement Terms” above as if the Optional Early Termination Final Date were the Final Date, and (4) the Calculation Agent shall make the calculations described under “Valuation” and “Settlement Terms” above with respect to all or a portion of the Transaction being terminated, as applicable, and the remainder of the Transaction, if any, shall continue in accordance with its terms.
+
+ Optional Early Termination Settlement Date:
+
+ The date that is one Settlement Cycle following the Valuation Date.
+
+ Other Synthetic Exposure:
+
+ It will constitute an Additional Termination Event hereunder if Counterparty at any time has obtained any synthetic economic exposure to the Shares (including any cash-settled only
+
+ 7/23 
+ [***] 
+ [***] 
+ [***] 
+
+ 7
+
+ instruments) with an entity other than Dealer or any of its Affiliates. For the purpose of the foregoing Termination Event, Counterparty shall be the Affected Party.
+
+ Consequences of Early Termination, Extraordinary Events or Additional Disruption Events: 
+
+ Settlement: 
+ Notwithstanding anything else in the Equity Definitions or the Agreement, upon the occurrence of a Termination Event, an Extraordinary Event or an Additional Disruption Event, with respect to the Transaction or any portion of the Transaction, then with respect to the Transaction or any portion of the Transaction that is terminated, (1) the Final Date shall be deemed to have occurred on the date that is three Exchange Business Days from the date of such occurrence (provided, however, that (a) the parties may agree to modify such date and (b) with respect to a Termination Event or Additional Disruption Event, Dealer may elect to shorten such period by up to two Exchange Business Days, with Counterparty’s consent, or lengthen such period by up to ten Exchange Business Days, without Counterparty’s consent), (2) the parties shall settle the Transaction or the portion of the Transaction that is terminated as if the provisions of the Equity Definitions and “Valuation” and “Settlement Terms” above were applicable on such deemed Final Date, using the deemed Final Date to calculate the deemed Cash Settlement Payment Date, (3) the Relevant Price shall be calculated in accordance with “Settlement Terms” above as if the deemed Final Date were the Final Date (except if the Shares are not listed or quoted on the Exchange or a Related Exchange or in the event of termination due to Nationalization or Insolvency, the Relevant Price shall be calculated by reference to the VWAP Price; provided that , if the VWAP Price is unavailable, then an objective measure as reasonably determined by the Calculation Agent in good faith), and (4) the Calculation Agent shall make the calculations described under “Valuation” and “Settlement Terms” above with respect to all or a portion of the Transaction being terminated, as applicable, and the remainder of the Transaction shall continue in accordance with its terms. 
+
+ Representations: 
+
+ Non-Reliance:
+
+ Applicable
+
+ Agreement and Acknowledgments
+
+ Regarding Hedging Activities:
+
+ Applicable
+
+ Additional Acknowledgments:
+
+ Applicable
+
+ Acknowledgments and Agreements with Respect to Hedging: 
+
+ Counterparty acknowledges that: 
+
+ (i) during the term of the Transaction, Dealer and its affiliates may buy or sell Shares or other securities or buy or sell options or futures contracts or enter into swaps or other derivative securities in order to establish, adjust or unwind its hedge position with respect to the Transaction; 
+
+ 8/23
+ [***] 
+ [***] 
+ [***] 
+
+ 8
+
+ (ii)
+
+ Dealer and its affiliates may also be active in the market for the Shares and derivatives linked to the Shares other than in connection with hedging activities in relation to the Transaction, including acting as agent or as principal and for its own account or on behalf of customers;
+
+ (iii)
+
+ Dealer shall make its own determination as to whether, when or in what manner any of its hedging or market activities shall be conducted and shall do so in a manner that it deems appropriate to hedge its price risk, market risk and any other risk with respect to any Transaction including without limitation by transacting in securities, futures contracts or other derivatives related to the securities underlying a Transaction in amounts that may be greater than or less than the amount of securities that underlie a Transaction;
+
+ (iv)
+
+ any market activities of Dealer and its affiliates with respect to the Shares may affect the market price and volatility of the Shares, each in a manner that may be adverse to Counterparty;
+
+ (v)
+
+ there are no voting or hedging arrangements between Dealer and Counterparty with respect to any Shares or the Issuer;
+
+ (vi)
+
+ Counterparty will not be entitled to any voting rights in respect of any of the Shares underlying the Transaction; and
+
+ (vii)
+
+ Counterparty will not seek to influence Dealer with respect to the voting of any Hedge Positions of Dealer consisting of Shares (if any).
+
+ Miscellaneous: 
+
+ The parties hereto intend as follows: (A) Dealer is a “financial institution” within the meaning of Section 101(22) of the United States Bankruptcy Code (the “ Bankruptcy Code ”); (B) the Transaction is a “securities contract” as such term is defined in Section 741(7) of the Bankruptcy Code, qualifying for protection under Section 555 of the Bankruptcy Code and a “swap agreement”, as such term is defined in Section 101(53B) of the Bankruptcy Code; (C) any cash, securities or other property provided as performance assurance, credit support or collateral with respect to the Transaction constitute “margin payments” as defined in Section 741(5) of the Bankruptcy Code and “transfers” as defined in Section 101(54) of the Bankruptcy Code under a “swap agreement;” and (D) all payments for, under or in connection with the Transaction at settlement or early termination of all or any portion of the Transaction constitute “settlement payments” as defined in Section 741(8) of the Bankruptcy Code under a “securities contract” and “transfers” as defined in Section 101(54) of the Bankruptcy Code under a “swap agreement.” 
+
+ Mutual Representations Acknowledgements and Agreements. 
+
+ Each of Dealer and Counterparty represents and warrants to the other party that:
+
+ (i)
+
+ [ Reserved ]
+
+ (ii)
+
+ Commodity Exchange Act . It is an “eligible contract participant” within the meaning of the Section 1a(18) of U.S. Commodity Exchange Act, as amended (the “ CEA ”), the Transaction has been subject to individual negotiation by the parties, and the Transaction has not been executed or traded on a “trading facility” as defined in the CEA.
+
+ (iii)
+
+ Accredited Investor . It is an “accredited investor” as that term is defined under Regulation D under the Securities Act of 1933, as amended (the “ Securities Act ”).
+
+ (iv)
+
+ Domestic Entity. It is a “U.S. person” (as that term is used in Section 1.1441-4(a)(3)(ii) of the United States Treasury Regulations) for U.S. federal income tax purposes (or, if it is disregarded for U.S. federal income tax purposes, its beneficial owner is).
+
+ Counterparty Representations and Warranties. Counterparty represents and warrants to Dealer, and covenants, that as of the date hereof :
+
+ (i)
+
+ Counterparty is not insolvent.
+
+ 9/23
+ [***] 
+ [***] 
+ [***] 
+
+ 9
+
+ (ii)
+
+ Counterparty is not in possession of any material non-public information regarding the Issuer or the Shares. In addition, if at any time the Transaction is outstanding Counterparty seeks to amend the Transaction or exercise its rights as provided under “Optional Early Termination,” Counterparty will be deemed to represent that Counterparty is not in possession of any material non-public information regarding the Issuer or the Shares.
+
+ (iii)
+
+ As of the date hereof, it has made, and at all times the Transaction hereunder is outstanding, Counterparty will timely make all of its material regulatory filings and it has complied, and at all such times will comply with the applicable provisions of the Securities Exchange Act of 1934, as amended, and the rules and regulations thereunder (the “ Exchange Act ”), in each case in connection with the Transaction.
+
+ (iv)
+
+ Counterparty is not, and within the preceding 90 days has not been, an “affiliate” (as defined in Rule 144 under the Securities Act) of the Issuer.
+
+ (v)
+
+ Counterparty is not an “insider” of the Issuer. An “ insider ” is a person who is directly or indirectly the beneficial owner of more than 10 percent of any class of any equity security of an issuer (as determined in accordance with Rule 13d-3 under the Exchange Act), or who is a director or an officer of an issuer.
+
+ (vi)
+
+ Counterparty is not entering into the Transaction to create actual or apparent active trading in the Shares (or any security convertible into or exchangeable for Shares) for the purpose of inducing the purchase or sale of such security by others or to manipulate the price of the Shares (or any security convertible into or exchangeable for Shares), in each case in violation of the Exchange Act.
+
+ (vii)
+
+ Counterparty is, and agrees that during the term of the Transaction it will remain, a “U.S. person” (as that term is used in section 1.1441-4(a)(3)(ii) of United States Treasury Regulations for United States federal income tax purposes).
+
+ Counterparty Purchases and Sales. 
+
+ Counterparty shall not, without the prior written consent of Dealer, increase Counterparty’s Economic Exposure (through purchase of any Shares or otherwise) on any Averaging Date; provided that privately-negotiated off-exchange purchases or sales of Shares effected with persons other than Dealer or its affiliates shall not be subject to the foregoing and may be effected by Counterparty without the consent of Dealer.
+
+ For the purposes hereof, “ Counterparty’s Economic Exposure ” shall mean long economic exposure (including long economic exposure held by any member of a “group” that Counterparty is a part of, within the meaning of Section 13(d) of the Exchange Act) of Counterparty to the Shares (including any synthetic positions, but excluding any cash-settled only instruments, and including the Number of Shares under the Transaction).
+
+ Upon Counterparty’s becoming aware during the term of the Transaction that Counterparty has beneficial ownership of Shares pursuant to Rule 13d-3 under the Exchange Act representing 9.0% or more of the outstanding Shares (as determined by reference to the Issuer’s most recent reports filed under the Exchange Act), Counterparty shall immediately so notify Dealer.
+
+ Additional Provisions. 
+
+ (i)
+
+ Amendment to the Equity Definitions. Section 11.2(a) of the Equity Definitions is hereby amended by deleting the words “a diluting or concentrative” and replacing them with the word “a material”.
+
+ (ii)
+
+ Agency and Collateral. 
+
+ (A)
+
+ Each of Dealer and Counterparty acknowledges to and agrees with the other party hereto and to and with the Agent that (1) [***] (the “ Agent ”) is acting as agent for Dealer under the Transaction pursuant to instructions from such party, (2) the Agent is not a principal or party to the Transaction and may transfer its rights and obligations with respect to the Transaction, (3) the Agent shall have no responsibility, obligation or liability to either party in respect of the Transaction, (4) Dealer and the Agent have
+
+ 10/23
+ [***] 
+ [***] 
+ [***] 
+
+ 10
+
+ not given, and Counterparty is not relying (for purposes of making any investment decision or otherwise) upon, any statements, opinions or representations (whether written or oral) of Dealer or the Agent, other than the representations expressly set forth in this Confirmation or the Agreement, (5) each party agrees to proceed solely against the other party, and not the Agent, to collect or recover any money or securities owed to it in connection with the Transaction. Each party hereto acknowledges and agrees that the Agent is an intended third party beneficiary hereunder. Counterparty acknowledges that the Agent is an affiliate of Dealer, (6) Agent may have been paid a fee by Dealer in connection with the Transaction; further details will be furnished upon written request, and (7) the time of dealing for the Transaction will be furnished by Agent upon written request. Dealer is not a member of the Securities Investor Protection Corporation.
+
+ (B)
+
+ Dealer hereby notifies Counterparty that, with respect to collateral delivered to Dealer by Counterparty pursuant to the Confirmation: (1) except as otherwise agreed in writing between Dealer and Counterparty, Dealer may re-pledge or otherwise use such collateral in Dealer’s business; (2) in the event of Dealer’s failure, Counterparty will likely be considered an unsecured creditor of Dealer as to such collateral; (3) the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq .) does not protect Counterparty; and (4) such collateral will not be subject to the requirements of Rules 8c-1, 15c2-1, 15c3-2 or 15c3-3 under the Exchange Act.
+
+ (iii)
+
+ Credit Support Obligations. 
+
+ “ Independent Amount ” means with respect to Dealer and the Transaction: Zero.
+
+ “ Independent Amount ” with respect to Counterparty and the Transaction will be determined as of each Business Day during the term of the Transaction and will be equal to the product of (x) the IA Percentage, (y) the Number of Shares and (z) the Initial Price (with respect to the Trade Date) or the closing price per Share (with respect to any other date). The “ IA Percentage ” shall be as specified on Schedule B hereto. The initial Independent Amount and any adjustment to the Independent Amount will be payable in accordance with the Credit Support Annex to the Agreement.
+
+ (iv)
+
+ Notices .
+
+ The address for notices and communications to Dealer is:
+
+ [***] 
+
+ [***] 
+
+ [***] 
+
+ Attention: [***] 
+
+ with a copy to:
+
+ [***] 
+
+ [***] 
+
+ [***] 
+
+ Attention: [***] 
+
+ The address for notices and communications to Counterparty is:
+
+ Tarheel Investors III L.P.
+
+ c/o Kohlberg Kravis Roberts & Co. L.P.
+
+ [***]
+ [***]
+
+ Attention: [***]
+
+ Telephone: [ *** ] 
+
+ Facsimile: [ *** ] 
+
+ 11/23
+ [***] 
+ [***] 
+ [***] 
+
+ 11
+
+ With a copy to:
+
+ Kohlberg Kravis Roberts & Co. L.P. 
+ [***]
+
+ [***]
+ Attention: [***]
+ Telephone: [ *** ] 
+
+ Facsimile: [ *** ] 
+
+ List of Counterparty Persons Who are to Receive Email Notice 
+
+ Name 
+
+ Email 
+
+ [ *** ] 
+
+ [ *** ] 
+
+ [ *** ] 
+
+ [ *** ] 
+
+ [ *** ] 
+
+ [ *** ] 
+
+ [ *** ] 
+
+ [ *** ] 
+
+ Modifications and Elections to the ISDA Form: 
+
+ Collateral Terms: 
+
+ Dealer and Counterparty agree that this provision will apply with respect to
+ the Transaction until such time as they execute a 1994 ISDA Credit Support
+ Annex (New York law) (the “ Credit
+ Support Annex ”) to the Agreement, from which time the provisions of such
+ Credit Support Annex will apply, except as provided in Section 5(a) of this
+ Confirmation. 
+
+ Paragraphs one through twelve of the
+ standard form 1994 ISDA Credit Support Annex 
+ (New York Law) 
+ (the “ CSA ”) and sections one through ten of the SEC IM
+ Supplement are incorporated by reference herein subject to the elections and modifications set out
+ below. Terms defined in the 
+ CSA have this 
+ same meaning herein. 
+
+ Elections and variables for the purposes of Paragraph 13 of the CSA. 
+
+ Eligible Collateral . The following items 
+ will qualify as “Eligible
+ Collateral” for the party specified: 
+
+ Collateral Type 
+
+ Dealer 
+
+ Counter- 
+
+ party 
+
+ Valuation 
+
+ Percentage 
+
+ United States 
+Dollars 
+
+ Yes 
+
+ Yes 
+
+ 100% 
+
+ “ Threshold ” means, 
+ with respect to Dealer, zero; 
+ and 
+
+ “ Threshold ” means, 
+ with respect to Counterparty, zero. 
+
+ “ Minimum Transfer Amount ” means $250,000. 
+
+ Rounding . The Delivery Amount is rounded up, and the Return Amount is rounded down, 
+ to the nearest 
+ multiple of USD 
+ 10,000. 
+
+ 12/23 
+ [***] 
+ [***] 
+ [***] 
+
+ 12
+
+ “ Valuation Agent ” means Dealer. Notwithstanding Paragraph 4(c) of the CSA, calculations will only be provided upon a reasonable demand made by Counterparty.
+
+ “ Valuation Date ” means any Local Business Day in New York.
+
+ “ Valuation Time ” means the close of business in New York on the Local Business Day immediately preceding the relevant Valuation Date.
+
+ “ Notification Time ” means 11:00 a.m. New York time on a Local Business Day.
+
+ “ Resolution Time ” means 11:00 a.m., New York time, on the first Local Business Day following the date on which the notice is given that gives rise to a dispute under Paragraph 5 of the CSA.
+
+ Conditions Precedent . The following Termination Event(s) will be a “Specified Condition” for a party (that party being the Affected Party if the Termination Event occurs with respect to that party): (A) Credit Event Upon Merger and (B) Additional Termination Event(s).
+
+ Interest Rate . Interest with respect to U.S. Dollars will accrue from day to day at a rate equal to the “Federal Funds Rate”, set forth in H.15 (519) for that day opposite the caption “Federal Funds (Effective)”, or such other rate as may be agreed by the parties. If on any day such rate is not yet published in H.15 (519), the rate for such day will be the rate set forth in Bloomberg Screen page FEDL01<INDEX><HP><GO> for that day under the caption “FED FUNDS EFFECTIVE”, or such other rate as may be agreed by the parties. If on any day, the appropriate rate for such day is not yet published in either H.15 (519) or Bloomberg Screen page FEDL01 <INDEX><HP><GO> , the rate for such day will be the arithmetic mean of the rates for the last transaction in overnight U.S. Dollar Federal funds arranged by three leading brokers of U.S. Dollar Federal funds transactions in New York City selected in good faith by both parties prior to 9.00 a.m., New York City time, on such day, or such other rate as may be agreed by the parties.
+
+ For this purpose, “H.15 (519)” shall have the meaning specified in the Annex to the 2006 ISDA Definitions as published by ISDA.
+
+ “ Interest Period ” as defined in Paragraph 12 of the CSA is replaced with “means the period from and including the first day of each calendar month, to and including the last day of each calendar month.”
+
+ Eligibility to Hold Posted Collateral . Dealer and Counterparty will be entitled to hold Posted Collateral pursuant to Paragraph 6(b) of the CSA.
+
+ Use of Posted Collateral . The provisions of Paragraph 6(c) will apply to the parties.
+
+ Transfer of Interest Amount . The transfer of the Interest Amount will be made on or before the third Local Business Day of each calendar month with respect to the preceding calendar month.
+
+ Instructions for Transfers . As agreed between the parties from time to time.
+
+ 13/23 
+ [***] 
+ [***] 
+ [***] 
+
+ 13
+
+ Other CSA Provisions .
+
+ (1) Amendment to Events of Default .
+
+ (A)
+
+ Paragraph 7(i) of the CSA is hereby amended by replacing the words “two Local Business Days” in the third line thereof with the words “one Local Business Day.”
+
+ (B)
+
+ Paragraph 7(ii) of the CSA is hereby amended by replacing the words “five Local Business Days” in the second line thereof with the words “one Local Business Day.”
+
+ (2) Amendments to Transfer Timing and Calculations . Paragraph 4(b) of the CSA is amended by replacing the words “the next” in the third line thereof with the word “such” and replacing the word “second” in the fifth line thereof with the word “next” and deleting the word “thereafter” in the fifth line thereof.
+
+ Elections and variables for the purposes of section 10 of the SEC IM Supplement:
+
+ SEC IM Table: 
+
+Dealer as
+ the Collateral Receiver
+ (Counterparty as the Collateral Provider) 
+
+Counterparty
+ as the Collateral Receiver (Dealer 
+ as the Collateral Provider) 
+
+ SEC 
+
+ Applicable 
+
+ Not Applicable 
+
+ SIMM Exception: Applicable, Mandatory Method 
+
+ General Principles:
+
+ (aa)
+In respect of a Collateral Provider and its obligations to post
+Margin Amount (SEC IM) hereunder, SEC will, subject to sub-paragraph (bb), only
+be “applicable” or “specified as applicable” for the purposes hereof from the first date (after taking into account the effect of the entirety of any
+initial margin threshold amount and any available deferral period for exceeding the initial margin 
+ threshold amount for the first time under SEC) on which either 
+ of the parties is required 
+ to collect initial margin from the other party under SEC (and only for
+as long as it does so); 
+
+ (bb)
+ISDA SIMM™ is the specified “ Method ”
+for the Covered Transaction (SEC IM), whereby:
+
+ (1) ISDA SIMM™ will refer to the version of ISDA
+SIMM™ applicable to Dealer; 
+
+ (2) the margin period of risk will be as provided for in such version of ISDA SIMM™; and 
+
+ (3) the “SIMM Calculation Currency” 
+ (also known as “SIMM Reporting Currency”) means:
+
+ 14/23 
+ [***] 
+ [***] 
+ [***] 
+
+ 14
+
+ (A)
+
+in respect of Dealer and its calculations, USD; and 
+
+ (B)
+ in respect of Counterparty and its calculations, Not Applicable; 
+
+ (cc)
+For the calculations in respect of the Covered Transaction (SEC IM), the
+relevant sensitivities to equity indices, funds and ETFs will be addressed by
+the standard preferred approach where the entire delta is put into the
+applicable asset class/category for equity indices, funds and ETFs. 
+
+Any failure by a party to use the applicable approach specified in this sub-paragraph (cc) in its determination of the Margin Amount (SEC IM) will not constitute an Event of Default, Potential Event of Default or Termination Event in respect of such party.
+
+ Covered Transaction (SEC IM) : Means this Transaction.
+
+ Margin Approach (SEC) . The parties agree to apply the Greater of Margin Flow (SEC IM/IA) Approach.
+
+ Threshold (SEC IM) : Means:
+
+ (i)
+
+ with respect to Dealer, not applicable; and
+
+ (ii)
+
+ with respect to Counterparty, $50,000,000.
+
+ Loss of Required Model Approval . If ISDA SIMM™ or another model, including a model operated by a third-party vendor or the other party, is to be used for any purposes hereunder and a party (i) does not receive approval (where at the date of this Confirmation the model is subject to an initial application for approval), (ii) loses an approval required from any governmental or regulatory authority for such use or (iii) such use is otherwise prohibited by a governmental or regulatory authority, then it will not constitute an Event of Default, Potential Event of Default or Termination Event under the Agreement and shall not affect the applicable Method with respect to SEC except to the extent (if any) specified in the SEC IM Table. 
+
+ Negative Interest Protocol:
+
+ Negative Interest Protocol . If a party to this Confirmation has adhered to ISDA 2014 Collateral Agreement Negative Interest Protocol published by ISDA on May 12, 2014 (the “ Negative Interest Protocol ”), it agrees that the CSA is a Protocol Covered Collateral Agreement as defined therein. If a party to this Confirmation has not adhered to the Negative Interest Protocol, it agrees that the definitions and provisions contained in the form of the Attachment to the Negative Interest Protocol are incorporated by reference into and apply to the CSA. For the purposes of this Confirmation, references in the Negative Interest Protocol definitions and provisions to a “Protocol Covered Collateral Agreement” will be deemed to be references to the CSA, and the Implementation Date will be deemed to be the date of this Confirmation.
+
+ Additional ISDA Provisions: 
+
+ 2002 Master Agreement Protocol:
+
+ Upon entering into this Confirmation, Counterparty shall be deemed to have adhered to the 2002 Master Agreement Protocol
+
+ 15/23 
+ [***] 
+ [***] 
+ [***] 
+
+ 15
+
+ and all Annexes thereto as published by ISDA and shall be bound by its terms and conditions.
+
+ Relationship Between Parties:
+
+ Each of Dealer and Counterparty represents to the other party as of the date of this Confirmation that:
+
+ (A)
+
+ Non-Reliance . It is acting for its own account, and it has made its own independent decisions to enter into the Transaction and as to whether the Transaction is appropriate or proper for it based upon its own judgment and upon advice from such advisers as it has deemed necessary. It is not relying on any communication (written or oral) of the other party as investment advice or as a recommendation to enter into the Transaction, it being understood that information and explanations related to the terms and conditions of the Transaction will not be considered investment advice or a recommendation to enter into the Transaction. No communication (written or oral) received from the other party will be deemed to be an assurance or guarantee as to the expected results of the Transaction;
+
+ (B)
+
+ Assessment and Understanding . It is capable of assessing the merits of and understanding (on its own behalf or through independent professional advice), and understands and accepts, the terms, conditions and risks of the Transaction. It is also capable of assuming, and assumes, the risks of the Transaction;
+
+ (C)
+
+ Status of Parties . The other party is not acting as a fiduciary for or an adviser to it in respect of the Transaction; and
+
+ (D)
+
+ Eligible Contract Participant . It is an “eligible contract participant” within the meaning of Section 1a(18) of the Commodity Exchange Act.
+
+ Specified Entity:
+
+ “Specified Entity” will not apply to Dealer or Counterparty for any purpose.
+
+ Additional Termination Events:
+
+ Additional Termination Events will apply. Each of the following shall constitute an Additional Termination Event:
+
+ No Plan Assets . On any day during the term of this Confirmation and Transaction, the assets of Counterparty are subject to Title I of the Employee Retirement Income Security Act of 1974, as amended (“ ERISA ”), Section 4975 of the Internal Revenue Code of 1986, as amended (the “ Code ”) or Similar Law. For the purpose of the foregoing Termination Event, Counterparty shall be the Affected Party.
+
+ “ Similar Law ” means any law, regulation, rule, policy, procedure or provision that is similar to Section 406 of ERISA or Section 4975 of the Code, including, without limitation, by reason of the investment of one or more governmental plans (within the meaning of Section 3(32) of ERISA) in Counterparty.
+
+ Failure to Deliver Financial Statements . Counterparty fails to deliver or provide its audited annual financial statements or its
+
+ 16/23 
+ [***] 
+ [***] 
+ [***] 
+
+ 16
+
+ unaudited quarterly financial statements within the timeframe specified herein. For the purpose of the foregoing Termination Event, Counterparty shall be the Affected Party.
+
+ Documents to be Delivered:
+
+ For the purpose of Section 4(a)(i) and (ii) of the ISDA Form, Counterparty agrees to deliver the following documents (each such document to be covered by the representation in Section 3(d) of the ISDA Form): (1) a copy of its most recent annual report containing the consolidated financial statements certified by independent certified public accountants and prepared in accordance with accounting principles that are generally accepted in the country in which Counterparty is organized no later than 125 calendar days after the end of each fiscal year and an unaudited consolidated balance sheet of Counterparty and, as applicable, any Credit Support Provider, (including the Net Asset Value of Counterparty) (the “ Quarterly Report ”) as of the end of each fiscal quarter of Counterparty, no later than 75 calendar days after the end of such fiscal quarter; (2) evidence of Counterparty’s authority to enter into this Confirmation and the authority and signature specimens of persons authorized to sign on behalf of Counterparty reasonably satisfactory to Dealer upon execution of this Confirmation; and (3) copies of its organizational documents, offering memorandum, investment management agreement, investment policies, procedures, restrictions, or guidelines upon execution of this Confirmation.
+
+ Other Terms:
+
+ The following provisions shall apply as if they had been elected to apply or incorporated in a Schedule to the ISDA Form:
+
+ Credit Event Upon Merger. The “Credit Event Upon Merger” provisions of Section 5(b)(v) of the ISDA Form shall not apply to Dealer and shall not apply to Counterparty.
+
+ Default Under Specified Transaction . The “Default under Specified Transaction” provisions of Section 5(a)(v) of the ISDA Form shall not apply to Dealer and shall not apply to Counterparty.
+
+ Automatic Early Termination. The “Automatic Early Termination” provisions of Section 6(a) of the ISDA Form will not apply to Dealer or Counterparty.
+
+ Termination Currency . United States Dollars.
+
+ Jurisdiction . Section 13(b) of the ISDA Form is amended by: (i) deleting in the second line of subparagraph (i)(2) thereof the word “non-” and adding “and any court with competent appellate jurisdiction over those courts’ decisions” at the end of subparagraph (i)(2); and (ii) deleting sub-paragraph (iii) thereof.
+
+ WAIVER OF JURY TRIAL. EACH PARTY HEREBY IRREVOCABLY WAIVES ITS RIGHT TO JURY TRIAL WITH RESPECT TO ANY OBLIGATION ARISING UNDER, OR IN CONNECTION WITH, THIS CONFIRMATION, THE TRANSACTION OR THE AGREEMENT.
+
+ 17/23 
+ [***] 
+ [***] 
+ [***] 
+
+ 17
+
+ FATCA. Withholding Tax imposed on
+ payments to non-US counterparties under the United States Foreign Account Tax
+ Compliance Act. Any “Tax”, in respect of any payment (other than interest under Section 9(h) 
+ of the ISDA 
+ Form) to be made by one party to the other party
+ hereunder, and any “Indemnifiable Tax” as defined 
+ in Section 14 of the 
+ ISDA Form shall 
+ not include any U.S. 
+ federal withholding tax 
+ imposed or collected pursuant to
+ Sections 1471 through 1474 of the Code, any current or future regulations or
+ official interpretations thereof, any agreement entered into pursuant to Section 1471(b) 
+ of the Code, 
+ or any fiscal or regulatory legislation, rules
+ or practices adopted pursuant to any intergovernmental agreement entered into in connection with the implementation of such
+ sections of the Code (a “ FATCA
+ Withholding Tax ”). For the avoidance of doubt, a FATCA Withholding Tax is
+ a Tax the deduction or withholding of which is required by applicable law for
+ the purposes of Section 2(d) of the ISDA Form.
+
+ 2015 
+ Section 871(m) Protocol. Dealer is an adherent to the ISDA 2015 Section 871(m) Protocol
+ published by ISDA on November 2, 2015, as may be amended or modified from
+ time to time (the “ Section 871(m) 
+ Protocol ”). In the event that 
+ Counterparty is not an adherent to the Section 871(m)
+ Protocol, Dealer and Counterparty hereby agree that the definitions and
+ provisions contained in the Section 871(m) Protocol, including the Attachment
+ thereto, will be deemed to be incorporated herein, mutatis mutandis , as though such definitions and provisions were set out in full herein, with such
+ conforming changes as are necessary to deal with what would otherwise be
+ inappropriate or incorrect cross-references. 
+ The parties further agree that the Implementation Date (as such term
+ is defined in the Section 871(m) Protocol) shall be the date of execution of
+ this Confirmation.
+
+ Reporting Consent . The
+ parties agree that solely as between Dealer 
+ and Counterparty, the definitions and 
+ provisions contained in the ISDA 2013 
+ Reporting Protocol published by ISDA on 
+ May 10 2013, including the Attachment thereto (the “ Reporting Protocol ”), will be deemed
+ to be incorporated herein, mutatis mutandis, as though such definitions and
+ provisions were set out in full herein, with such conforming changes as are
+ necessary to deal with what 
+ would otherwise be inappropriate or incorrect cross references. The 
+ parties further agree 
+ that the Implementation Date (as such term 
+ is defined in the Reporting Protocol) shall be the date of execution of this Confirmation.
+
+ ISDA August 2012 DF Protocol and ISDA
+ March 2013 DF Protocol. Notwithstanding anything to the contrary in the August DF Protocol Agreement or the August 
+ DF Protocol Questionnaire (collectively, the “ August DF Protocol Documents ”), or in
+ the March DF Protocol Agreement or the March DF Protocol Questionnaire (collectively, the “ March 
+ DF Protocol Documents ”), including anything therein that
+ provides in substance that such 
+ agreements may only 
+ be adhered to with
+
+ 18/23
+
+ [***] 
+
+ [***] 
+
+ [***] 
+
+ 18
+
+ respect to existing Protocol Covered Agreements, the parties hereby agree that:
+
+ (A)
+
+ if each party delivers its completed August DF Protocol Questionnaire in accordance with paragraph 3 of the August DF Protocol Agreement (the later of such dates, the “ August DF Protocol Matching Date ”), then (i) upon the later of (x) the August DF Protocol Matching Date and (y) the date of this Confirmation (or, if such dates are the same date, such date), for all purposes of the August DF Protocol Documents, such date will be the Implementation Date, this Confirmation, including the ISDA Form incorporated by reference herein, will be a Protocol Covered Agreement and a Matched PCA, and Dealer and Counterparty will be Matched PCA Parties; and
+
+ (B)
+
+ if each party delivers its completed March DF Protocol Questionnaire in accordance with paragraph 3 of the March DF Protocol Agreement (the later of such dates, the “ March DF Protocol Matching Date ”), then (i) upon the later of (x) the March DF Protocol Matching Date and (y) the date of this Confirmation (or, if such dates are the same date, such date), for all purposes of the March DF Protocol Documents, such date will be the Implementation Date, this this Confirmation, including the ISDA Form incorporated by reference herein, will be a Protocol Covered Agreement and a Matched PCA, and Dealer and Counterparty will be Matched PCA Parties.
+
+ For purposes hereof, (i) the “ August DF Protocol Agreement ” means the ISDA August 2012 DF Protocol Agreement, published on August 13, 2012, by ISDA, (ii) the “ August DF Protocol Questionnaire ” means the ISDA August 2012 DF Protocol Questionnaire, published on August 13, 2012 by ISDA, (iii) the “ March DF Protocol Agreement ” means the ISDA March 2013 DF Protocol Agreement, published on March 22, 2013, by ISDA and (iv) the “ March DF Protocol Questionnaire ” means the ISDA March 2013 DF Protocol Questionnaire, published on March 22, 2013 by ISDA.
+
+ Notwithstanding anything to the contrary in the ISDA 2021 SBS Top-Up Protocol published by the International Swaps and Derivatives Association, Inc. on May 3, 2021, (the “ SBS Top-Up Protocol ”), if each party has adhered or has deemed to have adhered to both the ISDA August 2012 DF Protocol and the ISDA March 2013 DF Protocol and previously delivered its completed ISDA August 2012 DF Protocol Questionnaire and ISDA March 2013 DF Protocol Questionnaire in accordance with paragraphs 3 of each of the ISDA August 2012 DF Protocol Agreement and the March 2013 DF Protocol Agreement (collectively, “ Protocol Covered Agreements ”), then as of the date of this Agreement, the Protocol Covered Agreements will be amended pursuant to the terms of Appendix 1 and Appendix 2 to the SBS Top-Up Protocol for all purposes of the SBS Top-Up Protocol, and such date will be the Amended Effective Date.
+
+ 19/23
+
+ [***] 
+
+ [***] 
+
+ [***] 
+
+ 19
+
+ Japan Jurisdictional Module of the ISDA Resolution Stay Jurisdictional Modular Protocol. The terms of the Japan Jurisdictional Module of the ISDA Resolution Stay Jurisdictional Modular Protocol (the “ Japan Module ”) are incorporated into and form part of this Agreement, and this Agreement shall be deemed to be a Covered Agreement for purposes of the Japan Module. In the event of any inconsistencies between this Agreement and the Japan Module, the Japan Module will prevail. Dealer has adhered to the Japan Module as a Regulated Entity, and upon entering into this Agreement Counterparty shall be deemed to have adhered to the Japan Module as a Module Adhering Party and identified Dealer as a Regulated Entity Counterpart.
+
+ Miscellaneous:
+
+ Credit Support Document: 
+
+ In the case of Dealer, (i) the CSA and (ii) the Guarantee, dated on or about the date hereof, made by its Credit Support Provider in favor of Counterparty. Dealer shall use its best efforts to deliver such guarantee within ten Business Days of the date hereof. In the case of Counterparty, (i) the CSA and (ii) a guarantee from its Credit Support Provider in a form reasonably acceptable to Dealer.
+
+ Credit Support Provider:
+
+ In relation to Dealer: [***] 
+
+ In relation to Counterparty: KKR North America Fund XIV SCSp
+
+ Governing Law:
+
+ The Agreement and any non-contractual obligations arising out of or in relation to the Agreement will be governed by and construed in accordance with the laws of the State of New York (without reference to choice of law doctrine).
+
+ Office:
+
+ For the purposes of the Transaction, Dealer is not a Multibranch Party, and Counterparty is not a Multibranch Party.
+
+ Counterparts:
+
+ This Confirmation may be executed in two or more counterparts, each of which shall be deemed an original, but all of which taken together shall constitute one and the same instrument.
+
+ [ signature page follows ] 
+
+ 20/23 
+ [***] 
+ [***] 
+ [***] 
+
+ 20
+
+ Please confirm that the foregoing correctly sets forth the terms of our agreement by executing this Confirmation and returning it to us.
+
+ [***] 
+
+ By:
+
+ /s/ [***] 
+
+ Name: [***] 
+
+ Title: [***] 
+
+ Confirmed and Acknowledged as of the date first above written:
+
+ TARHEEL INVESTORS III L.P. 
+
+ By: Tarheel Investors III GP LLC, its general partner
+
+ By:
+
+ /s/ [***] 
+
+ Name: [***] 
+
+ Title: [***] 
+
+ [ Signature Page to Share Swap Transaction Confirmation (cash) ]
+
+ 21
+
+ SCHEDULE A 
+
+ ADJUSTMENT NOTICE 
+
+ Date:
+
+ _________, 202[●]
+
+ To:
+
+ Tarheel Investors III L.P. (“ Counterparty ”)
+
+ From:
+
+ [***] (“ Dealer ”)
+
+ Dear Sir or Madam:
+
+ Reference is made to the Share Swap Transaction Confirmation (Cash-Settled) dated as of January 7, 2026, between Dealer and Counterparty (the “ Confirmation ”). Capitalized terms used herein and not otherwise defined herein have the respective meanings provided in the Confirmation.
+
+ This Adjustment Notice is delivered by Dealer pursuant to the Confirmation in order to notify Counterparty of certain adjustments to certain terms of the Confirmation, as of the date(s) listed below.
+
+ Adjustment Date 
+
+ Increased Number of Shares 
+
+ Applicable Initial Price ($) 
+
+ Each of Dealer and Counterparty acknowledges to and agrees with the other party and to and with the Agent that [***] (the “ Agent ”) is acting as agent for Dealer under the Transactions pursuant to instructions from such party. Agent may have been paid a fee by Dealer in connection with the Transaction. Further details will be furnished upon written request. The time of dealing will be confirmed by Dealer upon written request. Dealer is not a member of the Securities Investor Protection Corporation.
+
+ Yours faithfully,
+
+ [***] 
+
+ By:
+
+ Name:
+
+ Title:
+
+ 22/23
+ [***] 
+ [***] 
+ [***] 
+
+ 22
+
+ SCHEDULE B 
+
+ TRADE INFORMATION 
+
+ 23/23
+ [***] 
+ [***] 
+ [***]

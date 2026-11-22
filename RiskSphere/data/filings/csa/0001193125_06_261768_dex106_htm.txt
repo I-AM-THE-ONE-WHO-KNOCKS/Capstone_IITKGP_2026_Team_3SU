@@ -1,0 +1,1831 @@
+EX-10.6
+ 7
+ dex106.htm
+ ISDA CREDIT SUPPORT ANNEX TO THE SCHEDULE TO THE ISDA MASTER AGREEMENT
+
+ ISDA Credit Support Annex to the Schedule to the ISDA Master Agreement 
+
+ Exhibit 10.6 
+
+ (Bilateral Form) 
+
+ (ISDA Agreements Subject to New York Law Only) 
+
+ ISDA® 
+ International Swaps and Derivatives Association, Inc. 
+ CREDIT SUPPORT ANNEX 
+ to the Schedule to the 
+ ISDA Master
+Agreement 
+ Dated as of December 14, 2006 
+ between 
+
+ THE BANK OF NEW YORK 
+
+ and 
+
+ WELLS FARGO BANK, N.A, 
+ not in its individual
+capacity, but solely as Securities Administrator on behalf of the SG Mortgage Securities Trust 2006-OPT2 
+
+ established as a banking organization under the laws of the State of New York 
+
+ The Trust is a common law trust established under the laws of the State of New York. 
+
+ (“Party A”) 
+
+ (“Party B”) 
+
+ This Annex supplements, forms part of, and is subject to, the above-referenced Agreement, is part of its Schedule
+and is a Credit Support Document under this Agreement with respect to Party A. 
+ Accordingly, the parties agree as follows:— 
+ Paragraphs 1 - 12. Incorporation. Paragraphs 1 through 12 inclusive of the ISDA Credit Support Annex (Bilateral Form) (ISDA Agreements Subject to New York Law
+Only) published in 1994 by the International Swaps and Derivatives Association, Inc. are incorporated herein by reference and made a part hereof, except that Paragraph 1(b) is hereby amended in its entirety to read as follows: 
+ “(b) Secured Party and Pledgor . Notwithstanding anything contained in this Annex to the contrary, (a) the term “Secured Party” as used in this
+Annex means only Party B, (b) the term “Pledgor” as used in this Annex means only Party A, (c) only Party A makes the pledge and grant in Paragraph 2, the acknowledgment in the final sentence of Paragraph 8(a) and the
+representations in Paragraph 9, and (d) only Party A will be required to make Transfers of Eligible Credit Support hereunder.” 
+
+ A-1 
+
+ Paragraph 13. 
+ Certain Definitions . As used herein, “ Fitch ”, “ Moody’s ”, “ S&P ”, “ Rating Agency ”, “ Collateralization
+Event ”, “ Fitch Collateralization Event ”; “ Moody’s Collateralization Event ”, “ S&P Collateralization Event ”; “ Ratings Event ”,
+“ Fitch Ratings Event ”, “ Moody’s Ratings Event ”, and “ S&P Ratings Event ” have the meanings assigned in the Schedule. 
+ (a) Security Interest for “ Obligations .” The term “ Obligations ” as
+used in this Annex includes the following additional obligations: Not applicable. 
+
+ (b) 
+ Credit Support Obligations. 
+ (i)
+ Delivery Amount, Return Amount and Credit Support Amount. 
+ (A) “ Delivery Amount ” has the
+meaning specified in Paragraph 3(a) except that the words “upon a demand made by the Transferee on or promptly following a Valuation Date” shall be deleted and replaced by the words “on each Valuation Date commencing no later than the
+Local Business day next following the Valuation Date falling, in the case of a Collateralization Event, on the 30th Local Business Day (or, in the case of an S&P Collateralization Event, the 30th day or the next day thereafter that is a Local
+Business Day), or, in the case of a Ratings Event, promptly, after publication by the applicable Rating Agency of the applicable change in rating,”. 
+ (B) “ Return Amount ” has the meaning specified in Paragraph 3(b). 
+ (C)
+ “ Credit Support Amount ” in Paragraph 3(b), shall be amended in its entirety to read as follows: 
+ “‘ Credit Support Amount ’ means, unless otherwise specified in Paragraph 13, for any Valuation Date after and during the continuance of a Collateralization Event or Ratings Event, (i) the Secured
+Party’s Exposure for that Valuation Date, plus (ii) the aggregate of all Independent Amounts applicable to the Pledgor, if any, minus (iii) all Independent Amounts applicable to the Secured Party, if any, minus 
+(iv) the Pledgor’s Threshold; provided , however , that the Credit Support Amount will be deemed to be zero whenever the calculation of the Credit Support Amount yields a number less than zero; and, provided 
+ further , that the Credit Support Amount will not be less than the amount of in respect of a Moody’s Rating Event, the next scheduled Payment in respect of the Affected Transactions to be made by the Pledgor. 
+ (ii) Eligible Collateral. The items set forth in Schedule 1 will qualify as “ Eligible Collateral ” for
+Party A. If any Certificates are outstanding under the Pooling and Servicing Agreement and are rated by more than one Rating Agency and a Collateralization Event with respect to each such Rating Agency has occurred and is continuing, the Valuation
+Percentage shall equal the lowest of the applicable percentages specified therein; provided , that , the Valuation Percentage may equal the highest of the applicable amounts determined as set forth above if the Rating Condition of each
+Rating Agency is satisfied with respect with respect thereto. 
+ (iii) Other Eligible Support. The following items will qualify
+as “ Other Eligible Support ” for the party specified: Not Applicable. 
+ (iv) Thresholds. 
+
+ (A) “ Independent Amount ” means with respect to Party B: Zero; and, with respect to Party A: an
+amount, as of the date of determination, equal to the product of the aggregate Notional Amount outstanding at the beginning of the related Calculation Period under the applicable Affected Transactions, and: 
+
+ (1) 
+ in respect of a Moody’s Collateralization Event, the lesser of (x) 2% (for daily valuation) or 4% (for weekly valuation) or (y) the Moody’s Increase Factor at
+First Trigger, and, in respect of a 
+
+ A-2 
+
+ Moody’s Ratings Event, the lesser of (x) 8% (for daily valuation) or 9% (for weekly valuation)
+or (y) the Moody’s Increase Factor at Second Trigger; and 
+
+ (2) 
+ in respect of an S&P Collateralization Event or an S&P Ratings Event, (x) with respect to basis swaps, the product of the S&P Volatility Buffer and .10, and
+(y) with respect to all other Transactions the S&P Volatility Buffer; and 
+
+ (3) 
+ in respect of a Fitch Collateralization Event or a Fitch Ratings Event, the Fitch Volatility Cushion. 
+ As used herein, the “ Moody’s Increase Factor ” will be determined using the table set forth in Schedule 2; the
+“ S&P Volatility Buffer ” will be determined using the tables set forth in Schedule 3; and the “ Fitch Volatility Cushion ” will be determined using the tables set forth in Schedule 4. If any
+Certificates are outstanding under the Pooling and Servicing Agreement and are rated by more than one Rating Agency and a Collateralization Event with respect to each such Rating Agency has occurred and is continuing, the Independent Amount of Party
+A shall equal the highest of the applicable amounts determined as set forth above; provided , that the Independent Amount may equal the lowest of the applicable amounts determined as set forth above if the Rating Condition of each Rating
+Agency is satisfied with respect with respect thereto. 
+ (B) “ Threshold ” means for each party: An
+infinite number; provided, that the Threshold for Party A shall be zero upon the occurrence and during the continuance of an Event of Default, Termination Event, Additional Termination Event, Ratings Event, Collateralization Event (provided that,
+with respect to a Collateralization Event, such event shall have continued for at least 30 days) or Specified Condition with respect to such party. 
+ (C) “ Minimum Transfer Amount ” means with respect to Party A and Party B: $100,000; provided , that the Minimum Transfer Amount for such party shall be $50,000 in respect of an S&P
+Collateralization Event if the aggregated principal balance of the Certificates is less than $50,000,000 on the applicable Valuation Date, and shall be zero upon the occurrence and during the continuance of an Event of Default, Termination Event,
+Additional Termination Event, or Specified Condition with respect to such party. 
+ (D) Rounding. The Delivery Amount and the Return
+Amount will be rounded up and down respectively to the nearest integral multiple of $10,000. 
+
+ (c) 
+ Valuation and Timing . 
+
+ (i) 
+ “ Valuation Agent ” means, Party A, provided , that if any Event of Default with respect to Party A has occurred and is continuing, then
+any designated third party mutually agreed to by the parties shall be the Valuation Agent until such time as Party A is no longer a Defaulting Party. 
+
+ (ii) 
+ “ Valuation Date ” means, at the election of Party A, either: 
+ x each Local Business Day, or 
+ ¨ any Local Business Day in each calendar week, which shall be the same calendar day each week to the extent
+practicable, on a reasonably consistent basis. 
+
+ (iii) 
+ “Valuation Time” means: 
+ ¨ the close of business in the city of the Valuation Agent on the Valuation Date or date of calculation, as applicable; 
+ x the close of business on the Local Business Day before the Valuation Date or date of calculation, as applicable;
+ provided , that the calculations of Value and Exposure will be made as of approximately the same time on the same date. 
+
+ A-3 
+
+ (iv) 
+ “ Notification Time ” means 1:00 p.m., New York time, on a Local Business Day. 
+ (d) Conditions Precedent and Secured Party’s Rights and Remedies. (i) Illegality, and (ii) Additional Termination Events will be a
+ “ Specified Condition ” for Party A (as the Affected Party) (but not for purposes of Paragraph 8(d)), and (iii) Tax Event and (iv) Tax Event Upon Merger will not be a “ Specified
+Condition for Party A. 
+
+ (e) 
+ Substitution . 
+ (i)
+ “ Substitution Date ” has the meaning specified in Paragraph 4(d)(ii). 
+ (ii) Consent. 
+ If specified here as applicable, then the Pledgor must obtain the Secured Party’s consent for any substitution pursuant to Paragraph 4(d): Applicable. 
+
+ (f) 
+ Dispute Resolution . 
+ (i)
+ “ Resolution Time ” means 1:00 p.m., New York time, on the Local Business Day following the date on which the notice is given that gives rise to a dispute under Paragraph 5. 
+ (ii) Value. For the purpose of Paragraphs 5(i)(C) and 5(ii), the Value of Posted Credit Support will be calculated as follows: as set
+forth for other purposes in Paragraph 12. 
+ (iii) Alternative. The provisions of Paragraph 5 will apply, except to the
+following extent: (A) pending the resolution of a dispute, Transfer of the undisputed Value of Eligible Credit Support or Posted Credit Support involved in the relevant demand will be due as provided in Paragraph 5 if the demand is given by the
+Notification Time, but will be due on the second Local Business Day after the demand if the demand is given after the Notification Time; and (B) the Disputing Party need not comply with the provisions of Paragraph 5(II)(2) if the amount to be
+Transferred does not exceed the Disputing Party’s Minimum Transfer Amount. 
+
+ (g) 
+ Holding and Using Posted Collateral . 
+ (i)
+ Eligibility to Hold Posted Collateral; Custodians. The Secured Party will not be entitled to hold Posted Collateral itself. The Secured Party will be hold Posted Collateral through a Custodian (which may be the Trustee and which shall
+at all times be a financial institution as specified under the Pooling and Servicing Agreement, or, if not so specified, which shall be a commercial bank or trust company which is unaffiliated with Party B organized under the laws of the United
+States or any state thereof, having assets of at least $10 billion and a long term debt or a deposit rating of at least (i) Baa2 from Moody’s and (ii) BBB from S&P, in an identifiable segregated account (provided that, so long as
+the Certificates are rated by S&P, the Custodian must have a short-term debt or deposit rating of at least A-1 from S&P). 
+ Initially, the Custodian for Party B is: Wells Fargo Bank, N.A. 
+ (ii) Use of Posted Collateral. The provisions
+of Paragraph 6(c) will apply to the Secured Party; therefore, Party B will not have any of the rights specified in Paragraph 6(c)(i) or 6 (c)(ii). 
+
+ (h) 
+ Distributions and Interest Amount . 
+ (i)
+ Interest Rate. The “Interest Rate”, with respect to Eligible Collateral in the form of Cash will be , if the Custodian or Trustee is instructed to invest Cash Posted Collateral as provided in Paragraph 13(l)(vii), the
+rate actually earned on the Cash Posted Collateral or, if the Pledgor instructs that the Cash Posted Collateral not be invested, an amount equal to the contractual rate of interest entitled to be received on such amounts from the Swap Collateral
+Account (as hereinbelow defined), as applicable; provided, that, if the Swap Collateral Account does not pay interest and the Custodian or Trustee is not obligated to invest Cash Posted Collateral under the Pooling and Servicing Agreement, 
+
+ A-4 
+
+ the “Interest Rate” will be, for any day, the rate opposite the caption “Federal Funds (Effective)” for such day as published for such
+day in Federal Reserve Publication H.15(519) or any successor publication as published by the Board of Governors of the Federal Reserve System or such other rate as agreed by the parties. 
+ (ii) Transfer of Interest Amount. The Transfer of the Interest Amount: will be made (x) with respect to earnings from Eligible
+Investments pursuant to Part 13(l)(vii) or from the interest on the Swap Collateral Account pursuant to Part 13(h)(i), on such date as accrued and received (or if so agreed, on the first Local Business Day of each calendar month) and on any Local
+Business Day that Posted Collateral in the form of Cash is Transferred to the Pledgor pursuant to Paragraph 3(b), and (y) with respect to any other Interest Amount, subject to the availability of interest and earnings on the Mortgage Loans
+therefor, on the first Local Business Day of each calendar month and on any Local Business Day that Posted Collateral in the form of Cash is Transferred to the Pledgor pursuant to Paragraph 3(b). 
+ (iii) Alternative to Interest Amount. The provisions of Paragraph 6(d)(ii) will apply. 
+
+ (i) 
+ Other Eligible Support and Other Posted Support . 
+ (i) “ Value ” with respect to Other Eligible Support and Other Posted Support means: Inapplicable. 
+ (ii) “ Transfer ” with respect to Other Eligible Support and Other Posted Support means: Inapplicable. 
+ (j)
+ Demands and Notices. All demands, specifications and notices under this Annex will be made pursuant to the Notices Section of this Agreement, unless otherwise specified here: 
+
+ (i) 
+
+ Party A: 
+
+ to be specified in each notice. 
+
+ (ii) 
+
+ Party B: 
+
+ Address: 
+
+ Wells Fargo Bank, N.A., 
+
+ not in its individual capacity, but solely as Securities Administrator on behalf of the SG Mortgage Securities Trust 2006-OPT2 
+ 9062 Old Annapolis Road 
+ Columbia, Maryland 21045 
+
+ Attention: 
+
+ Client Manager 
+
+ Facsimile: 
+
+ (410) 715-2380 Telephone: (410) 884-2000 
+
+ (k) 
+ Addresses for Transfers. 
+
+ Party A: 
+
+ For Cash: To be provided 
+
+ For Eligible Collateral: To be provided 
+
+ Party B: 
+
+ Wells Fargo Bank, N.A. 
+
+ San Francisco, CA 
+
+ ABA # 121-000-248. 
+
+ Acct. # 3970771416 
+
+ Acct. Name: SAS Clearing 
+
+ FFC: 50971902 - Swap Account 
+
+ (l) 
+ Other Provisions . 
+
+ (i) 
+ Additional Definitions . As used in this Annex:— 
+ “ Equivalent Collateral ” means, with respect to any security constituting Posted Collateral, a security of the same issuer and, as applicable, representing or having the same class, series, maturity, interest rate,
+principal amount or liquidation value and such other provisions as are necessary for that security and the security constituting Posted Collateral to be treated as equivalent in the market for such securities; 
+
+ A-5 
+
+ “ Local Business Day ” means: (i) any day on which commercial banks are open
+for business (including dealings in foreign exchange and foreign currency deposits) in New York, and (ii) in relation to a Transfer of Eligible Collateral, a day on which the clearance system agreed between the parties for the delivery of
+Eligible Collateral is open for acceptance and execution of settlement instructions (or in the case of a Transfer of Cash or other Eligible Collateral for which delivery is contemplated by other means, a day on which commercial banks are open for
+business (including dealings for foreign exchange and foreign currency deposits) in New York and such other places as the parties shall agree); 
+
+ (ii) 
+ Transfer Timing. 
+ (A) Paragraph 4(b) shall
+be deleted and replaced in its entirety by the following paragraph: “Subject to Paragraphs 4(a) and 5 and unless otherwise specified, if a demand for the Transfer of Eligible Credit Support or Posted Credit Support is made by the Notification
+Time, then the relevant Transfer will be made not later than the close of business on the second Local Business Day thereafter; if a demand is made after the Notification Time then the relevant Transfer will be made not later than the close of
+business on the third Local Business Day thereafter.” 
+ (B) Paragraph 6(d)(1) shall be amended so that the reference therein to
+“the following Local Business Day” shall be replaced by reference to “the second Local Business Day thereafter”. 
+ (iii) Events of
+Default. Paragraph 7 shall be deleted and replaced in its entirety by the following paragraph: 
+ “For the purposes of
+Section 5(a)(i) of this Agreement, an Event of Default will exist with respect to a party if that party fails (or fails to cause its Custodian) to make, when due, any Transfer of Eligible Credit Support, Posted Credit Support or the Interest
+Amount, as applicable, required to be made by it and that failure continues for two Local Business Day after the notice of that failure is given to that party; provided , that , with respect to a failure to Transfer Eligible Credit
+Support, at least (x) 30 Local Business Days have elapsed after a Moody’s Ratings Event has occurred and (y) 10 Business Days have elapsed after an S&P Ratings Event, and such failure is not remedied on or before the third Local
+Business Day after notice of such failure is given to Party A”. 
+ (iv) Return of Fungible Securities. In lieu of returning
+to the Pledgor pursuant to Paragraphs 3(b), 4(d), 5 and 8(d) any Posted Collateral comprising securities the Secured Party may return Equivalent Collateral. 
+ (v) No Counterclaim. A party’s rights to demand and receive the Transfer of Eligible Collateral as provided hereunder and its rights as Secured Party against the Posted Collateral or otherwise shall
+be absolute and subject to no counterclaim, set-off, deduction or defense in favor of the Pledgor except as contemplated in Sections 2 and 6 of the Agreement and Paragraph 8 of this Annex. 
+ (vi) Holding Collateral . The Secured Party shall cause any Custodian appointed hereunder to open and maintain a segregated account and to
+hold, record and identify all the Posted Collateral in such segregated account and, subject to Paragraphs 6(c) and 8(a), such Posted Collateral shall at all times be and remain the property of the Pledgor and shall at no time constitute the property
+of, or be commingled with the property of, the Secured Party or the Custodian. 
+ (vii) Investment of Cash Posted Collateral. 
+Cash Posted Collateral shall be invested in Eligible Investments as directed by Party A, with gains and losses incurred in respect of such investments to be for the account of Party A, subject to the following parameters: the Cash Posted Collateral
+shall be invested in such overnight (or redeemable within two 
+
+ A-6 
+
+ Local Business Days of demand) investments rated at least A-1+ by S&P and Prime -1 by Moody’s or AAAm or AAAmG by S&P and Aaa by Moody’s as
+directed by Party A (provided, that such investment shall be held uninvested or invested at the direction of Party B if an Event of Default or an Additional Termination Event has occurred with respect to which Party A is the defaulting or sole
+Affected Party and Party B has designated an Early Termination Date with respect thereto). Such instructions may be delivered as standing instructions. 
+ (viii) Return of Posted Collateral. At any time a Collateralization Event or Ratings Event has occurred and is continuing with respect to Party A, Party A shall be obligated to transfer Eligible
+Collateral in accordance with the terms of this Annex. If a Collateralization Event or Rating Event occurs and thereafter ceases to be continuing (and provided that no Event of Default or Potential Event of Default exists with respect to Party A) or
+Party A has made a Permitted Transfer under this Agreement, then Party A’s obligations to transfer Eligible Collateral under this Annex will immediately cease with respect to that Collateralization Event, and Party B will, upon demand by Party
+A, return to Party A, or cause its Custodian to return, all Posted Collateral held under this Annex. The Secured Party is authorized to liquidate any Posted Collateral pursuant to written instructions from Party A. 
+ (ix) External Verification of Mark-to-Market Valuations. If the long term senior unsecured debt of Party A is rated BBB or lower by S&P
+or Fitch, once every month after (x) an S&P Ratings Event occurs and during its continuance, and (y) after a Fitch Collateralization Event occurs and during its continuance and the ratings of Party A at any time fall below BBB+ and F2,
+Party A will at its own expense verify its determination of Exposure of the Transaction on the next Valuation Date by seeking quotations from two (2) Reference Market-makers (provided, that a Reference Market-maker may not be used more than
+four times within each 12 month period) for their determination of Exposure of the Transaction on such Valuation Date and the Valuation Agent will use the greater of either (a) its own determination or (b) the high quotation for a
+Reference Market-maker, if applicable for the next Valuation Date. Party A shall provide the quotations of such Reference Market-makers to S&P and Fitch. 
+ (x) Expenses. Notwithstanding Paragraph 10, the Pledgor will be responsible for, and will reimburse the Secured Party for, all transfer and other taxes and other costs involved in the transfer of
+Eligible Collateral 
+ (xi) Limit on Secured Party’s Liability. The Secured Party will not be liable for any losses or
+damages that the Pledgor may suffer as a result of any failure by the Secured Party to perform, or any delay by it in performing, any of its obligations under this Annex if the failure or delay results from circumstances beyond the reasonable
+control of the Secured Party or its Custodian, such as interruption or loss of computer or communication services, labor disturbance, natural disaster or local or national emergency. 
+ [Signature page immediately follows] 
+
+ A-7 
+
+ IN WITNESS WHEREOF the parties have executed this Credit Support Annex on the respective dates specified
+below with effect from the date on the first page. 
+
+ THE BANK OF NEW YORK 
+
+ WELLS FARGO BANK, N.A, not in its individual capacity, but solely as Securities Administrator on behalf of the SG Mortgage Securities Trust 2006-OPT2 
+
+ By: 
+
+ /s/ Stephen M. Lawler 
+
+ By: 
+
+ /s/ Raymond Delli Colli 
+
+ Name: 
+
+ Stephen M. Lawler 
+
+ Name: 
+
+ Raymond Delli Colli 
+
+ Title: 
+
+ Managing Director 
+
+ Title: 
+
+ Vice President 
+
+ Date: 
+
+ December 14, 2006 
+
+ Date: 
+
+ December 14, 2006 
+
+ A-8 
+
+ S CHEDULE 1 
+ E LIGIBLE C OLLATERAL 
+ Certificates: SG Mortgage Securities Trust 2006-OPT2, Asset-Backed
+Certificates, Series 2006-OPT2 
+ Valuation Date (and Valuation Percentage column): Daily 
+ Eligible Collateral & Valuation Percentages 
+ Moody’s and S&P
+
+ Valuation Percentage* 
+
+ Moody’s 
+
+ S&P 
+
+ Collateralization
+Event 
+
+ Rating
+Event 
+
+ (A) 
+
+ Cash : U.S. Dollars in depositary account form 
+
+ 100 
+ % 
+
+ 100 
+ % 
+
+ 100 
+
+ (B) 
+
+ U.S. Treasury Securities : negotiable debt obligations issued by the U.S. Treasury Department after July 18, 1984 (“ Treasuries ”) having a remaining maturity of up
+to and not more than 1 year. 
+
+ 100 
+ % 
+
+ 100 
+ % 
+
+ 98.9 
+
+ (C) 
+
+ Treasuries having a remaining maturity of greater than 1 year but not more than 2 years. 
+
+ 100 
+ % 
+
+ 99 
+ % 
+
+ 98 
+
+ (D) 
+
+ Treasuries having a remaining maturity of greater than 2 years but not more than 3 years. 
+
+ 100 
+ % 
+
+ 98 
+ % 
+
+ 97.4 
+
+ (E) 
+
+ Treasuries having a remaining maturity of greater than 3 years but not more than 5 years. 
+
+ 100 
+ % 
+
+ 97 
+ % 
+
+ 95.5 
+
+ (F) 
+
+ Treasuries having a remaining maturity of greater than 5 years but not more than 7 years. 
+
+ 100 
+ % 
+
+ 95 
+ % 
+
+ 93.7 
+
+ (G) 
+
+ Treasuries having a remaining maturity of greater than 7 years but not more than 10 years. 
+
+ 100 
+ % 
+
+ 94 
+ % 
+
+ 92.5 
+
+ (H) 
+
+ Treasuries having a remaining maturity of greater than 10 years but not more than 20 years. 
+
+ 100 
+ % 
+
+ 89 
+ % 
+
+ 91.1 
+
+ (I) 
+
+ Treasuries having a remaining maturity of greater than 20 years but not more than 30 years. 
+
+ 100 
+ % 
+
+ 87 
+ % 
+
+ 88.6 
+
+ (J) 
+
+ Agency Securities : negotiable debt obligations of the Federal National Mortgage Association (FNMA), Federal Home Loan Mortgage Corporation (FHLMC), Federal Home Loan Banks (FHLB), Federal
+Farm Credit Banks (FFCB), Tennessee Valley Authority (TVA) (collectively, “ Agency Securities ”) issued after July 18, 1984 and having a remaining maturity of not more than 1 year. 
+
+ 100 
+ % 
+
+ 99 
+ % 
+
+ 98.5 
+
+ (K) 
+
+ Agency Securities having a remaining maturity of greater than 1 year but not more than 2 years. 
+
+ 100 
+ % 
+
+ 98 
+ % 
+
+ 97.7 
+
+ (L) 
+
+ Agency Securities having a remaining maturity of greater than 2 years but not more than 3 years. 
+
+ 100 
+ % 
+
+ 97 
+ % 
+
+ 97.3 
+
+ (M) 
+
+ Agency Securities having a remaining maturity of greater than 3 years but not more than 5 years. 
+
+ 100 
+ % 
+
+ 96 
+ % 
+
+ 94.5 
+
+ (N) 
+
+ Agency Securities having a remaining maturity of greater than 5 years but not more than 7 years. 
+
+ 100 
+ % 
+
+ 94 
+ % 
+
+ 93.1 
+
+ (O) 
+
+ Agency Securities having a remaining maturity of greater than 7 years but not more than 10 years. 
+
+ 100 
+ % 
+
+ 93 
+ % 
+
+ 90.7 
+
+ A-1-1 
+
+ Eligible Collateral & Valuation Percentages 
+ Moody’s and S&P 
+
+ Valuation Percentage* 
+
+ Moody’s 
+
+ S&P 
+
+ Collateralization
+Event 
+
+ Rating
+Event 
+
+ (P) 
+
+ Agency Securities having a remaining maturity of greater than 10 years but not more than 20 years. 
+
+ 100 
+ % 
+
+ 88% 
+
+ 87.7 
+
+ (Q) 
+
+ Agency Securities having a remaining maturity of greater than 20 years but not more than 30 years. 
+
+ 100 
+ % 
+
+ 86% 
+
+ 84.4 
+
+ (R) 
+
+ FHLMC Certificates . Mortgage participation certificates issued by FHLMC evidencing undivided interests or participations in pools of first lien conventional or FHA/VA residential
+mortgages or deeds of trust, guaranteed by FHLMC, issued after July 18, 1984 and having a remaining maturity of not more than 30 years. 
+
+ 100 
+ % 
+
+ 86%
+(weekly
+valuation) 
+
+ (S) 
+
+ FNMA Certificates . Mortgage-backed pass-through certificates issued by FNMA evidencing undivided interests in pools of first lien mortgages or deeds of trust on residential
+properties, guaranteed by FNMA, issued after July 18, 1984 and having a remaining maturity of not more than 30 years. 
+
+ 100 
+ % 
+
+ 86%
+(weekly
+valuation) 
+
+ (T) 
+
+ GNMA Certificates . Mortgage-backed pass-through certificates issued by private entities, evidencing undivided interests in pools of first lien mortgages or deeds of trust on single
+family residences, guaranteed by the Government National Mortgage Association (GNMA) with the full faith and credit of the United States, issued after July 18, 1984 and having a remaining maturity of not more than 30 years. 
+
+ 100 
+ % 
+
+ 86%
+(weekly
+valuation) 
+
+ (U) 
+
+ Commercial Mortgage-Backed Securities . Floating rate commercial mortgage-backed securities rated AAA by two major rating agencies (including S&P so long as it is a Rating Agency
+hereunder) with a minimum par or face amount of $250 million (excluding securities issued under Rule 144A) (“ Commercial Mortgage-Backed Securities ”) having a remaining maturity of not more than 5 years. 
+
+ 96.2 
+
+ 95.1 
+
+ (V) 
+
+ Commercial Mortgage-Backed Securities having a remaining maturity of more than 5 years and not more than 10 years. 
+
+ 92.9 
+
+ 90.9 
+
+ (W) 
+
+ Commercial Mortgage-Backed Securities having a remaining maturity of more than 10 years. 
+
+ 91.0 
+
+ 88.6 
+
+ (X) 
+
+ Commercial Paper . Commercial Paper with a rating of at least P-1 by Moody’s and at least A-1+ by S&P and having a remaining maturity of not more than 30 days. 
+
+ 100 
+ % 
+
+ 99% 
+
+ 99 
+
+ (Y) 
+
+ Other Items of Credit Support approved by the Rating Agencies to the extent any Certificates are rated. 
+
+ * 
+
+ * 
+
+ * 
+ percentage to be determined. 
+
+ A-1-2 
+
+ Eligible Collateral & Valuation Percentages 
+ Fitch 
+
+ Valuation Percentage* 
+ (Rating of Certificates) 
+
+ AAA 
+
+ AA 
+
+ A 
+
+ BBB 
+
+ (A) 
+
+ Cash : U.S. Dollars in depositary account form 
+
+ 100 
+ % 
+
+ 100 
+ % 
+
+ 100 
+ % 
+
+ 100 
+ % 
+
+ (B) 
+
+ U.S. Treasury Securities : negotiable debt obligations issued by the U.S. Treasury Department after July 18, 1984 (“ Treasuries ”) having a remaining maturity of
+up to and not more than 1 year. 
+
+ 97.5 
+ % 
+
+ 97.8 
+ % 
+
+ 98.4 
+ % 
+
+ 98.9 
+ % 
+
+ (C) 
+
+ Treasuries having a remaining maturity of greater than 1 year but not more than 2 years. 
+
+ 94.7 
+ % 
+
+ 95.3 
+ % 
+
+ 95.9 
+ % 
+
+ 96.5 
+ % 
+
+ (D) 
+
+ Treasuries having a remaining maturity of greater than 2 years but not more than 3 years. 
+
+ 94.7 
+ % 
+
+ 95.3 
+ % 
+
+ 95.9 
+ % 
+
+ 96.5 
+ % 
+
+ (E) 
+
+ Treasuries having a remaining maturity of greater than 3 years but not more than 5 years. 
+
+ 91.5 
+ % 
+
+ 92.5 
+ % 
+
+ 93.5 
+ % 
+
+ 94.5 
+ % 
+
+ (F) 
+
+ Treasuries having a remaining maturity of greater than 5 years but not more than 7 years. 
+
+ 89.0 
+ % 
+
+ 90.1 
+ % 
+
+ 91.2 
+ % 
+
+ 92.3 
+ % 
+
+ (G) 
+
+ Treasuries having a remaining maturity of greater than 7 years but not more than 10 years. 
+
+ 86.3 
+ % 
+
+ 87.5 
+ % 
+
+ 88.8 
+ % 
+
+ 90.0 
+ % 
+
+ (H) 
+
+ Treasuries having a remaining maturity of greater than 10 years but not more than 20 years. 
+
+ 83.0 
+ % 
+
+ 84.5 
+ % 
+
+ 86.0 
+ % 
+
+ 87.5 
+ % 
+
+ (I) 
+
+ Treasuries having a remaining maturity of greater than 20 years but not more than 30 years. 
+
+ 79.0 
+ % 
+
+ 80.7 
+ % 
+
+ 82.3 
+ % 
+
+ 84.0 
+ % 
+
+ (J) 
+
+ Agency Securities : negotiable debt obligations of the Federal National Mortgage Association (FNMA), Federal Home Loan Mortgage Corporation (FHLMC), Federal Home Loan Banks (FHLB),
+Federal Farm Credit Banks (FFCB), Tennessee Valley Authority (TVA) (collectively, “ Agency Securities ”) issued after July 18, 1984 and having a remaining maturity of not more than 1 year. 
+
+ (K) 
+
+ Agency Securities having a remaining maturity of greater than 1 year but not more than 2 years. 
+
+ (L) 
+
+ Agency Securities having a remaining maturity of greater than 2 years but not more than 3 years. 
+
+ (M) 
+
+ Agency Securities having a remaining maturity of greater than 3 years but not more than 5 years. 
+
+ (N) 
+
+ Agency Securities having a remaining maturity of greater than 5 years but not more than 7 years. 
+
+ (O) 
+
+ Agency Securities having a remaining maturity of greater than 7 years but not more than 10 years. 
+
+ (P) 
+
+ Agency Securities having a remaining maturity of greater than 10 years but not more than 20 years. 
+
+ (Q) 
+
+ Agency Securities having a remaining maturity of greater than 20 years but not more than 30 years. 
+
+ A-1-3 
+
+ Eligible Collateral & Valuation Percentages 
+ Fitch 
+
+ Valuation Percentage* 
+ (Rating of Certificates) 
+
+ (R) 
+
+ FHLMC Certificates . Mortgage participation certificates issued by FHLMC evidencing undivided interests or participations in pools of first lien conventional or FHA/VA residential
+mortgages or deeds of trust, guaranteed by FHLMC, issued after July 18, 1984 and having a remaining maturity of not more than 30 years. 
+
+ (S) 
+
+ FNMA Certificates . Mortgage-backed pass-through certificates issued by FNMA evidencing undivided interests in pools of first lien mortgages or deeds of trust on residential
+properties, guaranteed by FNMA, issued after July 18, 1984 and having a remaining maturity of not more than 30 years. 
+
+ (T) 
+
+ GNMA Certificates . Mortgage-backed pass-through certificates issued by private entities, evidencing undivided interests in pools of first lien mortgages or deeds of trust on single family
+residences, guaranteed by the Government National Mortgage Association (GNMA) with the full faith and credit of the United States, issued after July 18, 1984 and having a remaining maturity of not more than 30 years. 
+
+ (U) 
+
+ Commercial Mortgage-Backed Securities . Commercial mortgage-backed securities rated AAA by two major rating agencies with a minimum par or face amount of $250 million (excluding securities
+issued under Rule 144A) (“ Commercial Mortgage-Backed Securities ”) having a remaining maturity of not more than 5 years. 
+
+ (V) 
+
+ Commercial Mortgage-Backed Securities having a remaining maturity of more than 5 years and not more than 10 years. 
+
+ (W) 
+
+ Commercial Mortgage-Backed Securities having a remaining maturity of more than 10 years. 
+
+ (X) 
+
+ Commercial Paper . Commercial Paper with a rating of at least P-1 by Fitch and at least A-1+ by S&P and having a remaining maturity of not more than 30 days. 
+
+ (Y) 
+
+ Other Items of Credit Support approved by the Rating Agencies to the extent any Certificates are rated. 
+
+ * 
+
+ * 
+ percentage to be determined. 
+
+ A-1-4 
+
+ S CHEDULE 2 
+ M OODY ’ S I NCREASE F ACTOR 
+ Certificates: SG Mortgage
+Securities Trust 2006-OPT2, Asset-Backed Certificates, Series 2006-OPT2 
+ Valuation Date (and Valuation Percentage column): Daily 
+ The Moody’s Increase Factor will be determined using the following table: 
+
+ Moody’s Increase
+Factor 
+
+ Remaining Years to Maturity 
+
+ Posting Frequency 
+
+ Daily 
+
+ Weekly 
+
+ Moody’s Increase Factor at First Trigger 
+ Swaps, Caps and Floors 
+
+ 1 
+
+ 0.15 
+ % 
+
+ 0.25 
+ % 
+
+ 2 
+
+ 0.30 
+ % 
+
+ 0.50 
+ % 
+
+ 3 
+
+ 0.40 
+ % 
+
+ 0.70 
+ % 
+
+ 4 
+
+ 0.60 
+ % 
+
+ 1.00 
+ % 
+
+ 5 
+
+ 0.70 
+ % 
+
+ 1.20 
+ % 
+
+ 6 
+
+ 0.80 
+ % 
+
+ 1.40 
+ % 
+
+ 7 
+
+ 1.00 
+ % 
+
+ 1.60 
+ % 
+
+ 8 
+
+ 1.10 
+ % 
+
+ 1.80 
+ % 
+
+ 9 
+
+ 1.20 
+ % 
+
+ 2.00 
+ % 
+
+ 10 
+
+ 1.30 
+ % 
+
+ 2.20 
+ % 
+
+ 11 
+
+ 1.40 
+ % 
+
+ 2.30 
+ % 
+
+ 12 
+
+ 1.50 
+ % 
+
+ 2.50 
+ % 
+
+ 13 
+
+ 1.60 
+ % 
+
+ 2.70 
+ % 
+
+ 14 
+
+ 1.70 
+ % 
+
+ 2.80 
+ % 
+
+ 15 
+
+ 1.80 
+ % 
+
+ 3.00 
+ % 
+
+ 16 
+
+ 1.90 
+ % 
+
+ 3.20 
+ % 
+
+ 17 
+
+ 2.00 
+ % 
+
+ 3.30 
+ % 
+
+ 18 
+
+ 2.00 
+ % 
+
+ 3.50 
+ % 
+
+ 19 
+
+ 2.00 
+ % 
+
+ 3.60 
+ % 
+
+ 20 
+
+ 2.00 
+ % 
+
+ 3.70 
+ % 
+
+ 21 
+
+ 2.00 
+ % 
+
+ 3.90 
+ % 
+
+ 22 to 30 
+
+ 2.00 
+ % 
+
+ 4.00 
+ % 
+
+ Moody’s Increase Factor at Second Trigger 
+ Swaps 
+
+ 1 
+
+ 0.50 
+ % 
+
+ 0.60 
+ % 
+
+ 2 
+
+ 1.00 
+ % 
+
+ 1.20 
+ % 
+
+ 3 
+
+ 1.50 
+ % 
+
+ 1.70 
+ % 
+
+ 4 
+
+ 1.90 
+ % 
+
+ 2.30 
+ % 
+
+ 5 
+
+ 2.40 
+ % 
+
+ 2.80 
+ % 
+
+ 6 
+
+ 2.80 
+ % 
+
+ 3.30 
+ % 
+
+ 7 
+
+ 3.20 
+ % 
+
+ 3.80 
+ % 
+
+ 8 
+
+ 3.60 
+ % 
+
+ 4.30 
+ % 
+
+ 9 
+
+ 4.00 
+ % 
+
+ 4.80 
+ % 
+
+ 10 
+
+ 4.40 
+ % 
+
+ 5.30 
+ % 
+
+ 11 
+
+ 4.70 
+ % 
+
+ 5.60 
+ % 
+
+ 12 
+
+ 5.00 
+ % 
+
+ 6.00 
+ % 
+
+ 13 
+
+ 5.40 
+ % 
+
+ 6.40 
+ % 
+
+ 14 
+
+ 5.70 
+ % 
+
+ 6.80 
+ % 
+
+ 15 
+
+ 6.00 
+ % 
+
+ 7.20 
+ % 
+
+ 16 
+
+ 6.30 
+ % 
+
+ 7.60 
+ % 
+
+ A-2-1 
+
+ 17 
+
+ 6.60 
+ % 
+
+ 7.90 
+ % 
+
+ 18 
+
+ 6.90 
+ % 
+
+ 8.30 
+ % 
+
+ 19 
+
+ 7.20 
+ % 
+
+ 8.60 
+ % 
+
+ 20 
+
+ 7.50 
+ % 
+
+ 9.00 
+ % 
+
+ 21 
+
+ 7.80 
+ % 
+
+ 9.00 
+ % 
+
+ 22 to 30 
+
+ 8.00 
+ % 
+
+ 9.00 
+ % 
+
+ Moody’s Increase Factor at Second Trigger 
+ Caps, Floors, Transaction Specific Hedges 
+
+ 1 
+
+ 0.65 
+ % 
+
+ 0.75 
+ % 
+
+ 2 
+
+ 1.30 
+ % 
+
+ 1.50 
+ % 
+
+ 3 
+
+ 1.90 
+ % 
+
+ 2.20 
+ % 
+
+ 4 
+
+ 2.50 
+ % 
+
+ 2.90 
+ % 
+
+ 5 
+
+ 3.10 
+ % 
+
+ 3.60 
+ % 
+
+ 6 
+
+ 3.60 
+ % 
+
+ 4.20 
+ % 
+
+ 7 
+
+ 4.20 
+ % 
+
+ 4.80 
+ % 
+
+ 8 
+
+ 4.70 
+ % 
+
+ 5.40 
+ % 
+
+ 9 
+
+ 5.20 
+ % 
+
+ 6.00 
+ % 
+
+ 10 
+
+ 5.70 
+ % 
+
+ 6.60 
+ % 
+
+ 11 
+
+ 6.10 
+ % 
+
+ 7.00 
+ % 
+
+ 12 
+
+ 6.50 
+ % 
+
+ 7.50 
+ % 
+
+ 13 
+
+ 7.00 
+ % 
+
+ 8.00 
+ % 
+
+ 14 
+
+ 7.40 
+ % 
+
+ 8.50 
+ % 
+
+ 15 
+
+ 7.80 
+ % 
+
+ 9.00 
+ % 
+
+ 16 
+
+ 8.20 
+ % 
+
+ 9.50 
+ % 
+
+ 17 
+
+ 8.60 
+ % 
+
+ 9.90 
+ % 
+
+ 18 
+
+ 9.00 
+ % 
+
+ 10.40 
+ % 
+
+ 19 
+
+ 9.40 
+ % 
+
+ 10.80 
+ % 
+
+ 20 
+
+ 9.70 
+ % 
+
+ 11.00 
+ % 
+
+ 21 to 30 
+
+ 10.00 
+ % 
+
+ 11.00 
+ % 
+
+ A-2-2 
+
+ S CHEDULE 3 
+ S&P V OLATILITY B UFFER 
+ Certificates: SG Mortgage Securities Trust 2006-OPT2, Asset-Backed
+Certificates, Series 2006-OPT2 
+ Highest Rating of Certificates: Class [ ] rated “Aaa” by Moody’s, “AAA” by S&P, and
+“AAA”]by Fitch. 
+ Weighted Average Life of Highest Rated Certificates: 4.67 years 
+ The S&P Volatility Buffer will be determined using the following table: 
+
+ S&P Volatility
+Buffer 
+
+ Party A Rating* 
+
+ (Weighted Average Life of Highest Rated Certificates) 
+
+ (Up to 5 years) 
+
+ (Up to 10 years) 
+
+ (Up to 30 years) 
+
+ If, on the related Valuation Date, the highest rated Certificates are rated “AA-” or higher by S&P, the S&P Volatility Buffer is: 
+
+ A-2 
+
+ 3.25 
+ % 
+
+ 4.00 
+ % 
+
+ 4.75 
+ % 
+
+ A-3 
+
+ 4.00 
+ % 
+
+ 5.00 
+ % 
+
+ 6.25 
+ % 
+
+ BB+ or lower 
+
+ 4.50 
+ % 
+
+ 6.75 
+ % 
+
+ 7.50 
+ % 
+
+ If, on the related Valuation Date, the highest rated Certificates are rated “A” or “A+” by S&P, the
+S&P Volatility Buffer is: 
+
+ BBB+/BBB 
+
+ 3.25 
+ % 
+
+ 4.00 
+ % 
+
+ 4.50 
+ % 
+
+ A-2 
+
+ 3.25 
+ % 
+
+ 4.00 
+ % 
+
+ 4.50 
+ % 
+
+ A-3/BBB- 
+
+ 3.50 
+ % 
+
+ 4.50 
+ % 
+
+ 6.00 
+ % 
+
+ BB+ or lower 
+
+ 4.00 
+ % 
+
+ 5.25 
+ % 
+
+ 7.00 
+ % 
+
+ * 
+ This rating shall be the higher of the rating by S&P on the related Valuation Date of the long-term debt and short-term debt of Party A or its guarantor or other Credit Support
+Provider. 
+
+ A-3-1 
+
+ S CHEDULE 4 
+ F ITCH V OLATILITY C USHION 
+ Certificates: SG Mortgage Securities Trust
+2006-OPT2, Asset-Backed Certificates, Series 2006-OPT2 
+ Highest Rating of Certificates: Class A rated “Aaa” by Moody’s, “AAA”
+by S&P, and “AAA” by Fitch. 
+ Weighted Average Life of Highest Rated Certificates: 4.67 years. 
+ The Fitch Volatility Cushion will be determined using the following table: 
+
+ Fitch Volatility Cushion 
+ (USD Interest Rate Swaps) 
+
+ Weighted Average Life of Highest Rated Certificates 
+
+ Posting Frequency 
+
+ Daily 
+
+ Weekly 
+
+ If, on the related Valuation Date, the highest rated Certificates are rated “AA-” or higher by Fitch, the Fitch
+Volatility Cushion is: 
+
+ 1 
+
+ 0.8 
+ % 
+
+ 2 
+
+ 1.7 
+ % 
+
+ 3 
+
+ 2.5 
+ % 
+
+ 4 
+
+ 3.3 
+ % 
+
+ 5 
+
+ 4.0 
+ % 
+
+ 6 
+
+ 4.7 
+ % 
+
+ 7 
+
+ 5.3 
+ % 
+
+ 8 
+
+ 5.9 
+ % 
+
+ 9 
+
+ 6.5 
+ % 
+
+ 10 
+
+ 7.0 
+ % 
+
+ 11 
+
+ 7.5 
+ % 
+
+ 12 
+
+ 8.0 
+ % 
+
+ 13 
+
+ 8.5 
+ % 
+
+ 14 
+
+ 9.0 
+ % 
+
+ > = 15 
+
+ 9.5 
+ % 
+
+ If, on the related Valuation Date, the highest rated Certificates are rated “A+” or “A” by Fitch, the Fitch
+Volatility Cushion is: 
+
+ 1 
+
+ 0.6 
+ % 
+
+ 2 
+
+ 1.2 
+ % 
+
+ 3 
+
+ 1.8 
+ % 
+
+ 4 
+
+ 2.3 
+ % 
+
+ 5 
+
+ 2.8 
+ % 
+
+ 6 
+
+ 3.3 
+ % 
+
+ 7 
+
+ 3.8 
+ % 
+
+ A-4-1 
+
+ 8 
+
+ 4.2 
+ % 
+
+ 9 
+
+ 4.6 
+ % 
+
+ 10 
+
+ 5.0 
+ % 
+
+ 11 
+
+ 5.3 
+ % 
+
+ 12 
+
+ 5.7 
+ % 
+
+ 13 
+
+ 6.0 
+ % 
+
+ 14 
+
+ 6.4 
+ % 
+
+ > = 15 
+
+ 6.7 
+ % 
+
+ If, on the related Valuation Date, the highest rated Certificates are rated “A-” or “BBB+” by Fitch, the Fitch Volatility Cushion is: 
+
+ 1 
+
+ 0.5 
+ % 
+
+ 2 
+
+ 1.0 
+ % 
+
+ 3 
+
+ 1.6 
+ % 
+
+ 4 
+
+ 2.0 
+ % 
+
+ 5 
+
+ 2.5 
+ % 
+
+ 6 
+
+ 2.9 
+ % 
+
+ 7 
+
+ 3.3 
+ % 
+
+ 8 
+
+ 3.6 
+ % 
+
+ 9 
+
+ 4.0 
+ % 
+
+ 10 
+
+ 4.3 
+ % 
+
+ 11 
+
+ 4.7 
+ % 
+
+ 12 
+
+ 5.0 
+ % 
+
+ 13 
+
+ 5.3 
+ % 
+
+ 14 
+
+ 5.6 
+ % 
+
+ > = 15 
+
+ 5.9 
+ % 
+
+ A-4-2

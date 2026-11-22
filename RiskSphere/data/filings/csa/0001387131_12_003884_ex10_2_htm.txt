@@ -1,0 +1,1166 @@
+EX-10.2
+ 3
+ ex10-2.htm
+ TRS CONFIRMATION LETTER AGREEMENT
+
+ ex10-2.htm 
+
+ Corporate Capital Trust 8-K 
+
+Exhibit 10.2
+
+ THE BANK OF NOVA SCOTIA 
+
+ Global Wholesale Services 
+
+ Derivative Products 
+
+ 44 King Street West 
+
+ Central Mail Room 
+
+ Toronto, Ontario, Canada M5H 1H1 
+
+ TOTAL RETURN SWAP TRANSACTION MASTER CONFIRMATION 
+
+ November 15, 2012 
+
+ Halifax Funding LLC 
+
+ C/o Corporate Capital Trust 
+
+ C/o CNL Fund Advisors Company 
+
+ 450 South Orange Ave 
+
+ Orlando, FL 32801 
+
+ Dear Sirs/Madams: 
+
+ The purpose of this letter agreement (this “ Master Confirmation ”) is to confirm the common terms and conditions of each total return swap transaction now or hereafter entered into between The Bank of Nova Scotia (“ Party A ”) and Halifax Funding LLC (“ Party B ”) pursuant to this Master Confirmation (each such total return swap transaction being a “ Transaction ”). This Master Confirmation constitutes a "Confirmation" as referred to in the ISDA Master Agreement specified below and each total return basket swap transaction entered into pursuant to this Confirmation shall constitute a “Transaction” for purposes of the ISDA Master Agreement specified below and replaces all previous confirmations previously exchanged between the parties in respect of each such Transaction. 
+
+ This Master Confirmation shall be read and construed as if each Reference Obligation or Unlevered Portfolio Reference Obligation from time to time referenced in a TRS Report were the subject of a separate Transaction and constituted a separate confirmation for purposes of this Master Confirmation, each such transaction and confirmation having terms which are identical to the terms and conditions set out in this Master Confirmation. Accordingly, (i) references herein to this Master Confirmation and the Reference Obligation Annex are to a portfolio of confirmations, each of which references a single Reference Obligation and (ii) an addition or deletion of a Reference Obligation or an Unlevered Portfolio Reference Obligation to or from the Portfolio or Unlevered Portfolio constitutes the entering into or termination or partial termination (as applicable) of a Transaction. This Master Confirmation shall constitute the Confirmation of each Transaction evidenced hereby for all purposes of the ISDA Master Agreement specified below in respect of the relevant Reference Obligation or Unlevered Portfolio Reference Obligation. In the event of any inconsistency between the ISDA Master Agreement and this Master Confirmation, the terms of the Master Confirmation will prevail. 
+
+ Notwithstanding any other terms herein and for the avoidance of doubt, the parties intend that all calculations, payments and transfers required to be made under this Master Confirmation, including under Section 4 of this Master Confirmation, shall be calculated and treated on an aggregate basis, based upon the aggregate of all Transactions entered into under the ISDA Master Agreement and shall not be calculated multiple times on any day of determination, payment or transfer, under the multiple confirmations in the portfolio of confirmations. 
+
+ 1. Master Agreement 
+
+ Each Transaction evidenced by this Master Confirmation shall be governed and construed in accordance with the ISDA Master Agreement, as published by the International Swaps and Derivatives Association, Inc., entered into between Party A and Party B, dated as of November 15, 2012, and as the same may be amended, replaced or supplemented from time to time (the “ ISDA Master Agreement ”). 
+
+ 2. 
+
+ Terms 
+
+ Each Transaction evidenced hereby shall have the following terms: 
+
+ Effective Date: 
+
+ November 15, 2012 
+
+ Scheduled Ramp-Down 
+
+ Date: 
+
+ The third anniversary of the Effective Date, subject to adjustment in accordance with the Business Day Convention. 
+
+ Business Day: 
+
+ A day on which commercial banks and foreign exchange markets settle payments and are generally open for business in all of the following locations: Toronto and New York. 
+
+ Floating Rate Option: 
+
+ Where the relevant Reference Obligation is denominated in (i) USD, USD-LIBOR-BBA, (ii) Euro, EUR-EURIBOR-Reuters, (iii) GBP, GBP-LIBOR-BBA, or (iv) CAD, CAD-BA-CDOR. 
+
+ Period End Dates: 
+
+ (1) The last Business Day of each of the months of January, April, July and October during the Term, and (2) the Termination Date, subject to adjustment in accordance with the Business Day Convention. 
+
+ Payment Dates: 
+
+ The fifth Business Day following each Period End Date. 
+
+ Designated Maturity: 
+
+ three months 
+
+ Spread: 
+
+ For any date on which the aggregate Value of all Posted Collateral (as defined in Section 11 hereof and the Credit Support Annex) then held by Party A (i) equals or exceeds 50% of the Portfolio Book Value in effect on such date, plus 80 basis points (0.80%), or (ii) is less than 50% of the Portfolio Book Value in effect on such date, plus 100 basis points (1.0%). 
+
+ Maximum Portfolio 
+
+ Book Value: 
+
+ As of any date of determination, the lesser of (x) the quotient of (i) the aggregate Value of all Posted Collateral on the relevant day of determination, and (ii) 40%, and (y) USD 500,000,000. 
+
+ 3. Addition Of Reference Obligations 
+
+ (1) Subject to the provisions hereof, Party B may, from time to time, by notice to Party A, request that the Portfolio be amended by adding a specified principal amount of loans and bonds at a purchase price specified by Party B. The inclusion in the Portfolio of the principal amount of any loan or bond requested by Party B is subject to the satisfaction of the conditions precedent set out in Section 3(2) below (each loan and bond satisfying such conditions precedent being a “ Qualifying Obligation ”) and the approval of Party A. 
+
+ 2 
+
+ (2) Unless otherwise expressly agreed by Party A, in writing, in respect of a loan or bond which Party B has requested be added to the Portfolio, each addition proposed by Party B is subject to the conditions precedent that, as of the Addition Commitment Date: 
+
+ (a) (1) an Event of Default in respect of which Party B is the Defaulting Party, (2) a Termination Event under (i) Section 5(b)(i) in respect of which either Party A or Party B is the Affected Party, or (ii) any Additional Termination Event in respect of which Party B is the Affected Party (each as defined in the ISDA Master Agreement) has not occurred and is not then continuing, (3) a Potential Event of Default (as defined in the ISDA Master Agreement) has not occurred and is not then continuing with respect to Party B, (4) an Early Termination Date (as defined in the ISDA Master Agreement) has not been designated with respect to any Transaction evidenced hereby, (5) the Ramp-Down Period Start Date has not occurred, or (6) a Delivery Amount (as defined in the Credit Support Annex) is not outstanding; 
+
+ (b) as a consequence of adding such loan or bond none of the Portfolio Composition Requirements would be contravened; 
+
+ (c) each loan and bond to be added to the Portfolio must be rated at least CCC by S&P and Caa2 by Moody’s through a Public Rating; provided, however, that loans that have no Public Rating but which are Highly Liquid Obligations may be added if, as a result of any such addition, the aggregate of the respective Traded Book Values of all loans that have no Public Rating but which are Highly Liquid Obligations comprised in the Portfolio would not exceed 10% of the Limit Value; 
+
+ (d) each loan or bond to be added to the Portfolio has a Market Price of not less than 75%; 
+
+ (e) each loan or bond to be added to the Portfolio must be denominated in a Specified Currency; 
+
+ (f) the issuer of each loan or bond to be added to the Portfolio must be domiciled in a Specified Jurisdiction; 
+
+ (g) each loan to be added to the Portfolio must be actively priced by LSTA/LPC Mark-to-Market Pricing Service or Loan X Service, provided the price provided by such pricing sources reflects bid pricing provided by at least two unaffiliated Reference Market-makers; provided, however, that loans in respect of which the price provided by such pricing sources reflects bid pricing provided by only one Reference Market-maker but which are First Lien Loans may be added if, as a result of any such addition, the aggregate of the respective Traded Book Values of all loans in respect of which the LSTA/LPC Mark-to-Market Pricing Service or Loan X Service price reflects bid pricing provided by only one Reference Market-maker but which are First Lien Loans shall not exceed 10% of the Limit Value; 
+
+ (h) each bond to be added to the Portfolio must be actively priced by Advantage Data, Bloomberg, TRACE or other source acceptable to Scotia; 
+
+ (i) following the addition of any loan, the aggregate Value of all Posted Collateral minus Exposure is not less than the Independent Amount required pursuant to Section 11 below; 
+
+ 3 
+
+ (j) each loan or bond to be added represents part of an Outstanding Tranche Size in an amount which is at least equal to (x) in respect of each loan which is a First Lien Loan, the USD Equivalent of USD 250,000,000, and (y) in respect of all other loans and all bonds, the USD Equivalent of USD 150,000,000; 
+
+ (k) the sum of the principal amounts of the loan or bond to be added plus the Traded Face Amount applicable to such loan or bond comprises no more than 5% of the Outstanding Tranche Size; 
+
+ (l) it would not be unlawful for either party to perform any absolute or contingent obligation to make a payment or delivery or to receive a payment or delivery in respect of such loan to be added to the Portfolio or to comply with any other material provision of this Confirmation; 
+
+ (m) each loan to be added must be a First Lien Loan or a Second Lien Loan; and 
+
+ (n) each bond to be added must be a Senior Secured Bond or a Senior Unsecured Bond . 
+
+ 4. 
+
+ Deletion of Reference Obligations 
+
+ The events set out in Sections 4(A), (B), (C) and (D) below and the occurrence of the Scheduled Ramp-Down Date constitute the events which initiate the process set out in this Confirmation by which each Affected Reference Obligation or the relevant portion of the Traded Face Amount thereof is valued and removed from the Portfolio. Except as otherwise provided for in this Confirmation, a Reference Obligation shall be removed (in whole or in part, as applicable) from the Portfolio as of the applicable Final Deletion Date. 
+
+ (A) 
+
+ Discretionary Election to Delete by Party B 
+
+ Party B elects, by notice to Party A, to delete all or part of the Traded Face Amount of one or more Reference Obligations; provided, however, that no such notice may be issued by Party B where (1) an Event of Default in respect of which Party B is the Defaulting Party, (2) a Termination Event under (i) Section 5(b)(i) in respect of which either Party A or Party B is the Affected Party, or (ii) any Additional Termination Event in respect of which Party B is the Affected Party (each as defined in the ISDA Master Agreement) has occurred and is then continuing, (3) a Potential Event of Default (as defined in the ISDA Master Agreement) has occurred and is continuing with respect to Party B, (4) an Early Termination Date (as defined in the ISDA Master Agreement) has been designated or deemed designated with respect to any Transaction evidenced hereby, or (5) as a consequence of the deletion of the relevant Reference Obligation, a Portfolio Event would occur. Notwithstanding the foregoing, this existence of any of the events set out in (2) above (provided an Early Termination Date has not been designated in respect thereof) shall not prevent Party B from initiating the commencement of the Ramp-Down Period or effecting deletions pursuant to a Cure Election as provided in Section 5(B) below. 
+
+ (B) 
+
+ Permanent Reduction or Conversion Event 
+
+ In respect of a Reference Obligation the payment of a Permanent Reduction or the occurrence of a Conversion Event. In respect of a Conversion Event for which Conversion Proceeds are paid, where Party A Hedging applies in respect of the relevant Reference Obligation to which the Conversion Event applies, Party A shall deliver, or cause the relevant Party A Entity to deliver, to Party B or its designee the applicable Conversion Proceeds free and clear of any security interests created in writing by any Party A Entity on or before the later of (x) the first Payment Date following the applicable Deletion Commitment Date, and (y) the date following the relevant Deletion Commitment Date that represents the last day of the standard settlement period applicable to the relevant Conversion Proceeds in accordance with then current market practice as reasonably determined by Party A. 
+
+ 4 
+
+ (C) Hedge Event or Adverse Claim 
+
+ Party A elects, by written notice to Party B, to delete all or part of the Traded Face Amount of one or more Reference Obligations following the occurrence of a Hedge Event or Adverse Claim; provided, however, that where the relevant Hedge Event or Adverse Claim pertains to a particular Reference Obligation, Party A’s deletion election shall be limited to such Reference Obligation. If the relevant Hedge Event or Adverse Claim pertains to all Reference Obligations, Party A shall have the right to terminate all outstanding Transactions evidenced hereby. In the event that a Party A Entity incurs an Adverse Claim in respect of a Reference Obligation that is already the subject of any deletion or other procedure prescribed by this Confirmation (other than the termination procedures prescribed by Sections 5 and 6 of the ISDA Master Agreement) and a Deletion Commitment Date has not yet occurred in regard to the relevant Reference Obligation, the deletion procedures applicable to the occurrence of an Adverse Claim shall be applied as if such other deletion or other procedure had not been invoked. 
+
+ (D) 
+
+ Designation of Early Termination Date 
+
+ The designation or deemed designation of an Early Termination Date following the occurrence of (i) any Event of Default, other than an Event of Default constituted pursuant to Section 5(a)(vii) of the ISDA Master Agreement, or (ii) a Termination Event which renders any Transaction evidenced hereby an Affected Transaction (as defined in the ISDA Master Agreement). For the avoidance of doubt, the provisions of Section 6(e) of the ISDA Master Agreement shall not apply in the context of any Transaction evidenced hereby in respect of any Event of Default (other than an Event of Default constituted pursuant to Section 5(a)(vii) as aforesaid) or any Termination Event and instead each Transaction evidenced hereby shall be terminated and valued in accordance with the provisions hereof. Notwithstanding the foregoing, in the event of the occurrence of an Event of Default pursuant to Section 5(a)(vii) of the ISDA Master Agreement, the Non-defaulting Party (as defined in the ISDA Master Agreement) may exercise the rights and remedies accorded to it pursuant to the terms of the ISDA Master Agreement and under applicable law. 
+
+ 5. 
+
+ Traded Portfolio Compliance 
+
+ (A) Portfolio Composition Requirements 
+
+ Each of the following shall constitute a “ Portfolio Composition Requirement ” and shall apply at all times except during the Ramp-Up Period and the Ramp-Down Period: 
+
+ 1. The aggregate of the USD Equivalent of the respective Traded Book Values of all Reference Obligations issued by the same Reference Obligor shall not exceed 4% of the Limit Value; provided, however that, in regard to any five Reference Obligors, the aggregate of the USD Equivalent of the respective Traded Book Values of all Reference Obligations issued by the relevant Reference Obligor may comprise up to 5% of the Limit Value. 
+
+ 2. The aggregate of the USD Equivalent of the respective Traded Book Values of all Reference Obligations in the Portfolio in the same Industrial Sector shall not exceed 15% of the Limit Value. 
+
+ 3. The Weighted Average Rating Factor of the Portfolio must be equal to or less than 3490. For purposes of determining the Weighted Average Rating Factor on any date, Reference Obligations which were included in the Portfolio on the relevant Addition Date that have no Public Rating but which are Highly Liquid Obligations shall not be included in such determination. If subsequent to the relevant Addition Date, a Reference Obligation that has no Public Rating but which is a Highly Liquid Obligation that was included in the Portfolio on such Addition Date ceases to be a Highly Liquid Obligation, such Reference Obligation shall be included in the determination of the Weighted Average Rating Factor. 
+
+ 4. The aggregate of the USD Equivalent of the respective Traded Book Values of all Reference Obligations that have no Public Rating but which are Highly Liquid Obligations then comprised in the Portfolio shall not exceed 10% of the Limit Value. 
+
+ 5. The aggregate of the USD Equivalent of the respective Traded Book Values of all Reference Obligations that are Revolving Loans shall not exceed 5% of the Limit Value . 
+
+ 6. All Reference Obligors must be a corporate body established in a Specified Jurisdiction; provided, however, that the aggregate of the USD Equivalent of the respective Traded Book Values of all Reference Obligations of Reference Obligors which are not established in Canada or the United States of America shall not exceed 10% of the Limit Value. 
+
+ 7. All Reference Obligations must be denominated in a Specified Currency; provided, however, that the aggregate of the USD Equivalent of the respective Traded Book Values of all Reference Obligations of Reference Obligors which are not denominated in USD shall not exceed 5% of the Limit Value. 
+
+ 8. Each Reference Obligation must have a Market Price as of the relevant date of not less than 50%. 
+
+ 9. Each Reference Obligation must be priced by LSTA/LPC Mark-to-Market Pricing Service or Loan X Service, provided the price provided by such pricing sources reflects bid pricing provided by at least two unaffiliated Reference Market-makers; provided, however, that Reference Obligations in respect of which the price provided by such pricing sources reflects bid pricing provided by only one Reference Market-maker but which are First Lien Loans may remain in the Portfolio so long as the aggregate of the USD Equivalent of the respective Traded Book Values of such Reference Obligations does not exceed 10% of the Limit Value. 
+
+ 10. The Traded Portfolio Book Value, including the aggregate of the USD Equivalent of the respective Traded Book Values of all Unlevered Portfolio Reference Obligations, shall not exceed the Maximum Portfolio Book Value. 
+
+ 11. The Traded Face Amount applicable to each Reference Obligation shall not comprise more 5% of the Outstanding Tranche Size. 
+
+ 12. Each Reference Obligation which is a bond shall be actively priced by Advantage Data, Bloomberg or TRACE. 
+
+ 13. The USD Equivalent of the respective Traded Book Values applicable to all Reference Obligations that are Second Lien Loans shall not exceed 10% of the Limit Value. 
+
+ 14. The aggregate of the USD Equivalent of the respective Traded Book Values of all Reference Obligations comprised in the Portfolio that are rated below B- by S&P or B3 by Moody’s shall not exceed 35% of the Limit Value. 
+
+ 5 
+
+ (B) Breach of Portfolio Composition Requirements 
+
+ (1) If at any time a Portfolio Event occurs, Party A may by written notice notify Party B of such Portfolio Event (such notice being the “ Portfolio Event Notice ” and the date on which such Portfolio Event Notice becomes effective in accordance with Section 12 of the ISDA Master Agreement being the “ Portfolio Event Notice Date ”). For purposes hereof, “ Portfolio Event ” means the failure of the Portfolio to be in compliance with each of the Portfolio Composition Requirements set forth in the chart set out in Section 5(A) above. 
+
+ (2) Party B may elect (i) to cure the relevant Portfolio Event through the deletion of all or part of one or more Reference Obligations (subject to the provisions of Section 4(A) above), (ii) to cure the relevant Portfolio Event through the addition of one or more loans, to the Portfolio (subject to the provisions of Section 3 above) or (iii) to cure the relevant Portfolio Event through any combination of the foregoing; provided that in the context of (i) or (ii) above, the aggregate result of such election, if given effect, would be to cure the relevant Portfolio Event and such election would not, if given effect, result in the occurrence of a further Portfolio Event, or (iv) separately or in combination with (i) or (ii) above, designate full, or partial Traded Face Amounts (the “ Designated Face Amount ”) applicable to one of more Reference Obligations that would, if such Designated Face Amounts were deleted from the Portfolio (taking into account any other Reference Obligations which Party B elects to delete from the Portfolio and any loans which Party B elects (subject to the provisions of Section 3 above) to add to the Portfolio), be sufficient to cure the relevant Portfolio Event (that portion of the applicable Traded Face Amount of each such designated Reference Obligation equal to the applicable Designated Face Amount being a “ Designated Reference Obligation ”) as Reference Obligations to which Additional Credit Support applies (each such election being a “ Cure Election ”). If the Deletion Commitment Dates, Addition Commitment Dates, or both, in respect of such number of Reference Obligations to be deleted from and loans to be added to the Portfolio as is required to cure the relevant Portfolio Event have not occurred by the 10 th Business Day following the Portfolio Event Notice Date (such 10 th following Business Day being the “ Cure Date ”) or Party B has not, by notice to Party A, identified all Reference Obligations which are to be Designated Reference Obligations on or before the Cure Date, an Additional Termination Event for all purposes of the ISDA Master Agreement shall be deemed to have occurred on the Cure Date in respect of Party B and for which Party B shall be the sole Affected Party and all Transactions evidenced hereby shall be Affected Transactions. For purposes of applying the terms of the Credit Support Annex as amended by Section 11 below, all Reference Obligations identified as Designated Reference Obligations shall constitute Designated Reference Obligations for all Valuation Dates (as defined in the Credit Support Annex) occurring on or after the relevant Cure Date and, provided Party B is in full compliance with the terms of the Credit Support Annex (as amended by Section 11 below), for the limited purpose of determining whether the Portfolio is in compliance with all Portfolio Composition Requirements (but for no other purpose including, without limitation, the determination of the Exposure), each Designated Reference Obligation in respect of which the requisite amount of Eligible Collateral has been Transferred to Party A shall be deemed to have been deleted from the Portfolio. 
+
+ 6 
+
+ If on any day following the Cure Date in respect of which a Reference Obligation is designated as a Designated Reference Obligation, the Portfolio, including all Reference Obligations which are then Designated Reference Obligations, comes into full compliance with or reduces its non-compliance with any Portfolio Composition Requirement breach existing on or after such Cure Date, Party B may, by notice to Party A given in accordance with Section 12 below, elect to reduce the Designated Face Amount of any Designated Reference Obligation by an amount which, if added to the Portfolio would not cause the Portfolio to be in breach of any Portfolio Composition Requirement or increase the level of any existing non-compliance. If Party A concurs with the reduction amount specified in Party B’s notice, commencing on the Valuation Date which is the first Business Day following the date on which Party B’s notice becomes effective, the terms of the Credit Support Annex as amended by Section 11 below, shall be applied based on such reduced Designated Face Amount. In the event the Designated Face Amount of a Designated Reference Obligation is reduced to zero, the relevant Reference Obligation shall cease to be a Designated Reference Obligation for all purposes hereof. 
+
+ 6. Unlevered Portfolio 
+
+ Party B may, from time to time, by notice to Party A, request that the Unlevered Portfolio be amended by adding a specified principal amount of loans and bonds at a purchase price specified by Party B. The inclusion in the Portfolio of the principal amount of any loan or bond requested by Party B is subject to the satisfaction of such loan or bond, as of the applicable Addition Commitment Date, of each of the applicable conditions precedent set out in Section 3(2) above and the approval of Party A (each bond or loan added to the Unlevered Portfolio being an “ Unlevered Portfolio Reference Obligation ”). The aggregate of the USD Equivalent of the Traded Book Values of all Unlevered Portfolio Reference Obligations comprised in the Unlevered Portfolio at any time shall not exceed USD 50,000,000. 
+
+ An Unlevered Portfolio Reference Obligation shall not constitute a Reference Obligation for purposes of determining: (1) Party B’s compliance with the Portfolio Composition Requirements (other than the Portfolio Composition Requirement set out in Section 5(A)10); (2) determining the Floating Amount payable in respect of any Calculation Period; (3) the Make-whole Spread Amount, and (4) the Credit Support Amount (as defined in the Credit Support Annex, and (5) the Interest Amount (as defined in the Custodian Agreement) to be credited to the USD-denominated Collection Account pursuant to Section 8 below. Except as may be expressly set out herein to the contrary, each Unlevered Portfolio Reference Obligation shall constitute a Reference Obligation for all other purposes hereof (and in order to give effect to such other purposes, all references in this Master Confirmation (including Section 13 hereof) to “Reference Obligation” shall be deemed to be a reference to Reference Obligation and Unlevered Portfolio Reference Obligation). 
+
+ Subject in each case to the prior written approval of Party A (which may be refused in Party A’s reasonable discretion), Party B may from time to time upon notice to Party A given in accordance with Section 12 below, elect to include all or a portion of the Face Amount of any Unlevered Portfolio Reference Obligation in the Portfolio. Effective as of the date on which Party A’s approval is given, the relevant portion of such Face Amount shall cease to be an Unlevered Portfolio Reference Obligation and shall instead constitute a Reference Obligation for all purposes hereof and all Posted Collateral then held by Party A in support of such portion of the Face Amount of the relevant Unlevered Portfolio Reference Obligation shall be included in all further determinations of Credit Support Balance, Delivery Amounts or Return Amounts pertaining to Reference Obligations. 
+
+ 7 
+
+ 7. TRS Report 
+
+ On each Report Date, Party A shall provide to Party B a TRS Report which may be transmitted electronically to any Designated Party of Party B; provided, however, that any failure to do so shall in no way be construed as constituting an Event of Default, Potential Event of Default or Termination Event with respect to Party A. 
+
+ 8. Collection Account Surplus/Shortfall 
+
+ In respect of all Transactions evidenced hereby the underlying Reference Obligations of which that are comprised in the Portfolio from time to time and are denominated in the same Specified Currency, a single notional ledger account (each such notional ledger account established in respect of each Specified Currency being a “ Collection Account ”) will be established by Party A. For clarification, each such Collection Account is notional only and is deemed to exist only for the purpose of calculating certain payment obligations (as set out in this Section 8). No deposit or trust in favour of any party is created by the establishment of any such Collection Account. 
+
+ On each Determination Date and in respect of each Collection Account, the following notional debits and credits shall be made in respect of the relevant Collection Account on a running account basis: 
+
+ (A) On each Determination Date the following amounts shall be notionally credited, on a running account basis, to the relevant Collection Account: 
+
+ (1) 
+
+ all Distribution Payments applicable to all Reference Obligations that are then comprised in the Portfolio on the relevant Determination Date and that are denominated in the relevant Specified Currency and paid on the relevant Determination Date as provided in the definition of Distribution Payments; and 
+
+ (2) 
+
+ 100% of all Commitment Fees applicable to all Reference Obligations that are then comprised in the Portfolio on the relevant Determination Date and that are denominated in the relevant Specified Currency that are paid on the relevant Determination Date as provided for in the definition of Commitment Fees; and 
+
+ (3) 
+
+ all Deletion Return Amounts denominated in the relevant Specified Currency that are payable to Party B in respect of each Reference Obligation the respective Final Deletion Dates of which occur on the relevant Determination Date. 
+
+ (B) On each Determination Date the following amounts shall be notionally debited, on a running account basis, from the relevant Collection Account: 
+
+ (1) 
+
+ all Deletion Return Amounts denominated in the relevant Specified Currency that are payable to Party A in respect of each Reference Obligation the Final Deletion Date of which occurs on the relevant Determination Date; 
+
+ 8 
+
+ (2) 
+
+ all Acquisition Costs and Sale Costs that are denominated in the relevant Specified Currency which are incurred by a Party A Entity on the relevant Determination Date as provided for in the definitions thereof; and 
+
+ (3) 
+
+ all Administration Fees and Expenses that are denominated in the relevant Specified Currency which are incurred by a Party A Entity on the relevant Determination Date as provided for in the definition thereof. 
+
+ On each Period End Date, Party A shall determine in a commercially reasonable manner the notional balance of each Collection Account based upon the debits and credits effected in respect of each of the Determination Dates in the Calculation Period preceding the relevant Period End Date. In addition, on each Period End Date, an amount, in USD, equal to the Interest Amount (as such terms are defined in the Custodian Agreement) that would accrue in respect of the Calculation Period preceding the relevant Period End Date in accordance with the terms of the Custodian Agreement on the basis that all Posted Collateral has been deposited to a Depository Account which complies with the requirements of Section 1(b) of the Custodian Agreement, shall be deemed credited to the USD denominated Collection Account (the notional balance resulting from the application of the foregoing provisions being, in respect of the relevant Collection Account, the “ Account Balance ”). From the Account Balance, Party A shall debit an amount equal to the Floating Amount determined for the relevant Calculation Period to the extent such Floating Amount is denominated in the Specified Currency of the relevant Collection Account. In respect of the USD-denominated Collection Account, if the relevant Period End Date is also the Termination Date and such date precedes the Scheduled Ramp-Down Date, an amount in USD, equal to the Make-Whole Spread Amount shall also be debited from the USD-denominated Collection Account. If positive, the resulting amount of the relevant Collection Account shall be the “ Collection Account Surplus ”. If negative, the absolute value thereof shall be the “ Collection Account Shortfall ”. 
+
+ Party A shall, on the first Payment Date following the relevant Period End Date, determine in a commercially reasonable manner the USD Equivalent of each Collection Account Surplus and each Collection Account Shortfall. The aggregate of the respective Collection Account Shortfalls shall then be subtracted from the aggregate of the respective Collection Account Surpluses. If the resulting amount is a positive number (the “ Net Surplus ”), such number shall constitute an amount payable by Party A to Party B on the first Payment Date following the relevant Period End Date. If the resulting amount is a negative number, the absolute value of such amount (the “ Net Shortfall ”) shall constitute an amount payable by Party B to Party A and Party A may instruct the Custodian under the Custodian Agreement (as such terms are defined in the Credit Support Annex) to release to Party A from the Collateral Account (as defined in the Custodian Agreement) an amount, in USD, equal to such Net Shortfall on the first Payment Date following the relevant Period End Date. If there is insufficient funds in the Collateral Account to satisfy all or part of the Net Shortfall, Party B shall upon demand by Party A pay to Party A the amount of any such shortfall. Upon the payment or debiting of such amounts, as applicable, the Account Balances of each of the Collection Accounts shall be deemed to be zero as of the relevant Period End Date. 
+
+ 9. Recovered Amounts 
+
+ (A) 
+
+ In the event that: (i) any payments which are deemed to have been made to a Reference Obligation Holder of a Reference Obligation, or (ii) if Party A Hedging applies, any payments which are made to a Party A Entity; in each case prior to the Final Deletion Date applicable to such Reference Obligation or pursuant to Section 9(B), (C), (D), (E) or (F) below, and such payments are subsequently required to be repaid or returned to the Reference Obligor or any other person (including, without limitation, any bankruptcy trustee for the Reference Obligor pursuant to applicable law), to the extent such payments have been factored into the Account Balance of any Collection Account or have been otherwise paid to Party B pursuant to the terms hereof, including Section 9(B), (C), (D), (E) and (F) below, Party B shall pay to Party A an amount equal to the payments so required to be repaid or returned by such Reference Obligation Holder or Party A Entity, as applicable, within three Business Days after written certification has been received by Party B setting forth in reasonable detail the legal reasons which require such payment. 
+
+ 9 
+
+ (B) 
+
+ In the event that any Distribution Payment or Commitment Fees to be paid with respect to any Reference Obligation in respect of any period the end of which precedes the Final Deletion Date applicable to such Reference Obligation is not so paid by reason of a delay, default or otherwise by the Reference Obligor prior to the Final Deletion Date in respect of the relevant Reference Obligation, and such payment is subsequently made to persons who were holders of the relevant Reference Obligation during the relevant period: 
+
+ (i) 
+
+ if such Distribution Payments or Commitment Fees (or a portion thereof) are paid to holders of the relevant Reference Obligation before the Termination Date, an amount equal to such Distribution Payments and 100% of such Commitment Fees (or portion thereof), shall be credited to the relevant Collection Account on (x) where Party A Hedging does not apply, the relevant date of on which such payments are made to holders of record of the relevant Reference Obligation, or (y) where Party A Hedging applies, the date on which such Distribution Payments or Commitment Fees (or the relevant portion thereof) are received by a Party A Entity; and 
+
+ (ii) 
+
+ if such Distribution Payments or Commitment Fees (or a portion thereof) are paid to holders of the relevant Reference Obligation on or following the Termination Date, an amount equal to such Distribution Payments and 100% of such Commitment Fees, less any amounts owing by Party B to Party A pursuant to the terms of this Master Confirmation or the ISDA Master Agreement that remain unpaid, including, without limitation, any Net Shortfall or the amount due from Party B pursuant to Section 6(e) of the ISDA Master Agreement (if any), shall be paid to Party B on or before the third Business Day following (x) where Party A Hedging does not apply, the relevant date of on which such payments are made to holders of record of the relevant Reference Obligation, or (y) where Party A Hedging applies, the date on which such Distribution Payments or Commitment Fees (or the relevant portion thereof) are received by a Party A Entity. 
+
+ (C) 
+
+ In the context of the deletion from the Portfolio of a Reference Obligation where the Final Reference Price was to be determined by reference to Firm Bids, if (1) a Firm Bid was obtained in the manner prescribed by the definition of Final Reference Price but the Final Reference Price is zero because the Final Deletion Date is determined pursuant to paragraph (1)(x) of the definition of Final Deletion Date and precedes the actual settlement date of the transaction by which the relevant Party A Entity effects a sale of the relevant Reference Obligation to the party providing such Firm Bid, and (2) after such deemed Final Deletion Date but prior to such actual settlement date, a Permanent Reduction or Conversion Event occurs within 365 days of the applicable Final Deletion Date, the relevant Party A Entity shall comply with its obligations under the relevant Trade Documentation with respect to the Permanent Reduction or Conversion Proceeds actually received by it and an amount equal to the actual sales proceeds received by the Party A Entity, as contemplated in the relevant Trade Confirmation, less any other amounts required to be transferred by the relevant Party A Entity to the party providing the Firm Bid under the Trade Confirmation (the “ Net Receivable ”) shall be paid by Party A in accordance with paragraph (F) below. 
+
+ 10 
+
+ (D) 
+
+ In the event that the Final Reference Price of any Reference Obligation was to be determined by reference to Firm Bids and a Firm Bid was obtained in the manner prescribed by the definition of Final Reference Price but the Final Reference Price is zero because the Final Deletion Date is determined pursuant to paragraph (1)(x) of the definition of Final Deletion Date, if, on or before the 365 th day following the Final Deletion Date applicable to the last Reference Obligation in the Portfolio, the settlement date of the sale transaction contemplated by such Firm Bid occurs and such Party A Entity has received the applicable sale proceeds (the “ Realized Sale Proceeds ”), Party A shall pay to Party B an amount equal to such Realized Sale Proceeds in accordance with paragraph (F) below. 
+
+ (E) In the context of an Adverse Claim, in the event that Party A or the relevant Party A Entity was unable to transfer the relevant Affected Reference Obligation to Party B or its nominee because the conditions specified in the definition of Final Reference Price were not satisfied, if, on or before the 365 th day following the applicable Final Deletion Date, Party A or the relevant Party A Entity effects a sale of the relevant Affected Reference Obligation and Party A or such Party A Entity has received the applicable sale proceeds (the “ Realized Sale Proceeds ”), Party A shall pay to Party B an amount equal to such Realized Sale Proceeds in accordance with paragraph (F) below. 
+
+ (F) 
+
+ (i) 
+
+ if the Net Receivable or Realized Sale Proceeds are received by a Party A Entity before the Termination Date, an amount equal to such Net Receivable and/or such Realized Sale Proceeds (as applicable) shall be credited to the relevant Collection Account as of the relevant date of receipt; 
+
+ (ii) 
+
+ if the Net Receivable or Realized Sale Proceeds are received by a Party A Entity on or after the Termination Date, an amount equal to the Net Receivable or the Realized Sale Proceeds (as applicable), less any Sale Costs and any amounts owing by Party B to Party A pursuant to the terms of this Master Confirmation or the ISDA Master Agreement which remain unpaid, including, without limitation, that portion of any Net Shortfall or the amount due from Party B pursuant to Section 6(e) of the ISDA Master Agreement (if any), shall be paid to Party B on or before the third Business Day following the relevant date of receipt. 
+
+ (G) In the event that at any time after the Final Deletion Date of a Reference Obligation a Party A Entity incurs Step-Up Costs, if such Step-Up Costs are incurred prior to the Termination Date, an amount equal to such Step-Up Costs shall be debited from the Collection Account the Specified Currency of which is the same as the currency denomination of such Step-Up Costs. In the event that any time after the Termination Date, a Party A Entity incurs Step-Up Costs, Party B shall pay to Party A an amount, in the relevant currency in which such Step-Up Costs are denominated equal to such Step-Up Costs on the third Business Day following receipt by Party B of notice from Party A setting out the details thereof. 
+
+ (H) The obligations of Party A and Party B under this Section 9 shall survive the termination of the Transactions under this Master Confirmation and the termination of the ISDA Master Agreement. 
+
+ 11 
+
+ 10. 
+
+ Taxes 
+
+ All payments to be made by a party under each Transaction evidenced by this Master Confirmation shall be made without any deduction or withholding for or on account of any Tax unless such deduction or withholding is required by any applicable law, as modified by the practice of any relevant governmental revenue authority, then in effect. Neither party shall be under any obligation to gross up any payment due to be made by it in respect of any Transaction evidenced hereby or to otherwise compensate the other party in respect of any such Tax. 
+
+ For the avoidance of doubt, the parties intend to treat each Transaction as a notional principal contract (within the meaning of U.S. Treasury regulation section 1.446-3(c)(1)) or a derivative contract for U.S. federal income tax purposes. 
+
+ 11. Credit Support 
+
+ For the purposes of the Credit Support Annex and this Confirmation, the following shall apply in respect of the Credit Support Annex and in the event of any inconsistency between the terms of the Credit Support Annex (including Paragraph 13 thereof) and the following terms, the terms set out below shall apply. Unless otherwise defined in this Confirmation, all capitalized terms used in this Section 11 which are not otherwise defined in this Confirmation shall have the meanings as are ascribed to such terms in the Credit Support Annex. 
+
+ (A) Collateral Requirements in respect of Reference Obligations Only 
+
+ (i) Independent Amount . For purposes of the Credit Support Annex, on each Valuation Date (as defined in the Credit Support Annex) the Independent Amount applicable to Party B in respect of the Transaction evidenced hereby but only in the context of Reference Obligations shall be an amount, in USD, equal to the greater of (x) USD 10,000,000, and (y) the aggregate of the respective RO Independent Amounts applicable to each Reference Obligation then comprised in the Portfolio. For purposes hereof, “ RO Independent Amount ” means, in the context of a Reference Obligation, an amount in USD, equal to 40% of (i) during any period other than the Ramp-Down Period, the USD Equivalent of the Traded Book Value of such Reference Obligation), and (ii) during the Ramp-Down Period, the Book Value of such Reference Obligation, 
+
+ Notwithstanding the terms of the Credit Support Annex, the RO Independent Amount attributable to a Reference Obligation shall be Transferred (as defined in the Credit Support Annex) by Party B to Party A on the applicable Addition Commitment Date. 
+
+ If on the relevant Valuation Date all or a portion of the Traded Face Amount of a Reference Obligation is subject to the Additional Credit Support provisions of this Confirmation because such Reference Obligation is a Designated Reference Obligation, for purposes of determining the RO Independent Amount required in respect of any such Designated Reference Obligation, the references in the preceding paragraph to the “Traded Book Value” and “Book Value” shall mean the relevant Traded Book Value or Book Value (as applicable) of the relevant Designated Reference Obligation minus the product of (i) the relevant Traded Book Value or Book Value (as applicable) of the relevant Designated Reference Obligation, and (ii) the Additional Credit Support Percentage. For purposes hereof, “ Additional Credit Support Percentage ” means, in respect of a Designated Reference Obligation, the quotient of (x) the applicable Designated Face Amount, and (ii) the Traded Face Amount (where Traded Portfolio Book Value applies) or Face Amount (where Portfolio Book Value applies). 
+
+ 12 
+
+ (ii) Exposure. For purposes of the Credit Support Annex, “ Exposure ” means, with respect to Party A and a Valuation Date, the absolute value of the sum, if negative, of (i) the Portfolio Mark to Market (if negative) in effect on the relevant Valuation Date, (ii) the aggregate of the USD Equivalent of the respective balances (if any) of each Collection Account in effect on the relevant Valuation Date, (iii) the aggregate of the USD Equivalent of the Additional Credit Support applicable to each Designated Reference Obligation on such Valuation Date (which, for the avoidance of doubt, shall be factored into this definition as a negative), and (iv) if the relevant Valuation Date falls within the period commencing on, and including, a Period End Date to, but excluding, the first Payment Date following such Period End Date, any Net Shortfall or Net Surplus then in effect; provided, however, if the sum of (i) through (iv) is not a negative number, then Exposure shall be zero. 
+
+ (iii) Delivery Amount . Notwithstanding the terms of the Credit Support Annex, “ Delivery Amount ” means, with respect to Party B on any Valuation Date but only with regard to Reference Obligations, the greater of (1) the amount, in USD and if positive, determined by subtracting Value of the Posted Collateral in effect on the relevant Valuation Date in respect of Reference Obligations from the Independent Amount applicable to Reference Obligations, and (2) the amount, in USD, required to ensure that the Credit Support Market Value as of the relevant Valuation Date is not less than 25%. 
+
+ (iv) Return Amount . Notwithstanding the terms of the Credit Support Annex, a Return Amount in respect of Reference Obligations shall be transferable by Party A only if: 
+
+ (1) 
+
+ a Termination Event, Event of Default, Portfolio Event or a Potential Event of Default has not occurred and is continuing, or would not occur as a result of such transfer, in respect of Party B; 
+
+ (2) 
+
+ after the transfer of such Return Amount the Value as of the relevant Valuation Date of the Posted Collateral held by the Custodian pursuant to the Custodian Agreement minus the Exposure would not be less than the sum of the Make-Whole Spread Amount and the Withholding Amount; 
+
+ (3) 
+
+ after the transfer of such Return Amount the Value as of the relevant Valuation Date of the Posted Collateral held by the Custodian pursuant to the Custodian Agreement minus the Exposure would not be less than the Independent Amount; and 
+
+ (4) 
+
+ during the Ramp-Down Period, after the transfer of such Return Amount the Value as of the relevant Valuation Date of the Posted Collateral held by the Custodian pursuant to the Custodian Agreement minus the Exposure would not be less than the Portfolio Book Value. 
+
+ (B) Collateral Requirements in respect of Unlevered Portfolio Reference Obligations Only 
+
+ (i) Independent Amount . For purposes of the Credit Support Annex, on each Valuation Date the Independent Amount applicable to Party B in respect of the Transaction evidenced hereby but only in the context of Unlevered Portfolio Reference Obligations shall mean an amount equal to the aggregate of the UPRO Independent Amounts determined in respect of each Unlevered Portfolio Reference Obligation then comprised in the Unlevered Portfolio. For purposes hereof, “ UPRO Independent Amount ” means, in respect of an Unlevered Portfolio Reference Obligation, the USD Equivalent of the (i) in respect of any Valuation Date occurring at any time other than the Ramp-Down Period, the Traded Book Value of such Unlevered Portfolio Reference Obligation, or (ii) in respect of any Valuation Date occurring during the Ramp-Down Period, the Book Value of such Unlevered Portfolio Reference Obligation. 
+
+ 13 
+
+ Notwithstanding the terms of the Credit Support Annex, the UPRO Independent Amount attributable to a Unlevered Portfolio Reference Obligation shall be Transferred (as defined in the Credit Support Annex) by Party B to the Custodian under the terms of the Custodian Agreement on the applicable Addition Commitment Date. 
+
+ (ii) Delivery Amount . Notwithstanding the terms of the Credit Support Annex, “ Delivery Amount ” means, with respect to Party B on any Valuation Date but only in regard to Unlevered Portfolio Reference Obligations, the greater of (1) the amount, in USD and if positive, determined by subtracting Value of the Posted Credit Support in effect on the relevant Valuation Date from the Independent Amount applicable to Unlevered Portfolio Reference Obligations. 
+
+ (iii) Return Amount . Notwithstanding the terms of the Credit Support Annex, a Return Amount in respect of Unlevered Portfolio Reference Obligations shall be transferable by Party A only if: 
+
+ (1) 
+
+ a Termination Event, Event of Default, Portfolio Event or a Potential Event of Default has not occurred and is continuing, or would not occur as a result of such transfer, in respect of Party B; 
+
+ (2) 
+
+ after the transfer of such Return Amount the Value as of the relevant Valuation Date of the Posted Collateral held by the Custodian pursuant to the Custodian Agreement in respect of Reference Obligations and Unlevered Portfolio Reference Obligations minus the Exposure would not be less than the sum of the Make-Whole Spread Amount and the Withholding Amount; 
+
+ (3) 
+
+ after the transfer of such Return Amount the Value as of the relevant Valuation Date of the Posted Collateral held by the Custodian pursuant to the Custodian Agreement in respect of Reference Obligations and Unlevered Portfolio Reference Obligations minus the Exposure would not be less than the Independent Amount applicable to both Reference Obligations and Unlevered Portfolio Reference Obligations; and 
+
+ (4) 
+
+ during the Ramp-Down Period, after the transfer of such Return Amount the Value as of the relevant Valuation Date of the Posted Collateral held by the Custodian pursuant to the Custodian Agreement in respect of Reference Obligations and Unlevered Portfolio Reference Obligations minus the Exposure would not be less than the Portfolio Book Value. 
+
+ If, in the context of Section 11(A)(iv) and Section 11(B)(iii) above, a transfer of less than all of a Return Amount otherwise transferrable in respect of a Valuation Date would not cause a breach of any of the restrictions set out in such subsections, Party A shall issue the necessary instructions to the Custodian which, if given effect, would result in the payment to Party B of that portion of such Return Amount which could be transferred without breaching any of such restrictions to Party B on or before the date on which the relevant Return Amount was otherwise due pursuant to the term of the Credit Support Annex as modified by this Section 11. 
+
+ 14 
+
+ (C) Withholding Amount 
+
+ Notwithstanding the occurrence of the Termination Date and the payment by the relevant party of the Net Surplus or Net Shortfall (if any), if after such payment is made: 
+
+ (i) 
+
+ funds at least equal to the Withholding Amount remain in the Collateral Account (as defined in the Custodian Agreement), Party A may instruct the Custodian to withhold an amount equal to the Withholding Amount; or 
+
+ (ii) 
+
+ the funds remaining in the Collateral Account is less than the Withholding Amount, Party B shall Transfer an amount equal to such shortfall to the Custodian. 
+
+ Party A and Party B agree that (a) the Withholding Amount shall constitute continuing security for Party B’s obligations under Section 9 above, (b) the Custodian shall hold the Withholding Amount, subject to the terms of the Custodian Agreement, until the earlier of the date on which Party A’s written consent authorizing the release the Withholding Amount to Party B is received by the Custodian and such date as shall be the first anniversary of the Termination Date (such first anniversary being the “ Release Date ”), (c) if on or before the Release Date, Party A becomes aware that an event has occurred which may trigger a payment by Party B under Section 9 above, Party B agrees that Party A may so notify the Custodian and Party B and instruct the Custodian not to release the Withholding Amount to Party B on or before the first anniversary of the Termination Date (the “ Adjusted Release Date ”), and (d) if on or before the Release Date or Adjusted Release Date, an amount becomes payable by Party B pursuant to Section 9 above, Party A may by notice to the Custodian and Party B, require that the Custodian release to Party A such portion of the Withholding Amount as shall be needed to satisfy the amount then payable by Party B. 
+
+ If prior to the Release Date or Adjusted Release Date, Party B wishes to have the Withholding Amount released to it, Party B may by notice to Party A request that Party A instruct the Custodian to release the Withholding Amount to Party B. 
+
+ For purposes hereof, “ Withholding Amount ” means USD 100,000. 
+
+ (D) Dispute Resolution 
+
+ In connection with each demand by Party A for the Transfer of Eligible Collateral in connection with the Credit Support Annex (as modified by this Section 11), Party A shall provide to Party B a statement in such detail as is reasonably necessary to enable Party B to comprehend how the quantum of the demand was determined by Party A. If the relevant demand is issued by Party A on or before the Notification Time on any Local Business Day and Party B wishes to dispute such demand, Party B must, on or before 5:00 p.m. (New York time) on the day on which the relevant demand is issued by Party A, 
+
+ (1) 
+
+ notify Party A of the particular component of Party A’s calculation which Party B disputes, 
+
+ (2) provide Party B’s recalculation of the relevant demand, and 
+
+ (3) 
+
+ if the demand, as recalculated by Party B, still requires the transfer of Eligible Collateral by Party B, transfer to Party A such amount of Eligible Collateral; provided, however, that if at the time the demand is made (i) Party B is a Defaulting Party with respect to an Event of Default or a Potential Event of Default that has occurred and is continuing (but, in the context of a Potential Event of Default, only if such Potential Event of Default pertains to Section 5(a)(i) or 5(a)(vii) of the ISDA Master Agreement), or (ii) the sole Affected Party with respect to a Termination Event that has occurred and is continuing, then, during the pendency of the dispute, Party B shall transfer to Party A the undisputed and disputed amount of Eligible Collateral as originally calculated by Party A, 
+
+ failing which Party B shall be deemed to have accepted Party A’s determination of the relevant demand. If the relevant demand is issued by Party A after the Notification Time on any Local Business Day, Party B must provide the foregoing on or before 12:00 p.m. (noon), New York time, on the first Local Business Day following the date on which Party A issued the relevant demand failing which Party B shall be deemed to have accepted Party A’s determination of the relevant demand. 
+
+ Where Party B’s dispute pertains to Party A’s determination of the Market Price of any Reference Obligation or the number of bid quotations in respect of such Market Price (either in connection with the Portfolio Mark to Market or the required Additional Credit Support), the relevant disputed Market Price shall be re-determined on the first Business Day following the date on which the disputed demand was issued by Party A in accordance with the provisions of the second paragraph of the definition of “Market Price”. If Party A notifies Party B of the recalculated demand resulting from any re-determined Market Price on or before the Notification time on any Local Business Day, Party B shall transfer to Party A any additional Eligible Collateral required of Party B on or before 5:00 p.m. (New York time) on such Local Business Day. If Party A notifies Party B of the recalculated demand resulting from any re-determined Market Price after the Notification time on any Local Business Day, Party B shall transfer to Party A any additional Eligible Collateral required of Party B on or before 12:00 p.m. (noon), New York time, on the following Local Business Day. 
+
+ Where Party B’s dispute pertains to something other than the Market Price of any Reference Obligation or the number of bid quotations in respect of such Market Price, arithmetical errors or other errors pertaining to items the quantification of which is not subject to discretionary determinations on the part of Party A, and if said dispute cannot be settled through negotiation by 5:00 p.m. (New York time) on the second Business Day following the day on which the relevant disputed demand was issued by Party A, each party will each appoint a Reference Market-maker. The Reference Market-makers so appointed will jointly select a third Reference Market-maker (the " Substitute Valuation Agent "). Such Substitute Valuation Agent shall be responsible for promptly determining whether Party A is entitled to the Disputed Amount. The Substitute Valuation Agent will make its determination in a commercially reasonable manner on the basis of information from sources believed by it to be reliable. Upon determining the matter in dispute, the Substitute Valuation Agent shall give notice of its determination and such determination will be conclusive and binding on the parties absent manifest error and the fees and expenses of the Substitute Valuation Agent shall be borne by the unsuccessful party. 
+
+ The failure of Party B to transfer to Party A the full amount of Eligible Collateral set out in any demand made by Party A will not constitute an Event of Default for purposes of the ISDA Master Agreement with respect to Party B for so long as Party B is complying with its obligations in respect of the procedures set out in this paragraph (iv). Any delivery or return of any Eligible Collateral or Posted Credit Support, as applicable, shall be made by the relevant party on the basis of the relevant determination, calculation or adjustment, determined in accordance with the terms hereof within one Local Business Day of notice to such party of that amount. For the avoidance of doubt, upon completion of those procedures, an Event of Default may arise with respect to a party upon the failure of such party to effect the required transfer by the relevant time on the relevant due date. 
+
+ 15 
+
+ The parties hereto agree that, in respect of any matter to be determined pursuant to the dispute resolution provisions set out above, Part 4(e) of the ISDA Master Agreement shall not apply. 
+
+ 12. Notices 
+
+ Except as otherwise provided for below, all notices or communications required to be given to Party A pursuant to the terms of this Master Confirmation or the ISDA Master Agreement, shall be provided (A) in accordance with the terms in Section 12 of the ISDA Master Agreement and (B) shall also be (i) sent by email to both struct.prod@scotiabank.com and CreditTRS.GCM@scotiabank.com, and (ii) confirmed by way of telephonic notice to Party A’s Designated Party. All notices or communications required to be given to Party B pursuant to the terms of this Master Confirmation or the ISDA Master Agreement shall be provided (A) in accordance with the terms in Section 12 of the ISDA Master Agreement directed to the relevant numbers or addresses designated by Party B in Part 4 of the Schedule to the ISDA Master Agreement and (B) shall also be (i) sent by email CCTFundAdministration@cnl.com, CNL_ClientOps@statestreet.com, CNL_Custody@statestreet.com, CNLTreasuryServices@statestreet.com, and 12146605070@tls.ldsprod.com, and (ii) confirmed by way of telephonic notice to Party B’s Designated Party. In each case, the relevant notice shall be effective as provided for in Section 12 of the ISDA Master Agreement or, if sent by email, on the latest date by which both such email and telephonic notice is received by the intended recipient. Notwithstanding the foregoing, all notices with respect to this Transaction in connection with Sections 5 and 6 of the ISDA Master Agreement shall be directed to the relevant party at the relevant numbers or addresses set out in Part 4 of the Schedule to the ISDA Master Agreement and all such notices shall become effective as provided for in Section 12 of the ISDA Master Agreement; provided that any such notices cannot be given by facsimile or electronic messaging systems. For purposes hereof, “ Designated Party ” means, with respect to Party A, any of Patricia Arroyo, Barry Delman, Andy Dickison, Jeffrey Kempa, Sasha Mogilevich or Ronny Sirizzotti. In respect of Party B, “ Designated Party ” means any of Robert Campbell (407) 540-2112, or Paul Saint-Pierre (407) 540-2599. Each party hereto will notify the other in respect of any changes to the list of individuals who constitute a Designated Party for such party. 
+
+ 13. 
+
+ Acknowledgments, Representations, Agreements and Undertakings . 
+
+ (A) Each of Party A and Party B understands, agrees, represents, acknowledges and undertakes as follows: 
+
+ (i) 
+
+ Uncommitted Facility. For greater certainty, nothing in this Master Confirmation shall be construed as (1) rendering the transactions contemplated hereby a committed facility, or (2) obligating Party A to continue to add any particular number of loans to the Portfolio. 
+
+ (ii) 
+
+ Non-Reliance. It is acting for its own account, and it has made its own independent decisions to enter into any Transaction evidenced by this Master Confirmation and as to whether such Transaction is appropriate or proper for it based upon its own judgment and upon advice from such advisors as it has deemed necessary. It is not relying on any communication (written or oral) of the other party hereto as investment advice or as a recommendation to enter into any Transaction evidenced by this Master Confirmation, it being understood that information and explanations related to the terms and conditions of such Transaction shall not be considered to be investment advice or a recommendation to enter into such Transaction. No communication (written or oral) received from the other party hereto shall be deemed to be an assurance or guarantee as to the expected results of any Transaction evidenced by this Confirmation. 
+
+ 16 
+
+ (iii) 
+
+ Assessment and Understanding . It understands that the Transactions evidenced by this Master Confirmation are subject to complex risks that may arise without warning and may at times be volatile and that losses may occur quickly and in unanticipated magnitude and is capable of assuming, and does assume, these risks. It is capable of assessing the merits of and understanding (on its own behalf or through independent professional advice), and understands and accepts the terms and conditions of each Transaction evidenced by this Master Confirmation. 
+
+ (iv) 
+
+ Status of Parties . The other party hereto is not acting as a fiduciary for, or advisor to, it in respect of any Transaction evidenced by this Master Confirmation. 
+
+ (v) 
+
+ Appraisal of Reference Obligor and Reference Obligation. It has itself been, and will at all times continue to be, solely responsible for making its own independent appraisal of and investigation into the business, financial condition, prospects, creditworthiness status and affairs of each Reference Obligor and its own independent appraisal of each Reference Obligation. It has not relied, and will not at any time rely, on the other party hereto or any affiliate thereof (i) except as otherwise provided for below, to provide it with any information relating to, or to keep under review on its behalf, the business, financial condition, prospects, creditworthiness, status or affairs of any Reference Obligor or (ii) to determine whether or not at the date hereof a credit event or an event or circumstance which, with the giving of notice or the passage of time or both, could constitute a credit event, has occurred. In entering into this Transaction, the other party hereto is not making, and has not made, any representation whatsoever as to any Reference Obligor or any information contained in any document filed by any Reference Obligor with any exchange or with any government entity. 
+
+ (vi) 
+
+ Interest in Reference Obligation. It acknowledges that no Transaction evidenced by this Confirmation represents or conveys any interest in any Reference Obligation(s) or any direct or indirect obligation of any Reference Obligor. 
+
+ (B) 
+
+ Party B understands, agrees, represents, acknowledges and undertakes as follows: 
+
+ (i) 
+
+ Dealings with Reference Obligor. Party A and each Affiliate of Party A may accept deposits from, make loans or otherwise extend credit to, and generally engage in any kind of commercial or investment banking business with, any Reference Obligor, or its affiliates or any other person or entity having obligations relating to the Reference Obligation(s) and may act with respect to such business freely and without accountability to it in the same manner as if this Master Confirmation or the Transactions evidenced thereby did not exist, regardless of whether any such action might have an adverse effect on the Reference Obligation(s), the Reference Obligors or Party B. 
+
+ (ii) 
+
+ Disclosure of Information. Party A and each Affiliate of Party A may, whether by virtue of the types of relationships described above or otherwise, at the date hereof or at any time hereafter be in possession of information in relation to the Reference Obligation(s) or the Reference Obligors that is or may be material in the context of the Transactions evidenced by this Master Confirmation and which is or may not be known to the general public or Party B. Except as expressly provided for in this Master Confirmation, the Transactions evidenced hereby create no obligation on the part of Party A, any Party A Entity or any other Affiliate of Party A to disclose to Party B any such relationship or information (whether or not confidential) and Party A, any Party A Entity and any other Affiliate of Party A shall not be liable to Party B by reason of such non-disclosure. No such information has been used in the selection of any Reference Obligor or Reference Obligation. 
+
+ 17 
+
+ (iii) 
+
+ Obligations in Respect of Reference Obligations . The parties acknowledge that Party A may elect not to hold (directly or through a Party A Entity) any Reference Obligation comprised in the Portfolio. 
+
+ (iv) 
+
+ Miscellaneous . Notwithstanding any approval by Party A to include any loan, in the Portfolio and a Party A Hedging election in respect of such loan, nothing in this Master Confirmation shall be construed as constituting Party B, KKR Asset Management LLC, their respective Affiliates or any other party as the agent or representative of Party A or its Affiliates in respect of the acquisition of such loan or any other matter. 
+
+ (v) 
+
+ Securities Act . In respect of a Reference Obligation which is a bond, Party B is not and has not been an “affiliate” of a Reference Obligor (as such term is defined in Rule 405 and Rule 144 under the Securities Act of 1933, as amended) or the Reference Obligations for at least three months prior to the Addition Commitment Date and through the Final Deletion Date will not be an affiliate of the Reference Obligor; (ii) it was not, on the Addition Commitment Date and will not be on any date that it elects to delete a Reference Obligation hereto (regardless of the time of such delivery) in possession of material non-public information regarding the Reference Obligor or the Reference Obligation. “Material” for these purposes means any information to which an investor would reasonably attach importance in reaching a decision to buy, sell or hold securities of the Reference Obligor. 
+
+ 14. Definitions . As used herein: 
+
+ “ Acquisition Costs ” means, in respect of any loan which Party B has requested be added to the Portfolio pursuant to Section 3 hereof and in respect of which Party A Hedging applies, all reasonable and documented costs (other than the purchase price) incurred by a Party A Entity in connection with the purchase of, or the failed attempt to purchase, such obligation in a principal amount equal to the applicable principal amount thereof requested by Party B including, without limitation, compensation payments, fees, damages, costs and make-whole payments mandated by the LMA Purchase and Sale Documentation, LSTA Purchase and Sale Documentation or other trading documentation commonly used or mandated by the relevant trading market, and reasonable and documented external legal fees. For purposes of Section 8 hereof, the Acquisition Costs pertaining to a Reference Obligation or in connection with a failed attempt to purchase a loan or bond shall be deemed to have been incurred on the date on which such Acquisition Costs are paid by a Party A Entity. 
+
+ “ Actual Spread Amount ” means, in respect of a determination date and all Reference Obligations denominated in the same Specified Currency, the product of (i) the aggregate of the Book Values of all Reference Obligations comprised in the Portfolio on the relevant determination date which are denominated in the relevant Specified Currency, (ii) the Spread in effect on such date, and (iii) 1/360 or, if the relevant Reference Obligations are denominated in GBP or CAD, 1/365, converted into USD utilizing the relevant exchange rate that would be applicable were the USD Equivalent of such product to be determined on the first Payment Date following the relevant determination date. 
+
+ 18 
+
+ “ Addition Amount ” shall have the meaning as is ascribed to such term in the definition of Addition Commitment Date. 
+
+ “ Addition Commitment Date ” means, in respect of any principal amount of a loan or bond proposed by Party B to be added to the Portfolio at a specified purchase price that Party A has approved: 
+
+ (i) 
+
+ in regard to which Party A Hedging applies, the date specified as the Trade Date in the Trade Confirmation between the relevant Party A Entity and a vendor, duly completed and executed by both such vendor and the relevant Party A Entity, by which such Party A Entity agrees to purchase the applicable principal amount of such loan or bond for a price equal to the applicable purchase price; and 
+
+ (ii) 
+
+ in regard to which Party A Hedging does not apply, the date on which Party A agrees to add the relevant loan or bond to the Portfolio; 
+
+ and as of such date, such approved principal amount constitutes an “ Addition Amount ” and such related purchase price (expressed as a percentage of par value) constitutes an “ Addition Price ” . 
+
+ “ Addition Date ” means, in respect of any Addition Amount for a relevant Reference Obligation: 
+
+ (x) 
+
+ where Party A Hedging applies, the settlement date of the relevant purchase transaction; and 
+
+ (y) 
+
+ where Party A Hedging does not apply, the applicable Addition Commitment Date. 
+
+ “ Addition Price ” shall have the meaning as is ascribed to such term in the definition of Addition Commitment Date. The Addition Price for any PIK Amount shall be deemed to be zero. 
+
+ “ Additional Credit Support ” means, in respect of a Designated Reference Obligation, an amount equal to the USD Equivalent of the product of (a) the Book Value of such Designated Reference Obligation, and (b) the quotient of (i) the Designated Face Amount, and (ii) the Traded Face Amount. 
+
+ " Administration Fees and Expenses " means in respect of a Reference Obligation to which Party A Hedging applies, all (1) actual and documented costs and fees paid by a Party A Entity to a lender or agent under the relevant Credit Documentation, including amounts paid as an indemnity or compensation for acting as agent under or for providing administrative services with respect to such Credit Documentation or such Reference Obligation; (2) actual and documented advisory fees required to be paid by a Party A Entity in respect of such Reference Obligation as a holder thereof or which Party B requests that a Party A Entity incur in respect of such Reference Obligation, (3) reasonable and documented external legal fees incurred by a Party A Entity in connection with its ownership of such Reference Obligation with respect to which a default, event of default or similar event has occurred or in connection with any Reference Obligation which is a Distressed Loan, and (4) all actual and documented Step-Up Costs (collectively, “ Expenses ”); provided, however that Expenses shall not include Expenses directly attributable to Party A’s gross negligence, wilful misconduct or fraud. For purposes of Section 8 hereof, the Administration Fees and Expenses pertaining to a Reference Obligation shall be deemed to have been incurred on the date on which such Administration Fees and Expenses are paid by a Party A Entity; provided, that in the context of Step-Up Costs, such Step-Up Costs shall be deemed to have been incurred on the date on which Step-Up Costs are claimed from the relevant Party A Entity. 
+
+ 19 
+
+ “ Advantage Data ” means the secondary market bond pricing service maintained by Advantage Data Inc. 
+
+ “ Adverse Claim ” means, in respect of a Reference Obligation which is a loan and in regard to which Party A Hedging applies, the existence of any lien, claim, security interest or other encumbrance ranking, in whole or in part, in priority to the relevant Party A Entity’s interest in and to such Reference Obligation (other than any lien, claim, security interest or encumbrance created by a Party A Entity or which arises pursuant to the terms of the relevant Credit Documentation) or the commencement of any legal proceedings against the relevant Party A Entity by any entity in respect of any claim respecting the relevant Party A Entity’s ownership of such Reference Obligation which, if such were to be upheld by a court having the requisite jurisdiction and is not a result of the gross negligence of the relevant Party A Entity, would impugn, negate or subordinate, in whole or in part, such Party A Entity’s legal and beneficial ownership of such Reference Obligation or which would subject or subordinate, in whole or in part, such Party A Entity’s ownership of such Reference Obligation to any lien, claim, security interest or encumbrance in favour of any other party. 
+
+ “ Affected Reference Obligation ” means in the context of (1) an election to delete made by Party B pursuant to Section 4(A), each Reference Obligation selected by Party B for deletion from the Portfolio, (2) the occurrence of a Permanent Reduction, Conversion Event or Hedge Event, each Reference Obligation to which such event applies, (3) following the occurrence of an Adverse Claim, each Reference Obligation to which such Adverse Claim applies, (4) the occurrence of the Scheduled Ramp-Down Date, each Reference Obligation comprised in the Portfolio as of the Scheduled Ramp-Down Date, or (5) following the designation of an Early Termination Date, each Reference Obligation comprised in the Portfolio as of the Early Termination Date. 
+
+ “ Banking Day ” means, in the context of a particular city, any day on which commercial banks are open for general business (including dealings in foreign exchange and foreign currency deposits) in that city. 
+
+ “ Bloomberg ” means the Bloomberg Generic Price (BGN). 
+
+ “ Book Value ” means, in respect of a Reference Obligation and a particular Determination Date, (I) the sum of the products of (x) each Addition Amount and each PIK Amount applicable to such Reference Obligation in respect of which a PIK Accretion Date has occurred prior to the relevant Determination Date, and (y) the relevant Addition Price applicable thereto less (II) the sum of the products of (x) the Deletion Amount, and (y) the Initial Reference Price for each Deletion Amount for which a Final Deletion Date has occurred. For the avoidance of doubt, the Book Value of a Reference Obligation shall include both the Funded Amount and the Unfunded Amount of its Addition Amount. 
+
+ “ Business Day Convention ” means that an adjustment will be made to a date if that date would otherwise fall on a day that is not a Business Day so that the date will be the first following day that is a Business Day unless that day falls in the next calendar month, in which case that date will be the first preceding day that is a Business Day. 
+
+ “ CAD ” means the lawful currency of Canada. 
+
+ 20 
+
+ “ CAD-BA-CDOR ” means the rate for the relevant date of determination will be the rate for Canadian dollars bankers acceptances for a period of the Designated Maturity which appears on Reuters service display page CDOR or any Successor Source as of 10:00 a.m., Toronto time, on such date. If such rate does not appear on such display page or Successor Source, the rate for the relevant date of determination will be determined by reference to the arithmetic mean of the bid rates for Canadian dollar bankers acceptances for a period of the Designated Maturity as of 10:00 a.m., Toronto time, on such date obtained by Party A in good faith and in a commercially reasonable manner from at least three Schedule I chartered banks of Canada. 
+
+ “ Calculation Period ” means each period from, and including, one Period End Date to, but excluding, the next following Period End Date, except that (a) the initial Calculation Period will commence on, and include, the Effective Date and (b) the final Calculation Period will end on, but exclude, the Termination Date. 
+
+ ” Commitment Fees ” means, in respect of a Reference Obligation that is a loan, (1) where Party A Hedging does not apply, all commitment fees that are paid to holders of record holding a principal amount of the relevant Reference Obligation equal to the Face Amount applicable to such Reference Obligation on the relevant Determination Date net of any withholding or other taxes which Party A determines, in its sole discretion, are deducted by the Reference Obligor or its payment agent, or (2) where Party A Hedging applies, all commitment fees received by a Party A Entity on the relevant Determination Date net of any withholding or other taxes deducted by the Reference Obligor or its payment agent. For purposes of Section 8 hereof, the Commitment Fees pertaining to a Reference Obligation shall be deemed to have been paid on, where Party A Hedging does not apply, the dates specified in (1) above, and where Party A Hedging applies, the date of the relevant Party A Entity’s receipt of such Commitment Fees. 
+
+ “ Conversion Event ” means (1) in the context of a Reference Obligation which is a loan, the Reference Obligation is restructured in any way such that the relevant Reference Obligation ceases to be, in the reasonable determination of Party A, (x) in the context of a Reference Obligation which was added to the Portfolio as a First Lien Loan, a First Lien Loan, or (y) in the context of a Reference Obligation which was added as a Second Lien Loan, a Second Lien Loan, (2) in the context of a Reference Obligation which is a bond, the Reference Obligation is structured in a way such that the relevant Reference Obligation ceases to be, in the reasonable determination of Party A, (x) in the context of a Reference Obligation which was added to the Portfolio as a Senior Secured Bond, a Senior Secured Bond, or (y) in the context of a Reference Obligation which was added to the Portfolio as a Senior Unsecured Bond, a Senior Unsecured Bond, or (3) in the context of any Reference Obligation, the Reference Obligation is converted into Conversion Proceeds irrespective of whether a Party A Entity may have, as a holder of the relevant Reference Obligation, consented to such conversion. 
+
+ “ Conversion Proceeds ” means any non-cash assets or securities (whether of the Reference Obligor or any other entity or person), including options, warrants and income trust units or depository receipts representing such securities, (x) where Party A Hedging does not apply, to which a Reference Obligation Holder holding a principal amount of the relevant Reference Obligation equal to the relevant Deletion Amount would be entitled upon the occurrence of the relevant Conversion Event, or (y) where Party A Hedging applies, received by a Party A Entity. 
+
+ “ Credit Documentation ” means each note, indenture, loan agreement or other evidence of indebtedness or interest therein applicable to a Reference Obligation. 
+
+ 21 
+
+ “ Credit Support Market Value ” means, on any Valuation Date, the quotient of (1) (x) the Value of the Posted Collateral (other than Posted Collateral Transferred to Party A in respect of any Unlevered Portfolio Reference Obligation) in effect as of the relevant Valuation Date (as such terms are defined in the Credit Support Annex), minus (y) the Exposure in effect on such Valuation Date, and (2) the Portfolio Book Value (determined without reference to the Book Value of any Unlevered Portfolio Reference Obligation) in effect on such Valuation Date. 
+
+ “ Deletion Amount ” means, in respect of a Reference Obligation being deleted (i) pursuant to Section 4(C) or 4(D) hereof or following the occurrence of a Ramp-Down Period Start Date, 100% of the Traded Face Amount of such Reference Obligation, (ii) pursuant to Section 4(B) hereof, that portion of the Traded Face Amount equal to the relevant Permanent Reduction or that portion of the Traded Face Amount to which the Conversion Event applies, or (iii) pursuant to Section 4(A) hereof (other than in the context of an election by Party B to delete all Reference Obligations then comprised in the Portfolio), such percentage of the Traded Face Amount as is specified by Party B to Party A by notice given in accordance with Section 12 hereof or, if Party B does not specify the Deletion Amount in its deletion notice or Cure Election, 100% of the Traded Face Amount. 
+
+ “ Deletion Commitment Date ” means, in respect of the relevant Deletion Amount of a Reference Obligation being deleted pursuant to Section 4(A), the occurrence of a Conversion Event where no Conversion Proceeds are paid, 4(C) or 4(D), (i) where Party A Hedging does not apply or in the context of the occurrence of an Adverse Claim, the date on which the Final Reference Price is determined or, in the context of a Conversion Event, the date on which the Conversion Event occurs, or (ii) where Party A Hedging applies, the date specified as the Trade Date in the Trade Confirmation between the relevant Party A Entity and a purchaser whose Firm Bid is the basis of the relevant Final Reference Price, duly completed and executed by both such purchaser and the relevant Party A Entity, by which such purchaser agrees to purchase the applicable Deletion Amount of such Reference Obligation from the relevant Party A Entity. In the context of Section 4(B) hereof (other than the occurrence of a Conversion Event where no Conversion Proceeds are paid), the Deletion Commitment Date shall be the date on which (1) where Party A Hedging does not apply, the Permanent Reduction or Conversion Event occurs, or (2) where Party A Hedging applies, the Permanent Reduction or Conversion Proceeds are received by the Reference Obligation Holder. For greater certainty, where the Deletion Amount is less than the applicable Traded Face Amount of a Reference Obligation being deleted, the date determined in accordance with the preceding sentence shall be the Deletion Commitment Date only in respect of such Deletion Amount. 
+
+ “ Deletion Return Amount ” means, in respect of a Deletion Amount and a Final Deletion Date, an amount, in the relevant Specified Currency, equal to the product of (x) the relevant Final Reference Price minus the relevant Initial Reference Price and (y) the Deletion Amount. Where the Deletion Return Amount is a positive number, such amount represents a Deletion Return Amount payable by Party A. Where the Deletion Return Amount is a negative number, the absolute value thereof represents a Deletion Return Amount payable by Party B. 
+
+ “ Deletion Value ” means, in respect of a deletion, the Deletion Amount multiplied by the Final Reference Price.
+
+ “ Designated Reference Obligation ” shall have the meaning as is ascribed to such term in Section 5(B)(2). 
+
+ 22 
+
+ “ Determination Date ” means each day in the Term. 
+
+ “ Directed Bidder ” means Party B or any Reference Market-maker selected by Party B to provide a Firm Bid provided, at the relevant time, Party B or any such selected Reference Market-maker would constitute an eligible assignee of such Reference Obligation under the terms of the relevant Credit Documentation. 
+
+ “ Distressed Loan ” means a Reference Obligation a purchase and sale of which would, in accordance with market convention, as reasonably determined by Party A, in effect as of the relevant Addition Commitment Date or Deletion Commitment Date (as applicable), settle on distressed documents rather than par documents; provided, however, that with respect to any loan which trades in the U.S. secondary loan market, if the LSTA has conducted a shift poll in respect of whether the market has shifted to utilizing distressed documents for purposes of settling trades in the relevant loan, the determination of such shift poll shall be determinative of whether such loan constitutes a Distressed Loan. 
+
+ “ Distressed Price Support ” means, in respect of a Reference Obligation the Market Price of which is less than 65%, an amount equal to the product of (x) the amount by which the Market Price is less than 65% and (y) the Face Amount of such Reference Obligation, and (2) in respect of a Designated Reference Obligation, an amount equal to the product of (a) the Book Value of such Reference Obligation, and (b) the quotient of (i) the Designated Face Amount, and (ii) the Traded Face Amount. For the purposes of determining the Distressed Price Support, any Reference Obligation subject to sub-section (2) above shall not be included for the purposes of sub-sections (1); provided that the Designated Face Amount equals the Traded Face Amount. 
+
+ " Distribution Payments " means, in respect of a Reference Obligation, (1) where Party A Hedging does not apply, the aggregate of all interest, delayed compensation, breakage costs, fees, economic benefit and any other payments on such Reference Obligation (other than principal repayments, indemnity amounts, Permanent Reductions, Conversion Proceeds, Realized Sales Proceeds and Commitment Fees) which would be, as determined by Party A by reference to the terms of the relevant Credit Documentation or Offer Documentation, paid to a Reference Obligation Holder net of any withholding or other taxes which Party A determines, in its reasonable discretion, would be deducted by the Reference Obligor or its payment agent for payments to the Reference Obligation Holder, or (2) where Party A Hedging applies, all interest, delayed compensation, breakage costs, fees, economic benefit and any other payments on such Reference Obligation (other than principal repayments, indemnity amounts, Permanent Reductions, Conversion Proceeds, Realized Sale Proceeds and Commitment Fees) that are received by a Party A Entity on the relevant Determination Date net of any withholding or other taxes deducted by the Reference Obligor or its payment agent. For purposes of Section 8 hereof, the Distribution Payments pertaining to a Reference Obligation shall be deemed to have been paid on, where Party A Hedging does not apply, the date specified in (1) above, and where Party A Hedging applies, the date of the relevant Party A Entity’s receipt of such Distribution Payments. Notwithstanding anything to the contrary herein, Distribution Payments will not include any (x) withholding taxes (i) that result from the gross negligence of the Reference Obligation Holder or (ii) that could have been reduced or eliminated had the Reference Obligation Holder provided to the Reference Entity such properly completed and executed documentation prescribed by applicable laws or by the taxing authorities to establish an exemption or reduction in the rate of such withholding taxes or (y) FATCA Withholding Taxes. For this purpose, “ FATCA Withholding Taxes ” means any U.S. federal withholding tax imposed or collected pursuant to Sections 1471 through 1474 of the U.S. Internal Revenue Code of 1986, as amended (the “Code”), any current or future regulations or official interpretations thereof, any agreement entered into pursuant to Section 1471(b) of the Code, or any fiscal or regulatory legislation, rules or practices adopted pursuant to any intergovernmental agreement entered into in connection with the implementation of such Sections of the Code. 
+
+ 23 
+
+ “ Drawdown Amount ” means, in respect of a Reference Obligation which is a Revolving Loan or a delayed draw term loan to which Party A Hedging applies, the amount that the relevant Party A Entity is required to advance on the relevant Drawdown Date. 
+
+ “ Drawdown Date ” means, in respect of a Reference Obligation which is a Revolving Loan or a delayed draw term loan and to which Party A Hedging applies, each day in the Term on which the relevant Party A Entity advances funds to the Reference Obligor or its agent pursuant to a draw down by such Reference Obligor of a Drawdown Amount under a credit facility available under the terms of such Reference Obligation. 
+
+ “ EC Treaty ” means the Treaty establishing the European Community (signed in Rome on March 25, 1957), as amended by the Treaty on European Union (signed in Maastricht on February 7, 1992), the Treaty of Amsterdam (signed in Amsterdam on October 2, 1997) and the Treaty of Nice (signed in Nice on February 26, 2001). 
+
+ “ EUR-EURIBOR-Reuters ” means that the rate for the relevant date of determination will be the rate for deposits in Euros for a period of the Designated Maturity which appears on Reuters service display page EURIBOR01 or any Successor Source as of 11:00 a.m., Brussels time, on the day that is two Target Settlement Days preceding the relevant date of determination. If such rate does not appear on such display page or Successor Source, the rate for the relevant date of determination will be determined by reference to the arithmetic mean of the deposit rates in Euros offered, as of 11:00 a.m., Brussels time, on the relevant date of determination, by at least four major banks in the Euro-zone interbank market, as selected by Party A in good faith and in a commercially reasonable manner, to prime banks in the Euro-zone interbank market for a period equal to the Designated Maturity. 
+
+ “ Euro ” means the lawful currency of the member states of the European Union that adopt the single currency in accordance with the EC Treaty. 
+
+ “ Face Amount ” means in respect of a Reference Obligation the sum of the Addition Amounts and all PIK Amounts for which a PIK Accretion Date has occurred minus the sum of the Deletion Amounts for which a Final Deletion Date has occurred. For the avoidance of doubt, the Face Amount of a Revolving Loan or a delayed draw term loan shall include both the Funded Amount and Unfunded Amount thereof. 
+
+ “ Final Deletion Date ” means, in respect of a Reference Obligation: 
+
+ (1) 
+
+ where Party A Hedging applies in the context of any deletion of such Reference Obligation (i) effected pursuant to Section 4(A) including pursuant to any Cure Election, pursuant to Section 4(B) in respect of a Conversion Event for which no Conversion Proceeds are paid, Section 4(C) or Section 4(D) following the designation of an Early Termination Date, (ii) following the occurrence of the Scheduled Ramp-Down Date, or (iii) following the occurrence a Ramp-Down Period Start Date in connection with an election, other than a Cure Election, made pursuant to Section 4(A) to delete all of the Reference Obligations comprised in the Portfolio, the earlier of: 
+
+ (x) 
+
+ the 60 th day following (a) in the context of (1)(i) above, the relevant Deletion Commitment Date, (b) in the context of (1)(ii) above, the Scheduled Ramp-Down Date, or (c) in the context of (1)(iii) above, such Ramp-Down Period Start Date, or, in any case, such later date as Party A may elect by email notice to Party B; and 
+
+ 24 
+
+ (y) 
+
+ the settlement date of the sale transaction evidenced by the applicable Trade Confirmation by which the relevant Party A Entity sells the applicable Deletion Amount of such Reference Obligation; 
+
+ (2) 
+
+ where Party A Hedging applies in the context of any deletion of such Reference Obligation pursuant to Section 4(B) in respect of a Conversion Event for which Conversion Proceeds are paid, the Deletion Commitment Date, and 
+
+ (3) 
+
+ where Party A Hedging does not apply or in the context of any deletion thereof effected pursuant to Section 4(B) which is not specified in (2) or (3) above, the Deletion Commitment Date. 
+
+ Notwithstanding the foregoing, in the context of any of the events specified in (1)(i) above other than a Conversion Event or a Cure Election, if the Deletion Commitment Date for a Reference Obligation does not occur on or before (1) in the context of a Hedge Event, the expiration of the Valuation Period, or, (2) in the context of all such other events, the 60th day following the date on which the deletion process set out in Section 4 commences, the Final Deletion Date for such Reference Obligation shall be such 60 th day. 
+
+ “ Final Reference Price ” means in respect of the relevant Deletion Amount of an Affected Reference Obligation: 
+
+ (i) being deleted (a) pursuant to Section 4(A), (b) pursuant to Section 4(C) following the occurrence of a Hedge Event, (c) following the occurrence of a Conversion Event in respect of which no Conversion Proceeds are paid, or (d) following the occurrence of the Scheduled Ramp-Down Date, (x) where Party A Hedging applies, the Firm Bid from a Directed Bidder, or (y) where Party A Hedging does not apply, the Indicative Bid from a Directed Bidder, 
+
+ (ii) being deleted pursuant to Section 4(B) following (1) a Permanent Reduction, (a) if Party A Hedging does not apply, the amount, expressed as a percentage of par value, equal to the relevant Permanent Reduction, or (b) if Party A Hedging applies, the actual amount, expressed as a percentage of par value, received by a Party A Entity, or (2) a Conversion Event in respect of which Conversion Proceeds are paid, (a) if Party A Hedging does not apply, the amount, as reasonably determined by the Calculation Agent and expressed as a percentage of par value, equal to fair market value of the Conversion Proceeds, or (b) where Party A Hedging applies, zero (for the avoidance of doubt, subject to Party A’s obligation to deliver the Conversion Proceeds to Party B), 
+
+ (iii) being deleted pursuant to Section 4(C) following the occurrence of an Adverse Claim, zero, and 
+
+ (iv) being deleted pursuant to Section 4(D), the amount determined as follows: 
+
+ (a) On each Business Day in the Valuation Period, Party A shall attempt to seek, at Party A’s option, Firm Bids or Indicative Bids, in respect of each Affected Reference Obligation from Reference Market-makers selected by Party A in good faith (which shall not be Party A or any of its Affiliates). Party B may arrange for the submission to Party A of a Firm Bid or Indicative Bid (as applicable) from a Directed Bidder. Party A shall continue to seek Firm Bids or Indicative Bids (as applicable) until the earlier of (x) the expiration of the Valuation Period, or (y) the day in the Valuation Period by which Party A has obtained at least two Firm Bids or Indicative Bids (as applicable). A Firm Bid or Indicative Bid (as applicable) may be sought in respect of (1) individual Affected Reference Obligations, (2) groups of Affected Reference Obligations, or (3) the entire portfolio of Affected Reference Obligations. 
+
+ 25 
+
+ (b) Following the earlier of (x) the expiration of the Valuation Period, or (y) the date on which Party A has obtained the requisite number of Firm Bids or Indicative Bids (as applicable), Party A shall promptly notify Party B of the highest Firm Bid or Indicative Bid (as applicable) received by Party A. Where Party A elected to seek Indicative Bids, such highest Indicative Bid shall constitute the Final Reference Price in respect of each Affected Reference Obligation to which such Indicative Bid applies. Where Party A elected to seek Firm Bids, Party A may, by notice to Party B, elect to match such highest Firm Bid in respect of any Affected Reference Obligation in which case such highest Firm Bid shall constitute the Final Reference Price for such Affected Reference Obligation. Where the highest Firm Bid or Indicative Bid (as applicable) pertains to more than one Affected Reference Obligation, each Affected Reference Obligation to which such bid applies shall have the same Final Reference Price equal to such bid and such bid shall not be adjusted or allocated to account for differences in applicable principal amounts or any other factor. 
+
+ (c) If in respect of an Affected Reference Obligation, the Final Reference Price cannot be determined because Party A is unable, using its commercially reasonable best efforts, to obtain a Firm Bid or Indicative Bid (as applicable) for such Affected Reference Obligation during the Valuation Period, the Final Reference Price in respect of such Affected Reference Obligation shall be deemed to be zero. 
+
+ In the context of (ii) above, for purposes of determining the fair market value of any item comprised in the Conversion Proceeds that trades on an Exchange (as defined in the 2002 ISDA Equity Derivatives Definitions published by ISDA), the fair market value of such asset or security shall be the official closing price reported by such Exchange in respect of the last day prior to the Final Deletion Date of the relevant Reference Obligation on which such Exchange was open for trading for its regular trading session. In the context of (iii) above, if Party B requests the transfer of the relevant Affected Reference Obligation to Party B or its nominee, Party A shall transfer, or shall cause the relevant Party A Entity to transfer, the relevant Affected Reference Obligation to Party B or its nominee as soon as is reasonably practicable following Party A’s receipt of Party B’s request. Party A’s obligation to effect the transfer of the relevant Affected Reference Obligation shall be subject to the following conditions: (1) Party A’s determination, in its good faith and reasonable discretion, that the nature of the Adverse Claim is such that the transfer by Party A or the Party A Entity of the relevant Affected Reference Obligation would not expose any Party A Entity to additional legal risk, (2) the receipt by Party A of a written indemnification in a form reasonably acceptable to Party A by which Party B agrees to indemnify Party A and the relevant Party A Entity in respect of any actual and documented losses, costs, damages or expenses that such Party A and such Party A Entity incur in respect of the relevant Adverse Claim, and (3) Party A’s assessment that Party B would be able to satisfy its obligations under such indemnification. Notwithstanding the definition of Final Deletion Date, where Party A or the relevant Party A Entity transfers the relevant Affected Reference Obligation to Party B or its nominee as contemplated by the preceding sentences of this paragraph, the earlier of the date determined in accordance with the definition of Final Deletion Date and the date on which such transfer is effected shall be the Final Deletion Date of the relevant Affected Reference Obligation. 
+
+ Notwithstanding the preceding paragraphs of this definition, 
+
+ (A) 
+
+ (1) in the context of paragraph (i) above, where the relevant Firm Bid or Indicative Bid (as applicable) is provided by Party B, such Firm Bid or Indicative Bid shall only constitute the Final Reference Price if Party A is reasonably satisfied that such bid reasonably reflects the current market value of the relevant Affected Reference Obligation. If Party A is not satisfied as aforesaid, Party A shall seek Firm Bids or Indicative Bids from at least three Reference Market-makers and the highest of the bids obtained shall constitute the Final Reference Price (subject to the other provisions of this Confirmation including the remaining provisions of this definition of Final Reference Price). 
+
+ 26 
+
+ (2) In the context of any Firm Bid, such Firm Bid shall only constitute the Final Reference Price if Party A is reasonably satisfied that the Directed Bidder providing such Firm Bid would be able to satisfy its obligation to the relevant Party A Entity to purchase the relevant Affected Reference Obligation at the relevant Firm Bid within the standard period for settlement prescribed by the relevant secondary loan trading market in which such Affected Reference Obligation trades. If Party A is not satisfied as aforesaid, Party A may submit its own Firm Bid and such bid shall constitute the Final Reference Price (subject to the other provisions of this Confirmation including the remaining provisions of this definition of Final Reference Price). 
+
+ (B) 
+
+ where Party A elects or is required to quantify the Final Reference Price applicable to the relevant Deletion Amount of an Affected Reference Obligation through Firm Bids, if 
+
+ (1) 
+
+ the Deletion Commitment Date applicable to an Affected Reference Obligation is determined pursuant to the last paragraph of the definition of Final Deletion Date, 
+
+ (2) 
+
+ the Deletion Commitment Date for the relevant Affected Reference Obligation does not occur on or before (x) in the context of the occurrence of the Scheduled Ramp-Down Date, an election, other than a Cure Election, made pursuant to Section 4(A) to delete all of the Reference Obligations comprised in the Portfolio, the last day of the Ramp-Down Period, or (y) in the context of Section 4(B) following the occurrence of a Conversion Event in respect of which no Conversion Proceeds are paid or, in the context of Section 4(C) or Section 4(D) following the occurrence of a Hedge Event or the designation of an Early Termination Date, on or before the expiration of the Valuation Period, or 
+
+ (2) 
+
+ the sale transaction contemplated by the Firm Bid does not settle on or before the date specified in paragraph (1)(x) of the definition of Final Deletion Date, 
+
+ the Final Reference Price in respect of such Deletion Amount of the relevant Affected Reference Obligation shall be deemed to be zero. 
+
+ (C) 
+
+ where Party A elects or is required to quantify the Final Reference Price applicable to the relevant Deletion Amount of an Affected Reference Obligation through Indicative Bids, if no Indicative Bid is received by Party A on or before (x) in the context of an election, other than a Cure Election, made pursuant to Section 4(A) to delete less than all of the Reference Obligations comprised in the Portfolio, the Scheduled Ramp-Down Date, (y) in the context of the occurrence of the Scheduled Ramp-Down Date, an election, other than a Cure Election, made pursuant to Section 4(A) to delete all of the Reference Obligations comprised in the Portfolio, the last day of the Ramp-Down Period, and (z) Section 4(D) following the designation of an Early Termination Date, on or before the expiration of the Valuation Period, the Final Reference Price in respect of such Deletion Amount of the relevant Affected Reference Obligation shall be deemed to be zero. 
+
+ 27 
+
+ “ Firm Bid ” means a firm purchase bid (expressed as a percentage of par value) representing the price that the bidder believes reflects the current market value of the relevant Reference Obligation and at which the bidder would purchase a principal amount of the relevant Reference Obligation equal to the applicable Deletion Amount, plus, if provided for in the relevant secondary market in which the Reference Obligation trades, accrued but unpaid interest on such Deletion Amount, for settlement within the standard settlement periods for trades in the relevant Reference Obligation. 
+
+ “ First Lien Loan ” means a senior secured bank loan which trades as a “first lien loan” as determined by the Calculation Agent under then-current trading practices in the primary or secondary loan market, as the case may be. 
+
+ “ Floating Amount ” means, in respect of a Calculation Period and all Reference Obligations which are denominated in the same Specified Currency, an amount, in the relevant Specified Currency, equal to the Base Floating Amount applicable to the relevant Calculation Period plus all Adjustment Floating Amounts applicable to the same Calculation Period. 
+
+ For purposes of this definition, “ Base Floating Amount ” means the product of (x) the aggregate of the respective Settled Book Values of all Reference Obligations which are denominated in the same Specified Currency on the first day of the relevant Calculation Period (the “ Base Book Value ”), (y) the Floating Rate Option determined as of the first day of the relevant Calculation Period, plus the Weighted Average Spread, and (z) a fraction the numerator of which is the number of days in the relevant Calculation Period and the denominator of which is 360 or, if the relevant Reference Obligations are denominated in GBP or CAD, 365. 
+
+ On each day in the relevant Calculation Period on which there occurs an Addition Date (other than the first Addition Date as contemplated above), a Drawdown Date, Repayment Date or a Final Deletion Date (each an “ Adjustment Date ”), Party A shall calculate a single Funding Adjustment in respect of each Specified Currency in which Reference Obligations, for which an Addition Date, Drawdown Date, Repayment Date or Final Deletion Date has occurred on the relevant Adjustment Date, are denominated. 
+
+ If the Funding Adjustment is positive, the “ Adjustment Floating Amount ” applicable to the relevant Adjustment Date shall be an amount, in the relevant Specified Currency, equal to the product of (x) the Funding Adjustment, (y) the Interpolated Floating Rate Option, plus the Spread, and (z) a fraction the numerator of which is the number of days in the period commencing on, and including, the relevant Adjustment Date to, but excluding, the first Period End Date following such Adjustment Date and the denominator of which is 360 or, if the relevant Reference Obligations are denominated in GBP or CAD, 365. 
+
+ If the Funding Adjustment is negative, the “ Adjustment Floating Amount ” applicable to the relevant Adjustment Date shall be equal to an amount, in USD, equal to the product of (x) the Funding Adjustment, (y) the Interpolated Floating Rate Option, minus 12.5 basis points, plus the Spread and (z) a fraction the numerator of which is the number of days in the period commencing on, and including, the relevant Adjustment Date to, but excluding, the first Period End Date following such Adjustment Date and the denominator of which is 360 or, if the relevant Reference Obligations are denominated in GBP or CAD, 365. 
+
+ Notwithstanding the foregoing, in respect of a Specified Currency, if on any Adjustment Date (a) the Funding Adjustment determined on such date is negative, and (b) the absolute value of such Funding Adjustment exceeds the sum of: (a) the Base Book Value (in the relevant Specified Currency) for the relevant Calculation Period, and (b) the aggregate sum of the positive and negative Funding Adjustments (in the relevant Specified Currency) determined on Determination Dates preceding the relevant Adjustment Date during such Calculation Period (the sum of (a) and (b) being the “ PV Settled Book Value ”), then the Funding Adjustment for such date (in the relevant Specified Currency) shall be an amount equal to zero less the PV Settled Book Value. 
+
+ 28 
+
+ For purposes of the foregoing, “ Weighted Average Spread ” means (a) in the context of the Base Floating Amount, the amount determined in respect of the relevant Calculation Period by (1) multiplying the Spread in effect on any day in such Calculation Period by the number of days to which such Spread is applicable, (2) aggregating the products thereof, and (3) dividing such aggregate amount by the number of days in such Calculation Period, and (b) in the context of an Adjustment Floating Amount, the amount determined by (1) multiplying the Spread in effect on any day in the period commencing on, and including, the relevant Adjustment Date to, but excluding, the first following Period End Date by the number of days in such period to which such Spread is applicable, (2) aggregating the products thereof, and (3) dividing such aggregate amount by the number of days in such period. 
+
+ “ Funded Amount ” means, in respect of a Reference Obligation, that portion of the relevant Reference Obligation that has been funded as of the relevant Determination Date. 
+
+ “ Funding Adjustment ” means, in respect of a Specified Currency and an Adjustment Date, (1) the sum of (x) in respect of Reference Obligations added to the Portfolio as of such Adjustment Date which are denominated in the relevant Specified Currency, the aggregate of the respective Settled Book Values thereof and (y) the aggregate of all Drawdown Amounts which are denominated in the relevant Specified Currency in respect of which the relevant Adjustment Date is a Drawdown Date, minus (2) the sum of (x) the aggregate of the Deletion Values applicable to all Reference Obligations in respect of which a Final Deletion Date occurs on such Adjustment Date that are denominated in the relevant Specified Currency, and (y) the aggregate of all Repayment Amounts which are denominated in the relevant Specified Currency in respect of which the relevant Adjustment Date is a Repayment Date. 
+
+ “ GBP ” means the lawful currency of the United Kingdom. 
+
+ “ GBP-LIBOR-BBA ” means that the rate for the relevant date of determination will be the rate for deposits in GBP for a period of the Designated Maturity which appears on Reuters service display page LIBOR01 or any Successor Source as of 11:00 a.m., London time, on such date. If such rate does not appear on such display page or Successor Source, the rate for the relevant date of determination will be determined by reference to the arithmetic mean of the deposit rates in GBP offered as of 11:00 a.m., London time, on such date, by at least four banks in the London interbank market, as selected by Party A in good faith and in a commercially reasonable manner, to prime banks in the London interbank market for a period equal to the Designated Maturity. 
+
+ “ Hedge Event ” means (1) for any reason beyond its reasonable control, Party A is unable after using commercially reasonable efforts to execute or maintain any hedge of Party A’s obligations under the Transaction evidenced hereby, (including, without limitation, due to the adoption of, or any change in, any applicable law, or due to the promulgation, or any change in, the interpretation by any court, tribunal or regulatory authority with competent jurisdiction of any law, it becomes unlawful for Party A to execute or maintain any hedge of Party A’s obligations hereunder), or (2) there occurs a change in any applicable law or regulation (or the generally accepted interpretation thereof) including, without limitation, tax legislation, the Bank Act (Canada), securities legislation, or the issuance of any order, judgment, ruling, administrative guideline or policy of or by any court, governmental authority, administrative or regulatory body or tribunal of competent jurisdiction, in each case that renders all or part of this Transaction unlawful or materially and adversely affects the capital treatment of this Transaction or Party A's hedge of any part of this Transaction or the tax treatment of any hedge of Party A's obligations under this Transaction. 
+
+ 29 
+
+ “ Highly Liquid Obligation ” means a Reference Obligation which is a First Lien Loan (i) having a Market Price (as of the relevant day of determination) of not less than 85%, (ii) representing part of an Original Tranche Size of at least USD 500,000,000 or the equivalent thereof in any other Specified Currency, and (iii) in respect of which, as of the relevant day of determination, quotes from at least four independent and unaffiliated Reference Market-makers are available on the LSTA/LPC Mark-to-Market Pricing Service. 
+
+ “ Indicative Bid ” means a bid (expressed as a percentage of par value) which is provided by the relevant bidder for information purposes only as to the current market value of the relevant Reference Obligation in a principal amount equal to the applicable Deletion Amount, plus, if provided for in the relevant secondary market in which the Reference Obligation trades, accrued but unpaid interest on such Deletion Amount, and which do not represent a commitment to purchase such amount of the relevant Reference Obligation if such bid were to be accepted. 
+
+ “ Industrial Sector ” means each of (1) Aerospace and defense, (2) Air transport, (3) Automotive, (4) Beverage and tobacco, (5) Broadcast radio and television, (6) Brokers/dealers/investment houses, (7) Building and development, (8) Business equipment and services, (9) Cable and satellite television, (10) Chemical/plastics, (11) Clothing/textiles, (12) Conglomerates, (13) Containers and glass products, (14) Cosmetics/toiletries, (15) Drugs, (16) Ecological services and equipment, (17) Electronics/electric, (18) Equipment leasing, (19) Farming/agriculture, (20) Financial intermediaries, (21) Food/drug retailers, (22) Food products, (23) Food service, (24) Forest products, (25) Health Care, (26) Home furnishings, (27) Lodging and casinos, (28) Industrial equipment, (29) Insurance, (30) Leisure goods/activities/movies, (31) Nonferrous metals/minerals, (32) Oil and gas, (33) Publishing, (34) Rail industries, (35) Retailers (except food and drug), (36) Steel, (37) Surface transport, (38) Telecommunications/cellular communications, and (39) Utilities. As of any Determination Date, Party A and Party B will agree on the Industrial Sector applicable to any Reference Obligation or any loan to be added to the Portfolio; provided, however, that if no agreement can be reached and, absent manifest error, Party A’s determination shall be binding on the parties hereto. 
+
+ “ Initial Reference Price ” means, in respect of a Deletion Amount and a Final Deletion Date, the weighted average of the Addition Prices (expressed as a percentage of par value) for all Addition Amounts and PIK Amounts applicable to the relevant Reference Obligation in the Portfolio (adjusted to reflect prior Deletion Amounts, in respect of which the corresponding Final Deletion Date preceded the present Final Deletion Date), equal to the quotient of: 
+
+ (i) 
+
+ (A) the aggregate of the products of (a) each Addition Amount applicable in respect of a Reference Obligation and each PIK Amount applicable to such Reference Obligation in respect of which a PIK Accretion Date has occurred prior to the date of calculation, and (b) the relevant Addition Price applicable thereto, less (B) the aggregate of the products of (a) each Deletion Amount (in respect of which a Final Deletion Date has occurred prior to such date of calculation) in respect of the Reference Obligation and (b) the relevant Initial Reference Price applicable to such Deletion Amount, and 
+
+ 30 
+
+ (ii) 
+
+ (A) the aggregate Addition Amounts in respect of such Reference Obligation and all PIK Amount applicable to such Reference Obligation in respect of which a PIK Accretion Date has occurred prior to the date of calculation, less (B) the aggregate of the Deletion Amounts (in respect of which a Final Deletion Date has occurred prior to such date of calculation) in respect of such Reference Obligation. 
+
+ “ International Data Corporation ” means the secondary market bond pricing service maintained by the International Data Corporation. 
+
+ “ Interpolated Floating Rate Option ” means, in respect of a Specified Currency, the rate determined by the Calculation Agent through the use of straight-line interpolation of two rates based on the relevant Floating Rate Option, one of which shall be determined as if the Designated Maturity were the period of time for which rates are available next shorter than the length of the Relevant Period and the other of which shall be determined as if the Designated Maturity were the period of time for which rates are available next longer than the length of the Relevant Period. For purposes of this definition, “ Relevant Period ” means the period from and including the relevant Adjustment Date to but excluding the following Period End Date. 
+
+ “ Limit Value ” means (1) on any Determination Date on or before the Ramp-Up Period End Date, the greater of (a) USD 300,00,000 and (b) 2.5 times the Independent Amount posted and (2) on any Determination Date after the Ramp-Up Period End Date, the lesser of Traded Portfolio Book Value and the Maximum Portfolio Book Value. 
+
+ “ LMA Purchase and Sale Documentation ” means the purchase and sale documentation respecting the purchase and sale of loans in the relevant secondary loan trading market in which the relevant Reference Obligation is commonly purchased and sold which is published, from time to time, by the Loan Market Association (the “ LMA ”), or its successor, including, without limitation, the LMA Trade Confirmation (Par), LMA Trade Confirmation (Distressed/Claims) and the LMA Trade Confirmation (Distressed/Bank Debt). 
+
+ “ LMA Trade Confirmation (Distressed/Bank Debt) ” means the LMA Trade Confirmation (Distressed/Bank Debt) as published by the LMA as of May 14, 2012 (or as subsequently published by the LMA) as supplemented by the LMA Standard Terms and Conditions for Distressed Trade Transactions (Bank Debt/Claims) as published by the LMA as of May 14, 2012 (or as subsequently published by the LMA). 
+
+ “ LMA Trade Confirmation (Distressed/Claims) ” means the LMA Trade Confirmation (Distressed/Claims) as published by the LMA as of May 14, 2012 (or as subsequently published by the LMA) as supplemented by the LMA Standard Terms and Conditions for Distressed Trade Transactions (Bank Debt/Claims) as published by the LMA as of October 2001 (or as subsequently published by the LMA). 
+
+ “ LMA Trade Confirmation (Par) ” means the LMA Trade Confirmation (Par) as published by the LMA as of May 14, 2012 (or as subsequently published by the LMA) as supplemented by the Standard Terms and Conditions for Par Trade Transactions as published by the LMA as of May 14, 2012 (or as subsequently published by the LMA). 
+
+ “ Loan X Service ” means the secondary market loan pricing service maintained by Mark-It Partners. 
+
+ “ London Banking Day ” means any day on which commercial banks are open for general business (including dealings in foreign exchange and foreign currency deposits) in London, England. 
+
+ 31 
+
+ “ LSTA/LPC Mark-to-Market Pricing Service ” means the secondary market pricing service for bank loan assets sponsored by the LSTA in association with the Loan Pricing Corporation. 
+
+ “ LSTA Distressed Trade Confirmation ” means the Distressed Trade Confirmation and the Purchase and Sale Agreement for Distressed Trades as supplemented by the Standard Terms and Conditions applicable thereto, each as published by the LSTA as of June 29, 2012 (or as subsequently published by the LSTA). 
+
+ “ LSTA Par/Near Par Trade Confirmation ” means the Par/Near Par Trade Confirmation as supplemented by the Standard Terms and Conditions for Par/Near Par Trade Confirmation, each as published by the LSTA as of June 29, 2012 (or as subsequently published by the LSTA). 
+
+ “ LSTA Purchase and Sale Documentation ” means the purchase and sale documentation respecting the purchase and sale of loans in the relevant secondary loan trading market in which the relevant Reference Obligation is commonly purchased and sold which is published, from time to time, by The Loan Syndications and Trading Association, Inc. (the “ LSTA ”), or their respective successors, including, without limitation, the LSTA Par/Near Par Trade Confirmation and the LSTA Distressed Trade Confirmation. 
+
+ “ Make-Whole Spread Amount ” means, in the context of a Termination Date which occurs prior to the Scheduled Ramp-Down Date, USD 6,900,000 minus (2) the aggregate of the USD Equivalent of the respective Actual Spread Amounts determined for each day in the period commencing on the Effective Date to the Scheduled Ramp-Down Date. Notwithstanding the foregoing, if at any time there are more than five Disqualified Obligations, the Make-Whole Spread Amount shall be reduced by an amount equal to the Adjustment Amount. For purposes hereof, “ Adjustment Amount ” means the aggregate of the Disqualified Amounts applicable to each Disqualified Obligation other than the first five Disqualified Obligations to occur hereunder. For purposes of the foregoing, “ Disqualified Amount ” means, in respect of a Disqualified Obligation, the product of (x) the USD Equivalent of the principal amount of the Disqualified Obligation which Party B proposed to be included in the Portfolio (the “ Proposed Addition Amount ”), (y) the Spread in effect as of the date on which Party A notifies Party B that Party A declines to include the relevant Disqualified Obligation in the Portfolio, and (z) a fraction the numerator is the number of days in the period commencing on the date on which Party A notifies Party B that Party A declines to include the relevant Disqualified Obligation in the Portfolio and ending on the Scheduled Ramp-Down Date and denominator of which is 360. “ Disqualified Obligation ” means a Qualifying Obligation (as defined in Section 3 below) that Party A declines to include in the Portfolio. If more than 10 Qualifying Obligations have been declined by Party A in any 12-month period or more than 22 Qualifying Obligations have been declined since the Effective Date hereof, the Make-Whole Spread Amount shall be deemed to be zero. 
+
+ Notwithstanding the foregoing, the Make-Whole Spread Amount shall be deemed to be zero where the Termination Date occurs as a result of an Event of Default in respect of which Party A is the Defaulting Party (as such terms are defined in the ISDA Master Agreement). 
+
+ If, at any time when there are five or more Disqualified Obligations, Party A approves the addition of a Qualifying Obligation to the Portfolio, Party B must by notice to Party A direct Party A, in respect of such Qualifying Obligation, to add an Addition Amount equal to the relevant Proposed Addition Amount to the Portfolio on or before the 10th Business Day following the date on which Party A approved such Qualifying Obligation. In respect of each approved Qualifying Obligation in regard to which Party B fails to so direct Party A as aforesaid, the number of outstanding Disqualified Obligations shall be deemed to have been reduced by one. 
+
+ “ Market Price ” means, in respect of a Reference Obligation, the bid price (expressed as a percentage of par value) as determined by Party A in good faith and in a commercially reasonable manner on the relevant Determination Date. 
+
+ If Party B disputes any such determination or estimation made pursuant to the preceding paragraph of this definition, the Market Price of the relevant Reference Obligation shall be determined using Indicative Bids obtained by Party A and/or Party B from Reference Market-makers in an amount equal to the relevant Traded Face Amount of the relevant Reference Obligation. If two or more Indicative Bids are obtained, the Market Price of the relevant Reference Obligation shall be the arithmetic mean of such Indicative Bids. If only one Indicative Bid is obtained or no Indicative Bids are obtained, then Party A may estimate the Market Price of such Reference Obligation in good faith and in a commercially reasonable manner or, in the context of any dispute regarding the Market Price of a Reference Obligation which is a bond, by reference to a price provided by International Data Corporation. 
+
+ 32 
+
+ “ Mark to Market Amount ” means (1) in respect of a Reference Obligation, an amount (which may be positive or negative) equal to: 
+
+ (X) the product of (i) the Face Amount of such Reference Obligation, and (ii) the Market Price applicable to such Reference Obligation, minus 
+
+ (Y) the Book Value of such Reference Obligation, each determined on the relevant Business Day, minus 
+
+ (Z) the sum of the products of the (a) Deletion Amount and (b) Market Price minus the Final Reference Price for deletions where the Final Deletion Date has not yet occurred. For the purposes hereof, if the Market Price is less than the Final Reference Price and the Firm Bid has not been obtained from a Reference Market-maker, no adjustment to the amount resulting from the application of paragraphs (X) and (Y) above shall be made pursuant to this paragraph (Z), and 
+
+ (2) in respect of a Designated Reference Obligation or an Affected Reference Obligation in respect of which an Adverse Claim has occurred, zero. 
+
+ “ Moody’s ” means Moody’s Investor Services Inc. or any successor thereof. 
+
+ “ Offer Documents ” means, in respect of a bond, the relevant private placement memorandum, offering memorandum, offering circular or other offering document pursuant to which such bond is offered by the issuer thereof for sale. 
+
+ “ Original Tranche Size ” means the aggregate principal amount of the borrowing facilities available to the Reference Obligor under the terms of the relevant Credit Documentation as of the original effective date of the Credit Documentation. For purposes of determining the Original Tranche Size in respect of any loans to be added to the Portfolio, (1) for loans that are, in accordance with then prevailing market practice, typically bought and sold together, the respective aggregate principal amount of the borrowing facilities available to the Reference Obligor under the facilities evidenced by the relevant Credit Documentation shall be aggregated, (2) the respective principal amounts of lines of credit and delayed draws that, in accordance with then prevailing market practice, trade with any loan to be added to the Portfolio shall be aggregated, and (3) the respective principal amount of any borrowing facilities that are, under then prevailing market practice, considered add-on facilities in respect of any loan to be added to the Portfolio shall be aggregated with the principal amount of such loan provided that, in the context of (1), (2) and (3) above, such facilities are pari passu in terms of repayment seniority and, with respect to appropriate price adjustments, buyers are typically indifferent between such facilities. 
+
+ 33 
+
+ “ Outstanding Tranche Size ” means the aggregate principal amount of the borrowing facilities available to the Reference Obligor under the terms of the relevant Credit Documentation as of the relevant day of determination. For purposes of determining the Outstanding Tranche Size in respect of any loans to be added to the Portfolio, (1) for loans that are, in accordance with then prevailing market practice, typically bought and sold together, the respective aggregate principal amount of the borrowing facilities available to the Reference Obligor under the facilities evidenced by the relevant Credit Documentation shall be aggregated, (2) the respective principal amounts of lines of credit and delayed draws outstanding as of the relevant day of determination that, in accordance with then prevailing market practice, trade with any loan to be added to the Portfolio shall be aggregated, and (3) the respective principal amounts of any borrowing facilities outstanding as of the relevant day of determination that are, under then prevailing market practice, considered add-on facilities in respect of any loan to be added to the Portfolio shall be aggregated with the principal amount of such loan outstanding as of the relevant day of determination provided that, in the context of (1), (2) and (3) above, such facilities are pari passu in terms of repayment seniority and, with respect to appropriate price adjustments, buyers are typically indifferent between such facilities. 
+
+ “ Party A Hedging ” shall apply if in respect of a Reference Obligation Party A has hedged its obligations arising under this Transaction with respect to such Reference Obligation through the purchase by Party A, an Affiliate of Party A or the SPE (individually and collectively, a “ Party A Entity ”) of the applicable principal amount of such Reference Obligation. 
+
+ “ Permanent Reduction ” means, in respect of a Reference Obligation, the amount, in the relevant currency, of any permanent commitment reductions and permanent repayments of principal effected in respect of such Reference Obligation. 
+
+ “ PIK Accretion Date ” means, in respect of a PIK Reference Obligation, each day in the Term on which accrued interest is, by the terms thereof, added to the outstanding principal amount thereof. 
+
+ “ PIK Amount ” means, in respect of a PIK Reference Obligation and a PIK Accretion Date, that portion of the accrued interest amount, in the relevant currency, that is added to the outstanding principal amount of such PIK Reference Obligation which would accrue to a holder of such PIK Reference Obligation holding a principal amount thereof equal to the Face Amount determined on the relevant PIK Accretion Date (but without regard to the relevant PIK Amount). 
+
+ “ PIK Reference Obligation ” means a Reference Obligation the terms of which provide that all or a portion of interest accruing as per the terms of such Reference Obligation is not to be paid to the holders thereof but rather is to be added to the outstanding principal amount of such Reference Obligation. 
+
+ “ Portfolio ” means, as of the relevant Determination Date, all Reference Obligations in respect of which an Addition Commitment Date has occurred in respect of one or more Addition Amounts or in respect of which a PIK Accretion Date has occurred in respect of one or more PIK Amounts and in respect of which Final Deletion Dates have not occurred in respect of Deletion Amounts the aggregate of which equal the aggregate of all such Addition Amounts and all such PIK Amounts. 
+
+ 34 
+
+ “ Portfolio Book Value ” means, in respect of a particular Determination Date, the aggregate sum of the USD Equivalent of all Book Values of all Reference Obligations comprised in the Portfolio on such Determination Date, 
+
+ “Portfolio Composition Requirement ” shall have the meaning set out in Section 5(A), hereof. 
+
+ “ Portfolio Mark to Market ” means, in respect of a Business Day, the amount (which may be positive or negative) equal to the aggregate of the USD Equivalent of the respective Mark to Market Amounts determined in respect of each Reference Obligation comprised in the Portfolio as of such Business Day (determined without reference to the Mark to Market Amount of any Unlevered Portfolio Reference Obligation). 
+
+ “ Public Rating ” means with respect to a Reference Obligation or a loan or bond to be added to the Portfolio, the public credit rating (if any) issued by S&P or Moody’s (as applicable) in respect of the Reference Obligation or the loan or bond to be added to the Portfolio, or if unavailable, in respect of the Reference Obligor based upon its long-term unsecured and unsubordinated debt; 
+
+ “ Ramp-Down Period ” means the period commencing on, and including, the Ramp-Down Period Start Date, and ending on, and including the earliest to occur of, (x) the 60 th calendar day following the Ramp-Down Period Start Date, and (y) the Final Deletion Date in respect of the last Reference Obligation in the Portfolio. 
+
+ “ Ramp-Down Period Start Date ” means the earlier of the Scheduled Ramp-Down Date and the date on which the deletion process set out in Section 4 commences in respect of all Reference Obligations then comprised in the Portfolio. Where Party B has, through one or more notices issued pursuant to Section 4(A), other than a Cure Election, elected to delete all of the Reference Obligations then comprised in the Portfolio, the Ramp-Down Period Start Date shall be the effective date of Party B’s notice (or, if applicable, the effective date of the last of such notices). 
+
+ “ Ramp-Up Period ” means the period commencing on, and including, the Effective Date, to, and including, the Ramp-Up Period End Date. 
+
+ “ Ramp-Up Period End Date ” means the 120 th day following the Effective Date. 
+
+ “ Reference Market-maker ” means any of parties from time to time specified as a Reference Market-maker by Party A and Party B by mutual written agreement. Each of the following shall constitute a Reference Market-maker until such time as Party A and Party B agree in writing that a particular entity specified herein shall cease to be a Reference Market-maker in which case such entity shall cease to be a Reference Market-maker as of the first Business Day following the effective date of such notice: 
+
+ Bank of America N.A., Bank of Montreal, The Bank of New York Mellon, N.A., Barclays Bank Plc, BNP Paribas, Canadian Imperial Bank of Commerce, Citibank N.A., Credit Agricole S.A., Credit Suisse , Deutsche Bank AG, Goldman Sachs & Co., HSBC Bank, JPMorgan Chase Bank, N.A., Merrill Lynch, Pierce, Fenner & Smith Incorporated, Morgan Stanley & Co., Royal Bank of Canada, Royal Bank of Scotland plc, Société Générale, Toronto-Dominion Bank, UBS AG, Wachovia Bank National Association and Wells Fargo Bank, National Association. 
+
+ 35 
+
+ For purposes hereof, each reference to an entity as set out above or in any written agreement exchanged between Party A and Party B concerning the appointment of Reference Market-makers shall include any affiliate or wholly-owned subsidiaries of such entity provided such affiliate or subsidiary has a Public Rating which at least equal to the Public Rating of such entity or the obligations such subsidiary are fully guaranteed by such entity. 
+
+ “ Reference Obligation ” means any loan or bond for which an Addition Commitment Date has occurred and for which Final Deletion Dates have not yet occurred for Deletion Amounts that in aggregate reduce the Face Amount thereof to zero. 
+
+ “ Reference Obligation Holder ” means, in respect of a Reference Obligation, a hypothetical holder of record (domiciled, for tax purposes, in Canada) of such Reference Obligation who, through a purchase transaction, is the beneficial owner of an amount of the relevant Reference Obligation, in a principal amount equal to the Face Amount of such Reference Obligation, on the Effective Date or the relevant Addition Commitment Date and who remains, as of the relevant day of determination, the holder of such amount of such Reference Obligation. 
+
+ “ Reference Obligor ” means, in respect of a Reference Obligation, the party specified as the Reference Obligor in the latest issued TRS Report or, in respect of any pending addition, as determined by Party A, which shall be the issuer or obligor of the relevant Reference Obligation, and each Successor. 
+
+ “ Repayment Amount ” means, in respect of a Reference Obligation which is a Revolving Loan to which Party A Hedging applies, the amount, in the relevant currency, of any commitment reductions and repayments of principal effected in respect of such Reference Obligation received by a Party A Entity on the relevant Repayment Date which do not constitute Permanent Reductions. 
+
+ “ Repayment Date ” means each day in the Term on which a Repayment Amount is received by a Party A Entity. 
+
+ " Report Date " means each Payment Date in the Term. 
+
+ “ Revolving Loan ” means a loan that requires one or more future advances to be made to the Reference Obligor and allows the Reference Obligor to repay and redraw such advances but that otherwise has the requisite characteristics of Reference Obligations as provided in Section 3 above and shall include, without limitation, revolving loans and other similar loans. For the avoidance of doubt, a delayed draw term loan shall not be a Revolving Loan. 
+
+ “ S&P ” means Standard & Poor’s Rating Service, a division of The McGraw-Hill Companies Inc. or any successor thereof. 
+
+ “ Sale Costs ” means in respect of the relevant Deletion Amount of a Reference Obligation to which Party A Hedging applies, the actual and documented costs, including but not limited to reasonable and documented legal costs, incurred by a Party A Entity, in connection with its sale, or its attempted or failed sale, of such Reference Obligation including, without limitation, compensation payments, fees, damages, costs and make-whole payments mandated by the LMA Purchase and Sale Documentation or the LSTA Purchase and Sale Documentation. For purposes of Section 8 hereof, the Sale Costs pertaining to a Reference Obligation shall be deemed to have been incurred on the date on which such Sale Costs are paid by a Party A Entity. 
+
+ 36 
+
+ “ Senior Secured Bond ” means a senior secured, non-convertible, corporate bond which trades as a “first lien bond” as determined by Party A under then-current trading practices prevailing in the primary or secondary bond market, as the case may be. 
+
+ “ Senior Unsecured Bond ” means a non-convertible corporate bond which does not trades as a “first lien bond” or a “subordinated bond” as determined by the Calculation Agent under then-current trading practices in the primary or secondary bond market, as the case may be. 
+
+ “ Settled Book Value ” means, in respect of a Reference Obligation and a particular Determination Date, the Book Value of such Reference Obligation less the product of (i) the Addition Amount and the (ii) Addition Price applicable to such Reference Obligation in respect of which an Addition Date has not occurred. Where any portion of an Addition Amount applicable to a Reference Obligation is an Unfunded Amount, for purposes of determining the Settled Book Value of such Reference Obligation, in lieu of including the Book Value in respect of such Addition Amount in such determination, an amount equal to (1) the product of (x) the Addition Price applicable to the relevant Addition Amount and (y) the Funded Amount, minus (2) the product of (x) 100% minus such Addition Price, and (y) the Unfunded Amount, shall be included. Where any portion of the Book Value applicable to a Reference Obligation is a Designated Reference Obligation, the Settled Book Value applicable to such portion shall be deemed to be zero. In respect of any Reference Obligation in respect of which an Adverse Claim has occurred, the Settled Book Value of such Reference Obligation shall be deemed to be zero. 
+
+ “ Settled Portfolio Book Value ” means, in respect of a particular Determination Date, the sum of the USD Equivalent all Settled Book Values applicable to such Determination Date. 
+
+ “ SPE ” means any special purpose entity domiciled in Ireland and wholly owned, directly or indirectly, by Party A for the purpose of holding any Reference Obligation comprised in the Portfolio in respect of which Party A has elected to hedge its obligations arising under this Transaction in connection with such Reference Obligation. 
+
+ “ Specified Currency ” means CAD, Euro, GBP and USD. 
+
+ “ Specified Jurisdiction ” means Belgium, Canada, France, Germany, Ireland, Netherlands, Sweden, Switzerland, the United Kingdom and the United States of America (it being agreed that if subsequent to an Addition Commitment Date applicable to a Reference Obligation issued by a Reference Obligor, such Reference Obligor merges, amalgamates or consolidates with or into any other entity and the result of which is that the resulting entity is no longer established in the same jurisdiction or the Reference Obligor otherwise migrates to another jurisdiction, such Reference Obligor shall be deemed to be established in its new jurisdiction for purposes of Section 5 hereof). 
+
+ " Step-Up Costs " means all claims received by a Party A Entity from any party who purchases a Reference Obligation from such Party A Entity pursuant to any deletion of such Reference Obligation from the Portfolio effected under any provision of this Confirmation and that arise in connection with the Step-Up Provisions of the LSTA Purchase and Sale Documentation or similar provisions of the LMA Purchase and Sale Documentation related to the transfer of a Reference Obligation in each case to the extent that, at the relevant time at which the relevant Party A Entity sells the relevant Reference Obligation, the relevant Reference Obligation trades as a Distressed Loan or to the extent that Party B shall have directed Party A or the relevant Party A Entity to document such sale by way of distressed documents rather than par documents. 
+
+ 37 
+
+ " Successor " means any party who assumes or becomes liable for the Reference Obligation applicable to the relevant Reference Obligor whether by operation of law or pursuant to any agreement, as determined by the Calculation Agent in good faith in its commercially reasonable discre­tion. 
+
+ “ Successor Source ” means, in relation to a display page, (i) the successor display page, or (ii) if the sponsor has not officially designated a successor display page, the display page designated by the relevant information vendor or provider (if different from the sponsor). 
+
+ “ Tax ” means any present or future tax, levy, impost, duty, charge, assessment or fee of any nature (including interest, penalties and additions thereto) that is imposed by any government or other taxing authority in respect of any payment or delivery to be made by Party A hereunder other than a stamp, registration, documentation or similar tax. 
+
+ “ Term ” means the period commencing on, and including, the Effective Date hereof to, and including, the Termination Date. 
+
+ “ Termination Date ” means the first Business Day following the last day of the Ramp-Down Period. 
+
+ “ TRACE ” means the Trade Reporting and Compliance Engine. 
+
+ “ Trade Confirmation ” means (a) in the context of the purchase or sale of loans in the secondary loan trading market that are not Distressed Loans, the LMA Trade Confirmation (Par) or the LSTA Par/Near Par Trade Confirmation or such other purchase and sale documentation as commonly utilized or required by the applicable secondary loan trading market in which the relevant Reference Obligation or loan trades, (b) in the context of the purchase or sale of loans in the secondary loan trading market that are Distressed Loans, the LMA Trade Confirmation (Distressed/Claims), LMA Trade Confirmation (Distressed/Bank Debt) or the LSTA Distressed Trade Confirmation or such other purchase and sale documentation as commonly utilized or required by the applicable secondary loan trading market in which the relevant Reference Obligation or loan trades, (c) in the context of the purchase of loans in the primary market, written confirmation from the lead lender or agent bank in connection with the relevant loan that a principal amount of such loan equal to the Addition Amount has been allocated to a Party A Entity, and (d) in the context of bonds, such purchase and sale documentation, if any, as is commonly utilized or required by the applicable trading market in which the relevant Reference Obligation or bond trades. 
+
+ “ Traded Book Value ” means, in respect of a Reference Obligation and a particular Determination Date, the Book Value thereof but adjusted by (a) in the context of any Deletion Amount applicable to such Reference Obligation for which a Final Deletion Date has not occurred but in respect of which a Firm Bid has been obtained from a Reference Market-maker reasonably acceptable to Party A, calculating such Book Value as if a Final Deletion Date has occurred in respect of such Deletion Amount, and (b) excluding from the Book Value thereof, until the applicable Addition Date occurs, any Addition Amount in respect of which 90 days, or such greater number of days as Party A may elect by notice to Party B given in accordance with Section 12 hereof, have passed since the Addition Commitment Date applicable to such Addition Amount. 
+
+ “ Traded Face Amount ” means, in respect of a Reference Obligation and a particular Determination Date, the sum of all Addition Amounts applicable to such Reference Obligation the Addition Commitment Dates of which have occurred prior to such Determination Date and all PIK Amount applicable to such Reference Obligation in respect of which a PIK Accretion Date has occurred prior to such Determination Date minus the sum of all Deletion Amounts applicable to such Reference Obligation the Deletion Commitment Dates of which have occurred prior to such Determination Date. 
+
+ 38 
+
+ “ Traded Portfolio Book Value ” means, in respect of a particular Determination Date, the sum of the USD Equivalent of all Traded Book Values applicable to such Determination Date. 
+
+ “ TRS Report ” means a report issued by Party A concerning the status of the Transaction evidenced hereby which shall include, among other things, the status of pending additions and pending deletions, a summary of changes made to the composition of the Portfolio pursuant to Sections 3, 4 or 5 above since the last Report Date, and, in respect of each Reference Obligation, the Reference Obligor, each Addition Price applicable to a Reference Obligation, each Addition Commitment Date and the Addition Date applicable to a Reference Obligation, and the Face Amount. Notwithstanding the foregoing, the failure to issue a report shall not obviate or negate any change to the Portfolio effected pursuant to such Sections or the resulting payment obligations including, without limitation, that a Reference Obligation shall be deemed added to the Portfolio as of the applicable Addition Commitment Date and (except as may be otherwise provided for herein) deemed deleted from the Portfolio as of the Final Deletion Date applicable to such Reference Obligation. 
+
+ “ Unfunded Amount ” means, in respect of a Reference Obligation, that portion of the relevant Addition Amount that has not been funded as of the relevant Determination Date. 
+
+ “ Unlevered Portfolio ” means, as of the relevant Determination Date, all Unlevered Portfolio Reference Obligations in respect of which an Addition Commitment Date has occurred in respect of one or more Addition Amounts or in respect of which a PIK Accretion Date has occurred in respect of one or more PIK Amounts and in respect of which Final Deletion Dates have not occurred in respect of Deletion Amounts the aggregate of which equal the aggregate of all such Addition Amounts and all such PIK Amounts. 
+
+ “ USD ” means the lawful currency of the United States of America. 
+
+ “ USD-LIBOR-BBA ” means that the rate for the relevant date of determination will be the rate for deposits in USD for a period of the Designated Maturity which appears on Reuters service display page LIBOR01 or any Successor Source as of 11:00 a.m., London time, on the day that is two London Banking Days preceding the relevant date of determination. If such rate does not appear on such display page or Successor Source, the rate for the relevant date of determination will be the arithmetic mean of the deposit rates in USD offered as of 11:00 a.m., London time, on the relevant date of determination, by at least four banks in the London interbank market, as selected by Party A in good faith and in a commercially reasonable manner, to prime banks in the London interbank market for a period equal to the Designated Maturity. 
+
+ “ USD Equivalent ” means: 
+
+ (A) For purposes of applying any condition to any addition to the Portfolio contemplated by Section 3 or any Portfolio Composition Requirement, quantifying the credit support to be provided by Party B pursuant to Section 11 or determining the Actual Spread Amount, the Portfolio Book Value, the Portfolio Mark-to-Market and the Traded Portfolio Book Value; 
+
+ 39 
+
+ (1) 
+
+ for purposes of determining the USD Equivalent of any amount denominated in Euro, the amount in USD determined by Party A in good faith and in a commercially reasonable manner by applying the “Euro Spot” rate as set out under column “Price” opposite the relevant day of determination on Bloomberg service display page “EUR {CRNCY} HP {GO}” or Successor Source in effect as of the close of business on the last day preceding the relevant day of determination to the relevant amount denominated in Euro; 
+
+ (2) 
+
+ for purposes of determining the USD Equivalent of any amount denominated in GBP, the amount in USD determined by Party A in good faith and in a commercially reasonable manner by applying the “GBP Spot” rate as set out under column “Price” opposite the relevant day of determination on Bloomberg service display page “GBP {CRNCY} HP {GO}” or Successor Source in effect as of the close of business on the last day preceding the relevant day of determination to the relevant amount denominated in GBP; and 
+
+ (3) 
+
+ for purposes of determining the USD Equivalent of any amount denominated in CAD, the amount in USD determined by Party A in good faith and in a commercially reasonable manner by applying the “CAD Spot” rate as set out under column “Price” opposite the relevant day of determination on Bloomberg service display page “CAD {CRNCY} HP {GO}” or Successor Source in effect as of the close of business on the last day preceding the relevant day of determination to the relevant amount denominated in CAD; 
+
+ (B) For purposes of quantifying any payment to be made by or to Party A including, without limitation, the Net Surplus or Net Shortfall, the spot exchange rate of a foreign exchange agent reasonably selected by Party A at which Party A is able to purchase the relevant amount of USD with Euro, GBP, or CAD (as applicable) at or about 5:00p.m. (New York time) on the relevant date of determination for value on the relevant spot date. 
+
+ “ Valuation Period ” means (x) in the context of the occurrence of a Hedge Event or a Conversion Event in respect of which no Conversion Proceeds are paid, the 10 Business Day period, and (y) in the context of the designation of an Early Termination Date pursuant to Section 4(D) above, the period selected by Party A by notice to Party B (by way of notice given in accordance with Section 12 hereof) which period shall not be greater than 5 Business Days, commencing on (i) in the context of the occurrence of a Hedge Event or Conversion Event, the first Business Day following the date on which Party A’s notice to Party B of the occurrence of a Hedge Event or Conversion Event becomes effective in accordance with Section 12 hereof, and (ii) in the context of the designation of an Early Termination date pursuant to Section 4(D) above, the first Business Day following the Early Termination Date. 
+
+ “ Weighted Average Rating Factor ” means (subject to Portfolio Composition Requirement #3), in respect of the relevant rating agency and as of the relevant day of determination, the number, rounded upwards to the nearest whole number, equal to the quotient of (1) the sum of the Ratings Equivalent determined in respect of each Reference Obligation, divided by (2) the Traded Portfolio Book Value in effect on such determination date. For purposes hereof, “ Ratings Equivalent ” means, in respect of a Reference Obligation, the product of (x) the Traded Book Value applicable to such Reference Obligation, and (y) the rating factor, as set out in the Rating Factor Annex appended hereto as Annex 2, that is applicable to the Public Rating then assigned by the relevant rating agency to such Reference Obligation. The Weighted Average Rating Factor of the Portfolio (as defined above) shall be calculated separately for each rating agency utilizing the Public Ratings respectively assigned by such agency (the Weighted Average Rating Factor resulting from the application of the Public Ratings assigned by Moody’s being the “ Moody’s Weighted Average Rating Factor ” and the Weighted Average Rating Factor resulting from the application of the Public Ratings assigned by S&P being the “ S&P Weighted Average Rating Factor ”). The higher of the Moody’s Weighted Average Rating Factor and the S&P Weighted Average Rating Factor shall be the Weighted Average Rating Factor of the Portfolio. Should either S&P or Moody’s not assign a Public Rating for a Reference Obligation, the equivalent of the other rating agency’s Public Rating shall be substituted. If neither S&P nor Moody’s assigned a Public Rating for a Reference Obligation, each such unrated Reference Obligation shall be deemed to have a Public Rating of “WR” by Moody’s and a Public Rating of “NR” by S&P. 
+
+ 15. 
+
+ Payment Instructions 
+
+ Party A: 
+
+ Bank: The Bank of Nova Scotia, N.Y. 
+
+ ABA#: 026002532 
+
+ Account Number: 6027-36 
+
+ Attention: WBO, Derivative Products 
+
+ Party B: 
+
+ Fed Wire Instructions 
+
+ State Street Bank & Trust Co. 
+
+ ABA#: 011000028 
+
+ Account#: 10239226 
+
+ Beneficiary Name: HALIFAX FUNDING LLC (CNID) 
+
+ 16. 
+
+ Offices 
+
+ (a) The Office of Party A for each Transaction evidenced hereby is Toronto; and 
+
+ (b) The Office of Party B for each Transaction evidenced hereby is Orlando, Florida. 
+
+ 40 
+
+ Please confirm that the foregoing correctly sets forth the terms of our agreement by executing this Master Confirmation and returning it to us. The parties hereto agree that this Master Confirmation, whether received in original or facsimile form, may be executed in counterparts, which execution may be effected by means of facsimile transmission, and that such Master Confirmation, as supplemented by the ISDA Master Agreement, constitute a single and original agreement between us. Where execution is effected by means of facsimile transmission, the parties agree that the sender’s signature as printed by the recipient’s facsimile machine shall be deemed to be the sender’s original signature. 
+
+ Yours sincerely, 
+
+ THE BANK OF NOVA SCOTIA 
+
+ By: /s/D. Couto 
+
+ Name: D COUTO C0009 
+
+ Title: Senior Assistant Manager 
+
+ By: __________________________________________
+
+ Name: 
+
+ Title: 
+
+ Confirmed as of the date hereof: 
+
+ HALIFAX FUNDING LLC 
+
+ By: Corporate Capital Trust, Inc., its Designated Manager 
+
+ By: /s/ Paul S. Saint-Pierre 
+
+ Name: Paul S. Saint-Pierre 
+
+ Title: Chief Financial Officer 
+
+ 41 
+
+ Annex 2 
+
+ RATING FACTOR ANNEX 
+
+ Applicable 
+
+ Moody's 
+
+ Credit 
+
+ Rating 
+
+ Applicable S&P 
+
+ Credit 
+
+ Rating 
+
+ Rating Factor 
+
+ Aaa 
+
+ AAA 
+
+ 1 
+
+ Aa1 
+
+ AA+ 
+
+ 10 
+
+ Aa2 
+
+ AA 
+
+ 20 
+
+ Aa3 
+
+ AA- 
+
+ 40 
+
+ A1 
+
+ A+ 
+
+ 70 
+
+ A2 
+
+ A 
+
+ 120 
+
+ A3 
+
+ A- 
+
+ 180 
+
+ Baa1 
+
+ BBB+ 
+
+ 260 
+
+ Baa2 
+
+ BBB 
+
+ 360 
+
+ Baa3 
+
+ BBB- 
+
+ 610 
+
+ Ba1 
+
+ BB+ 
+
+ 940 
+
+ Ba2 
+
+ BB 
+
+ 1350 
+
+ Ba3 
+
+ BB- 
+
+ 1766 
+
+ B1 
+
+ B+ 
+
+ 2220 
+
+ B2 
+
+ B 
+
+ 2720 
+
+ B3 
+
+ B- 
+
+ 3490 
+
+ Caa1 
+
+ CCC+ 
+
+ 4770 
+
+ Caa2 
+
+ CCC 
+
+ 6500 
+
+ Caa3 
+
+ CCC- 
+
+ 8070 
+
+ Ca 
+
+ CC+ 
+
+ 10000 
+
+ C 
+
+ CC 
+
+ 10000 
+
+ WR 
+
+ CC- 
+
+ 10000 
+
+ C+ 
+
+ 10000 
+
+ C 
+
+ 10000 
+
+ C- 
+
+ 10000 
+
+ D 
+
+ 10000 
+
+ NR 
+
+ 10000

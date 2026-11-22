@@ -1,0 +1,765 @@
+EX-99.(Q)(3)
+ 9
+ exq3seyfarthcannabisfundso.htm
+ CANNABIS LEGAL OPINION
+
+ Document 
+
+ May 4, 2021 
+
+ ETF Managers Group LLC 
+ 30 Maple Street, Suite 2 
+ Summit, New Jersey 07901 
+
+ Re: Opinions with Respect to the Execution of Derivatives 
+
+ and Purchase of Cannabis Company Securities 
+
+ Ladies and Gentlemen: 
+ ETF Managers Group LLC (the “Advisor”) acts as investment advisor to ETFMG U.S. Alternative Harvest ETF (“U.S. Alternative Harvest ETF”), ETFMG Alternative Harvest ETF (the “Prior Fund”) and ETFMG 2X Daily Alternative Harvest ETF (the “2X Fund” and collectively with U.S. Alternative Harvest ETF and the Prior Fund, the “Funds”), each a series of ETF Managers Trust (the “Trust”), each an exchange-traded fund regulated under the Investment Company Act of 1940 (the “1940 Act”) and each subject to the oversight of the Board of Trustees of the Trust (the “Board”). The Funds retained Seyfarth Shaw LLP for purposes of rendering this opinion for the benefit of the Funds and their beneficial owners, or beneficiaries. The Advisor has asked us whether: (a) the Funds’ investment in securities issued by Cannabis Companies (as defined below); and (b) the execution of a TRS (as defined below) by 2X Fund and U.S. Alternative Harvest ETF would violate the laws of the United States and state laws and whether the two funds and their respective beneficial owners would incur liability arising out of any such violation. 
+ Based upon our analysis and for purposes of this letter, the only applicable federal laws are (i) the Controlled Substances Act, 21 U.S.C. § 801, et seq. (the “CSA”), (ii) the Money Laundering Control Act, 18 U.S.C. § 1956, et seq., as amended (the “MCA”), (iii) the Securities Exchange Act of 1934, 15 U.S.C. § 78a et seq., as amended (“1934 Act”) (as amended by the Dodd-Frank Wall Street Reform and Consumer Protection Act, Pub. L. 111-203, H.R. 4173,124 Stat. 1376 (2010)(“Dodd-Frank”) 1 and 
+
+ 1 “Dodd-Frank” is The Wall Street Transparency and Accountability Act, specifically, Title VII of Dodd-Frank, generally effective, subject to rulemaking but certain sections became effective, on July 16, 2010, Public Law 111-203, 124 Stat. 1376, and amends the CEA (by, inter ali a, defining “swap,” 7 U.S.C. 1a(47)(E)(i)), and the 1934 Act. 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 2 
+
+ for purposes of this letter and collectively with the regulations promulgated thereunder, the foregoing applicable laws in (i), (ii), (iii), depending on the TRS reference portfolio as described below, collectively, the “Applicable Federal Law”). 
+ As described more fully below, our opinion is that the Funds and their respective beneficial owners will not violate the CSA and MCA due to the Funds’ purchase of securities of Cannabis Companies, which participate in the cannabis industry in full compliance with U.S. federal and state law. We are also of the opinion that, assuming full compliance with state law by each TRS Company referenced in a total return swap (“ TRS ”) (for the reasons stated in this letter, we do not focus on state law and as we state in footnote 34, we are aware of no federal investigation of any such Cannabis Company or any TRS Company): (i) the TRS Documentation (as defined below) should create legal, valid and binding obligations under New York law with respect to 2X Fund and U.S. Alternative Harvest ETF and their respective counterparties to a TRS; (ii) the TRS should not be rendered unenforceable due to a violation of the CSA; (iii) 2X Fund and U.S. Alternative Harvest ETF should not have ownership, pursuant to Rule 13d-3 promulgated under the 1934 Act, with respect to a TRS Company or the Prior Fund upon the execution and settlement of a TRS; (iv) as the only structure of a TRS analyzed in this letter has, as its Reference Asset, a single security or an exchange-traded fund ( i.e. , the Prior Fund), the TRS is likely a security-based swap regulated by the Securities and Exchange Commission (“SEC”) under its rules and the 1934 Act (as amended by Dodd-Frank), and accordingly, we are of the opinion that such Reference Asset, by itself, would not likely render a TRS unenforceable under the 1934 Act (as amended by Dodd-Frank) and the SEC rules promulgated thereunder; and (vi) 2X Fund and U.S. Alternative Harvest ETF and each of their respective beneficial owners should incur no regulatory exposure or regulatory liability solely because a court of competent jurisdiction in the future holds that a TRS violates Applicable Federal Law and in the event that the federal government declares at some future time that the TRS violates the CSA, both of 2X Fund and U.S. Alternative Harvest ETF (and each of their respective TRS counterparties) can terminate a TRS on a no-fault basis, and use mid-market values calculated pursuant to Section 6(e) of the ISDA Master Agreement (as defined herein). These opinions are being provided for inclusion with the Funds respective Registration Statements filed on Form N-1A (the “Registration Statement”). Our opinions are subject to the assumptions, qualifications and limitations set forth herein as of the date of this opinion letter. 
+ Our opinions are expressed herein solely with respect to Applicable Federal Law and are based on these laws as in effect on the date hereof and not the law of any other jurisdiction. Our opinions expressed below are based upon Applicable Federal Law and rely upon the law, as amended and now in effect, and in all respects are subject to and 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 3 
+
+ may be limited by future legislation, regulations, guidance, formal and informal interpretations and/or case law. The opinions expressed herein represent our reasonable professional judgment as to the matters of law addressed herein, based upon the facts presented or assumed, and are not a guarantee that a court or regulator will reach any particular result. 
+ In connection with this opinion letter, we have examined and relied upon the originals, or copies certified or otherwise identified to our satisfaction, of such records, documents, certificates, agreements and other instruments as in our judgment are necessary or appropriate to enable us to render the opinion expressed below. As to certain factual matters, we have relied upon certificates of officers of the Advisor and have not sought to independently verify such matters. For the purposes of this opinion letter, the Advisor supplied us with a list of companies in which the Funds may invest as of the date of this letter and we have not confirmed full compliance with applicable state law by such companies but assume such compliance for purposes of reaching conclusions and rendering the opinions in this letter. Our opinions also assume that the Funds will invest in securities and that 2X Fund and U.S. Alternative Harvest ETF will execute a TRS in full compliance with the Funds’ respective publicly disclosed investment guidelines. 
+ We have examined certain publicly available information regarding the companies in which the Advisor informs us the Funds intend to invest, or, with respect to 2X Fund and U.S. Alternative Harvest ETF, will reference in a TRS, as of the date of this opinion letter. We have examined what has been made available to us with respect to the various business relationships/interests of the target investments to determine if their businesses violate Applicable Federal Law by assessing if they are engaged in the growth, cultivation and/or sale of cannabis in the United States. In this regard, we have solely reviewed publicly available filings available through the SEC. The following opinions solely rely upon the review of the information available in the public resources noted above in this paragraph. We have not reviewed the target investments with respect to their compliance with the laws of any country or other jurisdiction except as noted above in this paragraph. 
+ This opinion letter is limited to the matters stated herein, and no opinion is implied or may be inferred beyond the matters expressly stated. This opinion letter is given as of the date hereof, and we expressly disclaim any obligation to update or supplement our opinions contained herein to reflect any facts or circumstances that may hereafter come to our attention or any changes in laws or regulations or reported decisions that may hereafter occur or be published. Unless otherwise stated, when we use the term “invest” (or derivations thereof, e.g. , “investment”) in this letter, we mean 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 4 
+
+ the execution of a “security-based swap,” as such term is defined in Section 3(a)(68) of the 1934 Act. 
+ We express no opinion as to the law of any other jurisdiction that may be applicable to the subject matter hereof. We are not rendering any opinion as to compliance with any federal, state, or local law, rule or regulation relating to securities, or to the sale or issuance thereof except with respect to the TRS if characterized as a security-based swap. 
+
+ FACTUAL BACKGROUND FOR OPINION 
+ Description of the Principal Investment Strategy 
+ of ETFMG U.S. Alternative Harvest ETF 
+
+ The principal investment strategy of U.S. Alternative Harvest ETF, as presently stated in its Registration Statement or as otherwise represented to us by the Advisor, is as follows. 
+ Overview 
+ • U.S. Alternative Harvest ETF is an actively managed investment vehicle which will achieve its investment objectives through the purchase of equity securities and the execution of TRS’s, as follows: 
+ • Equity Securities . At least eighty percent (80%) of the net assets of U.S. Alternative Harvest ETF, plus permitted borrowing for investment purposes, will be invested in equity securities of companies (“Cannabis Companies”) which derive at least fifty percent (50%) of their net revenues from the Cannabis Business in the United States, provided that U.S. Alternative Harvest ETF will not invest directly in any Cannabis Company that grows, produces, distributes, or sells cannabis or products derived from cannabis in a country, state, province, locality or other political subdivision where this activity is illegal under applicable law; 
+ ◦ “Cannabis Business” is defined to include: (i) cultivating, producing, marketing or distributing Cannabis, including industrial hemp; (ii) producing, marketing or distributing products containing Cannabis-derived products, (iii) producing, processing, marketing, transporting or distributing prescription drugs, supplements, or food products that include Cannabis-derived products; or (iv) providing 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 5 
+
+ products or services designed for, or used by, companies in the Cannabis industry, including technology, real estate or financial services. 
+ ◦ The equity securities to be purchased by U.S. Alternative Harvest ETF will be the equity of Cannabis Companies which comprise the components of the Prime US Alternative Harvest Index (the “Index”) or other Cannabis Companies operating in the Cannabis Business but not included in the Index. 
+ • Total Return Swaps . U.S. Alternative Harvest ETF will also execute and settle a financial derivative, commonly referred to as a total return swap or TRS, having economic characteristics similar to the Funds’ investment in the securities of Cannabis Companies. U.S. Alternative Harvest ETF will execute TRS’s for the purpose of achieving the approximate economic equivalent of the purchase of equity securities of Cannabis Companies. 
+ ◦ As described in greater detail in the pages that follow, for purposes of this letter and for the legal opinions within it, whenever we reference a “TRS” (or the “TRS’s”), we understand it to mean a total return swap, a financial derivative, which (in the case of the TRS’s executed by U.S. Alternative Harvest ETF) references and provides exposure to a single Cannabis Company, and such Cannabis Company is, we assume for purposes of this letter, in full compliance with applicable laws of the state and local jurisdictions within which such Cannabis Company operates. 
+ • The investment mandate of U.S. Alternative Harvest ETF therefore contemplates the purchase of the equity of Cannabis Companies and the execution of TRS’s in a manner that results in exposure to Cannabis Companies. 
+ • Subject to the oversight of the Board of Trustees for the Trust, the Advisor has discretion to manage on an intra-day and daily basis the portfolio of securities and multiple TRS’s, each referencing a Cannabis Company, within the investment objectives and policies of U.S. Alternative Harvest ETF. 
+ Total Return Swaps 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 6 
+
+ • TRS’s are financial instruments in the form of bilateral contracts executed by parties in the over-the-counter (“OTC”), privately negotiated derivatives market. U.S. Alternative Harvest ETF contemplates that the OTC derivatives documentation, including confirmations for each TRS, will evidence a portfolio of TRS’s; each TRS in that portfolio will reference a single Cannabis Entity and each TRS may be subject to frequent (as often as daily) adjustment in response to, for example, redemptions or purchases by U.S. Alternative Harvest ETF, at the direction of the Advisor (and any permitted sub-advisors). Each TRS will mature and settle at maturity on a cash basis only. 
+ • Generally, investment vehicles regulated by the 1940 Act may enter into one or more OTC swaps with respect to one security, or more than one security, currency, commodity or futures contract, or a single company (or “name”), or basket of companies of assets, an index of companies or an index of assets. 
+ • In a total return swap, the total return buyer receives from the total return payor, for a fee, a periodic, variable return equal to the total return of a specified entity, securities index, basket of multiple securities, or other reference obligation with respect to the swap, over a specified period of time. In this way, one party, the total return receiver, is to receive a value representing the appreciation of whatever is referenced in the swap (an equity, basket of equities or index) and so that derivative derives its value from the referenced asset(s). In return, the party receiving a payment representing the appreciation of the referenced asset(s) pays its counterparty, typically a swap dealer, either a fixed, or sometimes variable stream of payments (typically based on short term interest rates coupled with a spread to account for the credit profile of the total return payor) and a separate payment or payments representing the depreciation of the referenced asset or assets. 
+ • For purposes of this opinion letter, we assume that U.S. Alternative Harvest ETF will enter into a portfolio of TRS’s and with the background provided here, we will evaluate whether each such TRS is an enforceable, bilateral contract under the law we have defined in the second page as “Applicable Federal Law.” 
+ • The TRS will be evidenced by TRS Documentation, which provides, inter alia , for the dynamic, or active management of the reference portfolio so that the Number of Shares in respect of any Share Swap Transaction, the Number of Index Units in respect of any Index Swap Transaction and the Number of Basket Units in respect of any Basket Swap Transaction may be increased or decreased from 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 7 
+
+ time to time (the Advisor represents to us that this may be as frequently as on a daily basis) by agreement of U.S. Alternative Harvest ETF and its counterparty on any Adjustment Effective Date, as provided in a relevant Daily Activity Supplement (as such terms are defined in the Master Confirmation Agreement within the TRS Documentation). Each increase or decrease in the Number of Shares, Number of Index Units or Number of Basket Units (collectively, as relevant, the “Number of Reference Assets”) is referred to in the TRS Documentation as an “Increase Tranche” or a “Decrease Tranche”, respectively (either, a “Tranche”). The TRS counterparty, as Calculation Agent (and Valuation Agent with respect to collateral supporting the TRS) will mark to market the reference portfolio on a daily basis. Collateral supporting obligations will be subject to a bilateral Credit Support Annex contemplating margin calls by either party, with the assets of U.S. Alternative Harvest ETF being held by the custodian of U.S. Alternative Harvest ETF, U.S. Bank, in compliance with the 1940 Act. We assume for purposes of this letter that U.S. Alternative Harvest ETF will be in compliance with the 1940 Act rules, including those regarding custody, promulgated by the SEC under the 1940 Act, and that act. U.S. Alternative Harvest ETF contemplates that each TRS may be subject to frequent (as often as daily) adjustment in response to, for example, redemptions or purchases by U.S. Alternative Harvest ETF, at the direction of the Advisor (and any permitted sub-advisors). Each TRS will be cash settled at expiry. 
+ Description of the Principal Investment Strategy 
+ of ETFMG Alternative Harvest ETF 
+ • The Prior Fund uses a replication strategy. A replication strategy is an indexing strategy that involves investing in the securities of the Index in approximately the same proportions as in the Index. However, the Prior Fund may utilize a representative sampling strategy with respect to the Index when a replication strategy might be detrimental to shareholders, such as when there are practical difficulties or substantial costs involved in compiling a portfolio of equity securities to follow the Index, in instances in which a security in the Index becomes temporarily illiquid, unavailable or less liquid, or as a result of legal restrictions or limitations (such as tax diversification requirements) that apply to the Prior Fund but not the Index. 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 8 
+
+ The Index tracks the performance of the exchange-listed common stock (or corresponding American Depositary Receipts ("ADRs") or Global Depositary Receipts ("GDRs")) of companies across the globe, including U.S. companies, that (i) are Cannabis Companies; (ii) engage in the lawful creation, marketing or distribution of prescription drugs that utilize cannabinoids as an active ingredient ("Pharmaceutical Companies"); (iii) trade tobacco or produce tobacco products, such as cigarettes, cigars or electronic cigarettes; (iv) produce cigarette and cigar components, such as cigarette paper and filters; or (v) engage in the creation, production and distribution of fertilizers, plant foods, pesticides or growing equipment to be used in the cultivation of cannabis or tobacco. The Index only includes companies that are engaged exclusively in legal activities under applicable national and local laws, including U.S. federal and state laws. Companies whose business activities are legal under state marijuana law, but not legal under federal marijuana law, are automatically ineligible for inclusion in the Index. Because the Index only includes companies that are currently engaged exclusively in legal activities under applicable national and local laws, the Index will not include any company that engages in the cultivation, production or distribution of marijuana or products derived from marijuana for medical or non-medical purposes in a particular country, including the United States, unless and until such time as the cultivation, production or distribution of medical or non-medical marijuana, as applicable, becomes legal under all local and national laws governing the company in such country. 
+ • "Applicable national and local laws" refers to (i) controlled substance laws and regulations or (ii) food, drug, and cosmetics, or equivalent laws and regulations under whose jurisdiction the company is subject that govern the cultivation, production or distribution, for medical or non-medical purposes, of marijuana in a particular country. "Hemp" refers to cannabis plants with a tetrahydrocannabinol ("THC") concentration of not more than 0.3% on a dry weight basis, as well as derivatives thereof, whereas "marijuana" refers to all other cannabis plants and derivatives thereof. 
+ • Cannabis Companies do not currently include companies that grow or distribute marijuana inside of the United States. Cannabis Companies may, however, include companies that have a business interest in the hemp and hemp-based products markets within the United States. Additionally, the Cannabis Companies only supply products for activities that are legal under applicable national and local laws, including U.S. federal and state laws. 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 9 
+
+ • The Pharmaceutical Companies produce, market or distribute drug products that use cannabinoids to create government approved drugs. Cannabinoids are extracts from the cannabis plant and include tetrahydrocannabinol, cannabidiol ("CBD"), dronabinol and nabilone. All Pharmaceutical Companies would have the necessary permits and licenses to engage in lawful medical research using cannabinoids to produce government approved drugs, or to otherwise produce, market or distribute such drugs. This activity is distinct from the "medical marijuana" business, which refers to the use of the cannabis leaf, as opposed to specific extracts in pharmaceutical form, to alleviate the symptoms of injury or illness. 
+ • The Prior Fund will invest at least 80% of its total assets, exclusive of collateral held from securities lending, in the component securities of the Index and in ADRs and GDRs based on the component securities in the Index. The Prior Fund may invest up to 20% of its total assets in securities that are not in the Index to the extent that the Prior Fund's investment adviser believes that such investments should help the Prior Fund's overall portfolio track the Index,. 
+ • The Prior Fund may lend its portfolio securities to brokers, dealers, and other financial organizations. These loans, if and when made, may not exceed 33 1/3% of the total asset value of the Prior Fund (including the loan collateral). By lending its securities, the Prior Fund may increase its income by receiving payments from the borrower. 
+ • Industry Concentration Policy: The Prior Fund will concentrate its investments (i.e., hold more than 25% of its net assets) in a particular industry or group of related industries to approximately the same extent that the Index is concentrated. As of January 15, 2021, the Index was concentrated in the Pharmaceuticals, Biotechnology and Life Sciences group of industries. 
+ Description of the Principal Investment Strategy 
+ of ETFMG 2X Daily Alternative Harvest ETF 
+
+ The 2X Fund’s principal investment strategy as presently stated in the 2X Fund’s Registration Statement or as otherwise represented to us by the Advisor is as follows: 
+ • The 2X Fund is designed to seek daily investment results, before fees and expenses, that corresponds to two times (2X) the daily total return of the Index. To achieve its objectives, the 2X Fund may invest in the securities of the Index, a representative sample of the securities in the Index that has aggregate 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 10 
+
+ characteristics similar to those of the Index, securities not included in the Index, an ETF that tracks the Index (including investing in an affiliated series of the Trust, the 2X Fund) or a substantially similar index. 
+ • We also understand that the 2X Fund will enter into a TRS. Whereas the TRS’s that will be executed and settled by U.S. Alternative Harvest ETF will each reference a Cannabis Company, the TRS to be executed by the 2x Fund will reference the Prior Fund as the only reference asset. For purposes of this opinion letter, we assume that the 2X Fund will enter into a TRS referencing the Prior Fund and you have asked us for legal and regulatory analysis leading to a conclusion as to whether the TRS with this structure will likely be an enforceable, bilateral contract under the law which we have defined near the beginning of this letter as “Applicable Federal Law.” 
+ • The Cannabis Companies that the 2X Fund seeks to invest in include those that are exchange traded and legally participate in activities supporting the cannabis industry in one of 3 classifications: 
+ • Cannabis/Hemp Plant (Pharmaceuticals/Biotechnology, Cultivation & Retail, Hemp Products and Cannabis-Infused Products) 
+ • Support (Agricultural Technology, Real Estate and Commercial Services) 
+ • Ancillary (Consumption Devices/Mechanisms, Investing & Finance, Technology & Media and Other Ancillary) 
+
+ • These Cannabis Companies may relate to the “cannabis” or “marijuana” (terms that are used interchangeably) side of the industry, or the “hemp” side of the industry. 2 
+
+ 2 Botanically, hemp and marijuana/cannabis come from the same species of plant, Cannabis sativ a, but from different varieties or “cultivars” that have been bred for different uses. In fact, hemp and marijuana/cannabis are genetically distinct forms of the plant that differ by their use, chemical makeup, and differing cultivation practices. While “marijuana/cannabis” generally refers to the psychotropic drug that is high in delta-9-tetrahydrocannabinol (“THC”) content, growers cultivate low-THC hemp for use in the production of products, including foods and beverages, personal care products, nutritional supplements, fabrics, textiles, paper, construction materials, and other manufactured goods. Since December 2018, hemp is not specifically illegal under the CSA, though it remains subject to considerable regulation and may be illegal under state law in some states. 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 11 
+
+ Detailed information on exchange traded securities utilized by the Funds 
+ The Funds will directly invest in companies that list their securities on exchanges that require compliance with all laws, rules and regulations applicable to their business, including U.S. federal laws. The current exchanges identified by the Funds that meet these requirements are the New York Stock Exchange (“NYSE”) NYSE American, Nasdaq Stock Market (“Nasdaq”), TSX Exchange, (“TSX”), TSX Venture Exchange (“TSX Venture”), Australian Securities Exchange (“ASX”) and Tel Aviv Stock Exchange (“TASE”). 
+ The NYSE and NASDAQ are national securities exchanges that are registered with the SEC under Section 6 of the Securities Exchange Act of 1934. Before a company ’ s securities can trade on a U.S. exchange, the company must register that class of securities with the SEC under Section 12(b) of the Exchange Act. 
+ Further information on each of these exchanges is as follows: 
+ NYSE and NYSE American 
+ The NYSE is a worldwide market that lists roughly 70% of U.S. securities. The NYSE acquired the American Stock Exchange in 2008 (now known as NYSE American or NYSE MKT). The NYSE MKT is open to listing companies involved in the cannabis industry who are involved in biotech (22nd Century Group: XXII; AbbVie: ABBV); investment in the industry outside of United States (Canopy Growth Corp.: CGC; Compass Diversified Holdings: CODI; the Prior Fund: MJ); the agricultural sector (Level Brands, Inc.: LEVB; Scott’s Miracle Grow Co.: SMG); and the real estate sector (Innovative Industrial Properties, Inc.: IIPR). United States based companies that “touch the plant” ( i.e ., those that grow or distribute cannabis) are not eligible to list at this time. Canadian and other non-U.S. companies whose cannabis related activities are legal in their home jurisdiction are eligible to list if they meet the exchange ’ s listing requirements, such as number of shareholders, earnings and stock price. The NYSE governs listing requirements and continued listing requirements. Listing issuers must comply with its agreements with the NYSE and SEC requirements in all material respect. 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 12 
+
+ Further, NYSE Regulation (“NYSER”) is responsible for monitoring activities on the NYSE’s equities, options, and bonds markets – i.e. , the New York Stock Exchange LLC (equities and bonds), NYSE Arca, Inc. (equities and options), NYSE American LLC (equities and options) and NYSE National, Inc. (equities) (collectively, the “NYSE Exchanges”) – and for addressing non-compliance with the NYSE Exchanges’ rules and federal securities laws. NYSER enforces both the NYSE Exchanges’ and their members’ compliance with NYSE Exchange rules and applicable federal securities requirements. It also monitors and enforces listed companies’ compliance with applicable listing standards of the NYSE Exchanges. By performing these duties, NYSER supports the NYSE Exchanges’ efforts to promote just and equitable principles of trade, encourage free and open markets, and protect investors and the public interest. Many of these regulatory functions are performed directly by NYSER; others are performed by FINRA or other self-regulatory organizations pursuant to a regulatory services agreement, national market system plans, or other arrangements. 
+ NASDAQ 
+ The Nasdaq Stock Market requires the companies listing on its exchange to comply with U.S. federal laws. The following paragraph below is from its website under FAQ: 
+ In determining whether to initially list a company or continue a company ’ s listing when it changes its business activities, Nasdaq does not make subjective or value judgements about the business the company operates. However, Nasdaq cannot initially list or continue the listing of a company whose current or planned activities are in violation of U.S. federal law or the law in a jurisdiction where the company operates. In assessing the legality of a company ’ s activity, Nasdaq largely relies on the risk factors and other disclosures made in the company ’ s filings with the Securities and Exchange Commission, although Nasdaq may also request additional information from the company where necessary. 3 
+
+ 3 Available at https://listingcenter.nasdaq.com/Material_Search.aspx?cid=34&mcd=LQ (Identification No. 1474) 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 13 
+
+ TSX 
+ The TSX is the 12th largest exchange in the world by market capitalization. On October 16, 2017, the TSX issued Staff Notice 2017-0009 (the “Staff Notice”) 4 regarding sted companies engaged in the marijuana business, whether directly or indirectly, in the United States. The Staff Notice states the general requirements that the business of applicants or listed issuers “will be conducted (i) with integrity and in the best interests of the issuer’s security holders and the investing public, and (ii) in compliance with the rules and regulations of TSX and all regulatory bodies having jurisdiction.” Due to the significant number of inquiries received regarding entities engaging in activities related to the cultivation, distribution or possession of marijuana in the U.S. (“Subject Entities”), TSX issued the Staff Notice to provide clarity regarding the application of the requirements to applicants and listed issuers in the marijuana sector. The Staff Notice notes that although a number of U.S. states have legalized the cultivation, distribution or possession of marijuana subject to various conditions, marijuana remains a Schedule I drug under the CSA. More specifically, it is illegal under U.S. federal law to cultivate, distribute or possess marijuana, and financial transactions involving proceeds generated by, or intended to promote, marijuana-related business activities in the U.S. may form the basis for prosecution under applicable U.S. federal money-laundering legislation. 
+ According to the Staff Notice, companies listed on the TSX with ongoing business activities that violate U.S. federal law regarding marijuana do not comply with the requirements of the TSX. These business activities may include, among other things, (i) direct or indirect ownership of, or investment in Subject Entities, (ii) commercial interest or arrangements with Subject Entities that are similar in substance to ownership of, or investment in Subject Entities, (iii) providing services or products that are specifically designed for, or targeted at, Subject Entities, or (iv) commercial interests or arrangements with entities engaging in the business activities described in (iii). 
+ The Staff Notice states that as part of TSX ’ s standard continued listing review of listed issuers, TSX selects issuers for in depth reviews based on their continuous disclosure records. As required by the TSX manual, each listed issuer is required to disclose material information regarding its business and affairs. As part of its continued listing review of listed issuers in the marijuana sector, TSX contacted listed issuers at the end of 2017 for a more comprehensive review of their marijuana-related activities (if any) in the U.S. If a listed company engages in activities that are contrary to TSX requirements, the TSX has the discretion to initiate delisting review of that company. In short, if a TSX-listed company grows or distributes marijuana in the U.S., invests in 
+
+ 4 See Staff Notice 2017-0009 dated October 16, 2017 available at https://decisia.lexum.com/tsx/sn/en/item/454533/index.d o. 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 14 
+
+ another business that grows or distributes marijuana in the U.S., or provides services or products for businesses that grow or distribute marijuana in the U.S., the company faces the prospect of being delisted from the TSX. 
+
+ TSX Venture 
+ This exchange mostly contains small-cap Canadian stocks. TSX Venture provided a Notice to Issuers bulletin dated October 16, 2017 (the “Bulletin”) 5 that specifically addressed business activities related to marijuana in the United States. The Bulletin clarified its requirements to list and to continue listing on its exchange. The Bulletin states the general requirements “that (i) the business of applicants or listed issuers will be conducted with integrity and in the best interests of the issuer’s security holders, and (ii) applicants or listed issuers will comply with all laws, rules and regulations applicable to their business or undertaking.” These requirements apply to all applicants and listed issuers. Due to the “significant number of inquiries received regarding entities engaging in activities related to the cultivation, distribution or possession of marijuana in the United States” (“Subject Entities”), TSX Venture issued the Bulletin to provide clarity regarding the application of the requirements to applicants and listed issuers in the marijuana sector. The Bulletin notes that although a number of U.S. states have legalized the cultivation, distribution, or possession of marijuana to various degrees and subject to various conditions, marijuana remains a Schedule I drug under the CSA and cannabis financial transactions are prohibited under the MCA. 
+ According to the Bulletin, companies listed on TSX Venture with ongoing business activities that violate United States federal law regarding marijuana do not comply with the requirements of TSX Venture. These business activities may include, among other things: 
+ (i) direct or indirect ownership of, or investment in, Subject Entities; (ii) commercial interests or arrangements with Subject Entities that are similar in substance to ownership of, or investment in, Subject Entities; (iii) providing services or products that are specifically designed for, or targeted at, Subject Entities; or (iv) commercial interests or arrangements with entities engaging in the business activities described in (iii). 
+
+ 5 See Notice to Issuers bulletin dated October 16, 2017 available at https://www.tsx.com/resource/en/1609. 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 15 
+
+ The Bulletin states that, as part of TSX Venture ’ s standard continued listing review of listed issuers, TSX Venture selects issuers for in depth reviews based on their continuous disclosure records. As required by the TSX Venture manual, each listed issuer is required to disclose material information regarding its business and affairs. As part of its continued listing review of listed issuers in the marijuana sector, TSX Venture contacted listed issuers at the end of 2017 for a more comprehensive review of their marijuana-related activities (if any) in the United States. If a listed company engages in activities that are contrary to TSX Venture ’ s requirements, TSX Venture has the discretion to initiate a delisting review of that company. 
+ ASX 
+ The ASX is Australia's primary securities exchange. In October 2017, ASX provided additional clarification to its listing requirements specific to cannabis companies as follows: 
+
+ ASX also notes that the legal status of medical cannabis businesses in the US presently is subject to uncertainty under US federal law. An applicant seeking to list a US medical cannabis business will need to satisfy ASX that its business can be lawfully carried on in the US (under both Federal and State law) before ASX will admit it to the official list. 
+
+ TASE and Israel Generally 
+ Medical marijuana for certain conditions has been legal in Israel since the early 1990s, and since 2017, despite remaining illegal, recreational cannabis has been in the process of decriminalization. 6 Moreover, Israel recently has authorized the export of locally grown cannabis to other countries. 7 
+
+ 6 13 Bar Peleg, Explained Marijuana Decriminalization Goes Into Effect in Israel. What Does That Mean?, available at https://www.haaretz.com/israel-news/.premium-marijuana-decriminalization-goes-into-effect-in-israel-what-does-that-mean-1.7069271; Samuel Osborne, Israel’s parliament unanimously votes to progress cannabis decriminalization, available at https://www.independent.co.uk/news/world/middle-east/israel-marijuana-legal-decriminalise-knesset-cannabis-weed-illegal-drugs-a8246161.html. 
+ 7 Sara Brittany Somerset, Israel Decriminalizes Adult Use Cannabis During CannaTech Conference In Tel Aviv, available at https://www.forbes.com/sites/sarabrittanysomerset/2019/04/05/israel-decriminalizes-adult-use-cannabis-during-cannatech-conference-in-tel-aviv/#7665aac15dff; Maayan Jaffe-Hoffman, High Hopes for the Holy Land, available at https://www.jpost.com/Magazine/High-hopes-for-the-Holy-Land-585002. 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 16 
+
+ The Tel Aviv Stock Exchange ("TASE") is Israel's only public stock exchange. 8 Only eight companies have been licensed in Israel to cultivate and distribute medical annabis, and only one of those, InterCure's Ltd., is publically listed on the TASE. 9 Other licensed Israeli cannabis companies are exploring IPOs on North American exchanges, 10 or are already listed there. 11 Still other companies involved in Israeli cannabis (but which are not licensed to cultivate or distribute) are listed on the TASE. 12 The TASE also lists at least one cannabis-based mutual fund, ALN Cannabis. 13 Despite all of this activity, however, the TASE does not have rules or regulations addressing whether listed companies must comply with U.S. federal law. For this reason, and in order to comply with its principal investment strategy as outlined above, the Funds may only purchase the securities of a company listed on the Tel Aviv Stock Exchange if it survives the Special Situation Review and is found to be in compliance with U.S. federal law. This opinion does not cover other Israeli exchanges. 
+
+ 8 See About the Tel Aviv Stock Exchange, available at https://info.tase.co.il/eng/about_tase/corporate/pages/tel_aviv_stock_exchange.aspx. 
+ 9 Press Release, InterCure’s Management Opened the Trading session This Morning celebrating the addition to TASE Indices, available at https://info.tase.co.il/Eng/about_tase/news/2018/Pages/PR_20181031.aspx. 
+ 10 Canndoc proposes to go public through acquisition by a SPAC with a listing on Nasdaq. See NCV Newswire, Israeli Cannabis Company Canndoc to Go Public via SPAC, available at https://www.newcannabisventures.com/israeli-cannabis-company-canndoc-to-go-public-via-spac/. Breath of Life International sought an IPO on the TSX in 2019. See Investing.com, Israeli Cannabis Company Breath of Life to Launch Toronto IPO, available at https://finance.yahoo.com/news/israeli-cannabis-company-breath-life-134000679.html. It subsequently elected to defer the IPO until market conditions improved. See Kristine Owram, Israeli Pot Firm Breath of Life Delays IPO Until Market Improve s, available at https://www.bloomberg.com/news/articles/2019-10-07/israeli-pot-firm-breath-of-life-delays-ipo-until-market-improves. 
+ 11 18 Kalytera Therapeutics is listed on the TSXV. See Listing on TSXV website, available at https://tmxmatrix.com/company/KLY. 
+ 12 TASE, 2018 Annual Review at p. 12, available at https://info.tase.co.il/Eng/Lists/gen_res/0133_annual_review/2018_annual_review_eng.pdf. 
+ 13 See ALN Cannabis TASE Listing Page, available at https://info.tase.co.il/eng/General/trustfund/Pages/fundmaindata.aspx?FundID=0512756. 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 17 
+
+ We next proceed with our legal analysis and the opinions which we render in this letter, first in Parts I, II and III, insofar as the Funds’ purchase of securities is concerned, and finally in Part IV, insofar as the execution and settlement of TRS’s is concerned. 
+
+ /// 
+ /// 
+ /// 
+ LEGAL ANALYSIS 
+ Beyond the limits of investing in companies listed on exchanges described above, we analyzed the potential criminal exposure to the Funds and their respective beneficial owners solely under Applicable Federal Law in connection with the Fund ’ s proposed investment in the Cannabis Companies. 14 The legal landscape in the cannabis industry is rapidly changing, and enforcement priorities for prosecutors, investigators, and regulators are difficult (if not impossible) to predict, may be influenced by political considerations (and thus a moving target), and may lack consistent application, all of which are beyond the scope of this opinion. 
+ Subject to the considerations set forth in the preceding paragraph, based on our review of the case law and other authorities, we note the following: 
+ • Federal prosecutors have considerable discretion to pursue potential cannabis-related offenses under U.S. criminal laws. To date, the matters filed by prosecutors have been focused on growers, producers, and distributors within the U.S. that have violated federal law and/or the state and local laws where they are located. 15 
+
+ 14 For purposes of this opinion, we do not assess potential regulatory issues with the SEC, the Financial Industry Regulatory Authority (“FINRA”), the Financial Crimes Enforcement Network (“FinCen”), or foreign authorities. 
+ 15 Se e, e.g ., Superseding Indictment, U.S. v. Hoan g, Case No. 3:17-cr-70, 2017 WL 9855203 (S.D. Iowa); Press Release, U.S. Dep’t of Justice, California Realtor Sentenced to Prison for Filing a False Tax Return - Did Not Report Over $1 million In Income From Marijuana Distribution Business (Nov. 2, 2018), available at https://www.justice.gov/opa/pr/california-realtor-sentenced-prison-filing-false-tax-return; Press Release, U.S. Dep’t of Justice , Washington, D.C. Post Office Manager and Two Letter Carriers Found Guilty of Bribery and Conspiracy to Distribute Marijuana (Jul. 24, 2017), available at https://www.justice.gov/opa/pr/washington-dc-post-office-manager-and-two-letter-carriers-found-guilty-bribery-and-conspiracy. 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 18 
+
+ • We have reviewed examples of U.S. exchange listed companies that have invested or are investing in cannabis companies and, to date, we have not found public records showing corresponding action by the U.S. Department of Justice (the “DOJ”). 16 Indeed, in May 2020, Constellation Brands, Inc., a New York-based Fortune 500 company that is publicly traded on the New York Stock Exchange, increased its investment from 9.9% to 38.6% of the issued and outstanding common shares of Canopy Growth Corporation, a Canadian producer and exporter of cannabis listed on the NYSE. 
+ • We have reviewed two open-end investment companies registered under the Investment Company Act of 1940, as amended (the “1940 Act”) with principal investment strategies of investing in Cannabis Companies (as such term is defined herein). First, the Prior Fund, which is publicly traded on NYSE Arca, Inc., has as its principal investment strategy to invest in “exchange-listed common stock (or corresponding American Depositary Receipts (“ADRs”) or Global Depositary Receipts (“GDRs”)) of companies across the globe, including U.S. companies, that (i) are engaged in the legal cultivation of cannabis, including industrial hemp, or the legal production, marketing or distribution of cannabis, including industrial hemp and products for medical or nonmedical purposes (“Cannabis Companies”); (ii) engage in the lawful creation, marketing or distribution of prescription drugs that utilize cannabinoids as an active ingredient (“Pharmaceutical Companies”); (iii) trade tobacco or produce tobacco products, such as cigarettes, cigars or electronic cigarettes; (iv) produce cigarette and cigar components, such as cigarette paper and filters; or (v) engage in the creation, production and distribution of fertilizers, plant foods, pesticides or growing equipment to be used in the cultivation of cannabis or tobacco.” 17 U.S. Alternative Harvest ETF may invest in the Prior Fund. Second, is the American Growth Fund Series Two, which has as its principal investment strategy to invest in a “portfolio which is made up primarily of common stocks involved in the legal cannabis business.” 18 
+
+ 16 This does not mean that no action may be brought in the future or that no confidential investigation is proceeding in the status quo, it simply means that we have not found evidence of the same through publicly available resources that we reviewed as noted above. 
+ 17 ETFMG Alternative Harvest ETF’s Summary Prospectus dated January 29, 2021, available on the SEC’s EDGAR database at https://www.sec.gov/Archives/edgar/data/0001467831/000121390021005017/s130101_485bpos.htm. 
+ 18 American Growth Fund Series Two’s Summary Prospectus dated November 30, 2019 available on the SEC’s EDGAR database at https://www.sec.gov/Archives/edgar/data/5138/000000513819000027/series2n1a.htm. 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 19 
+
+ • In addition, we have reviewed examples of other investment companies registered under the 1940 Act with investments in cannabis companies. The Vanguard Developed Markets Index Fund held, at the very least, each of the following cannabis companies as of February 28, 2021: Aphria, Inc., Aurora Cannabis Inc., and Canopy Growth Corp. 
+ • Notwithstanding the above, there could be a risk of criminal exposure for aiding and abetting liability under the CSA. The CSA generally proscribes the manufacture and/or production of controlled substances, such as cannabis. Liability here would be determined based on whether (i) the CSA applies to conduct occurring entirely in another country, such as Canada or Australia, and (ii) whether investment in the Cannabis Companies would constitute an underlying violation of law, particularly where the proposed investment criteria proscribes investment in the securities of companies that manufacture and/or produce cannabis and the proposed investments contemplate the purchase of securities on secondary markets in Canada and Australia. We have not found case law or other guidance suggesting an extension of enforcement of the CSA in the manner outlined above as to any of the Cannabis Companies. 
+ Our opinion focuses on Applicable Federal Law, and based on the current status of state laws regarding marijuana, it is our view that Applicable Federal Law is more stringent. Therefore, it is our opinion that, if the Funds comply with Applicable Federal Law, the Funds will meet state law standards because the Funds will not be investing in companies engaged in the cultivation, distribution or possession of marijuana in the U.S. 
+ I. FEDERAL LAW 
+ A. Executing Federal Laws 
+ Congress gives federal agencies significant authority in executing federal laws, including the DEA, the law enforcement arm of the federal government primarily responsible for enforcing the CSA. 19 Further, federal prosecutors have wide latitude in determining when, who, how and even whether to prosecute for alleged violations of federal criminal law. 20 In our legal system, “the decision whether or not to prosecute, and what charge to file or bring before a grand jury, generally rests entirely in [the 
+
+ 19 Se e 21 U.S.C § 811. 
+ 20 Oyler v. Bole s, 368 U.S. 448 (1962). 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 20 
+
+ prosecutor’s] discretion.” 21 “This broad discretion ... is particularly ill-suited to judicial review.” 22 That discretion extends to, for example, the decision to prosecute a matter, the selection of charges, whether to enter into a plea agreement, and participation in sentencing. 23 
+ With respect to business organizations, such as the Funds’, the United States Justice Manual provides the following guidelines to prosecutors to promote the reasoned exercise of discretion: 24 
+ • The nature and seriousness of the offense, including the risk of harm to the public, and applicable policies and priorities, if any, governing the prosecution of business organizations for particular categories of crime; 
+ • The pervasiveness of wrongdoing within the business organization, including the complicity in, or the condoning of, the wrongdoing by management; 
+ • The business organization’s history of similar misconduct, including prior criminal, civil, and regulatory enforcement actions against it; 
+ • The business organization’s identification of individuals responsible for the misconduct and production of misconduct information; 
+ • The existence, effectiveness, and enforcement of the business organization’s pre-existing compliance program; 
+ • The business organization’s timely and voluntary disclosure of wrongdoing; 
+ • The business organization’s remedial actions, including any efforts to implement an effective corporate compliance program or to improve an existing one, to replace responsible management, to discipline or terminate wrongdoers, to pay restitution, and to discipline wrongdoers; 
+
+ 21 Bordenkircher v. Haye s, 434 U.S. 357, 364 (1978). 
+ 22 Wayte v. United State s, 470 U.S. 598, 607 (1985). 
+ 23 Se e United States Justice Manual at § 9-27.110, available at https://www.justice.gov/jm/jm-9-27000-principles-federal-prosecution#9-27.110. 
+ 24 United States Justice Manual at §§ 9-28.300, 9-28.400, 9-28.500, 9-28.600, 9-28.700, 9-28.800, 9-28.900, 9-28.1000, 9-28.1100, 9-28.1200, and 9-28.1300, available at https://www.justice.gov/jm/jm-9-28000-principles-federal-prosecution-business-organizations. 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 21 
+
+ • Collateral consequences, including whether there is disproportionate harm to shareholders, pension holders, employees, and others not proven personally culpable, as well as impact on the public arising from the prosecution; 
+ • The adequacy of remedies such as civil or regulatory enforcement actions; and 
+ • The adequacy of the prosecution of individuals responsible for the business organization’s malfeasance. 
+ B. DOJ Position on Enforcement of Federal Marijuana Laws 
+ During the Obama administration, Deputy Attorney General David Ogden and Deputy Attorney General James Cole released several memoranda that addressed federal enforcement priorities regarding the CSA. These memoranda were intended to adapt the federal government ’ s position on marijuana as states legalized the drug for medical purposes. 
+ Most notably, in 2013, Deputy Attorney General Cole released a memorandum 25 (the “Cole Memo”) that reiterated the DOJ’s commitment to enforcing the CSA, but that directed law enforcement and prosecutors only to focus on conduct that implicated the following: 
+ • Preventing the distribution of marijuana to minors; 
+ • Preventing revenue from the sale of marijuana from going to criminal enterprises, gangs, and cartels; 
+ • Preventing the diversion of marijuana from states where it is legal under state law in some form to other states; 
+
+ 25 Memorandum from James Cole, U.S. Deputy Attorney General, on Guidance Regarding Marijuana Enforcemen t (Aug. 29, 2013) available at https://www.justice.gov/iso/opa/resources/3052013829132756857467.pdf. 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 22 
+
+ • Preventing state-authorized marijuana activity from being used as a cover or pretext for the trafficking of other illegal drugs or other illegal activity; 
+ • Preventing violence and the use of firearms in the cultivation and distribution of marijuana; 
+ • Preventing drugged driving and the exacerbation of other adverse public health consequences associated with marijuana use; 
+ • Preventing the growing of marijuana on public lands and the attendant public safety and environmental dangers posed by marijuana production on public lands; and 
+ • Preventing marijuana possession or use on federal property. 
+ The Cole Memo further conditioned this guidance on the existence of a state regulatory scheme that provides “robust controls and procedures [which are] effective in practice,” in which case “enforcement of state law by state and local law enforcement and regulatory bodies should remain the primary means of addressing marijuana-related activity.” Taken together, the Cole Memo and other related memoranda provided that the federal government would give some leeway to states’ control over medical marijuana use and production for medical purposes. Importantly, though, the Cole Memo did not have the force of law, but only reflected a policy subject to change at any time. 
+ In January 2018, Attorney General Jeff Sessions issued a new memorandum (the “Sessions Memo”) repealing the policy statements in the Cole Memo: “Given the Department’s well-established general principles, previous nationwide guidance specific to marijuana enforcement is unnecessary and is rescinded, effective immediately.” 26 The Sessions Memo reinforces the prosecutorial discretion to pursue penalties for marijuana 
+
+ 26 Memorandum from Jeffrey Sessions, U.S. Attorney General, on Marijuana Enforcemen t, (Jan. 4, 2018) available at https://www.justice.gov/opa/press-release/file/1022196/download. 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 23 
+
+ cultivation, distribution, and possession under Applicable Federal Law for financial transactions. 27 
+ The Sessions Memo provides that the federal government may pursue action against violations of federal law related to marijuana. To the extent that they have done so, it appears that federal prosecutors have focused on growers and producers within the states, rather than investors. 28 
+ Moreover, there are multiple U.S. exchange-listed companies that either are investing in Canadian cannabis companies, or are Canadian cannabis companies themselves, such as Tilray Inc., a cannabis research, cultivation, processing, and distribution firm traded on NASDAQ which is held by the Index. Similarly, we have not identified any public reports concerning any DOJ action with respect to the increase by Constellation Brands, Inc., a New York-based Fortune 500 company that is publicly traded on the New York Stock Exchange, of its investment in Canopy Growth Corporation, a Canadian producer and exporter of cannabis listed on the NYSE 29 from 9.9% to 38.6% of the issued and outstanding common shares of Canopy Growth Corporation. 
+ Further, the SEC appears to have scrutinized the registration statements and other disclosure documents made by Cannabis Companies that are listed on U.S. exchanges. For instance, the SEC requested changes to Tilray ’ s public disclosure documents, including increased disclosures regarding the company ’ s capital structure 
+
+ 27 During confirmation hearings before the Senate Judiciary Committee for appointment as Attorney General, in February, 2021, new Attorney General Merrick Garland responded to questioning by Senator Cory Booker as follows: “It does not seem to me a useful use of limited resources that we have, to be pursuing prosecutions in states that have legalized and that are regulating the use of marijuana, either medically or otherwise. I don’t think that’s a useful use.” Se e https://mjbizdaily.com/attorney-general-nominee-merrick-garland-signals-friendlier-marijuana-stance/. In subsequent written responses to the Senate Judiciary Committee, Attorney General Garland stated that he did not think it worth the department’s time to pursue prosecutions “of those who are complying with the laws in states that have legalized and are effectively regulating marijuana.” See https://www.rollcall.com/2021/03/01/senate-judiciary-sends-garland-nomination-to-the-floor /. Separate and apart from these pronouncements, Congress has withheld funding to the DOJ (pursuant to the Rohrabacher-Blumenauer Amendment to federal spending bills) to prosecute state-compliant business in the medical marijuana space since 2014. 
+ 28 See, e.g ., Superseding Indictment, U.S. v. Hoan g, Case No. 3:17-cr-70, 2017 WL 9855203 (S.D. Iowa) (criminal charges filed against growers, not investors, related to marijuana production and/or distribution within the states). 
+ 29 Constellation Brands increases stake in Canopy Growt h, (May. 2020), available at https://www.beveragedaily.com/Article/2020/05/05/Constellation-Brands-increases-stake-in-Canopy-Growth-Corp. 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 24 
+
+ and risks associated with operating in the cannabis industry, such as compliance with U.S. laws and potential market volatility. 30 
+ Finally, we have found nothing in the publicly available resources noted above that suggests that any of the Cannabis Companies being considered for investment are engaged in any cannabis touching business in the U.S. except to the extent that they are either registered with the DEA specifically for the purpose of handling marijuana for lawful research and development of cannabis or cannabinoid-related products or, to the extent that they are handling hemp, that such activities comply with applicable laws. Moreover, we have found no publicly reported civil, criminal or regulatory proceedings against any of the Cannabis Companies for a violation of the CSA and/or MCA. 31 This opinion is only based upon and limited to that publicly available information available from the SEC. 
+ Based on the foregoing and the Funds’ representations that they will only invest in certain exchange traded securities compliant with U.S. federal law, we believe the Funds would not violate the CSA or be subject to DOJ marijuana enforcement. 
+ II. The CSA 
+ Under Section 841(a) of the CSA, it is unlawful for a person to knowingly or intentionally “manufacture, distribute, or dispense, or possess with intent to manufacture, distribute, or dispense, a controlled substance . . . .” 32 The statute defines “manufacture” as the production, preparation, propagation, compounding, or processing of a drug or other substance, either directly or indirectly or by extraction, and includes any packaging or repackaging of such substance, except as complying with applicable state law. 33 In addition, Section 846 of the CSA prohibits conspiring to commit substantive offenses under the Act, and provides that any individual who attempts or conspires to commit a violation of the CSA will be subject to the same penalties as the underlying offense. 34 
+ Based purely on the plain language of the Funds’ respective Registration Statements (including the Statements of Additional Information) and the proposed investments, including our analysis of their businesses as derived from the publicly available resources noted above, none of these businesses appear to be involved in the growth, manufacture, processing or sale of cannabis in the U.S. According to the Funds ’ 
+
+ 30 Se e Letter from Sec. & Exch, Comm’n to Brendan Kennedy, President and CEO of Tilray, Inc. (Apr. 17, 2018), available at https://www.sec.gov/Archives/edgar/data/1731348/000000000018011638/filename1.pdf. 
+ 31 Our review yielded, as of the date hereof, no publicly-available indicator of a current DOJ or DEA investigation involving the TRS Companies (as such term is defined in Part IV of this letter) or indeed any of the Cannabis Companies whose stock may be purchased by the Fund. 
+ 32 21 U.S.C. § 841(a)(1). 
+ 33 21 U.S.C. § 802(15). 
+ 34 21 U.S.C. § 846. 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 25 
+
+ Registration Statement, the Funds are also not preparing or otherwise seeking to distribute the marijuana itself in the U.S. Instead, the Registration Statements reflect that the proposed investment activity would only include purchasing securities — on the secondary market on an exchange that requires compliance with national and local laws, including U.S. federal law — of companies that are permitted by national and local laws of the relevant jurisdiction, including U.S. federal and state laws. 
+ Based on the foregoing, it is our opinion that the Funds would not have direct liability under Section 841(a) or Section 846 of the CSA because it will not be investing in any business that is in the business of growing, manufacturing, processing or selling marijuana in the U.S. 
+ III. COMPLYING WITH FEDERAL MONEY LAUNDERING LAWS 
+ In addition to complying with the CSA, the Funds must also comply with federal money laundering laws. Section 1956 of the MCA provides that (i) “[w]hoever, knowing that the property involved in a financial transaction represents the proceeds of some form of unlawful activity, conducts or attempts to conduct such a financial transaction which in fact involves the proceeds of specified unlawful activity… with the intent to promote the carrying on of specified unlawful activity… 35 ” or (ii) “[w]hoever transports, transmits, or transfers, or attempts to transport, transmit, or transfer a monetary instrument or Fund from a place in the United States to or through a place outside the United States or to a place in the United States from or through a place outside the United States…with the intent to promote the carrying on of specified unlawful activity…” 36 is in violation of federal law. 
+ Based on the foregoing, in our opinion the Fund ’ s investment activity should not constitute an offense under Section 1961(1) ( i.e ., obtaining proceeds from an unlawful activities) because the Funds’ investments are in exchange-listed companies that require compliance with U.S. federal laws in addition to the laws of their respective jurisdictions. 
+
+ 35 18 U.S.C. § 1956(a)(1)-(A)(i). 
+ 36 18 U.S.C. § 1956 (a)(2)-(A). 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 26 
+
+ IV. TOTAL RETURN SWAPS 
+ It is our understanding that 2X Fund and U.S. Alternative Harvest ETF have investment strategies which incorporate TRS’s. Accordingly, in this letter, the opinions relating to OTC derivatives apply only to TRS’s executed by 2X Fund and U.S. Alternative Harvest ETF. When we write in this letter that “the Fund executes” (or “the Funds execute”) a “TRS,” “the TRS,” or “the TRS’s,” we are referring to 2X Fund and/or U.S. Alternative Harvest ETF, and the execution of TRS’s by each such fund, which we describe in greater detail in the pages that follow. 
+
+ We have been asked to opine with respect to the enforceability of TRS’s to be executed and settled by the Funds. For purposes of our analysis and with respect to the opinions relating to the TRS’s, we assume that: (a) 2X Fund and U.S. Alternative Harvest ETF will each be executing one or more TRS’s with counterparties; (b) the TRS’s to be executed by U.S. Alternative Harvest ETF will each reference a single Cannabis Company operating in compliance with applicable state law that permits those operations (a “TRS Company”); (c) 2x Fund will execute a TRS which will reference the Prior Fund (only); and (d) all TRS’s which are the subject of this letter will be cash settled. 
+ It is our understanding and a fundamental assumption of this letter that the Funds will not (a) invest directly in any Cannabis Company that grows, produces, distributes, or sells cannabis or products derived from cannabis in a country, state, province, locality or other political subdivision where this activity is illegal under applicable law; or (b) execute a TRS (or any other OTC derivative or exchange traded derivative) which references (i) any Cannabis Company that grows, produces, distributes, or sells cannabis or products derived from cannabis in a country, state, province, locality or other political subdivision where this activity is illegal under applicable law; or (ii) any index which includes as a component any Cannabis Company that grows, produces, distributes, or sells cannabis or products derived from cannabis in a country, state, province, locality or other political subdivision where this activity is illegal under applicable law. 
+
+ In this context, we have considered the enforceability of the legal documentation governing TRS’s under principles of contract law as well as the CSA and the 1934 Act (as amended by Dodd-Frank) and regulations promulgated thereunder by the SEC. 
+
+ TRS payments are received by the counterparty to such Fund under the TRS. The TRS payments do not result in ownership of stock in a Cannabis Company (or, in the case of 2x Fund, the Prior Fund) by a Fund or its TRS counterparties because the 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 27 
+
+ TRS’s are to be cash settled. In addition, the Funds’ payments are not used for the purchase or cultivation of marijuana or related supplies and do not facilitate distribution or contribute to the growth of a Cannabis Company in any way. Instead, all TRS payments are directed by TRS documentation to be made to a party to the TRS as part of what we view as a lawful bargain: such Funds pay a TRS counterparty a fee (like a premium in an insurance contract) for the TRS and incur the risk that the share value of each Cannabis Company (that is, the Reference Assets in the reference portfolio) in the TRS depreciates (because if such share value does depreciate, then the Funds are obligated under TRS terms to pay the counterparty a value representing that depreciation), in exchange for a cash payment by the TRS counterparty to such Funds representing the appreciation and total return of each referenced stock or fund interest. The payments by a Fund in the case of the TRS do not result in the purchase of any Cannabis Company stock or interest in the Prior Fund. 
+ The TRS and the Controlled Substances Act 
+ We are aware of no guidance, regulation, or formal or informal prohibition by the DOJ or any federal regulator (including derivatives regulators in the United States ( e.g. , the SEC and CFTC)) with respect to a derivative based on a Cannabis Company or investment vehicle investing in a Cannabis Company. We are also aware of no reported decision by a court or other tribunal as to whether a derivative referencing a Cannabis Company (whether operating with or outside of a state license, permission or mandate) is legal --or illegal. 
+ The TRS is not a transaction or an activity which is expressly prohibited by the CSA (and we assume for purposes of this letter that the Cannabis Company referenced in the TRS is not undertaking criminal or other activities which would trigger federal action under the guidelines established in the Cole Memo , such as funneling proceeds from the sale of marijuana to criminal enterprises, distributing contraband to gangs or cartels or other activities which are expressly prohibited by the CSA). 37 
+ In the absence of on-point regulatory or other guidance, we have considered other commercial and contractual arrangements entered into by cannabis companies, such as insurance policies. The insurance contract has for decades been compared to a derivative and vice-versa. 38 We are aware of state insurance commissioners approving the issuance of insurance policies undertaking risks relating to lawful state cannabis businesses. For instance, the California Cannabis Control Board submitted proposed regulations to the California Office of Administrative Law in December 2018 establishing 
+
+ 37 See supr a, footnote 20 and Parts I through III of this letter. 
+ 38 See, e. g., Risk, Speculation, and OTC Derivatives at 2-3. 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 28 
+
+ minimum general liability coverage for distributors. 39 Former California Insurance Commissioner Dave Jones lobbied California's admitted insurers to begin serving the cannabis industry 40 and was ultimately successful in persuading admitted insurance carriers ( i.e ., carriers authorized to do business in California by the Secretary of State) to provide a cannabis insurance product, 41 including Golden Bear Insurance Company, 42 North River Insurance Company, United States Fire Insurance Company, White Pine Insurance Company, 43 Continental Heritage Insurance Company 44 and California Mutual Insurance Company. 45 
+ For the sake of completeness we note that a federal court in Hawaii 46 held that an insured individual growing cannabis for personal use in compliance with state law could not recover under her homeowner’s policy because the federal public policy against cannabis trumps the express terms of an insurance policy; however, a federal court in Colorado refused to follow that court in Hawaii, and refused to absolve a property insurance carrier of its coverage obligation when the property insurance policy was written for a state-legal cannabis business because the policy was written specifically to provide coverage for the insured's state-legal marijuana business. 47 
+
+ 39 CAL. CODE REGS. tit. 16, §5308 (2019). 
+ 40 https://www.natlawreview.com/article/california-s-insurance-commissioner-encourages-admitted-carriers-to-insure-cannabis. 
+ 41 https://www.horstcounsel.com/single-post/2017/10/02/Admitted-Carriers-Offer-Some-Benefits-Some-Dangers-for-Cannabis-Industry 
+ 42 http://www.insurance.ca.gov/0400-news/0100-press-releases/archives/release119-17.cfm; https://www.goldenbear.com/news/how-to-cover-the-cannabis-sector-from-a-broker-whos-deep-in-the-weeds/ 
+ 43 http://www.insurance.ca.gov/0400-news/0100-press-releases/2018/release088-18.cfm 
+ 44 http://www.insurance.ca.gov/0400-news/0100-press-releases/2018/release055-18.cfm 
+ 45 http://www.insurance.ca.gov/0400-news/0100-press-releases/2018/release046-18.cfm 
+ 46 Tracy v. USAA Cas. Ins. Co ., No. 11-00487 LEK-KSC, 2012 WL 928186, at *13 (D 
+ Haw. Mar. 16, 2012). 
+ 47 Green Earth Wellness Ctr., LLC v. Atain Specialty Ins. C o., 163 F. Supp. 3d 821, 833-34 (D. Colo. 2016)( “Green Earth Wellness Cente r”). 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 29 
+
+ For purposes of evaluating the TRS’s in the context of the CSA, we considered the federal judiciary’s upholding of contracts 48 including those evidencing payment obligations albeit in the insurance context. The upholding of contracts in the insurance context is helpful guidance for evaluating the enforceability of the TRS’s. As with the purchase of securities, for the reasons and based on the law which we cite, the Funds’ proposed execution of a TRS should not trigger action by the DOJ or federal prosecutors under the CSA and so for our conclusions concerning the TRS, we incorporate by reference all legal and factual analyses as well as representations made to us and assumptions made in the parts of this letter preceding this Part IV (regarding the Funds’ purchases of securities), as we reach the conclusion that under the CSA, the DOJ and federal prosecutors should not pursue any action with respect to the TRS’s to be executed by the Funds. 
+
+ 48 We note that when we refer in this paragraph to “the federal judiciary,” we refer primarily to the federal district court in Green Earth Wellness Cente r, and federal courts’ decisions subsequent to Green Earth Wellness Cente r (see, e. g., Greenwood v. Green Leaf Lab LLC, 2017 U.S.Dist. LEXIS 125143 (2017); In re Way to Grow, Inc ., 597 B.R. 111, 2018 Bankr. LEXIS 4142 (2018); see also In re Malu l, 614 B.R. 699, 2020 Bankr. LEXIS , 68 Bankr. Ct. Dec. (LRP) 147)(2020)(“At oral argument, Malul attacked the relevance of Green Earth Wellnes s on two grounds. First, Malul argued Green Earth Wellness is inapplicable because it was evaluating the legality of state insurance laws, not necessarily federal drug laws. Second, Malul argued the insurance policy in Green Earth Wellness is a different situation to a declaratory judgment or breach of fiduciary duty claim, because there is an underlying equity interest at stake in the latter. The Court agrees [that] the facts of Green Earth Wellnes s are distinguishable in these respects, but it is not clear whether, or how, those factual differentiators mediate a different result. Rather, the operative decision point in Green Earth Wellnes s was Judge Krieger's careful distinction between ordering the insurer to pay for damages to specific items (i.e ., marijuana plants) and merely ordering compliance with the contract, which could be accomplished without reference to the existence of any marijuana asset.”)). We also note that at least one federal court has declined to invalidate an insurance contract (where an insurer underwrites a cannabis company in compliance with state law) on the grounds that the contract contravenes public policy; the federal district court in Green Earth Wellness Cente r refused to invalidate the insurance contact at issue in that case on public policy grounds “in light of several additional years evidencing a continued erosion of any clear and consistent federal public policy in this area” and on that basis the federal district court “declines [insurer] Atain’s indirect invitation to declare the [insurance] Policy void on public policy grounds.” Se e Green Earth Wellness Center, 163 F.Supp.3d at 834-35. We finally note that it appears that federal prosecutors have focused on growers and producers within the states, rather than investors , see als o Superseding Indictment, U.S. v. Hoan g, Case No. 3:17-cr-70, 2017 WL 9855203 (S.D. Iowa) (criminal charges filed against growers, not investors, related to marijuana production and/or distribution within the states). 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 30 
+
+ Enforceability of TRS Documentation 49 
+ In connection with this letter, its analysis and resulting TRS-related conclusions and opinions, we have examined the following (collectively, the “TRS Documentation”), each of which is governed by New York law pursuant to the election of the parties to the TRS Documentation: 
+
+ • ISDA Master Agreement by and between Cowen Financial Products LLC (“Dealer”) and U.S. Alternative Harvest ETF, effective as of April 30, 2021 (“ISDA Master Agreement”); 
+
+ • Schedule to the ISDA Master Agreement by and between Dealer and U.S. Alternative Harvest ETF effective as of April 30, 2021 (“ISDA Schedule”); 
+
+ • Credit Support Annex to the ISDA Schedule by and between Dealer and U.S. Alternative Harvest ETF effective as of April 30, 2021; and 
+
+ • Master Swap Confirmation by and between Dealer and U.S. Alternative Harvest ETF effective as of April 30, 2021, together with sample Trade Activity Reports and other deliverables referenced therein. 
+
+ In rendering legal opinions in Part IV of this letter, we make and rely on certain assumptions concerning the TRS Documentation, including that such representations are accurate and the following assumptions. We assume that each of the terms and conditions of the TRS Documentation, as presented to us, are presently and would remain in final form without material variation or modification. We further assume that each party referenced in the TRS Documentation has legal capacity, authority and has fulfilled all legal prerequisites with respect to the execution, delivery and full and timely performance of obligations set forth or contemplated by the TRS Documentation. We assume for the purpose of this letter that U.S. Alternative Harvest ETF and its counterparty will fully and timely perform all applicable obligations and undertakings under the TRS Documentation and we further assume that each party to the TRS Documentation is in full compliance with all applicable state and federal law, including but not limited to Applicable Federal Law and therefore we limit this opinion letter and the analysis within it only to the first two full paragraphs on page two of this letter. 
+
+ 49 In the analysis and with respect to the conclusions and opinions relating to TRS documentation, when we refer to legal documentation, we refer to the legal documentation that U.S. Alternative Harvest ETF executes and assume for purposes of this letter that the TRS Documentation executed by 2x Fund is the same in all respects. 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 31 
+
+ We further assume for purposes of our analysis, conclusions and opinions that each party to the TRS Documentation: (i) represents and warrants to the other, with respect to each TRS evidenced by the TRS Documentation that each such party is not entering into the TRS to avoid, prevent or to circumvent or do anything that is contrary to any Applicable Federal Law including statutory law, regulations or case law relating to the vesting of beneficial ownership and those applicable to shareholder disclosure; (ii) does not intend to engage, and in fact does not in any way engage in any fraudulent, deceptive or manipulative act or practice; and (iii) is in full compliance with the Exchange Act, and CEA, each as amended by Dodd-Frank, 50 and the 1940 Act, with respect to the legal issues which are outside of the scope of this letter ( e.g., reporting obligations, diversification and custody rules) and each fully executes and delivers the TRS Documentation. 
+
+ We also note that in the event that the TRS is at some later date declared illegal under the CSA, U.S. Alternative Harvest ETF and the 2X Fund’s (and indirectly their beneficial owners’) losses would be determined by “break provisions” that enable the parties to the TRS to close-out an existing TRS and to the extent possible, restore the parties economically to a position immediately before a federal department or other federal authority declared the TRS illegal under the CSA (or other law). Within the TRS Documentation is a provision that stipulates that a termination event will occur if it becomes unlawful under any applicable law for a party to make or to receive payments with respect to a transaction, or to perform any material provision of the ISDA Master Agreement (which governs the TRS and any other “Transaction” under the terms of the 
+
+ 50 We recognize that 2X Fund and U.S. Alternative Harvest ETF under the 1934 Act may be obligated to report their TRS’s to a security-based swap data repository and to comply with portfolio reconciliation or other obligations which are not directly related to the focus of this opinion letter, and so for purposes of this letter we assume that 2X Fund and U.S. Alternative Harvest ETF and each of their TRS counterparties are in compliance with those requirements. We also recognize that 2X Fund and U.S. Alternative Harvest ETF and/or the TRS counterparty to each such fund may be obligated to comply with other law which is not central to, referenced in and is therefore outside of the scope of this letter, including the Internal Revenue Code, Regulation T of the Federal Reserve Board, and the rules and regulations, and there are also 1940 Act custody, diversification, leverage and other requirements with respect to which 2X Fund and U.S. Alternative Harvest ETF must comply. 2X Fund and U.S. Alternative Harvest ETF and their performance are governed primarily by the 1940 Act, with respect to which the SEC promulgates regulations effectuating the 1940 Act, including most recently, Rule 18f-4, which generally became effective on February 19, 2021. We gather that the SEC is permitting 1940 Act investment vehicles (including 2X Fund and U.S. Alternative Harvest ETF) to come into compliance with new Rule 18f-4 during an eighteen-month transition period, commencing on February 19, 2021 and ending on August 19, 2022 (at which point compliance with Rule 18f-4 is required in all respects), and today we assume for purposes of issuing this letter that 2X Fund and U.S. Alternative Harvest ETF are both today, and will in the future continue to be, in compliance with existing SEC rules, as applicable to 2X Fund and U.S. Alternative Harvest ETF as of the date hereof. 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 32 
+
+ ISDA Master Agreement); this “Illegality” provision is anticipatory in nature and has (after currency crises in and around 1998) become integrated into the 2002 form of ISDA Master Agreement on which the TRS is based, so that this provision contemplates that a termination of the TRS would occur if, at some later date after (TRS) execution, it would be unlawful to make or receive a payment in the future. 
+ Therefore, important to our legal analysis of the enforceability of the TRS Documentation (and the manner in which losses and gains are calculated on termination by the Fund or their counterparties) is this “Illegality” feature of the ISDA Master Agreement and Schedule contemplating a government decree making a payment of a derivative illegal, such as was the case on August 17, 1998, when the Russian government (in dealing with a widespread economic and currency crisis of its own) 51 imposed a moratorium on payments called for in many OTC currency derivatives referencing the Ruble. 
+
+ We consider the August 17, 1998 Russian decree to be, in fact, something of a precedent for helping us evaluate potential monetary liability of 2X Fund and U.S. Alternative Harvest ETF and their respective beneficial owners under the CSA; in that circumstance, with the “Illegality” feature of the ISDA Master Agreement (published in 2002 and included in the TRS Documentation), 52 2X Fund and U.S. Alternative Harvest ETF: (a) should incur no regulatory exposure or regulatory liability solely because a court of competent jurisdiction in the future holds that the TRS violates the CSA or the 1934 Act; and (b) the TRS could be terminated on a no-fault basis with 2X Fund and U.S. Alternative Harvest ETF and their respective TRS counterparties using mid-market values calculated pursuant Section 6(e) of the ISDA Master Agreement (this may result in 2X Fund and U.S. Alternative Harvest ETF each, or both sustaining monetary loss or gain on the TRS, but we believe there would in that instance not be resulting regulatory 
+
+ 51 On August 17, 1998, in the face of a rapidly deteriorating economic situation, the Russian government defaulted on its Ruble-denominated securities, the Russian Central Bank stopped its support of the Ruble and a temporary moratorium was imposed on certain hard currency payments. Russia imposed a 90-day moratorium on various hard currency transactions connected with the movement of capital. These actions resulted in an immediate and severe devaluation of the ruble and a sharp increase in the rate of inflation; a dramatic decline in the prices of Russian debt and equity securities; and an inability of Russian issuers to raise Fund in the international capital markets and the OTC derivatives market was likewise affected. Se e Statement of the Government of the Russian Federation and the Central Bank of the Russian Federation (August 17, 1998), https://web.archive.org/web/20150131090423/http://www.cbr.ru/eng/press/JOINT.htm, accessed on June 30, 2020. 
+ 52 Se e Section 6(e) of the ISDA Master Agreement (as opposed to the earlier 1992 version of the ISDA Master Agreement). 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 33 
+
+ exposure for the termination in the absence of a federal prohibition on the TRS at the point of execution of that OTC derivative). 53 
+
+ In the absence of any government prohibition of the TRS structure and the TRS Companies referenced within it, the TRS Documentation should create legal, valid and binding obligations under New York law with respect to 2X Fund and U.S. Alternative Harvest ETF and their respective TRS counterparties. 
+
+ Because of the dynamic, bespoke nature of the TRS and the regulatory implications from its design and management, it is important for purposes of the analysis leading to the rendering of opinions to first describe with greater particularity the manner in which the regulator ( i.e ., the SEC or the CFTC, and its respective regulatory regime) for the TRS depends on the Reference Assets (reference portfolio of the Fund). 
+
+ The upshot is that if the reference portfolio consists of a single security (such as the equity of a Cannabis Company or the Prior Fund), a single loan or a narrow-based group or index of securities, then under current U.S. law, the regulator of the TRS is the SEC and the federal law which applies to the TRS is the 1934 Act (not the U.S Commodity Exchange Act or CEA), as amended by Dodd-Frank and SEC rules (as opposed to CFTC rules), with respect to the TRS, promulgated thereunder. 
+
+ On the other hand, if the reference portfolio consists of more than one security, more than one loan or a broad-based index or basket of securities (or any combination thereof), then under current U.S. law, the regulator of the TRS is the CFTC, so 2X Fund and U.S. Alternative Harvest ETF would be subject to both the SEC and its rules insofar as the two funds and their operation are concerned and the CFTC insofar as the TRS is concerned. In that case, the CFTC and the CEA (not the 1934 Act), as amended by Dodd-Frank, and CFTC rules and guidance is the statutory basis and regulatory regime governing the TRS. For our purposes, in this letter, we assume that the only TRS that is to be executed is one that references either a single Cannabis Company or the Prior Fund; so for all purposes, the TRS (and TRS’s) which are the subject of the opinions in this letter would be regulated by the SEC. The following discussion brings this and the paragraph immediately above this paragraph into sharper focus. 
+
+ 53 Under the effective terms of the TRS Documentation, if the TRS, after it is executed but before the end of the term or maturity for the transaction if the U.S. government (or even a state) declares the TRS to be illegal, then, at the end of a waiting period, 2X Fund, U.S. Alternative Harvest ETF or each TRS counterparty can terminate the TRS on a no-fault basi s and use mid-market values calculated pursuant Section 6(e)(ii)(3) of the ISDA Master Agreement. 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 34 
+
+ Applicable Derivatives Law 
+
+ Total return swaps in the U.S. have been regulated by a still relatively new and comprehensive federal statute and implementing rules for nearly a decade. 
+
+ In 2010, Congress passed and President Obama signed into law Dodd-Frank, which established for the first time in America a comprehensive framework for regulating OTC (privately negotiated) derivatives, OTC derivative markets and utilities and the financial products executed within and by them, including those products with the basic structure of the TRS. 
+
+ Before 2010 one of the primary culprits in the Great Recession of 2008 was the near complete confusion and improper identification with respect to the regulator with authority to regulate an OTC derivative 54 and this is no longer the case so the TRS is subject to a clearly-defined and predicable regulatory regime, which we discuss next, but the federal regulator and its regulatory regime is determined by the design and management of the TRS, as described on this page and the pages that follow. 
+
+ Under Dodd-Frank, regulatory authority is divided between the SEC and the Commodity Futures Trading Commission (“CFTC”); Dodd-Frank mandated that the CFTC and SEC further define definitions for purposes of guiding market participants such as the Fund, so that it is more clear than in the years prior to 2010 which regulator has jurisdiction over an OTC derivative. 55 
+
+ After Dodd-Frank and with the benefit of clarifying regulations from both the CFTC and SEC, federal law assigns the SEC the authority to regulate “security-based swaps,” which are broadly defined as OTC derivatives, including swaps, based on (1) a single security or (2) a loan or (3) a narrow-based group or index of securities or (4) events relating to a single issuer or issuers of securities in a narrow-based group or index. 
+
+ 54 See generall y, Gordon F. Peery, The Post-Reform Guide to Derivatives and Future s (Wiley 2012), at 30 (hereinafter “Guide to Derivative s”). 
+ 55 The regulators’ rules were proposed, refined and published in “Further Definition of ‘Swap,’ ‘Security-Based Swap,’ and ‘Security-Based Swap Agreement’; Mixed Swaps; Security-Based Swap Agreement Recordkeeping,” 77 Fed. Reg. 48208 (August 13, 2012)( “Swap Definition s”). Mixed swaps are swaps that after Dodd-Frank and the aforementioned regulations are within the jurisdiction of both the SEC and CFTC and these typically include a security and a commodity such as a swap based on a currency (i.e., a commodity) and an equity (i.e., a security); the breadth and reach of the mixed swap definition is intended to be narrow and to close gaps in the OTC derivatives regulations post Dodd-Frank. 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 35 
+
+ Total return swaps on a single security, loan or narrow-based security index are security-based swaps regulated by the SEC, its rules, the 1934 Act and Dodd-Frank. 
+
+ Total return swaps based on more than one security, more than one loan, or on a broad-based security index are “swaps” regulated by the CFTC, its rules, the CEA and Dodd Frank. 
+
+ The SEC and the CFTC also in rare cases, not relevant here, share jurisdiction over “mixed swaps,” and the regulations of the SEC for security-based swaps, and the CFTC for swaps, are completely different, separate and apart from each other. 
+
+ This means that derivative execution, documentation, settlement, reporting and recordkeeping requirements for security-based swaps (regulated by the SEC) and swaps (regulated by the CFTC) are completely different. 
+
+ The easiest way to understand whether a derivative is regulated by the SEC or CFTC is to focus on the subject, or “reference” or “reference obligation” (in the case of the TRS, the Reference Assets and reference portfolio) of the derivative, which is the asset, event or other thing from which the financial product derives its value. If the subject of the derivative is a commodity ( e.g ., gold), or a basket of securities (or broad based index) then that derivative is a swap regulated by the CFTC. 
+
+ If the derivative is a loan or a single security or a narrow-based index, then that derivative is likely 56 a security-based swap regulated by the SEC. 
+
+ For our purposes, the TRS is regulated by the SEC if the subject of the TRS is the security (equity or debt (or loan)) of a single company or a narrow-based security index; otherwise, the TRS is a “swap” regulated by the CFTC. 
+
+ 56 An option on a single equity is technically (again with limited exceptions) a “security” also regulated by the SEC. A security-based swap is also a “security” regulated by the SEC. 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 36 
+
+ A narrow-based security index, generally, with exceptions, 57 is an index of securities that meets one of the following four requirements (1) it has nine or fewer components; (2) one component comprises more than 30 percent of the index weighting; (3) the five highest weighted components comprise more than 60 percent of the index weighting, or (4) the lowest weighted components comprising in the aggregate 25 percent of the index’s weighting have an aggregate dollar value of average daily volume over a six-month period of less than $50 million ($30 million if there are at least 15 component securities). 
+ OTC derivatives which are not security-based swaps generally fall into the category of a “swap,” a regulatory term which is meant to include all other (non-security-based swap) derivatives executed OTC, including an option, or a swap, on a basket of securities. A “swap,” as defined by the CFTC, entails “the exchange of one asset or liability for a similar asset or liability for the purpose of lengthening or shortening maturities, or otherwise shifting risks. This may entail selling one securities issue and buying another in foreign currency; it may entail buying a currency on the spot market and simultaneously selling it forward. Swaps also may involve exchanging income flows; for example, exchanging the fixed rate coupon stream of a bond for a variable rate payment stream, or vice versa, while not swapping the principal component of the bond. Swaps are generally traded over-the-counter.” 58 
+
+ Section 721(a) of Dodd-Frank added Section 1a(47) to the Commodity Exchange Act (7 U.S.C. § 1a(47)) to bring total return swaps under the regulatory jurisdiction of the CFTC if those swaps reference a broadly-based index or a basket of companies (as opposed to, in this case, a single TRS Company consisting of a Cannabis Company in compliance with state law). Whereas the TRS Documentation is governed by state law ( i.e. , the laws of the State of New York), the TRS itself is an OTC derivative now subject to federal law. 59 
+
+ 57 The legal definition of narrow-based security interest, in the context of a swap, in Section 1a(25) of the Commodity Exchange Act, 7 USC 1a(25), contains several exceptions. 
+ 58 Se e CFTC Glossary, available at https://www.cftc.gov/LearnAndProtect/EducationCenter/CFTCGlossary/glossary_s.html and accessed on March 19, 2021. 
+ 59 Title VII [of Dodd Frank] defines ‘security-based swap’ as a swap that is based on a narrow-based security index, a single security or a loan [or] the occurrence, nonoccurrence or the extent of the occurrence of an event relating to a single issuer of a security or the issuers of securities in a narrow-based security index. An option on a security is not a security-based swap unless the security is restricted under the 1934 Act.” Guide to Derivatives at 141. The focus of this letter, as expressed in summary form on page 2, is a set of opinions as to the enforceability of the TRS and other financial products executed, purchased and owned, whether beneficially or not, by the Fund and not compliance with all aspects of Applicable Federal Law and such compliance is outside of the scope of this letter. 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 37 
+
+ The TRS’s now before us are dynamically managed, which is to say that a portfolio manager “constructs” the derivative before execution and then has the right --and indeed it is contemplated that such right will be executed frequently, which is to say on a daily basis -- to change the Cannabis Company on which the TRS is based (in the case of the TRS’s to be executed by U.S. Alternative Harvest ETF; the TRS to be executed by 2X Fund are not considered dynamically or actively managed). From a regulatory standpoint, dynamic management of a TRS does not change the classification or regulator of the TRS; the Swap Definitions provide that the classification of an OTC derivative under Title VII of Dodd Frank is determined prior to its execution and then the product will retain its initial characterization throughout its life with the same regulator retaining jurisdiction from execution to expiry (and even if a narrow-based index becomes a broad-based index referenced in the same TRS, or vice versa, the regulator and derivative characterization as a swap or security-based swap remains the same over the life of the derivative). 
+ After the passage of Dodd-Frank in 2010, and implementing regulations under that act, a TRS based on a broad-based index of TRS Companies and a TRS referencing two or more TRS Companies likewise would be an OTC derivative (a “swap”) regulated by and subject to CFTC regulation. The SEC regulates most equity options as well as, for purposes of this letter, the TRS and swaps based on “single names,” or one TRS Company (and narrow-based securities indices). Dodd-Frank also added Section 3(a)(68) to the Exchange Act; accordingly, for a TRS based on the equity of a single TRS Company, the U.S. regulator is the SEC. For the reasons stated above and just as we believe that the DOJ and federal prosecutors should not pursue any action with respect to the TRS, we see no SEC guidance today that points to a conclusion that a TRS would be rendered invalid by the SEC or the CFTC. 
+
+ Extent of Ownership of a Cannabis Company 
+
+ We summarized at the outset of this Part IV the cash-settlement, non-ownership aspects of the TRS. 2X Fund and U.S. Alternative Harvest ETF obtain nothing other than cash as a settlement at TRS maturity, and is obligated to do nothing, other than to make and to receive cash payments. In the absence of the right to vote, the absence of intent to prevent vesting or absence of intent to evade ownership obligations or ability or 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 38 
+
+ desire to dispose shares of the underlying cannabis security, we do not believe that the TRS’s at issue here confer ownership interest in the underlying cannabis companies. Additionally, we do not believe that 2X Fund and U.S. Alternative Harvest ETF would have a reporting obligation from a purely cash-settled TRS (and we believe that 2X Fund and U.S. Alternative Harvest ETF are not attempting to avoid obligations of ownership by executing TRS’s and we further assume that neither fund is attempting to avoid obligations of ownership by executing TRS’s which are by their nature designed to synthetically replicate ownership of Cannabis Companies and the Prior Fund). 60 As the case law and regulatory guidance is not settled with respect to total return swaps generally, we reference the following authorities that lead us to the conclusions and opinions found at the conclusion of this Part IV: 
+
+ • Although a long position under an equity swap would generally not be treated as beneficial ownership of the underlying security under Rule 13d-3 under the Exchange Act, as the “long” party would not typically have the right to vote or dispose of the underlying shares, Schedule 13D (but not Schedule 13G) requires the disclosure by a reporting person of contracts involving the relevant shares. 61 
+ • [A] person who is a party to a cash-settled swap does not beneficially own the securities subject to the swap if he does not have the right to vote or to sell those securities either pursuant to the swap’s contractual terms or pursuant to another understanding or arrangement with the counterparty to the swap. Thus, a party to a cash-settled swap not possessing such voting or dispositive 
+
+ 60 See CSX Corp. v. The Children’s Investment Fund Managemen t, 562 F.Supp.2d 511 (S.D.N.Y 2008), aff’d, 292 F. App’x 133 (2d Cir. 2008) (Second Circuit Court of Appeals unable to reach agreement on whether party executing TRS is a beneficial owner), 654 F.3d 276 (2d Cir. 2011)(“This case comes to us raising issues concerning a contractual arrangement known as a ‘cash-settled total return equity swap agreement’ although our disposition at this stage of the appeal touches only tangentially on such issues”.)(deciding only issues pertaining to a “group” violation of Section 13(d)(3)(“CSX”)); see als o 2 Edward F. Greene et al., U.S. Regulation of the International Securities and Derivatives Markets § 14.02[2][a] (9th Ed 2008); Arnold S. Jacobs, The Williams Act - Tender Offers and Stock Accumulations § 2.12 (2009); James P. Smith & Corinne Levy, ‘CSX’: Second Circuit Upholds Denial of Injunctive Relief, N.Y.L.J., Sept. 26, 2008, at 4. We view the legal and other authorities as helpful in our analysis and the facts in CSX to be distinguishable because whereas the total return swap in CSX resulted in an effort to elect candidates to the board of directors of CSX, the TRS now before us is cash-settled with no exercise of any right other than the right to receive a cash payment. 
+ 61 Greene et. a l., supra footnote 49, § 1.02[2][a] n.26. 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 39 
+
+ power has no Section 13(d) reporting duty, no matter how large a percent of the stock is the subject of the cash-settled swap. 62 
+ • The Division [of Corporation Finance, SEC] believes that interpreting an investor’s beneficial ownership under Rule 13d-3 to include shares used in a counter-party’s hedge, absent unusual circumstances, would be novel and would create significant uncertainties for investors who have used equity swaps in accordance with accepted market practices understood to be based on reasonably well-settled law. 63 
+ The TRS ’ s to be executed by 2X Fund and U.S. Alternative Harvest ETF are, as noted above, security-based swaps regulated by the SEC and as the TRS ’ s are cash-settled with no TRS term calling for TRS Company ownership by the Fund, the Fund should not have ownership or reporting obligations under the 1934 Act. As we have also noted, the underlying securities on which the TRS ’ s will be based are companies with business activities conducted within the bounds of applicable local and state law, but not necessarily the CSA. 
+
+ TRS Opinions 
+
+ Based on the relevant facts pertaining to the TRS’s as described in this Part IV of our letter, and subject to the TRS-specific qualifications, exceptions and limitations discussed below and the scope of this letter, we conclude, having due regard for legal considerations set forth herein, that, for purposes of the 1934 Act (as amended by Dodd-Frank) OR the CEA (also as amended by Dodd-Frank) and the CSA and with respect to only the TRS and assuming full compliance with state law by the Cannabis Company referenced in the TRS, and Cannabis Companies whose interests are purchased by the Prior Fund (for the reasons stated in this letter, we do not focus on state law and as we state in this letter, we are aware of no federal investigation of any such Cannabis Company): 
+
+ 62 Jacobs, supra footnote 49, § 12.12. 
+ 63 Letter from Brian V. Breheny, Deputy Director, Division of Corporation Finance, SEC, to Judge Lewis A. Kaplan, United States District Judge, Southern District of New York (June 4, 2008), available a t http://www.givsondunn.com/publications/Documents/CSX-BrianBrehenyLtrtoJudgeKaplan.pdf). 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 40 
+
+ • The TRS Documentation (as defined below) should create legal, valid and binding obligations under New York law; 
+ • The TRS should not be rendered unenforceable due to a violation of the CSA; 
+ • 2X Fund and U.S. Alternative Harvest ETF should not have ownership, pursuant to Rule 13d-3 promulgated under the 1934 Act, with respect to the Cannabis Company or Prior Fund referenced in TRS’s; 
+ • As each TRS has (as the extent of its Reference Assets and reference portfolio) a single security, the TRS is a security-based swap regulated and governed by the SEC, its rules, the 1934 Act and Dodd-Frank and such Reference Asset or portfolio, by itself, would not likely render the TRS unenforceable under the 1934 Act as amended by Dodd-Frank and the SEC rules promulgated thereunder; 
+ • 2X Fund and U.S. Alternative Harvest ETF and their respective, beneficial owners should incur no regulatory exposure or regulatory liability solely because a court of competent jurisdiction in the future holds that the TRS’s, if characterized as security-based swaps, violate the CSA or the 1934 Act, as amended by Dodd-Frank, and in the event that the federal government declares at some future time that the TRS’s violate the CSA and/or the 1934 Act, as amended, 2X Fund and U.S. Alternative Harvest ETF can terminate the TRS on a no-fault basis and use mid-market values calculated pursuant Section 6(e) of the ISDA Master Agreement. 
+ The foregoing opinions are rendered at a “should” level of confidence, which involves a greater degree of certainty than a “more likely than not” opinion. However the foregoing opinions and this letter are not stated and rendered with unqualified guarantees with airtight certainty for two reasons: first, there is a void of on-point regulatory guidance by U.S. derivatives regulators ( i.e., the CFTC and SEC) with respect to OTC and exchange-traded derivatives referencing Cannabis Companies (including those companies, including, we assume for purposes of this letter, the TRS Companies, operating in compliance with State law) and (a) such regulators are currently evaluating the legality and enforceability of derivatives with the same or similar structure and legal documentation as the TRS before us and the regulators are basing their review on specific facts and new, to-be-proposed regulation and guidance which are not known to us as of the date hereof; and (b) exchanges and clearinghouses evaluating the legality of derivatives referencing hemp and/or cannabis companies are currently awaiting U.S. regulatory guidance on the application of the CSA and facts, legal issues and processes which are not known to us as of the date of this letter. 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 41 
+
+ Secondly, we have not investigated (x) the TRS Companies to determine whether those companies are in compliance with all applicable law including state law; (y) the operational aspects of 2X Fund and U.S. Alternative Harvest ETF including but not limited to its performance of TRS Documentation obligations, responses to margin calls and/or other requests from the Fund’s counterparties in each TRS; (z) the compliance of 2X Fund and U.S. Alternative Harvest ETF with respect to the 1934 Act (we assume that the TRS is a security-based swap), 1940 Act diversification and other federal requirements which are or in the future may be applicable to 2X Fund and U.S. Alternative Harvest ETF. 
+ Accordingly, there can be no assurance that the SEC, the CFTC or other state and federal regulators of the TRS (or any one or more aspects of the derivative), as well as the DOJ and other departments, agencies or regulators, would agree with our legal analysis, conclusions and opinions and would not successfully challenge this letter or would not prevail if any challenge were litigated or if a regulatory enforcement action would take place. In light of the unavoidable realities and facts, including those referenced in (a) through (c) and (x) through (z), and, although this opinion represents our considered legal judgment, this has no binding effect and, therefore, there can be no assurance that the SEC, CFTC or other U.S. or state regulator, department or agency will not be able to successfully challenge the TRS’s on grounds of enforceability or any of the conclusions reached by us in this letter. We do not express any opinion with respect to the law of any jurisdiction outside of the United States, conflict of law principles or law, the rules of any derivatives exchange or clearinghouse, the internal policies of any party to a TRS or custodian or bank which may be involved in the performance of the TRS. The opinions concerning the TRS’s are delivered subject to this understanding and we are under no obligation to monitor the law or body of regulation to update this letter. Our opinion is subject to and is limited by the effects of bankruptcy, insolvency, reorganization, receivership, moratorium and similar laws including but not limited to state fraudulent transfer and conveyance laws, judicially developed doctrines in this area, general principles of equity including doctrines requiring consideration of the impracticability or impossibility or frustration of purpose relieving performance at the time of attempted enforcement as well as other rights, remedies and waivers contained in the TRS Documentation and any ancillary documents, schedules, instruments, side letters or other materials referenced therein. 
+
+ Legal Opinion prepared for 
+ ETF Managers Group LLC 
+ with respect to 
+ ETFMG Alternative Harvest ETF 
+ ETFMG U.S. Alternative Harvest ETF 
+ ETFMG 2X Daily Alternative Harvest ETF 
+ May 4, 2021 
+ Page 42 
+
+ Our opinions with respect to the TRS are limited to the facts, matters and law expressly set forth herein and no opinion may be inferred or implied beyond what is expressly stated in this letter. Our TRS-related opinions are for the benefit of 2X Fund and U.S. Alternative Harvest ETF and their respective beneficial owners and may not be relied upon by any other person or entity without the express written consent of Seyfarth Shaw LLP. 
+ We hereby consent to the filing of this opinion as an exhibit to the Funds’ respective Registration Statements on Form N-1A, including any amendments and supplements thereto. In giving such consent, we do not hereby admit that we are within the category of persons whose consent is required under Section 7 of the Securities Act, or the rules and regulations of the SEC thereunder. 
+ Sincerely yours, 
+ /s/ Seyfarth Shaw LLP

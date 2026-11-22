@@ -1,0 +1,623 @@
+EX-10
+ 4
+ emx8conf.htm
+ EX 10.3
+
+ Barclay Capital
+ 5 The North Colonnade
+ Canary Wharf
+ London E14 4BB
+
+ Tel +44 (0)20 7623 2323
+
+To: RASC Series 2006-EMX8 Trust, acting through U.S. Bank National Association (the "Trustee"), not
+ in its individual capacity but solely as trustee for the benefit of RASC Series 2006-EMX8 Trust
+ (the "Counterparty" or "Party B")
+Tel (651) 495-3880
+Fax (651) 495-8090
+From: BARCLAYS BANK PLC (LONDON HEAD OFFICE) ("Barclays" or "Party A")
+Date: September 28, 2006
+Reference #: TBD
+
+ INTEREST RATE CAP TRANSACTION
+
+The purpose of this facsimile (this "Confirmation") is to confirm the terms and conditions of the Transaction
+entered into between us on the Trade Date specified below (the "Transaction").
+
+The definitions and provisions contained in the 2000 ISDA Definitions (the "2000 Definitions"), as published by
+the International Swaps and Derivatives Association, Inc. ("ISDA") are incorporated into this Confirmation. In
+the event of any inconsistency between the 2000 Definitions and this Confirmation, this Confirmation will govern
+for the purposes of the Transaction. References herein to a "Transaction" shall be deemed to be references to a
+"Swap Transaction" for the purposes of the 2000 Definitions, references to a "Swap Transaction" in the 2000
+Definitions is deemed to be references to a "Transaction" for purposes of this Agreement.. Capitalized terms
+used in this Confirmation and not defined in this Confirmation or the 2000 Definitions shall have the respective
+meaning assigned in the Agreement. Each party hereto agrees to make payment to the other party hereto in
+accordance with the provisions of this Confirmation and of the Agreement. In this Confirmation, "Party A" means
+Barclays and "Party B" means the Counterparty.
+
+1. This Confirmation evidences a complete and binding agreement between you and us as to the terms of the
+Swap Transaction to which this Confirmation relates. This Confirmation (including the schedule hereto) will
+constitute a Confirmation that supplements, forms a part of, and is subject to, an agreement (the "Agreement") in
+the form of the 1992 Multicurrency - Cross Border Master Agreement in the form published by the International
+Swaps and Derivatives Association, Inc. (the "ISDA Form"), as if on the Trade Date we had executed an agreement
+in such form, but without any Schedule except for the elections set forth in Section 4 herein. For the avoidance
+of doubt, the Transaction described herein shall be the sole Transaction governed by such ISDA Form. In the
+event of any inconsistency between the provisions of the ISDA Form and this Confirmation, this Confirmation will
+prevail for purposes of this Swap Transaction.
+
+The terms of the particular Transaction to which this Confirmation relates are as follows:
+
+------------------------------------------------------- -----------------------------------------------------
+2. TRADE DETAILS
+------------------------------------------------------- -----------------------------------------------------
+------------------------------------------------------- -----------------------------------------------------
+NOTIONAL AMOUNT: With respect to any Calculation Period, the lesser
+ of (1) the Certificate Principal Balance of the
+ Class A Certificates and the Class M Certificates
+ immediately prior to the Distribution Date that
+ occurs on the Floating Rate Payer Period End Date
+ for such Calculation Period and (2) the amount set
+ forth on Schedule A attached hereto for such
+ Calculation Period. As used herein, the terms
+ "Certificate Principal Balance," "Class A
+ Certificates," "Class M Certificates" and
+ "Distribution Date" shall have the respective
+ meanings set forth in the Pooling and Servicing
+ Agreement dated as of September 1, 2006 among
+ Residential Asset Securities Corporation,
+ Residential Funding Corporation and the Trustee
+ (the "Pooling and Servicing Agreement").
+
+------------------------------------------------------- -----------------------------------------------------
+------------------------------------------------------- -----------------------------------------------------
+TRADE DATE: September 26 , 2006
+
+------------------------------------------------------- -----------------------------------------------------
+------------------------------------------------------- -----------------------------------------------------
+EFFECTIVE DATE: September 28, 2006
+
+------------------------------------------------------- -----------------------------------------------------
+------------------------------------------------------- -----------------------------------------------------
+TERMINATION DATE: September 25, 2011; subject to adjustment in
+ accordance with the Following Business Day
+ Convention.
+
+------------------------------------------------------- -----------------------------------------------------
+------------------------------------------------------- -----------------------------------------------------
+FIXED AMOUNTS:
+------------------------------------------------------- -----------------------------------------------------
+------------------------------------------------------- -----------------------------------------------------
+ Fixed Rate Payer: Counterparty
+
+ Fixed Rate Payer Payment Date: September 28, 2006
+ Fixed Amount: $3,500,000
+------------------------------------------------------- -----------------------------------------------------
+------------------------------------------------------- -----------------------------------------------------
+FLOATING AMOUNTS:
+------------------------------------------------------- -----------------------------------------------------
+------------------------------------------------------- -----------------------------------------------------
+ Floating Rate Payer: Barclays
+
+ Cap Rate: 5.25%
+ Floating Rate Payer Period End Date(s): The 25th of each month in each year from (and
+ including) October 25, 2006 to (and including)
+ the Termination Date; subject to adjustment in
+ accordance with the Following Business Day
+ Convention.
+
+ Early Payment: Two (2) Business Days
+
+ Floating Rate for the Initial Calculation To be determined
+ Period:
+
+ Floating Rate Option: USD-LIBOR-BBA
+
+ Floating Rate Day Count Fraction: Actual/360
+
+ Designated Maturity: 1 Month
+
+ Reset Dates: The first calendar day of each Calculation Period
+
+ Compounding: Inapplicable
+
+------------------------------------------------------- -----------------------------------------------------
+------------------------------------------------------- -----------------------------------------------------
+BUSINESS DAYS: New York
+
+------------------------------------------------------- -----------------------------------------------------
+------------------------------------------------------- -----------------------------------------------------
+CALCULATION AGENT: Barclays
+
+------------------------------------------------------- -----------------------------------------------------
+------------------------------------------------------- -----------------------------------------------------
+ADMINISTRATION FEE USD 16,000 will be paid to Barclays on behalf of
+ Counterparty for value on Effective Date.
+------------------------------------------------------- -----------------------------------------------------
+------------------------------------------------------- -----------------------------------------------------
+3. ACCOUNT DETAILS
+------------------------------------------------------- -----------------------------------------------------
+------------------------------------------------------- -----------------------------------------------------
+Payments to Barclays: Correspondent: BARCLAYS BANK PLC NEW YORK
+ FEED: 026002574
+ Beneficiary: BARCLAYS SWAPS
+ Beneficiary Account: 050-01922-8
+
+------------------------------------------------------- -----------------------------------------------------
+------------------------------------------------------- -----------------------------------------------------
+Payments to Counterparty: U.S. Bank National Association
+ ABA No.: 091000022
+ Acct. No.: 1731 0332 2058
+ Ref.: RASC 2006-EMX8
+ OBI: Attn: John Thomas
+ Ref. Acct. No.: 105085000
+------------------------------------------------------- -----------------------------------------------------
+
+4. PROVISIONS DEEMED INCORPORATED INTO THIS AGREEMENT:
+
+The following provisions i) through vii) are incorporated into this Agreement:
+
+ i) The parties agree that subparagraph (ii) of Section 2(c) of the ISDA Form Master Agreement will
+ apply to this Transaction.
+
+ii) Termination Provisions. For purposes of this Agreement:
+
+(a) "Specified Entity" means in relation to Party A for the purpose of the Agreement:
+
+ Section 5(a)(v): None;
+ Section 5(a)(vi): None;
+ Section 5(a)(vii): None;
+ Section 5(b)(iv): None;
+
+ and in relation to Party B for the purpose of this Agreement:
+
+ Section 5(a)(v): None;
+ Section 5(a)(vi): None;
+ Section 5(a)(vii): None;
+ Section 5(b)(iv): None.
+
+(b) "Specified Transaction" shall be inapplicable to Party A and Party B.
+
+(c) The "Breach of Agreement" provisions of Section 5(a)(ii) of the Agreement will be inapplicable to Party
+ A and Party B.
+
+(d) The "Credit Support Default" provisions of Section 5(a)(iii) of the Agreement will be inapplicable to
+ Party B.
+
+(e) The "Misrepresentation" provisions of Section 5(a)(iv) of the Agreement will be inapplicable to Party A
+ and Party B.
+
+(f) The "Default Under Specified Transaction" provisions of Section 5(a)(v) of the Agreement will be
+ inapplicable to Party A and Party B.
+
+(g) The "Cross Default" provisions of Section 5(a)(vi) of the Agreement will be inapplicable to Party A and
+ Party B.
+
+(h) The "Credit Event Upon Merger" provisions of Section 5(b)(iv) of the Agreement will be inapplicable to
+ Party A and Party B.
+
+(i) The "Bankruptcy" provisions of Section 5(a)(vii) will not apply to Party B.
+
+(j) The "Automatic Early Termination" provision of Section 6(a) of the Agreement will be inapplicable to
+ Party A and Party B.
+
+(k) Payments on Early Termination. For the purpose of Section 6(e) of this Agreement:
+
+(i) Market Quotation will apply.
+(ii) The Second Method will apply.
+
+(l) "Termination Currency" means United States Dollars.
+
+iii) Tax Representations.
+
+ Payer Tax Representations. FOR THE PURPOSE OF SECTION 3(E), EACH OF BARCLAYS AND THE COUNTERPARTY MAKES
+ THE FOLLOWING REPRESENTATION:
+
+ It is not required by any applicable law, as modified by the practice of any relevant
+ governmental revenue authority, of any Relevant Jurisdiction to make any deduction or
+ withholding for or on account of any Tax from any payment (other than interest under Section
+ 2(e), 6(d)(ii) or 6(e) of this Agreement) to be made by it to the other party under this
+ Agreement. In making this representation, it may rely on: (i) the accuracy of any
+ representation made by the other party pursuant to Section 3(f) of this Agreement; (ii) the
+ satisfaction of the agreement of the other party contained in Section 4(a)(i) or 4(a)(iii) of
+ this Agreement and the accuracy and effectiveness of any document provided by the other party
+ pursuant to Section 4(a)(i) or 4(a)(iii) of this Agreement; and (iii) the satisfaction of the
+ agreement of the other party contained in Section 4(d) of this Agreement, provided that it
+ shall not be a breach of this representation where reliance is placed on clause (ii) and the
+ other party does not deliver a form or document under Section 4(a)(iii) by reason of material
+ prejudice to its legal or commercial position.
+
+ Barclays Payee Tax Representations. FOR THE PURPOSE OF SECTION 3(F), BARCLAYS MAKES THE FOLLOWING
+ REPRESENTATIONS:
+
+ With respect to payments made to Barclays which are not effectively connected to the U.S.: It
+ is a non-U.S. branch of a foreign person for U.S. federal income tax purposes.
+
+ With respect to payments made to Barclays which are effectively connected to the U.S.: Each
+ payment received or to be received by it in connection with this Agreement will be effectively
+ connected with its conduct of a trade or business in the U.S.
+
+ Counterparty Payee Tax Representations. FOR THE PURPOSE OF SECTION 3(F), COUNTERPARTY MAKES THE
+ FOLLOWING REPRESENTATION:
+
+ Counterparty represents that it is a "United States person" as such term is defined in Section
+ 7701(a)(30) of the Internal Revenue Code of 1986, as amended.
+
+iv) Documents to be Delivered. For the purpose of Section 4(a):
+
+ (a) Tax forms, documents or certificates to be delivered are:
+
+------------------------------------- ------------------------------------ ----------------------------------
+PARTY REQUIRED TO DELIVER DOCUMENT FORM/DOCUMENT/CERTIFICATE DATE BY WHICH TO BE DELIVERED
+------------------------------------- ------------------------------------ ----------------------------------
+------------------------------------- ------------------------------------ ----------------------------------
+Barclays and Counterparty Any document required or Promptly after reasonable
+ reasonably requested to allow demand by either party.
+ the other party to make
+ payments under this Agreement
+ without any deduction or
+ withholding for or on the
+ account of any Tax or with such
+ deduction or withholding at a
+ reduced rate.
+
+------------------------------------- ------------------------------------ ----------------------------------
+
+(b) Other Documents to be delivered are:
+
+------------------------- ------------------------------------ --------------------- ------------------------
+PARTY REQUIRED TO FORM/DOCUMENT/CERTIFICATE DATE BY WHICH TO BE COVERED BY SECTION
+DELIVER DOCUMENT DELIVERED 3(D) REPRESENTATION
+------------------------- ------------------------------------ --------------------- ------------------------
+------------------------- ------------------------------------ --------------------- ------------------------
+Barclays An opinion of Barclays in form Closing Date Yes
+ and substance reasonably
+ acceptable to Counterparty
+
+------------------------- ------------------------------------ --------------------- ------------------------
+------------------------- ------------------------------------ --------------------- ------------------------
+Barclays and the Any documents required or Closing Date Yes
+Counterparty reasonably requested by the
+ receiving party to evidence
+ authority of the delivering
+ party or its Credit Support
+ Provider, if any, to execute and
+ deliver this Agreement, any
+ Confirmation, and any Credit
+ Support Documents to which it is
+ a party, and to evidence the
+ authority of the delivering
+ party to its Credit Support
+ Provider to perform its
+ obligations under this
+ Agreement, such Confirmation
+ and/or Credit Support Document,
+ as the case may be.
+
+------------------------- ------------------------------------ --------------------- ------------------------
+------------------------- ------------------------------------ --------------------- ------------------------
+Barclays and the A certificate of an authorized Closing Date Yes
+Counterparty officer of the party, as to the
+ incumbency and authority of the
+ respective officers of the party
+ signing this agreement, any
+ relevant Credit Support Document,
+ or any Confirmation, as the case
+ may be.
+------------------------- ------------------------------------ --------------------- ------------------------
+
+v) Miscellaneous.
+
+ (a) Address for Notices: For the purposes of Section 12(a) of this Agreement:
+
+ Address for notices or communications to Barclays:
+
+ Address: 5 The North Colonnade
+ Canary Wharf
+ E14 4BB
+ Facsimile: 44(20) 77736461
+ Phone: 44(20) 77736810
+
+ Address for notices or communications to the Counterparty:
+
+ U.S. Bank National Association
+ EP-MN-WS3D
+ 60 Livingston Avenue
+ St. Paul, MN 55107
+ Facsimile: (651) 495-8090
+ Phone: (651) 495-3880
+ Attn: Structured Finance RASC Series 2006-EMX8 Trust
+
+ (b) Process Agent. For the purpose of Section 13(c):
+
+ Barclays appoints as its Process Agent: Not Applicable.
+
+ Counterparty appoints as its Process Agent: Not Applicable.
+
+ (c) Offices. The provisions of Section 10(a) will apply to this Agreement.
+
+ (d) Multibranch Party. For the purpose of Section 10(c) of this Agreement:
+
+ Barclays is a Multibranch Party and may act through its London and New York offices.
+
+ Counterparty is not a Multibranch Party.
+
+ (e) Calculation Agent. The Calculation Agent is Barclays.
+
+ (f) Credit Support Document. Not applicable for either Barclays or the Counterparty, but in the
+ event that Barclays posts collateral under a Credit Support Annex or provides a guarantee or
+ other contingent agreement pursuant to Part 4(vii)(e) below, such Credit Support Annex or
+ guarantee or other contingent agreement.
+
+ (g) Credit Support Provider. With respect to Barclays: Not Applicable, but in the event that Party
+ A provides a guarantee or other contingent agreement pursuant to Part 4(vii)(e) below, such
+ guarantor or other provider of credit support.
+ With respect to Counterparty: Not Applicable.
+
+ (h) Governing Law. This Agreement shall be governed by, and construed in accordance with the laws
+ of the State of New York (without reference to choice of law doctrine except Section 5-1401 and
+ Section 5-1402 of the New York General Obligation Law).
+
+ (i) Consent to Recording. Each party hereto consents and agrees the monitoring or recording, at
+ any time and from time to time, by the other party of any and all communications between
+ officers or employees of the parties, waives any further notice of such monitoring or
+ recording, and agrees to notify its officers and employees of such monitoring or recording.
+
+ (j) Waiver of Jury Trial. To the extent permitted by applicable law, each party irrevocably waives any and
+ all right to trial by jury in any legal proceeding in connection with this Agreement, any
+ Credit Support Document to which it is a Party, or any Transaction. Each party also
+ acknowledges that this waiver is a material inducement to the other party's entering into this
+ Agreement.
+
+ vi) Additional Representations:
+
+ Each party represents to the other party that (absent a written agreement between the parties
+ that expressly imposes affirmative obligations to the contrary):-
+
+(A) NON-RELIANCE. It is acting for its own account, and it has made its own independent decisions to enter
+ into the Transaction and as to whether the Transaction is appropriate or proper based upon
+ its own judgment and upon advice from such advisers as it has deemed necessary. It is not
+ relying on any communication (written or oral) of the other party as investment advice or
+ as a recommendation to enter into the Transaction: it being understood that information and
+ explanations related to the terms and conditions of the Transaction shall not be considered
+ investment advice or a recommendation to enter into the Transaction. No communication
+ (written or oral) received from the other party shall be deemed to be an assurance or
+ guarantee as to the expected results of the Transaction. Notwithstanding the foregoing, in
+ the case of Counterparty, it has entered into this Transaction pursuant to the direction
+ received by it pursuant to the Pooling and Servicing Agreement.
+
+(B) ASSESSMENT AND UNDERSTANDING. It is capable of assessing the merits of and understanding (on its own
+ behalf or through independent professional advice), and understands and accepts, the terms,
+ conditions and risks of the Transaction. It is also capable of assuming, and assumes, the
+ risks of the Transaction, and, in the case of Counterparty, it has been directed by the
+ Pooling and Servicing Agreement to enter into this Transaction.
+
+(C) STATUS OF PARTIES. The other party is not acting as a fiduciary for or an adviser to it in respect of
+ the Transaction.
+
+(D) SEVERABILITY. If any term, provision, covenant, or condition of this Agreement, or the application
+ thereof to any party or circumstance, shall be held to be illegal, invalid or unenforceable
+ (in whole or in part) for any reason, the remaining terms, provisions, covenants and
+ conditions hereof shall continue in full force and effect as if this Agreement had been
+ executed with the illegal, invalid or unenforceable portion eliminated, so long as this
+ Agreement as so modified continues to express, without material change, the original
+ intentions of the parties as to the subject matter of this Agreement and the deletion of
+ such portion of this Agreement will not substantially impair the respective benefits or
+ expectations of the parties to this Agreement. The parties shall endeavor to engage in
+ good faith negotiations to replace any illegal, invalid or unenforceable term, provision,
+ covenant or condition with a valid or enforceable term, provision, covenant or condition,
+ the economic effect of which comes as close as possible to that of the illegal, invalid or
+ unenforceable term, provision, covenant or condition.
+
+(E) PURPOSE. It is entering into the Transaction for the purposes of hedging its assets or liabilities or
+ in connection with a line of business.
+
+(F) ELIGIBLE CONTRACT PARTICIPANT REPRESENTATION. It is an "eligible contract participant" within the
+ meaning of Section 1(a)(12) of the Commodity Exchange Act, as amended, including as amended
+ by the Commodity Futures Modernization Act of 2000.
+
+vii) Other Provisions.
+
+(A) FULLY-PAID PARTY PROTECTED. Notwithstanding the terms of Sections 5 and 6 of the Agreement if Party B
+ has satisfied in full all of its payment obligations under Section 2(a)(i) of the
+ Agreement, then unless Party A is required pursuant to appropriate proceedings to return to
+ Party B or otherwise returns to Party B upon demand of Party B any portion of such payment,
+ (a) the occurrence of an event described in Section 5(a) of the Agreement with respect to
+ Party B shall not constitute an Event of Default or Potential Event of Default with respect
+ to Party B as the Defaulting Party and (b) Party A shall be entitled to designate an Early
+ Termination Event pursuant to Section 6 of the Agreement only as a result of a Termination
+ Event set forth in either Section 5(b)(i) or Section 5(b)(ii) of the Agreement with respect
+ to Party A as the Affected Party or Section 5(b)(iii) of the Agreement with respect to
+ Party A as the Burdened Party. For purposes of the Transaction to which this Confirmation
+ relates, Party B's only obligation under Section 2(a)(i) of the Agreement is to pay the
+ Fixed Amount on the Fixed Rate Payer Payment Date.
+
+(B) PROCEEDINGS. Party A shall not institute against or cause any other person to institute against, or
+ join any other person in instituting against, the Trust, any bankruptcy, reorganization,
+ arrangement, insolvency or liquidation proceedings, or other proceedings under any federal
+ or state bankruptcy, dissolution or similar law, for a period of one year and one day
+ following indefeasible payment in full of the Class A Certificates and the Class M
+ Certificates.
+
+(C) SET-OFF. The provisions for Set-Off set forth in Section 6(e) of the Agreement shall not apply for
+ purposes of this Transaction.
+
+(D) S&P SUBSTITUTION EVENT. It shall be a "S&P Substitution Event" if Party A has a Long-Term Rating of
+ less than "BBB-" or a Short-Term Rating of less than "A-3," if applicable, by S&P. In such
+ case, Party A must, within 10 days from such S&P Substitution Event (while collateralizing
+ any Exposure to Party B), transfer this Transaction at Party A's sole cost and expense, in
+ whole, but not in part, to a counterparty that satisfies the Rating Agency Condition.
+ Failure to comply with this provision shall be an Additional Termination Event with Party A
+ as the sole Affected Party.
+
+(e) If a RATINGS EVENT (as defined below) occurs with respect to Barclays, then Barclays shall at its own
+ expense, subject to the Rating Agency Condition (as defined below), (unless, within 30 days
+ of such Ratings Event, each of S&P and Moody's has reconfirmed the rating of the Class A
+ Certificates and the Class M Certificates which was in effect immediately prior to such
+ Ratings Event) (i) assign this Transaction hereunder to a third party within (30) days of
+ such Ratings Event that meets or exceeds, or as to which any applicable credit support
+ provider meets or exceeds, the Approved Ratings Thresholds (as defined below) on terms
+ substantially similar to this Confirmation or (ii) within (30) days of such Ratings Event,
+ deliver collateral in accordance with a Credit Support Annex (as defined in the Pooling and
+ Serving Agreement) or (iii) establish any other arrangement that meets the Rating Agency
+ Condition. For the avoidance of doubt, both parties agree that Barclays shall only be
+ required to post collateral pursuant to the terms of a Credit Support Annex for the period
+ (the "Collateral Requirement Period") during which Barclays' Rating Event is continuing or
+ until a replacement is in place. Once the Collateral Requirement Period has ended,
+ Counterparty's Custodian shall return any such Eligible Collateral to Barclays as soon as
+ reasonably practicable and to the extent such Collateral has not already been applied in
+ accordance with this Agreement, including the Credit Support Annex. For purposes of this
+ Transaction, a "Ratings Event" shall occur with respect to Barclays (or any applicable
+ credit support provider), if its short-term unsecured and unsubordinated debt ceases to be
+ rated at least "A-1" by S&P and at least "P-1" by Moody's Investors Service, Inc.
+ ("Moody's") (including in connection with a merger, consolidation or other similar
+ transaction by Barclays or any applicable credit support provider) such ratings being
+ referred to herein as the "Approved Ratings Thresholds," (unless, within 30 days
+ thereafter, each of Moody's and S&P has reconfirmed the ratings of the Class A Certificates
+ and the Class M Certificates, as applicable, which were in effect immediately prior
+ thereto). "Rating Agency Condition" means, with respect to any particular proposed act or
+ omission to act hereunder that the party acting or failing to act must consult with each of
+ the Rating Agencies then providing a rating of the Certificates and receive from each of
+ the Rating Agencies a prior written confirmation that the proposed action or inaction would
+ not cause a downgrade or withdrawal of the then-current rating of the Certificates.
+(F) ADDITIONAL TERMINATION EVENTS. An Additional Termination Event will occur if a Ratings Event has
+ occurred and Party A has not complied with (e) above; in such event an Additional
+ Termination Event shall have occurred with respect to Party A and Party A shall be the sole
+ Affected Party with respect to such Additional Termination Event.
+(G) AFFILIATES. Each of Party A and Party B shall be deemed to have no "Affiliates" as such term is defined
+ under the Agreement.
+(H) TRANSFER. Notwithstanding anything to the contrary herein, no transfer (including, but not limited to
+ transfers under Section 7 or otherwise) shall be made unless the transferring party obtains
+ a written acknowledgment from each of the Rating Agencies that, notwithstanding such
+ transfer, the then-current ratings of the Certificates will not be reduced or withdrawn.
+(I) SET-OFF. Notwithstanding any provision of this Agreement or any other existing or future agreements,
+ each of Party A and Party B irrevocably waives as to itself any and all contractual rights
+ it may have to set off, net, recoup or otherwise withhold or suspend or condition its
+ payment or performance of any obligation to the other party under this Agreement against
+ any obligation of one party hereto to the other party hereto arising outside of this
+ Agreement. The provisions for set-off set forth in Section 6(e) of this Agreement shall
+ not apply for purposes of this Transaction
+(J) AMENDMENTS. The parties are prohibited from amending the cap agreement (including the ISDA Form,
+ scheduled items, confirmation and collateral assignment of cap agreement) without the
+ consent of any Pledgee and Rating Agency Condition.
+
+ (k) LIMITATION OF LIABILITY. It is expressly understood and agreed by the parties hereto that
+ (a) this Agreement is executed and delivered by U.S. Bank National Association, not
+ individually or personally but solely as trustee of Party B in the exercise of the powers
+ and authority conferred and vested in it, (b) the representations, undertakings and
+ agreements herein made on the part of Party B are made and intended not as personal
+ representations, undertakings and agreements by the Trustee but are made and intended for
+ the purpose of binding only Party B, (c) nothing herein contained shall be construed as
+ creating any liability on Trustee, individually or personally, to perform any covenant
+ either expressed or implied contained herein, all such liability, if any, being expressly
+ waived by the parties who are signatories to this Agreement and by any person claiming by,
+ through or under such parties and (d) absent its willful misconduct or gross negligence
+ with respect to its obligations under the Pooling and Servicing Agreement, under no
+ circumstances shall the Trustee be liable for the payment of any indebtedness or expenses
+ of Party B or be liable for the breach or failure of any obligation, representation,
+ warranty or covenant made or undertaken by Party B under this Agreement.
+
+ (l) EXPENSES. Notwithstanding anything to the contrary in Section 11, Party B shall not be
+ required to reimburse Party A for any of Party A's out-of-pocket expenses incurred by Party
+ A related to its enforcement of Party A's rights hereunder.
+
+ (m) GROSS UP. Section 2(d)(i)(4) shall not apply to Party B as X, and Section 2(d)(ii) shall
+ not apply to Party B as Y, such that Party B shall not be required to pay any additional
+ amounts referred to therein.
+
+The time of dealing will be confirmed by Barclays upon written request. Barclays is regulated by the Financial
+Services Authority. Barclays is acting for its own account in respect of this Transaction.
+
+Please confirm that the foregoing correctly sets forth all the terms and conditions of our agreement with respect
+to the Transaction by responding within three (3) Business Days by promptly signing in the space provided below
+and both (i) faxing the signed copy to Incoming Transaction Documentation, Barclays Capital Global OTC
+Transaction Documentation & Management, Global Operations, Fax +(44) 20-7773-6810/6857, Tel +(44)
+20-7773-6901/6904/6965, and (ii) mailing the signed copy to Barclays Bank PLC, 5 The North Colonnade, Canary
+Wharf, London E14 4BB, Attention of Incoming Transaction Documentation, Barclays Capital Global OTC Transaction
+Documentation & Management, Global Operation. Your failure to respond within such period shall not affect the
+validity or enforceability of the Transaction against you. This facsimile shall be the only documentation in
+respect of the Transaction and accordingly no hard copy versions of this Confirmation for this Transaction shall
+be provided unless the Counterparty requests.
+
+For and on behalf of For and on behalf of
+BARCLAYS BANK PLC RASC SERIES 2006-EMX8 TRUST
+
+ BY: U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL
+ CAPACITY BUT SOLELY IN ITS CAPACITY AS TRUSTEE FOR THE
+ BENEFIT OF RASC SERIES 2006-EMX8 TRUST
+
+Name: _________________________________ Name:_____________________________________________
+Title: Title:
+Date: Date:
+
+Barclays Bank PLC and its affiliates, including Barclays Capital Inc., may share with each other information,
+including non-public credit information, concerning its clients and prospective clients. If you do not want such
+information to be shared, you must write to the Director of Compliance, Barclays Bank PLC, 200 Park Avenue, New
+York, NY 10166.
+
+ SCHEDULE A
+
+SCHEDULE A TO THE CONFIRMATION DATED AS OF SEPTEMBER 28, 2006
+RE: REFERENCE NUMBER TBD
+
+ PERIOD START DATE PERIOD END DATE CALCULATION AMOUNT (USD)
+
+ 28-Sep-2006 25-Oct-2006 698,610,000.03
+ 25-Oct-2006 25-Nov-2006 691,182,741.89
+ 25-Nov-2006 25-Dec-2006 685,034,978.99
+ 25-Dec-2006 25-Jan-2007 676,862,947.41
+ 25-Jan-2007 25-Feb-2007 666,662,752.43
+ 25-Feb-2007 25-Mar-2007 654,446,196.33
+ 25-Mar-2007 25-Apr-2007 640,241,466.51
+ 25-Apr-2007 25-May-2007 624,093,662.98
+ 25-May-2007 25-Jun-2007 606,065,847.22
+ 25-Jun-2007 25-Jul-2007 586,557,254.75
+ 25-Jul-2007 25-Aug-2007 565,790,293.11
+ 25-Aug-2007 25-Sep-2007 543,906,310.83
+ 25-Sep-2007 25-Oct-2007 522,829,459.10
+ 25-Oct-2007 25-Nov-2007 502,529,671.99
+ 25-Nov-2007 25-Dec-2007 482,978,012.42
+ 25-Dec-2007 25-Jan-2008 464,146,629.54
+ 25-Jan-2008 25-Feb-2008 446,008,717.72
+ 25-Feb-2008 25-Mar-2008 428,538,477.04
+ 25-Mar-2008 25-Apr-2008 411,711,075.35
+ 25-Apr-2008 25-May-2008 395,502,611.72
+ 25-May-2008 25-Jun-2008 379,887,068.49
+ 25-Jun-2008 25-Jul-2008 364,495,197.87
+ 25-Jul-2008 25-Aug-2008 337,893,723.66
+ 25-Aug-2008 25-Sep-2008 313,250,092.24
+ 25-Sep-2008 25-Oct-2008 290,451,548.12
+ 25-Oct-2008 25-Nov-2008 269,317,866.69
+ 25-Nov-2008 25-Dec-2008 249,904,173.59
+ 25-Dec-2008 25-Jan-2009 238,076,360.32
+ 25-Jan-2009 25-Feb-2009 226,759,907.51
+ 25-Feb-2009 25-Mar-2009 215,932,061.28
+ 25-Mar-2009 25-Apr-2009 205,571,100.19
+ 25-Apr-2009 25-May-2009 195,656,287.80
+ 25-May-2009 25-Jun-2009 186,167,827.38
+ 25-Jun-2009 25-Jul-2009 177,086,818.83
+ 25-Jul-2009 25-Aug-2009 168,395,217.48
+ 25-Aug-2009 25-Sep-2009 160,075,794.89
+ 25-Sep-2009 25-Oct-2009 152,115,810.94
+ 25-Oct-2009 25-Nov-2009 152,115,810.94
+ 25-Nov-2009 25-Dec-2009 152,115,810.94
+ 25-Dec-2009 25-Jan-2010 149,225,254.65
+ 25-Jan-2010 25-Feb-2010 143,172,253.60
+ 25-Feb-2010 25-Mar-2010 137,376,018.54
+ 25-Mar-2010 25-Apr-2010 131,825,278.39
+ 25-Apr-2010 25-May-2010 126,509,268.83
+ 25-May-2010 25-Jun-2010 121,417,709.13
+ 25-Jun-2010 25-Jul-2010 116,540,780.13
+ 25-Jul-2010 25-Aug-2010 111,869,103.11
+ 25-Aug-2010 25-Sep-2010 107,393,719.76
+ 25-Sep-2010 25-Oct-2010 103,106,072.96
+ 25-Oct-2010 25-Nov-2010 98,997,988.56
+ 25-Nov-2010 25-Dec-2010 95,061,657.90
+ 25-Dec-2010 25-Jan-2011 91,289,621.16
+ 25-Jan-2011 25-Feb-2011 87,674,751.55
+ 25-Feb-2011 25-Mar-2011 84,210,240.12
+ 25-Mar-2011 25-Apr-2011 80,889,581.33
+ 25-Apr-2011 25-May-2011 77,706,559.28
+ 25-May-2011 25-Jun-2011 74,655,234.54
+ 25-Jun-2011 25-Jul-2011 71,729,931.65
+ 25-Jul-2011 25-Aug-2011 68,925,228.93
+ 25-Aug-2011 25-Sep-2011 66,235,308.16

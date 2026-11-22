@@ -70,6 +70,15 @@ def trace(message):
     _write("trace", message)
 
 
+def work(agent_name, message):
+    """Name the agent that is doing this step.
+
+    Shown at trace and debug. agent_name is Orchestrator or Documents,
+    or a Python service such as Market, Margin, or Exposure.
+    """
+    trace(f"{agent_name}: {message}")
+
+
 def debug(message):
     """Detail line: tool JSON, the model prompt, or the model reply.
 

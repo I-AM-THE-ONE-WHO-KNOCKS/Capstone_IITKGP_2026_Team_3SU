@@ -1,0 +1,1655 @@
+EX-10.5
+ 6
+ v061372_ex10-5.htm
+
+ ISDA ® 
+
+ International
+ Swaps and Derivatives Association, Inc . 
+
+ CREDIT
+ SUPPORT ANNEX 
+
+ to
+ the
+ Schedule to the 
+
+ ISDA
+ MASTER AGREEMENT 
+
+ dated
+ as
+ of December 19, 2006 
+
+ between 
+
+ SWISS
+ RE FINANCIAL PRODUCTS CORPORATION 
+ (“Party
+ A”) 
+
+ and 
+
+ WELLS
+ FARGO BANK, N.A., not individually but solely as trustee for Carrington Mortgage
+ Loan Trust, Series 2006-NC5 with respect to the Carrington Mortgage Loan Trust,
+ Series 2006-NC5 Asset-Backed Pass-Through Certificates 
+ (“Party
+ B”) 
+
+ This
+ Annex supplements, forms part of, and is subject to, the ISDA Master Agreement
+ referred to above (this “Agreement”), is part of its Schedule and is a Credit
+ Support Document under this Agreement with respect to Party A and, as to the
+ Return Amount, Party B. 
+
+ Accordingly,
+ the parties agree as follows: 
+
+ (1) 
+
+ Paragraphs
+ 1 - 12. Incorporation 
+
+ Paragraphs
+ 1 through 12 inclusive of the ISDA Credit Support Annex (Bilateral Form) (ISDA
+ Agreements Subject to New York Law Only) published in 1994 by the International
+ Swaps and Derivatives Association, Inc. are incorporated herein by reference
+ and
+ made a part hereof: 
+
+ Paragraph
+ 13. Elections and Variables 
+
+ (a) 
+
+ Security
+ Interest for “Obligations” . 
+ The term “Obligations” 
+ as
+ used in this Annex includes no additional obligations of Secured
+ Party
+ and, for purposes of the definition of Obligations in Paragraph 12,
+ includes no additional obligations of
+ Pledgor. 
+
+ (b) Credit
+ Support Obligations. 
+
+ (i) 
+
+ Delivery
+ Amount, Return Amount and Credit Support
+ Amount. 
+
+ (A)
+ “Delivery
+ Amount” 
+ has the
+ meaning specified in Paragraph 3(a) as amended (I) by deleting the words “upon a
+ demand made by the Secured Party on or promptly following a Valuation Date” and
+ inserting in lieu thereof the words “not later than the close of business on
+ each Valuation Date” and (II) with respect to S&P and Moody’s, by deleting
+ in its entirety the sentence beginning “Unless otherwise specified in Paragraph
+ 13” and ending “(ii) the Value as of that Valuation Date of all Posted Credit
+ Support held by the Secured Party.” and inserting in lieu thereof the
+ following: 
+
+ The
+ “Delivery
+ Amount” 
+ applicable to the Pledgor for any Valuation Date will equal the greatest
+ of 
+
+ (1) 
+
+ the
+ amount by which (a) the S&P Credit Support Amount for such Valuation
+ Date exceeds (b) the S&P Value as of such Valuation Date of all Posted
+ Credit Support held by the Secured
+ Party, 
+
+ (2) 
+
+ the
+ amount by which (a) the Moody’s Credit Support Amount with respect to a
+ Moody’s First Trigger Event, for such Valuation Date exceeds (b) the
+ Moody’s First Trigger Value as of such Valuation Date of all Posted Credit
+ Support held by the Secured Party, 
+
+ (3) 
+
+ the
+ amount by which (a) the Moody’s Credit Support Amount with respect to a
+ Moody’s First Trigger Event for such Valuation Date exceeds (b) the
+ Moody’s Second Trigger Value as of such Valuation Date of all Posted
+ Credit Support held by the Secured Party,
+ and 
+
+ (4) 
+
+ the
+ amount by which (a) the Credit Support Amount with respect to Fitch
+ for
+ such Valuation Date exceeds (b) the Value with respect to Fitch as
+ of such
+ Valuation Date of all Posted Credit Support held by the Secured
+ Party. 
+
+ (B) “Return
+ Amount” has
+ the
+ meaning specified in Paragraph 3(b) as amended by deleting in its entirety
+ the
+ sentence beginning “Unless otherwise specified in Paragraph 13” and ending “(ii)
+ the Credit Support Amount.” and inserting in lieu thereof the following:
+
+ The
+ “ Return
+ Amount ”
+ applicable to the Secured Party for any Valuation Date will equal the least
+ of: 
+
+ (1)
+
+ the
+ amount by which (a) the S&P Value as of such Valuation Date of all
+ Posted Credit Support held by the Secured Party exceeds (b) the S&P
+ Credit Support Amount for such Valuation Date,
+
+ (2)
+
+ the
+ amount by which (a) the Moody’s First Trigger Value as of such Valuation
+ Date of all Posted Credit Support held by the Secured Party exceeds
+ (b)
+ the Moody’s First Trigger Credit Support Amount for such Valuation
+ Date, 
+
+ (3)
+
+ the
+ amount by which (a) the Moody’s Second Trigger Value as of such Valuation
+ Date of all Posted Credit Support held by the Secured Party exceeds
+ (b)
+ the Moody’s Second Trigger Credit Support Amount for such Valuation
+ Date. 
+
+ (4) 
+
+ the
+ amount by which (a) the Value as of such Valuation Date with respect
+ to
+ Fitch of all Posted Credit Support held by the Secured Party exceeds
+ (b)
+ the Credit Support Amount with respect to Fitch for such Valuation
+ Date. 
+
+ (C) “Credit
+ Support Amount” 
+ shall
+ not apply. For purposes of calculating any Delivery Amount or Return Amount
+ for
+ any Valuation Date, reference shall be made to the S&P Credit Support
+ Amount, the Moody’s First Trigger Credit Support Amount, or the Moody’s Second
+ Trigger Credit Support Amount, in each case for such Valuation Date, as provided
+ in Paragraphs 13(b)(i)(A) and 13(b)(i)(B), above. 
+
+ (D) “S&P
+ Value” 
+ means,
+ on any date and with respect to any Eligible Collateral other than Cash, the
+ product of (A) the bid price obtained by the Valuation Agent for such Eligible
+ Collateral and (B) the S&P Valuation Percentage for such Eligible Collateral
+ set forth in paragraph 13(b)(ii). 
+
+ (ii) 
+
+ Eligible
+ Collateral . 
+ The following items denominated in U.S. Dollars will qualify as
+ “Eligible
+ Collateral”: 
+
+ Valuation 
+
+ Percentage : 
+
+ The
+ Moody’s Credit Support Amount under Para 13(q)(1) below is greater than
+ zero 
+
+ The
+ Moody’s Credit Support Amount under Para 13(q)(2) below is greater than
+ zero 
+
+ S&P
+ Valuation Percentage 
+
+ Fitch 
+
+ (A) 
+
+ Cash:
+ US
+ Dollars in depository account form. 
+
+ 100% 
+
+ 100% 
+
+ 100% 
+
+ 100% 
+
+ (B) 
+
+ U.S.
+ Treasury Securities :
+ fixed rate negotiable debt obligations issued by the U.S. Treasury
+ Department (“Fixed Rate Treasuries”) having a remaining maturity of up to
+ and not more than 1 year. 
+
+ 100%% 
+
+ 100% 
+
+ 98.6% 
+
+ 99% 
+
+ (C) 
+
+ Fixed
+ Rate Treasuries having a remaining maturity of greater than 1 year
+ but not
+ more than 10 years. 
+
+ 100% 
+
+ 99%
+ (1-2yr) 
+
+ 98%
+ (2-3yr) 
+
+ 97%(3-5yr) 
+
+ 95%
+ (5-7yr) 
+
+ 94%
+ (7-10yr) 
+
+ 97.3%
+ (1-2yr) 
+
+ 95.8%
+ (2-3yr) 
+
+ 93.8%(3-5yr) 
+
+ 91.4%
+ (5-7yr) 
+
+ 90.3%
+ (7-10yr 
+
+ 98% 
+
+ (D) 
+
+ Fixed
+ Rate Treasuries having a remaining maturity of greater than 10
+ years 
+
+ 100% 
+
+ 89%(10-20yr) 
+
+ 87%
+ (>20yr) 
+
+ 86.9%(10-20yr) 
+
+ 84.6%
+ (>20yr) 
+
+ 97% 
+
+ (E) 
+
+ Agency
+ Securities :
+ Fixed rate negotiable debt obligations of the Federal National
+ Mortgage
+ Association (FNMA), Federal Home Loan Mortgage Corporation (FHLMC),
+ Federal Home Loan Banks (FHLB), Federal Farm Credit Banks (FFCB),
+ Student
+ Loan Marketing Association (SLMA), Tennessee Valley Authority (TVA)
+ (collectively, “Fixed Rate Agency Securities”) having a remaining maturity
+ of not more than 1 year. 
+
+ 100% 
+
+ 99% 
+
+ 98% 
+
+ 95% 
+
+ (F) 
+
+ Fixed
+ Rate Agency Securities having a remaining maturity of greater than
+ 1 year
+ but not more than 5 years. 
+
+ 100% 
+
+ 98%
+ (1-2yr) 
+
+ 97%
+ (2-3 yr) 
+
+ 96%
+ (3-5yr) 
+
+ 96.8%
+ (1-2yr) 
+
+ 96.3%
+ (2-3 yr) 
+
+ 92.5%
+ (3-5yr) 
+
+ 92% 
+
+ (G) 
+
+ Fixed
+ Rate Agency Securities having a remaining maturity of greater than
+ 5 years
+ but not more than 10 years. 
+
+ 100% 
+
+ 94%
+ (5-7 yr) 
+
+ 93%
+ (7-10 yr) 
+
+ 90.3%
+ (5-7 yr) 
+
+ 86.9%
+ (7-10 yr) 
+
+ 88% 
+
+ (H) 
+
+ Fixed
+ Rate Agency Securities having a remaining maturity of greater than
+ 10
+ years but not more than 20 years. 
+
+ 100% 
+
+ 88% 
+
+ 81.6% 
+
+ 82% 
+
+ Valuation 
+
+ Percentage : 
+
+ The
+ Moody’s Credit Support Amount under Para 13(q)(1) below is greater than
+ zero 
+
+ The
+ Moody’s Credit Support Amount under Para 13(q)(2) below is greater than
+ zero 
+
+ S&P
+ Valuation Percentage 
+
+ Fitch 
+
+ (I) 
+
+ Fixed
+ Rate Agency Securities having a remaining maturity of greater than
+ 20
+ years but not more than 30 years. 
+
+ 100% 
+
+ 86% 
+
+ 77.9% 
+
+ 82% 
+
+ (J) 
+
+ FHLMC
+ Certificates .
+ Mortgage participation certificates issued by FHLMC evidencing
+ undivided
+ interests or participations in pools of first lien conventional
+ or FHA/VA
+ residential mortgages or deeds of trust, guaranteed by FHLMC, and
+ having a
+ remaining maturity of not more than 30 years. 
+
+ 0%
+ (or such other amount subject to Moody’s rating affirmation in respect of
+ the rated notes) 
+
+ 0%
+ (or such other amount subject to Moody’s rating affirmation in respect of
+ the rated notes) 
+
+ 86.4% 
+
+ 82% 
+
+ (K) 
+
+ FNMA
+ Certificates. Mortgage-backed
+ pass-through certificates issued by FNMA evidencing undivided interests
+ in
+ pools of first lien mortgages or deeds of trust on residential
+ properties,
+ guaranteed by FNMA, having a remaining maturity of not more than
+ 30
+ years. 
+
+ 0%
+ (or such other amount subject to Moody’s rating affirmation in respect of
+ the rated notes) 
+
+ 0%
+ (or such other amount subject to Moody’s rating affirmation in respect of
+ the rated notes) 
+
+ 86.4% 
+
+ 82% 
+
+ (L) 
+
+ GNMA
+ Certificates .
+ Mortgage-backed pass-through certificates issued by private entities,
+ evidencing undivided interests in pools of first lien mortgages
+ or deeds
+ of trust on single family residences, guaranteed by the Government
+ National Mortgage Association (GNMA) with the full faith and credit
+ of the
+ United States, and having a remaining maturity of not more than
+ 30
+ years. 
+
+ 0%
+ (or such other amount subject to Moody’s rating affirmation in respect of
+ the rated notes) 
+
+ 0%
+ (or such other amount subject to Moody’s rating affirmation in respect of
+ the rated notes) 
+
+ 86.4% 
+
+ 82% 
+
+ (M) 
+
+ Commercial
+ Paper. 
+ Commercial Paper with a rating of at least P-1 by Moody’s, at least F-1 by
+ Fitch and at least A-1+ by S&P and having a remaining maturity of not
+ more than 30 days. 
+
+ 0%
+ (or such other amount subject to Moody’s rating affirmation in respect of
+ the rated notes) 
+
+ 0%
+ (or such other amount subject to Moody’s rating affirmation in respect of
+ the rated notes) 
+
+ 99% 
+
+ 99% 
+
+ (N) 
+
+ Other.
+ Other
+ items of Credit Support approved by each applicable rating agency
+ with
+ such valuation percentages as determined by each applicable rating
+ agency. 
+
+ 0%
+ (or such other amount subject to Moody’s rating affirmation in respect of
+ the rated notes) 
+
+ 0%
+ (or such other amount subject to Moody’s rating affirmation in respect of
+ the rated notes) 
+
+ %
+ to be determined 
+
+ %
+ to be determined 
+
+ (iii)
+
+ Other
+ Eligible Support .
+ Not applicable. 
+
+ (iv)
+
+ Thresholds. 
+
+ (A) 
+
+ “Independent
+ Amount” means
+ for Pledgor: zero. 
+
+ “Independent
+ Amount” means
+ for
+ Secured Party: zero 
+
+ (B) 
+
+ “Threshold” 
+ means, (1) with respect to Pledgor, infinity; provided that for so
+ long as
+ no Relevant Entity has the Moody’s First Trigger Required Ratings and
+ either (i) no Relevant Entity has had the Moody’s First Trigger Required
+ Ratings since this Annex was executed or (ii) at least 30 Local Business
+ Days have elapsed since the last time a Relevant Entity had the Moody’s
+ First Trigger Required Ratings, the Threshold with respect to Party
+ A
+ shall be zero; further, provided, if a Ratings Event (as described
+ in Part
+ 5(f) of the Schedule) has occurred and is continuing pursuant to
+ Part 5(f)
+ of the Agreement, the threshold shall be zero in the event (i) Party
+ A
+ fails to assign all of its rights and obligations under the Agreement
+ on
+ or before the thirtieth (30) day after the date of a Ratings Event
+ (as
+ described in Part 5(f) of the Schedule) continues to exist or (ii)
+ a
+ S&P Required Ratings Downgrade Event has occurred and is continuing
+ and (2) with respect to Party B and any Valuation Date, infinity.
+
+ (C) 
+
+ “Minimum
+ Transfer Amount” means
+ USD 100,000 with respect to Party A and Party B; provided, however,
+ that
+ if the aggregate Certificate Principal Balance and note principal
+ balance
+ of Certificates and Notes rated by S&P ceases to be more than USD
+ 50,000,000, the “Minimum
+ Transfer Amount” 
+ shall be USD 50,000. 
+
+ (D) 
+
+ Rounding: 
+ The Delivery Amount will be rounded up to the nearest integral multiple
+ of
+ $1,000, and the Return Amount will be rounded down to the nearest
+ integral
+ multiple of $1,000. 
+
+ (c) 
+
+ Valuation
+ and Timing. 
+
+ (i) 
+
+ “Valuation
+ Agent” 
+ means Party A; provided ,
+ however ,
+ that if an Event of Default shall have occurred with respect to which
+ Party A is the Defaulting Party, Party B shall have the right to
+ designate
+ as Valuation Agent an independent party, reasonably acceptable to
+ Party A,
+ the cost for which shall be borne by Party A. All calculations by
+ the
+ Valuation Agent must be made in accordance with standard market practice,
+ including, in the event of a dispute as to the Value of any Eligible
+ Credit Support or Posted Credit Support, by making reference to quotations
+ received by the Valuation Agent from one or more Pricing
+ Sources. 
+
+ (ii) 
+
+ “Valuation
+ Date” 
+ means the first Local Business Day of each
+ week. 
+
+ (iii) 
+
+ “Valuation
+ Time” means
+ the close of business in the city in which the Valuation Agent is
+ located
+ on the Local Business Day before the Valuation Date or date of
+ calculation, as applicable; provided 
+ that the calculations of Value and Exposure will be made as of
+ approximately the same time on the same
+ date. 
+
+ (iv) 
+
+ “Notification
+ Time” 
+ means 10:00 a.m., New York time, on a Local Business
+ Day. 
+
+ (v) 
+
+ “ External
+ Verification”. 
+ Notwithstanding anything to the contrary in the definitions of Valuation
+ Agent or Valuation Date, at any time at which Party A (or, to the
+ extent
+ applicable, its Credit Support Provider) does not have a long-term
+ unsubordinated and unsecured debt rating of at least “BBB+” from S&P,
+ the Valuation Agent shall (A) calculate the Secured Party’s Exposure and
+ the S&P Value of Posted Credit Support on each Valuation Date based on
+ internal marks and (B) verify such calculations with external marks
+ monthly by obtaining on the last Local Business Day of each calendar
+ month
+ two external marks for each Transaction to which this Annex relates
+ and
+ for all Posted Credit Support; such verification of the Secured Party’s
+ Exposure shall be based on the higher of the two external marks.
+ Each
+ external mark in respect of a Transaction shall be obtained from
+ an
+ independent Reference Market-maker that would be eligible and willing
+ to
+ enter into such Transaction in the absence of the current derivative
+ provider, provided that an external mark may not be obtained from
+ the same
+ Reference Market-maker more than four times in any 12-month period.
+ The
+ Valuation Agent shall obtain these external marks directly or through
+ an
+ independent third party, in either case at no cost to Party B.
+ The
+ Valuation Agent shall calculate on each Valuation Date (for purposes
+ of
+ this paragraph, the last Local Business Day in each calendar month
+ referred to above shall be considered a Valuation Date) 
+ the Secured Party’s Exposure based on the greater of the Valuation Agent’s
+ internal marks and the external marks received. If the S&P Value on
+ any such Valuation Date of all Posted Credit Support then held by
+ the
+ Secured Party is less than the S&P Credit Support Amount on such
+ Valuation Date (in each case as determined pursuant to this paragraph),
+ Party A shall, within three Local Business Days of such Valuation
+ Date,
+ Transfer to the Secured Party Eligible Credit Support having an S&P
+ Value as of the date of Transfer at least equal to such
+ deficiency . 
+
+ (vi) 
+
+ Notice
+ to S&P .
+ At any time at which Party A (or, to the extent applicable, its Credit
+ Support Provider) does not have a long-term unsubordinated and unsecured
+ debt rating of at least “BBB+” from S&P, the Valuation Agent shall
+ provide to S&P not later than the Notification Time on the Local
+ Business Day following each Valuation Date its calculations of the
+ Secured
+ Party’s Exposure and the S&P Value of any Eligible Credit Support or
+ Posted Credit Support for that Valuation Date. The Valuation Agent
+ shall
+ also provide to S&P any external marks received pursuant to the
+ preceding paragraph. 
+
+ (d) 
+
+ Conditions
+ Precedent and Secured Party’s Rights and
+ Remedies. 
+ No
+ Specified Conditions apply. 
+
+ (e) 
+
+ Substitution . 
+
+ (i) 
+
+ “Substitution
+ Date” has
+ the meaning specified in Paragraph
+ 4(d)(ii). 
+
+ (ii) 
+
+ Consent. 
+ The Pledgor is not required to obtain the Secured Party’s consent for any
+ substitution pursuant to Paragraph
+ 4(d). 
+
+ (f) 
+
+ Dispute
+ Resolution. 
+
+ (i) 
+
+ “Resolution
+ Time” 
+ means 1:00 p.m., New York time, on the Local Business Day following
+ the
+ date on which the notice is given that gives rise to a dispute under
+ Paragraph 5. 
+
+ (ii) 
+
+ Value. 
+ For the purpose of Paragraphs 5(i)(C) and 5(ii), the Value of Posted
+ Credit Support other than Cash will be calculated based upon the
+ mid-point
+ between the bid and offered purchase rates or prices for that Posted
+ Credit Support as reported on the Bloomberg electronic service as
+ of the
+ Resolution Time, or if unavailable, as quoted to the Valuation Agent
+ as of
+ the Resolution Time by a dealer in that Posted Credit Support of
+ recognized standing selected in good faith by the Valuation Agent,
+ which
+ calculation shall include any unpaid interest on that Posted Credit
+ Support to the extent it is the established practice in the relevant
+ market. 
+
+ (iii) Alternative. 
+ The
+ provisions of Paragraph 5 will apply. 
+
+ (g) 
+
+ Holding
+ and Using Posted
+ Collateral. 
+
+ (i) 
+
+ Eligibility
+ to Hold Posted Collateral; Custodians . 
+ Secured Party will not be entitled to hold Posted Collateral itself,
+ and
+ instead the Secured Party will be entitled to hold Posted Collateral
+ through the Trustee which Posted Collateral (i) shall not be commingled
+ or
+ used with any other asset held by the Trustee but shall be held in
+ a
+ separate account for this purpose only and (ii) shall not be transferred
+ to any other person or entity but Party A pursuant to the provisions
+ herein except (x) in any case contemplated by Paragraph 8(a) of this
+ Annex
+ with respect to Party A or (y) as directed by Party A.
+
+ (ii) 
+
+ Use
+ of Posted Collateral. 
+ The provisions of Paragraph 6(c) will not apply to Secured Party
+ and
+ without prejudice to Secured Party’s rights under Paragraph 8 of the
+ Credit Support Annex, Secured Party will not take any action specified
+ in
+ such Section 6(c). 
+
+ (h) 
+
+ Interest
+ Amount. 
+
+ (i) 
+
+ Interest
+ Rate. The “Interest
+ Rate” means,
+ for any day, the rate of interest actually earned for that day on
+ Eligible
+ Collateral constituting cash under Paragraph
+ 13(b)(ii)(A). 
+
+ (ii) 
+
+ Transfer
+ of Interest Amount . 
+ The Transfer of the Interest Amount, if any, will be made on the
+ first
+ Local Business Day of each calendar month and on any Local Business
+ Day
+ that Posted Collateral in the form of Cash is Transferred to the
+ Pledgor
+ pursuant to Paragraph 3(b). Any Interest Amount paid by Party B to
+ Party A
+ hereunder with respect to cash collateral posted by Party A shall
+ not
+ exceed the actual amount of interest received by Party B with respect
+ thereto. 
+
+ (iii) 
+
+ Alternative
+ to Interest Amount. 
+ The provisions of Paragraph 6(d)(ii) will
+ apply. 
+
+ (i) 
+
+ Additional
+ Representation(s). Not
+ applicable. 
+
+ (j) 
+
+ Other
+ Eligible Support and Other Posted Support. Not
+ applicable. 
+
+ (k) 
+
+ Demands
+ and Notices. All
+ demands, specifications and notices under this Annex will be made
+ to a
+ party as follows unless otherwise specified from time to time by
+ that
+ party for purposes of this Annex in a written notice given to the
+ other
+ party: 
+
+ To
+ Pledgor: 
+
+ As
+ set
+ forth in the Schedule. 
+
+ To
+ Secured Party: 
+
+ As
+ set
+ forth in the Schedule. 
+
+ (l) 
+
+ Addresses
+ for Transfers. 
+
+ (i) 
+
+ For
+ each Transfer hereunder to Pledgor: 
+
+ To
+ be
+ provided in written instructions. 
+
+ (ii) 
+
+ For
+ each Transfer hereunder to Secured Party, instructions will be provided
+ by
+ Secured Party for that specific
+ Transfer. 
+
+ (m) 
+
+ Agreement
+ as to Single Secured Party and Pledgor. 
+ Party A and Party B agree that, notwithstanding anything to the contrary
+ in the recital of this Annex, Paragraph 1(b) or Paragraph 2 of the
+ definitions in Paragraph 12, (a) the term “Secured Party” as used in this
+ Annex means only Party B, (b) the term “Pledgor” as used in this Annex
+ means only Party A, (c) only Party A makes the pledge and grant in
+ Paragraph 2, the acknowledgment in the final sentence of Paragraph
+ 8(a)
+ and the representations in Paragraph 9 and (d) only Party A shall
+ be
+ required to post Eligible Credit Support hereunder. Party A also
+ agrees
+ that it shall pay all reasonable costs of transferring Eligible Credit
+ Support required to be delivered by Party A to Party B
+ hereunder. 
+
+ (n) 
+
+ No
+ Gross Up. 
+ The Secured Party will have no obligation to pay any additional amount
+ of
+ the kind specified in Section 2(d)(i)(4) of the Agreement with respect
+ to
+ any Interest Amounts or
+ Distributions. 
+
+ (o) 
+
+ Elimination
+ of Demand Requirements. 
+ The parties agree that the phrase “upon a demand made by the Secured
+ Party” shall be deleted from Paragraph 3(a) of this Credit Support
+ Annex. 
+
+ (p) 
+
+ S&P
+ Credit Support Amount .
+ The “S&P
+ Credit Support Amount” 
+ means, for any Valuation Date, the excess, if any, of
+
+ (I) (A) for
+ any
+ Valuation Date on which (i) an S&P Rating Threshold Event has occurred and
+ been continuing for at least 30 days, or (ii) a S&P Required Ratings
+ Downgrade Event has occurred and is continuing, an amount equal to the sum,
+ for
+ each Transaction to which this Annex relates, of (1) 100.0% of the Secured
+ Party’s Transaction Exposure for such Valuation Date and (2) the product of the
+ Volatility Buffer for such Transaction and the Notional Amount of such
+ Transaction for the Calculation Period of such Transaction which includes such
+ Valuation Date, or 
+
+ (B) 
+
+ for
+ any other Valuation Date, zero,
+ over 
+
+ (II) 
+
+ the
+ Threshold for Party A for such Valuation
+ Date. 
+
+ “S&P
+ Required Ratings Downgrade Event” 
+ means
+ that no Relevant Entity has credit ratings at least equal to the S&P
+ Required Ratings Threshold. 
+
+ “S&P
+ Required Ratings Threshold” means,
+ with respect to Party A, the guarantor under an Eligible Guarantee or an
+ Eligible Replacement, a long-term unsecured and unsubordinated debt rating
+ or
+ counterparty rating from S&P of “BBB-“. 
+
+ “S&P
+ Rating Threshold Event” 
+ means,
+ on any date, no Relevant Entity has credit ratings from S&P which equal or
+ exceed the S&P Approved Ratings Threshold. 
+
+ “Relevant
+ Entity” means
+ Party A and, to the extent applicable, a guarantor under an Eligible
+ Guarantee. 
+
+ “S&P
+ Approved Ratings Threshold” 
+ means,
+ with respect to Party A, the guarantor under an Eligible Guarantee or an
+ Eligible Replacement, a short-term unsecured and unsubordinated debt rating
+ from
+ S&P of “A-1”, or, if such entity does not have a short-term unsecured and
+ unsubordinated debt rating from S&P, a long-term unsecured and
+ unsubordinated debt rating from S&P of “A+”. 
+
+ “Transaction
+ Exposure” 
+ means,
+ for any Transaction, Exposure determined as if such Transaction were the only
+ Transaction between the Secured Party and the Pledgor. 
+
+ “Exposure” 
+ has the
+ meaning specified in Paragraph 12, except that after the word “Agreement” the
+ words “(assuming, for this purpose only, that Part 1(f) of the Schedule is
+ deleted)” shall be inserted. 
+
+ TABLE
+ A 
+
+ Volatility
+ Buffer 
+
+ Counterparty 
+
+ Less
+ than 5 years to Termination Date of the Transaction. 
+
+ Less
+ than 10 years, but more than 5 years to Termination Date of the
+ Transaction. 
+
+ Greater
+ than 10 years to Termination Date of the Transaction. 
+
+ The
+ rating by S&P of Party A’s long-term unsecured, unsubordinated
+ obligations is at least equal to “A” 
+
+ 3.25% 
+
+ 4.00% 
+
+ 4.75% 
+
+ The
+ rating by S&P of Party A’s long-term unsecured, unsubordinated
+ obligations is equal to “A-” 
+
+ 4.00% 
+
+ 5.00% 
+
+ 6.25% 
+
+ The
+ rating by S&P of Party A’s long-term unsecured, unsubordinated
+ obligations is equal to or less than “BB+” 
+
+ 4.50% 
+
+ 5.75% 
+
+ 7.50% 
+
+ (q) Moody’s
+ Ratings
+ Criteria 
+
+ “Ratings
+ Criteria” means, the criteria used by Moody’s (“Moody’s Criteria”) for the
+ purposes of determining the amount of Eligible Credit Support Party A is
+ required to transfer at any time when the Threshold with respect to Party A
+ is
+ zero. 
+
+ Moody's
+ Criteria: 
+
+ Moody’s
+ Credit Support Amount .*
+ With
+ respect to a Ratings Event (as described in Part 5(f) of the Schedule) relating
+ to an action taken by Moody’s, the “Credit
+ Support Amount” 
+ shall
+ mean with respect to a Pledgor on a Valuation Date the sum of : 
+
+ (1) (A) for
+ any
+ Valuation Date on which (I) a Moody’s First Trigger Event has occurred and has
+ been continuing (x) for at least 30 Local Business Days or (y) since this Annex
+ was executed and (II) it is not the case that a Moody’s Second Trigger Event has
+ occurred and been continuing for at least 30 Local Business Days, an amount
+ equal to the following: 
+
+ the
+ greater of (a) zero and (b) the sum of (i) the Secured Party’s Transaction
+ aggregate Exposure for all Transactions and such Valuation Date and and
+ the
+ aggregate of Moody’s Additional Collateralized Amounts for each
+ Transaction. 
+
+ For
+ the
+ purposes of this definition, the “ Moody’s
+ Additional Collateralized Amount ”
+with
+ respect to any Transaction shall mean: the
+ least
+ of (x) the product of the Moody’s First Trigger DV01 Multiplier and DV01 for
+ each Transaction and such Valuation Date, (y) the product of Moody’s First
+ Trigger Notional Amount Multiplier and the Notional Amount for such Transaction
+ for the Calculation Period which includes such Valuation Date, and (z) the
+ product of the applicable Moody’s First Trigger Factor set forth in Table B and
+ the Notional Amount for each Transaction for the Calculation Period which
+ includes such Valuation Date; or 
+
+ (B) 
+
+ for
+ any other Valuation Date, zero,
+ over 
+
+ the
+ Threshold for Party A for such Valuation Date. 
+
+ “ DV01” 
+ means
+ the sum of the estimated change in the Secured Party’s Exposure that would
+ result from a one basis point change in the relevant swap curve, as determined
+ by the Valuation Agent in good faith and in a commercially reasonable manner
+ in
+ accordance with the relevant customary methodology used by the Valuation
+ Agent. 
+
+ “ Moody’s
+ First Trigger Event ”
+means
+ that no Relevant Entity has credit ratings from Moody’s at least equal to the
+ Moody’s First Trigger Required Ratings. 
+
+ “ Moody’s
+ First Trigger DV01 Multiplier ”
+means
+ (A) if each Local Business Day is a Valuation Date, 15, or (B) otherwise,
+ 25. 
+
+ “ Moody’s
+ First Trigger Notional Amount Multiplier ”
+means
+ (A) if each Local Business Day is a Valuation Date, 2%, or (B) otherwise,
+ 4%. 
+
+ OR
+
+ (2) (A) for
+ any
+ Valuation Date on which it is the case that a Moody’s Second Trigger Event has
+ occurred and been continuing for at least 30 Local Business Days, an amount
+ equal to the greatest of (a) zero, (b) the
+ aggregate amount of the Next Payments for all Next Payment Dates 
+ and (c)
+ the sum of the Secured Party’s aggregate Exposure and the aggregate of Moody’s
+ Additional Collateralized Amounts for each Transaction. 
+
+ For
+ the
+ purposes of this definition, the “ Moody’s
+ Additional Collateralized Amount ”
+with
+ respect to any Transaction shall mean: 
+
+ if
+ such
+ Transaction is not a Transaction-Specific Hedge, 
+
+ the
+ least
+ of (i) the product of the Moody’s Second Trigger DV01 Multiplier and DV01 for
+ each Transaction and such Valuation Date and (ii) the product of the Moody’s
+ Second Trigger Notional Amount Multiplier and the Notional Amount for each
+ Transaction for the Calculation Period which includes such Valuation Date,
+ and
+ (z) the product of the applicable Moody’s Second Trigger Factor set forth in
+ Table B and the Notional Amount for each Transaction for the Calculation Period
+ which includes such Valuation Date; or 
+
+ if
+ such
+ Transaction is a Transaction-Specific Hedge, 
+
+ the
+ least
+ of (i) the product of the Moody’s Second Trigger Transaction-Specific Hedge DV01
+ Multiplier and DV01 for each Transaction and such Valuation Date and (ii) the
+ product of the Moody’s Second Trigger Transaction-Specific Hedge Notional Amount
+ Multiplier and the Notional Amount for each Transaction for the Calculation
+ Period which includes such Valuation Date and (z) the product of the applicable
+ Moody’s Second Trigger Factor set forth in Table B and the Notional Amount for
+ each Transaction for the Calculation Period which includes such Valuation Date;
+ or 
+
+ (B) 
+
+ for
+ any other Valuation Date, zero,
+ over 
+
+ the
+ Threshold for Party A for such Valuation Date. 
+
+ “ Moody’s
+ Second Trigger Event ”
+means
+ that no Relevant Entity has credit ratings from Moody’s at least equal to the
+ Moody’s Second Trigger Required Ratings. 
+
+ “ Moody’s
+ Second Trigger DV01 Multiplier ”
+means
+ (A) if each Local Business Day is a Valuation Date, 50, or (B) otherwise,
+ 60. 
+
+ “ Moody’s
+ Second Trigger Transaction-Specific Hedge DV01
+ Multiplier ”
+means
+ (A) if each Local Business Day is a Valuation Date, 65, or (B) otherwise,
+ 75. 
+
+ “ Moody’s
+ Second Trigger Transaction-Specific Hedge Notional Amount
+ Multiplier ”
+means
+ (A) if each Local Business Day is a Valuation Date, 10%, or (B) otherwise,
+ 11%. 
+
+ “ Moody’s
+ Second Trigger Notional Amount Multiplier ”
+means
+ (A) if each Local Business Day is a Valuation Date, 8% or (B) otherwise,
+ 9%. 
+
+ “ Next
+ Payment ”
+means,
+ in respect of each Next Payment Date, the greater of (i) the amount of any
+ payments due to be made by Party A under Section 2(a) on such Next Payment
+ Date
+ less any payments due to be made by Party B under Section 2(a) on such Next
+ Payment Date (in each case, after giving effect to any applicable netting under
+ Section 2(c)) and (ii) zero. 
+
+ “ Next
+ Payment Date ”
+means
+ each date on which the next scheduled payment under any Transaction is due
+ to be
+ paid. 
+
+ “Transaction-Specific
+ Hedge” means
+ any
+ Transaction that is an interest rate cap, interest rate floor or interest rate
+ swaption, or an interest rate swap if (x) the notional amount of the interest
+ rate swap is “balance guaranteed” or (y) the notional amount of the interest
+ rate swap for any Calculation Period otherwise is not a specific dollar amount
+ that is fixed at the inception of the Transaction. 
+
+ (r) 
+
+ Other
+ Provisions. 
+
+ (i)
+ Events
+ of Default. 
+ Paragraph 7 will not apply to cause any Event of Default to exist with respect
+ to Party B except that Paragraph 7(i) will apply to Party B solely in respect
+ of
+ Party B’s obligations under Paragraph 3(b) of the Credit Support Annex.
+ Notwithstanding anything to the contrary in Paragraph 7, any failure by Party
+ A
+ to comply with or perform any obligation to be complied with or performed by
+ Party A under the Credit Support Annex shall only be an Event of Default if
+ (A)
+ a Required Ratings Downgrade Event has occurred and been continuing for 30
+ or
+ more Local Business Days and (B) such failure is not remedied on or before
+ the
+ third Local Business Day after notice of such failure is given to Party
+ A. 
+
+ (ii)
+ Expenses . 
+ Notwithstanding anything to the contrary in Paragraph 10, the Pledgor will
+ be
+ responsible for, and will reimburse the Secured Party for, all transfer and
+ other taxes and other costs involved in any Transfer of Eligible
+ Collateral. 
+
+ (iii)
+ Calculation
+ of Value. 
+ Paragraph 4(c) is hereby amended by deleting the word “Value” and inserting in
+ lieu thereof “S&P Value, Moody’s First Trigger Value, Moody’s Second Trigger
+ Value”. Paragraph 4(d)(ii) is hereby amended by (A) deleting the words “a Value”
+and inserting in lieu thereof “an S&P Value, Moody’s First Trigger Value,
+ and Moody’s Second Trigger Value” and (B) deleting the words “the Value” and
+ inserting in lieu thereof “S&P Value, Moody’s First Trigger Value, and
+ Moody’s Second Trigger Value”. Paragraph 5 (flush language) is hereby amended by
+ deleting the word “Value” and inserting in lieu thereof “S&P Value, Moody’s
+ First Trigger Value, or Moody’s Second Trigger Value”. Paragraph 5(i) (flush
+ language) is hereby amended by deleting the word “Value” and inserting in lieu
+ thereof “S&P Value, Moody’s First Trigger Value, and Moody’s Second Trigger
+ Value”. Paragraph 5(i)(C) is hereby amended by deleting the word “the Value, if”
+and inserting in lieu thereof “any one or more of the S&P Value, Moody’s
+ First Trigger Value, or Moody’s Second Trigger Value, as may be”. Paragraph
+ 5(ii) is hereby amended by (1) deleting the first instance of the words “the
+ Value” and inserting in lieu thereof “any one or more of the S&P Value,
+ Moody’s First Trigger Value, or Moody’s Second Trigger Value” and (2) deleting
+ the second instance of the words “the Value” and inserting in lieu thereof “such
+ disputed S&P Value, Moody’s First Trigger Value, or Moody’s Second Trigger
+ Value”. Each of Paragraph 8(b)(iv)(B) and Paragraph 11(a) is hereby amended by
+ deleting the word “Value” and inserting in lieu thereof “least of the S&P
+ Value, Moody’s First Trigger Value, and Moody’s Second Trigger Value”.
+
+ (iv)
+ Valuation
+ Percentage 
+ shall
+ mean, for purposes of determining the S&P Value, Moody's First Trigger
+ Value, or Moody's Second Trigger Value with respect to any Eligible Collateral
+ or Posted Collateral, the applicable S&P Valuation Percentage, Moody's First
+ Trigger Valuation Percentage, or Moody's Second Trigger Valuation Percentage
+ for
+ such Eligible Collateral or Posted Collateral, respectively, in each case as
+ set
+ forth in Paragraph 13(b)(ii). 
+
+ (v) Withholding. 
+ Paragraph 6(d)(ii) is hereby amended by inserting immediately after “the
+ Interest Amount” in the fourth line thereof the words “less any applicable
+ withholding taxes.” 
+
+ (vi)
+ Notice
+ of Failure to Post Collateral. Upon
+ any
+ failure by Party A to post collateral as required under this Agreement, Party
+ B
+ shall, no later than the next Business Day after the date such collateral was
+ required to be posted, give a written notice of such failure to Party A and
+ to
+ Depositor. For the avoidance of doubt, notwithstanding anything in this
+ Agreement to the contrary, the failure of Party B to comply with the
+ requirements of this paragraph shall not constitute an Event of Default or
+ Termination Event. 
+
+ TABLE
+ B 
+
+ Weighted
+ Average Life of Hedge in Years 
+
+ Moody’s
+ First Trigger Factor 
+
+ Moody’s
+ Second Trigger Factor for Transactions other than Transaction-Specific
+ Hedges 
+
+ Moody’s
+ Second Trigger Factor for Transaction-Specific
+ Hedges 
+
+ Less
+ than 1 
+
+ 0.25% 
+
+ 0.60% 
+
+ 0.75% 
+
+ More
+ than 1 but no more than 2 
+
+ 0.50% 
+
+ 1.20% 
+
+ 1.50% 
+
+ More
+ than 2 but no more than 3 
+
+ 0.70% 
+
+ 1.70% 
+
+ 2.20% 
+
+ More
+ than 3 but no more than 4 
+
+ 1.00% 
+
+ 2.30% 
+
+ 2.90% 
+
+ More
+ than 4 but no more than 5 
+
+ 1.20% 
+
+ 2.80% 
+
+ 3.60% 
+
+ More
+ than 5 but no more than 6 
+
+ 1.40% 
+
+ 3.30% 
+
+ 4.20% 
+
+ More
+ than 6 but no more than 7 
+
+ 1.60% 
+
+ 3.80% 
+
+ 4.80% 
+
+ More
+ than 7 but no more than 8 
+
+ 1.80% 
+
+ 4.30% 
+
+ 5.40% 
+
+ More
+ than 8 but no more than 9 
+
+ 2.00% 
+
+ 4.80% 
+
+ 6.00% 
+
+ More
+ than 9 but no more than 10 
+
+ 2.20% 
+
+ 5.30% 
+
+ 6.60% 
+
+ More
+ than 10 but no more than 11 
+
+ 2.30% 
+
+ 5.60% 
+
+ 7.00% 
+
+ More
+ than 11 but no more than 12 
+
+ 2.50% 
+
+ 6.00% 
+
+ 7.50% 
+
+ More
+ than 12 but no more than 13 
+
+ 2.70% 
+
+ 6.40% 
+
+ 8.00% 
+
+ More
+ than 13 but no more than 14 
+
+ 2.80% 
+
+ 6.80% 
+
+ 8.50% 
+
+ More
+ than 14 but no more than 15 
+
+ 3.00% 
+
+ 7.20% 
+
+ 9.00% 
+
+ More
+ than 15 but no more than 16 
+
+ 3.20% 
+
+ 7.60% 
+
+ 9.50% 
+
+ More
+ than 16 but no more than 17 
+
+ 3.30% 
+
+ 7.90% 
+
+ 9.90% 
+
+ Weighted
+ Average Life of Hedge in Years 
+
+ Moody’s
+ First Trigger Factor 
+
+ Moody’s
+ Second Trigger Factor for Transactions other than Transaction-Specific
+ Hedges 
+
+ Moody’s
+ Second Trigger Factor for Transaction-Specific
+ Hedges 
+
+ More
+ than 17 but no more than 18 
+
+ 3.50% 
+
+ 8.30% 
+
+ 10.40% 
+
+ More
+ than 18 but no more than 19 
+
+ 3.60% 
+
+ 8.60% 
+
+ 10.80% 
+
+ More
+ than 19 but no more than 20 
+
+ 3.70% 
+
+ 9.00% 
+
+ 11.00% 
+
+ More
+ than 20 but no more than 21 
+
+ 3.90% 
+
+ 9.00% 
+
+ 11.00% 
+
+ More
+ than 21 but no more than 30 
+
+ 4.00% 
+
+ 9.00% 
+
+ 11.00% 
+
+ IN
+ WITNESS WHEREOF 
+ the
+ parties have executed this Credit Support Annex as of the date
+ hereof. 
+
+ SWISS
+ RE FINANCIAL PRODUCTS CORPORATION 
+
+ By:
+ /s/
+ Robert Spuler 
+
+ Name:
+ Robert Spuler 
+
+ Title:
+ Senior Vice President 
+
+ WELLS
+ FARGO BANK, N.A., not individually but solely as trustee for Carrington Mortgage
+ Loan Trust, Series 2006-NC5 with respect to the Carrington Mortgage Loan Trust,
+ Series 2006-NC5 Asset-Backed Pass-Through Certificates 
+
+ By: 
+ /s/
+ Darron C. Woodus
+ Name:
+ Darron C. Woodus
+ Title:
+ Assistant Vice President 
+
+ S-1

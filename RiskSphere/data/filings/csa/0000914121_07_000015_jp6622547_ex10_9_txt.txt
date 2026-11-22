@@ -1,0 +1,951 @@
+EX-10.9
+ 12
+ jp6622547-ex10_9.txt
+ CONTRACT
+
+ Exhibit 10.9
+
+(Multicurrency--Cross Border)
+ ISDA(R)
+ International Swap Dealers Association, Inc.
+
+ SCHEDULE
+ to the
+ Master Agreement
+ dated as of December 21, 2006
+
+between JPMORGAN CHASE BANK, N.A. and J.P. MORGAN CHASE COMMERCIAL MORTGAGE
+ SECURITIES TRUST 2006-LDP9
+
+ ("Party A") ("Party B")
+
+ PART 1: Termination Provisions
+ ----------------------
+
+(a) (i) "Trust Agreement" means the Pooling and Servicing Agreement
+ dated as of December 1, 2006, among J.P. Morgan Chase Commercial
+ Mortgage Securities Corp., as depositor, Midland Loan Services, Inc.,
+ as master servicer No. 1, Capmark Finance Inc., as master servicer
+ No. 2, Wachovia Bank, National Association, as master servicer No. 3,
+ LNR Partners, Inc., as special servicer, LaSalle Bank National
+ Association, as trustee, and Wells Fargo Bank, N.A., as paying agent,
+ as amended, modified, supplemented, restated or replaced from time to
+ time.
+
+ (ii) "Class A-2SFL Certificates" means the Commercial Mortgage
+ Pass-Through Certificates, Series 2006-LDP9, Class A-2SFL, issued by
+ Party B under the Trust Agreement.
+
+(b) "Specified Entity" means, in relation to Party A for the purpose of:-
+
+ Section 5(a)(v) (Default under Specified none;
+ Transaction),
+
+ Section 5(a)(vi) (Cross Default), none;
+
+ Section 5(a)(vii) (Bankruptcy), none; and
+
+ Section 5(b)(iv) (Credit Event Upon Merger), none;
+
+ in relation to Party B for the purpose of:
+
+ Section 5(a)(v) (Default under Specified Transaction) none;
+
+ Section 5(a)(vi) (Cross Default), none;
+
+ Section 5(a)(vii) (Bankruptcy), none; and
+
+ Section 5(b)(iv) (Credit Event Upon Merger), none.
+
+(c) "Specified Transaction" will have the meaning specified in Section 14.
+
+(d) The "Breach of Agreement" provisions of Section 5(a)(ii), the
+ "Misrepresentation" provisions of Section 5(a)(iv), and the "Default
+ under Specified Transactions" provisions of Section 5(a)(v) will not
+ apply to Party B. The "Cross Default" provisions of Section 5(a)(vi)
+ will not apply to Party A or Party B.
+
+(e) The "Credit Event Upon Merger" provisions of Section 5(b)(iv)
+
+ will not apply to Party A
+
+ will not apply to Party B.
+
+(f) The "Automatic Early Termination" provision of Section 6(a)
+
+ will not apply to Party A
+
+ will not apply to Party B.
+
+(g) Payments on Early Termination. For the purpose of Section 6(e):
+
+ (i) Market Quotation will apply.
+
+ (ii) The Second Method will apply.
+
+ (iii) Both Party A and Party B agree that any amounts payable by Party B
+ to Party A under Section 6(e), if any, in connection with any Event of
+ Default or Termination Event will be payable only from collections on
+ the Trust Estate (as defined below), and only from funds, if any,
+ remaining in the Floating Rate Account (as defined in the Trust
+ Agreement) after all other amounts have been paid under the Class A-2SFL
+ Certificates (including all principal amounts outstanding) under the
+ Trust Agreement.
+
+(h) "Termination Currency" means United States Dollars.
+
+(i) Additional Termination Events. It shall be an Additional Termination
+ Event:
+
+ (i) if Party B fails to comply with Part 1(j) of this Schedule, in which
+ event Party B shall be the sole Affected Party and all Transactions
+ shall be Affected Transactions; or
+
+ (ii) if Party A fails to satisfy any of the requirements of Part 5(m),
+ within the applicable time periods set forth therein, in which event
+ Party A shall be the sole Affected Party and all Transactions shall be
+ Affected Transactions.
+
+(j) Amendments. Party B shall deliver to Party A a copy of any proposed
+ amendment to the Trust Agreement, and any amendment to the Trust
+ Agreement that could reasonably materially and adversely affect Party
+ A shall be subject to Party A's prior consent.
+
+(k) Downgrade of Party A. If a Ratings Event (as defined below) shall
+ occur and be continuing with respect to Party A, then Party A shall,
+ within 5 Local Business Days of such Ratings Event, (A) give notice
+ to Party B of the occurrence of such Ratings Event, and (B) at Party
+ A's option and sole expense, (x) transfer Party A's rights and
+ obligations under this Agreement and all Confirmations related hereto
+ to another party (such party whose long term debt is being rated at
+ least "A1" (and not on watch for possible downgrade) by Moody's (as
+ defined below) or rated at least "A+" by Fitch and S&P (as defined
+ below)), subject to Rating Agency confirmation, and at the cost of
+ Party A, or (y) post Eligible Collateral on a mark-to-market basis to
+ secure Party B's exposure, if any, to Party A, and such Eligible
+ Collateral shall be provided in accordance with an ISDA Credit
+ Support Annex to be entered into between Party A and Party B in the
+ form attached hereto as Exhibit A, which will be attached hereto and
+ made a part hereof within 10 Local Business Days of Party A's
+ election to post Eligible Collateral. The Eligible Collateral to be
+ posted and the Credit Support Annex to be executed and delivered
+ shall be subject to Rating Agency confirmation. Party A's obligations
+ to find an eligible transferee or to post Eligible Collateral under
+ such Credit Support Annex shall remain in effect only for so long as
+ a Ratings Event is continuing with respect to Party A. For the
+ purpose of this Part 1(k), a "Ratings Event" shall occur with respect
+ to Party A if the long-term senior unsecured deposit ratings of Party
+ A cease to be at least "A3" by Moody's Investors Service, Inc., or
+ any successor thereto ("Moody's"), at least "A-" by Fitch, Inc., or
+ any successor thereto ("Fitch") or at least "A-" by Standard & Poor's
+ Ratings Services, a division of The McGraw-Hill Companies, Inc., or
+ any successor thereto ("S&P"), to the extent such obligations are
+ rated by Moody's or S&P.
+
+ The failure by Party A to either post Eligible Collateral or transfer
+ its rights and obligations to an eligible transferee in accordance
+ herewith shall constitute an Additional Termination Event for which
+ Party A shall be the sole Affected Party.
+
+(l) Failure to Pay or Deliver. Section 5(a)(i) is hereby deleted in its
+ entirety and replaced with the following:
+
+ "Failure to Pay or Deliver. Failure by the party to make, when
+ due, any payment under this Agreement or delivery under
+ Section 2(a)(i) or 2(e) required to be made by it."
+
+ PART 2: Tax Representations
+ -------------------
+(a) Payer Tax Representations. For the purpose of Section 3(e) of this
+ Agreement, Party A and Party B will make the following
+ representation:-
+
+ It is not required by any applicable law, as modified by the practice
+ of any relevant governmental revenue authority of any Relevant
+ Jurisdiction to make any deduction or withholding for or on account
+ of any Tax from any payment (other than interest under Section 2(e),
+ 6(d)(ii) or 6(e) of this Agreement) to be made by it to the other
+ party under this Agreement. In making this representation, it may
+ rely on (x) the accuracy of any representations made by the other
+ party pursuant to Section 3(f) of this Agreement, (y) the
+ satisfaction of the agreement contained in Section 4(a)(i) or
+ 4(a)(iii) of this Agreement and the accuracy and effectiveness of any
+ document provided by the other party pursuant to Section 4(a)(i) or
+ 4(a)(iii) of this Agreement and (z) the satisfaction of the agreement
+ of the other party contained in Section 4(d) of this Agreement,
+ provided that it shall not be a breach of this representation where
+ reliance is placed on clause (y) and the other party does not deliver
+ a form or document under Section 4(a)(iii) by reason of material
+ prejudice to its legal or commercial position.
+
+(b) Payee Tax Representations. For the purpose of Section 3(f) of this
+ Agreement, Party A and Party B will make the following
+ representations specified below, if any:- none
+
+ PART 3: Agreement to Deliver Documents
+ ------------------------------
+For the purpose of Section 4(a)(i) and (ii) of this Agreement, each party
+agrees to deliver the following documents:
+
+(a) Tax forms, documents or certificates to be delivered are:
+
+Party required to deliver Date by which to be
+ document Form/Document/Certificate delivered
+------------------------- --------------------------- ---------------------
+Party A and Party B Any form, document or Upon request
+ certificate as may be
+ requested pursuant to
+ Section 4(a)(iii) of this
+ Agreement.
+
+(b) Other documents to be delivered are:-
+
+ Covered by
+ Party required to Date by which to Section 3(d)
+ deliver document Form/Document/Certificate be delivered Representation
+------------------- --------------------------------- ----------------- ---------------
+
+Party B Statements to Certificateholders As soon as Yes
+ of Party B available.
+
+Party B Certified copies of all corporate Upon execution Yes
+ authorizations and any other and delivery of
+ documents with respect to the this Agreement
+ execution, delivery and
+ performance of this Agreement and
+ the Trust Agreement
+
+Party A and Certificate of authority and Upon execution Yes
+Party B specimen signatures of and delivery of
+ individuals executing this this Agreement
+ Agreement, and any Confirmations and thereafter
+ upon request of
+ the other party
+
+ PART 4: Miscellaneous
+ -------------
+(a) Address for Notices. For the purpose of Section 12(a) of this
+ Agreement:-
+
+ Address for notice or communications to Party A:
+
+ JPMorgan Chase Bank, N.A.
+ 270 Park Avenue
+ 6th Floor
+ New York, New York 10017
+ Attention: Andrew Taylor
+ Telephone No.: 212-834-3813
+ Facsimile No.: 212-834-6598
+
+ with a copy to:
+
+ JPMorgan Chase Bank, N.A.
+ 270 Park Avenue
+ 10th Floor
+ New York, New York 10017
+ Attention: Mark Levine
+ Telephone No.: 212-834-9346
+ Facsimile No.: 212-834-6593
+
+ Address for notice or communications to Party B:
+
+ J.P. Morgan Chase Commercial Mortgage Securities Trust 2006-LDP9
+ c/o Wells Fargo Bank, N.A.
+ 9062 Old Annapolis Road
+ Columbia, Maryland 21045
+ Attention: Corporate Trust Services-J.P. Morgan 2006-LDP9
+
+ with a copy to:
+
+ LaSalle Bank National Association
+ 135 South LaSalle Street, Suite 1625
+ Chicago, Illinois 60603
+ Attention: Global Securities and Trust Services, J.P. Morgan Chase
+ Commercial Mortgage Securities Trust 2006-LDP9
+ Telecopy No.: 312-904-1085
+
+ with a copy to:
+
+ J.P. Morgan Chase Commercial Mortgage Securities Corp.
+ 270 Park Avenue
+ New York, New York 10017
+ Attention: Charles Lee
+ Telephone No.: 212-834-9328
+ Facsimile No.: 212-834-6593
+
+(b) Process Agent. For the purpose of Section 13(c):
+
+ Party A appoints as its Process Agent: Not applicable.
+
+ Party B appoints as its Process Agent: Not applicable.
+
+(c) Offices. The provisions of Section 10(a) will apply to this Agreement.
+
+(d) Multibranch Party. For the purpose of Section 10 of this Agreement:-
+
+ Party A is not a Multibranch Party.
+
+ Party B is not a Multibranch Party.
+
+(e) Calculation Agent. The Calculation Agent is Party B.
+
+(f) Credit Support Document. Details of any Credit Support Document:-
+
+ Party B agrees that only the amounts with respect to the Class A-2SFL
+ Certificates on deposit in the Floating Rate Account (as such terms
+ are defined in the Trust Agreement) held by the Paying Agent under
+ the Trust Agreement (such amounts, the "Trust Estate") shall
+ constitute security for the obligations of Party B to Party A under
+ this Agreement.
+
+ Party A agrees that any ISDA Credit Support Annex entered into
+ between Party A and Party B pursuant to Part 1(k) hereof shall be a
+ Credit Support Document for purposes of this Agreement.
+
+(g) Credit Support Provider.
+
+ Credit Support Provider means in relation to Party A: Not
+ applicable.
+
+ Credit Support Provider means in relation to Party B: Not
+ applicable
+
+(h) Governing Law. This Agreement will be governed by and construed in
+ accordance with the laws of the State of New York (without reference
+ to its conflict of laws doctrine, other than Section 5-1401 of the
+ General Obligations Law).
+
+(i) Netting of Payments. All amounts payable on the same date, in the
+ same currency and in respect of the same Transaction shall be netted
+ in accordance with Section 2(c) of this Agreement. The election
+ contained in the last paragraph of Section 2(c) of this Agreement
+ shall not apply for the purposes of this Agreement.
+
+(j) "Affiliate" will have the meaning specified in Section 14 of this
+ Agreement.
+
+ PART 5: Other Provisions
+ ----------------
+(a) RESERVED.
+
+(b) Delivery of Confirmations. For each Transaction entered into
+ hereunder, Party A shall promptly send to Party B a Confirmation via
+ facsimile transmission. Party B agrees to respond to such
+ Confirmation within three (3) Local Business Days, either confirming
+ agreement thereto or requesting a correction of any error(s)
+ contained therein. Failure by Party A to send a Confirmation or of
+ Party B to respond within such period shall not affect the validity
+ or enforceability of such Transaction. Absent manifest error, there
+ shall be a presumption that the terms contained in such Confirmation
+ are the terms of the Transaction.
+
+(c) Recording of Conversations. Each party to this Agreement acknowledges
+ and agrees to the tape recording of conversations between trading and
+ marketing personnel of the parties to this Agreement whether by one
+ or other or both of the parties or their agents, and that any such
+ tape recordings may be submitted in evidence in any Proceedings
+ relating to the Agreement.
+
+(d) Furnishing Specified Information. Section 4(a)(iii) is hereby amended
+ by inserting "promptly upon the earlier of (i)" in lieu of the word
+ "upon" at the beginning thereof and inserting "or (ii) such party
+ learning that the form or document is required" before the word "any"
+ on the first line thereof.
+
+(e) Notice by Facsimile Transmission. Section 12(a) is hereby amended by
+ inserting the words "2(b)," between the word "Section" and the number
+ "5" and inserting the words "or 13(c)" between the number "6" and the
+ word "may" in the second line thereof.
+
+(f) Section 3(a) of this Agreement is amended by (i) deleting the word
+ "and" at the end of clause (iv); (ii) deleting the period at the end
+ of clause (v) and inserting therein "; and "; and (iii) by inserting
+ the following additional representation:
+
+ "(vi) Eligible Contract Participant. Each party represents to the
+ other party (which representation will be deemed to be
+ repeated by each party on each date on which a Transaction is
+ entered into) that it is an "eligible contract participant" as
+ defined in Section 1a(12) of the U.S. Commodity Exchange Act,
+ 7 U.S.C. Section 1a(12)."
+(g) Section 3 is revised so as to add the following Section (g) at the
+ end thereof:
+
+ "(g) Relationship Between Parties. Each party represents to the
+ other party and will be deemed to represent to the other party
+ on the date on which it enters into a Transaction that (absent
+ a written agreement between the parties that expressly imposes
+ affirmative obligations to the contrary for that
+ Transaction):-
+
+ (i) Non-Reliance. It is acting for its own account, and
+ it has made its own independent decisions to enter
+ into that Transaction and as to whether that
+ Transaction is appropriate or proper for it based
+ upon its own judgment and upon advice from such
+ advisors as it has deemed necessary. It is not
+ relying on any communication (written or oral) of
+ the other party as investment advice or as a
+ recommendation to enter into that Transaction; it
+ being understood that information and explanations
+ related to the terms and conditions of a Transaction
+ shall not be considered investment advice or a
+ recommendation to enter into that Transaction.
+ Further, such party has not received from the other
+ party any assurance or guarantee as to the expected
+ results of that Transaction.
+
+ (ii) Evaluation and Understanding. It is capable of
+ evaluating and understanding (on its own behalf or
+ through independent professional advice), and
+ understands and accepts, the terms, conditions and
+ risks of that Transaction. It is also capable of
+ assuming, and assumes, the financial and other risks
+ of that Transaction.
+
+ (iii) Status of Parties. The other party is not acting as
+ an agent, fiduciary or advisor for it in respect of
+ that Transaction."
+
+(h) Waiver of Right to Trial by Jury. EACH PARTY HEREBY IRREVOCABLY
+ WAIVES ANY AND ALL RIGHTS TO TRIAL BY JURY WITH RESPECT TO ANY LEGAL
+ PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT OR ANY
+ TRANSACTION CONTEMPLATED HEREBY.
+
+(i) Non Petition. Party A hereby agrees that it will not, prior to the
+ date which is one year and one day after all the Class A-2SFL
+ Certificates issued by Party B pursuant to the Trust Agreement have
+ been paid in full, acquiesce, petition or otherwise invoke or cause
+ Party B to invoke the process of any court or governmental authority
+ for the purpose of commencing or sustaining a case against Party B
+ under any federal or state bankruptcy, insolvency or similar law or
+ for the purpose of appointing a receiver, liquidator, assignee,
+ trustee, custodian, sequestrator or other similar official for Party
+ B or any substantial part of the property of Party B, or for the
+ purpose of ordering the winding up or liquidation of the affairs of
+ Party B. Nothing herein shall prevent Party A from participating in
+ any such proceeding once commenced.
+
+(j) Limited Recourse. The obligations of Party B under this Agreement are
+ limited recourse obligations of Party B, payable solely from amounts
+ remaining in the Trust Estate after payment in full of all amounts
+ due to the Class A-2SFL Certificates, subject to and in accordance
+ with the terms of the Trust Agreement. No recourse shall be had for
+ the payment of any amount owing in respect of this Agreement against
+ the trustee or paying agent, or any officer, member, director,
+ employee, security holder or incorporator thereof (each, an
+ "Affiliated Person") of Party B or its successors or assigns for any
+ amounts payable under this Agreement. Upon application of the Trust
+ Estate in accordance with the Trust Agreement, Party A shall not be
+ entitled to take any further steps against Party B to recover any
+ sums due but still unpaid hereunder or thereunder, and all claims by
+ Party A against Party B hereunder and/or under the Trust Agreement
+ shall be extinguished.
+
+(k) Limitation of Liability. It is expressly understood and agreed by
+ the parties hereto that (a) this Agreement is executed and delivered
+ by LaSalle Bank National Association ("LaSalle"), not individually or
+ personally but solely as the trustee, in the exercise of the powers
+ and authority conferred and vested in it, (b) the representations,
+ undertaking and agreements herein made on the part of the Trust are
+ made and intended not as personal representations, undertakings and
+ agreements by LaSalle but are made and intended for the purpose of
+ binding only the Trust, (c) nothing herein contained shall be
+ construed as creating any liability on LaSalle, individually or
+ personally (other than to act with the standard of care provided
+ under the Trust Agreement), to perform any covenant either expressed
+ or implied contained herein, all such liability, if any, being
+ expressly waived by the parties who are signatories to this Agreement
+ and by any person claiming by, through or under such parties and (d)
+ under no circumstances shall LaSalle be personally liable for the
+ payment of any indebtedness or expenses of the Trust or be liable for
+ the breach or failure of any obligation, representation, warranty or
+ covenant made or undertaken by the Trust under this Agreement.
+
+(l) Transfer. Section 7 of the Agreement is supplemented by the
+ additional requirement that any transfer or assignment by Party A of
+ its obligations under this Agreement (including any Confirmation),
+ and any amendments to this Agreement (including any Confirmation),
+ shall be subject to Rating Agency confirmation.
+
+(m) Compliance with Regulation AB.
+
+ (i) If at any time after the date hereof for so long as Party B is
+ required to file periodic reports under the Securities Exchange Act of
+ 1934, as amended (the "Exchange Act") with respect to the Certificates,
+ in the reasonable determination made in good faith of the Sponsors (as
+ defined in the Prospectus), the aggregate "significance percentage" (as
+ defined in Regulation AB ("Regulation AB") under the Securities Act of
+ 1933, as amended, and the Exchange Act) of all derivative instruments
+ (contemplated by Item 1115 of Regulation AB) provided by Party A and any
+ of its affiliates to Party B is at least 10% but less than 20%, Party A
+ shall, subject to subparagraph (iii) below, within five (5) Business
+ Days following request therefor by Party B provide the financial
+ information required under Item 1115(b)(1) of Regulation AB for Party A
+ (and for the group of affiliated entities, if applicable) (the "Item
+ 1115(b)(1) Information"). Any such Item 1115(b)(1) Information shall be
+ in a form suitable for conversion to the format required for filing by
+ the Depositor with the Securities and Exchange Commission via the
+ Electronic Data Gathering and Retrieval System (EDGAR).
+
+ (ii) If at any time after the date hereof for so long as Party B is
+ required to file periodic reports under the Exchange Act with respect to
+ the Certificates, in the reasonable determination made in good faith of
+ the Sponsors, the aggregate "significance percentage" of all derivative
+ instruments (contemplated by Item 1115 of Regulation AB) provided by
+ Party A and any of its affiliates to Party B is at least 20%, Party A
+ shall, subject to subparagraph (iii) below, within five (5) Business
+ Days following request therefor by Party B provide the financial
+ information required under Item 1115(b)(2) of Regulation AB for Party A
+ (and for the group of affiliated entities, if applicable) (the "Item
+ 1115(b)(2) Information", and together with the Item 1115(b)(1)
+ Information, the "Additional Information"). Any such Item 1115(b)(2)
+ Information shall be in a form suitable for conversion to the format
+ required for filing by the Depositor with the Securities and Exchange
+ Commission via the Electronic Data Gathering and Retrieval System
+ (EDGAR). In addition, any such Item 1115(b)(2) Information shall be
+ accompanied by any necessary auditor's consents.
+
+ (iii) If Party A is unable to provide any such Additional Information
+ if, as and when required, Party A shall, at its option, within ten (10)
+ Business Days following request therefor, (1) promptly post collateral
+ satisfactory to the Sponsors in an amount which is reasonably determined
+ in good faith to be sufficient to reduce the aggregate "significance
+ percentage" to (x) in the case of subparagraph (i) above, below 10%, and
+ (y) in the case of subparagraph (ii) above, provided Party A is able to
+ meet the requirements of subparagraph (i) above, below 20%, in each case
+ pursuant to a Credit Support Annex or similar agreement reasonably
+ satisfactory to the Sponsor, or (2) at the sole expense of Party A,
+ without any expense or liability to Party B, transfer or assign its
+ obligations under this Agreement to a substitute counterparty reasonably
+ acceptable to Party B that (x) is able to provide such Additional
+ Information if, as and when required, and (y) enters into an agreement
+ similar in form to this Agreement pursuant to which such substitute
+ counterparty agrees to provide the Additional Information if, as and
+ when required.
+
+ (iv) Party A's obligation to provide any such Additional Information
+ shall terminate beginning in any such year in which Party B's obligation
+ to file periodic reports under the Exchange Act has been terminated, and
+ shall continue to be terminated unless Party B notifies Party A that
+ Party B's obligations to file periodic reports under the Exchange Act
+ has resumed.
+
+Accepted and agreed:
+
+JPMORGAN CHASE BANK, N.A. J.P. MORGAN CHASE COMMERCIAL MORTGAGE
+ SECURITIES TRUST 2006-LDP9
+
+By: /s/ Andrew B. Taylor By: LaSalle Bank National Association,
+ ---------------------------------- not in its individual capacity, but
+ Name: Andrew B. Taylor solely as Trustee
+ Title: Vice President
+
+ By: /s/ Andy Streepey
+ ------------------------------------
+ Name: Andy Streepey
+ Title: Assistant Vice President
+
+ EXHIBIT A
+ ---------
+
+ PARAGRAPH 13 TO
+ CREDIT SUPPORT ANNEX
+
+ to the Schedule to the
+ Master Agreement
+
+ dated as of December 21, 2006
+
+ between
+
+-------------------------------- -------- --------------------------------------
+ JPMorgan Chase Bank, N.A. and J.P. Morgan Chase Commercial Mortgage
+ ("Morgan") Securities Trust 2006-LDP9
+ ("Counterparty")
+-------------------------------- -------- --------------------------------------
+
+Paragraph 13. Elections and Variables
+
+(a) Security Interest for "Obligations". The term "Obligations" as used
+ in this Annex includes no additional obligations with respect to
+ either party.
+
+(b) Credit Support Obligations.
+
+ (i) Delivery Amount, Return Amount and Credit Support Amount.
+
+ (A) "Delivery Amount" has the meaning specified in Paragraph
+ 3(a).
+
+ (B) "Return Amount" has the meaning specified in Paragraph
+ 3(b).
+
+ (C) "Credit Support Amount" shall not have the meaning
+ specified in Paragraph 3(b) and, instead, will have the
+ following meaning:
+
+ "Credit Support Amount" means, for any Valuation Date, (i) the
+ Secured Party's Modified Exposure for that Valuation Date
+ minus (ii) the Pledgor's Threshold; provided, however, that
+ the Credit Support Amount will be deemed to be zero whenever
+ the calculation of Credit Support Amount yields a number less
+ than zero.
+
+ (ii) Eligible Collateral. The following items will qualify as
+ "Eligible Collateral":
+
+----- --------------------------------------------------- --------- ------------
+ "Valuation
+ Morgan Percentage"
+----- --------------------------------------------------- --------- ------------
+(A) USD Cash X 100%
+----- --------------------------------------------------- --------- ------------
+(B) Negotiable debt obligations issued by the U.S. X 98.8%
+ Treasury Department having a remaining maturity
+ of one year or less from the Valuation Date
+----- --------------------------------------------------- --------- ------------
+(C) Negotiable debt obligations issued by the U.S. X 92%
+ Treasury Department having a remaining maturity
+ of more than one year but less than ten years
+ from the Valuation Date
+----- --------------------------------------------------- --------- ------------
+(D) Negotiable debt obligations issued by the U.S. X 84%
+ Treasury Department having a remaining maturity
+ of ten years or more from the Valuation Date
+
+----- --------------------------------------------------- --------- ------------
+(E) Agency Securities having a remaining maturity of X 98.4%
+ one year or less from the Valuation Date
+----- --------------------------------------------------- --------- ------------
+(F) Agency Securities having a remaining maturity of X 90%
+ more than one year but less than ten years from
+ the Valuation Date
+----- --------------------------------------------------- --------- ------------
+(G) Agency Securities having a remaining maturity of X 82%
+ ten years or more from the Valuation Date
+----- --------------------------------------------------- --------- ------------
+(H) USD denominated Commercial Paper rated A1/P1 by X 97%
+ S&P and Moody's respectively, that (a) settles
+ within DTC, (b) is not issued by Morgan or any of
+ its Affiliates and (c) has a remaining maturity
+ of 30 days or less from the Valuation Date
+----- --------------------------------------------------- --------- ------------
+
+ For purposes of the foregoing:
+
+ (1) "Agency Securities" means negotiable debt obligations which
+ are fully guaranteed as to both principal and interest by the
+ Federal National Mortgage Association, the Government National
+ Mortgage Association or the Federal Home Loan Mortgage
+ Corporation, but excluding (i) interest only and principal only
+ securities and (ii) Collateralized Mortgage Obligations, Real
+ Estate Mortgage Investment Conduits and similar derivative
+ securities.
+
+ (2) "DTC" shall mean The Depository Trust & Clearing
+ Corporation, or its successor.
+
+ (3) "Moody's" shall mean Moody's Investors Service, Inc., or its
+ successor.
+
+ (4) "S&P" shall mean Standard & Poor's Ratings Services, a
+ division of The McGraw-Hill Companies, Inc., or its successor.
+
+ (5) Eligible Collateral of the type described in Paragraph
+ 13(b)(ii)(H) may never constitute more than 20% of the total
+ Value of Posted Collateral.
+
+ (6) With respect to Posted Collateral consisting of Eligible
+ Collateral of the type described in Paragraph 13(b)(ii)(H), the
+ aggregate Value of such Posted Collateral issued by the same
+ issuer may never be greater than 33% of the aggregate Value of
+ all Posted Collateral consisting of Eligible Collateral of the
+ type described in Paragraph 13(b)(ii)(H).
+
+ (7) "Fitch" shall mean Fitch Ratings, Inc., or its successor.
+
+ (iii) Other Eligible Support. There shall be no "Other Eligible Support"
+ for purposes of this Annex, unless agreed in writing between the
+ parties.
+
+ (iv) Thresholds.
+
+ (D) "Independent Amount" means zero.
+
+ (E) "Threshold" shall not apply with respect to the
+ Counterparty and, with respect to Morgan, shall mean the
+ amounts determined on the basis of the lower of the
+ Credit Ratings set forth in the following table,
+ provided, however, that if (i) Morgan has no Credit
+ Rating, or (ii) an Event of Default has occurred and is
+ continuing with respect to Morgan, Morgan's Threshold
+ shall be U.S.$0:
+
+ ------------------------------ -------------------------
+ CREDIT RATING THRESHOLD
+ (S&P /Moody's/Fitch) Morgan
+
+ ------------------------------ -------------------------
+ S&P: A- or above Infinity
+
+ Moody's: A3 or above
+
+ Fitch: A- or above
+
+ ------------------------------ -------------------------
+ S&P: Below A- US$0
+
+ Moody's: Below A3
+
+ Fitch: Below A-
+
+ ------------------------------ -------------------------
+
+ As used herein:
+
+ "Credit Rating" means, with respect to (a) S&P, the rating
+ assigned by S&P to the short-term and long-term senior
+ unsecured deposits of Morgan, (b) Moody's, the rating assigned
+ by Moody's to the short-term and long-term senior unsecured
+ deposits of Morgan, or (c) Fitch, the rating assigned by Fitch
+ to the short-term and long-term senior unsecured deposits of
+ Morgan, as applicable.
+
+ (F) "Minimum Transfer Amount", with respect to a party on
+ any Valuation Date, means U.S. $250,000.
+
+ (G) Rounding. The Delivery Amount and the Return Amount will
+ be rounded up and down to the nearest integral multiple
+ of $100,000, respectively.
+
+(c) Valuation and Timing.
+
+ (i) "Valuation Agent" means Morgan.
+
+ (ii) "Valuation Date" means weekly on the last Local Business Day of
+ each week or more frequently if agreed in writing by the parties.
+
+ (iii) "Valuation Time" means the close of business in the city of the
+ Valuation Agent on the Valuation Date or date of calculation, as
+ applicable.
+
+ (iv) "Notification Time" means 12:00 p.m., New York time, on a Local
+ Business Day.
+
+(d) Conditions Precedent. With respect to Morgan, any Additional
+ Termination Event (if Morgan is the Affected Party with respect to
+ such Termination Event) will be a "Specified Condition".
+
+(e) Substitution.
+
+ (i) "Substitution Date" has the meaning specified in Paragraph 4(d)(ii).
+
+ (ii) Consent. Inapplicable.
+
+(f) Dispute Resolution.
+
+ (i) "Resolution Time" means 1:00 p.m., New York time, on the Local
+ Business Day following the date on which the notice is given that gives
+ rise to a dispute under Paragraph 5.
+
+ (ii) Value. For the purposes of Paragraphs 5(i)(C) and 5(ii), the Value
+ of Posted Credit Support other than Cash will be calculated as follows:
+
+ (A) with respect to any Eligible Collateral except Cash, the
+ sum of (I) (x) the mean of the high bid and low asked
+ prices quoted on such date by any principal market maker
+ for such Eligible Collateral chosen by the Disputing
+ Party, or (y) if no quotations are available from a
+ principal market maker for such date, the mean of such
+ high bid and low asked prices as of the first day prior
+ to such date on which such quotations were available,
+ plus (II) the accrued interest on such Eligible
+ Collateral (except to the extent Transferred to a party
+ pursuant to any applicable provision of this Agreement
+ or included in the applicable price referred to in (I)
+ of this clause (A)) as of such date; multiplied by the
+ applicable Valuation Percentage.
+
+ (iii) Alternative. The provisions of Paragraph 5 will apply.
+
+(g) Holding and Using Posted Collateral.
+
+ (i) Eligibility to Hold Posted Collateral; Custodians. Counterparty and
+ its Custodian will be entitled to hold Posted Collateral pursuant to
+ Paragraph 6(b); provided that the following conditions applicable to it
+ are satisfied:
+
+ (1) Counterparty is not a Defaulting Party and
+
+ (2) Posted Collateral may be held only in the following
+ jurisdictions: New York State.
+
+ Initially, the Custodian for Counterparty is: None
+
+ (ii) Use of Posted Collateral. The provisions of Paragraph 6(c)(i) will
+ not apply to Counterparty but the provisions of Paragraph 6(c)(ii) will
+ apply to the Counterparty.
+
+(h) Distributions and Interest Amount.
+
+ (i) Interest Rate. "Interest Rate" for any day means, the Federal Funds
+ Overnight Rate. For the purposes hereof, "Federal Funds Overnight Rate"
+ means, for any day, an interest rate per annum equal to the rate
+ published as the Federal Funds Effective Rate that appears on Telerate
+ Page 118 for such day.
+
+ (ii) Transfer of Interest Amount. The Transfer of the Interest Amount
+ will be made monthly on the second Local Business Day of each calendar
+ month.
+
+ (iii) Alternative to Interest Amount. The provisions of Paragraph
+ 6(d)(ii) will apply.
+
+(i) Additional Representation(s). Not Applicable.
+
+(j) Other Eligible Support and Other Posted Support.
+
+ (i) "Value" with respect to Other Eligible Support and Other Posted
+ Support means: Not Applicable.
+
+ (ii) "Transfer" with respect to Other Eligible Support and Other Posted
+ Support means: Not Applicable
+
+(k) Demands and Notices.
+
+All demands, specifications and notices under this Annex will be made
+pursuant to the Notices Section of this Agreement, unless otherwise
+specified here:
+
+Counterparty: Wells Fargo Bank, N.A.
+ 9062 Old Annapolis Road
+ Columbia, Maryland 21045
+ Attention: Corporate Trust Services-J.P.
+ Morgan 2006-LDP9
+
+Morgan: JPMorgan Chase Bank, National Association
+ Collateral Middle Office Americas 3/OPS2
+ 500 Stanton Christiana Road
+ Newark, Delaware 19713
+ Telephone No.: (302) 634-3191
+ Facsimile No.: (302) 634-3270
+ Email: collateral_services@jpmorgan.com
+
+(l) Other Provisions:
+
+ (i) Modification to Paragraph 1: The following subparagraph (b) is
+ substituted for subparagraph (b) of this Annex:
+
+ (b) Secured Party and Pledgor. All references in this Annex to the
+ "Secured Party" will be to Counterparty and all corresponding
+ references to the "Pledgor" will be to Morgan.
+
+ (ii) Modification to Paragraph 2: The following Paragraph 2 is
+ substituted for Paragraph 2 of this Annex:
+
+ Paragraph 2. Security Interest. The Pledgor hereby pledges
+ to the Secured Party, as security for its Obligations, and
+ grants to the Secured Party a first priority continuing
+ security interest in, lien on and right of Set-Off against all
+ Posted Collateral Transferred to or received by the Secured
+ Party hereunder. Upon the Transfer by the Secured Party to
+ the Pledgor of Posted Collateral, the security interest and
+ lien granted hereunder on that Posted Collateral will be
+ released immediately and, to the extent possible, without any
+ further action by either party.
+
+ (iii) Modification to Paragraph 9: The following first clause of
+ Paragraph 9 is substituted for the first clause of Paragraph 9 of this
+ Annex:
+
+ Paragraph 9. Representations. The Pledgor represents to the
+ Secured Party (which representations will be deemed to be repeated as
+ of each date on which it Transfers Eligible Collateral) that:
+
+ (iv) Modifications to Paragraph 12: The following definitions of
+ "Pledgor" and "Secured Party" are substituted for the definitions of
+ those terms contained in Paragraph 12 of this Annex:
+
+ "Pledgor" means Morgan, when that party (i) receives a demand for or
+ is required to Transfer Eligible Credit Support under Paragraph 3(a)
+ or (ii) has Transferred Eligible Credit Support under Paragraph 3(a).
+
+ "Secured Party" means Counterparty, when that party (i) makes a
+ demand for or is entitled to receive Eligible Credit Support under
+ Paragraph 3(a) or (ii) holds or is deemed to hold Posted Credit
+ Support.
+
+ (v) Addition to Paragraph 12: The following definitions of "Modified
+ Exposure" shall be added immediately after the definition of the term
+ "Minimum Transfer Amount" and immediately prior to the definition of the
+ term "Notification Time" in Paragraph 12 of this Annex:
+
+ "Modified Exposure" means, for any Valuation Date, an amount equal to
+ the sum of (i) the greater of USD 0 and the Secured Party's Exposure
+ for that Valuation Date and (ii) the sum of the Volatility Buffers
+ determined by the Valuation Agent with respect to each Transaction
+ subject to the Agreement. As used herein:
+
+ "Volatility Buffer" means, with respect to a Transaction, an amount
+ equal to the product of (a) the Factor applicable to the Transaction
+ and (b) the Notional Amount of the Transaction.
+
+ "Factor" means, with respect to a Transaction, a percentage dependent
+ on Morgan's Counterparty Rating by S&P or Moody's, as applicable, and
+ the original maturity of the Transaction and determined by the
+ Valuation Agent by reference to the following table:
+
+ ------------------- ------------- ------------- ------------
+ Counterparty Maturities Maturities Maturities
+ Rating up to 5 up to 10 up to 30
+ (S&P/Moody's) years (%) years (%) years (%)
+ ------------------- ------------- ------------- ------------
+ A-2/P-2 3.25 4.00 4.75
+ ------------------- ------------- ------------- ------------
+ ------------------- ------------- ------------- ------------
+ A-3/P-3 4.00 5.00 6.25
+ ------------------- ------------- ------------- ------------
+ ------------------- ------------- ------------- ------------
+ BB+ or lower/Ba1 4.50 6.75 7.50
+ or lower
+ ------------------- ------------- ------------- ------------
+
+ Modification to Paragraph 12: Clause "(B)" of the definition of
+ "Value" will be substituted to read in its entirety as follows:
+
+ "(B) a security, the bid price obtained by the Valuation Agent from
+ one of the Pricing Sources multiplied by the applicable Valuation
+ Percentage, if any;"
+
+ (vi) Addition to Paragraph 12: The following definition of "Pricing
+ Sources" shall be added immediately after the definition of the term
+ "Posted Credit Support" and immediately prior to the definition of the
+ term "Recalculation Date" in Paragraph 12 of this Annex:
+
+ "Pricing Sources" means the sources of financial information commonly
+ known as Bloomberg, Bridge Information Services, Data Resources Inc.,
+ Interactive Data Services, International Securities Market
+ Association, Merrill Lynch Securities Pricing Service, Muller Data
+ Corporation, Reuters, Wood Gundy, Trepp Pricing, JJ Kenny, S&P and
+ Telerate.
+
+Accepted and Agreed:
+
+JPMORGAN CHASE BANK, N.A.
+
+By: /s/ Andrew B. Taylor
+ ------------------------------------------
+ Name: Andrew B. Taylor
+ Title: Vice President
+
+J.P. MORGAN CHASE COMMERCIAL
+MORTGAGE SECURITIES TRUST 2006-LDP9
+
+By: LaSalle Bank National Association, not in its individual
+ capacity, but solely as Trustee
+
+By: /s/ Andy Streepey
+ ------------------------------------------
+ Name: Andy Streepey
+ Title: Assistant Vice President

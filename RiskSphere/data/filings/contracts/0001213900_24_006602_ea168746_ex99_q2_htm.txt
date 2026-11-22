@@ -1,0 +1,1637 @@
+EX-99.(Q)(2)
+ 6
+ ea168746_ex99-q2.htm
+ EXHIBIT (Q)(2)
+
+ Exhibit (q)(2) 
+
+ Seyfarth
+Shaw LLP 
+
+ 975 F Street, N.W. 
+
+ Washington, DC 20004 
+
+ (202) 463-2400
+
+ fax (202) 828-5393
+
+ www.seyfarth.com
+
+ January 22, 2024
+
+ Amplify Investments LLC
+
+ 3333 Warrenville Road, Sute 350
+
+ Lisle, IL 60532
+
+ Re: Opinions with Respect to the Execution of Derivatives
+
+ and Purchase of Cannabis Company Securities 
+
+ Ladies and Gentlemen:
+
+ Amplify Investments
+LLC (the “Advisor”) acts as investment advisor to the Amplify Seymour Cannabis ETF, a series of Amplify ETF Trust, a business
+trust established and operating under the laws of the Commonwealth of Massachusetts (“Seymour Cannabis”). The Advisor also
+proposes to acquire certain exchange-traded funds currently advised by ETF Managers Group LLC, each of which will become a series of Amplify
+ETF Trust, including ETFMG Alternative Harvest ETF, to be renamed Amplify Alternative Harvest ETF (“Alternative Harvest”)
+and ETFMG U.S. Alternative Harvest ETF, to be renamed Amplify U.S. Alternative Harvest ETF (“U.S. Alternative Harvest” and
+collectively with Seymour Cannabis and Alternative Harvest, the “Funds” and each a “Fund”). The Funds previously
+retained and continue to engage Seyfarth Shaw LLP for purposes of rendering opinions for the benefit of the Funds and its beneficial owners,
+or beneficiaries and we have reviewed and updated this letter. The Advisor has asked us whether (a) the Funds’ investment in securities
+issued by Cannabis Companies (as defined below) and (b) the Funds’ execution of certain derivatives would violate Applicable Federal
+Law (as defined on the next page) and whether the Funds and their respective beneficial owners would incur liability arising out of any
+such violation. These derivatives, as defined below, consist of one or more total return swaps (each, as defined below, a “TRS”),
+each referencing, upon execution in its reference portfolio, either a single TRS Company (also as defined below) or between two and nine
+TRS Companies, with the reference portfolio being actively managed by the Advisor or outside investment advisors.
+
+ Based
+upon our analysis and for purposes of this letter the only applicable federal laws are (i) the Controlled Substances Act, 21 U.S.C. §
+801, et seq. (the “CSA”), (ii) the Money Laundering Control Act, 18 U.S.C. § 1956, et seq., as amended (the “MCA”),
+(iii)(a) the Securities Exchange Act of 1934, 15 U.S.C. § 78a et seq., as amended (“1934 Act”) or (b) the Commodity
+Exchange Act, 7 U.S.C. § 1 et seq., as amended (“CEA”). 1 For purposes
+of this letter, the foregoing statutes referenced in (i), (ii), (iii)(a) or (b), collectively with the regulations promulgated thereunder,
+are the “Applicable Federal Law.”
+
+ 1 We acknowledge
+that the 1934 Act and the CEA were amended by the Dodd-Frank Wall Street Reform and Consumer Protection Act (Pub. L. 111-203, H.R. 4173,124
+Stat. 1376 (2010) (“Dodd-Frank”)). For purposes of this letter and our opinions insofar as financial derivatives are concerned,
+the most important title within Dodd-Frank is Title VII, The Wall Street Transparency and Accountability Act (generally effective July
+16, 2010, Public Law 111-203, 124 Stat. 1376), which amends the CEA (by, inter
+alia , defining “swap,” 7 U.S.C. 1a(47)(E)(i)) and the 1934 Act and in doing so provides clarity with respect to
+the manner in which the derivatives which are the subject of this letter are regulated in the U.S.
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 2 
+
+ As described
+more fully below, our opinion is that the Funds and their respective beneficial owners will not violate the CSA and MCA for the Funds’
+purchase of securities issued by companies which participate in the cannabis industry in full compliance with state law. We are also of
+the opinion that, assuming full compliance with state law by each TRS Company referenced in a single total return swap (“TRS”)
+(for the reasons stated in this letter on page 19, we do not focus on state law and as we state in footnote 32, we are aware of no federal
+investigation of any such Cannabis Company or any TRS Company): (i) the TRS Documentation (as defined below) should create legal, valid
+and binding obligations under New York law with respect to the Funds and their respective counterparties to a TRS; (ii) the TRS should
+not be rendered unenforceable due to a violation of the CSA; (iii) the Funds should not have ownership, pursuant to SEC Rule 13d-3 promulgated
+under the 1934 Act, with respect to the TRS Company; and (iv) th e Funds and each of their respective
+beneficial owners should incur no regulatory exposure or regulatory liability solely because a court of competent jurisdiction in the
+future holds that the TRS violates Applicable Federal Law and, in the event that the federal government declares at some future time that
+the TRS violates the CSA, the Funds and each of their TRS counterparties can terminate the TRS on a no-fault basis and use mid- market
+values calculated pursuant Section 6(e) of the ISDA Master Agreement (assuming that each of the Funds executes TRS’s in connection
+with fully-executed, market-standard ISDA Master Agreements with reputable counterparties). These opinions are being provided for inclusion
+with the Funds’ respective Registration Statements filed on Form N-1A (the “Registration Statement”). Our opinions are
+subject to the assumptions, qualifications and limitations set forth herein as of the date of this opinion letter.
+
+ Our opinions
+are expressed herein solely with respect to Applicable Federal Law and are based on these laws as in effect on the date hereof and not
+the law of any other jurisdiction. Our opinions expressed below are based upon Applicable Federal Law and rely upon the law, as amended
+and now in effect, and in all respects are subject to and may be limited by future legislation, regulations, guidance, formal and informal
+interpretations and/or case law. The opinions expressed herein represent our reasonable professional judgment as to the matters of law
+addressed herein, based upon the facts presented or assumed, and are not a guarantee that a court
+or regulator will reach any particular result.
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 3 
+
+ In connection
+with this opinion letter, we have examined and relied upon the originals, or copies certified or otherwise identified to our satisfaction,
+of such records, documents, certificates, agreements and other instruments as in our judgment are necessary or appropriate to enable us
+to render the opinion expressed below. As to certain factual matters, we have relied upon certificates of officers of the Advisor and
+have not sought to independently verify such matters. The Advisor previously supplied to us lists of companies in which the Funds may
+invest and, in updating our legal conclusions in this letter, we have not been provided with an updated list of companies for the Funds’
+investments. We continue to assume that the companies on lists previously provided to us continue to be in full compliance with applicable
+state law for purposes of reaching conclusions and rendering opinions concerning Applicable Federal Law in this letter; we assume that
+each Fund will invest in securities and that each Fund will execute one or more TRS’s in full compliance with each Fund’s
+publicly disclosed investment guidelines.
+
+ We have examined
+certain publicly available information regarding the companies in which the Advisor informed us the Funds intend to invest, or reference
+in a TRS. We have examined what has been made available to us with respect to the various business relationships/interests of the target
+investments to determine if their businesses violate Applicable Federal Law by assessing if they are engaged in the growth, cultivation
+and/or sale of cannabis in the United States. In this regard, we have solely reviewed publicly available filings available through the
+Securities and Exchange Commission (“SEC”). The following opinions solely rely upon the review of the information available
+in the public resources noted above in this paragraph. We have not reviewed the target investments with respect to their compliance with
+the laws of any country or other jurisdiction except as noted above in this paragraph.
+
+ This
+opinion letter is limited to the matters stated herein, and no opinion is implied or may be inferred beyond the matters expressly stated.
+This opinion letter is given as of the date hereof, and we expressly disclaim any obligation to update or supplement our opinions contained
+herein to reflect any facts or circumstances that may hereafter come to our attention or any changes in laws or regulations or reported
+decisions that may hereafter occur or be published. Unless otherwise stated, when we use the term “invest” (or derivations
+thereof, e.g. , “investment”) in this letter, we mean
+the execution of a security and either (i) a “security-based swap”(as such term is defined in Section 3(a)(68) of the 1934
+Act); or (ii) a “swap,” as such term is defined in Section 1a(47) of the CEA. 2 
+
+ We express
+no opinion as to the law of any other jurisdiction that may be applicable to the subject matter hereof. We are not rendering any opinion
+as to compliance with any federal, state, or local law, rule
+or regulation relating to securities, or to the sale or issuance thereof except with respect to the TRS if characterized as a security-based
+swap.
+
+ 2 In this letter
+we explain the differences between a security-based swap and a swap and discuss how each financial product is regulated by the SEC and
+the Commodity Futures Trading Commission (“CFTC”) as a basis for our TRS-related opinions.
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 4 
+
+ FACTUAL BACKGROUND FOR
+OPINION
+
+ Description of the Principal
+Investment Strategy 
+
+of Amplify Seymour Cannabis ETF 
+
+ Seymour Cannabis’
+principal investment strategy, as previously stated in Seymour Cannabis’ Registration Statement or as otherwise represented to us
+by the Advisor, is as follows:
+
+ · Seymour Cannabis seeks to invest 80% of its net assets in exchange traded equity securities of companies
+that derive at least 50% of their net revenue from the cannabis and hemp ecosystem (“Cannabis Companies”). Seymour Cannabis
+may invest in one or more actively-managed TRS’s, each of which has economic characteristics similar to such securities. 
+
+ · We understand an actively managed TRS to mean, as represented to us by the Advisor, a bilateral, over-the-counter
+(“OTC”) contract which derives its value, as a financial derivative, from its referencing a portfolio of Cannabis Company
+securities. It is anticipated that the reference portfolio (“reference portfolio” or “Reference Assets”) will
+(a) consist of between 2 and 9 equities (in a “Share Swap Transaction”) consisting of a basket of equities (in a “Basket
+Swap Transaction”); or (b) reference an index of between 2 and 9 equities, of Cannabis Companies. Seymour Cannabis will make a fixed
+payment and be exposed to the depreciation of its reference portfolio in exchange for payments by the counterparty to Seymour Cannabis,
+a total return payor, representing the appreciation, and all distributions by, each Cannabis Company whose equity is referenced in the
+portfolio. 
+
+ · The TRS will be evidenced by TRS Documentation, which provides, inter
+alia , for the dynamic, or active management of the reference portfolio so that the Number of Shares in respect of any Share
+Swap Transaction, the Number of Index Units in respect of any Index Swap Transaction and the Number of Basket Units in respect of any
+Basket Swap Transaction may be increased or decreased from time to time (the Advisor represents to us that this will be on a daily basis)
+by agreement of Seymour Cannabis and its counterparty on any Adjustment Effective Date as provided in a relevant Daily Activity Supplement
+(as such terms are defined in the Master Confirmation Agreement within the TRS Documentation. Each increase or decrease in the Number
+of Shares, Number of Index Units or Number of Basket Units (collectively, as relevant, the “Number of Reference Assets”) is
+referred to in the TRS Documentation as an “Increase Tranche” or a “Decrease Tranche”, respectively (either, a
+“Tranche”). Seymour
+Cannabis’ counterparty as Calculation Agent and Valuation Agent will mark to market the reference portfolio on a daily basis.
+Collateral supporting Seymour Cannabis and counterparty obligations will be subject to a bilateral Credit Support Annex
+contemplating margin calls by either party, with the assets of Seymour Cannabis being held by Seymour Cannabis’ custodian, U.S. Bank
+in compliance with the Investment Company Act of 1940, codified at 15 U.S.C. §§ 80a-1–80a-64 et. seq. (the
+“1940 Act”) and we assume for purposes of this letter that Seymour Cannabis will be in compliance with the custody rule
+and other rules promulgated by the SEC under the 1940 Act and that act. The TRS Documentation contemplates that the reference
+portfolio of the TRS will be subject to frequent (as often as daily) adjustment in response to, for example, redemptions or
+purchases by the swap counterparty, at the direction of the Advisor (and any permitted sub-advisors), and up to fifty percent (50%)
+of the notional value of the reference portfolio. The TRS will be cash settled at expiry. 
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 5 
+
+ · Seymour Cannabis may also invest in securities of pharmaceutical companies that have the necessary permits
+and licenses to engage in lawful medical research using cannabinoids to produce government approved drugs, or to otherwise produce, market
+or distribute such drugs. Seymour Cannabis does not directly invest in any “medical marijuana” companies in the United States,
+i.e., companies that use the cannabis leaf, as opposed to specific extracts in pharmaceutical form, to alleviate the symptoms of injury
+or illness. 
+
+ · The Cannabis Companies that Seymour Cannabis seeks to invest in include those that are exchange traded
+and legally participate in activities supporting the cannabis industry in one of 3 classifications: 
+
+ · Cannabis/Hemp Plant (Pharmaceuticals/Biotechnology, Cultivation & Retail, Hemp Products and Cannabis-Infused
+Products) 
+
+ · Support (Agricultural Technology, Real Estate and Commercial Services) 
+
+ · Ancillary (Consumption Devices/Mechanisms, Investing & Finance, Technology & Media and Other
+Ancillary) 
+
+ · These
+ Cannabis Companies may relate to the “cannabis” or “marijuana” (terms
+ that are used interchangeably) side of the industry, or the “hemp” side of the
+ industry. 3 
+
+ 3 Botanically,
+hemp and marijuana/cannabis come from the same species of plant, Cannabis
+sativa , but from different varieties or “cultivars” that have been bred for different uses. In fact, hemp and
+marijuana/cannabis are genetically distinct forms of the plant that differ by their use, chemical makeup, and differing cultivation practices.
+While “marijuana/cannabis” generally refers to the psychotropic drug that is high in delta-9-tetrahydrocannabinol (“THC”)
+content, growers cultivate low-THC hemp for use in the production of products, including foods and beverages, personal care products,
+nutritional supplements, fabrics, textiles, paper, construction materials, and other manufactured goods. Since December 2018, hemp is
+not specifically illegal under the CSA, though it remains subject to considerable regulation and may be illegal under state law in some
+states.
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 6 
+
+ The Advisor
+has further represented to us that the following principles that are reflected in Seymour Cannabis’ Registration Statement’s
+Statement of Additional Information will be adhered to in selecting investments for Seymour Cannabis’:
+
+ · Seymour Cannabis’ will not invest in any Cannabis Company that grows, produces, distributes,
+or sells cannabis or products derived from cannabis in a country, state, province, locality or other political subdivision where this
+activity is illegal under applicable law. 
+
+ · Cannabis Companies do not include companies that grow, produce, distribute, or sell cannabis
+or products derived from cannabis inside the U.S. This is the case regardless of whether such a company is listed on a U.S. exchange or
+an exchange in a country where cannabis is legal. 
+
+ · Cannabis Companies do not include companies that grow, produce, distribute, or sell cannabis
+or products derived from cannabis both in a country where its activities are entirely legal and in the U.S. where its activities
+are legal under state and local law but not under U.S. federal law. 
+
+ · Cannabis Companies only supply products and/or perform activities that are legal under applicable national and local laws, including
+U.S. federal, state, and local laws. Cannabis Companies may, however, supply such products and perform such activities in the U.S. to
+companies that grow, produce, distribute, or sell cannabis or products derived from cannabis in a manner that is legal under state and
+local law but not under U.S. federal law. 
+
+ · Cannabis Companies with a presence in the U.S. may engage in pharmaceutical activities and/or grow,
+ produce, distribute, or sell hemp or products derived from hemp but only if such activities are properly licensed and legal
+ under applicable U.S. federal, state, and local laws. 
+
+ · If, after acquiring a Cannabis Company’s securities, the Advisor identifies or becomes aware that
+holding a particular Cannabis Company’s securities would violate Applicable Federal Law, Seymour Cannabis will promptly sell that
+position. 
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 7 
+
+ Description of the Principal
+Investment Strategy
+
+ of ETFMG U.S. Alternative Harvest
+ETF (as defined on the first page, 
+
+“U.S. Alternative Harvest”) 
+
+ The principal
+investment strategy of U.S. Alternative Harvest, as presently stated in its Registration Statement or as otherwise represented to us by
+the Advisor, is as follows:
+
+ Overview 
+
+ · U.S. Alternative Harvest is an actively managed investment vehicle which will achieve its investment
+objectives through the purchase of equity securities and the execution of TRS’s, as follows: 
+
+ · Equity Securities . At least eighty percent (80%) of the net
+assets of U.S. Alternative Harvest, plus permitted borrowing for investment purposes, will be invested in equity securities of companies
+which derive at least fifty percent (50%) of their net revenues from the Cannabis Business (a term which we define in the bulletpoint
+underneath this paragraph) in the United States, provided that U.S. Alternative Harvest will not invest directly in any Cannabis Company
+that grows, produces, distributes or sells cannabis or products derived from cannabis in a country, state, province, locality or other
+political subdivision where this activity is illegal under applicable law. 
+
+ o “Cannabis Business” is defined to include: (i) cultivating, producing, marketing or distributing cannabis, including industrial
+hemp (“Cannabis”); (ii) producing, marketing or distributing products containing Cannabis-derived products; (iii) producing,
+processing, marketing, transporting or distributing prescription drugs, supplements, or food products that include Cannabis-derived products;
+or (iv) providing products or services designed for, or used by, companies in the Cannabis industry, including technology, real estate
+or financial services. 
+
+ o The equity securities to be purchased by U.S. Alternative Harvest will be the equity of Cannabis Companies
+which comprise the components of the Prime US Alternative Harvest Index (the “Index”) or other Cannabis Companies operating
+in the Cannabis Business, but not included in the Index. (As we state in the first footnote of this letter, we use the terms “Cannabis
+Company,” “Cannabis Business” and “Index” throughout this letter, with respect to the Funds, and intend
+for the definitions of these terms on this page and in footnote 1 to apply with respect to the investment strategies of the
+Funds as described herein.) 
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 8 
+
+ · Total Return Swaps . U.S. Alternative Harvest will also execute
+and settle a financial derivative, commonly referred to as a total return swap (and in this letter we refer to it as “the TRS”)
+having economic characteristics similar to the Funds’ investment in the securities of Cannabis Companies. U.S. Alternative Harvest
+will execute one or more TRS’s for the purpose of achieving the approximate economic equivalent of the purchase of equity securities
+of Cannabis Companies. 
+
+ o As described in greater detail in the pages that follow, for
+purposes of this letter and for the legal opinions within it, in the case of the TRS’s executed by U.S. Alternative Harvest, we
+understand that each such TRS will each reference and provide exposure to a single Cannabis Company, and such Cannabis Company is, we
+assume for purposes of this letter, in full compliance with applicable laws of the state and local jurisdictions within which such Cannabis
+Company operates. 
+
+ · The investment mandate of U.S. Alternative Harvest therefore contemplates the purchase of the equity
+of Cannabis Companies and the execution of TRS’s in a manner that results in exposure to Cannabis Companies. 
+
+ · Subject to the oversight of the Board of Trustees for the Trust, the Advisor has discretion to manage on an intra-day and daily basis
+the portfolio of securities and multiple TRS’s, each referencing a different Cannabis Company, within the investment objectives
+and policies of U.S. Alternative Harvest. 
+
+ Total Return Swaps 
+
+ · Total return swaps, including the TRS’s, are financial instruments in the form of bilateral contracts
+executed OTC by parties, privately negotiated derivatives market. U.S. Alternative Harvest contemplates that the OTC derivatives documentation,
+including confirmations for each TRS, will evidence a portfolio of TRS’s; each TRS in that portfolio will reference a single Cannabis
+Entity and each TRS may be subject to frequent (as often as daily) adjustment in response to, for example, redemptions or purchases by
+U.S. Alternative Harvest, at the direction of the Advisor (and any permitted sub-advisors). Each TRS will mature and settle at maturity
+on a cash basis only. 
+
+ · Generally, investment vehicles regulated by the 1940 Act may enter into one or more OTC swaps with respect to one security, or more
+than one security, currency, commodity or futures contract, or a single company (or “name”), basket of companies of assets,
+an index of companies or an index of assets. 
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 9 
+
+ · In a total return swap such as the TRS, the total return payee, or buyer receives from the total return
+payor, for a fee, a periodic, variable return equal to the total return of a specified entity, securities index, basket of multiple securities,
+or other reference obligation with respect to the swap, over a specified period of time. In this way, one party, the total return payee
+or receiver, is to receive a value representing the appreciation of whatever is referenced in the swap (an equity, basket of equities
+or index) and so that derivative derives its value from the referenced
+asset(s). The party receiving a payment representing the appreciation of the referenced asset(s) in return pays its counterparty, typically
+a swap dealer, either a fixed, or sometimes variable stream of payments (typically based on short term interest rates coupled with a spread
+to account for the credit profile of the total return payee) and a separate payment or payments representing the de preciation
+of the referenced asset or assets. 
+
+ · For purposes of this opinion letter and notwithstanding any other provision in it, we assume that U.S.
+Alternative Harvest will enter into a portfolio of TRS’s and with the background provided here, we will evaluate whether each such
+TRS is an enforceable, bilateral contract under the law we have defined near the top of the second page as “Applicable Federal Law.” 
+
+ · The TRS will be evidenced by TRS Documentation, which provides, inter
+alia , for the dynamic, or active management of the reference portfolio so that the Number of Shares (capitalized TRS terms
+are as defined in the TRS Documentation) in respect of any Share Swap Transaction, the Number of Index Units in respect of any Index Swap
+Transaction and the Number of Basket Units in respect of any Basket Swap Transaction may be increased or decreased from time to time (the
+Advisor represents to us that this may be as frequently as on a daily basis) by agreement of U.S. Alternative Harvest and its counterparty
+on any Adjustment Effective Date, as provided in a relevant Daily Activity Supplement. Each increase or decrease in the Number of Shares,
+Number of Index Units or Number of Basket Units (collectively, as relevant, the “Number of Reference Assets”) is referred
+to in the TRS Documentation as an “Increase Tranche” or a “Decrease Tranche”, respectively (either, a “Tranche”).
+The TRS counterparty to U.S. Alternative Harvest, as Calculation Agent (and Valuation Agent with respect to collateral supporting the
+TRS) will mark-to-market the reference portfolio on a daily basis. Collateral supporting obligations will be subject to a bilateral Credit
+Support Annex contemplating margin calls by either party, with the assets of U.S. Alternative Harvest being held by the custodian of U.S.
+Alternative Harvest, U.S. Bank, in compliance with the 1940 Act. We assume for purposes of this letter that U.S. Alternative Harvest is
+and will be in compliance with the 1940 Act rules, including those regarding custody, promulgated by the SEC under the 1940 Act, and the
+1940 Act. U.S. Alternative Harvest contemplates that each TRS may be subject to frequent (as often as daily) adjustment in response to,
+for example, redemptions or purchases by U.S. Alternative Harvest, at the direction of the Advisor (and any permitted sub-advisors). Each
+TRS will be cash settled at expiry. 
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 10 
+
+ Description of the Principal
+Investment Strategy
+
+ of ETFMG Alternative Harvest
+ETF (as defined on the first page, 
+
+“Alternative Harvest”) 
+
+ · Alternative Harvest uses a replication strategy. A replication strategy is an indexing strategy that
+involves investing in the securities of the Index in approximately the same proportions as in the Index. However, Alternative Harvest
+may utilize a representative sampling strategy with respect to the Index when a replication strategy might be detrimental to shareholders,
+such as when there are practical difficulties or substantial costs involved in compiling a portfolio of equity securities to follow the
+Index, in instances in which a security in the Index becomes temporarily illiquid, unavailable or less liquid, or as a result of legal
+restrictions or limitations (such as tax diversification requirements) that apply to Alternative Harvest but not the Index. 
+
+ · The Index tracks the performance of the common stock (or corresponding American Depositary Receipts
+(“ADRs”) or Global Depositary Receipts (“GDRs”)) of companies across the globe, including U.S. companies, that (i)
+are Cannabis Companies; (ii) engage in the creation, marketing, transportation or distribution of prescription drugs, supplements or food
+products that utilize cannabinoids as an ingredient (“Pharmaceutical Companies”); (iii) trade tobacco or produce tobacco products,
+such as cigarettes, cigars or electronic cigarettes; (iv) produce cigarette and cigar components, such as cigarette paper and filters;
+(v) engage in the creation, production and distribution of fertilizers, plant foods, pesticides or growing equipment to be used in the
+cultivation of cannabis or tobacco; or (vi) provide other products or services designed for, or used by, companies in the Cannabis industry,
+including technology, real estate or financial services. 
+
+ · “Applicable national and local laws” refers to (i) controlled substance laws and regulations or (ii) food, drug, and cosmetics,
+or equivalent laws and regulations under whose jurisdiction the company is subject that govern the cultivation, production or distribution,
+for medical or non-medical purposes, of marijuana in a particular country. “Hemp” refers to cannabis plants with a tetrahydrocannabinol
+(“THC”) concentration of not more than 0.3% on a dry weight basis, as well as derivatives thereof, whereas “marijuana”
+refers to all other cannabis plants and derivatives thereof. 
+
+ · Cannabis Companies may include companies that grow or distribute marijuana inside of the United States
+and companies that have a business interest in the hemp and hemp-based products markets within the United States. Alternative Harvest
+will directly invest in companies that are engaged exclusively in legal activities under applicable national
+and local laws, including U.S. federal and state laws. Alternative Harvest will not hold direct ownership in any companies that engage
+in cannabis-related business unless permitted by national and local laws of the relevant jurisdiction, including United States federal
+and state laws. Because Alternative Harvest only holds securities of companies that are currently engaged exclusively in legal activities
+under applicable national and local laws, Alternative Harvest will not hold equity securities of any company that engages in the cultivation,
+production or distribution of marijuana or products derived from marijuana for medical or non-medical purposes in a particular country,
+including the United States, unless and until such time as the cultivation, production or distribution of medical or non-medical marijuana,
+as applicable, becomes legal under all local and national laws governing the company in such country. 
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 11 
+
+ · The Pharmaceutical Companies produce, market or distribute drug products that use cannabinoids to create
+government approved drugs. Cannabinoids are extracts from the cannabis plant and include tetrahydrocannabinol, cannabidiol (“CBD”),
+dronabinol and nabilone. All Pharmaceutical Companies would have the necessary permits and licenses to engage in lawful medical research
+using cannabinoids to produce government approved drugs, or to otherwise produce, market or distribute such drugs. This activity is distinct
+from the “medical marijuana” business, which refers to the use of the cannabis leaf, as opposed to specific extracts in pharmaceutical
+form, to alleviate the symptoms of injury or illness. 
+
+ · Alternative Harvest will invest at least 80% of its total assets, exclusive of collateral held from
+securities lending, in the component securities of the Index and in ADRs and GDRs based on the component securities in the Index. Alternative
+Harvest may invest up to 20% of its total assets in securities that are not in the Index to the extent that Alternative Harvest’s investment
+adviser believes that such investments should help Alternative Harvest’s overall portfolio track the Index. Alternative Harvest may invest
+in other investment companies that principally invest, either directly or through derivatives, in component securities of the Index. Alternative
+Harvest may invest a significant portion of its assets in other exchange-traded funds (“ETFs”) that invest substantially all
+of their assets in equity securities of component securities of the Index and derivatives or other instruments that have economic characteristics
+similar to such securities. While Alternative Harvest does not intend to directly invest in swaps, certain ETFs in which it invests may
+utilize total return swaps to obtain exposure to the price movements of securities of Index component companies without owning or taking
+physical custody of such security. 
+
+ · Alternative Harvest may lend its portfolio securities to brokers, dealers, and other financial organizations.
+These loans, if and when made, may not exceed 33 1/3% of the total asset value of Alternative Harvest (including the loan collateral).
+By lending its securities, Alternative Harvest may increase its income by receiving payments from the borrower. 
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 12 
+
+ · Industry Concentration Policy: Alternative Harvest will concentrate its investments ( i.e .,
+hold more than 25% of its net assets) in a particular industry or group of related industries to approximately the same extent that the
+Index is concentrated. As of January 15, 2021, the Index was concentrated in the Pharmaceuticals, Biotechnology and Life Sciences group
+of industries. 
+
+ Detailed information on exchange traded securities utilized
+by the Funds
+
+ The Funds will
+directly invest in companies that list their securities on exchanges that require compliance with all laws, rules and regulations applicable
+to their business, including U.S. federal laws; exchanges serve an important gatekeeper role in the securities industry. The current exchanges
+identified by the Funds that meet these requirements are the New York Stock Exchange (“NYSE”) NYSE American, Nasdaq Stock
+Market (“Nasdaq”), TSX Exchange, (“TSX”), TSX Venture Exchange (“TSX Venture”), Australian Securities
+Exchange (“ASX”) and Tel Aviv Stock Exchange (“TASE”).
+
+ The NYSE and
+NASDAQ are national securities exchanges that are registered with the SEC under Section 6 of the Securities Exchange Act of 1934. Before
+a company’s securities can trade on a U.S. exchange, the company must register that class of securities with the SEC under Section
+12(b) of the Exchange Act.
+
+ Further information
+on each of these exchanges is as follows:
+
+ NYSE and NYSE American 
+
+ The NYSE is
+a worldwide market that lists roughly 70% of U.S. securities. The NYSE acquired the American Stock Exchange in 2008 (now known as NYSE
+American or NYSE MKT). The NYSE MKT is open to listing companies involved in the cannabis industry who are involved in biotech (22nd Century
+Group: XXII; AbbVie: ABBV); investment in the industry outside of United States (Canopy Growth Corp.: CGC; Compass Diversified Holdings:
+CODI; ETFMG Alternative Harvest: MJ); the agricultural sector (Level Brands, Inc.: LEVB; Scott’s Miracle Grow Co.: SMG); and the
+real estate sector (Innovative Industrial Properties, Inc.: IIPR). United States based companies that “touch the plant” ( i.e .,
+those that grow or distribute cannabis) are not eligible to list at this time. Canadian and other non-U.S. companies whose cannabis related
+activities are legal in their home jurisdiction are eligible to list if they meet the exchange’s listing requirements, such as number
+of shareholders, earnings and stock price. The NYSE governs listing requirements and continued listing requirements. Listing issuers must
+comply with its agreements with the NYSE and SEC requirements in all material respect.
+
+ Further,
+NYSE Regulation (“NYSER”) is responsible for monitoring activities on the NYSE’s equities, options, and bonds
+markets – i.e. , the New York Stock Exchange LLC
+(equities and bonds), NYSE Arca, Inc. (equities and options), NYSE American LLC (equities and options) and NYSE National, Inc.
+(equities) (collectively, the “NYSE Exchanges”) – and for
+addressing non-compliance with the NYSE Exchanges’ rules and federal securities laws. NYSER enforces both the NYSE Exchanges’
+and their members’ compliance with NYSE Exchange rules and applicable federal securities requirements. It also monitors and enforces
+listed companies’ compliance with applicable listing standards of the NYSE Exchanges. By performing these duties, NYSER supports
+the NYSE Exchanges’ efforts to promote just and equitable principles of trade, encourage free and open markets, and protect investors
+and the public interest. Many of these regulatory functions are performed directly by NYSER; others are performed by FINRA or other self-
+regulatory organizations pursuant to a regulatory services agreement, national market system plans, or other arrangements.
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 13 
+
+ NASDAQ 
+
+ The Nasdaq
+Stock Market requires the companies listing on its exchange to comply with U.S. federal laws. The following paragraph below is from its
+website under FAQ:
+
+ In
+determining whether to initially list a company or continue a company’s listing when it changes its business activities, Nasdaq
+does not make subjective or value judgements about the business the company operates. However, Nasdaq cannot initially list or continue
+the listing of a company whose current or planned activities are in violation of U.S. federal law or the law in a jurisdiction where
+the company operates. In assessing the legality of a company’s activity, Nasdaq largely relies on the risk factors and other disclosures
+made in the company’s filings with the Securities and Exchange Commission, although Nasdaq may also request additional information
+from the company where necessary. 4 
+
+ 4 Available
+at https://listingcenter.nasdaq.com/Material_Search.aspx?cid=34&mcd=LQ (Identification No. 1474).
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 14 
+
+ TSX 
+
+ The
+TSX is the 12th largest exchange in the world by market capitalization. On October 16, 2017, the TSX issued Staff Notice 2017-0009
+(the “Staff Notice”) 5 regarding listed companies engaged in the
+marijuana business, whether directly or indirectly, in the United States. The Staff Notice states the general requirements that the
+business of applicants or listed issuers “will be conducted (i) with integrity and in the best interests of the
+issuer’s security holders and the investing public, and (ii) in compliance with the rules and regulations of TSX and all
+regulatory bodies having jurisdiction.” Due to the significant number of inquiries received regarding entities engaging in
+activities related to the cultivation, distribution or possession of marijuana in the U.S. (“Subject Entities”), TSX
+issued the Staff Notice to provide clarity regarding the application of the requirements to applicants and listed issuers in the
+marijuana sector. The Staff Notice notes that although a number of U.S. states have legalized the cultivation, distribution or
+possession of marijuana subject to various conditions, marijuana remains a Schedule I drug under the CSA. More specifically, it is
+illegal under U.S. federal law to cultivate, distribute or possess marijuana, and financial transactions involving proceeds
+generated by, or intended to promote, marijuana-related business activities in the U.S. may form the basis for prosecution under
+applicable U.S. federal money-laundering legislation.
+
+ According to
+the Staff Notice, companies listed on the TSX with ongoing business activities that violate U.S. federal law regarding marijuana do not
+comply with the requirements of the TSX. These business activities may include, among other things, (i) direct or indirect ownership of,
+or investment in Subject Entities, (ii) commercial interest or arrangements with Subject Entities that are similar in substance to ownership
+of, or investment in Subject Entities, (iii) providing services or products that are specifically designed for, or targeted at, Subject
+Entities, or (iv) commercial interests or arrangements with entities engaging in the business activities described in (iii).
+
+ The
+Staff Notice states that as part of TSX’s standard continued listing review of listed issuers, TSX selects issuers for in depth
+reviews based on their continuous disclosure records. As required by the TSX manual, each listed issuer is required to disclose material
+information regarding its business and affairs. As part of its continued listing review of listed issuers in the marijuana sector, TSX
+contacted listed issuers at the end of 2017 for a more comprehensive review of their marijuana-related activities (if any) in the U.S.
+If a listed company engages in activities that are contrary to TSX requirements, the TSX has the discretion to initiate delisting review
+of that company. In short, if a TSX- listed company grows or distributes marijuana in the U.S., invests in another business that grows
+or distributes marijuana in the U.S., or provides services or products for businesses that grow or distribute marijuana in the U.S.,
+the company faces the prospect of being delisted from the TSX.
+
+ 5 See Staff
+Notice 2017-0009 dated October 16, 2017, available at https://decisia.lexum.com/tsx/sn/en/item/454533/index.do .
+A spokesperson for TSX recently acknowledged the evolving nature of cannabis law and confirmed support by TSX for the sector generally.
+See Kate Robertson, “Could US Marijuana Companies Follow Canopy to the Toronto Stock Exchange?” MJBixdaily.com (Nov. 2, 2022)
+(“In an email to MJBizDaily, Catherine Kee, spokesperson at TSX parent TMX Group, confirmed that Canopy worked directly with the
+exchange and shared its plans in advance of the announcement. Kee declined to comment on whether U.S. companies could follow. ‘We
+are aware that legislation applicable to the marijuana sector is evolving,” Kee said. “TMX continues to monitor the developments
+with interest and we remain committed to supporting the enduring success of the cannabis industry.’”), available at https://mjbizdaily.com/could-american-marijuana-companies-follow-canopy-
+growth-to-toronto-stock-exchange/ , accessed on December 29, 2023. TSX indicates in Staff Notice 2017 that issuers with ongoing
+business activities that violate U.S. federal law regarding cannabis are not in compliance with the TSX Requirements. We are aware that
+the TSX Compliance Department confirmed on November 27, 2023 that, as of that date, there has been no change to the position of TSX regarding
+Staff Notice 2017-0009 insofar as listed issuers engaged in the cannabis business (whether directly or indirectly, in the U.S.) are concerned.
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 15 
+
+ TSX Venture 
+
+ This
+exchange mostly contains small-cap Canadian stocks. TSX Venture provided a Notice to Issuers bulletin dated October 16, 2017 (the “Bulletin”) 6
+ that specifically addressed business activities related to marijuana in the United States. The Bulletin clarified its requirements
+to list and to continue listing on its exchange. The Bulletin states the general requirements “that (i) the business of applicants
+or listed issuers will be conducted with integrity and in the best interests of the issuer’s security holders, and (ii) applicants
+or listed issuers will comply with all laws, rules and regulations applicable to their business or undertaking.” These requirements
+apply to all applicants and listed issuers. Due to the “significant number of inquiries received regarding entities engaging in
+activities related to the cultivation, distribution or possession of marijuana in the United States” (“Subject Entities”),
+TSX Venture issued the Bulletin to provide clarity regarding the application of the requirements to applicants and listed issuers in
+the marijuana sector. The Bulletin notes that although a number of U.S. states have legalized the cultivation, distribution, or possession
+of marijuana to various degrees and subject to various conditions, marijuana remains a Schedule I drug under the CSA and cannabis financial
+transactions are prohibited under the MCA.
+
+ According to
+the Bulletin, companies listed on TSX Venture with ongoing business activities that violate United States federal law regarding marijuana
+do not comply with the requirements of TSX Venture. These business activities may include, among other things:
+
+ (i) direct or indirect ownership of, or
+investment in, Subject Entities; (ii) commercial interests or arrangements with Subject
+Entities that are similar in substance to ownership of, or investment in, Subject Entities; (iii) providing services or products
+that are specifically designed for, or targeted at, Subject Entities; or (iv) commercial interests or arrangements with entities
+engaging in the business activities described in (iii).
+
+ The Bulletin
+states that, as part of TSX Venture’s standard continued listing review of listed issuers, TSX Venture selects issuers for in depth
+reviews based on their continuous disclosure records. As required by the TSX Venture manual, each listed issuer is required to disclose
+material information regarding its business and affairs. As part of its continued listing review of listed issuers in the marijuana sector,
+TSX Venture contacted listed issuers at the end of 2017 for a more comprehensive review of their marijuana-related activities (if any)
+in the United States. If a listed company engages in activities that are contrary to TSX Venture’s requirements, TSX Venture has
+the discretion to initiate a delisting review of that company.
+
+ 6 See Notice
+to Issuers bulletin dated October 16, 2017 available at https://www.tsx.com/resource/en/1609 .
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 16 
+
+ ASX 
+
+ The ASX is Australia’s primary securities exchange.
+In October 2017, ASX provided additional clarification to its listing requirements specific to cannabis companies as follows:
+
+ ASX also notes
+that the legal status of medical cannabis businesses in the US presently is subject to uncertainty under US federal law. An applicant
+seeking to list a US medical cannabis business will need to satisfy ASX that its business can be lawfully carried on in the US (under
+both Federal and State law) before ASX will admit it to the official list.
+
+ TASE and Israel Generally 
+
+ Medical
+marijuana for certain conditions has been legal in Israel since the early 1990s, and since 2017, despite remaining illegal, recreational
+cannabis has been in the process of decriminalization. 7 Moreover, Israel recently has
+authorized the export of locally grown cannabis to other countries. 8 
+
+ The
+Tel Aviv Stock Exchange (“TASE”) is Israel’s only public stock exchange. 9 
+Only eight companies have been licensed in Israel to cultivate and distribute medical cannabis, and only one of those,
+InterCure’s Ltd., is publically listed on the TASE. 10 Other licensed Israeli
+cannabis companies are exploring IPOs on North American exchanges, 11 or are already
+listed there. 12 Still other companies involved in Israeli cannabis (but which are
+not licensed to cultivate or distribute) are listed on the TASE. 13 The TASE also
+lists at least one cannabis-based mutual fund, ALN Cannabis. 14 Despite all of this
+activity, however, the TASE does not have rules or regulations addressing whether listed companies must comply with U.S. federal
+law. For this reason, and in order to comply with its principal investment strategy as outlined above, the Funds may only purchase
+securities of a company listed on the Tel Aviv Stock Exchange if it survives the Special Situation Review and is found to be in
+compliance with U.S. federal law. This opinion does not cover other Israeli exchanges.
+
+ 7
+ 13 Bar Peleg, Explained Marijuana Decriminalization Goes Into Effect in Israel. What Does That Mean?, available at https://www.haaretz.com/israel-news/.premium-marijuana-decriminalization-goes-into-effect-
+in-israel-what-does-that-mean-1.7069271 ; Samuel Osborne, Israel’s parliament unanimously votes to progress cannabis
+decriminalization, available at https://www.independent.co.uk/news/world/middle- east/israel-marijuana-legal-decriminalise-knesset-cannabis-weed-illegal-drugs-a8246161.htm l .
+
+ 8 Sara Brittany
+Somerset, Israel Decriminalizes Adult Use Cannabis During CannaTech Conference In Tel Aviv, available at https://www.forbes.com/sites/sarabrittanysomerset/2019/04/05/israel-decriminalizes-
+adult-use-cannabis-during-cannatech-conference-in-tel-aviv/#7665aac15dff ; Maayan Jaffe-Hoffman, High Hopes for the Holy Land,
+available at https://www.jpost.com/Magazine/High-hopes-for-the-Holy-Land- 585002 .
+
+ 9 See About the Tel Aviv Stock Exchange,
+available at https://info.tase.co.il/eng/about_tase/corporate/pages/tel_aviv_stock_exchange.aspx .
+
+ 10 Press Release,
+InterCure’s Management Opened the Trading session This Morning celebrating the addition to TASE Indices, available at https://info.tase.co.il/Eng/about_tase/news/2018/Pages/PR_20181031.aspx .
+
+ 11 Canndoc proposes
+to go public through acquisition by a SPAC with a listing on Nasdaq. See NCV Newswire, Israeli Cannabis Company Canndoc to Go Public
+via SPAC, available at https://www.newcannabisventures.com/israeli-cannabis-company-canndoc-to-go-public-via-spac .
+Breath of Life International sought an IPO on the TSX in 2019. See Investing.com, Israeli Cannabis Company Breath of Life to Launch Toronto
+IPO, available at https://finance.yahoo.com/news/israeli-cannabis- company-breath-life-134000679.htm l .
+It subsequently elected to defer the IPO until market conditions improved. See Kristine Owram, Israeli Pot Firm Breath of Life Delays
+IPO Until Market Improves , available
+at https://www.bloomberg.com/news/articles/2019-10-07/israeli-pot-firm-breath-of-life-delays- ipo-until-market-improves . 
+
+ 12 18 Kalytera
+Therapeutics is listed on the TSXV. See Listing on TSXV website, available at https://tmxmatrix.com/company/KLY .
+
+ 13 TASE, 2018 Annual
+Review at p. 12, available at https://info.tase.co.il/Eng/Lists/gen_res/0133_annual_review/2018_annual_review_eng.pdf .
+
+ 14 See ALN Cannabis
+TASE Listing Page, available at https://info.tase.co.il/eng/General/trustfund/Pages/fundmaindata.aspx?FundID=05127568 
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 17 
+
+ We next proceed
+with our legal analysis and the opinions which we render in this letter, first in Parts I, II and III, insofar as the Funds’ purchase
+of securities is concerned, and finally in Part IV, insofar as the Funds’ execution and settlement of TRS’s are concerned.
+
+ LEGAL ANALYSIS
+
+ Beyond
+the limits of investing in companies listed on exchanges described above, we analyzed the potential criminal exposure to the Funds and
+their respective beneficial owners solely under Applicable Federal Law in connection with the Funds’ proposed investment in the
+Cannabis Companies. 15 The legal landscape in the cannabis industry is rapidly changing,
+and enforcement priorities for prosecutors, investigators, and regulators are difficult (if not impossible) to predict, may be influenced
+by political considerations (and thus a moving target), and may lack consistent application, all of which are beyond the scope of this
+opinion.
+
+ Subject to
+the considerations set forth in the preceding paragraph, based on our review of the case law and other authorities, we note the following:
+
+ · Federal
+ prosecutors have considerable discretion to pursue potential cannabis- related offenses under
+ U.S. criminal laws. To date, the matters filed by prosecutors have been focused on growers,
+ producers, and distributors within the U.S. that have violated federal law and/or the state
+ and local laws where they are located. 16 
+
+ 15 For purposes of this opinion,
+we do not assess potential regulatory issues with the SEC, the Financial Industry Regulatory Authority (“FINRA”), the Financial
+Crimes Enforcement Network (“FinCen”), or foreign authorities.
+
+ 16 See ,
+ e.g. , Superseding Indictment, U.S.
+v. Hoang , Case No. 3:17-cr-70, 2017 WL 9855203 (S.D. Iowa); Press Release, U.S. Dep’t of Justice, California
+Realtor Sentenced to Prison for Filing a False Tax Return - Did Not Report Over $1 million In Income From Marijuana Distribution Business 
+ (Nov. 2, 2018), available at https://www.justice.gov/opa/pr/california-realtor-sentenced-prison-filing-false-tax-return ;
+Press Release, U.S. Dep’t of Justice, Washington, D.C. Post Office Manager and Two Letter Carriers Found Guilty of Bribery and
+Conspiracy to Distribute Marijuana (Jul. 24, 2017), available at https://www.justice.gov/opa/pr/washington-dc-post-office-manager-and-two-letter-carriers-found-guilty-
+bribery-and-conspiracy . 
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 18 
+
+ · We
+ have reviewed examples of U.S. exchange listed companies that have invested or are investing
+ in cannabis companies and, to date, we have not found public records showing corresponding
+ action by the U.S. Department of Justice (the “DOJ”). 17 Indeed, in
+ May 2020, Constellation Brands, Inc., a New York-based Fortune 500 company that is publicly
+ traded on the New York Stock Exchange, increased its investment from 9.9% to 38.6% of the
+ issued and outstanding common shares of Canopy Growth Corporation, a Canadian producer and
+ exporter of cannabis listed on the NYSE. 
+
+ · We
+ have reviewed two open-end investment companies registered under the 1940 Act with principal
+ investment strategies of investing in Cannabis Companies (as such term is defined herein)
+ First we reviewed American Growth Fund Series Two, which has as its principal investment
+ strategy to invest in a “portfolio which is made up primarily of common stocks involved
+ in the legal cannabis business.” 18 Second, we reviewed Cambria Cannabis
+ ETF (“Cambria”), which has as its principal investment strategy “investing
+ primarily, under normal market conditions, in (1) Cannabis Companies … and (2) total
+ return swaps intended to provide exposure to Cannabis Companies.” 19 Cambria
+ defines “Cannabis Companies” as “companies that (i) engage in or support
+ the legal production, cultivation, and/or sale of cannabis, including marijuana and hemp,
+ such as certain agrobusiness, biotechnology, life sciences, pharmaceutical, retail, finance,
+ and real estate companies, (ii) perform lawful research as to the medical and pharmaceutical
+ applications of marijuana and cannabis extracts, including cannabinoids, or (iii) produce
+ and develop devices, goods, and equipment related to the cannabis industry, including hemp
+ and its legal derivatives.” 20 To date,
+ we have not found public records showing corresponding action by the DOJ with respect to
+ either fund. 
+
+ 17 This does
+not mean that no action may be brought in the future or that no confidential investigation is proceeding in the status quo, it simply
+means that we have not found evidence of the same through publicly available resources that we reviewed as noted above.
+
+ 18 American Growth Fund Series Two’s
+Prospectus dated November 22, 2023 available on the SEC’s EDGAR database at https://www.sec.gov/Archives/edgar/data/5138/000000513813000024/n1as2102913.htm.
+
+ 19 Cambria Cannabis ETF’s Summary
+Prospectus dated September 1, 2023 available on the SEC’s EDGAR database at https://www.sec.gov/ix?doc=/Archives/edgar/data/1529390/000121390023073220/ea160969_497.htm#T
+1012.
+
+ 20 Ibid.
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 19 
+
+ · Notwithstanding the above, there could be a risk of criminal exposure for aiding and abetting liability
+under the CSA. The CSA generally proscribes the manufacture and/or production of controlled substances, such as cannabis. Liability here
+would be determined based on whether (i) the CSA applies to conduct occurring entirely in another country, such as Canada or Australia,
+and (ii) whether investment in the Cannabis
+Companies would constitute an underlying violation of law, particularly where the proposed investment criteria proscribes investment in
+companies that manufacture and/or produce cannabis and the proposed investments contemplate the purchase of securities on secondary markets
+in Canada and Australia. We have not found case law or other guidance suggesting an extension of enforcement of the CSA in the manner
+outlined above as to any of the Cannabis Companies. 
+
+ Our opinion
+focuses on Applicable Federal Law, and based on the current status of state laws regarding marijuana, it is our view that Applicable Federal
+Law is more stringent. Therefore, it is our opinion that, if the Funds comply with Applicable Federal Law, the Funds will meet state law
+standards because the Funds will not be investing in companies engaged in the cultivation, distribution or possession of marijuana in
+the U.S.
+
+ (I) FEDERAL LAW 
+
+ a. Executing Federal Laws 
+
+ Congress
+gives federal agencies significant authority in executing federal laws, including the DEA, the law enforcement arm of the federal government
+primarily responsible for enforcing the CSA. 21 Further, federal prosecutors have wide
+latitude in determining when, who, how and even whether to prosecute for alleged violations of federal criminal law. 22
+ In our legal system, “the decision whether or not to prosecute, and what charge to file or bring before a grand jury,
+generally rests entirely in [the prosecutor’s] discretion.” 23 “This
+broad discretion ... is particularly ill-suited to judicial review.” 24 That discretion
+extends to, for example, the decision to prosecute a matter, the selection of charges, whether to enter into a plea agreement, and participation
+in sentencing. 25 
+
+ 21 See
+ 21 U.S.C § 811.
+
+ 22 Oyler
+v. Boles , 368 U.S. 448 (1962).
+
+ 23 Bordenkircher
+v. Hayes , 434 U.S. 357, 364 (1978).
+
+ 24 Wayte
+v. United States , 470 U.S. 598, 607 (1985).
+
+ 25 See
+ United States Justice Manual at § 9-27.110, available at https://www.justice.gov/jm/jm-9-27000-
+principles-federal-prosecution#9-27.110 .
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 20 
+
+ With
+respect to business organizations, such as the Funds, the United States Justice Manual provides the following guidelines to prosecutors
+to promote the reasoned exercise of discretion: 26 
+
+ · The nature and seriousness of the offense, including the risk of harm to the public, and applicable policies and priorities, if any,
+governing the prosecution of business organizations for particular categories of crime; 
+
+ · The pervasiveness of wrongdoing within the business organization, including the complicity in, or the
+condoning of, the wrongdoing by management; 
+
+ · The business organization’s history of similar misconduct, including prior criminal, civil, and
+regulatory enforcement actions against it; 
+
+ · The business organization’s identification of individuals responsible for the misconduct and production of misconduct information; 
+
+ · The existence, effectiveness, and enforcement of the business organization’s pre- existing compliance program; 
+
+ · The business organization’s timely and voluntary disclosure of wrongdoing; 
+
+ · The business organization’s remedial actions, including any efforts to implement an effective
+corporate compliance program or to improve an existing one, to replace responsible management, to discipline or terminate wrongdoers,
+to pay restitution, and to discipline wrongdoers; 
+
+ · Collateral consequences, including whether there is disproportionate harm to shareholders, pension holders, employees, and others
+not proven personally culpable, as well as impact on the public arising from the prosecution; 
+
+ · The adequacy of remedies such as civil or regulatory enforcement actions; and 
+
+ · The adequacy of the prosecution of individuals responsible for the business organization’s malfeasance. 
+
+ b. DOJ Position on Enforcement of Federal Marijuana Laws 
+
+ During the Obama
+administration, Deputy Attorney General David Ogden and Deputy Attorney General James Cole released several memoranda that addressed federal
+enforcement priorities regarding the CSA. These memoranda were intended to adapt the federal government’s position on marijuana
+as states legalized the drug for medical purposes.
+
+ 26 United States
+Justice Manual at §§ 9-28.300, 9-28.400, 9-28.500, 9-28.600, 9-28.700, 9-28.800, 9- 28.900, 9-28.1000, 9-28.1100, 9-28.1200,
+and 9-28.1300, available at https://www.justice.gov/jm/jm-9- 28000-principles-federal-prosecution-business-organizations .
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 21 
+
+ Most
+notably, in 2013, Deputy Attorney General Cole released a memorandum 27 (the “Cole
+Memo”) that reiterated the DOJ’s commitment to enforcing the CSA, but that directed law enforcement and prosecutors only
+to focus on conduct that implicated the following:
+
+ · Preventing the distribution of marijuana to minors; 
+
+ · Preventing revenue from the sale of marijuana from going to criminal enterprises, gangs, and cartels; 
+
+ · Preventing the diversion of marijuana from states where it is legal under state law in some form to other states; 
+
+ · Preventing state-authorized marijuana activity from being used as a cover or pretext for the trafficking
+of other illegal drugs or other illegal activity; 
+
+ · Preventing violence and the use of firearms in the cultivation and distribution of marijuana; 
+
+ · Preventing drugged driving and the exacerbation of other adverse public health consequences associated
+with marijuana use; 
+
+ · Preventing the growing of marijuana on public lands and the attendant public safety and environmental dangers posed by marijuana production
+on public lands; and 
+
+ · Preventing marijuana possession or use on federal property. 
+
+ The Cole Memo
+further conditioned this guidance on the existence of a state regulatory scheme that provides “robust controls and procedures [which
+are] effective in practice,” in which case “enforcement of state law by state and local law enforcement and regulatory bodies
+should remain the primary means of addressing marijuana-related activity.” Taken together, the Cole Memo and other related memoranda
+provided that the federal government would give some leeway to states’ control over medical marijuana use and production for medical
+purposes. Importantly, though, the Cole Memo did not have the force of law, but only reflected a policy subject to change at any time.
+
+ 27 Memorandum from James Cole, U.S.
+Deputy Attorney General, on Guidance Regarding Marijuana Enforcement (Aug. 29, 2013) available at https://www.justice.gov/iso/opa/resources/3052013829132756857467.pdf .
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 22 
+
+ In
+January 2018, Attorney General Jeff Sessions issued a new memorandum (the “Sessions Memo”) repealing the policy statements
+in the Cole Memo: “Given the Department’s well-established general principles, previous nationwide guidance specific to marijuana
+enforcement is unnecessary and is rescinded, effective immediately.” 28 The Sessions
+Memo reinforces the prosecutorial discretion to pursue penalties for marijuana cultivation, distribution, and possession under Applicable
+Federal Law for financial transactions. 29 
+
+ The
+Sessions Memo provides that the federal government may pursue action against violations of federal law related to marijuana. To the extent
+that they have done so, it appears that federal prosecutors have focused on growers and producers within the states, rather than investors. 30 
+
+ Moreover,
+there are multiple U.S. exchange-listed companies that either are investing in Canadian cannabis companies, or are Canadian cannabis
+companies themselves, such as Tilray Inc., a cannabis research, cultivation, processing, and distribution firm traded on NASDAQ. Similarly,
+we have not identified any public reports concerning any DOJ action with respect to the increase by Constellation Brands, Inc., a New
+York-based Fortune 500 company that is publicly traded on the New York Stock Exchange, of its investment in Canopy Growth Corporation,
+a Canadian producer and exporter of cannabis listed on the NYSE 31 from 9.9% to 38.6%
+of the issued and outstanding common shares of Canopy Growth Corporation.
+
+ Further,
+the SEC appears to have scrutinized the registration statements and other disclosure documents made by Cannabis Companies. For instance,
+the SEC requested changes to Tilray’s public disclosure documents, including increased disclosures regarding the company’s
+capital structure and risks associated with operating in the cannabis industry, such as compliance with U.S. laws and potential market
+volatility. 32 
+
+ 28 Memorandum
+from Jeffrey Sessions, U.S. Attorney General, on Marijuana Enforcement ,
+(Jan. 4, 2018) available at https://www.justice.gov/opa/press-release/file/1022196/download .
+
+ 29 During confirmation
+hearings before the Senate Judiciary Committee for appointment as Attorney General, in February, 2021, new Attorney General Merrick Garland
+responded to questioning by Senator Cory Booker as follows: “It does not seem to me a useful use of limited resources that we have,
+to be pursuing prosecutions in states that have legalized and that are regulating the use of marijuana, either medically or otherwise.
+I don’t think that’s a useful use.” See https://mjbizdaily.com/attorney-general-
+nominee-merrick-garland-signals-friendlier-marijuana-stance . In subsequent written responses to the Senate Judiciary Committee,
+Attorney General Garland stated that he did not think it worth the department’s time to pursue prosecutions “of those who
+are complying with the laws in states that have legalized and are effectively regulating marijuana.” See
+ https://www.rollcall.com/2021/03/01/senate-judiciary-sends-garland- nomination-to-the-floor .
+ Separate and apart from these pronouncements, Congress has withheld funding to the DOJ (pursuant to the Rohrabacher-Blumenauer
+Amendment to federal spending bills) to prosecute state-compliant business in the medical marijuana space since 2014.
+
+ 30 See,
+e.g. , Superseding Indictment, U.S. v. Hoang , Case No.
+3:17-cr-70, 2017 WL 9855203 (S.D. Iowa) (criminal charges filed against growers, not investors, related to marijuana production and/or
+distribution within the states).
+
+ 31 Constellation
+Brands increases stake in Canopy Growth , (May. 2020), available at https://www.beveragedaily.com/Article/2020/05/05/Constellation-Brands-increases-stake-in-Canopy-
+Growth-Corp .
+
+ 32 See
+ Letter from Sec. & Exch, Comm’n to Brendan Kennedy, President and CEO of Tilray, Inc. (Apr. 17, 2018), available
+at https://www.sec.gov/Archives/edgar/data/1731348/000000000018011638/filename1.pdf ; see also
+ Securities and Exchange Commission, Investor Alert: Marijuana Investments
+and Fraud (Sep. 9, 2018), available at https://www.investor.gov/introduction-investing/general-resources/news-
+alerts/alerts-bulletins/investor-alerts/investor-12 (the SEC appears to be concerned with ensuring that investors are
+aware of market volatility and concerns about potentially fraudulent disclosures).
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 23 
+
+ Finally,
+we have found nothing in the publicly available resources noted above that suggests that any of the Cannabis Companies being considered
+for investment are engaged in any cannabis touching business in the U.S. except to the extent that they are registered with the DEA specifically
+for the purpose of handling marijuana for lawful research and development of cannabis or cannabinoid-related products. Moreover, we have
+found no publicly reported civil, criminal or regulatory proceedings against any of the Cannabis Companies for a violation of the CSA
+and/or MCA. 33 This opinion is only based upon and limited to that publicly available
+information available from the SEC.
+
+ Based on
+the foregoing and the Funds’ representation that it will only invest in certain exchange traded securities compliant with U.S. federal
+law, we believe that the Funds would not violate the CSA or be subject to DOJ marijuana enforcement.
+
+ (II) THE CSA 
+
+ Under
+Section 841(a) of the CSA, it is unlawful for a person to knowingly or intentionally “manufacture, distribute, or dispense, or
+possess with intent to manufacture, distribute, or dispense, a controlled substance “ 34 
+The statute defines “manufacture” as the production, preparation, propagation, compounding, or processing of a drug or
+other substance, either directly or indirectly or by extraction, and includes any packaging or repackaging of such substance, except
+as complying with applicable state law. 35 In addition, Section 846 of the CSA
+prohibits conspiring to commit substantive offenses under the Act, and provides that any individual who attempts or conspires to
+commit a violation of the CSA will be subject to the same penalties as the underlying offense. 36 
+
+ Based purely
+on the plain language of the Funds’ Registration Statements (including the Statements of Additional Information) and the proposed
+investments, including our analysis of their businesses as derived from the publicly available resources noted above, none of these businesses
+appear to be involved in the growth, manufacture, processing or sale of cannabis
+in the U.S. According to the Funds’ Registration Statements, the Funds are also not preparing or otherwise seeking to distribute
+the marijuana itself in the U.S. Instead, the Registration Statements reflect that the proposed investment activity would only include
+purchasing securities—on the secondary market on an exchange that requires compliance with national and local laws, including U.S.
+federal law—of companies that are permitted by national and local laws of the relevant jurisdiction, including U.S. federal
+and state laws.
+
+ 33 Our
+review yielded, as of the date hereof, no publicly-available indicator of a current DOJ or DEA investigation involving the TRS
+Companies (as such term is defined in Part IV of this letter) or indeed any of the Cannabis Companies whose stock may be purchased
+by the Funds.
+
+ 34 21 U.S.C.
+§ 841(a)(1).
+
+ 35 21 U.S.C.
+§ 802(15).
+
+ 36 21 U.S.C.
+§ 846.
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 24 
+
+ Based on
+the foregoing, it is our opinion that the Funds would not have direct liability under Section 841(a) or Section 846 of the CSA because
+it will not be investing in any business that is in the business of growing, manufacturing, processing or selling marijuana in the U.S.
+
+ (III) COMPLYING WITH FEDERAL MONEY LAUNDERING LAWS 
+
+ In
+addition to complying with the CSA, the Funds must also comply with federal money laundering laws. Section 1956 of the MCA provides that
+(i) “[w]hoever, knowing that the property involved in a financial transaction represents the proceeds of some form of unlawful
+activity, conducts or attempts to conduct such a financial transaction which in fact involves the proceeds of specified unlawful activity…
+with the intent to promote the carrying on of specified unlawful activity… 37 ”
+or (ii) “[w]hoever transports, transmits, or transfers, or attempts to transport, transmit, or transfer a monetary instrument or
+fund from a place in the United States to or through a place outside the United States or to a place in the United States from or through
+a place outside the United States…with the intent to promote the carrying on of specified unlawful activity…” 38
+ is in violation of federal law.
+
+ Based on
+the foregoing, in our opinion the Funds’ investment activities should not constitute an offense under Section 1961(1) ( i.e .,
+obtaining proceeds from an unlawful activities) because the Funds’ investments are in exchange-listed companies that require compliance
+with U.S. federal laws in addition to the laws of its jurisdictions.
+
+ IV. TOTAL RETURN SWAPS 
+
+ We opine with
+respect to the enforceability of one or more cash-settled total return swaps, or TRS’s, referencing up to nine Cannabis Companies
+(each, a “TRS Company”) operating in compliance with applicable state law that permits those operations.
+
+ In this context,
+we have considered the enforceability of the legal documentation governing the TRS’s under principles of contract law as well as
+the CSA and (depending on the Number of Basket Units in the reference portfolio as represented to us and described on pages 4-5 of this letter),
+the 1934 Act (as amended by Dodd-Frank) and regulations promulgated thereunder by the SEC or the CEA (also as amended by Dodd- Frank)
+and regulations promulgated thereunder by the CFTC.
+
+ 37 18 U.S.C. § 1956(a)(1)-(A)(i).
+
+ 38 18 U.S.C. § 1956 (a)(2)-(A).
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 25 
+
+ The Funds’
+TRS payments are received by each counterparty to each Fund under the TRS. The Funds’ TRS payments likely would not result in ownership
+of stock in a Cannabis Company by either of the Funds on the one hand, or their TRS counterparties on the other. In addition, the Funds’
+payments are not used for the purchase or cultivation of marijuana or related supplies and do not facilitate distribution or contribute
+to the growth of a Cannabis Company in any way. Instead, all TRS payments are directed by TRS documentation to be made to a party to the
+TRS as part of what we view as a lawful bargain: the Funds pay their TRS counterparties a fee (like a premium in an insurance contract)
+for the TRS and each Fund incurs the risk that the share value of each Cannabis Company (that is, the Reference Assets in the reference
+portfolio) in the TRS depreciates (because if such share value does depreciate, then each Fund is obligated under the TRS terms to pay
+its counterparty a value representing that depreciation), in exchange for a cash payment by the TRS counterparty to each Fund representing
+the appreciation and total return of each referenced Cannabis Company’s stock, dividends and other distributions (if any) with respect
+to such equity, and other payments and appreciation in the aggregate. The payments by the Funds in the case of the TRS’s do not
+result in the purchase of any Cannabis Company stock; the TRS’s are each financially (or cash) settled.
+
+ The TRS’s and the Controlled
+Substances Act 
+
+ We are not
+aware of any guidance, regulation, or formal or informal prohibition by the DOJ or any federal regulator (including derivatives regulators
+in the United States ( i.e. , the SEC and CFTC)) with respect to
+a derivative based on a Cannabis Company. We are also aware of no reported decision by a court or other tribunal as to whether a derivative
+referencing a Cannabis Company (whether operating with or outside of a state license, permission or mandate) is legal --or illegal.
+
+ The
+TRS is not a transaction or an activity which is expressly prohibited by the CSA (and we assume for purposes of this letter that the
+Cannabis Company referenced in the TRS is not undertaking criminal or other activities which would trigger federal action, such as funneling
+proceeds from the sale of marijuana to criminal enterprises, distributing contraband to gangs or cartels or other activities which are
+expressly prohibited by the CSA). 39 
+
+ 39 
+See supra , Parts I through III of this letter and footnote 32.
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 26 
+
+ In
+the absence of on-point regulatory or other guidance, we have considered other commercial and contractual arrangements entered into by
+cannabis companies, such as insurance policies. The insurance contract has for decades been compared to a derivative and vice-versa . 40
+ We are aware of state insurance commissioners approving the issuance of insurance policies undertaking risks relating to
+lawful state cannabis businesses. For instance, the California Cannabis Control Board submitted proposed regulations to the California
+Office of Administrative Law in December 2018 establishing minimum general liability coverage for distributors. 41
+ Former California Insurance Commissioner Dave Jones lobbied California’s admitted insurers to begin serving the cannabis
+industry 42 and was ultimately successful in persuading admitted insurance carriers ( i.e .,
+carriers authorized to do business in California by the Secretary of State) to provide a cannabis insurance product, 43
+ including Golden Bear Insurance Company, 44 North River Insurance Company,
+United States Fire Insurance Company, White Pine Insurance Company, 45 Continental Heritage
+Insurance Company 46 and California Mutual Insurance Company. 47 
+
+ For
+the sake of completeness we note that a federal court in Hawaii 48 held that an insured
+individual growing cannabis for personal use in compliance with state law could not recover under her homeowner’s policy because
+the federal public policy against cannabis trumps the express terms of an insurance policy; however, a federal court in Colorado refused
+to follow that court in Hawaii, and refused to absolve a property insurance carrier of its coverage obligation when the property insurance
+policy was written for a state-legal cannabis business because the policy was written specifically to provide coverage for the insured’s
+state-legal marijuana business. 49 
+
+ 40 
+See, e.g ., Risk, Speculation, and OTC Derivatives at 2-3.
+
+ 41 CAL. CODE REGS. tit. 16, §5308
+(2019).
+
+ 42 https://www.natlawreview.com/article/california-s-insurance-commissioner-encourages-admitted- 
+
+ carriers-to-insure-cannabis 
+
+ 43 https://www.horstcounsel.com/single-post/2017/10/02/Admitted-Carriers-Offer-Some-Benefits-Some- 
+
+ Dangers-for-Cannabis-Industry 
+
+ 44 http://www.insurance.ca.gov/0400-news/0100-press-releases/archives/release119-17.cfm ; 
+
+ https://www.goldenbear.com/news/how-to-cover-the-cannabis-sector-from-a-broker-whos-deep-in-the-
+weeds/ 
+
+ 45 http://www.insurance.ca.gov/0400-news/0100-press-releases/2018/release088-18.cfm 
+
+ 46 http://www.insurance.ca.gov/0400-news/0100-press-releases/2018/release055-18.cfm 
+
+ 47 http://www.insurance.ca.gov/0400-news/0100-press-releases/2018/release046-18.cfm 
+
+ 48 
+Tracy v. USAA Cas. Ins. Co. , No. 11-00487 LEK-KSC, 2012 WL 928186, at *13 (D. Haw. Mar. 16, 2012).
+
+ 49 Green
+Earth Wellness Ctr., LLC v. Atain Specialty Ins. Co ., 163 F. Supp. 3d 821, 833-34 (D. Colo. 2016)(“ Green
+Earth Wellness Center ”).
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 27 
+
+ For
+purposes of evaluating the TRS in the context of the CSA, we considered the federal judiciary’s upholding of contracts 50
+ including those evidencing payment obligations albeit in the insurance
+context. The upholding of contracts in the insurance context is helpful guidance for evaluating the enforceability of a TRS. As with the
+purchase of securities, for the reasons and based on the law which we cite, the Funds’ proposed execution of a TRS should not trigger
+action by the DOJ or federal prosecutors under the CSA and so for our conclusions concerning the TRS, we incorporate by reference the
+legal and factual analyses in the parts of this letter preceding this Part IV (regarding the Funds’ purchase of securities), as
+we reach the conclusion that under the CSA, the DOJ and federal prosecutors should not pursue any action with respect to the TRS.
+
+ Enforceability of TRS Documentation 
+
+ For the analysis
+and resulting TRS-related conclusions and opinions in this letter, we previously examined market-standard TRS documentation, including
+both samples and forms as well as executed versions of the following documentation (collectively, the “TRS Documentation.”
+We assume for purposes of this letter that for the Funds’ execution each TRS, all TRS Documentation is governed by New York law,
+is signed and delivered, and includes market-standard terms binding reputable counterparties and the Funds with respect to TRS’s
+executed between them):
+
+ § ISDA Master Agreement based on the 2002 form published by ISDA, the International Swaps and Derivatives
+Association, Inc. (“ISDA Master Agreement”); 
+
+ § Schedule to the ISDA Master Agreement (“ISDA Schedule”); 
+
+ 50 We note
+that when we refer in this paragraph to “the federal judiciary,” we refer primarily to the federal district court in Green
+Earth Wellness Center , and federal courts’ decisions subsequent to Green
+Earth Wellness Center ( see, e.g ., Greenwood v.
+Green Leaf Lab LLC, 2017 U.S.Dist. LEXIS 125143 (2017); In re Way to
+Grow, Inc. , 597 B.R. 111, 2018 Bankr. LEXIS 4142 (2018); see
+also In re Malul , 614 B.R. 699, 2020 Bankr. LEXIS , 68 Bankr. Ct. Dec. (LRP) 147)(2020)(“At oral argument, Malul
+attacked the relevance of Green Earth Wellness on two
+grounds. First, Malul argued Green Earth Wellness is inapplicable because it was evaluating the legality of state insurance laws,
+not necessarily federal drug laws. Second, Malul argued the insurance policy in Green Earth Wellness is a different situation to a
+declaratory judgment or breach of fiduciary duty claim, because there is an underlying equity interest at stake in the latter. The
+Court agrees [that] the facts of Green Earth Wellness are
+distinguishable in these respects, but it is not clear whether, or how, those factual differentiators mediate a different result.
+Rather, the operative decision point in Green Earth Wellness was
+Judge Krieger’s careful distinction between ordering the insurer to pay for damages to specific items ( i.e. ,
+marijuana plants) and merely ordering compliance with the contract, which could be accomplished without reference to the existence
+of any marijuana asset.”)). We also note that at least one federal court has declined to invalidate an insurance contract
+(where an insurer underwrites a cannabis company in compliance with state law) on the grounds that the contract contravenes public
+policy; the federal district court in Green Earth Wellness
+Center refused to invalidate the insurance contact at issue in that case on public policy grounds “in light of
+several additional years evidencing a continued erosion of any clear and consistent federal public policy in this area” and on
+that basis the federal district court “declines [insurer] Atain’s indirect invitation to declare the [insurance] Policy
+void on public policy grounds.” See Green Earth
+Wellness Center, 163 F.Supp.3d at 834-35. We finally note that federal prosecutors have generally in the past focused on growers and
+producers within the states, rather than investors, see also 
+Superseding Indictment, U.S. v. Hoang , Case No. 3:17-cr-70,
+2017 WL 9855203 (S.D. Iowa) (criminal charges filed against growers, not investors, related to marijuana production and/or
+distribution within the states). Total return swap and other OTC derivatives rulemaking initiatives by the SEC have in recent years
+focused on the area of position reporting (but not on the legality of structures and financial products resembling or having similar
+features of TRS’s referencing Cannabis Companies or TRS Companies). See , e.g .,
+proposed Rule 10B-1 and Schedule 10B and other position reporting rulemaking under the Exchange Act, published in the Federal
+Register, 87 Fed. Reg. 6652 (Feb. 4, 2022).
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 28 
+
+ § Credit Support Annex to the ISDA Schedule; and 
+
+ § Master Swap Confirmation together with sample Trade Activity Reports and other deliverables referenced
+therein. 
+
+ In rendering
+legal opinions in Part IV of this letter, we make and rely on certain assumptions concerning the TRS Documentation --including representations
+made by the parties to such documentation-- and we assume that the parties’ representations in the foregoing are accurate. We assume
+that following our initial review the TRS Documentation was not amended in any material respect (that is, amended in any way to substantively
+alter any of the rights or obligations of the parties to the TRS Documentation), as we previously assumed that such documentation would
+remain in final form without material variation or modification. We further assume that each party referenced in the TRS Documentation
+has the requisite legal capacity and authority and has fulfilled all legal prerequisites, duties and obligations with respect to the execution,
+collateralization, delivery and full and timely performance called for by the TRS Documentation. We assume for the purpose of this letter
+that the Funds and each Fund counterparty have (following execution) and will fully and timely perform all applicable obligations and
+undertakings under the TRS Documentation and we further assume that each party to the TRS Documentation remains and will be in full compliance
+with all applicable state and federal (including but not limited to Applicable Federal Law) law and therefore we limit this opinion letter
+and the analysis within it only to the first two full paragraphs on page two of this letter.
+
+ We
+further assume for purposes of our analysis, conclusions and opinions that each party to the TRS Documentation: (i) represents and warrants
+to the other, with respect to each TRS evidenced by the TRS Documentation that each such party is not entering into the TRS to avoid,
+prevent or to circumvent or do anything that is contrary to any Applicable Federal Law including statutory law, regulations or case law
+relating to the vesting of beneficial ownership and those applicable to shareholder disclosure; (ii) does not intend to engage, and in
+fact does not in any way engage in any fraudulent, deceptive or manipulative act or practice; and (iii) is in full compliance with the
+Exchange Act, and CEA, each as amended by Dodd-Frank, 51 and the 1940 Act, with respect
+to the legal issues which are outside of the scope of this letter ( e.g.,
+ reporting obligations, diversification and custody rules) and each fully executes and delivers the TRS Documentation with
+respect to TRS’s evidenced thereby.
+
+ 51 We recognize
+that the Funds under the 1934 Act or CEA may be obligated to report the TRS to a security- based swap data repository, or to a swap data
+repository, respectively, and to comply with portfolio reconciliation or other obligations which are not directly related to the focus
+of this opinion letter, and so for purposes of this letter we assume that the Funds and each of their respective TRS counterparties are
+in compliance with those requirements. We also recognize that the Funds and/or each of their TRS counterparties may be obligated to comply
+with other law which is not central to, referenced in and is therefore outside of the scope of this letter, including the Internal Revenue
+Code, Regulation T of the Federal Reserve Board, and the rules and regulations, and there are also 1940 Act custody, diversification,
+leverage and other requirements with respect to which each Fund must comply. The SEC promulgates regulations and rules effectuating the
+1940 Act, including Rule 18f-4, which generally became effective on February 19, 2021. For purposes of issuing this letter, we assume
+that each Fund is and will continue to be in compliance with Rule 18f-4 and
+related, existing SEC rules, as applicable to each Fund as of the date hereof.
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 29 
+
+ We also note
+that in the event that the TRS is at some later date declared illegal under the CSA, the Funds’ (and indirectly its beneficial owners’)
+losses would be determined by “break provisions” that enable the parties to the TRS to close-out an existing TRS and to the
+extent possible, restore the parties economically to a position immediately before a federal department or other federal authority declared
+the TRS illegal under the CSA (or other law). Within the TRS Documentation is a provision that stipulates that a termination event will
+occur if it becomes unlawful under any applicable law for a party to make or to receive payments with respect to a transaction, or to
+perform any material provision of the ISDA Master Agreement (which governs the TRS and any other “Transaction” under the terms
+of the ISDA Master Agreement); this “Illegality” provision is anticipatory in nature and has (after currency crises in and
+around 1998) become integrated into the 2002 form of ISDA Master Agreement on which the TRS is based, so that this provision contemplates
+that a termination of the TRS would occur if, at some later date after (TRS) execution, it would be unlawful to make or receive a payment
+in the future.
+
+ Therefore,
+important to our legal analysis of the enforceability of the TRS Documentation (and the manner in which losses and gains are calculated
+on termination by the Funds or their counterparties) is this “Illegality” feature of the ISDA Master Agreement and Schedule
+contemplating a government decree making a payment of a derivative illegal, such as was the case on August 17, 1998, when the Russian
+government (in dealing with a widespread economic and currency crisis of its own) 52 imposed
+a moratorium on payments called for in many OTC currency derivatives referencing the Ruble.
+
+ 52 On August
+17, 1998, in the face of a rapidly deteriorating economic situation, the Russian government defaulted on its Ruble-denominated securities,
+the Russian Central Bank stopped its support of the Ruble and a temporary moratorium was imposed on certain hard currency payments. Russia
+imposed a 90-day moratorium on various hard currency transactions connected with the movement of capital. These actions resulted in an
+immediate and severe devaluation of the ruble and a sharp increase in the rate of inflation; a dramatic decline in the prices of Russian
+debt and equity securities; and an inability of Russian issuers to raise funds in the international capital markets and the OTC derivatives
+market was likewise affected. See Statement of the Government
+of the Russian Federation and the Central Bank of the Russian Federation (August 17, 1998), https://web.archive.org/web/20150131090423/http://www.cbr.ru/eng/press/JOINT.htm ,
+
+ accessed on June 30, 2020.
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 30 
+
+ We
+consider the August 17, 1998 Russian decree to be, in fact, precedent for helping us evaluate potential monetary liability of the Funds
+and their beneficial owners under the CSA; in that circumstance, with the “Illegality” feature of the ISDA Master Agreement
+(published in 2002 and included in the TRS Documentation), 53 the Funds and each of their
+respective TRS counterparties: (a) should incur no regulatory exposure or regulatory liability solely
+because a court of competent jurisdiction in the future holds that the TRS violates the CSA or the 1934 Act; and (b) the TRS could be
+terminated on a no- fault basis with the Funds and each of their respective TRS counterparties using mid- market values calculated pursuant
+to Section 6(e) of the ISDA Master Agreement (this may result in the Funds sustaining a monetary loss or gain on the TRS, but we believe
+there would in that instance not be resulting regulatory exposure for the termination in the absence of a federal prohibition on the
+TRS at the point of execution of that OTC derivative). 54 
+
+ In the absence
+of any government prohibition of the TRS structure and the TRS Companies referenced within it, the TRS Documentation should create legal,
+valid and binding obligations under New York law with respect to the Funds and its counterparties to a TRS.
+
+ Because of
+the dynamic, bespoke nature of the TRS and the regulatory implications from its design and management, it is important for purposes of
+the analysis leading to the rendering of opinions to first describe with greater particularity the manner in which the regulator ( i.e .,
+the SEC or the CFTC, and its respective regulatory regime) for the TRS depends on the Reference Assets (reference portfolio of the Funds).
+
+ The upshot is
+that if the reference portfolio consists of a single security, a single loan or
+ a narrow-based group or index of securities, then under current U.S. law, the regulator of
+the TRS is the SEC and the federal law which applies to the TRS is the 1934 Act (not the CEA), as amended by Dodd-Frank and 
+SEC rules (as opposed to CFTC rules), with respect to the TRS, promulgated thereunder.
+
+ On the other
+hand, if the reference portfolio consists of more than one security, more than one loan or
+ a broad-based index or basket of securities (or any combination thereof), then under current U.S. law, the regulator of the
+TRS (not the Funds themselves, but the financial product that is the subject of this opinion letter, the TRS) is the CFTC, so the Funds
+would be subject to both the SEC and its rules insofar as the Funds and their operation are concerned and
+ the CFTC insofar as the TRS is concerned. In that case, the CFTC and the CEA (not the 1934 Act), as amended by Dodd-Frank,
+and CFTC rules and guidance is the statutory basis and regulatory regime governing the TRS. The following discussion brings this and the paragraph immediately
+above this paragraph into sharper focus.
+
+ 53 See
+ Section 6(e) of the ISDA Master Agreement (as opposed to the earlier 1992 version of the ISDA Master Agreement).
+
+ 54 Under the
+effective terms of the TRS Documentation, if the TRS, after it is executed but before the end of the term or maturity for the transaction
+if the U.S. government (or even a state) declares the TRS to be illegal, then, at the end of a waiting period, either the Funds or each
+of their respective TRS counterparties can terminate the TRS on a no-fault
+basis and use mid-market values calculated pursuant Section 6(e)(ii)(3) of the ISDA Master Agreement.
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 31 
+
+ Applicable Derivatives Law 
+
+ Total return
+swaps in the U.S. have been regulated by a still relatively new and comprehensive federal statute and implementing rules for nearly a
+decade.
+
+ In 2010, Congress
+passed and President Obama signed into law Dodd-Frank, which established for the first time in America a comprehensive framework for regulating
+OTC (privately negotiated) derivatives, OTC derivative markets and utilities and the financial products executed within and by them, including
+those products with the basic structure of the TRS.
+
+ Before
+2010 one of the primary culprits in the Great Recession of 2008 was the near complete confusion and improper identification with respect
+to the regulator with authority to regulate an OTC derivative 55 and this is no longer
+the case so the TRS is subject to a clearly-defined and predicable regulatory regime, which we discuss next, but the federal regulator
+and its regulatory regime is determined by the design and management of the TRS, as described on this page and the pages that follow.
+
+ Under
+Dodd-Frank, regulatory authority is divided between the SEC and the Commodity Futures Trading Commission (“CFTC”); Dodd-Frank
+mandated that the CFTC and SEC further define definitions for purposes of guiding market participants such as the Funds, so that it is
+more clear than in the years prior to 2010 which regulator has jurisdiction over an OTC derivative. 56 
+
+ After Dodd-Frank
+and with the benefit of clarifying regulations from both the CFTC and SEC, federal law assigns the SEC the authority to regulate “security-based
+swaps,” which are broadly defined as OTC derivatives, including swaps, based on (1) a single security or (2) a loan or (3) a narrow-based
+group or index of securities or (4) events relating to a single issuer or issuers of securities in a narrow-based group or index.
+
+ Total return
+swaps on a single security, loan or narrow-based security index are security-based swaps regulated by the SEC, its rules, the 1934 Act
+and Dodd-Frank.
+
+ 55 See
+generally , Gordon F. Peery, The Post-Reform Guide to Derivatives
+and Futures (Wiley 2012), at 30 (hereinafter “ Guide to Derivatives ”).
+
+ 56 The regulators’
+rules were proposed, refined and published in “Further Definition of ’Swap,’ ’Security- Based Swap,’ and
+’Security-Based Swap Agreement’; Mixed Swaps; Security-Based Swap Agreement Recordkeeping,” 77 Fed. Reg. 48208 (August
+13, 2012)(“ Swap Definitions ”). Mixed swaps are swaps
+that after Dodd-Frank and the aforementioned regulations are within the jurisdiction of both the SEC and CFTC and these typically include
+a security and a commodity such as a swap based on a currency (i.e., a commodity) and an equity (i.e., a security); the breadth and reach
+of the mixed swap definition is intended to be narrow and to close gaps in the OTC derivatives regulations post Dodd-Frank.
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 32 
+
+ Total return
+swaps based on more than one security, more than one loan, or on a broad-based security index are “swaps” regulated by the
+CFTC, its rules, the CEA and Dodd Frank.
+
+ The SEC and
+the CFTC also in rare cases, not relevant here, share jurisdiction over “mixed swaps,” and the regulations of the SEC for
+security-based swaps, and the CFTC for swaps, are completely different, separate and apart from each other.
+
+ This means
+that derivative execution, documentation, settlement, reporting and recordkeeping requirements for security-based swaps (regulated by
+the SEC) and swaps (regulated by the CFTC) are completely different.
+
+ The easiest
+way to understand whether a derivative is regulated by the SEC or CFTC is to focus on the subject, or “reference” or “reference
+obligation” (in the case of the TRS, the Reference Assets and reference portfolio) of the derivative, which is the asset, event
+or other thing from which the financial product derives its value.
+If the subject of the derivative is a commodity ( e.g ., gold), or
+a basket of securities (or broad based index) then that derivative is a swap regulated by the CFTC.
+
+ If
+the derivative is a loan or a single security or a narrow-based index, then that derivative is likely 57
+ a security-based swap regulated by the SEC.
+
+ For our purposes,
+the TRS is regulated by the SEC if the subject of the TRS is the security (equity or debt (or loan)) of a single company or a narrow-based
+security index; otherwise, the TRS is a “swap” regulated by the CFTC.
+
+ A narrow-based
+security index, generally, with exceptions, 58 is an index of securities that meets one
+of the following four requirements (1) it has nine or fewer components; (2) one component comprises more than 30 percent of the index
+weighting; (3) the five highest weighted components comprise more than 60 percent of the index weighting, or (4) the lowest weighted
+components comprising in the aggregate 25 percent of the index’s weighting have an aggregate dollar value of average daily volume
+over a six-month period of less than $50 million ($30 million if there are at least 15 component securities).
+
+ 57 An option on a single equity is
+technically (again with limited exceptions) a “security” also regulated by the SEC. A security-based swap is also a “security”
+regulated by the SEC.
+
+ 58 The legal definition of narrow-based
+security interest, in the context of a swap, in Section 1a(25) of the Commodity Exchange Act, 7 USC 1a(25), contains several exceptions.
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 33 
+
+ OTC
+derivatives which are not security-based swaps generally fall into the category of a “swap,” a regulatory term which is meant
+to include all other (non-security- based swap) derivatives executed OTC, including an option, or a swap, on a basket of securities.
+A “swap,” as defined by the CFTC, entails “the exchange of one asset or liability for a similar asset or liability
+for the purpose of lengthening or shortening maturities, or otherwise shifting risks. This may entail selling one securities issue and
+buying another in foreign currency; it may entail buying a currency on the spot market and simultaneously selling it forward. Swaps also
+may involve exchanging income flows; for example, exchanging the fixed rate coupon stream of a bond for a variable rate payment stream,
+or vice versa, while not swapping the principal component of the bond. Swaps are generally traded over-the-counter.” 59 
+
+ Section
+721(a) of Dodd-Frank added Section 1a(47) to the Commodity Exchange Act (7 U.S.C. § 1a(47)) to bring total return swaps under the
+regulatory jurisdiction of the CFTC if those swaps reference a broadly-based index or a basket of companies (as opposed to, in this case,
+a single TRS Company consisting of a Cannabis Company in compliance with state law). Whereas the TRS Documentation is governed by state
+law ( i.e. , the laws of the State of New York), the TRS itself
+is an OTC derivative now subject to federal law. 60 
+
+ The TRS’s
+now before us are dynamically managed, which is to say that a portfolio manager “constructs” the derivative before execution
+and then has the right --and indeed it is contemplated that such right will be executed frequently, which is to say on a daily basis,
+probably-- to add to or subtract from the basket of equities on which the TRS is based. From a regulatory standpoint, dynamic management
+of a TRS does not change the classification or regulator of the TRS; the Swap Definitions provide that the classification of an OTC derivative
+under Title VII of Dodd Frank is determined prior to its execution and then the product will retain its initial characterization throughout
+its life with the same regulator retaining jurisdiction from execution to expiry (and even if a narrow- based index becomes a broad-based
+index referenced in the same TRS, or vice versa, the regulator and derivative characterization as a swap or security-based swap remains
+the same over the life of the derivative.
+
+ 59 See
+ CFTC Glossary, available at https://www.cftc.gov/LearnAndProtect/EducationCenter/CFTCGlossary/glossary_s.htm l
+ and accessed on April 14, 2021.
+
+ 60 “Title
+VII [of Dodd Frank] defines ’security-based swap’ as a swap that is based on a narrow-based security index, a single security
+or a loan [or] the occurrence, nonoccurrence or the extent of the occurrence of an event relating to a single issuer of a security or
+the issuers of securities in a narrow-based security index. An option on a security is not a security-based swap unless the security
+is restricted under the 1934 Act.” Guide to Derivatives at 141. The focus of this letter, as expressed in summary form on page
+2, is a set of opinions as to the enforceability of the TRS and other financial products executed, purchased and owned, whether beneficially
+or not, by the Funds and not compliance with all aspects of Applicable Federal Law and such compliance is outside of the scope of this
+letter.
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 34 
+
+ After the passage
+of Dodd-Frank in 2010, and implementing regulations under that act, a TRS based on a broad-based index of TRS Companies and a TRS referencing
+two or more TRS Companies likewise would be an OTC derivative (a “swap”) regulated by and subject to CFTC regulation. The
+SEC regulates most equity options as well as, for purposes of this letter, the TRS
+and swaps based on “single names,” or one TRS Company (and narrow-based securities indices). Dodd-Frank also added Section
+3(a)(68) to the Exchange Act; accordingly, for a TRS based on the equity of a single TRS Company, the U.S. regulator is the SEC. For the
+reasons stated above and just as we believe that the DOJ and federal prosecutors should not pursue any action with respect to the TRS,
+we see no SEC guidance today that points to a conclusion that a TRS would be rendered invalid by the SEC under the CSA or the 1934 Act.
+
+ Extent of Ownership of a Cannabis
+Company 
+
+ We
+summarized at the outset of this Part IV the cash-settlement, non-ownership aspects of the TRS. Each Fund executing a TRS obtains nothing
+(except during settlement pursuant to TRS Documentation), and is obligated to do nothing, other than to make and to receive cash payments.
+In the absence of the right to vote, the absence of intent to prevent vesting or absence of intent to evade ownership obligations or
+ability or desire to dispose shares of the underlying cannabis security, we do not believe that the TRS’s at issue here confer
+ownership interest in the underlying cannabis companies. Additionally, we do not believe that the Funds would have a reporting obligation
+from a purely cash-settled TRS (and we believe that the Funds are not attempting to avoid obligations of ownership). 61
+ As the case law and regulatory guidance is not settled insofar as total return swaps generally, we reference the following
+authorities that lead us to the conclusions and opinions found at the conclusion of this Part IV:
+
+ · Although
+a long position under an equity swap would generally not be treated as beneficial ownership of the underlying security under Rule 13d-3
+under the Exchange Act, as the “long” party would not typically have the right to vote or dispose of the underlying shares,
+Schedule 13D (but not Schedule 13G) requires the disclosure by a reporting person of contracts involving the relevant shares. 62 
+
+ 61 See CSX
+Corp. v. The Children’s Investment Fund Management, 562 F.Supp.2d 511 (S.D.N.Y 2008), aff’d, 292 F. App’x 133 (2d
+Cir. 2008) (Second Circuit Court of Appeals unable to reach agreement on whether party executing TRS is a beneficial owner), 654
+F.3d 276 (2d Cir. 2011) (“This case comes to us raising issues concerning a contractual arrangement known as a
+‘cash-settled total return equity swap agreement’ although our disposition at this stage of the appeal touches only
+tangentially on such issues”.)(deciding only issues pertaining to a “group” violation of Section
+13(d)(3)(“CSX”)); see also 2 Edward F. Greene et
+al., U.S. Regulation of the International Securities and Derivatives Markets § 14.02[2][a] (9th Ed 2008); Arnold S. Jacobs, The
+Williams Act - Tender Offers and Stock Accumulations § 2.12 (2009); James P. Smith & Corinne Levy, ‘CSX’:
+Second Circuit Upholds Denial of Injunctive Relief, N.Y.L.J., Sept. 26, 2008, at 4. We view the legal and other authorities as
+helpful in our analysis and the facts in CSX to be distinguishable because whereas the total return swap in CSX resulted in an
+effort to elect candidates to the board of directors of CSX, each TRS now before us is cash-settled with no exercise of any right
+other than the right to receive a cash payment.
+
+ 62 Id .,
+Greene et. al ., supra footnote 49, § 1.02[2][a] n.26.
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 35 
+
+ · [A] person who is a party to a cash-settled swap does not beneficially own the securities subject to the swap if he does not have
+the right to vote or to sell those securities either pursuant to the swap’s contractual terms or pursuant to another understanding
+or arrangement with the counterparty to the swap. Thus, a party to a cash-settled swap not possessing such voting or dispositive power
+has no Section 13(d) reporting duty, no matter how large a percent of the stock is the subject of the cash-settled swap. 63 
+
+ · The
+Division [of Corporation Finance, SEC] believes that interpreting an investor’s beneficial ownership under Rule 13d-3 to include
+shares used in a counter-party’s hedge, absent unusual circumstances, would be novel and would create significant uncertainties
+for investors who have used equity swaps in accordance with accepted market practices understood to be based on reasonably well-settled
+law. 64 
+
+ The TRS’s
+to be executed by the Funds are, as noted above, security-based swaps regulated by the SEC and as the TRS’s are cash-settled with
+no TRS term calling for TRS Company ownership by the Funds, the Funds should not have ownership or reporting obligations under the 1934
+Act. As we have also noted, the underlying securities on which the TRS’s will be based are companies with business activities conducted
+within the bounds of applicable local and state law, but not necessarily the CSA.
+
+ TRS Opinions 
+
+ Based on the
+relevant facts pertaining to the TRS’s as described in this Part IV of our letter, and subject to the TRS-specific qualifications,
+exceptions and limitations discussed below and the scope of this letter, we conclude, having due regard for legal considerations set forth
+herein, that, for purposes of the 1934 Act (as amended by Dodd- Frank) or the CEA (also as amended by Dodd-Frank) and with respect to
+only the TRS and assuming full compliance with state law by the Cannabis Company referenced in the TRS (for the reasons stated in page
+19 of this letter, we do not focus on state law and as we state in footnotes 17 and 32, we are aware of no federal investigation of any
+such Cannabis Company):
+
+ · The
+TRS Documentation (as defined below) should create legal, valid and binding obligations under New York law with respect to the Funds
+and each of their counterparties to a TRS;
+
+ 63 Jacobs, supra
+footnote 49, § 12.12.
+
+ 64 Letter from
+Brian V. Breheny, Deputy Director, Division of Corporation Finance, SEC, to Judge Lewis A. Kaplan, United States District Judge, Southern
+District of New York (June 4, 2008), available at http://www.givsondunn.com/publications/Documents/CSX-BrianBrehenyLtrtoJudgeKaplan.pdf).
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 36 
+
+ · The
+TRS should not be rendered unenforceable due to a violation of the CSA;
+
+ · The
+Funds should not have ownership, pursuant to Rule 13d- 3 promulgated under the 1934 Act, with respect to the Cannabis Company referenced
+in the TRS;
+
+ · If
+a TRS has (as the extent of its Reference Assets and reference portfolio) a single security, or a single loan or alternatively a single,
+narrow-based security index, then the TRS is a security- based swap regulated and governed by the SEC, its rules, the 1934 Act and Dodd-Frank
+and such Reference Asset or portfolio, by itself, would not likely render the TRS unenforceable under the 1934 Act as amended by Dodd-Frank
+and the SEC rules promulgated thereunder;
+
+ · If
+a TRS has (as the extent of its Reference Assets and reference portfolio) more than one security, more than one loan, or alternatively
+a broad-based security index or any combination of the foregoing, then the TRS is a swap regulated and governed by the CFTC, and such
+Reference Asset or portfolio, by itself, would not likely render the TRS unenforceable under the CEA as amended by Dodd-Frank and CFTC
+rules promulgated thereunder;
+
+ · The
+Funds and their beneficial owners should incur no regulatory exposure or regulatory liability solely because a court of competent jurisdiction
+in the future holds that the TRS, if characterized as a security-based swap, violates the CSA or the 1934 Act, as amended by Dodd-Frank,
+and in the event that the federal government declares at some future time that the TRS violates the CSA and/or the 1934 Act, as amended,
+the Funds and/or their respective TRS counterparties can terminate the TRS on a no- fault basis and use mid-market values calculated pursuant
+Section 6(e) of the ISDA Master Agreement.
+
+ · The
+Funds and their beneficial owners should incur no regulatory exposure or regulatory liability solely because a court of competent jurisdiction
+in the future holds that the TRS, if characterized as a swap, violates the CSA or the CEA, as amended by Dodd-Frank, and in the event
+that the federal government declares at some future time that the TRS violates the CSA and/or the CEA, as amended, the Funds and/or each
+Fund TRS counterparty can terminate the TRS on a no-fault basis and use mid- market values calculated pursuant Section 6(e) of the ISDA
+Master Agreement.
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 37 
+
+ The
+foregoing opinions are rendered at a “should” level of confidence, which involves a greater degree of certainty than a
+“more likely than not” opinion. However the foregoing opinions and this letter are not stated and rendered with
+unqualified guarantees with airtight certainty for two reasons: first, there is a void of on-point regulatory guidance by U.S.
+derivatives regulators ( i.e., the CFTC and SEC) with respect
+to OTC and exchange-traded derivatives referencing Cannabis Companies (including those companies, including, we assume for purposes
+of this letter, the TRS Companies, operating in compliance with State law) and (a) such regulators are currently evaluating the
+legality and enforceability of derivatives with the same or similar structure and legal documentation as the TRS before us and the
+regulators are basing their review on specific facts and new, to-be-proposed regulation and guidance which are not known to us as of
+the date hereof; and (b) exchanges and clearinghouses evaluating the legality of derivatives referencing hemp and/or cannabis
+companies are currently awaiting U.S. regulatory guidance on the application of the CSA and facts, legal issues and processes which
+are not known to us as of the date of this letter. Secondly, we have not investigated (x) the TRS Companies to determine whether
+those companies are in compliance with all applicable law including state law; (y) the operational aspects of the Funds including
+but not limited to their performance of TRS Documentation obligations, responses to margin calls and/or other requests from the
+Funds’ counterparties in each TRS; (z) the compliance of each Fund with respect to the CEA (if the TRS is a swap) or the 1934
+Act (if the TRS is a security-based swap), 1940 Act diversification and other federal requirements which are or in the future may be
+applicable to each Fund.
+
+ Accordingly,
+there can be no assurance that the SEC, the CFTC or other state and federal regulators of the TRS (or any one or more aspects of the derivative),
+as well as the DOJ and other departments, agencies or regulators, would agree with our legal analysis, conclusions and opinions and would
+not successfully challenge this letter or would not prevail if any challenge were litigated or if a regulatory enforcement action would
+take place. In light of the unavoidable realities and facts, including those referenced in (a) through (c) and (x) through (z), and, although
+this opinion represents our considered legal judgment, this has no binding effect and, therefore, there can be no assurance that the SEC,
+CFTC or other U.S. or state regulator, department or agency will not be able to successfully challenge the TRS on grounds of enforceability
+or any of the conclusions reached by us in this letter. We do not express any opinion with respect to the law of any jurisdiction outside
+of the United States, conflict of law principles or law, the rules of any derivatives exchange or clearinghouse, the internal policies
+of any party to a TRS or custodian or bank which may be involved in the performance of the TRS. The four opinions concerning the TRS’s
+are delivered subject to this understanding and we are under no obligation to monitor the law or body of regulation to update this letter.
+Our opinion is subject to and is limited by the effects of bankruptcy, insolvency, reorganization, receivership, moratorium and similar
+laws including but not limited to state fraudulent transfer and conveyance laws, judicially developed doctrines in this area, general
+principles of equity including doctrines requiring consideration of the impracticability or impossibility or frustration of purpose relieving
+performance at the time of attempted enforcement as well as other rights, remedies and waivers contained in the TRS Documentation and any ancillary documents, schedules, instruments,
+side letters or other materials referenced therein.
+
+ Legal Opinion prepared for Amplify Investments LLC
+ January 22, 2024
+ Page 38 
+
+ Our opinions
+with respect to the TRS’s are limited to the facts, matters and law expressly set forth herein and no opinion may be inferred or
+implied beyond what is expressly stated in this letter. Our TRS-related opinions are for the benefit of the Funds and their respective
+beneficial owners and may not be relied upon by any other person or entity without the express written consent of Seyfarth Shaw LLP.
+
+ We hereby consent
+to the filing of this opinion as an exhibit to the Funds’ respective Registration Statements on Form N-1A, including any amendments
+and supplements thereto. In giving such consent, we do not hereby admit that we are within the category of persons whose consent is required
+under Section 7 of the Securities Act, or the rules and regulations of the SEC thereunder.
+
+ Sincerely yours, 
+
+ SEYFARTH SHAW LLP
