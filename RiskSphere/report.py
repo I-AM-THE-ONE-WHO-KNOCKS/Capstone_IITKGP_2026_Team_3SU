@@ -277,7 +277,147 @@ def _exercise_draft_term():
     }
 
 
-def _submission(stamp, live, retrieval_rows, retrieval, draft):
+def _run_robustness():
+    """Ask Qwen to plan and phrase every robustness wording.
+
+    Python still decides the clause. A row passes only when the plan came
+    from Qwen, the question was not refused, and the Python conclusion is
+    the one the wording was written to produce. The model is not switched
+    off for this run. Returns (rows, summary).
+    """
+    import json
+
+    import agent
+    import app
+
+    cases = json.loads((ROOT / "data" / "robustness_questions.json").read_text())
+    os.environ.pop("PFE_LLM_OFF", None)
+    agent.load_secrets()
+    if not agent.llm_enabled():
+        raise SystemExit("Qwen is not configured. The robustness wordings are not scored with the model off.")
+    start_calls = agent.CHAT_CALLS
+    start_prompt = agent.PROMPT_TOKENS
+    start_completion = agent.COMPLETION_TOKENS
+    rows = []
+    for index, case in enumerate(cases, 1):
+        agent.save_state({"last_counterparty": ""})
+        payload = app.answer(case["question"])
+        plan = payload.get("plan") or {}
+        flags = payload.get("flags") or []
+        refused = any(str(flag).startswith("refused") or flag == "kill_switch" for flag in flags)
+        applied = {}
+        for result in payload.get("results") or []:
+            if result.get("tool") == "apply_clause" and result.get("ok"):
+                applied = result.get("output") or {}
+        conclusion = applied.get("conclusion") or ""
+        status = applied.get("status") or ""
+        visible = "\n".join(payload.get("steps") or [])
+        model_on = plan.get("router") == "qwen3-8b"
+        phrase_ok = case["must_say"].lower() in conclusion.lower()
+        shown = bool(conclusion) and conclusion in visible
+        passed = model_on and not refused and status == case["expect"] and phrase_ok and shown
+        row = {
+            "id": case["id"],
+            "family": case.get("family") or "",
+            "question": case["question"],
+            "expect": case["expect"],
+            "status": status,
+            "router": plan.get("router") or "",
+            "passed": "true" if passed else "false",
+            "refused": "true" if refused else "false",
+            "phrase_ok": "true" if phrase_ok else "false",
+            "shown": "true" if shown else "false",
+            "wording": "yes" if payload.get("wording") else "no",
+            "flags": ",".join(flags),
+            "conclusion": conclusion,
+        }
+        rows.append(row)
+        print(
+            f"[robust {index}/{len(cases)}] {row['id']} router={row['router']} "
+            f"status={status or '-'} pass={row['passed']}",
+            flush=True,
+        )
+    families = {}
+    for row in rows:
+        bucket = families.setdefault(row["family"], {"n": 0, "passed": 0})
+        bucket["n"] += 1
+        bucket["passed"] += row["passed"] == "true"
+    summary = {
+        "questions": len(rows),
+        "passed": sum(1 for row in rows if row["passed"] == "true"),
+        "model_plans": sum(1 for row in rows if row["router"] == "qwen3-8b"),
+        "refused": sum(1 for row in rows if row["refused"] == "true"),
+        "wording_kept": sum(1 for row in rows if row["wording"] == "yes"),
+        "wording_dropped": sum(1 for row in rows if row["wording"] == "no" and row["router"] == "qwen3-8b"),
+        "chat_calls": agent.CHAT_CALLS - start_calls,
+        "prompt_tokens": agent.PROMPT_TOKENS - start_prompt,
+        "completion_tokens": agent.COMPLETION_TOKENS - start_completion,
+        "families": families,
+    }
+    return rows, summary
+
+
+def _robustness_csv(path, rows):
+    """Write one row per live robustness wording."""
+    fields = ["id", "family", "expect", "status", "router", "passed", "refused", "phrase_ok", "shown", "wording", "flags", "question", "conclusion"]
+    with path.open("w", newline="") as handle:
+        writer = csv.DictWriter(handle, fieldnames=fields)
+        writer.writeheader()
+        writer.writerows(rows)
+
+
+def _robustness_section(summary, rows):
+    """Markdown for the live robustness wordings."""
+    lines = [
+        "## Robustness wordings",
+        "",
+        "These 110 questions are not in the frozen 27. Each one was sent through the console path with Qwen on. "
+        "Qwen planned the question and was asked to phrase the result. Python compared the passage, or refused "
+        "when the passage does not state the decision. A row passes when the plan came from Qwen, the question "
+        "was not refused, and the Python conclusion shown to the analyst is the expected one. "
+        "A dropped wording does not fail the row: the Python line stays.",
+        "",
+        f"Passed {summary['passed']}/{summary['questions']}. "
+        f"Plans from Qwen {summary['model_plans']}/{summary['questions']}. "
+        f"Refused {summary['refused']}. "
+        f"Wording kept {summary['wording_kept']}, dropped {summary['wording_dropped']}. "
+        f"Chat calls on this list {summary['chat_calls']}. "
+        f"Prompt / completion tokens {summary['prompt_tokens']} / {summary['completion_tokens']}.",
+        "",
+        "| Decision | Passed |",
+        "| --- | --- |",
+    ]
+    labels = {
+        "threshold_below": "Meridian exposure below the threshold",
+        "threshold_above": "Meridian exposure at or above the threshold",
+        "rounding": "Meridian delivery rounded up",
+        "mta_below": "Harbor Lane at or below the minimum transfer",
+        "mta_above": "Harbor Lane above the minimum transfer",
+        "dispute": "Valuation dispute, collateral refused",
+        "return": "Posted cash, counterparty wants some back",
+        "swap": "Treasuries swapped for corporate bonds",
+        "lend": "Lend posted collateral overnight",
+        "small_increase": "Exposure rose by a small amount",
+        "arrival": "When must the money arrive",
+        "close_out": "Close everything out",
+        "exemption": "Banks below the upfront-margin size",
+        "fx_mismatch": "Euro collateral against a dollar swap",
+    }
+    for family, bucket in summary["families"].items():
+        lines.append(f"| {labels.get(family, family)} | {bucket['passed']}/{bucket['n']} |")
+    failed = [row for row in rows if row["passed"] != "true"]
+    lines += ["", "### Wordings that did not pass", ""]
+    if not failed:
+        lines.append("None. Every wording kept the Python conclusion, and every plan came from Qwen.")
+    else:
+        lines += ["| Id | Expected | Status | Router |", "| --- | --- | --- | --- |"]
+        for row in failed:
+            lines.append(f"| {row['id']} | {row['expect']} | {row['status'] or '-'} | {row['router'] or '-'} |")
+    lines.append("")
+    return "\n".join(lines)
+
+
+def _submission(stamp, live, retrieval_rows, retrieval, draft, robustness=None):
     """The graded write-up. Every number comes from the runs just finished."""
     import agents
 
@@ -442,7 +582,9 @@ def _submission(stamp, live, retrieval_rows, retrieval, draft):
         "",
         "- eval_results_live.csv — per-question plan, tools, flags, critic reasons, retrieval mode, latency",
         "- retrieval_eval.csv — per-query lexical rank and hybrid rank",
+        "- robustness_live.csv — per-wording plan source, Python status, and whether the conclusion was shown",
         "",
+        _robustness_section(robustness[1], robustness[0]) if robustness else "",
         "## Limitations",
         "",
         "- The book, the names, and the credit inputs are synthetic. Each limit is the simulated peak times a factor.",
@@ -478,8 +620,11 @@ def main():
     _write_retrieval_csv(OUT_DIR / "retrieval_eval_live.csv", rows)
     log.work("Documents", "exercising the draft term tool")
     draft = _exercise_draft_term()
+    log.work("Orchestrator", "running the robustness wordings with Qwen on")
+    robust_rows, robust_summary = _run_robustness()
+    _robustness_csv(OUT_DIR / "robustness_live.csv", robust_rows)
     stamp = dt.datetime.now().strftime("%Y-%m-%d %H:%M")
-    body = _submission(stamp, agent_summary, rows, retrieval_results, draft)
+    body = _submission(stamp, agent_summary, rows, retrieval_results, draft, (robust_rows, robust_summary))
     OUT_DIR.mkdir(exist_ok=True)
     for name in ("submission_report.md", "evaluation_report.md", "evaluation_report_live.md"):
         path = OUT_DIR / name
@@ -489,6 +634,14 @@ def main():
     print(f"wrote {OUT_DIR / 'retrieval_eval.csv'}")
     print("draft_term", "ok" if draft.get("ok") else draft.get("error"), "status", draft.get("status"), "applied", draft.get("applied"))
     print("retrieval_modes", agent_summary.get("retrieval_modes"))
+    print(
+        "robustness_passed",
+        f"{robust_summary['passed']}/{robust_summary['questions']}",
+        "qwen_plans",
+        f"{robust_summary['model_plans']}/{robust_summary['questions']}",
+        "chat_calls",
+        robust_summary["chat_calls"],
+    )
 
 
 if __name__ == "__main__":

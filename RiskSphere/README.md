@@ -132,7 +132,7 @@ cd RiskSphere
 python3 --version
 ```
 
-The version line should say 3.9 or higher. The submission run is `python3 report.py`. Qwen plans and phrases the frozen question set, the live embedder scores retrieval, the draft-term tool runs, and the command writes the report plus the per-question tables. That run calls the chat gateway and Yahoo. `python3 corner_cases.py` checks the boundaries with the model off and no price download. `python3 retrieval_eval.py` scores retrieval on its own and prints Recall@1, @3, @5, mean reciprocal rank, and nDCG.
+The version line should say 3.9 or higher. The submission run is `python3 report.py`. Qwen plans and phrases the frozen question set, the live embedder scores retrieval, the draft-term tool runs, and the command writes the report plus the per-question tables. That run calls the chat gateway and Yahoo, and it also sends the 110 decision wordings through Qwen. `python3 corner_cases.py` checks the boundaries with the model off and no price download. `python3 retrieval_eval.py` scores retrieval on its own and prints Recall@1, @3, @5, mean reciprocal rank, and nDCG.
 
 ### 2. Create the local variable file
 
@@ -259,7 +259,7 @@ This question never reaches the model or a calculation.
 
 ## What this slice leaves out
 
-The labelled clause set is sample text. The term sheet is taken from the downloaded agreements, and the quote gate decides what is verified. A schedule question uses two model calls, the plan and then the wording. A question that asks for an agreement term adds one Documents call between them. The critic may ask for one rewrite. We kept the rewrite count at one so a question stays short on a key that allows one request at a time. A draft is not a signature, and nothing is sent.
+The labelled clause set is sample text. The term sheet is taken from the downloaded agreements, and the quote gate decides what is verified. A schedule question uses two model calls, the plan and then the wording. A question that asks for an agreement term adds one Documents call between them. A question that asks whether something is required, allowed, or exempt is decided in Python from the retrieved passage, or refused when the passage does not state it. The critic may ask for one rewrite. We kept the rewrite count at one so a question stays short on a key that allows one request at a time. A draft is not a signature, and nothing is sent.
 
 ## How the pieces fit
 
@@ -274,7 +274,7 @@ Two agents, and Python for every calculation. The orchestrator calls Qwen for th
 | Margin | Python. Variation margin from the agreement, and an initial-margin proxy with its own label. | Variation margin in stage 1. The proxy in stage 3 |
 | Collateral | Python. The haircut table, then eligible value, shortfall, and surplus. | Haircut in stage 1. Coverage in stage 3 |
 | Counterparty and reporting | Python for the limit test, expected loss, and the draft report. Qwen may narrate only after the numbers exist. | Limit in stage 1. Expected loss in stage 3. Report in stage 5 |
-| Documents | The second agent. Hybrid retrieval, one Qwen reading, the quote gate, and a draft term. | Stage 4 |
+| Documents | The second agent. Hybrid retrieval, one Qwen reading, the quote gate, a draft term, and a Python decision from a retrieved passage. | Stage 4 |
 
 ```mermaid
 flowchart TD

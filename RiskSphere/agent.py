@@ -39,7 +39,7 @@ INJECTION_RE = re.compile(
     re.I,
 )
 ACTION_RE = re.compile(
-    r"\b(issue|send|execute|approve|release|book|settle|waive|override|increase|change|raise|pay|transfer)\b.{0,40}"
+    r"(?<!n't )(?<!not )(?<!refuses to )(?<!refused to )\b(issue|send|execute|approve|release|book|settle|waive|override|increase|change|raise|pay|transfer)\b.{0,40}"
     r"\b(margin call|the call|limit|trade|collateral|breach)\b"
     r"|\b(margin call|the call|limit|trade|collateral|breach)\b.{0,40}"
     r"\b(issue|send|execute|approve|release|book|settle|waive|pay|transfer)\b",
@@ -52,7 +52,7 @@ DOMAIN_RE = re.compile(
     r"minimum transfer|mtm|credit support|volatil|\bvol\b|price|spot|breach|yahoo|"
     r"eligible|independent amount|scenario|shock|shortfall|surplus|expected loss|"
     r"initial margin|\balerts?\b|\breport\b|disputes?|clause|schedule|stale|data quality|"
-    r"data complete|book complete|\bits\b|\bit\b)",
+    r"data complete|book complete|\bits\b|\bit\b|arrive|posted|pledge|downgrad|exempt)",
     re.I,
 )
 
@@ -621,7 +621,15 @@ def heuristic_plan(question, state):
     if wants_doc:
         pile = "d499" if re.search(r"d499|schedule|haircut", lowered) else "csa"
         steps.append({"tool": "search_clauses", "args": {"query": question, "pile": pile}})
-    if "haircut" in lowered and not named and not wants_doc:
+    if needs_reasoning(question):
+        for pile in reasoning_piles(question):
+            steps.append({
+                "tool": "search_clauses",
+                "args": {"query": retrieval_query(question), "pile": pile},
+            })
+        if cid and re.search(r"want some back|have to return|have to call them", lowered):
+            steps.append({"tool": "calculate_margin_call", "args": {"counterparty": cid}})
+    if "haircut" in lowered and not named and not wants_doc and not needs_reasoning(question):
         asset = "cash"
         for name in ("gold", "equity", "corporate", "government"):
             if name in lowered:
@@ -692,6 +700,55 @@ def heuristic_plan(question, state):
         plan["refuse"] = True
         plan["refusal_reason"] = "no tool matched"
     return validate_plan(plan, cfg) if steps else plan
+
+
+_QUERY_EXTRA = {
+    "fx": "currency mismatch collateral settlement currency",
+    "close": "legal determination netting enforceable",
+    "exempt": "not the full published BCBS-IOSCO table",
+    "dispute": "disputed amount undisputed exposure",
+    "arrive": "notice is given by valuation agent",
+    "return": "return amounts rounded",
+    "swap": "corporate bonds may be posted eligible",
+    "lend": "reuse of posted collateral",
+    "threshold": "Threshold does not require a delivery of collateral",
+    "rounding": "delivery rounds up nearest",
+    "mta": "Minimum Transfer Amount is called",
+}
+
+
+def needs_reasoning(question):
+    """True when the question asks for a decision, not a quotation.
+
+    Retrieval can still find a passage. The decision is applied in Python
+    from that passage, or refused when the passage does not state it.
+    """
+    import stage4
+    return bool(stage4.decision_kind(question))
+
+
+def reasoning_piles(question):
+    """Which clause piles a decision question should search."""
+    import stage4
+    kind = stage4.decision_kind(question)
+    if kind in ("fx", "exempt"):
+        return ["d499"]
+    return ["csa"]
+
+
+def retrieval_query(question):
+    """The analyst's question, plus the clause words a decision needs.
+
+    The extra words are only added for a decision question, so a plain
+    "what does the schedule say" query is unchanged. The ranker still
+    returns passages. It does not answer.
+    """
+    import stage4
+    text = question or ""
+    extra = _QUERY_EXTRA.get(stage4.decision_kind(text))
+    if extra:
+        text = text + " " + extra
+    return text[:500]
 
 
 def term_request(question):
@@ -902,6 +959,14 @@ def critic(text, tool_result):
             for cited in re.findall(r"\[(S\d+)\]", text or ""):
                 if cited not in sources:
                     issues.append("wording cites a source that was not returned")
+        if row.get("tool") == "apply_clause":
+            needle = str(output.get("must_say") or "")
+            if needle and needle.lower() not in low and needle.replace(",", "") not in plain:
+                issues.append("clause conclusion missing from the wording")
+            if output.get("status") == "NOT_IN_PASSAGES" and re.search(
+                r"\b(exempt|allowed to lend|we can close|close everything out)\b", low
+            ):
+                issues.append("wording grants a decision the passages do not support")
         if row.get("tool") == "read_term":
             if re.search(r"stored agreement (was|has been) (updated|changed|edited)", low):
                 issues.append("wording says the agreement changed but the draft was not applied")

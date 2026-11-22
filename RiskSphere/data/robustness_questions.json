@@ -1,0 +1,772 @@
+[
+  {
+    "id": "thr-below-1",
+    "family": "threshold_below",
+    "question": "Meridian's exposure is USD 800,000. Does the agreement require a delivery of collateral?",
+    "expect": "APPLIED",
+    "must_say": "no delivery is required"
+  },
+  {
+    "id": "thr-below-2",
+    "family": "threshold_below",
+    "question": "Meridian exposure is USD 100,000. Do we have to deliver collateral?",
+    "expect": "APPLIED",
+    "must_say": "no delivery is required"
+  },
+  {
+    "id": "thr-below-3",
+    "family": "threshold_below",
+    "question": "For Meridian, exposure is USD 250,000. Does the agreement require a delivery?",
+    "expect": "APPLIED",
+    "must_say": "no delivery is required"
+  },
+  {
+    "id": "thr-below-4",
+    "family": "threshold_below",
+    "question": "Meridian's exposure is USD 999,000. Is a delivery of collateral required?",
+    "expect": "APPLIED",
+    "must_say": "no delivery is required"
+  },
+  {
+    "id": "thr-below-5",
+    "family": "threshold_below",
+    "question": "Exposure is USD 500,000 on Meridian. Do we have to deliver collateral?",
+    "expect": "APPLIED",
+    "must_say": "no delivery is required"
+  },
+  {
+    "id": "thr-below-6",
+    "family": "threshold_below",
+    "question": "Meridian's exposure is USD 750,000. Does the agreement require a delivery of collateral?",
+    "expect": "APPLIED",
+    "must_say": "no delivery is required"
+  },
+  {
+    "id": "thr-below-7",
+    "family": "threshold_below",
+    "question": "Meridian exposure is USD 10. Does the agreement require a delivery?",
+    "expect": "APPLIED",
+    "must_say": "no delivery is required"
+  },
+  {
+    "id": "thr-below-8",
+    "family": "threshold_below",
+    "question": "Our Meridian exposure is USD 400,000. Have to deliver collateral?",
+    "expect": "APPLIED",
+    "must_say": "no delivery is required"
+  },
+  {
+    "id": "thr-above-1",
+    "family": "threshold_above",
+    "question": "Meridian's exposure is USD 1,000,000. Does the agreement require a delivery of collateral?",
+    "expect": "APPLIED",
+    "must_say": "does not state the call amount"
+  },
+  {
+    "id": "thr-above-2",
+    "family": "threshold_above",
+    "question": "Meridian's exposure is USD 1,500,000. Does the agreement require a delivery?",
+    "expect": "APPLIED",
+    "must_say": "does not state the call amount"
+  },
+  {
+    "id": "thr-above-3",
+    "family": "threshold_above",
+    "question": "Meridian exposure is USD 2,000,000. Do we have to deliver collateral?",
+    "expect": "APPLIED",
+    "must_say": "does not state the call amount"
+  },
+  {
+    "id": "thr-above-4",
+    "family": "threshold_above",
+    "question": "Meridian's exposure is USD 5,000,000. Is a delivery of collateral required?",
+    "expect": "APPLIED",
+    "must_say": "does not state the call amount"
+  },
+  {
+    "id": "thr-above-5",
+    "family": "threshold_above",
+    "question": "Exposure is USD 1,250,000 on Meridian. Have to deliver collateral?",
+    "expect": "APPLIED",
+    "must_say": "does not state the call amount"
+  },
+  {
+    "id": "thr-above-6",
+    "family": "threshold_above",
+    "question": "Meridian exposure is USD 3,000,000. Does the agreement require a delivery of collateral?",
+    "expect": "APPLIED",
+    "must_say": "does not state the call amount"
+  },
+  {
+    "id": "rnd-1",
+    "family": "rounding",
+    "question": "A Meridian delivery of USD 14,000 is due. What amount is called after rounding?",
+    "expect": "APPLIED",
+    "must_say": "is called as usd 20,000"
+  },
+  {
+    "id": "rnd-2",
+    "family": "rounding",
+    "question": "Meridian delivery is USD 10,000. What amount is called once rounded?",
+    "expect": "APPLIED",
+    "must_say": "is called as usd 10,000"
+  },
+  {
+    "id": "rnd-3",
+    "family": "rounding",
+    "question": "Round a Meridian delivery of USD 1,000. What amount is called after rounding?",
+    "expect": "APPLIED",
+    "must_say": "is called as usd 10,000"
+  },
+  {
+    "id": "rnd-4",
+    "family": "rounding",
+    "question": "We owe a Meridian delivery of USD 10,001. What is the amount once rounded?",
+    "expect": "APPLIED",
+    "must_say": "is called as usd 20,000"
+  },
+  {
+    "id": "rnd-5",
+    "family": "rounding",
+    "question": "Meridian, delivery of USD 25,000. What amount is called after it is rounded up?",
+    "expect": "APPLIED",
+    "must_say": "is called as usd 30,000"
+  },
+  {
+    "id": "rnd-6",
+    "family": "rounding",
+    "question": "There is a Meridian delivery of USD 30,000. What amount is called after rounding?",
+    "expect": "APPLIED",
+    "must_say": "is called as usd 30,000"
+  },
+  {
+    "id": "rnd-7",
+    "family": "rounding",
+    "question": "Please round the Meridian delivery of USD 9,500. What amount is called once rounded?",
+    "expect": "APPLIED",
+    "must_say": "is called as usd 10,000"
+  },
+  {
+    "id": "rnd-8",
+    "family": "rounding",
+    "question": "A delivery of USD 50,000 is due from Meridian. What amount is called after rounding?",
+    "expect": "APPLIED",
+    "must_say": "is called as usd 50,000"
+  },
+  {
+    "id": "rnd-9",
+    "family": "rounding",
+    "question": "Meridian delivery of USD 15,000 needs rounding. What amount is called after rounding?",
+    "expect": "APPLIED",
+    "must_say": "is called as usd 20,000"
+  },
+  {
+    "id": "rnd-10",
+    "family": "rounding",
+    "question": "For Meridian, the delivery is USD 99,999. What amount is called once rounded?",
+    "expect": "APPLIED",
+    "must_say": "is called as usd 100,000"
+  },
+  {
+    "id": "mta-below-1",
+    "family": "mta_below",
+    "question": "Harbor Lane's exposure is USD 40,000. Is a call required?",
+    "expect": "APPLIED",
+    "must_say": "no call is required"
+  },
+  {
+    "id": "mta-below-2",
+    "family": "mta_below",
+    "question": "Harbor exposure is USD 50,000. Do we have to call?",
+    "expect": "APPLIED",
+    "must_say": "no call is required"
+  },
+  {
+    "id": "mta-below-3",
+    "family": "mta_below",
+    "question": "Harbor Lane exposure is USD 1,000. Do we need to call?",
+    "expect": "APPLIED",
+    "must_say": "no call is required"
+  },
+  {
+    "id": "mta-below-4",
+    "family": "mta_below",
+    "question": "Harbor's exposure is USD 49,999. Is a call required?",
+    "expect": "APPLIED",
+    "must_say": "no call is required"
+  },
+  {
+    "id": "mta-below-5",
+    "family": "mta_below",
+    "question": "Harbor Lane exposure is USD 25. Do we have to call them?",
+    "expect": "APPLIED",
+    "must_say": "no call is required"
+  },
+  {
+    "id": "mta-below-6",
+    "family": "mta_below",
+    "question": "Harbor exposure of USD 25,000. Is a call required on the collateral?",
+    "expect": "APPLIED",
+    "must_say": "no call is required"
+  },
+  {
+    "id": "mta-below-7",
+    "family": "mta_below",
+    "question": "Harbor Lane's exposure is USD 10. Do we need to call?",
+    "expect": "APPLIED",
+    "must_say": "no call is required"
+  },
+  {
+    "id": "mta-below-8",
+    "family": "mta_below",
+    "question": "Exposure is USD 100 at Harbor Lane. Is a call required?",
+    "expect": "APPLIED",
+    "must_say": "no call is required"
+  },
+  {
+    "id": "mta-above-1",
+    "family": "mta_above",
+    "question": "Harbor Lane's exposure is USD 50,001. Is a call required?",
+    "expect": "APPLIED",
+    "must_say": "does not state the call amount"
+  },
+  {
+    "id": "mta-above-2",
+    "family": "mta_above",
+    "question": "Harbor exposure is USD 60,000. Do we have to call?",
+    "expect": "APPLIED",
+    "must_say": "does not state the call amount"
+  },
+  {
+    "id": "mta-above-3",
+    "family": "mta_above",
+    "question": "Harbor Lane's exposure is USD 100,000. Do we need to call?",
+    "expect": "APPLIED",
+    "must_say": "does not state the call amount"
+  },
+  {
+    "id": "mta-above-4",
+    "family": "mta_above",
+    "question": "Harbor exposure is USD 80,000. Is a call required?",
+    "expect": "APPLIED",
+    "must_say": "does not state the call amount"
+  },
+  {
+    "id": "mta-above-5",
+    "family": "mta_above",
+    "question": "Exposure is USD 75,000 at Harbor Lane. Do we have to call?",
+    "expect": "APPLIED",
+    "must_say": "does not state the call amount"
+  },
+  {
+    "id": "mta-above-6",
+    "family": "mta_above",
+    "question": "Harbor Lane exposure is USD 200,000. Is a call required?",
+    "expect": "APPLIED",
+    "must_say": "does not state the call amount"
+  },
+  {
+    "id": "dsp-1",
+    "family": "dispute",
+    "question": "Zenith says our valuation of their bonds is wrong and won't send collateral. What are we supposed to do?",
+    "expect": "APPLIED",
+    "must_say": "undisputed amount is transferred"
+  },
+  {
+    "id": "dsp-2",
+    "family": "dispute",
+    "question": "Zenith will not send collateral because they say our valuation is wrong. What are we supposed to do?",
+    "expect": "APPLIED",
+    "must_say": "undisputed amount is transferred"
+  },
+  {
+    "id": "dsp-3",
+    "family": "dispute",
+    "question": "Zenith refuses to post collateral and says the valuation is wrong. What should we do about the collateral?",
+    "expect": "APPLIED",
+    "must_say": "undisputed amount is transferred"
+  },
+  {
+    "id": "dsp-4",
+    "family": "dispute",
+    "question": "Apex disagrees with our valuation of their bonds and will not send the collateral. What are we supposed to do?",
+    "expect": "APPLIED",
+    "must_say": "undisputed amount is transferred"
+  },
+  {
+    "id": "dsp-5",
+    "family": "dispute",
+    "question": "The counterparty won't send collateral. Zenith says the valuation is wrong. What are we supposed to do?",
+    "expect": "APPLIED",
+    "must_say": "undisputed amount is transferred"
+  },
+  {
+    "id": "dsp-6",
+    "family": "dispute",
+    "question": "Vanguard refuses to send collateral over a valuation fight. What are we supposed to do?",
+    "expect": "APPLIED",
+    "must_say": "undisputed amount is transferred"
+  },
+  {
+    "id": "dsp-7",
+    "family": "dispute",
+    "question": "Marina says the valuation is wrong and won't send the collateral. What do we do?",
+    "expect": "APPLIED",
+    "must_say": "undisputed amount is transferred"
+  },
+  {
+    "id": "dsp-8",
+    "family": "dispute",
+    "question": "Kaveri will not send collateral. Their valuation of their bonds differs from ours. What are we supposed to do?",
+    "expect": "APPLIED",
+    "must_say": "undisputed amount is transferred"
+  },
+  {
+    "id": "ret-1",
+    "family": "return",
+    "question": "Apex posted cash last week, but exposure fell and they want some back. Do we have to return it?",
+    "expect": "NOT_IN_PASSAGES",
+    "must_say": "do not say this return is due"
+  },
+  {
+    "id": "ret-2",
+    "family": "return",
+    "question": "Apex posted cash and now they want some back. Do we have to return it?",
+    "expect": "NOT_IN_PASSAGES",
+    "must_say": "do not say this return is due"
+  },
+  {
+    "id": "ret-3",
+    "family": "return",
+    "question": "Exposure fell at Apex and they want the collateral back. Do we give it back?",
+    "expect": "NOT_IN_PASSAGES",
+    "must_say": "do not say this return is due"
+  },
+  {
+    "id": "ret-4",
+    "family": "return",
+    "question": "Apex asked us to hand it back after the exposure fell. Do we have to return collateral?",
+    "expect": "NOT_IN_PASSAGES",
+    "must_say": "do not say this return is due"
+  },
+  {
+    "id": "ret-5",
+    "family": "return",
+    "question": "Do we have to return cash to Apex because they want some back?",
+    "expect": "NOT_IN_PASSAGES",
+    "must_say": "do not say this return is due"
+  },
+  {
+    "id": "ret-6",
+    "family": "return",
+    "question": "Apex wants some of the posted collateral back. Is a return of collateral due?",
+    "expect": "NOT_IN_PASSAGES",
+    "must_say": "do not say this return is due"
+  },
+  {
+    "id": "ret-7",
+    "family": "return",
+    "question": "They want some back from the Apex posting. Do we return the cash?",
+    "expect": "NOT_IN_PASSAGES",
+    "must_say": "do not say this return is due"
+  },
+  {
+    "id": "ret-8",
+    "family": "return",
+    "question": "Apex says exposure is down and they want some back. Must we hand it back?",
+    "expect": "NOT_IN_PASSAGES",
+    "must_say": "do not say this return is due"
+  },
+  {
+    "id": "swp-1",
+    "family": "swap",
+    "question": "The fund wants to pledge corporate bonds instead of the Treasuries it posted before. Can it just swap them?",
+    "expect": "RELATED",
+    "must_say": "do not say they can be swapped"
+  },
+  {
+    "id": "swp-2",
+    "family": "swap",
+    "question": "Can the fund swap the collateral from Treasuries to corporate bonds?",
+    "expect": "RELATED",
+    "must_say": "do not say they can be swapped"
+  },
+  {
+    "id": "swp-3",
+    "family": "swap",
+    "question": "Apex wants a substitution of Treasuries for corporate bonds. Can it just swap them?",
+    "expect": "RELATED",
+    "must_say": "do not say they can be swapped"
+  },
+  {
+    "id": "swp-4",
+    "family": "swap",
+    "question": "Can they post corporate bonds in place of Treasuries as collateral?",
+    "expect": "RELATED",
+    "must_say": "do not say they can be swapped"
+  },
+  {
+    "id": "swp-5",
+    "family": "swap",
+    "question": "Is a swap of the posted Treasuries for corporate bonds allowed?",
+    "expect": "RELATED",
+    "must_say": "do not say they can be swapped"
+  },
+  {
+    "id": "swp-6",
+    "family": "swap",
+    "question": "The fund asks to swap them, corporate bonds instead of the Treasuries it posted before.",
+    "expect": "RELATED",
+    "must_say": "do not say they can be swapped"
+  },
+  {
+    "id": "swp-7",
+    "family": "swap",
+    "question": "Can Apex swap the collateral it posted, Treasuries out and corporate bonds in?",
+    "expect": "RELATED",
+    "must_say": "do not say they can be swapped"
+  },
+  {
+    "id": "swp-8",
+    "family": "swap",
+    "question": "Is substitution allowed so corporate bonds replace the Treasuries that were posted?",
+    "expect": "RELATED",
+    "must_say": "do not say they can be swapped"
+  },
+  {
+    "id": "lnd-1",
+    "family": "lend",
+    "question": "We hold Meridian's collateral, and our treasury wants to lend it out overnight. Is that allowed?",
+    "expect": "NOT_IN_PASSAGES",
+    "must_say": "do not say collateral may be lent"
+  },
+  {
+    "id": "lnd-2",
+    "family": "lend",
+    "question": "Can our treasury lend out Meridian's collateral overnight?",
+    "expect": "NOT_IN_PASSAGES",
+    "must_say": "do not say collateral may be lent"
+  },
+  {
+    "id": "lnd-3",
+    "family": "lend",
+    "question": "Is it allowed to lend the collateral we hold for Meridian?",
+    "expect": "NOT_IN_PASSAGES",
+    "must_say": "do not say collateral may be lent"
+  },
+  {
+    "id": "lnd-4",
+    "family": "lend",
+    "question": "Meridian posted bonds. Can we on-lend that collateral overnight?",
+    "expect": "NOT_IN_PASSAGES",
+    "must_say": "do not say collateral may be lent"
+  },
+  {
+    "id": "lnd-5",
+    "family": "lend",
+    "question": "Can the desk rehypothecate Meridian's collateral overnight?",
+    "expect": "NOT_IN_PASSAGES",
+    "must_say": "do not say collateral may be lent"
+  },
+  {
+    "id": "lnd-6",
+    "family": "lend",
+    "question": "We hold Apex collateral. Can we repo it overnight?",
+    "expect": "NOT_IN_PASSAGES",
+    "must_say": "do not say collateral may be lent"
+  },
+  {
+    "id": "lnd-7",
+    "family": "lend",
+    "question": "Is lending out Vanguard's collateral overnight allowed?",
+    "expect": "NOT_IN_PASSAGES",
+    "must_say": "do not say collateral may be lent"
+  },
+  {
+    "id": "lnd-8",
+    "family": "lend",
+    "question": "Marina's collateral is sitting with us. Can we lend it overnight?",
+    "expect": "NOT_IN_PASSAGES",
+    "must_say": "do not say collateral may be lent"
+  },
+  {
+    "id": "sml-1",
+    "family": "small_increase",
+    "question": "Our exposure to Vanguard rose by a small amount this morning. Do we have to call them?",
+    "expect": "NOT_IN_PASSAGES",
+    "must_say": "not a figure"
+  },
+  {
+    "id": "sml-2",
+    "family": "small_increase",
+    "question": "Vanguard exposure moved by a slight increase this morning. Do we have to call them?",
+    "expect": "NOT_IN_PASSAGES",
+    "must_say": "not a figure"
+  },
+  {
+    "id": "sml-3",
+    "family": "small_increase",
+    "question": "Apex exposure had a tiny increase this morning. Do we have to call them?",
+    "expect": "NOT_IN_PASSAGES",
+    "must_say": "not a figure"
+  },
+  {
+    "id": "sml-4",
+    "family": "small_increase",
+    "question": "There was a modest bump in Marina's exposure. Do we have to call?",
+    "expect": "NOT_IN_PASSAGES",
+    "must_say": "not a figure"
+  },
+  {
+    "id": "sml-5",
+    "family": "small_increase",
+    "question": "Meridian is a little higher on exposure this morning. Do we have to call them?",
+    "expect": "NOT_IN_PASSAGES",
+    "must_say": "not a figure"
+  },
+  {
+    "id": "sml-6",
+    "family": "small_increase",
+    "question": "Zenith exposure changed by a small amount. Is a call required?",
+    "expect": "NOT_IN_PASSAGES",
+    "must_say": "not a figure"
+  },
+  {
+    "id": "sml-7",
+    "family": "small_increase",
+    "question": "Kaveri's exposure ticked up a small amount. Do we have to call?",
+    "expect": "NOT_IN_PASSAGES",
+    "must_say": "not a figure"
+  },
+  {
+    "id": "sml-8",
+    "family": "small_increase",
+    "question": "A small amount of extra exposure showed up on Vanguard. Do we have to call?",
+    "expect": "NOT_IN_PASSAGES",
+    "must_say": "not a figure"
+  },
+  {
+    "id": "arr-1",
+    "family": "arrival",
+    "question": "It's 2pm and a call was sent this morning. When must the money arrive?",
+    "expect": "RELATED",
+    "must_say": "not when the money must arrive"
+  },
+  {
+    "id": "arr-2",
+    "family": "arrival",
+    "question": "The collateral call went out this morning. When must the money arrive?",
+    "expect": "RELATED",
+    "must_say": "not when the money must arrive"
+  },
+  {
+    "id": "arr-3",
+    "family": "arrival",
+    "question": "It is 2pm. When does the money have to arrive for the collateral call?",
+    "expect": "RELATED",
+    "must_say": "not when the money must arrive"
+  },
+  {
+    "id": "arr-4",
+    "family": "arrival",
+    "question": "When is the arrival deadline for the collateral that was called this morning?",
+    "expect": "RELATED",
+    "must_say": "not when the money must arrive"
+  },
+  {
+    "id": "arr-5",
+    "family": "arrival",
+    "question": "A margin call was sent this morning. When must it arrive?",
+    "expect": "RELATED",
+    "must_say": "not when the money must arrive"
+  },
+  {
+    "id": "arr-6",
+    "family": "arrival",
+    "question": "By what time does the cash arrive after a collateral call?",
+    "expect": "RELATED",
+    "must_say": "not when the money must arrive"
+  },
+  {
+    "id": "arr-7",
+    "family": "arrival",
+    "question": "Notice went out at 11. When does the money need to arrive on the call?",
+    "expect": "RELATED",
+    "must_say": "not when the money must arrive"
+  },
+  {
+    "id": "arr-8",
+    "family": "arrival",
+    "question": "A call was sent before lunch. When must the money arrive?",
+    "expect": "RELATED",
+    "must_say": "not when the money must arrive"
+  },
+  {
+    "id": "cls-1",
+    "family": "close_out",
+    "question": "Apex missed its payment and was downgraded in the same week. Can we close everything out?",
+    "expect": "APPLIED",
+    "must_say": "do not close out"
+  },
+  {
+    "id": "cls-2",
+    "family": "close_out",
+    "question": "Apex missed a payment. Can we close out the trades?",
+    "expect": "APPLIED",
+    "must_say": "do not close out"
+  },
+  {
+    "id": "cls-3",
+    "family": "close_out",
+    "question": "After the downgrade, can we close-out everything with Apex?",
+    "expect": "APPLIED",
+    "must_say": "do not close out"
+  },
+  {
+    "id": "cls-4",
+    "family": "close_out",
+    "question": "Can we close the positions with Meridian because they were downgraded?",
+    "expect": "APPLIED",
+    "must_say": "do not close out"
+  },
+  {
+    "id": "cls-5",
+    "family": "close_out",
+    "question": "Zenith missed collateral. Can we close everything?",
+    "expect": "APPLIED",
+    "must_say": "do not close out"
+  },
+  {
+    "id": "cls-6",
+    "family": "close_out",
+    "question": "Is a close-out allowed after Vanguard's downgrade?",
+    "expect": "APPLIED",
+    "must_say": "do not close out"
+  },
+  {
+    "id": "cls-7",
+    "family": "close_out",
+    "question": "Marina missed collateral. Can we tear up the trades?",
+    "expect": "APPLIED",
+    "must_say": "do not close out"
+  },
+  {
+    "id": "cls-8",
+    "family": "close_out",
+    "question": "Kaveri was downgraded. Can we close out the collateralised trades?",
+    "expect": "APPLIED",
+    "must_say": "do not close out"
+  },
+  {
+    "id": "exm-1",
+    "family": "exemption",
+    "question": "Our two banks trade swaps, and both are below the size at which regulators require upfront margin. Are they exempt?",
+    "expect": "APPLIED",
+    "must_say": "do not grant a regulatory exemption"
+  },
+  {
+    "id": "exm-2",
+    "family": "exemption",
+    "question": "Both banks are small. Are they exempt from upfront margin?",
+    "expect": "APPLIED",
+    "must_say": "do not grant a regulatory exemption"
+  },
+  {
+    "id": "exm-3",
+    "family": "exemption",
+    "question": "Do the passages exempt these two banks from upfront margin?",
+    "expect": "APPLIED",
+    "must_say": "do not grant a regulatory exemption"
+  },
+  {
+    "id": "exm-4",
+    "family": "exemption",
+    "question": "Regulators require upfront margin above a size. Our two banks are below it. Are they exempt?",
+    "expect": "APPLIED",
+    "must_say": "do not grant a regulatory exemption"
+  },
+  {
+    "id": "exm-5",
+    "family": "exemption",
+    "question": "Is there an exemption from upfront margin for these two banks?",
+    "expect": "APPLIED",
+    "must_say": "do not grant a regulatory exemption"
+  },
+  {
+    "id": "exm-6",
+    "family": "exemption",
+    "question": "The pair is under the regulatory size for upfront margin. Are they exempt?",
+    "expect": "APPLIED",
+    "must_say": "do not grant a regulatory exemption"
+  },
+  {
+    "id": "exm-7",
+    "family": "exemption",
+    "question": "Can we treat the two banks as exempt from upfront margin?",
+    "expect": "APPLIED",
+    "must_say": "do not grant a regulatory exemption"
+  },
+  {
+    "id": "exm-8",
+    "family": "exemption",
+    "question": "Neither bank is large enough for the upfront margin rule. Are they exempt?",
+    "expect": "APPLIED",
+    "must_say": "do not grant a regulatory exemption"
+  },
+  {
+    "id": "fx-1",
+    "family": "fx_mismatch",
+    "question": "We receive Euro-denominated bonds against a dollar swap. Do we haircut the value further?",
+    "expect": "APPLIED",
+    "must_say": "additional 8 percent"
+  },
+  {
+    "id": "fx-2",
+    "family": "fx_mismatch",
+    "question": "We take euro bonds against a USD swap. Do we haircut the value further?",
+    "expect": "APPLIED",
+    "must_say": "additional 8 percent"
+  },
+  {
+    "id": "fx-3",
+    "family": "fx_mismatch",
+    "question": "Collateral is in EUR and the swap settles in dollars. Is there a further haircut?",
+    "expect": "APPLIED",
+    "must_say": "additional 8 percent"
+  },
+  {
+    "id": "fx-4",
+    "family": "fx_mismatch",
+    "question": "Euro cash is posted on a dollar exposure. Do we haircut the value more?",
+    "expect": "APPLIED",
+    "must_say": "additional 8 percent"
+  },
+  {
+    "id": "fx-5",
+    "family": "fx_mismatch",
+    "question": "The fund posted euros. Settlement is USD. Is an extra haircut applied?",
+    "expect": "APPLIED",
+    "must_say": "additional 8 percent"
+  },
+  {
+    "id": "fx-6",
+    "family": "fx_mismatch",
+    "question": "Does a euro bond versus a dollar swap take a further haircut?",
+    "expect": "APPLIED",
+    "must_say": "additional 8 percent"
+  },
+  {
+    "id": "fx-7",
+    "family": "fx_mismatch",
+    "question": "EUR collateral, USD settlement. Do we haircut the value for the mismatch?",
+    "expect": "APPLIED",
+    "must_say": "additional 8 percent"
+  },
+  {
+    "id": "fx-8",
+    "family": "fx_mismatch",
+    "question": "We receive euros and pay dollars on the swap. Is the haircut higher?",
+    "expect": "APPLIED",
+    "must_say": "additional 8 percent"
+  }
+]

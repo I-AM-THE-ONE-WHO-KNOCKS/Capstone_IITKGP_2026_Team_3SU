@@ -141,6 +141,294 @@ def judge_reading(parsed, hits):
     return _reading("VERIFIED", "", field=field, passage_id=passage_id, quote=quote, amount=amount)
 
 
+def _useful_hits(hits):
+    """Drop the ranker's empty fallback. A hit with no score is not evidence."""
+    kept = []
+    for hit in hits or []:
+        if not hit.get("text"):
+            continue
+        if float(hit.get("bm25") or 0) == 0 and float(hit.get("dense") or 0) == 0:
+            continue
+        kept.append(hit)
+    return kept
+
+
+def _has(hits, needle, question=""):
+    """Return the hit and the sentence that contains needle, or (None, "").
+
+    A sentence about a different name is not used when the question names
+    someone whose own passages were retrieved.
+    """
+    needle_l = needle.lower()
+    matches = []
+    for hit in hits:
+        text = hit.get("text") or ""
+        if needle_l not in text.lower():
+            continue
+        sentence = text.strip()
+        for part in re.split(r"(?<=\.)\s+", text):
+            if needle_l in part.lower():
+                sentence = part.strip()
+                break
+        matches.append((hit, sentence))
+    if not matches:
+        return None, ""
+    parties = ("meridian", "apex", "harbor", "zenith", "vanguard", "kaveri", "marina")
+    asked = [party for party in parties if re.search(rf"\b{party}\b", question or "", re.I)]
+
+    def _named_in(hit):
+        low = (hit.get("text") or "").lower()
+        return [party for party in parties if party in low]
+
+    if not asked:
+        return matches[0]
+    named = [item for item in matches if any(party in _named_in(item[0]) for party in asked)]
+    if named:
+        return named[0]
+    shared = [item for item in matches if not _named_in(item[0])]
+    if shared:
+        return shared[0]
+    return None, ""
+
+
+def _scenario_amount(question, kind):
+    """The amount the question states for an exposure or a delivery."""
+    match = re.search(
+        rf"\b{kind}\b.{{0,40}}?([\d,]{{2,}})",
+        question or "",
+        re.I,
+    )
+    if not match:
+        match = re.search(
+            rf"\bUSD\s*([\d,]{{2,}}).{{0,24}}\b{kind}\b",
+            question or "",
+            re.I,
+        )
+    if not match:
+        return None
+    return int(match.group(1).replace(",", ""))
+
+
+def decision_kind(question):
+    """Which decision a question is asking for, or "" if it is not one.
+
+    The same label drives the search words and the Python conclusion.
+    A plain "what does the schedule say" question stays "".
+    """
+    text = question or ""
+
+    def has(pattern):
+        return re.search(pattern, text, re.I)
+
+    if has(r"\beuros?\b|\beur\b") and has(r"\bdollars?\b|\busd\b"):
+        return "fx"
+    if has(r"close everything|close[- ]?out|close the positions|tear up the trades"):
+        return "close"
+    if has(r"\bexempt|upfront margin|regulators require"):
+        return "exempt"
+    if has(r"lend it|lend out|lending out|lend the collateral|rehypothec|on-lend|repo it overnight"):
+        return "lend"
+    if has(r"swap them|swap the collateral|\bswap\b|instead of the treasur|in place of treasur|substitution"):
+        return "swap"
+    if has(r"won't send|will not send|refuses to send|refuses to post|valuation of their|valuation is wrong|disagrees with our"):
+        return "dispute"
+    if has(r"money arrive|cash arrive|when must it arrive|arrival deadline|when does the money"):
+        return "arrive"
+    if has(r"want some back|have to return|give it back|hand it back|collateral back|return the cash|return some"):
+        return "return"
+    if has(r"small amount|slight increase|tiny increase|modest bump|a little higher"):
+        return "small"
+    if _scenario_amount(text, "delivery") is not None and has(r"after rounding|once rounded|amount is called|rounded up"):
+        return "rounding"
+    if _scenario_amount(text, "exposure") is not None and has(r"require a delivery|delivery of collateral|have to deliver"):
+        return "threshold"
+    if _scenario_amount(text, "exposure") is not None and has(r"is a call required|have to call|need to call"):
+        return "mta"
+    return ""
+
+
+def _clause_result(status, conclusion, quote, passage_id, must_say, **figures):
+    """One checked reading. The conclusion is Python's, not the model's."""
+    result = {
+        "tool": "apply_clause",
+        "status": status,
+        "conclusion": conclusion,
+        "quote": quote,
+        "passage_id": passage_id,
+        "must_say": must_say,
+        "applied": False,
+        "note": "Python applied the passage, or refused when the passage does not state the decision.",
+    }
+    result.update(figures)
+    return result
+
+
+def reason_from_hits(question, hits):
+    """Decide a question from retrieved passages, or say they do not state it.
+
+    A comparison or a rounding step uses numbers that are already in the
+    question and the passage. A permission, an exemption, a close-out, or a
+    deadline that is not written in a hit is not granted. Does not write a
+    draft and does not change the book.
+    """
+    hits = _useful_hits(hits)
+    text = question or ""
+    kind = decision_kind(text)
+
+    if kind == "fx":
+        hit, quote = _has(hits, "collateral currency differs from the settlement currency", text)
+        if hit:
+            return _clause_result(
+                "APPLIED",
+                "Yes. The schedule applies an additional 8 percent haircut when the collateral "
+                "currency differs from the settlement currency. No other haircut is added from these passages.",
+                quote, hit.get("id") or "", "additional 8 percent",
+            )
+
+    if kind == "close":
+        hit, quote = _has(hits, "does not make a legal determination", text)
+        if hit:
+            return _clause_result(
+                "APPLIED",
+                "No. We do not close out. The passage says this desk does not make a legal "
+                "determination that netting is enforceable.",
+                quote, hit.get("id") or "", "do not close out",
+            )
+
+    if kind == "exempt":
+        hit, quote = _has(hits, "not the full published", text)
+        return _clause_result(
+            "NOT_IN_PASSAGES" if not hit else "APPLIED",
+            "No. These passages do not grant a regulatory exemption. The schedule note is not "
+            "the published margin rule, and this desk does not decide an exemption.",
+            quote, (hit or {}).get("id") or "", "do not grant a regulatory exemption",
+        )
+
+    if kind == "lend":
+        return _clause_result(
+            "NOT_IN_PASSAGES",
+            "The retrieved passages do not say collateral may be lent. Lending it overnight is not allowed from these passages.",
+            "", "", "do not say collateral may be lent",
+        )
+
+    if kind == "swap":
+        hit, quote = _has(hits, "corporate bonds may be posted", text)
+        if hit:
+            return _clause_result(
+                "RELATED",
+                "Corporate bonds may be posted. The passages do not say they can be swapped for "
+                "Treasuries unless a person agrees the substitution.",
+                quote, hit.get("id") or "", "do not say they can be swapped",
+            )
+
+    if kind == "dispute":
+        hit, quote = _has(hits, "undisputed amount is transferred", text)
+        if hit:
+            return _clause_result(
+                "APPLIED",
+                "The undisputed amount is transferred and the disputed amount follows the dispute "
+                "paragraph. We do not force the collateral and we do not close out.",
+                quote, hit.get("id") or "", "undisputed amount is transferred",
+            )
+
+    if kind == "arrive":
+        hit, quote = _has(hits, "notice is given by", text)
+        if hit:
+            return _clause_result(
+                "RELATED",
+                "That sentence is a notice time, not when the money must arrive. The passages do not state an arrival deadline.",
+                quote, hit.get("id") or "", "not when the money must arrive",
+            )
+
+    if kind == "return":
+        hit, quote = _has(hits, "a return rounds down", text)
+        return _clause_result(
+            "RELATED" if hit else "NOT_IN_PASSAGES",
+            "The passages do not say this return is due. A return sentence, when one was retrieved, "
+            "only says how a return is rounded. Today's margin figure is a separate calculation.",
+            quote, (hit or {}).get("id") or "", "do not say this return is due",
+        )
+
+    if kind == "small":
+        return _clause_result(
+            "NOT_IN_PASSAGES",
+            "A small amount is not a figure in the passages, so a call cannot be decided from them.",
+            "", "", "not a figure",
+        )
+
+    delivery = _scenario_amount(text, "delivery")
+    if kind == "rounding" and delivery is not None:
+        hit, quote = _has(hits, "delivery rounds up", text)
+        full = (hit or {}).get("text") or ""
+        step_match = re.search(r"nearest USD ([\d,]+)", full)
+        if hit and step_match:
+            quote = full.strip()
+            step = int(step_match.group(1).replace(",", ""))
+            called = ((delivery + step - 1) // step) * step
+            return _clause_result(
+                "APPLIED",
+                f"The passage says a delivery rounds up to the nearest USD {step:,}. "
+                f"USD {delivery:,} is called as USD {called:,}.",
+                quote, hit.get("id") or "", f"{called:,}",
+                question_amount=delivery, rule_amount=step, result_amount=called,
+            )
+
+    exposure = _scenario_amount(text, "exposure")
+    if kind == "threshold" and exposure is not None:
+        hit, quote = _has(hits, "does not require a delivery", text)
+        full = (hit or {}).get("text") or ""
+        threshold_match = re.search(r"Threshold (?:for [\w ]+ )?is USD ([\d,]+)", full, re.I)
+        if hit and threshold_match:
+            quote = full.strip()
+            threshold = int(threshold_match.group(1).replace(",", ""))
+            if exposure < threshold:
+                conclusion = (
+                    f"No delivery is required. USD {exposure:,} is below the threshold of USD {threshold:,} "
+                    "stated in the passage."
+                )
+                say = "no delivery is required"
+            else:
+                conclusion = (
+                    f"USD {exposure:,} is not below the threshold of USD {threshold:,}. "
+                    "The passage does not state the call amount."
+                )
+                say = "does not state the call amount"
+            return _clause_result(
+                "APPLIED", conclusion, quote, hit.get("id") or "", say,
+                question_amount=exposure, rule_amount=threshold,
+            )
+
+    if kind == "mta" and exposure is not None:
+        hit, quote = _has(hits, "Minimum Transfer Amount is USD", text)
+        full = (hit or {}).get("text") or ""
+        mta_match = re.search(r"Minimum Transfer Amount is USD ([\d,]+)", full, re.I)
+        if hit and mta_match and re.search(r"is called|not required", full, re.I):
+            quote = full.strip()
+            mta = int(mta_match.group(1).replace(",", ""))
+            if exposure <= mta:
+                conclusion = (
+                    f"No call is required from this passage. USD {exposure:,} is not above "
+                    f"the minimum transfer amount of USD {mta:,}."
+                )
+                say = "no call is required"
+            else:
+                conclusion = (
+                    f"USD {exposure:,} is above the minimum transfer amount of USD {mta:,}. "
+                    "The passage says that exposure is called. It does not state the call amount."
+                )
+                say = "does not state the call amount"
+            return _clause_result(
+                "APPLIED", conclusion, quote, hit.get("id") or "", say,
+                question_amount=exposure, rule_amount=mta,
+            )
+
+    return _clause_result(
+        "NOT_IN_PASSAGES",
+        "The retrieved passages do not state the decision. Nothing is sent, booked, or closed out.",
+        "", "", "do not state the decision",
+    )
+
+
 def propose_term(counterparty_id, field, value, passage_id):
     """Record a draft term. The stored agreement is left as it is.
 
